@@ -7,4 +7,4 @@ Google AI Mode archive updated 2026-10-08.
 - [Portable archive ZIP](output/BookNook-Google-AI-Mode-2026-10-08.zip)
 - [Capture manifest](archive/google-ai-mode/2026-09-29/manifest.json)
 
-Coverage: 124 of 124 conversations in the cumulative archive, 759 prompt/response pairs. 0 missing conversations are recorded in the manifest and PDF.
+Coverage: 125 of 125 conversations in the cumulative archive, 760 prompt/response pairs. 0 missing conversations are recorded in the manifest and PDF.

@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-08T21:04:49.889907+00:00",
+  "date": "2026-10-08",
+  "batchId": "2026-10-08-late",
+  "openAiModeTabs": 2,
+  "uniqueOpenConversations": 2,
+  "method": "Read-only DOM extraction from open Chrome tabs, with saved-URL recovery for new conversations.",
+  "records": [
+    {
+      "ordinal": 125,
+      "tabId": "1037241527",
+      "title": "pin prick of cathedral antenna architectural and micro and macroscopic press and spark and electronic charge transfer and mirror images - Google Search",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 118,
+      "tabId": "1037241498",
+      "title": "sounds like there is a lot of interest as in accumulating cost sunk cost fallacy stop losses games .io us https://youtu.be/YgF98vyn2fY?is=TxVZAFHeE_ZFt0R8 - Google Search",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 29,
+        "responses": 29
+      }
+    }
+  ],
+  "newOrdinals": [
+    125
+  ],
+  "observedOpenAiModeTabs": 99,
+  "scopeDescription": "Incremental addition: one new conversation captured and the recently active conversation 118 checked unchanged. Other conversations retain their previous captures."
+}
