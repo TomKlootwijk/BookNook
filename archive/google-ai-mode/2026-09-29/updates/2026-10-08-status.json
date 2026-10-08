@@ -1,11 +1,14 @@
 {
   "date": "2026-10-08",
-  "status": "incomplete_google_verification_required",
-  "newConversationsCaptured": 48,
-  "capturedConversations": 90,
-  "promptResponsePairs": 571,
-  "additionalExchanges": 236,
-  "pendingNewConversations": [
+  "status": "all_scoped_conversations_captured",
+  "capturedConversations": 117,
+  "scopeCount": 117,
+  "promptResponsePairs": 707,
+  "missingConversations": [],
+  "recoveredConversations": [
+    25,
+    30,
+    32,
     64,
     67,
     68,
@@ -31,12 +34,174 @@
     116,
     117
   ],
-  "priorMissingConversations": [
-    25,
-    30,
-    32
+  "embeddedDiagrams": [
+    {
+      "ordinal": 8,
+      "messageIndex": 3,
+      "path": "assets/08-response-2-chart-1.svg"
+    },
+    {
+      "ordinal": 104,
+      "messageIndex": 5,
+      "path": "assets/104-response-3-chart-1.svg"
+    },
+    {
+      "ordinal": 12,
+      "messageIndex": 5,
+      "path": "assets/12-response-3-chart-1.svg"
+    },
+    {
+      "ordinal": 15,
+      "messageIndex": 11,
+      "path": "assets/15-response-6-chart-1.svg"
+    },
+    {
+      "ordinal": 17,
+      "messageIndex": 3,
+      "path": "assets/17-response-2-chart-1.svg"
+    },
+    {
+      "ordinal": 17,
+      "messageIndex": 5,
+      "path": "assets/17-response-3-interactive-1.svg"
+    },
+    {
+      "ordinal": 18,
+      "messageIndex": 3,
+      "path": "assets/18-response-2-chart-1.svg"
+    },
+    {
+      "ordinal": 23,
+      "messageIndex": 13,
+      "path": "assets/23-response-7-chart-1.svg"
+    },
+    {
+      "ordinal": 23,
+      "messageIndex": 15,
+      "path": "assets/23-response-8-chart.svg"
+    },
+    {
+      "ordinal": 32,
+      "messageIndex": 17,
+      "path": "assets/32-response-9-chart.svg"
+    },
+    {
+      "ordinal": 33,
+      "messageIndex": 5,
+      "path": "assets/33-response-3-chart-1.svg"
+    },
+    {
+      "ordinal": 36,
+      "messageIndex": 5,
+      "path": "assets/36-response-3-chart-1.svg"
+    },
+    {
+      "ordinal": 36,
+      "messageIndex": 9,
+      "path": "assets/36-response-5-chart-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 1,
+      "path": "assets/42-response-1-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 3,
+      "path": "assets/42-response-2-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 5,
+      "path": "assets/42-response-3-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 7,
+      "path": "assets/42-response-4-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 11,
+      "path": "assets/42-response-6-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 13,
+      "path": "assets/42-response-7-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 15,
+      "path": "assets/42-response-8-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 19,
+      "path": "assets/42-response-10-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 21,
+      "path": "assets/42-response-11-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 23,
+      "path": "assets/42-response-12-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 25,
+      "path": "assets/42-response-13-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 27,
+      "path": "assets/42-response-14-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 29,
+      "path": "assets/42-response-15-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 31,
+      "path": "assets/42-response-16-interactive-1.svg"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 33,
+      "path": "assets/42-response-17-interactive-1.svg"
+    },
+    {
+      "ordinal": 67,
+      "messageIndex": 1,
+      "path": "assets/67-response-1-trefoil.svg"
+    },
+    {
+      "ordinal": 70,
+      "messageIndex": 11,
+      "path": "assets/70-response-6-chart.svg"
+    },
+    {
+      "ordinal": 79,
+      "messageIndex": 3,
+      "path": "assets/79-response-2-chart-1.svg"
+    }
   ],
-  "blocker": "Google Search displayed an unusual-traffic reCAPTCHA during saved-URL recovery. Completion or action-time authorization is pending from the user.",
-  "recoveryTabId": "1037241109",
-  "temporaryFiles": "tmp/intake-2026-10-08"
+  "note": "All 27 earlier gaps recovered after user-authorized Google verification. Rendered pages checked again for complete thread counts and separate embedded visuals. Interactive trefoil is preserved as a static SVG with its displayed control settings.",
+  "sourceWidgetErrors": [
+    {
+      "ordinal": 23,
+      "messageIndex": 7,
+      "note": "The embedded widget displayed: “Something went wrong loading the metaballs simulation.”"
+    },
+    {
+      "ordinal": 42,
+      "messageIndex": 17,
+      "note": "The embedded widget displayed: \"An error occurred loading the Svalbard Register simulator.\""
+    }
+  ]
 }

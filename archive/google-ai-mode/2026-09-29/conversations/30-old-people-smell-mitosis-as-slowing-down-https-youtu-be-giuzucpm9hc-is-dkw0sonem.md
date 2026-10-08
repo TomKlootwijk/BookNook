@@ -1,0 +1,226 @@
+# old people smell mitosis as slowing down https://youtu.be/GIuZUCpm9hc?is=Dkw0SONEmWEiR0Vx as a forced stage of evolution double hadamard product
+
+Captured: 2026-10-08T05:06:24.680Z
+
+Source: https://www.google.com/search?q=old+people+smell+mitosis+as+slowing+down+https%3A%2F%2Fyoutu.be%2FGIuZUCpm9hc%3Fis%3DDkw0SONEmWEiR0Vx+as+a+forced+stage+of+evolution+double+hadamard+product&client=ms-android-xiaomi-terr2-rso2&hs=wfhq&sca_esv=f99720549e6c8e01&sxsrf=APpeQnslCQkqBvMnJrhkbADmZZ-OGazLdQ%3A1790422047000&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4LpKPoHZrc4HVz9uOAATjT2whS8aQNdsb1nn47m_ZQdHEbTK5SS_MwQC37e5E4gotGYV1H5ZQsZjp1RtD8PdPd4csCivIVJ7rgCeflKgPql4GU66jnRaHdqvubBXQtXK6qbdRzU6MmplLM7JXuxhZLD719AW&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiQze_wkYyXAxWyg_0HHWqINA4Q2J8OegQIDRAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDMG0TRhqpn0SiLnjczgc5HKTv5fIMxkw9kWUSXvHNibmZAkp57W8tnRD_T6TtkW_5ljjai3ID9VUMwbSxVpm2totSSKwTIZKiD76fwND3qa_x2KAigdzuOAGS5t52dnPTLrxN-cMkX2EaKbqhikPtuDfVzDdDOxX1Dq0aXJbTX1A4HmMdD1fN1GyvqFWvMYbozMLqb4C9-7RbVqExqHC9XuXH073xKnQRd9cDMHiB3-b4jrJkyZRiptC8AEeY7-F9QtYcGM0BgZpJRagW9DNhF9FUQba3G6SsMHsByGuepHKoFwCydgN7ZF069s74BEx9MuzmhP7DsAw&csuir=1&mtid=IKy3auKqMbmo9u8P76KF6A0&udm=50
+
+## Prompt 1 — You
+
+old people smell mitosis as slowing down https://youtu.be/GIuZUCpm9hc?is=Dkw0SONEmWEiR0Vx as a forced stage of evolution double hadamard product
+
+## Response 1 — Google AI Mode
+
+**No scientific link exists** connecting the biological cause of "old people smell" to a slowing down of mitosis, a forced stage of evolution, or a "double Hadamard product."
+
+The concepts listed span entirely different fields of science, music, and mathematics. The specific breakdown of these terms clarifies how they actually operate:
+
+### 1. Old People Smell (Skin Chemistry)
+
+The distinct scent associated with older individuals is a real biological phenomenon caused by the compound **2-nonenal**. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAJFBMVEVHcEwlquElquElquElquElquElquElquElquElquElquElquGTNHASAAAAC3RSTlMAzlOzpHOGPekmDxMvrNwAAATNSURBVHiczVvZgusgCK1rjP7//94u01YjR4HMmMvLTFujRzaB4O12hoIpxW2npjhDOZUnuavWL8Xst5u9/7kGQHpvPRV/xfrxu/FSLtCDvZTP/1v1/zIyJdQf4ur1t5KqT3k9C0yx9Udf82MFHbe8r2ZBPArdLDaEUnL7hV3rD7fe+a2VgW9VEHz1h0Rsd1spA0ICa2UQKat3C+0gUZu1f34mbiF69yBvgyOoJE993ZBaUa3/iX5eEZAtStKdWbtvZwl3eStJc2Js5jjLftOurwCQu+Xv5pbVAMQiCMQkRq8CYg4Q23/sIi4CsNOTWBoXi0QiAOuf0UERB9D6Z3RQAgCun07ooEQEcA5PmgaT+BzAehZuHv72ewAGhnbGCNgiGKnZGSNgc2C0x4F6/BqAbTTH+NcJMUWQ0PMmBnvbT+gAjwNgi+n7tNVi4AGgw432WaUz4omAfHQ/joJyGhGLA+Tmcj9Og4AFgJJAt3/IqTGxRMAGrrBHDgcoLwiGdrbgwmaH4RIHAKEC6LEDC9KPoAaHFUcExGELx4JhmAkcDvT4cSW2GVvlptBAOAB6I8BJZ82tumwH3RRHBNEfCWeUu/sMavLO7LpJ+kH/LYV4JFx42KtRv7Y5iQ7UsjbN9wO5zUhtBZW7fnooo8RAGDEc25jb1ww+jFEVkAkTQls5JC9vTgXGowMiUqIEhnbqEre8h9YLGeIgn1APAOwDZm88/kGi4gFyG9yIRFq+o1I/Sgj8wFT6Wo+ao0cgCYyFCOiouBXlLosIZQhAqGW+LnkXFwplegB35++exTZVUzaJbGGQdWR1airyB3iL+txYpAbYxZxIzkVCgGHlmeqABAAUwlAHfNj2e2KAPITobERFGgwgfa00AwaKWACcAQTQSpgqskuPJRoBAtAZGZUeCT0yiQDUyAgjp8QgA0AioAGQ2TshBWlokHtb2CgAIN/pB8pf7B0k+Qx0t+4kAg/3QkCx3YCaY/dtyAfZwISvZ4EcwP1k+kD4SrB11fCY6Q9tUlnmEF7qVBtRw134YB/cafOl/Ohaa1LEalL82r4/0860urTcc+ZNCef8OZmW0uJeGx1tFhAahbP33M3BUUIYbjfKXn2PPXzvSjkigADqh5up4VQ6K8AJRzWo8dGQr/1UnC4PDODrSFsPgzw8EdRwQuNRyvXaQJcVgZmIkICx/iTnc5kIF2lXRITWrIhkknSSAQGpW0Rcy6rWTwBYMmAmlIuah3UWTQCADpYOATkNZ/0ZgAiq8a0p0BEt75XVBICDL8/jx8bQWz1efjoBMGphST6EEGHtgNluNyu9cItjPTHDoSkAbXrK7TecAVC/vudWKGYAtA0M7GBoNj2ywwnx88IZAGUTC3v9KYCk6mAQJARTCWsamSTtplMACjMQtbtOAcjNQJaQTWf3wna+JHxlMQUgbGgU1wTm/JVoYZJ3O88BCLRQkwvOAXDbepWp6BwAq7E5RV0xgvUqZh/7QuOilb+skxBobl931+jy9v7LLzhcfsWDutHill5yufyaz+UXna6/6tVfdlPUoU+Ra12BO1UD1VB7v++CC4/HK5/ra7C5MgR7xaXXuyG89S5fcu33cSaa9/rL79y+6BXxXXf1+xO7XHLx+0XWpOS0odeL/gFiUgqQArQgIwAAAABJRU5ErkJggg==)Sciencing +1
+
+* As the body ages (often beginning around age 40), the skin's antioxidant defenses decline.
+* This allows **omega-7 unsaturated fatty acids** in skin sebum to oxidize.
+* The breakdown product of this oxidation is 2-nonenal, an aldehyde that carries a distinct grassy, waxy, or book-like aroma. It is entirely a byproduct of lipid peroxidation on the skin surface, not cell division. 
+
+  ![](data:image/png;base64,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)National Institutes of Health (NIH) | (.gov) +4
+
+### 2. Mitosis and Aging (Cellular Biology)
+
+Mitosis is the process of cell division. While cellular senescence (where cells stop dividing) and mitotic decline (errors or slowing down of the mitotic machinery) are major hallmarks of aging, they happen inside the body's dividing cells (such as fibroblasts). This cellular slowdown is not what produces the surface-level skin oils that generate 2-nonenal. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAJsUlEQVR4nO2df4xcVRXHPwwGFwNJTaqkaw0IaGNrrPIHKckSFYNNJIh90TTSkI4jGan7umgpRbrtlv5CaKuly2uVF3w+rdY01dcIKYkIaMImbUCboClSsmC1tQa2STE1dLdhrX/c6aTrzo9375z3Zuiez3+beee8k5nvzJ573zn3gKIoiqIoiqIoiqIoU4WLGr1YLJXfA9wE3AZ8GvgoMD2HuLJmbxyFnpWFF1wJvAJ0WViNA28CfwX2A88Cz5P471jdO0NqCqDywX8TuA/4cK4R5cf8OAqftrLwgpXAxhbvOwL8HNhG4v+9RV8tM0kAxVJ5FrAbmJt/OLkyDHwijsKx1BZe0AX8BbhW4P7jQAj0k/gnBfw5UTj/j2KpPA84wIX/4YP5EJdZWST+KPBtoftfDCwB/ogXzBHyaU31F6DyzX8RuLxdwbSBUeDjcRQesbLygieAWwXjOALMIfHfFvSZigJU/+fvZmp9+GASuh842N2NEY8UVwErBf2l5ty/gG8xNX72a7GgWCp/wcoi8f8GfE84jnvxgmuEfTalUPn2L8/7xh3GYLFUfq+lzSbgdcEYLgEGBf2looBZ51+oS720zMItIewTjuOLeMEtwj4bUgDm53nDDmagWCrbfRESfx/wpHAcg5XlZi4UgBvyulmH0ykJ4dXACkF/DSlgtncVw1c6JCG8v7L1nDkFLoy9fUlcE8IjgjF0AVsF/dWl0PySKYdrQni3cBwL8IKbhX1OQgVQG5eE8AngKeE4HsULLhH2OQEVQG26gM0Odn3AGcE4ZiH37KEmKoD6LCyWyp+1skj813ATTiNW4QUzhX1WUQE0Zntlp9SGDcgmhJcDWwT9TUAF0JjZwHesLLJJCBfiBZ8R9gmoANIwUCyV7X6Cs0kIt+MFtr9GTVEBNOcy3H6CpRPCOUCvoD9ABZCWTkkIH8ALPiDpUAWQHpeE8EHgH4IxTKP1otQJqADS45IQvo38Ov5OvOA6KWcqADsGiqVyt5VF4u8FfisYw0XA9p5FKxv2dKRFBWDHZXTGDuG8odPdiyQcqQDsud0hIXwV+YRwE17QchGvCsCNTkgIZwADrTpRAbgxG1hqZZFNQtiHF3ysFQcqAHfWFkvlGVYW8glhy5XEKgB3XB/SSCeE8/GCL7kaqwBawzUhlC732upaSawCaB2XhHAdcEwwhquxLWOroAJoHdeE0OkDa8Bql8IRFYAMa4ul8getLBJ/D/CcYAxdOOQkKgAZXBPCJcgmhNaFIyoAOe4olso9VhbZJIRWhSMqAFmCDkgI5wDltBerAGSZizlrIT3ZJIQb8YL3p7lQBSDPhg5ICFMXjqgA5Gllh3BcMI4yXvDJZhepALLBJSE8hGxCeDEQNLtIBZAdrgnhvwRjuBEvWNjoAhVAdszFnLaansQ/hW3dYXO24AXvq/eiCiBbXBLC3cgmhDNpcASdCiBbpgEPOdhJJ4T34AUfqfWCCiB7vl45gjc98glhF/D9Wi+oAPLhRx2QENY8cUQFkA+dkhBu/f/nBCqA/HBNCJ8XjGFSg6kKID9cE8IlyCaEExpMVQD54poQSp4hPOE5gQogf7Zff/tq2/d9DbIJYbXBVAWQP9fN7nrjTisLkxBKnuhebTBVAbSHh4ulstUJrT2XHv8lsgnhvKHT3YtUAO1hGnC/jcHQLx48i/wh0htVAO1jr4PNl4Vj+I0KoD3siqNwyMrCNIFKbgyNAGtUAPnzH9wSukFMM6gU/ST+SRVA/qyLo9BuSWeaPyUnuxy8vuuNH4MuA/PmMLZP+UzT5zbhOHpf2LX+v6ACyJu+OAptB0evwMwVlGIniX/g3B8qgPzY6zCs+kosl4tNOIUZCF5FBZAPo7g1f2zFblx9MzaQ+BPyDxVAPjzkMJ/4ZmCBYAyHqTEVTQWQPUexfQxsijYeFY5jKYk/Kf9QAWRPbxyFY5Y2yzDjYqR4ksT/Xa0XVADZ8kwchXaTRb1gBrBKMIYzNBhgoQLIjnHAd7B7GNNfKMXmynDLmqgAsmNzHIWHrSy8oAe4QzCGY5gTSuuiAsiGf+KW+Env+C2vnD9QFxVANtwXR+G/LW3KgNgcAOC5SlVxQ1QA8uwfHpu+y8rCVOlKTgIZx7SXNUUFIMs4sKRSvWPDWkyVkBQ7KtXETVEByPJYHIUvWVmY6ty7BGMYwVQRp0IFIMcJGrRh16Iy9mU7pkpXin4S/2Tai1UAcvTbJn5Dp7sXA3aNIo2pFnqkRQUgw8GXR6943MrCjHvZJBxHtdAjLSoAGazfeEziJzkEMj6/0CMtKoDW+UkchXZvvBfMIeUyLSWncOwZUAG0xinguw52g5hj3KRYTeKPuBiqAFpjVRyFb1pZeMFXgZsEYziEWUk4oQJw52Vgh5WFOa5tUlVOi9Qs9EiLCsCdXocK35WYY9uk2E3i/74VByoAN3bHUfgHKwsvuAa4VzCGUQRaxlUA9ozi9kFuRba1az2J3/KcARWAPeviKDxqZeEFtwC3CsbwOkK5hArAjmFs33jT2vWIcBx9JP6ohCMVgB3LHCt8rxWM4SkSf5+UMxVAevY5VPjOBFYLxnAG2R1EFUBKRnGr8N2CbGvXZhL/NUF/KoCUPOLQ2vU5oOGwBkuaVvi6oAJozlHgASuLbFq7mlb4uqACaM49DolfL+ZcXilSVfi6oAJozDNxFO6xsjAVvusFY0hd4euCCqA+rq1dm5Bt7Upd4euCCqA+2xxau+YBiwVjsKrwdUEFUJsTmIkdqakcAC1d4bvCpsLXBRVAbZbbVvi+MHrFN5Bt7TrQc+nxnwr6q0kB2WEEFwL7h8em/8zKwgxqlmztOgv0OnQYWVMAjmd9k3cZSx1buyQrfB8n8Q8K+qtLAfhzHjd6l7AjjsI/WVmYAc12I+Mb8xbQL+ivIQXg2bxu1uG8hWXGXWntCpCt8O13rfB1oQDsQfMAMBW+J2wMhk53fw24UTCGQ0Ao6K8phTgKjwG/yvOmHchLwGNWFqa1a4twHHe1UuHrwrll4BrMI8+piu9Q4dsPzBCMYSeJbzdDQIACQGXHayDvm3cInTC84QgNjnLLkupG0PDY9C3AznYE0UZcp3FJDm8YAW7LesevHlUBVNa+JaaWCNY7DG9YgNzwhkNAD4nftqX4hK3gOArfGR6bvhjzc3Sh5wSuwxskyrHHgR8CN5D4rwr4c6bug4tiqXwVZntzIbLr3E5hvsP5/QOYXT9XzmJWXBva+a0/n6ZProqlcjdGBJ8HPgV8KOugcmBvHIWelYUZ3vAK9kWeI8CLwNPAryW6eRRFURRFURRFURRFUVz4H5CfnkA4ZABHAAAAAElFTkSuQmCC)National Institutes of Health (NIH) | (.gov) +3
+
+### 3. The YouTube Link: "Forty Six & 2" by TOOL
+
+The provided link (`https://youtu.be/GIuZUCpm9hc`) points to the progressive metal band **TOOL** and their song **"Forty Six & 2"**. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/ADP/ADP/ADP/ADP/////hpT/2uH/Smj/s8D/JEv/b4eB3bNwAAAACHRSTlMAQB+z1GXri3bBstgAAAKRSURBVHic7ZrpduMwCIUrGW1xMn3/t602J25s59RARGeG+zd1+Y4QaLsfHyqVSqVSqVSqv0C2yCxyxh0r/9pVP7L4kKaGCSFMVTBBke+KO/Jx+bX+af6kKP+HUMnMD2mscSVmC7YXB6UKVXCceYlhQonLFnYXBSCYo/DTW0OvNO0h2GHhK8ImE/a9I7+RfxoEMzj+M4GB0fFjhBXB2PwvWs2DIBE/xiCZgKJ7EoQGIEbXZ4DQAOQhaLPASMWP0chmoOdApgabghWdAn0SWLn4MVrZOdhmoZMEcLJF0LqxYBHkBSkDCBZBLoMMMHwrspbPAJLxY0S1geuVD8Bi2sBlvv2RBUgpfTIBGEwfKgBp5smDQwOkdONAcJhG2AHSfKEjBApAQaADIDrxA4Ceh4kKkIglSQcg5mHCrEVPAKSSBBaAPBWweeACSOmCQwDMarwLkOZPDILnA8h5QCwQHrMdOALIJXl+NrICYEqSGeB8SbIDnC3JNwCcGwR+gJOLAzvA2UL4t6pgRvRj1k6IWBQZW/HtilsLuFZD5EGBazlGb4qAYUtG2pmy7AkpxzSGXTFyK8QFQD8XkE5GmD3Qd5GOZrhd4DMA/nRMS34X/nh+Y4heAXA3JKTSW8vg7ojIp/K7rPwtmfg9ofxNqfhdsfhtufh7gfiLifibkeSrmf8d74bSL6fib8fyr+dyOVhcJNIOCjkPyd1GI9QMlwH4BT4ikWYE3/xso71sWzfbcDfd1lk5tBjDJnydioNGwe86KitCmADeSuEBpkNPaWMwzcsLnPbWbqotDt/XrtoHRjUyd2dx9xYDPKzFR3EWU3HzFN9Nxa4ZnX8UeheneavX9upXst1VXT5Dx1SpVCqVSqX6j/QFgvdUtSxW0v0AAAAASUVORK5CYII=)YouTube
+
+* The song explores themes based on Jungian philosophy and the ideas of Dr. Carl Jung regarding the "shadow" self.
+* It also references a speculative metaphysical concept proposed by Bob Frissell: that humans currently possess 44 autosomes and 2 sex chromosomes (46 total), and that the next stage of human evolution will involve a transition to **46 chromosomes plus 2** (48 total).
+* While the lyrics mention changes in the human state, this is a piece of musical art and metaphoric philosophy, not an established scientific mechanism for physical evolution.
+
+### 4. Double Hadamard Product (Mathematics)
+
+The **Hadamard product** (also known as the element-wise product) is a strict mathematical operation where two matrices of the same dimensions are multiplied element by element. It belongs to the domain of linear algebra and matrix mathematics and has no structural or functional relationship to evolutionary biology, genetics, or body odor.
+
+### Summary Comparison
+
+| Concept | Actual Domain | True Function |
+| --- | --- | --- |
+| **Old People Smell** | Dermatology / Lipid Chemistry | Oxidation of omega-7 fatty acids into **2-nonenal** on the skin. |
+| **Slowing Mitosis** | Cellular Biology | Age-related decline in cell division and increase in cellular senescence. |
+| **"Forty Six & 2"** | Music / Metaphysics | A song by the band **TOOL** exploring evolutionary metaphors and Jungian psychology. |
+| **Hadamard Product** | Linear Algebra | An element-wise matrix multiplication operation. |
+
+These terms do not share a unified scientific framework; rather, they seem to be grouped together as a creative, conceptual mashup of music, mathematics, and biological aging terms.
+
+### Source links
+
+- [Sciencing](https://www.sciencing.com/1936932/old-people-smell-explained-by-science/)
+- [National Institutes of Health (NIH) | (.gov)](https://pubmed.ncbi.nlm.nih.gov/11286617/)
+- [National Institutes of Health (NIH) | (.gov)](https://pubmed.ncbi.nlm.nih.gov/10741968/)
+- [YouTube](https://www.youtube.com/watch?v=GIuZUCpm9hc)
+
+## Prompt 2 — You
+
+so it forms aldehide as a bacterial layer and the bonds break?
+
+## Response 2 — Google AI Mode
+
+![](data:image/webp;base64,UklGRk4BAABXRUJQVlA4IEIBAABQCACdASogACAAPtE+tFooIigoFAEAGglsAJ0yhHUHunGpPNwANsBuOfPA6iXeRkaBtQKfv9FpgvTYzrP25lBgGw3QV0UqiBHj1WAA/v0vIO/YE1y+h+0cwXMEdrN8BVP+eau9+4F7f4WWVE7xUT/56WUO5P59EG8lD4i1hR+8e4pR7oz/YPenhfIIBhe54fRF7+wvKcx/lqrG4O7a4TUVT+lzsqgc+fss2KtH3yV3dq7BdzCGKMY/bXu996ArEwtL+ikAHq2oo9GyGqy2lNhuM5+YtBn2Hx0ZdvWk/90S+ZAwR03s4GrtikFf5fQFhXCILWyKxLkPSg08jKS6KBQG64AkcTDPJQ+ARbzxwjXxucXQRVQh1y5yBKdnJeMS9sP811XS+HVO0/L1oGg7K9WEn6AzHGTkdofe5roUShJYAAAA)
+
+![](data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D/yUtsol8oAD+/sOTEDgs8NL15VX/wv4F/6dBNd4/gi1U/kXUxqPcXsFtGjMlHL/iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH/+a5ZDrRWvXo+9H2GTsj5x3b/VzXmclGgeq4YJB/JffNIrdNH2uGUzJ2PgPtuu+F8C185JL/0VELY6ah1IOx3+tE/Lg7whjT9VJtLQ/hW7fvNm7vEEGvHOJUWo6xVUyKM/eZfcqIAA)
+
+![](data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAADwBgCdASocABwAPtEutFooIagoGAEAGgllAMTbLf4AaQKZn46HxH6kq2eU2134t+v5u5enynk5G7/1HdJFmjYQAP7+wsu7bO5g1ywTrr0XWRA+uqLr38vkKDs2rbNUbUq6X+/CB0rP3tfdu5/QU6xQ35y6GjPROkxqSJo+0nOZj3lQHl7ZDCkfRU2SKnKUunAFX/VbTY23E/7o4U9vO3jEGvPWjoh9+OeVsSX7XXIig8O1hVm4Af7nIsegQN5OKatYbKIhY4P0FGj8MDTtLNHzZq+wvlPUxqWP5+AdUXwCW0OPiv5/Ou+gtXxKJmZBt3IRQlm3nJE4XZnnZ6C0MFyaiMfH4gmrQXYzCMOLmTduTC6BA8S6YfI8wjLe5aIn9eaUoKNhOlnAQKHZHMYcb7984WpOx9sDPG+i9zonryukB9tncNZx6cvnz9Lj+lhVLbX069Dd0uamMGfEnz1I7JP0/iAdUAiAL5AgAA==)
+
+10 sites
+
+### Here are top web results for exploring this topic:
+
+![](data:image/webp;base64,UklGRk4BAABXRUJQVlA4IEIBAABQCACdASogACAAPtE+tFooIigoFAEAGglsAJ0yhHUHunGpPNwANsBuOfPA6iXeRkaBtQKfv9FpgvTYzrP25lBgGw3QV0UqiBHj1WAA/v0vIO/YE1y+h+0cwXMEdrN8BVP+eau9+4F7f4WWVE7xUT/56WUO5P59EG8lD4i1hR+8e4pR7oz/YPenhfIIBhe54fRF7+wvKcx/lqrG4O7a4TUVT+lzsqgc+fss2KtH3yV3dq7BdzCGKMY/bXu996ArEwtL+ikAHq2oo9GyGqy2lNhuM5+YtBn2Hx0ZdvWk/90S+ZAwR03s4GrtikFf5fQFhXCILWyKxLkPSg08jKS6KBQG64AkcTDPJQ+ARbzxwjXxucXQRVQh1y5yBKdnJeMS9sP811XS+HVO0/L1oGg7K9WEn6AzHGTkdofe5roUShJYAAAA)
+
+Super Deodorant Laboratories·https://superdeodorant.com
+
+Old People Smell: What **2**-**Nonenal** Science Actually Says
+
+When these are attacked by oxidation on the skin surface, they break down, and one of the fragments is 2-nonenal. The reaction is pushed along by lipid peroxides already present in the film, in partic
+
+![](data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D/yUtsol8oAD+/sOTEDgs8NL15VX/wv4F/6dBNd4/gi1U/kXUxqPcXsFtGjMlHL/iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH/+a5ZDrRWvXo+9H2GTsj5x3b/VzXmclGgeq4YJB/JffNIrdNH2uGUzJ2PgPtuu+F8C185JL/0VELY6ah1IOx3+tE/Lg7whjT9VJtLQ/hW7fvNm7vEEGvHOJUWo6xVUyKM/eZfcqIAA)
+
+National Institutes of Health (NIH) | (.gov)·https://pmc.ncbi.nlm.nih.gov
+
+Lipid Peroxidation Generates Body Odor Component trans-**2** ... - PMC
+
+trans-2-Nonenal is an unsaturated aldehyde with an unpleasant greasy and grassy odor endogenously generated during the peroxidation of polyunsaturated fatty acids. 2-Nonenal covalently modified human
+
+![](data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAADwBgCdASocABwAPtEutFooIagoGAEAGgllAMTbLf4AaQKZn46HxH6kq2eU2134t+v5u5enynk5G7/1HdJFmjYQAP7+wsu7bO5g1ywTrr0XWRA+uqLr38vkKDs2rbNUbUq6X+/CB0rP3tfdu5/QU6xQ35y6GjPROkxqSJo+0nOZj3lQHl7ZDCkfRU2SKnKUunAFX/VbTY23E/7o4U9vO3jEGvPWjoh9+OeVsSX7XXIig8O1hVm4Af7nIsegQN5OKatYbKIhY4P0FGj8MDTtLNHzZq+wvlPUxqWP5+AdUXwCW0OPiv5/Ou+gtXxKJmZBt3IRQlm3nJE4XZnnZ6C0MFyaiMfH4gmrQXYzCMOLmTduTC6BA8S6YfI8wjLe5aIn9eaUoKNhOlnAQKHZHMYcb7984WpOx9sDPG+i9zonryukB9tncNZx6cvnz9Lj+lhVLbX069Dd0uamMGfEnz1I7JP0/iAdUAiAL5AgAA==)
+
+iconic-elements.com·https://iconic-elements.com/en/the-mysterious-scent-of-time-2-nonenal-the-scent-of-the-elderly/
+
+The mysterious scent of time: **2**-**Nonenal**, the scent of the elderly
+
+But why do we only smell it in the elderly? 2-Nonenal. Interestingly, researchers discovered that nonenal becomes really noticeable in body odor from the age of 40 onwards. The explanation for this is
+
+![](data:image/webp;base64,UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE+tFooIigoFAEAGglsALElQTQC6PtBBgNsB+unQgeoDeAPRA8rv9gPg6/b70VSl7HDAh2KGltr/EST6IruifoRgONCl9gA/v0tEq9NvcR+Rj2Ix8in+HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3/g3UGj9+QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75/Z6k9Jqrun3e8o7+p+M5EG4xy+NEmA+F0NSLLvl8MrchY4o056X+2V9rEKs6IfzAaCAfv7ofdGt+zr4e8tGnllzUB+vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA)
+
+ScienceDirect.com·https://www.sciencedirect.com
+
+Nonanal - an overview | ScienceDirect Topics
+
+At least one study has suggested an antimicrobial function for olive fruit and olive oil. Specifically, researchers studied the antifungal activity of the aliphatic aldehydes in olives—hexanal, nonana
+
+![](data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAABQCQCdASogACAAPrUurVanIacnG/DgFolsAJ0yhHAizuEBywH6Z+4D9AN4B/7PT/85n2AN5cRoMkBHhEbNEtd7H4D3uIAtN7tCiOzyzIPxHlu2QAD+kbdhoxkcm0C68L3ye59kkHWFzpUN8YOX4f3uEZSJCWiKZj01daQ+8B7AXEIU93/4WGIQWiPbt0udK4aL12fz6GA2B/8CrUA+1i29amSKfcgYob/HwAXcABCsANin3037wnQmev1kv8AMNXb95+CRa0Wuja0WubVwzzkS2no0ZVxsf/x2TSy47ePovMx95XDw7UZGM3B6/duN60+e2IX1+2fRo5Rsz6aRe9Q/RCNuWzuV9cZtVg8mE4OGmkL/zWPsJCWU768oDlkf+k+YksZYyNEUWs2RQMkAypJ9ChpKdNrmNuefL3vKxdG3LAwrOeGITcj+cPytXrpgKMsTU/CUZ/CsGB3Q78swAA==)
+
+ScrubJack·https://scrubjack.com
+
+Solving 'Old Man Smell': The Science of **2**-**Nonenal** and Back Hygiene
+
+People Also Ask: The Science of Aging Odor. "What causes 'old person smell' in men?" It is caused by the oxidation of omega-7 unsaturated fatty acids on the skin. As we age, our bodies produce more of
+
+![](data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD+/p4cSWBHjd47XoD/L//ak+L9vPnHTdV3QJYy/4H++A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj/iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo+wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB+zDWPAw2S+q3fSs9GxrbQsWuhASW0Ozt6j/QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA)
+
+ResearchGate·https://www.researchgate.net
+
+**2**-**Nonenal** Newly Found in Human Body Odor Tends to Increase ...
+
+2-Nonenol is an unsaturated aldehyde produced when omega7 unsaturated fatty acids on skin are exposed to lipid peroxides which initiate a chain reaction of oxidative degradation associated with an "oi
+
+![](data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA/vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3+/rM6qzQWc8D3etVbTfBEeNbqJu+10k1h5hVXEe/3vpL5NJSAtUHvrJ6e/LkA//pZx+xvTn7v+qaIRjl47m2LoP17C7tcoPGgAAA=)
+
+Wikipedia·https://en.wikipedia.org
+
+**2**-**Nonenal** - Wikipedia
+
+2-Nonenal. Article · Talk. Language; Download PDF; Watch · Edit. 2-Nonenal is an unsaturated aldehyde. The colorless liquid is an important aroma component of aged beer and buckwheat, and is insoluble
+
+![](data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAADwBQCdASocABwAPtEutFooIagoGAEAGglqAMixoDbACnj3QCsi13AWY3jeSE8kXP3gnmhDP+Tq6AD+7mZvnFWx8hQbIAfk/Mjv1fLFmJs8KMfz0xoKMg2DX5G+fIAVazcuRcfzsMHHeLK3e9dDbEu2AkjC1Rp4hri+ebcTjChh979xV8qr/g1mV1ina4f20Q9WfvPos1XgikAzAskx5av/ool21lDb/YbtxKbFfJR3N44z+NqP7/2W+z7P41dtxt2uN8GCtz47XdezCj77stKS9/ArCtCRq29enrahYEZ8ekz3R4Xp5fp0eFYAAA==)
+
+National Institutes of Health (NIH) | (.gov)·https://pubmed.ncbi.nlm.nih.gov
+
+**2**-**Nonenal** newly found in human body odor tends to increase with ...
+
+... that omega7 unsaturated fatty acids and lipid peroxides also increased with aging and that there were positive correlations between the amount of 2-nonenal in body odor and the amount of omega7 un
+
+![](data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglpAAPjR9EewBukqvgOo133wUJLm6nq80Xl6ttC8s5gAAD+/p4cSWBHjd47XoD/L//ak+L9vPnHTdV3QJYy/4H++A0f8z97ifV1Nwf8nfwmIgVsFo4tSqrTj/iUC1Y0uYgnHaC4JlHZSnysNOdHzhvt1waGOlWj34iqHkpw2UYb9Nv580pvKo+wdjpXJcc7KFSgkwoo4yxsrA1pXqfmy38bGIkjL5gA7P2RhRTNgB+zDWPAw2S+q3fSs9GxrbQsWuhASW0Ozt6j/QK6Fxm86bjdDMIgagy35R0f3ekyldj2wAAA)
+
+ResearchGate·https://www.researchgate.net
+
+Body odour **aldehyde** reduction by acetic acid **bacterial** extract ...
+
+Therefore, a novel method of reducing body odour more safely and effectively is required. We focused on acetic acid bacterial enzymes, which can convert aldehydes into carboxylic acids, and investigat
+
+![](data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAABQBQCdASocABwAPtEutFooIagoGAEAGglAE6ZY/AdO16g4BvH5ukPsImpEVphEt0DeAkAA/vDCAB0KrH9xS+6k/9qf7ov6FHj/w43GYvpv3TblaK9dj/fbicr8XsDFsrnSsjZDe0UDVHa7ih+zG04T/MUZ7eY9jazd0h8ZNHN98t5n2QpYp7zP+PisCczcOlniC6SH7uneh9Mm1vcvx6PjhfF8Frc9ZW0P6JKhj4aPEm2v5idx3/2G2Jh1cMf/iy2X8+m7CQ0pVlISoolMKtaPPGSMhmKduT+WVInS21uivWP/VBX9n/2ZuLv9Myo7stoClMedEOHo2gAA)
+
+EBSCO·https://www.ebsco.com
+
+**Aldehydes** | Chemistry | Research Starters - EBSCO
+
+Aldehydes are organic compounds characterized by the presence of a carbonyl group (C=O) bonded to one or two hydrogen atoms. This unique structure gives rise to distinct physical properties, such as a
+
+### Source links
+
+- [Old People Smell: What 2-Nonenal Science Actually Says](https://superdeodorant.com/blogs/odour-science/2-nonenal-old-people-smell-what-the-science-says)
+- [Lipid Peroxidation Generates Body Odor Component trans-2 ... - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2865286/)
+- [The mysterious scent of time: 2-Nonenal, the scent of the elderly](https://iconic-elements.com/en/the-mysterious-scent-of-time-2-nonenal-the-scent-of-the-elderly/)
+- [Nonanal - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/nursing-and-health-professions/nonanal)
+- [Solving 'Old Man Smell': The Science of 2-Nonenal and Back Hygiene](https://scrubjack.com/blogs/our-articles/solving-old-man-smell-the-science-of-2-nonenal-and-back-hygiene)
+- [2-Nonenal Newly Found in Human Body Odor Tends to Increase ...](https://www.researchgate.net/publication/12046519_2-Nonenal_Newly_Found_in_Human_Body_Odor_Tends_to_Increase_with_Aging)
+- [2-Nonenal - Wikipedia](https://en.wikipedia.org/wiki/2-Nonenal)
+- [2-Nonenal newly found in human body odor tends to increase with ...](https://pubmed.ncbi.nlm.nih.gov/11286617/)
+- [Body odour aldehyde reduction by acetic acid bacterial extract ...](https://www.researchgate.net/publication/325741657_Body_odour_aldehyde_reduction_by_acetic_acid_bacterial_extract_including_enzymes_alcohol_dehydrogenase_and_aldehyde_dehydrogenase)
+- [Aldehydes | Chemistry | Research Starters - EBSCO](https://www.ebsco.com/research-starters/chemistry/aldehydes/)
+
+## Prompt 3 — You
+
+yes but bacteria follows
+
+## Response 3 — Google AI Mode
+
+You are exactly right—**bacteria
+
+absolutely do follow, interact with, and change because of this process**. 
+
+![](data:image/png;base64,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)Assisting Hands +1
+
+While the creation of 2-nonenal itself is a purely chemical oxidation event, the changes in your skin lipids and the breaking of those bonds trigger a secondary wave of bacterial activity. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAh1BMVEX///9gYmYAUpRcXmKKi4329vbq6uoAUJMATJEATpIASpDb6PDv9fgAR49ZW19WWF1Zgq74+/23ydy8vb7U4OvU1dYAQ43g4eGWmJrL2eYAV5nCw8VydHgaXZvp8PVnaW1/osN6fH80cqerwtdIfK2nqKuNqchhi7UqaaJskrqfoKKxsbSWss7SLPmRAAAEZ0lEQVR4nO2abXuqMAyGKeh4UUE3dc6JorJNPfv/v++cnV3XmqZQ0jbuU5/vktvw0KRpoygoKCgoKCgoSNcDXeBXE0ULx9jj1e0gLPQqf/q4TqFO571D/OdNWdrET44gB20B4sf57PRiHX91sAr/T+Wb/PXLNo2hsvrRNn6VWMYXonqWv3/PFIA4306s4j8c7eOLZCMfMK1zlaD4sAK42eb/mwD6sFBfQpqfLeKPK5f4ItmNfx6x+CjUFGQni0/h1Q1A9WGtpiAuGjqA2xv4EvThTAVI13Qfbhws+F/JRi570y3yYXYlA4xcAUQFfZg7+9AdQBygD/FicJneHwD6cIlsGM+a+wOIw0o+p8E+3C7vD5CM5HP2F82HtNrsAyCqJ/mgR/QO0hnNh14AYifr8mKOfViTUuAHoPgQAcSz9/sDCAF8+I5KQlpTehNPgOQoHzXRfEipy74ZKKEPUQriNaE58gVIdrA/xD4k1GVfAFHe5MOWqD+Ms2EfegOICvoQpYCwHvoDJCNZlPYXnIL5/QFEAn2ISkI8uB5yAEAfztGXkLcDPmQAECVo0pdafzjgQw4AURrWwzgz94csANCHC60/NK+HLADqepih/jA1+pAHQAjDPiU/mfpDJgCjD439IVcGlLqMF4PU4EMuAOjDqU1/yJaB6o98qNYfZv0+ZAMQB0N/mF5+AQD6cD8j+5APQPGhtk+p++oyI0CyAyk4aethjw85M6D4MMUvoac/5AQQOzC0aHGTfulOASsA9OEkps1tWAGMdbnHh7wAcHim+7C9P4BIoA/XaEFcd62HzADiAH1I2adwA1SmFjnv+BS5XwGc5OMhcjbv+BK5MwBmd5/aHqHrM2D+DMHUSG/Qm4743J8hsOBVGx129kWsAKaPsG94ygkAHbigLUPM1dC0UY97GgJGANWBOAF9W0RGALgI6k1hX2fOB6CMCXAZ6GtHGAGUQtgSHcgKABz4aTGy5AKAw7IJ7gdNh1hcANCB2va4NmyPmQBgFT6jBKSFaUDAAwAdOMUOLLqqMHcGDJvzgaE5z4wItuN4SDVwfMWTAdAGXbVP0HyAxwGgOBAdYcbpwMieY1J6BBMqrQobHciUAcO2PM6HxuX+AO4DMq4MgDZI7wMHj0y8AdRhvdWQlAUAOjDSjiva4bNLbwBQhBq8BuWEixSeAOajgmY4vieAcliiXWI4UW6SeAK49YFsAPDgdqqtgSdKfE8AeJUHFyHiFQofAPOhaUOK7wOgHhtrY0HidS4PgMpwoW34wNIfQBkNa30gYQ30BYCNOH04rsn5Lhm8PjJB/59+jSmK3hxv05kPjLfk+NHK8T4hdOAZ/X/TEZEuxwTAQzLy4USnXp1MYHQg9RrZt8YjBxcoe2G8Bq4bm/hR9LBzIJA51q4SUtogRDCyNWIJHYgMMGvt7jV/afx0SMqErhI4MKqL7Ed5lqVX6lVKVavbZkQXcOC5nQNdP+3/vswDXeBXU0Xu0YOCgoKCgoJ+W38BmapeLozpw5kAAAAASUVORK5CYII=)National Institutes of Health (NIH) | (.gov) +2
+
+The chemical shifts and the microbial "following" connect through several key mechanisms:
+
+### 1. Bacteria Generate the Raw Materials
+
+Before oxygen can break down the fats on the skin, resident skin bacteria (like *Cutibacterium acnes* and *Staphylococcus* species) use enzymes called **lipases** to break down large triglycerides in your sebum. This digestive process by the bacteria releases the free fatty acids (like palmitoleic acid) that later oxidize into aldehydes. In short, bacteria prepare the fuel, and oxygen ignites it. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAb1BMVEUAAAD///9vcHDBw8MGBgb09vaanJxISUkeHh4lJSX7/f2Ehobb3t4XFxdsbW15eHgrKyt/f39XWFhfYGDLzs49Pj0ZGhpDREOQkpLt7+9SU1Ocnp7X2dlNTk67vb1bXFzh5OSytLQPDw8yMjKqra32hWOhAAABIklEQVRIie2UzZKCMBCEpwOi8iOigIiIyO77P+POAA5ULYGjF77TpKo7mZ4EiDY2vs0pNsbEka5z91OdE5Nc/huuYFJVUZipdQfcZo7w2GB0tUegdYHrXE8HNji6cnDXusJ8Cocdx6E+cl3qTt684cmiQvvz9bgH8nkD3fHpw/UxHofKoqdA+0hg2NJ3csHTZsg1th9Kol1Xh5bIQs2OQ5em5I2BFy1EFm4sCoZNXb6ulCRyZDdQAzQyUxlWwe7zUmQhYdGe3mipv0iPSntkIepEQ/JaYjsLkYU3ED7w09Vykd5SZEFia9cNX/di5F7UT1MwbKhX9BRjfKZtN4IVWl8fINEvmjW9zGZ8m9nkK7JySieLKrPqxp6mYxn/BBsb3+cP84cJrVCAO+kAAAAASUVORK5CYII=)Wiley Online Library +2
+
+### 2. A Shifting Skin Microbiome
+
+As human skin ages, its physical properties alter: the pH becomes more alkaline, moisture drops, and natural antioxidant protection fades. This altered environment disrupts the youthful balance of your skin's microbiome. The "good" bacteria that usually keep the skin healthy decrease, allowing other odor-amplifying bacteria to step in, multiply, and thrive on the newly altered lipid layers. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAh1BMVEX///9gYmYAUpRcXmKKi4329vbq6uoAUJMATJEATpIASpDb6PDv9fgAR49ZW19WWF1Zgq74+/23ydy8vb7U4OvU1dYAQ43g4eGWmJrL2eYAV5nCw8VydHgaXZvp8PVnaW1/osN6fH80cqerwtdIfK2nqKuNqchhi7UqaaJskrqfoKKxsbSWss7SLPmRAAAEZ0lEQVR4nO2abXuqMAyGKeh4UUE3dc6JorJNPfv/v++cnV3XmqZQ0jbuU5/vktvw0KRpoygoKCgoKCgoSNcDXeBXE0ULx9jj1e0gLPQqf/q4TqFO571D/OdNWdrET44gB20B4sf57PRiHX91sAr/T+Wb/PXLNo2hsvrRNn6VWMYXonqWv3/PFIA4306s4j8c7eOLZCMfMK1zlaD4sAK42eb/mwD6sFBfQpqfLeKPK5f4ItmNfx6x+CjUFGQni0/h1Q1A9WGtpiAuGjqA2xv4EvThTAVI13Qfbhws+F/JRi570y3yYXYlA4xcAUQFfZg7+9AdQBygD/FicJneHwD6cIlsGM+a+wOIw0o+p8E+3C7vD5CM5HP2F82HtNrsAyCqJ/mgR/QO0hnNh14AYifr8mKOfViTUuAHoPgQAcSz9/sDCAF8+I5KQlpTehNPgOQoHzXRfEipy74ZKKEPUQriNaE58gVIdrA/xD4k1GVfAFHe5MOWqD+Ms2EfegOICvoQpYCwHvoDJCNZlPYXnIL5/QFEAn2ISkI8uB5yAEAfztGXkLcDPmQAECVo0pdafzjgQw4AURrWwzgz94csANCHC60/NK+HLADqepih/jA1+pAHQAjDPiU/mfpDJgCjD439IVcGlLqMF4PU4EMuAOjDqU1/yJaB6o98qNYfZv0+ZAMQB0N/mF5+AQD6cD8j+5APQPGhtk+p++oyI0CyAyk4aethjw85M6D4MMUvoac/5AQQOzC0aHGTfulOASsA9OEkps1tWAGMdbnHh7wAcHim+7C9P4BIoA/XaEFcd62HzADiAH1I2adwA1SmFjnv+BS5XwGc5OMhcjbv+BK5MwBmd5/aHqHrM2D+DMHUSG/Qm4743J8hsOBVGx129kWsAKaPsG94ygkAHbigLUPM1dC0UY97GgJGANWBOAF9W0RGALgI6k1hX2fOB6CMCXAZ6GtHGAGUQtgSHcgKABz4aTGy5AKAw7IJ7gdNh1hcANCB2va4NmyPmQBgFT6jBKSFaUDAAwAdOMUOLLqqMHcGDJvzgaE5z4wItuN4SDVwfMWTAdAGXbVP0HyAxwGgOBAdYcbpwMieY1J6BBMqrQobHciUAcO2PM6HxuX+AO4DMq4MgDZI7wMHj0y8AdRhvdWQlAUAOjDSjiva4bNLbwBQhBq8BuWEixSeAOajgmY4vieAcliiXWI4UW6SeAK49YFsAPDgdqqtgSdKfE8AeJUHFyHiFQofAPOhaUOK7wOgHhtrY0HidS4PgMpwoW34wNIfQBkNa30gYQ30BYCNOH04rsn5Lhm8PjJB/59+jSmK3hxv05kPjLfk+NHK8T4hdOAZ/X/TEZEuxwTAQzLy4USnXp1MYHQg9RrZt8YjBxcoe2G8Bq4bm/hR9LBzIJA51q4SUtogRDCyNWIJHYgMMGvt7jV/afx0SMqErhI4MKqL7Ed5lqVX6lVKVavbZkQXcOC5nQNdP+3/vswDXeBXU0Xu0YOCgoKCgoJ+W38BmapeLozpw5kAAAAASUVORK5CYII=)National Institutes of Health (NIH) | (.gov) +3
+
+### 3. The Multi-Layered Scent Profile
+
+Because bacteria follow and adapt to these changing skin oils, an older individual's body odor is rarely caused by 2-nonenal alone. Instead, it is a combination of: 
+
+![](data:image/png;base64,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)Super Deodorant Laboratories
+
+* **The chemical side:** The oxidized, broken lipid bonds (yielding the waxy, book-like scent of 2-nonenal).
+* **The bacterial side:** The metabolic byproducts of shifting bacterial colonies processing sweat and oils. 
+
+  ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAANlBMVEVHcEwAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAABlZWUqKirS0tLZ2dnw8PCNjY28vLwaGhpmrXPXAAAACnRSTlMAkf//QrbVaO0cb7tWzQAABA9JREFUeJzlnMmWozAMRWPwCCmG///ZhqRIgGD7WbJSi9Y2fUoXDR5kqW+3cglBa+eUMsZYa41yTgfCnyFJ0E4Z631zFL9gKHGMRbk5az6JNXIUWtm08pc1Foj66rPffmaoaofgSrT/iqnmi+BA238guCr6qepXsXxPaENX/0Tg6VcE55/EMFJCM6y/E0X1AyX2L4Xmh8D0/kEIRqiqfzFCaSRUcv9bfJkbdGX1q5gCN+ha4UckkPj+VTwYCDLf/yCAAkFOP0YQBPUvkiWonP8fkrWBsP4mZwNX9Lf6cZyLAZI2KAnAuZuG9t4XA6SyMeALcDf+tItQABIEClZ/H9qWDNDYyJqIBUDfTe1LaACNpTugf5qeCdAomgMOH88CuErG7BbUHT+eB3ARiJklaNzirg5AY0oi8NP0fICzExJ7QD/eI+pZAKdcjBqgn65MXwHglAmxFJz7z8irBNDsTZBIgU4MYG+CVAqMUgC7KEjugnM8BnkAu0RILoJzHw9DHsBrLcidA+NhwAPwmw+y22A0E3gALx9kD4JSAAbzgByABT0gBtBozANyAA7zQB5g7vuu78vP6Ao6iWQAunH6/X0Y7mNXZBOTXYVyAE133i1/pg4HeKzGwFk0CjBcLtN3GGEFQG5DyS35SkYQYD0aIreBYoB2AgNSY/fhBMBPZKeaMACHXUfiAGPfRX7EvKCwC3E6Da9/GqBIVNiFkAKAOcEIArTIkmSxKzkNAIkCLwmA+MBjVSkawID4QBQAyQNkJ5AFgOpiNAAoCm+IfkEA/98D2L+OASOZBRiA4DqAAEjuhhCAw16oRAGkDiQYgGYeybgAnnso5QKs9wLkQCAGsL6msu4FbADsbioHoLDbuRyAS1VpvwGg2ddzHoAHS0RiAM8qWfg7gGedEFgLpQA0WKeUAtjK5cw6IR1gK1bnN0QhgK1UnA8CGYD3g0V2JZABeD8d8sr1ZID342l2JRAB8OCblRjA/tEs5wMiwE+qQHB4Oc3lAREgaYLjw2kmD6gAQ6Jeenw6zhyLqAAJE5x7KNI+IANEo+CjgSEdhvchImtNuov9uEgbq9J8NJGkw7DvIrJ+4Bz7cfsHF3LRyAP3EFWRix6Wgi4qvnw0kHzZBJFeru+ZINJPV9bKx5DLNqovOiHWyibeTrrpTzT3fsUJyeZieSdkmlqle2rzbb3SYZBvbJbsq0b0y3W2o/oFbQDPOAgRoM39N6GNsWTAQiIbS+dsKq9IxUM2/CGzvfjo9peSUGHO7CnkabNQNGUZE9a8nWZbgTvux3SErzF6GsrmXffqyXN+ZyF5wquqw79a2RIIW2ngdS8BZrCVp453DMHlILzg7PdG4SLj7+sY/tem8B//AcA6/7+O/z/m/3Ug6v4HNYyMWN/mJNgAAAAASUVORK5CYII=)Healthline +3
+
+Would you like to explore **how the skin's pH changes** to allow these new bacteria to take over, or look into specific ingredients like **persimmon extract** that target both the chemical aldehyde and the bacteria?
+
+### Source links
+
+- [Assisting Hands](https://assistinghands.com/112/florida/thevillages/blog/how-to-prevent-body-odor-in-seniors/)
+- [National Institutes of Health (NIH) | (.gov)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12268455/)
+- [Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1111/ics.12208)
+- [National Institutes of Health (NIH) | (.gov)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10834687/)
+- [Super Deodorant Laboratories](https://superdeodorant.com/blogs/odour-science/2-nonenal-old-people-smell-what-the-science-says)
+- [Healthline](https://www.healthline.com/health/older-people-smell-different)

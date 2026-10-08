@@ -1,0 +1,227 @@
+[
+  {
+    "ordinal": 25,
+    "counts": {
+      "prompts": 8,
+      "responses": 8
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 32,
+    "counts": {
+      "prompts": 10,
+      "responses": 10
+    },
+    "embeddedFrames": 1,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 64,
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 67,
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "embeddedFrames": 1,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 68,
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 69,
+    "counts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 71,
+    "counts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 72,
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 73,
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 74,
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 75,
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 76,
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 77,
+    "counts": {
+      "prompts": 9,
+      "responses": 9
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 81,
+    "counts": {
+      "prompts": 5,
+      "responses": 5
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 82,
+    "counts": {
+      "prompts": 10,
+      "responses": 10
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 83,
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 84,
+    "counts": {
+      "prompts": 20,
+      "responses": 20
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 85,
+    "counts": {
+      "prompts": 5,
+      "responses": 5
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 86,
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 90,
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 109,
+    "counts": {
+      "prompts": 8,
+      "responses": 8
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 110,
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 111,
+    "counts": {
+      "prompts": 10,
+      "responses": 10
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 116,
+    "counts": {
+      "prompts": 9,
+      "responses": 9
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  },
+  {
+    "ordinal": 117,
+    "counts": {
+      "prompts": 5,
+      "responses": 5
+    },
+    "embeddedFrames": 0,
+    "disabledCopyControls": 0
+  }
+]

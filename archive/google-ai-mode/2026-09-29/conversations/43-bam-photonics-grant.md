@@ -16,11 +16,11 @@ The Dutch construction and engineering company [Royal BAM Group](https://www.bam
 
 Commissioned by **TNO**, this prestigious project forms part of the European **PIXEurope initiative**, aiming to establish full-scale production of advanced indium phosphide (InP) photonic chips. 
 
-Cleanroom Technology +1
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAe1BMVEX//////v/+//////3+/v7XASXXACmHh4WxsbGJh4jXASeFh4a+vrzmWHKIh4W7ubrtlaXjUGrkRWHzu8TJycmlpaPgMlPtg5mqqKutra3xq7XcHEHwna3YDC+miY3qcIXoYHjldIjmZH7/9vnobX/wpLHxsrrZFznY2NbD+PupAAAAwklEQVQYlRWQi5aDIAxEJ4RHiSi17e7W2odV+/j/L9wRciBnTshlAhUHBdTB6RZwHsLEqYhjIhDZ94f2iNPPjut8An5j4P4759TlJg24mI1XC7d7kxNjh4fFSaPZU2vqqnrMZqvMbfvSQgEUQlw3sKCkVABMFlcsflEpKRdipxBnjMFm1K6pDngEm+TGMjbN25MXse8YP1dfmlwpYLTtY3s2zbmKAMuzP/RHL/gOw5c4VefU8ybA0zWNqnAEtM858PgHTmoKCrFp23sAAAAASUVORK5CYII=)Cleanroom Technology +1
 
 The plant's construction is backed by significant public and strategic grant-based funding from a consortium including: 
 
-Cleanroom Technology
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAe1BMVEX//////v/+//////3+/v7XASXXACmHh4WxsbGJh4jXASeFh4a+vrzmWHKIh4W7ubrtlaXjUGrkRWHzu8TJycmlpaPgMlPtg5mqqKutra3xq7XcHEHwna3YDC+miY3qcIXoYHjldIjmZH7/9vnobX/wpLHxsrrZFznY2NbD+PupAAAAwklEQVQYlRWQi5aDIAxEJ4RHiSi17e7W2odV+/j/L9wRciBnTshlAhUHBdTB6RZwHsLEqYhjIhDZ94f2iNPPjut8An5j4P4759TlJg24mI1XC7d7kxNjh4fFSaPZU2vqqnrMZqvMbfvSQgEUQlw3sKCkVABMFlcsflEpKRdipxBnjMFm1K6pDngEm+TGMjbN25MXse8YP1dfmlwpYLTtY3s2zbmKAMuzP/RHL/gOw5c4VefU8ybA0zWNqnAEtM858PgHTmoKCrFp23sAAAAASUVORK5CYII=)Cleanroom Technology
 
 * **The EU Chips Act**
 * **PhotonDelta** (via the Dutch National Growth Fund)

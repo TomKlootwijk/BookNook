@@ -115,6 +115,8 @@ Preventing silo spoilage requires dropping grain moisture levels below **13% to 
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAM1BMVEX+0ggjHyAAAADHpQ6sjxHjvAuegxPwxwrVsA1aTBqDbhU+NR1MQRu5mhCQeBR1YhcxKh7BCYLaAAAAX0lEQVQYlZ2MSRKAIAwEM0nYQf3/aw1QoEfLvnVq0kSfcF7j2w8YmdgYHoFScRJ7kXHwwHhgnk7NHpLaQVYj90allTCCJqA9CwkUAGXW6WqJAri9kKs3lNjthHjd8oMb3DABfEpW9nAAAAAASUVORK5CYII=)SpareFoot +4
 
+Are you asking out of interest for **industrial farm management**, or are you looking into the **safety and remediation** of the historic concrete silos at the **Meneba (Zaankwartier) site**?
+
 ### Source links
 
 - [Voermeesters](https://www.voermeesters.nl/en/services-enquiries/silo-maintenance/)

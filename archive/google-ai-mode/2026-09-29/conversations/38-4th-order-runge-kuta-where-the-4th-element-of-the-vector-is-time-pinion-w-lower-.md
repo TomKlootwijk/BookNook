@@ -38,7 +38,65 @@ When evaluating the derivatives  $\mathbf{f}(\mathbf{y})$ , the 4th element of t
    The 4th component evaluated is  $y\_{n,4} + hk\_{3,4} = t\_n + h$ . The derivative is still  $k\_{4,4} = 1$ .
 
 **Final update check for the 4th element:**  
- $y\_{n+1,4}=t\_{n}+\frac{h}{6}(1+2(1)+2(1)+1)=t\_{n}+\frac{h}{6}(6)=t\_{n}+h$
+ $y\_{n+1,4}=t\_{n}+\frac{h}{6}(1+2(1)+2(1)+1)=t\_{n}+\frac{h}{6}(6)=t\_{n}+h$ This confirms that tracking time inside the vector naturally increments it perfectly by  $h$  at each step.
+
+---
+
+### Python Implementation Example
+
+Here is how you structure the system in Python using `numpy`, assuming a common rotational mechanical setup (like a pinion gear system where  $w$  is angular velocity,  $\phi $  is angular displacement, and a 3rd dummy state is included to make time the 4th element):
+
+python
+
+```
+import numpy as np
+
+def system_derivatives(y):
+    """
+    y[0] = w (angular velocity)
+    y[1] = phi (lower case phi, angular displacement)
+    y[2] = generalized third state (e.g., dynamic load or integration error)
+    y[3] = t (time)
+    """
+    w = y[0]
+    phi = y[1]
+    other = y[2]
+    t = y[3]  # Extracting time directly from the vector
+    
+    # Define your physics/differential equations here
+    # Example: a driven pinion gear with time-varying torque
+    pinion_inertia = 0.5
+    external_torque = 10.0 * np.sin(2 * np.pi * t)  # time-dependent behavior
+    
+    dw_dt = external_torque / pinion_inertia
+    dphi_dt = w
+    dother_dt = -0.5 * other
+    dt_dt = 1.0  # Time always increments at a rate of 1
+    
+    return np.array([dw_dt, dphi_dt, dother_dt, dt_dt])
+
+def rk4_step(y_n, h):
+    """Performs a single 4th-order Runge-Kutta step."""
+    k1 = system_derivatives(y_n)
+    k2 = system_derivatives(y_n + 0.5 * h * k1)
+    k3 = system_derivatives(y_n + 0.5 * h * k2)
+    k4 = system_derivatives(y_n + h * k3)
+    
+    return y_n + (h / 6.0) * (k1 + 2*k2 + 2*k3 + k4)
+
+# --- Simulation setup ---
+# Initial conditions: w=0, phi=0, other=1, t=0
+y_current = np.array([0.0, 0.0, 1.0, 0.0])
+h = 0.01  # Time step
+
+# Take one step
+y_next = rk4_step(y_current, h)
+print(f"Updated vector: {y_next}")
+```
+
+Use code with caution.
+
+Would you like to provide the **specific differential equations** for your pinion gear system so we can replace the placeholder physics with your exact system dynamics?
 
 ## Prompt 2 — You
 

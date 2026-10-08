@@ -3,10 +3,12 @@ import base64
 import hashlib
 import html
 import json
+import mimetypes
 import re
 from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse, parse_qs
+from xml.etree import ElementTree
 
 from bs4 import BeautifulSoup, Comment
 from latex2mathml.converter import convert
@@ -43,7 +45,7 @@ h2{font-size:15pt;line-height:1.3;color:#174b40;margin:22px 0 10px} h3,h4,[role=
 p,li{orphans:3;widows:3} ul,ol{padding-left:22px} li{margin:5px 0} a{color:#265e68;text-decoration:underline;overflow-wrap:anywhere}
 table{width:100%;border-collapse:collapse;table-layout:fixed;margin:12px 0;font-size:9pt} th,td{border:1px solid #c6d1cb;padding:7px;vertical-align:top;overflow-wrap:anywhere} tr{break-inside:avoid} thead{display:table-header-group}
 pre{font:8pt/1.4 Consolas,"Courier New",monospace;white-space:pre-wrap;overflow-wrap:anywhere;background:#f0f3f2;padding:12px;border:1px solid #d4ded8;max-width:100%} code{font-family:Consolas,"Courier New",monospace}
-img{max-width:100%;max-height:220mm;object-fit:contain;height:auto;break-inside:avoid} .content img{display:inline-block;margin:8px 5px;vertical-align:middle} svg{max-width:100%}
+img{max-width:100%;max-height:220mm;object-fit:contain;height:auto;break-inside:avoid} .content img{display:inline-block;margin:8px 5px;vertical-align:middle} svg{max-width:100%} figure{margin:16px 0;break-inside:avoid}
 math{font-family:"Cambria Math",serif;font-size:1.04em} .equation{display:inline-block;vertical-align:middle;max-width:100%}.equation.block{display:block;margin:12px 0;text-align:center;break-inside:avoid}.math-fallback{font:9pt Consolas;white-space:pre-wrap}
 .sources{font-size:8.5pt;margin-top:18px;padding-top:7px;border-top:1px dotted #c6d1cb}.sources li{margin:4px 0}.sourceurl{font-size:8pt;color:#526b65}mark{background:#edf3da;color:inherit}
 .citation-inline,.citation-inline div{display:inline;font-size:8pt;color:#64756d}.content img.source-icon{width:14px;height:14px;margin:0 3px;vertical-align:middle}
@@ -58,11 +60,40 @@ def page(title, body):
 
 def clean_message(item, ordinal, index):
     global math_total, image_total
-    soup = BeautifulSoup(item['html'], 'html.parser')
+    markup = ''.join(item['htmlChunks']) if item.get('htmlChunks') else item['html']
+    if '[Truncated]' in markup:
+        raise ValueError(f'Truncated response markup: conversation {ordinal}, message {index}')
+    soup = BeautifulSoup(markup, 'html.parser')
+    # Google hosts some rendered diagrams in separate embedded frames. Preserve
+    # their observed SVG content alongside the corresponding response.
+    for widget in item.get('widgets', []):
+        asset = ROOT / widget['path']
+        if asset.suffix == '.svg':
+            ElementTree.fromstring(asset.read_bytes())
+        mime = mimetypes.guess_type(asset.name)[0] or 'application/octet-stream'
+        figure = soup.new_tag('figure')
+        figure.append(soup.new_tag('img', attrs={
+            'src': 'data:' + mime + ';base64,' + base64.b64encode(asset.read_bytes()).decode('ascii'),
+            'alt': widget['caption']
+        }))
+        caption = soup.new_tag('figcaption')
+        caption.string = widget['caption']
+        figure.append(caption)
+        if widget.get('displayedText'):
+            state = soup.new_tag('p', attrs={'class': 'meta'})
+            state.string = 'Recorded diagram labels and controls: ' + ' '.join(widget['displayedText'].split())
+            figure.append(state)
+        soup.append(figure)
+    for note in item.get('widgetNotes', []):
+        status = soup.new_tag('p', attrs={'class': 'meta'})
+        status.string = note
+        soup.append(status)
     # Live maps use short-lived blob tiles. Preserve a read-only raster capture
     # of the rendered map, including its attribution, for offline documents.
     for region in list(soup.select('[role="region"][aria-label^="Map of"]')):
         map_capture = ROOT / 'assets' / f'{ordinal:02d}-map.png'
+        if not map_capture.exists() and ordinal == 101:
+            map_capture = ROOT / 'assets' / '101-map-source-2.png'
         if map_capture.exists():
             figure = soup.new_tag('figure')
             figure.append(soup.new_tag('img', attrs={
@@ -70,7 +101,7 @@ def clean_message(item, ordinal, index):
                 'alt': region.get('aria-label', 'Map from the source conversation')
             }))
             caption = soup.new_tag('figcaption')
-            caption.string = 'Map from the source conversation (static archival capture).'
+            caption.string = 'Map from the source conversation (static archival capture). Map data ©2026 Google; original terms link retained in the source markup.'
             figure.append(caption)
             region.replace_with(figure)
     # Drop application controls and dialogs, while preserving all response prose.

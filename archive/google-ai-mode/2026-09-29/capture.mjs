@@ -10,7 +10,10 @@ export function capturePage() {
     items: items.map(root => ({
       role: root.className.includes('mZJni') ? 'google' : 'user',
       text: root.innerText,
-      html: root.outerHTML,
+      // Keep each returned string below the browser tool's serialization limit.
+      // The archive builder joins these chunks without changing the markup.
+      html: root.outerHTML.length <= 90000 ? root.outerHTML : '',
+      htmlChunks: root.outerHTML.length > 90000 ? root.outerHTML.match(/[\s\S]{1,90000}/g) : undefined,
       equations: [...root.querySelectorAll('[data-xpm-latex]')].map(x => x.getAttribute('data-xpm-latex')),
       links: [...root.querySelectorAll('a[href]')].map(a => ({ text: a.innerText || a.getAttribute('aria-label') || '', url: a.href })),
       images: [...root.querySelectorAll('img')].filter(i => !i.getAttribute('data-xpm-latex') && !i.src.startsWith('data:image/gif')).map(i => ({ url: i.currentSrc || i.src, alt: i.alt, width: i.naturalWidth, height: i.naturalHeight })),

@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-08T05:43:30.852117+00:00",
+  "conversations": 117,
+  "prompts": 707,
+  "truncatedMarkup": [],
+  "missingProse": [],
+  "method": "Compare every saved prose line longer than 80 characters against full response markup, normalizing whitespace; exclude Google medical footer text that changes on reload."
+}

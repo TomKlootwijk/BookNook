@@ -1,0 +1,1055 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="652" height="367" role="img" aria-label="Orthogonal side-view cartographic visualization intersecting a log-polar vector matrix along the Psi eigenvector axis." viewBox="0 0 652 366.75" class="w-full h-auto block select-none"><style><![CDATA[
+/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */
+@layer properties {
+  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {
+    *, :before, :after, ::backdrop {
+      --tw-border-style: solid;
+      --tw-font-weight: initial;
+      --tw-ordinal: initial;
+      --tw-slashed-zero: initial;
+      --tw-numeric-figure: initial;
+      --tw-numeric-spacing: initial;
+      --tw-numeric-fraction: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-outline-style: solid;
+      --tw-content: "";
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+    }
+  }
+}
+
+@layer theme {
+  :root, :host {
+    --font-sans: "Google Sans", "Roboto", sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --color-slate-200: oklch(92.9% .013 255.508);
+    --color-slate-300: oklch(86.9% .022 252.894);
+    --color-white: #fff;
+    --spacing: .25rem;
+    --text-xs: .75rem;
+    --text-xs--line-height: calc(1 / .75);
+    --text-sm: .875rem;
+    --text-sm--line-height: calc(1.25 / .875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --radius-sm: .25rem;
+    --default-transition-duration: .15s;
+    --default-transition-timing-function: cubic-bezier(.31, .94, .34, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+    --color-primary: var(--primary, #336ef3);
+    --color-card: var(--surface-container-de-emphasis, #f7f8fa);
+    --color-border: var(--divider, #dcdfe5);
+    --color-secondary-hover: var(--surface-container-highest, #e1e3e8);
+    --color-muted: var(--surface-container, #f0f2f5);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);
+    --color-foreground: var(--on-surface-default, #0a0a0a);
+  }
+}
+
+@layer base {
+  *, :after, :before, ::backdrop {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::file-selector-button {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, :host {
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    line-height: 1.5;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  hr {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+
+  abbr:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+
+  a {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+
+  b, strong {
+    font-weight: bolder;
+  }
+
+  code, kbd, samp, pre {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+
+  small {
+    font-size: 80%;
+  }
+
+  sub, sup {
+    vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+  }
+
+  sub {
+    bottom: -.25em;
+  }
+
+  sup {
+    top: -.5em;
+  }
+
+  table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+
+  :-moz-focusring {
+    outline: auto;
+  }
+
+  progress {
+    vertical-align: baseline;
+  }
+
+  summary {
+    display: list-item;
+  }
+
+  ol, ul, menu {
+    list-style: none;
+  }
+
+  img, svg, video, canvas, audio, iframe, embed, object {
+    vertical-align: middle;
+    display: block;
+  }
+
+  img, video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  button, input, select, optgroup, textarea {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  ::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  :where(select:is([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+
+  :where(select:is([multiple], [size])) optgroup option {
+    padding-inline-start: 20px;
+  }
+
+  ::file-selector-button {
+    margin-inline-end: 4px;
+  }
+
+  ::placeholder {
+    opacity: 1;
+  }
+
+  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {
+    ::placeholder {
+      color: currentColor;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      ::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+
+  textarea {
+    resize: vertical;
+  }
+
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  ::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+
+  ::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+
+  ::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+
+  ::-webkit-datetime-edit {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-year-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-month-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-day-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-hour-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-minute-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-second-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-millisecond-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+
+  :-moz-ui-invalid {
+    box-shadow: none;
+  }
+
+  button, input:where([type="button"], [type="reset"], [type="submit"]) {
+    appearance: button;
+  }
+
+  ::file-selector-button {
+    appearance: button;
+  }
+
+  ::-webkit-inner-spin-button {
+    height: auto;
+  }
+
+  ::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  [hidden]:where(:not([hidden="until-found"])) {
+    display: none !important;
+  }
+}
+
+@layer components;
+
+@layer utilities {
+  .pointer-events-auto {
+    pointer-events: auto;
+  }
+
+  .pointer-events-none {
+    pointer-events: none;
+  }
+
+  .absolute {
+    position: absolute;
+  }
+
+  .relative {
+    position: relative;
+  }
+
+  .static {
+    position: static;
+  }
+
+  .top-0 {
+    top: calc(var(--spacing) * 0);
+  }
+
+  .top-\[15\%\] {
+    top: 15%;
+  }
+
+  .right-0 {
+    right: calc(var(--spacing) * 0);
+  }
+
+  .right-\[15\%\] {
+    right: 15%;
+  }
+
+  .bottom-\[15\%\] {
+    bottom: 15%;
+  }
+
+  .bottom-\[20\%\] {
+    bottom: 20%;
+  }
+
+  .left-\[15\%\] {
+    left: 15%;
+  }
+
+  .left-\[35\%\] {
+    left: 35%;
+  }
+
+  .z-10 {
+    z-index: 10;
+  }
+
+  .-my-3 {
+    margin-block: calc(var(--spacing) * -3);
+  }
+
+  .block {
+    display: block;
+  }
+
+  .flex {
+    display: flex;
+  }
+
+  .h-0\.5 {
+    height: calc(var(--spacing) * .5);
+  }
+
+  .h-1 {
+    height: calc(var(--spacing) * 1);
+  }
+
+  .h-2 {
+    height: calc(var(--spacing) * 2);
+  }
+
+  .h-3 {
+    height: calc(var(--spacing) * 3);
+  }
+
+  .h-9 {
+    height: calc(var(--spacing) * 9);
+  }
+
+  .h-11 {
+    height: calc(var(--spacing) * 11);
+  }
+
+  .h-\[18px\] {
+    height: 18px;
+  }
+
+  .h-auto {
+    height: auto;
+  }
+
+  .h-full {
+    height: 100%;
+  }
+
+  .w-2 {
+    width: calc(var(--spacing) * 2);
+  }
+
+  .w-3 {
+    width: calc(var(--spacing) * 3);
+  }
+
+  .w-4 {
+    width: calc(var(--spacing) * 4);
+  }
+
+  .w-9 {
+    width: calc(var(--spacing) * 9);
+  }
+
+  .w-\[8ch\] {
+    width: 8ch;
+  }
+
+  .w-\[18px\] {
+    width: 18px;
+  }
+
+  .w-full {
+    width: 100%;
+  }
+
+  .min-w-0 {
+    min-width: calc(var(--spacing) * 0);
+  }
+
+  .flex-1 {
+    flex: 1;
+  }
+
+  .shrink-0 {
+    flex-shrink: 0;
+  }
+
+  .grow {
+    flex-grow: 1;
+  }
+
+  .cursor-pointer {
+    cursor: pointer;
+  }
+
+  .touch-none {
+    touch-action: none;
+  }
+
+  .flex-col {
+    flex-direction: column;
+  }
+
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
+
+  .items-center {
+    align-items: center;
+  }
+
+  .justify-center {
+    justify-content: center;
+  }
+
+  .justify-end {
+    justify-content: flex-end;
+  }
+
+  .gap-0\.5 {
+    gap: calc(var(--spacing) * .5);
+  }
+
+  .gap-1 {
+    gap: calc(var(--spacing) * 1);
+  }
+
+  .gap-1\.5 {
+    gap: calc(var(--spacing) * 1.5);
+  }
+
+  .gap-3 {
+    gap: calc(var(--spacing) * 3);
+  }
+
+  .gap-4 {
+    gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-x-4 {
+    column-gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-y-1 {
+    row-gap: calc(var(--spacing) * 1);
+  }
+
+  .truncate {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .overflow-hidden {
+    overflow: hidden;
+  }
+
+  .overflow-visible {
+    overflow: visible;
+  }
+
+  .rounded-full {
+    border-radius: 3.40282e38px;
+  }
+
+  .rounded-sm {
+    border-radius: var(--radius-sm);
+  }
+
+  .border {
+    border-style: var(--tw-border-style);
+    border-width: 1px;
+  }
+
+  .border-b {
+    border-bottom-style: var(--tw-border-style);
+    border-bottom-width: 1px;
+  }
+
+  .border-none {
+    --tw-border-style: none;
+    border-style: none;
+  }
+
+  .border-\[\#48cae4\] {
+    border-color: #48cae4;
+  }
+
+  .border-\[\#7209b7\] {
+    border-color: #7209b7;
+  }
+
+  .border-\[\#fb8500\] {
+    border-color: #fb8500;
+  }
+
+  .border-border {
+    border-color: var(--color-border);
+  }
+
+  .\!bg-muted {
+    background-color: var(--color-muted) !important;
+  }
+
+  .bg-\[\#0d1117\] {
+    background-color: #0d1117;
+  }
+
+  .bg-\[\#f72585\] {
+    background-color: #f72585;
+  }
+
+  .bg-\[\#ffb703\] {
+    background-color: #ffb703;
+  }
+
+  .bg-\[rgba\(72\,202\,228\,0\.4\)\] {
+    background-color: #48cae466;
+  }
+
+  .bg-\[rgba\(114\,9\,183\,0\.4\)\] {
+    background-color: #7209b766;
+  }
+
+  .bg-\[rgba\(251\,133\,0\,0\.3\)\] {
+    background-color: #fb85004d;
+  }
+
+  .bg-card, .bg-card\/50 {
+    background-color: var(--color-card);
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-card\/50 {
+      background-color: color-mix(in oklab, var(--color-card) 50%, transparent);
+    }
+  }
+
+  .bg-card\/60 {
+    background-color: var(--color-card);
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-card\/60 {
+      background-color: color-mix(in oklab, var(--color-card) 60%, transparent);
+    }
+  }
+
+  .bg-muted\/90 {
+    background-color: var(--color-muted);
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-muted\/90 {
+      background-color: color-mix(in oklab, var(--color-muted) 90%, transparent);
+    }
+  }
+
+  .bg-primary {
+    background-color: var(--color-primary);
+  }
+
+  .p-3 {
+    padding: calc(var(--spacing) * 3);
+  }
+
+  .p-5 {
+    padding: calc(var(--spacing) * 5);
+  }
+
+  .px-2 {
+    padding-inline: calc(var(--spacing) * 2);
+  }
+
+  .px-5 {
+    padding-inline: calc(var(--spacing) * 5);
+  }
+
+  .py-0\.5 {
+    padding-block: calc(var(--spacing) * .5);
+  }
+
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .text-right {
+    text-align: right;
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .\!text-base {
+    font-size: var(--text-base) !important;
+    line-height: var(--tw-leading, var(--text-base--line-height)) !important;
+  }
+
+  .text-sm {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+
+  .text-xs {
+    font-size: var(--text-xs);
+    line-height: var(--tw-leading, var(--text-xs--line-height));
+  }
+
+  .font-medium {
+    --tw-font-weight: var(--font-weight-medium);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .font-normal {
+    --tw-font-weight: var(--font-weight-normal);
+    font-weight: var(--font-weight-normal);
+  }
+
+  .whitespace-nowrap {
+    white-space: nowrap;
+  }
+
+  .text-foreground {
+    color: var(--color-foreground);
+  }
+
+  .text-muted-foreground {
+    color: var(--color-muted-foreground);
+  }
+
+  .text-slate-200 {
+    color: var(--color-slate-200);
+  }
+
+  .text-slate-300 {
+    color: var(--color-slate-300);
+  }
+
+  .text-white {
+    color: var(--color-white);
+  }
+
+  .tabular-nums {
+    --tw-numeric-spacing: tabular-nums;
+    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );
+  }
+
+  .shadow-none {
+    --tw-shadow: 0 0 #0000;
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .outline {
+    outline-style: var(--tw-outline-style);
+    outline-width: 1px;
+  }
+
+  .transition-colors {
+    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to;
+    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration, var(--default-transition-duration));
+  }
+
+  .select-none {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .selection\:bg-primary\/30 ::selection {
+    background-color: var(--color-primary);
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .selection\:bg-primary\/30 ::selection {
+      background-color: color-mix(in oklab, var(--color-primary) 30%, transparent);
+    }
+  }
+
+  .selection\:bg-primary\/30::selection {
+    background-color: var(--color-primary);
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .selection\:bg-primary\/30::selection {
+      background-color: color-mix(in oklab, var(--color-primary) 30%, transparent);
+    }
+  }
+
+  .after\:absolute:after {
+    content: var(--tw-content);
+    position: absolute;
+  }
+
+  .after\:-inset-1:after {
+    content: var(--tw-content);
+    inset: calc(var(--spacing) * -1);
+  }
+
+  .after\:top-1\/2:after {
+    content: var(--tw-content);
+    top: 50%;
+  }
+
+  .after\:left-1\/2:after {
+    content: var(--tw-content);
+    left: 50%;
+  }
+
+  .after\:h-11:after {
+    content: var(--tw-content);
+    height: calc(var(--spacing) * 11);
+  }
+
+  .after\:w-11:after {
+    content: var(--tw-content);
+    width: calc(var(--spacing) * 11);
+  }
+
+  .after\:-translate-x-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  .after\:-translate-y-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  @media (hover: hover) {
+    .hover\:bg-secondary-hover:hover {
+      background-color: var(--color-secondary-hover);
+    }
+  }
+
+  .focus\:outline-none:focus {
+    --tw-outline-style: none;
+    outline-style: none;
+  }
+
+  .focus-visible\:ring-2:focus-visible {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .focus-visible\:ring-primary:focus-visible {
+    --tw-ring-color: var(--color-primary);
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:gap-x-8 {
+      column-gap: calc(var(--spacing) * 8);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:gap-x-12 {
+      column-gap: calc(var(--spacing) * 12);
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --color-primary: var(--primary, #336ef3);
+    --color-primary-hover: var(--primary-hover, #395fe1);
+    --color-error: var(--brand-red, #ea4335);
+    --color-warning: var(--brand-yellow, #fbbc04);
+    --color-success: var(--brand-green, #34a853);
+    --color-background: var(--surface-container-de-emphasis, #272930);
+    --color-card: var(--surface-container-de-emphasis, #272930);
+    --color-card-hover: var(--surface-container-high, #363840);
+    --color-border: var(--divider, #363840);
+    --color-input: var(--surface-container, #2c2e35);
+    --color-secondary: var(--surface-container-high, #363840);
+    --color-secondary-hover: var(--surface-container-highest, #42444d);
+    --color-accent: var(--surface-container-highest, #42444d);
+    --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+    --color-muted: var(--surface-container, #2c2e35);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+    --color-foreground: var(--on-surface-default, #e6e8f0);
+    --color-disabled: var(--surface-container, #2c2e35);
+    --color-disabled-foreground: var(--disabled-foreground, #797c90);
+  }
+}
+
+.dark {
+  --color-primary: var(--primary, #336ef3);
+  --color-primary-hover: var(--primary-hover, #395fe1);
+  --color-error: var(--brand-red, #ea4335);
+  --color-warning: var(--brand-yellow, #fbbc04);
+  --color-success: var(--brand-green, #34a853);
+  --color-background: var(--surface-container-de-emphasis, #272930);
+  --color-card: var(--surface-container-de-emphasis, #272930);
+  --color-card-hover: var(--surface-container-high, #363840);
+  --color-border: var(--divider, #363840);
+  --color-input: var(--surface-container, #2c2e35);
+  --color-secondary: var(--surface-container-high, #363840);
+  --color-secondary-hover: var(--surface-container-highest, #42444d);
+  --color-accent: var(--surface-container-highest, #42444d);
+  --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+  --color-muted: var(--surface-container, #2c2e35);
+  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+  --color-foreground: var(--on-surface-default, #e6e8f0);
+  --color-disabled: var(--surface-container, #2c2e35);
+  --color-disabled-foreground: var(--disabled-foreground, #797c90);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  opacity: .6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert();
+    opacity: .7;
+  }
+}
+
+.dark input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert();
+  opacity: .7;
+}
+
+@property --tw-border-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ordinal {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-slashed-zero {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-figure {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-spacing {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-fraction {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow-alpha {
+  syntax: "<percentage>";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-inset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-shadow-alpha {
+  syntax: "<percentage>";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-ring-inset {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-offset-width {
+  syntax: "<length>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-ring-offset-color {
+  syntax: "*";
+  inherits: false;
+  initial-value: #fff;
+}
+
+@property --tw-ring-offset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-outline-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-content {
+  syntax: "*";
+  inherits: false;
+  initial-value: "";
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+]]></style><rect width="100%" height="100%" fill="#0d1117"/><g opacity="0.35"><circle cx="326" cy="183.375" r="9.32390436025794" fill="none" stroke="#1f77b4" stroke-width="1" stroke-dasharray="3 3"></circle><circle cx="326" cy="183.375" r="13.909630803077924" fill="none" stroke="#1f77b4" stroke-width="1" stroke-dasharray="3 3"></circle><circle cx="326" cy="183.375" r="20.750730767103427" fill="none" stroke="#1f77b4" stroke-width="1" stroke-dasharray="3 3"></circle><circle cx="326" cy="183.375" r="30.95645265246947" fill="none" stroke="#1f77b4" stroke-width="1" stroke-dasharray="3 3"></circle><circle cx="326" cy="183.375" r="46.181600618316565" fill="none" stroke="#1f77b4" stroke-width="1" stroke-dasharray="3 3"></circle><circle cx="326" cy="183.375" r="68.89485237901003" fill="none" stroke="#1f77b4" stroke-width="1" stroke-dasharray="3 3"></circle><circle cx="326" cy="183.375" r="102.77904231935659" fill="none" stroke="#1f77b4" stroke-width="1" stroke-dasharray="none"></circle><line x1="326" y1="183.375" x2="428.77904231935656" y2="183.375" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="425.2769313775236" y2="209.97617358964743" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="415.0092616251987" y2="234.76452115967828" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="398.6757577878762" y2="256.0507577878762" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="377.38952115967834" y2="272.3842616251987" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="352.60117358964743" y2="282.6519313775236" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="326" y2="286.15404231935656" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="299.39882641035257" y2="282.6519313775236" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="274.6104788403217" y2="272.3842616251987" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="253.3242422121238" y2="256.0507577878762" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="236.9907383748013" y2="234.76452115967828" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="226.72306862247638" y2="209.97617358964746" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="223.2209576806434" y2="183.375" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="226.72306862247638" y2="156.77382641035254" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="236.99073837480128" y2="131.98547884032172" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="253.32424221212378" y2="110.69924221212385" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="274.61047884032166" y2="94.36573837480132" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="299.39882641035257" y2="84.09806862247636" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="326" y2="80.59595768064341" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="352.6011735896474" y2="84.09806862247635" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="377.38952115967834" y2="94.36573837480131" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="398.67575778787614" y2="110.69924221212379" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="415.0092616251987" y2="131.98547884032166" stroke="#1f77b4" stroke-width="0.5"></line><line x1="326" y1="183.375" x2="425.2769313775236" y2="156.77382641035248" stroke="#1f77b4" stroke-width="0.5"></line></g><line x1="71.90814652964565" y1="36.67500000000001" x2="580.0918534703544" y2="330.075" stroke="#ffb703" stroke-width="1.5" stroke-dasharray="5 4"></line><g><g opacity="0.7"><line x1="335.3239043602579" y1="183.375" x2="339.65601323185246" y2="185.87614422317387" stroke="#48cae4" stroke-width="1"></line><circle cx="339.65601323185246" cy="185.87614422317387" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="335.0062000234224" y1="185.78820402314918" x2="339.7636693144912" y2="190.545673314218" stroke="#48cae4" stroke-width="1"></line><circle cx="339.7636693144912" cy="190.545673314218" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="334.0747380384399" y1="188.03695218012896" x2="338.47207670003" y2="195.65336616008997" stroke="#48cae4" stroke-width="1"></line><circle cx="338.47207670003" cy="195.65336616008997" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="332.5929960002732" y1="189.96799600027322" x2="335.3489902017838" y2="200.25350638567596" stroke="#48cae4" stroke-width="1"></line><circle cx="335.3489902017838" cy="200.25350638567596" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="330.661952180129" y1="191.44973803843988" x2="330.661952180129" y2="203.24212691527237" stroke="#48cae4" stroke-width="1"></line><circle cx="330.661952180129" cy="203.24212691527237" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="328.4132040231492" y1="192.3812000234224" x2="325.32801207907397" y2="203.89529310981334" stroke="#48cae4" stroke-width="1"></line><circle cx="325.32801207907397" cy="203.89529310981334" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="192.69890436025793" x2="320.50114422317387" y2="202.2232019492144" stroke="#48cae4" stroke-width="1"></line><circle cx="320.50114422317387" cy="202.2232019492144" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="323.5867959768508" y1="192.3812000234224" x2="317.03055676893484" y2="198.93743923133835" stroke="#48cae4" stroke-width="1"></line><circle cx="317.03055676893484" cy="198.93743923133835" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="321.338047819871" y1="191.44973803843988" x2="315.098055339281" y2="195.05239937684976" stroke="#48cae4" stroke-width="1"></line><circle cx="315.098055339281" cy="195.05239937684976" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="319.4070039997268" y1="189.96799600027322" x2="314.2377011645044" y2="191.35310652040295" stroke="#48cae4" stroke-width="1"></line><circle cx="314.2377011645044" cy="191.35310652040295" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="317.9252619615601" y1="188.03695218012896" x2="313.7176508383926" y2="188.03695218012896" stroke="#48cae4" stroke-width="1"></line><circle cx="313.7176508383926" cy="188.03695218012896" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="316.9937999765776" y1="185.7882040231492" x2="313.05307984234344" y2="184.7322912455841" stroke="#48cae4" stroke-width="1"></line><circle cx="313.05307984234344" cy="184.7322912455841" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="316.6760956397421" y1="183.375" x2="312.34398676814754" y2="180.87385577682613" stroke="#48cae4" stroke-width="1"></line><circle cx="312.34398676814754" cy="180.87385577682613" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="316.9937999765776" y1="180.96179597685082" x2="312.2363306855088" y2="176.204326685782" stroke="#48cae4" stroke-width="1"></line><circle cx="312.2363306855088" cy="176.204326685782" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="317.9252619615601" y1="178.71304781987104" x2="313.52792329997" y2="171.09663383991003" stroke="#48cae4" stroke-width="1"></line><circle cx="313.52792329997" cy="171.09663383991003" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="319.4070039997268" y1="176.78200399972678" x2="316.6510097982162" y2="166.49649361432404" stroke="#48cae4" stroke-width="1"></line><circle cx="316.6510097982162" cy="166.49649361432404" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="321.338047819871" y1="175.30026196156012" x2="321.338047819871" y2="163.50787308472763" stroke="#48cae4" stroke-width="1"></line><circle cx="321.338047819871" cy="163.50787308472763" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="323.5867959768508" y1="174.3687999765776" x2="326.67198792092603" y2="162.85470689018666" stroke="#48cae4" stroke-width="1"></line><circle cx="326.67198792092603" cy="162.85470689018666" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="174.05109563974207" x2="331.49885577682613" y2="164.5267980507856" stroke="#48cae4" stroke-width="1"></line><circle cx="331.49885577682613" cy="164.5267980507856" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="328.4132040231492" y1="174.3687999765776" x2="334.96944323106516" y2="167.81256076866165" stroke="#48cae4" stroke-width="1"></line><circle cx="334.96944323106516" cy="167.81256076866165" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="330.661952180129" y1="175.30026196156012" x2="336.901944660719" y2="171.69760062315024" stroke="#48cae4" stroke-width="1"></line><circle cx="336.901944660719" cy="171.69760062315024" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="332.5929960002732" y1="176.78200399972678" x2="337.7622988354956" y2="175.39689347959705" stroke="#48cae4" stroke-width="1"></line><circle cx="337.7622988354956" cy="175.39689347959705" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="334.0747380384399" y1="178.71304781987104" x2="338.2823491616074" y2="178.71304781987104" stroke="#48cae4" stroke-width="1"></line><circle cx="338.2823491616074" cy="178.71304781987104" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="335.00620002342237" y1="180.9617959768508" x2="338.9469201576565" y2="182.0177087544159" stroke="#48cae4" stroke-width="1"></line><circle cx="338.9469201576565" cy="182.0177087544159" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="339.9096308030779" y1="183.375" x2="344.24173967467243" y2="185.87614422317387" stroke="#48cae4" stroke-width="1"></line><circle cx="344.24173967467243" cy="185.87614422317387" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="339.43567162683894" y1="186.97507736218122" x2="344.1931409179077" y2="191.73254665325004" stroke="#48cae4" stroke-width="1"></line><circle cx="344.1931409179077" cy="191.73254665325004" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="338.046093632728" y1="190.32981540153895" x2="342.44343229431814" y2="197.94622938149996" stroke="#48cae4" stroke-width="1"></line><circle cx="342.44343229431814" cy="197.94622938149996" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="335.8355942646577" y1="193.2105942646577" x2="338.5915884661683" y2="203.49610465006043" stroke="#48cae4" stroke-width="1"></line><circle cx="338.5915884661683" cy="203.49610465006043" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="332.95481540153895" y1="195.42109363272803" x2="332.95481540153895" y2="207.21348250956052" stroke="#48cae4" stroke-width="1"></line><circle cx="332.95481540153895" cy="207.21348250956052" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="329.60007736218125" y1="196.8106716268389" x2="326.514885418106" y2="208.32476471322985" stroke="#48cae4" stroke-width="1"></line><circle cx="326.514885418106" cy="208.32476471322985" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="197.28463080307793" x2="320.50114422317387" y2="206.8089283920344" stroke="#48cae4" stroke-width="1"></line><circle cx="320.50114422317387" cy="206.8089283920344" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="322.39992263781875" y1="196.8106716268389" x2="315.8436834299028" y2="203.36691083475486" stroke="#48cae4" stroke-width="1"></line><circle cx="315.8436834299028" cy="203.36691083475486" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="319.04518459846105" y1="195.42109363272803" x2="312.80519211787106" y2="199.02375497113792" stroke="#48cae4" stroke-width="1"></line><circle cx="312.80519211787106" cy="199.02375497113792" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="316.1644057353423" y1="193.2105942646577" x2="310.99510290011995" y2="194.59570478478742" stroke="#48cae4" stroke-width="1"></line><circle cx="310.99510290011995" cy="194.59570478478742" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="313.953906367272" y1="190.32981540153895" x2="309.7462952441045" y2="190.32981540153895" stroke="#48cae4" stroke-width="1"></line><circle cx="309.7462952441045" cy="190.32981540153895" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="312.56432837316106" y1="186.97507736218125" x2="308.6236082389269" y2="185.91916458461614" stroke="#48cae4" stroke-width="1"></line><circle cx="308.6236082389269" cy="185.91916458461614" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="312.0903691969221" y1="183.375" x2="307.75826032532757" y2="180.87385577682613" stroke="#48cae4" stroke-width="1"></line><circle cx="307.75826032532757" cy="180.87385577682613" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="312.56432837316106" y1="179.77492263781878" x2="307.8068590820923" y2="175.01745334674996" stroke="#48cae4" stroke-width="1"></line><circle cx="307.8068590820923" cy="175.01745334674996" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="313.953906367272" y1="176.42018459846105" x2="309.55656770568186" y2="168.80377061850004" stroke="#48cae4" stroke-width="1"></line><circle cx="309.55656770568186" cy="168.80377061850004" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="316.1644057353423" y1="173.5394057353423" x2="313.4084115338317" y2="163.25389534993957" stroke="#48cae4" stroke-width="1"></line><circle cx="313.4084115338317" cy="163.25389534993957" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="319.04518459846105" y1="171.32890636727197" x2="319.04518459846105" y2="159.53651749043948" stroke="#48cae4" stroke-width="1"></line><circle cx="319.04518459846105" cy="159.53651749043948" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="322.39992263781875" y1="169.9393283731611" x2="325.485114581894" y2="158.42523528677015" stroke="#48cae4" stroke-width="1"></line><circle cx="325.485114581894" cy="158.42523528677015" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="169.46536919692207" x2="331.49885577682613" y2="159.9410716079656" stroke="#48cae4" stroke-width="1"></line><circle cx="331.49885577682613" cy="159.9410716079656" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="329.60007736218125" y1="169.9393283731611" x2="336.1563165700972" y2="163.38308916524514" stroke="#48cae4" stroke-width="1"></line><circle cx="336.1563165700972" cy="163.38308916524514" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="332.95481540153895" y1="171.32890636727197" x2="339.19480788212894" y2="167.72624502886208" stroke="#48cae4" stroke-width="1"></line><circle cx="339.19480788212894" cy="167.72624502886208" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="335.8355942646577" y1="173.5394057353423" x2="341.00489709988005" y2="172.15429521521258" stroke="#48cae4" stroke-width="1"></line><circle cx="341.00489709988005" cy="172.15429521521258" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="338.046093632728" y1="176.42018459846102" x2="342.2537047558955" y2="176.42018459846102" stroke="#48cae4" stroke-width="1"></line><circle cx="342.2537047558955" cy="176.42018459846102" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="339.43567162683894" y1="179.77492263781875" x2="343.3763917610731" y2="180.83083541538386" stroke="#48cae4" stroke-width="1"></line><circle cx="343.3763917610731" cy="180.83083541538386" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="346.75073076710345" y1="183.375" x2="351.082839638698" y2="185.87614422317387" stroke="#48cae4" stroke-width="1"></line><circle cx="351.082839638698" cy="185.87614422317387" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="346.0436667623164" y1="188.7456843223212" x2="350.80113605338516" y2="193.50315361339003" stroke="#48cae4" stroke-width="1"></line><circle cx="350.80113605338516" cy="193.50315361339003" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="343.9706599914029" y1="193.75036538355172" x2="348.36799865299304" y2="201.36677936351273" stroke="#48cae4" stroke-width="1"></line><circle cx="348.36799865299304" cy="201.36677936351273" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="340.67298243999517" y1="198.04798243999517" x2="343.42897664150576" y2="208.3334928253979" stroke="#48cae4" stroke-width="1"></line><circle cx="343.42897664150576" cy="208.3334928253979" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="336.3753653835517" y1="201.34565999140293" x2="336.3753653835517" y2="213.13804886823542" stroke="#48cae4" stroke-width="1"></line><circle cx="336.3753653835517" cy="213.13804886823542" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="331.3706843223212" y1="203.41866676231638" x2="328.285492378246" y2="214.93275984870732" stroke="#48cae4" stroke-width="1"></line><circle cx="328.285492378246" cy="214.93275984870732" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="204.12573076710342" x2="320.50114422317387" y2="213.6500283560599" stroke="#48cae4" stroke-width="1"></line><circle cx="320.50114422317387" cy="213.6500283560599" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="320.6293156776788" y1="203.41866676231638" x2="314.07307646976284" y2="209.97490597023233" stroke="#48cae4" stroke-width="1"></line><circle cx="314.07307646976284" cy="209.97490597023233" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="315.6246346164483" y1="201.34565999140293" x2="309.3846421358583" y2="204.9483213298128" stroke="#48cae4" stroke-width="1"></line><circle cx="309.3846421358583" cy="204.9483213298128" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="311.32701756000483" y1="198.04798243999517" x2="306.15771472478247" y2="199.4330929601249" stroke="#48cae4" stroke-width="1"></line><circle cx="306.15771472478247" cy="199.4330929601249" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="308.0293400085971" y1="193.75036538355172" x2="303.8217288854296" y2="193.75036538355172" stroke="#48cae4" stroke-width="1"></line><circle cx="303.8217288854296" cy="193.75036538355172" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="305.9563332376836" y1="188.7456843223212" x2="302.0156131034495" y2="187.6897715447561" stroke="#48cae4" stroke-width="1"></line><circle cx="302.0156131034495" cy="187.6897715447561" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="305.24926923289655" y1="183.375" x2="300.917160361302" y2="180.87385577682613" stroke="#48cae4" stroke-width="1"></line><circle cx="300.917160361302" cy="180.87385577682613" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="305.9563332376836" y1="178.0043156776788" x2="301.19886394661484" y2="173.24684638660997" stroke="#48cae4" stroke-width="1"></line><circle cx="301.19886394661484" cy="173.24684638660997" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="308.0293400085971" y1="172.9996346164483" x2="303.63200134700696" y2="165.3832206364873" stroke="#48cae4" stroke-width="1"></line><circle cx="303.63200134700696" cy="165.3832206364873" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="311.32701756000483" y1="168.70201756000483" x2="308.57102335849424" y2="158.4165071746021" stroke="#48cae4" stroke-width="1"></line><circle cx="308.57102335849424" cy="158.4165071746021" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="315.6246346164483" y1="165.40434000859707" x2="315.6246346164483" y2="153.61195113176458" stroke="#48cae4" stroke-width="1"></line><circle cx="315.6246346164483" cy="153.61195113176458" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="320.6293156776788" y1="163.33133323768362" x2="323.714507621754" y2="151.81724015129268" stroke="#48cae4" stroke-width="1"></line><circle cx="323.714507621754" cy="151.81724015129268" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="162.62426923289658" x2="331.49885577682613" y2="153.0999716439401" stroke="#48cae4" stroke-width="1"></line><circle cx="331.49885577682613" cy="153.0999716439401" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="331.3706843223212" y1="163.33133323768362" x2="337.92692353023716" y2="156.77509402976767" stroke="#48cae4" stroke-width="1"></line><circle cx="337.92692353023716" cy="156.77509402976767" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="336.3753653835517" y1="165.40434000859707" x2="342.6153578641417" y2="161.8016786701872" stroke="#48cae4" stroke-width="1"></line><circle cx="342.6153578641417" cy="161.8016786701872" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="340.67298243999517" y1="168.70201756000483" x2="345.84228527521753" y2="167.3169070398751" stroke="#48cae4" stroke-width="1"></line><circle cx="345.84228527521753" cy="167.3169070398751" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="343.9706599914029" y1="172.99963461644828" x2="348.1782711145704" y2="172.99963461644828" stroke="#48cae4" stroke-width="1"></line><circle cx="348.1782711145704" cy="172.99963461644828" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="346.0436667623164" y1="178.0043156776788" x2="349.9843868965505" y2="179.0602284552439" stroke="#48cae4" stroke-width="1"></line><circle cx="349.9843868965505" cy="179.0602284552439" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="356.95645265246947" y1="183.375" x2="361.288561524064" y2="185.87614422317387" stroke="#48cae4" stroke-width="1"></line><circle cx="361.288561524064" cy="185.87614422317387" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="355.90163710731497" y1="191.38711951527355" x2="360.65910639838376" y2="196.14458880634237" stroke="#48cae4" stroke-width="1"></line><circle cx="360.65910639838376" cy="196.14458880634237" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="352.80907440808875" y1="198.85322632623473" x2="357.2064130696789" y2="206.46964030619574" stroke="#48cae4" stroke-width="1"></line><circle cx="357.2064130696789" cy="206.46964030619574" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="347.88951759204144" y1="205.26451759204144" x2="350.64551179355203" y2="215.5500279774442" stroke="#48cae4" stroke-width="1"></line><circle cx="350.64551179355203" cy="215.5500279774442" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="341.47822632623473" y1="210.18407440808872" x2="341.47822632623473" y2="221.9764632849212" stroke="#48cae4" stroke-width="1"></line><circle cx="341.47822632623473" cy="221.9764632849212" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="334.0121195152735" y1="213.276637107315" x2="330.9269275711983" y2="224.79073019370594" stroke="#48cae4" stroke-width="1"></line><circle cx="330.9269275711983" cy="224.79073019370594" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="214.33145265246947" x2="320.50114422317387" y2="223.85575024142594" stroke="#48cae4" stroke-width="1"></line><circle cx="320.50114422317387" cy="223.85575024142594" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="317.9878804847265" y1="213.276637107315" x2="311.4316412768105" y2="219.83287631523095" stroke="#48cae4" stroke-width="1"></line><circle cx="311.4316412768105" cy="219.83287631523095" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="310.52177367376527" y1="210.18407440808872" x2="304.2817811931753" y2="213.7867357464986" stroke="#48cae4" stroke-width="1"></line><circle cx="304.2817811931753" cy="213.7867357464986" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="304.11048240795856" y1="205.26451759204144" x2="298.9411795727362" y2="206.64962811217117" stroke="#48cae4" stroke-width="1"></line><circle cx="298.9411795727362" cy="206.64962811217117" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="299.19092559191125" y1="198.85322632623473" x2="294.98331446874374" y2="198.85322632623473" stroke="#48cae4" stroke-width="1"></line><circle cx="294.98331446874374" cy="198.85322632623473" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="296.09836289268503" y1="191.38711951527355" x2="292.1576427584509" y2="190.33120673770844" stroke="#48cae4" stroke-width="1"></line><circle cx="292.1576427584509" cy="190.33120673770844" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="295.04354734753053" y1="183.375" x2="290.711438475936" y2="180.87385577682613" stroke="#48cae4" stroke-width="1"></line><circle cx="290.711438475936" cy="180.87385577682613" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="296.09836289268503" y1="175.36288048472645" x2="291.34089360161624" y2="170.60541119365763" stroke="#48cae4" stroke-width="1"></line><circle cx="291.34089360161624" cy="170.60541119365763" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="299.19092559191125" y1="167.89677367376527" x2="294.7935869303211" y2="160.28035969380426" stroke="#48cae4" stroke-width="1"></line><circle cx="294.7935869303211" cy="160.28035969380426" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="304.11048240795856" y1="161.48548240795856" x2="301.35448820644797" y2="151.1999720225558" stroke="#48cae4" stroke-width="1"></line><circle cx="301.35448820644797" cy="151.1999720225558" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="310.52177367376527" y1="156.56592559191128" x2="310.52177367376527" y2="144.7735367150788" stroke="#48cae4" stroke-width="1"></line><circle cx="310.52177367376527" cy="144.7735367150788" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="317.9878804847265" y1="153.473362892685" x2="321.0730724288017" y2="141.95926980629406" stroke="#48cae4" stroke-width="1"></line><circle cx="321.0730724288017" cy="141.95926980629406" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="152.41854734753053" x2="331.49885577682613" y2="142.89424975857406" stroke="#48cae4" stroke-width="1"></line><circle cx="331.49885577682613" cy="142.89424975857406" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="334.0121195152735" y1="153.473362892685" x2="340.5683587231895" y2="146.91712368476905" stroke="#48cae4" stroke-width="1"></line><circle cx="340.5683587231895" cy="146.91712368476905" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="341.47822632623473" y1="156.56592559191128" x2="347.7182188068247" y2="152.9632642535014" stroke="#48cae4" stroke-width="1"></line><circle cx="347.7182188068247" cy="152.9632642535014" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="347.88951759204144" y1="161.48548240795856" x2="353.0588204272638" y2="160.10037188782883" stroke="#48cae4" stroke-width="1"></line><circle cx="353.0588204272638" cy="160.10037188782883" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="352.8090744080887" y1="167.89677367376524" x2="357.0166855312562" y2="167.89677367376524" stroke="#48cae4" stroke-width="1"></line><circle cx="357.0166855312562" cy="167.89677367376524" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="355.90163710731497" y1="175.36288048472642" x2="359.8423572415491" y2="176.41879326229153" stroke="#48cae4" stroke-width="1"></line><circle cx="359.8423572415491" cy="176.41879326229153" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="372.18160061831657" y1="183.375" x2="376.5137094899111" y2="185.87614422317387" stroke="#48cae4" stroke-width="1"></line><circle cx="376.5137094899111" cy="185.87614422317387" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="370.6080007365992" y1="195.32767777333868" x2="375.365470027668" y2="200.0851470644075" stroke="#48cae4" stroke-width="1"></line><circle cx="375.365470027668" cy="200.0851470644075" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="365.99443932288926" y1="206.46580030915828" x2="370.3917779844794" y2="214.0822142891193" stroke="#48cae4" stroke-width="1"></line><circle cx="370.3917779844794" cy="214.0822142891193" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="358.6553229632605" y1="216.0303229632605" x2="361.4113171647711" y2="226.31583334866323" stroke="#48cae4" stroke-width="1"></line><circle cx="361.4113171647711" cy="226.31583334866323" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="349.0908003091583" y1="223.3694393228893" x2="349.0908003091583" y2="235.16182819972178" stroke="#48cae4" stroke-width="1"></line><circle cx="349.0908003091583" cy="235.16182819972178" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="337.9526777733387" y1="227.98300073659917" x2="334.86748582926344" y2="239.4970938229901" stroke="#48cae4" stroke-width="1"></line><circle cx="334.86748582926344" cy="239.4970938229901" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="229.55660061831657" x2="320.50114422317387" y2="239.08089820727304" stroke="#48cae4" stroke-width="1"></line><circle cx="320.50114422317387" cy="239.08089820727304" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="314.0473222266613" y1="227.98300073659917" x2="307.49108301874537" y2="234.53923994451512" stroke="#48cae4" stroke-width="1"></line><circle cx="307.49108301874537" cy="234.53923994451512" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="302.9091996908417" y1="223.3694393228893" x2="296.6692072102517" y2="226.97210066129918" stroke="#48cae4" stroke-width="1"></line><circle cx="296.6692072102517" cy="226.97210066129918" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="293.3446770367395" y1="216.03032296326052" x2="288.1753742015171" y2="217.41543348339025" stroke="#48cae4" stroke-width="1"></line><circle cx="288.1753742015171" cy="217.41543348339025" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="286.00556067711074" y1="206.46580030915828" x2="281.7979495539432" y2="206.46580030915828" stroke="#48cae4" stroke-width="1"></line><circle cx="281.7979495539432" cy="206.46580030915828" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="281.3919992634008" y1="195.32767777333868" x2="277.45127912916666" y2="194.27176499577357" stroke="#48cae4" stroke-width="1"></line><circle cx="277.45127912916666" cy="194.27176499577357" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="279.81839938168343" y1="183.375" x2="275.4862905100889" y2="180.87385577682613" stroke="#48cae4" stroke-width="1"></line><circle cx="275.4862905100889" cy="180.87385577682613" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="281.3919992634008" y1="171.42232222666132" x2="276.634529972332" y2="166.6648529355925" stroke="#48cae4" stroke-width="1"></line><circle cx="276.634529972332" cy="166.6648529355925" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="286.0055606771107" y1="160.28419969084172" x2="281.60822201552054" y2="152.6677857108807" stroke="#48cae4" stroke-width="1"></line><circle cx="281.60822201552054" cy="152.6677857108807" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="293.3446770367395" y1="150.7196770367395" x2="290.5886828352289" y2="140.43416665133677" stroke="#48cae4" stroke-width="1"></line><circle cx="290.5886828352289" cy="140.43416665133677" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="302.9091996908417" y1="143.38056067711074" x2="302.9091996908417" y2="131.58817180027825" stroke="#48cae4" stroke-width="1"></line><circle cx="302.9091996908417" cy="131.58817180027825" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="314.0473222266613" y1="138.76699926340083" x2="317.13251417073656" y2="127.25290617700989" stroke="#48cae4" stroke-width="1"></line><circle cx="317.13251417073656" cy="127.25290617700989" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="137.19339938168343" x2="331.49885577682613" y2="127.66910179272695" stroke="#48cae4" stroke-width="1"></line><circle cx="331.49885577682613" cy="127.66910179272695" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="337.9526777733387" y1="138.7669992634008" x2="344.50891698125463" y2="132.21076005548485" stroke="#48cae4" stroke-width="1"></line><circle cx="344.50891698125463" cy="132.21076005548485" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="349.0908003091583" y1="143.3805606771107" x2="355.3307927897483" y2="139.77789933870082" stroke="#48cae4" stroke-width="1"></line><circle cx="355.3307927897483" cy="139.77789933870082" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="358.65532296326046" y1="150.71967703673948" x2="363.8246257984828" y2="149.33456651660975" stroke="#48cae4" stroke-width="1"></line><circle cx="363.8246257984828" cy="149.33456651660975" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="365.99443932288926" y1="160.2841996908417" x2="370.2020504460568" y2="160.2841996908417" stroke="#48cae4" stroke-width="1"></line><circle cx="370.2020504460568" cy="160.2841996908417" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="370.60800073659914" y1="171.4223222266613" x2="374.5487208708333" y2="172.4782350042264" stroke="#48cae4" stroke-width="1"></line><circle cx="374.5487208708333" cy="172.4782350042264" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="394.89485237901005" y1="183.375" x2="399.2269612506046" y2="185.87614422317387" stroke="#48cae4" stroke-width="1"></line><circle cx="399.2269612506046" cy="185.87614422317387" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="392.54731721125864" y1="201.2062999052145" x2="397.30478650232743" y2="205.96376919628332" stroke="#48cae4" stroke-width="1"></line><circle cx="397.30478650232743" cy="205.96376919628332" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="385.66469235020145" y1="217.822426189505" x2="390.0620310117916" y2="225.438840169466" stroke="#48cae4" stroke-width="1"></line><circle cx="390.0620310117916" cy="225.438840169466" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="374.71601730604414" y1="232.09101730604414" x2="377.4720115075547" y2="242.37652769144688" stroke="#48cae4" stroke-width="1"></line><circle cx="377.4720115075547" cy="242.37652769144688" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="360.447426189505" y1="243.03969235020145" x2="360.447426189505" y2="254.83208122703394" stroke="#48cae4" stroke-width="1"></line><circle cx="360.447426189505" cy="254.83208122703394" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="343.8312999052145" y1="249.92231721125864" x2="340.7461079611393" y2="261.4364102976496" stroke="#48cae4" stroke-width="1"></line><circle cx="340.7461079611393" cy="261.4364102976496" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="252.26985237901005" x2="320.50114422317387" y2="261.7941499679665" stroke="#48cae4" stroke-width="1"></line><circle cx="320.50114422317387" cy="261.7941499679665" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="308.1687000947855" y1="249.92231721125864" x2="301.61246088686954" y2="256.4785564191746" stroke="#48cae4" stroke-width="1"></line><circle cx="301.61246088686954" cy="256.4785564191746" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="291.552573810495" y1="243.03969235020145" x2="285.312581329905" y2="246.64235368861134" stroke="#48cae4" stroke-width="1"></line><circle cx="285.312581329905" cy="246.64235368861134" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="277.28398269395586" y1="232.09101730604414" x2="272.1146798587335" y2="233.47612782617387" stroke="#48cae4" stroke-width="1"></line><circle cx="272.1146798587335" cy="233.47612782617387" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="266.33530764979855" y1="217.822426189505" x2="262.12769652663104" y2="217.822426189505" stroke="#48cae4" stroke-width="1"></line><circle cx="262.12769652663104" cy="217.822426189505" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="259.45268278874136" y1="201.20629990521454" x2="255.51196265450722" y2="200.15038712764942" stroke="#48cae4" stroke-width="1"></line><circle cx="255.51196265450722" cy="200.15038712764942" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="257.10514762098995" y1="183.375" x2="252.77303874939543" y2="180.87385577682613" stroke="#48cae4" stroke-width="1"></line><circle cx="252.77303874939543" cy="180.87385577682613" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="259.45268278874136" y1="165.5437000947855" x2="254.69521349767254" y2="160.78623080371668" stroke="#48cae4" stroke-width="1"></line><circle cx="254.69521349767254" cy="160.78623080371668" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="266.33530764979855" y1="148.927573810495" x2="261.9379689882084" y2="141.311159830534" stroke="#48cae4" stroke-width="1"></line><circle cx="261.9379689882084" cy="141.311159830534" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="277.28398269395586" y1="134.6589826939559" x2="274.5279884924453" y2="124.37347230855315" stroke="#48cae4" stroke-width="1"></line><circle cx="274.5279884924453" cy="124.37347230855315" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="291.55257381049495" y1="123.71030764979857" x2="291.55257381049495" y2="111.91791877296606" stroke="#48cae4" stroke-width="1"></line><circle cx="291.55257381049495" cy="111.91791877296606" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="308.1687000947855" y1="116.82768278874136" x2="311.2538920388607" y2="105.31358970235041" stroke="#48cae4" stroke-width="1"></line><circle cx="311.2538920388607" cy="105.31358970235041" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="114.48014762098997" x2="331.49885577682613" y2="104.95585003203348" stroke="#48cae4" stroke-width="1"></line><circle cx="331.49885577682613" cy="104.95585003203348" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="343.83129990521445" y1="116.82768278874134" x2="350.3875391131304" y2="110.27144358082538" stroke="#48cae4" stroke-width="1"></line><circle cx="350.3875391131304" cy="110.27144358082538" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="360.447426189505" y1="123.71030764979855" x2="366.687418670095" y2="120.10764631138868" stroke="#48cae4" stroke-width="1"></line><circle cx="366.687418670095" cy="120.10764631138868" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="374.71601730604414" y1="134.65898269395586" x2="379.8853201412665" y2="133.27387217382613" stroke="#48cae4" stroke-width="1"></line><circle cx="379.8853201412665" cy="133.27387217382613" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="385.66469235020145" y1="148.92757381049495" x2="389.87230347336896" y2="148.92757381049495" stroke="#48cae4" stroke-width="1"></line><circle cx="389.87230347336896" cy="148.92757381049495" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="392.54731721125864" y1="165.54370009478544" x2="396.4880373454928" y2="166.59961287235055" stroke="#48cae4" stroke-width="1"></line><circle cx="396.4880373454928" cy="166.59961287235055" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="428.77904231935656" y1="183.375" x2="433.1111511909511" y2="185.87614422317387" stroke="#48cae4" stroke-width="1"></line><circle cx="433.1111511909511" cy="185.87614422317387" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="425.2769313775236" y1="209.97617358964743" x2="430.0344006685924" y2="214.73364288071625" stroke="#48cae4" stroke-width="1"></line><circle cx="430.0344006685924" cy="214.73364288071625" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="415.0092616251987" y1="234.76452115967828" x2="419.40660028678883" y2="242.3809351396393" stroke="#48cae4" stroke-width="1"></line><circle cx="419.40660028678883" cy="242.3809351396393" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="398.6757577878762" y1="256.0507577878762" x2="401.4317519893868" y2="266.33626817327894" stroke="#48cae4" stroke-width="1"></line><circle cx="401.4317519893868" cy="266.33626817327894" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="377.38952115967834" y1="272.3842616251987" x2="377.38952115967834" y2="284.1766505020312" stroke="#48cae4" stroke-width="1"></line><circle cx="377.38952115967834" cy="284.1766505020312" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="352.60117358964743" y1="282.6519313775236" x2="349.5159816455722" y2="294.1660244639146" stroke="#48cae4" stroke-width="1"></line><circle cx="349.5159816455722" cy="294.1660244639146" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="286.15404231935656" x2="320.50114422317387" y2="295.67833990831303" stroke="#48cae4" stroke-width="1"></line><circle cx="320.50114422317387" cy="295.67833990831303" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="299.39882641035257" y1="282.6519313775236" x2="292.8425872024366" y2="289.2081705854396" stroke="#48cae4" stroke-width="1"></line><circle cx="292.8425872024366" cy="289.2081705854396" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="274.6104788403217" y1="272.3842616251987" x2="268.37048635973173" y2="275.98692296360855" stroke="#48cae4" stroke-width="1"></line><circle cx="268.37048635973173" cy="275.98692296360855" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="253.3242422121238" y1="256.0507577878762" x2="248.15493937690147" y2="257.4358683080059" stroke="#48cae4" stroke-width="1"></line><circle cx="248.15493937690147" cy="257.4358683080059" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="236.9907383748013" y1="234.76452115967828" x2="232.7831272516338" y2="234.76452115967828" stroke="#48cae4" stroke-width="1"></line><circle cx="232.7831272516338" cy="234.76452115967828" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="226.72306862247638" y1="209.97617358964746" x2="222.78234848824223" y2="208.92026081208235" stroke="#48cae4" stroke-width="1"></line><circle cx="222.78234848824223" cy="208.92026081208235" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="223.2209576806434" y1="183.375" x2="218.88884880904888" y2="180.87385577682613" stroke="#48cae4" stroke-width="1"></line><circle cx="218.88884880904888" cy="180.87385577682613" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="226.72306862247638" y1="156.77382641035254" x2="221.96559933140756" y2="152.01635711928373" stroke="#48cae4" stroke-width="1"></line><circle cx="221.96559933140756" cy="152.01635711928373" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="236.99073837480128" y1="131.98547884032172" x2="232.59339971321117" y2="124.36906486036071" stroke="#48cae4" stroke-width="1"></line><circle cx="232.59339971321117" cy="124.36906486036071" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="253.32424221212378" y1="110.69924221212385" x2="250.5682480106132" y2="100.41373182672112" stroke="#48cae4" stroke-width="1"></line><circle cx="250.5682480106132" cy="100.41373182672112" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="274.61047884032166" y1="94.36573837480132" x2="274.61047884032166" y2="82.57334949796882" stroke="#48cae4" stroke-width="1"></line><circle cx="274.61047884032166" cy="82.57334949796882" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="299.39882641035257" y1="84.09806862247636" x2="302.4840183544278" y2="72.58397553608542" stroke="#48cae4" stroke-width="1"></line><circle cx="302.4840183544278" cy="72.58397553608542" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="326" y1="80.59595768064341" x2="331.49885577682613" y2="71.07166009168692" stroke="#48cae4" stroke-width="1"></line><circle cx="331.49885577682613" cy="71.07166009168692" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="352.6011735896474" y1="84.09806862247635" x2="359.1574127975633" y2="77.5418294145604" stroke="#48cae4" stroke-width="1"></line><circle cx="359.1574127975633" cy="77.5418294145604" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="377.38952115967834" y1="94.36573837480131" x2="383.6295136402683" y2="90.76307703639144" stroke="#48cae4" stroke-width="1"></line><circle cx="383.6295136402683" cy="90.76307703639144" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="398.67575778787614" y1="110.69924221212379" x2="403.8450606230985" y2="109.31413169199405" stroke="#48cae4" stroke-width="1"></line><circle cx="403.8450606230985" cy="109.31413169199405" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="415.0092616251987" y1="131.98547884032166" x2="419.2168727483662" y2="131.98547884032166" stroke="#48cae4" stroke-width="1"></line><circle cx="419.2168727483662" cy="131.98547884032166" r="1.5" fill="#ffb703"></circle></g><g opacity="0.7"><line x1="425.2769313775236" y1="156.77382641035248" x2="429.21765151175777" y2="157.8297391879176" stroke="#48cae4" stroke-width="1"></line><circle cx="429.21765151175777" cy="157.8297391879176" r="1.5" fill="#ffb703"></circle></g></g><circle cx="228.2" cy="183.375" r="70" fill="rgba(251, 133, 0, 0.2)" stroke="#fb8500" stroke-width="1.5"></circle><circle cx="228.2" cy="183.375" r="42" fill="none" stroke="#f72585" stroke-width="1" stroke-dasharray="2 2"></circle><polygon points="
+              303.8,255.375
+              543.8,255.375
+              423.8,87.375
+            " fill="rgba(114, 9, 183, 0.25)" stroke="#7209b7" stroke-width="1.5"></polygon><path d="
+              M 323.8 243.375
+              Q 423.8 263.375 523.8 243.375
+              L 423.8 93.375
+              Z
+            " fill="rgba(72, 202, 228, 0.2)" stroke="#48cae4" stroke-width="1.5"></path><circle cx="423.8" cy="87.375" r="4" fill="#f72585"></circle><circle cx="423.8" cy="93.375" r="3" fill="#48cae4"></circle><circle cx="326" cy="183.375" r="5" fill="#ffb703" stroke="#0d1117" stroke-width="1.5"></circle></svg>
