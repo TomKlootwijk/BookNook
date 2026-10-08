@@ -1,218 +1,80 @@
 {
-  "at": "2026-10-08T05:53:15.868546+00:00",
+  "at": "2026-10-08T20:48:41.465245+00:00",
   "date": "2026-10-08",
-  "openAiModeTabs": 94,
-  "uniqueOpenConversations": 92,
-  "method": "Read-only extraction, with saved-URL recovery authorized by the user on 8 October 2026.",
+  "batchId": "2026-10-08-evening",
+  "openAiModeTabs": 104,
+  "uniqueOpenConversations": 99,
+  "method": "Read-only DOM extraction from open Chrome tabs, with saved-URL recovery for new conversations.",
   "records": [
     {
-      "ordinal": 46,
-      "tabId": "1037241022",
-      "title": "little crystals that are affected by light where people think that foveated rendering iris pupil vocal point is conduit to turn off neurological switches and they hook into patterns that are limited because they are sharp and the eye isnt - Google Search",
-      "status": "unchanged",
+      "ordinal": 118,
+      "tabId": "1037241498",
+      "title": "sounds like there is a lot of interest as in accumulating cost sunk cost fallacy stop losses games .io us https://youtu.be/YgF98vyn2fY?is=TxVZAFHeE_ZFt0R8 - Google Search",
+      "status": "added",
+      "counts": {
+        "prompts": 29,
+        "responses": 29
+      }
+    },
+    {
+      "ordinal": 119,
+      "tabId": "1037241492",
+      "title": "that hunting buddy of jimbo south park vocoder? - Google Search",
+      "status": "added",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      }
+    },
+    {
+      "ordinal": 120,
+      "tabId": "1037241456",
+      "title": "trefoilutie turmoil gamious - Google Search",
+      "status": "added",
       "counts": {
         "prompts": 2,
         "responses": 2
-      },
-      "recoveredFromSavedUrl": false
+      }
     },
     {
-      "ordinal": 47,
-      "tabId": "1037241066",
-      "title": "tardnation where everyone is not chromosome 21 divergent and not my paradigm it leaves a rainbow between ends of the spectrum that can be mapped around chromosome development - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 8,
-        "responses": 8
-      },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 48,
-      "tabId": "1037241017",
-      "title": "that wishing lantern that you light a candle and then make a wish flying one like a hot air balloon - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 11,
-        "responses": 11
-      },
-      "recoveredFromSavedUrl": false
-    },
-    {
-      "ordinal": 49,
-      "tabId": "1037241063",
-      "title": "that person with down syndrome that got their phd and how long did it take to make it - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 15,
-        "responses": 15
-      },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 50,
-      "tabId": "1037241060",
-      "title": "kus t ard - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 51,
-      "tabId": "1037241057",
-      "title": "those cisco routers that organizations use, the white ones, wireless that I see on the ceiling, what bands are they using? - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 52,
-      "tabId": "1037241054",
-      "title": "proprioceptive birth control - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 53,
-      "tabId": "1037240939",
-      "title": "I take one point I split it into two by crosseye and then I move my hand in a way that makes half a circle, but because both points move they end up in the same point but the point moved what is the missing component in this - Google Search",
+      "ordinal": 12,
+      "tabId": "1037241290",
+      "title": "svalbard norway capstone project (the literal entrance and the hinge pivot point of the 45 degree side front view birdseye - Google Search",
       "status": "unchanged",
       "counts": {
         "prompts": 10,
         "responses": 10
-      },
-      "recoveredFromSavedUrl": false
+      }
     },
     {
-      "ordinal": 54,
-      "tabId": "1037240915",
-      "title": "1tjes en 0tjes wifi verbinding en 5G zweven die door de lucht of door het water - Google Search",
-      "status": "unchanged",
+      "ordinal": 121,
+      "tabId": "1037241495",
+      "title": "skull monkey 3D model directx shader old xna - Google Search",
+      "status": "added",
       "counts": {
-        "prompts": 11,
-        "responses": 11
-      },
-      "recoveredFromSavedUrl": false
+        "prompts": 1,
+        "responses": 1
+      }
     },
     {
-      "ordinal": 55,
-      "tabId": "1037240936",
-      "title": "als ik vooraan staan en ik verlies een seconde dan 2e hans pole positie a neck niet meer - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 14,
-        "responses": 14
-      },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 56,
-      "tabId": "1037239980",
-      "title": "Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      },
-      "recoveredFromSavedUrl": false
-    },
-    {
-      "ordinal": 57,
-      "tabId": "1037239834",
-      "title": "low power mode and time skipping where you zonk out and just only take in a few cues - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      },
-      "recoveredFromSavedUrl": false
-    },
-    {
-      "ordinal": 58,
-      "tabId": "1037239897",
-      "title": "what do you call a collective level of stupid and the realization of such - Google Search",
-      "status": "unchanged",
+      "ordinal": 122,
+      "tabId": "1037241386",
+      "title": "datta not data in quantum storage, refering to double slit... - Google Search",
+      "status": "added",
       "counts": {
         "prompts": 4,
         "responses": 4
-      },
-      "recoveredFromSavedUrl": true
+      }
     },
     {
-      "ordinal": 59,
-      "tabId": "1037239885",
-      "title": "waar zat aurum voordat ze in zaandam zaten in amsterdam? of was dat siebel? het hoofdkantoor - Google Search",
+      "ordinal": 9,
+      "tabId": "1037241459",
+      "title": "rechtszaak aanspannen tegen psycholoog in nederland - Google Search",
       "status": "unchanged",
       "counts": {
-        "prompts": 5,
-        "responses": 5
-      },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 60,
-      "tabId": "1037239882",
-      "title": "duivendrechtsekade oude hva informatica en dat lab bedrijf (salt?) en inforsa - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 61,
-      "tabId": "1037239879",
-      "title": "gdpr request cognizant mirabeau aurum siebel - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 4,
-        "responses": 4
-      },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 62,
-      "tabId": "1037239838",
-      "title": "gdpr request google, chatgpt openai codex grok xai - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 63,
-      "tabId": "1037239682",
-      "title": "wie beheert de it afdeling en data van arkin welk it bedrijf en het internet daar en interne data verkeer - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      },
-      "recoveredFromSavedUrl": false
-    },
-    {
-      "ordinal": 64,
-      "tabId": "1037239760",
-      "title": "dashboard corona melder lek mark rutte - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "recoveredFromSavedUrl": true
+        "prompts": 6,
+        "responses": 6
+      }
     },
     {
       "ordinal": 65,
@@ -222,8 +84,229 @@
       "counts": {
         "prompts": 20,
         "responses": 20
+      }
+    },
+    {
+      "ordinal": 123,
+      "tabId": "1037241315",
+      "title": "groen and the orangists - Google Search",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 55,
+      "tabId": "1037241307",
+      "title": "als ik vooraan staan en ik verlies een seconde dan 2e hans pole positie a neck niet meer - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 14,
+        "responses": 14
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 49,
+      "tabId": "1037241304",
+      "title": "that person with down syndrome that got their phd and how long did it take to make it - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 15,
+        "responses": 15
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 124,
+      "tabId": "1037241112",
+      "title": "e-nummers amerika - Google Search",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 46,
+      "tabId": "1037241022",
+      "title": "little crystals that are affected by light where people think that foveated rendering iris pupil vocal point is conduit to turn off neurological switches and they hook into patterns that are limited because they are sharp and the eye isnt - Google Search",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 47,
+      "tabId": "1037241066",
+      "title": "tardnation where everyone is not chromosome 21 divergent and not my paradigm it leaves a rainbow between ends of the spectrum that can be mapped around chromosome development - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 48,
+      "tabId": "1037241017",
+      "title": "that wishing lantern that you light a candle and then make a wish flying one like a hot air balloon - Google Search",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      }
+    },
+    {
+      "ordinal": 50,
+      "tabId": "1037241060",
+      "title": "kus t ard - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 51,
+      "tabId": "1037241057",
+      "title": "those cisco routers that organizations use, the white ones, wireless that I see on the ceiling, what bands are they using? - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 52,
+      "tabId": "1037241054",
+      "title": "proprioceptive birth control - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 53,
+      "tabId": "1037240939",
+      "title": "I take one point I split it into two by crosseye and then I move my hand in a way that makes half a circle, but because both points move they end up in the same point but the point moved what is the missing component in this - Google Search",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 54,
+      "tabId": "1037240915",
+      "title": "1tjes en 0tjes wifi verbinding en 5G zweven die door de lucht of door het water - Google Search",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      }
+    },
+    {
+      "ordinal": 56,
+      "tabId": "1037239980",
+      "title": "Google Search",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 57,
+      "tabId": "1037239834",
+      "title": "low power mode and time skipping where you zonk out and just only take in a few cues - Google Search",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 58,
+      "tabId": "1037239897",
+      "title": "what do you call a collective level of stupid and the realization of such - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 59,
+      "tabId": "1037239885",
+      "title": "waar zat aurum voordat ze in zaandam zaten in amsterdam? of was dat siebel? het hoofdkantoor - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 60,
+      "tabId": "1037239882",
+      "title": "duivendrechtsekade oude hva informatica en dat lab bedrijf (salt?) en inforsa - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 61,
+      "tabId": "1037239879",
+      "title": "gdpr request cognizant mirabeau aurum siebel - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 62,
+      "tabId": "1037239838",
+      "title": "gdpr request google, chatgpt openai codex grok xai - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
+    },
+    {
+      "ordinal": 63,
+      "tabId": "1037239682",
+      "title": "wie beheert de it afdeling en data van arkin welk it bedrijf en het internet daar en interne data verkeer - Google Search",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 64,
+      "tabId": "1037239760",
+      "title": "dashboard corona melder lek mark rutte - Google Search",
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 66,
@@ -233,213 +316,249 @@
       "counts": {
         "prompts": 20,
         "responses": 20
-      },
-      "recoveredFromSavedUrl": false
+      }
     },
     {
       "ordinal": 17,
       "tabId": "1037239487",
       "title": "arrow of time spearhead an apex T a side view of the pyramid a sphere a circle - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 13,
       "tabId": "1037239466",
       "title": "sim towers with infinite procedural scroll game idea - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
-    },
-    {
-      "ordinal": 9,
-      "tabId": "1037239460",
-      "title": "rechtszaak aanspannen tegen psycholoog in nederland - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 67,
       "tabId": "1037239361",
       "title": "3 node sphere graph trefoil pandemic biohazard 1.5 meter distance radius 3 x 3 = 9 - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 7,
       "tabId": "1037239358",
       "title": "cryptex svalbard seedbank concept - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 68,
       "tabId": "1037239355",
       "title": "how good is grok for coding and formalizing stuff - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 28,
       "tabId": "1037239352",
       "title": "pareto principle and 3.5% hostile takeover corporate raider strategy - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 69,
       "tabId": "1037239346",
       "title": "nvidia gtc 2018 metropolis \"smart cities\" we run the city ssid uu ID the ID of being digital instead of dooh'ing physical - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 3,
         "responses": 3
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 70,
       "tabId": "1037239343",
       "title": "priem getal fibonacci reeks - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 6,
         "responses": 6
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 71,
       "tabId": "1037239340",
       "title": "vivisectie ank glyph - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 3,
         "responses": 3
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 72,
       "tabId": "1037239337",
       "title": "rat onder een emmer met een fakkel er op op onderbuik gevoel van die film met die misdadigers - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 10,
       "tabId": "1037239334",
       "title": "driver san francisco game mechanic main - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 73,
       "tabId": "1037239331",
       "title": "her mot as an anagram for umbelical cord and love sick with sex - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 74,
       "tabId": "1037239328",
       "title": "kaiju pacific rim dual soul bound mech control - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 21,
       "tabId": "1037239316",
       "title": "biohazard symbol official - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 22,
       "tabId": "1037239396",
       "title": "fifth earl grey tsar 5 topology spherical geometric chemical modelling digital twin - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 32,
       "tabId": "1037239313",
       "title": "9-splice 3D biohazard model of the nuclei of an atom warning sign of... - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 36,
       "tabId": "1037239310",
       "title": "eikonal distance - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 75,
       "tabId": "1037239307",
       "title": "4th order runge kuta where the 4th element of the vector is time pinion W lower case phi - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 4,
         "responses": 4
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 76,
       "tabId": "1037239304",
       "title": "nihilanth and vortigaunt and g-man as in tethered umbilical cord - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 77,
       "tabId": "1037239301",
       "title": "double hadamard product pinions doubly packed signed distance fields eigenvector axis binary search tree log encoded polar LUT kinematic calculus - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 9,
         "responses": 9
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 2,
       "tabId": "1037239298",
       "title": "fat neck thumb guy at a seal angle face sideways angle photo so the garbage bin of aesthetically pleasing - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 6,
       "tabId": "1037239295",
       "title": "Cyclical Phi Notation - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 78,
@@ -449,8 +568,7 @@
       "counts": {
         "prompts": 4,
         "responses": 4
-      },
-      "recoveredFromSavedUrl": false
+      }
     },
     {
       "ordinal": 79,
@@ -460,8 +578,7 @@
       "counts": {
         "prompts": 7,
         "responses": 7
-      },
-      "recoveredFromSavedUrl": false
+      }
     },
     {
       "ordinal": 80,
@@ -471,535 +588,500 @@
       "counts": {
         "prompts": 2,
         "responses": 2
-      },
-      "recoveredFromSavedUrl": false
+      }
     },
     {
       "ordinal": 81,
       "tabId": "1037239268",
       "title": "solus ion ad infinitum - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 82,
       "tabId": "1037239265",
       "title": "jit in time logistics - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 10,
         "responses": 10
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 83,
       "tabId": "1037239250",
       "title": "joint strike fighter programma skunkworks nederland - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 84,
       "tabId": "1037239256",
       "title": "small world network graph 7 notated as 0 order computer science notation so never 7 wikipedia hitler game np hard traveling salesman problem - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 20,
         "responses": 20
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 85,
       "tabId": "1037239262",
       "title": "foveated iris tracking index valve - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 86,
       "tabId": "1037239137",
       "title": "gitmo torture waterboarding and other techniques - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 4,
         "responses": 4
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 87,
-      "tabId": "1037237475",
+      "tabId": "1037241287",
       "title": "meta games game theory 0 sum - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 88,
-      "tabId": "1037237482",
+      "tabId": "1037241284",
       "title": "approaching derivation and deviation based on religious beliefs and different sects and norms and then geographical dispersion and location of intermingling cultures (sociological and biochemical and gene expressions and...) - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 89,
-      "tabId": "1037237480",
+      "tabId": "1037241281",
       "title": "when you swizzle molecular medication substances and press a pill, does the coagulant bonding used affect the effects of the... - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 90,
-      "tabId": "1037237474",
+      "tabId": "1037241278",
       "title": "that styrofoam squeek and flower plastic foil sound frequency makes me feel bad inside - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 42,
-      "tabId": "1037237393",
+      "tabId": "1037241275",
       "title": "fault lines seismic game input output LUS log encoded polar LUT kinematic calculus mosTADPOLE (the green one) - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: playwright.evaluate exceeded its deadline"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 17,
+        "responses": 17
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 91,
-      "tabId": "1037237484",
+      "tabId": "1037241272",
       "title": "willful idiot mcnamara's morons - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 92,
-      "tabId": "1037237483",
+      "tabId": "1037241266",
       "title": "dna rna profile targeted biochemical weapon developments? possibility - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 93,
-      "tabId": "1037237478",
+      "tabId": "1037241263",
       "title": "tno chemische wapen research en ontwikkeling (RD DOOR) - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
-        "prompts": 2,
-        "responses": 2
+        "prompts": 3,
+        "responses": 3
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 94,
-      "tabId": "1037237481",
+      "tabId": "1037241260",
       "title": "bestiality and dangers of literally every facet of human life behavior and affordances - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 8,
-      "tabId": "1037237413",
+      "tabId": "1037241257",
       "title": "argon gas freon ac closed loop coolant - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 4,
-      "tabId": "1037237419",
+      "tabId": "1037241254",
       "title": "skulking as in bawing teardrop rupert - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 15,
         "responses": 15
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 45,
       "tabId": "1037239650",
       "title": "doperwten stamppot met jus en bal gehakt - Google Search",
-      "status": "previous_capture_retained",
-      "reason": "Error: CDP operation exceeded its deadline before command dispatch"
+      "status": "previous_capture_retained_unreadable",
+      "counts": {
+        "prompts": 23,
+        "responses": 23
+      },
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 95,
-      "tabId": "1037237479",
+      "tabId": "1037241251",
       "title": "homo word meaning - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 4,
         "responses": 4
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 96,
-      "tabId": "1037237456",
+      "tabId": "1037241248",
       "title": "meneba clausbrug wormerveer - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 3,
         "responses": 3
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 97,
-      "tabId": "1037237441",
+      "tabId": "1037241245",
       "title": "peasant thesaurus Serf peon e7 e8 promote - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 98,
-      "tabId": "1037237477",
+      "tabId": "1037241242",
       "title": "hadamard product where the encircled dot is a vector and the circle is the radius and the radius lower case phi defines the signed distance field aura - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 99,
-      "tabId": "1037237476",
+      "tabId": "1037241239",
       "title": "blast sequencing - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 100,
-      "tabId": "1037237437",
+      "tabId": "1037241236",
       "title": "pathogen spread of bio non modified crops as fertility decreasing vectors tracking where GMOs aren't the problem its... - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 3,
         "responses": 3
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 101,
-      "tabId": "1037237435",
+      "tabId": "1037241233",
       "title": "nederland 1 predator drone - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 4,
         "responses": 4
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 102,
-      "tabId": "1037237446",
+      "tabId": "1037241221",
       "title": "me nono in the pool - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 103,
-      "tabId": "1037237469",
+      "tabId": "1037241218",
       "title": "cloudflare lava lamp encryption cameras - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 104,
-      "tabId": "1037237471",
+      "tabId": "1037241212",
       "title": "koppentelling - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 4,
         "responses": 4
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 105,
-      "tabId": "1037237438",
+      "tabId": "1037241209",
       "title": "dichotomy - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 106,
-      "tabId": "1037237470",
+      "tabId": "1037241206",
       "title": "47 laws of power (46+2 0 order computer science notation) machiavelli as your shadow grows - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 43,
-      "tabId": "1037237394",
+      "tabId": "1037241200",
       "title": "bam photonics grant - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 4,
         "responses": 4
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 107,
-      "tabId": "1037237463",
+      "tabId": "1037241197",
       "title": "clean rooms - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 108,
-      "tabId": "1037237466",
+      "tabId": "1037241194",
       "title": "school swarm magnetic field 0 and 1 digital information signals - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 109,
-      "tabId": "1037237464",
-      "title": "meningokokken plaatjes - Google Search",
-      "status": "unchanged",
+      "tabId": "1037241191",
+      "title": "https://www.google.com/search?q=meningokokken+plaatjes&client=ms-android-xiaomi-terr2-rso2&hs=wsjq&sca_esv=e1de76b764c5d6d7&sxsrf=APpeQns5lTxisVX6OR_LwSOSW3NG-TyweA%3A1790931706806&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832QGGMdFXpDyzkQgEdtB8w9y513h_dJNevWM0LJgfK9j1Vvlz6It0tSfbVov3E-VOkryIEvL1z5AkkBpbmExjd3luLlCC4KL4uz7_0S6dU874XxpVaRFVAyRTJk4IJDK4fST9xTQ&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjDo83B_JqXAxUtgf0HHbcwPBMQ2J8OegQIEBAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfAt17Qcf93kvwiQxSBr-umJ0t5oN--ES1H55kRAOYp-kh81HFp3zB37jvK7YAxZoikvkfrBtlS1fPATqtpnycn8DFghJWzZnaBSxGZCVWm9yaCytGr-ixzaxg8bn3wN47KC6DpRAxvT_WvuzNVvv5-uErGycEffQ9n3-CxWmaP2fUwj68G0DjbJc2rpOc2OXQ9qz2mtA2e1YU59ridG-C6S6IeC7hSbPvmpYV54Ib8LutvBOMCqbIg-fEbbKSaev1HcS6Va4Ec-63TXXOF21dd1bfyp089OnFC3dZ4bwIucx4BcMiPeSgoCoilQnJ1py1iAxAgXm_KtTA&csuir=1&mtid=_3K_atqYK5uU9u8P1OO32Q0&udm=50&lns_mode=cvst",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 8,
         "responses": 8
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 110,
-      "tabId": "1037237465",
-      "title": "radioactief in je bloedbaan om te belichten wat er intern gebeurt - Google Search",
-      "status": "unchanged",
+      "tabId": "1037241188",
+      "title": "https://www.google.com/search?q=radioactief+in+je+bloedbaan+om+te+belichten+wat+er+intern+gebeurt&sca_esv=3d2f9fa888dd4596&sxsrf=APpeQntwVV3Fq3pCHnxvYykjkjZNOZ4bMg%3A1790934613397&udm=50&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjy68mrh5uXAxXCgf0HHfA5CeAQ2J8OegQIFBAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfDnBIyiUY4Pp89LfjTXbfAurRD65i5J6oSrfQUNloABSMEySjcN4ty26GMcJ0FpdNpkloWMZjAVMHytoq2VmV1KWgXk0JO3Ci1GZitU4bsyBeDdDI0DuK92lzs8XEq5mZk1bqVfxMo3oG5DTxPSml3qQYt2a7vlWcsrHNeDsXfn_WsHiyOVE7tKLLlPcrgMMkT9FY2EJKTEEYIAVaCrshYgdP0EXN1ThgJyhP3FJTgGb_jPBS1TZJPNe0uC3e0yH4aBQyEEbJC182eQk4mS-6sYYz34ULPhtkd6MJ2eNTKvHKsp7_lAMnVAxMzlI9zMbGvZcbMRXJzy2A&csuir=1&mtid=aX6_apOAKKKI9u8P3oOv0A0",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 111,
       "tabId": "1037239205",
       "title": "mitosis and old people smell in old folks homes - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 10,
         "responses": 10
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 112,
-      "tabId": "1037237448",
+      "tabId": "1037241185",
       "title": "almhof productie waar in nederland - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 113,
-      "tabId": "1037237462",
+      "tabId": "1037241182",
       "title": "repulsion field thrusters but reverse - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 5,
-      "tabId": "1037237431",
+      "tabId": "1037241179",
       "title": "hvt mark laser designated target raycasting - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 3,
         "responses": 3
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 114,
-      "tabId": "1037237440",
+      "tabId": "1037241169",
       "title": "9 folds cap for physical paper manifold - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 2,
         "responses": 2
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 115,
-      "tabId": "1037237443",
+      "tabId": "1037241147",
       "title": "david cop a feel i - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 116,
-      "tabId": "1037237442",
-      "title": "sans sanders belt kaper kust koenders xantippe nico coin fondling cuckoo cold hot TNO lowlands biochemische wapens middelen opvangen fuck teams microsoft macro flacid tacid us kil AI nan - Google Search",
-      "status": "unchanged",
+      "tabId": "1037241144",
+      "title": "https://www.google.com/search?q=sans+sanders+belt+kaper+kust+koenders+xantippe+nico+coin+fondling+cuckoo+cold+hot+TNO+lowlands+biochemische+wapens+middelen+opvangen+fuck+teams+microsoft+macro+flacid+tacid+us+kil+AI+nan&client=ms-android-xiaomi-terr2-rso2&hs=IoOB&sca_esv=23d3832781e2084d&sxsrf=APpeQnvdd8Ab1gHCkBmdfMhXLCncUFOKTQ%3A1790837375757&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLxIWx1Ji9M2lu9YjU4me3Nn-OEijYhH3uvmILIsYfNGGy7Ah3KTsjdvY9yV43EMbg9pHkBQCKd8Fxn4egQ_6i3t3dhWo39uSrK5lY10BRN2M4VjdFUxgpSKfhTAIfrMwL26XxrK&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjkoYeNnZiXAxX4ywIHHZEjK58Q2J8OegQIDhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfAcI0OLjjOmC04Fj2deJfjmuAZdSF823nAMUeKKkCvmtP0nsE--mUV7ukUk4SfBWT57WdfoCs7ZZBGyn8-Oc-nNtS9bFkzQbdZF-bKCeHTvKbSMtmOrVHd1Kro452CIxCmmOINy5fyXhDaDtg_btB7GsDFG-YRkT6f0rTNRM0lYCuTEQEDwgxVnXGIPjZkFav_gASWq51fUx4yTc7D2WWG6cyjW4WkhNIrfVlJ4PghkoQrf-QlgEYld2OfR070NJV6ZtFReoKqTWu1vhkYgCPyIeuT6v-LKUg6ECvUQoiMqkOsYFbgiBPXbQ8HnA4MnGk-GFaLVlU6kLA&csuir=1&mtid=gQK-auHIKtTni-gPwaWUwQQ&udm=50",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 9,
         "responses": 9
       },
-      "recoveredFromSavedUrl": true
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 117,
-      "tabId": "1037237439",
-      "title": "Itinerary - Google Search",
-      "status": "unchanged",
+      "tabId": "1037241136",
+      "title": "https://www.google.com/search?q=Itinerary&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp2-cjVKw2GTI2L0MU3QUO__V8GVARUdUB2ZoMwCGQaAhzsNHbmFYWYw3SS8Poi5fDN4OzSFlsZooHbWoXUZiCEjcVmWWUPeL01Y9czBKQNlivQpN9j&aep=10&ntc=1&sxsrf=APpeQnuNdyYE6AfxOlt9f5HSqJmGMVuhOg%3A1790831843815&mstk=AUtExfD_W-BsLClrs6sGzmRiSVYTaxT7dkxg1Pa77br1Fwhid0LT9kgOzY5L5sBtctOg0MO2yOahjFjIuN6bdnXTbIM8TTtaPE2XjYsk4nHTqm30-liVFmBbSYuayUvJVwHsWqMzLovCTnE72TY_rqnfiH0JCaszGioVPutWlEQvbhLPV1jy7ZsVtAhVMna-R7DEu28_2Dc9NSTKYKpfDESltLzN6wv6qiqGEZKIzS96P_r5O1WYJn9OmvXEbnIYbdLT5adbENauk-Fsblw3oYxdTtLZ_fyRAJn1PPM2jtDdp_slY5YRA6KOmwvnOfeJJ4FYCSiHzkPxNaOwQg&aioh=3&csuir=1&cs=0&mtid=m-29asX1BZqM9u8Pnp2n4AI&udm=50",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "recoveredFromSavedUrl": true
-    },
-    {
-      "ordinal": 12,
-      "tabId": "1037237430",
-      "title": "svalbard norway capstone project (the literal entrance and the hinge pivot point of the 45 degree side front view birdseye - Google Search",
-      "status": "unchanged",
-      "counts": {
-        "prompts": 10,
-        "responses": 10
-      },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     },
     {
       "ordinal": 37,
-      "tabId": "1037237398",
+      "tabId": "1037241126",
       "title": "time for growth of cells divided by groups on the planet of modulo total populace of the planet right now in present day (need to find shortcuts to remain ignorant of \"vital\" distinctions) - Google Search",
-      "status": "unchanged",
+      "status": "previous_capture_retained_unreadable",
       "counts": {
         "prompts": 16,
         "responses": 16
       },
-      "recoveredFromSavedUrl": false
+      "reason": "The open tab could not be read in this batch; the previous complete capture is retained."
     }
   ],
-  "recoveredEarlierConversations": [
-    25,
-    30,
-    32
-  ],
-  "recoveredPreviouslyMissingConversations": [
-    25,
-    30,
-    32,
-    64,
-    67,
-    68,
-    69,
-    70,
-    71,
-    72,
-    73,
-    74,
-    75,
-    76,
-    77,
-    81,
-    82,
-    83,
-    84,
-    85,
-    86,
-    90,
-    109,
-    110,
-    111,
-    116,
-    117
-  ],
-  "completeScope": true,
-  "additionalExchangeRecovered": {
-    "ordinal": 93,
-    "previousPairs": 2,
-    "currentPairs": 3
-  }
+  "newOrdinals": [
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124
+  ]
 }

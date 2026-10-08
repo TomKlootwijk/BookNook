@@ -37,7 +37,9 @@ manifest['pdf']={'path':str(pdf.relative_to(workspace)).replace('\\','/'),'pages
 zip_path=workspace/'output'/(filename+'.zip')
 with zipfile.ZipFile(zip_path,'w',compression=zipfile.ZIP_DEFLATED,compresslevel=6) as z:
     for path in sorted(root.rglob('*')):
-        if path.is_file() and path.name not in ['13.assets.json','media-needs.json']:
+        # Per-conversation Markdown is included. Omit its large duplicate
+        # concatenation from the ZIP; it remains available in the repository.
+        if path.is_file() and path.name not in ['13.assets.json','media-needs.json','all-conversations.md'] and '__pycache__' not in path.parts:
             z.write(path,'archive/'+str(path.relative_to(root)).replace('\\','/'))
     z.write(pdf,filename+'.pdf')
 with zipfile.ZipFile(zip_path) as z:assert z.testzip() is None
