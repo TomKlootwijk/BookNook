@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-08",
+  "status": "incomplete_google_verification_required",
+  "newConversationsCaptured": 48,
+  "capturedConversations": 90,
+  "promptResponsePairs": 571,
+  "additionalExchanges": 236,
+  "pendingNewConversations": [
+    64,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    90,
+    109,
+    110,
+    111,
+    116,
+    117
+  ],
+  "priorMissingConversations": [
+    25,
+    30,
+    32
+  ],
+  "blocker": "Google Search displayed an unusual-traffic reCAPTCHA during saved-URL recovery. Completion or action-time authorization is pending from the user.",
+  "recoveryTabId": "1037241109",
+  "temporaryFiles": "tmp/intake-2026-10-08"
+}

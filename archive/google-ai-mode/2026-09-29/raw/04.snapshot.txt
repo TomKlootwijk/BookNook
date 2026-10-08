@@ -1,0 +1,415 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwj5_t_MmJOXAxW5Rv4FHXF_FcoQPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=skulking+as+in+bawing+teardrop+rupert&client=ms-android-xiaomi-terr2-rso2&sca_esv=a6b539e48a8c50fd&aep=1&cs=1&biw=375&bih=691&prmd=ivns&sxsrf=APpeQnvAne_T5PTkDclAZqvBerky2tzsaQ:1790664368462&source=lnms&sa=X&ved=2ahUKEwj5_t_MmJOXAxW5Rv4FHXF_FcoQ0pQJegQICBAF
+      - generic: All
+    - link "Images":
+      - /url: /search?q=skulking+as+in+bawing+teardrop+rupert&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=a6b539e48a8c50fd&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQnvAne_T5PTkDclAZqvBerky2tzsaQ:1790664368462&udm=2&ved=2ahUKEwj5_t_MmJOXAxW5Rv4FHXF_FcoQtKgLegQICBAH
+      - generic: Images
+    - link "Videos":
+      - /url: /search?q=skulking+as+in+bawing+teardrop+rupert&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=a6b539e48a8c50fd&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQnvAne_T5PTkDclAZqvBerky2tzsaQ:1790664368462&udm=vids&ved=2ahUKEwj5_t_MmJOXAxW5Rv4FHXF_FcoQtKgLegQICBAJ
+      - generic: Videos
+    - link "Short videos":
+      - /url: /search?q=skulking+as+in+bawing+teardrop+rupert&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=a6b539e48a8c50fd&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQnvAne_T5PTkDclAZqvBerky2tzsaQ:1790664368462&udm=39&ved=2ahUKEwj5_t_MmJOXAxW5Rv4FHXF_FcoQs6gLegQICBAL
+      - generic: Short videos
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: skulking as in bawing teardrop rupert" [level=1]'
+  - 'heading "You said: skulking as in bawing teardrop rupert" [level=2]'
+  - button "Copy skulking as in bawing teardrop rupert":
+  - button "Edit skulking as in bawing teardrop rupert":
+  - generic: skulking as in bawing teardrop rupert
+  - generic: 08:33
+  - text: It appears you might be blending together words from different contexts, likely influenced by the lyrics of the ambient indie song
+  - strong:
+    - link "\"Final Teardrop\"":
+      - /url: https://open.spotify.com/track/2fqTkmyWWHZhBuR6PjslFc
+  - text: by
+  - strong: Rupert Pope
+  - text: ","
+  - strong: Giles Palmer
+  - text: ", and"
+  - strong: Eller
+  - text: .
+  - link "Genius":
+    - /url: https://genius.com/Rupert-pope-giles-palmer-and-eller-final-teardrop-lyrics
+  - button "Genius – related results":
+    - generic: Genius
+  - generic: "If you are trying to understand the literal vocabulary or the concepts mentioned, here is the breakdown:"
+  - 'heading "1. The Song: \"Final Teardrop\" by Rupert Pope" [level=3]'
+  - text: The track features heavily in dramatic television soundtracks (such as the show
+  - emphasis: Legacies
+  - text: "). The core lyrics focus on heartbreak, a final goodbye, and emotional transparency:"
+  - button "Related results":
+  - list:
+    - emphasis:
+      - text: "\"This will be my"
+      - strong: final teardrop
+      - text: ."
+    - emphasis:
+      - text: "\"This will be our"
+      - strong: curtain call
+      - text: ."
+    - emphasis:
+      - text: "\"Take this as my"
+      - strong: last confession
+      - text: ."
+    - link "Genius":
+      - /url: https://genius.com/Rupert-pope-giles-palmer-and-eller-final-teardrop-lyrics
+    - button "Genius – related results":
+      - generic: Genius
+  - heading "2. \"Skulking\" Meaning" [level=3]
+  - text: The verb
+  - link "skulking":
+    - /url: https://dictionary.cambridge.org/dictionary/english/skulking
+  - text: means to
+  - strong: hide, sneak, or move around furtively
+  - text: so as not to be seen, often out of cowardice, shame, or hidden intentions.
+  - link "Cambridge Dictionary":
+    - /url: https://dictionary.cambridge.org/dictionary/english/skulking
+  - button "Cambridge Dictionary (+1) – related results":
+    - generic: Cambridge Dictionary
+    - generic: "+1"
+  - heading "3. \"Bawing\" vs. \"Bawling\"" [level=3]
+  - text: "\"Bawing\" is likely a typo for"
+  - strong: bawling
+  - text: (crying loudly). When paired with "teardrop," this creates a picture of someone weeping heavily or hiding away out of sadness.
+  - 'heading "4. A Scientific Alternative: Prince Rupert''s Drops" [level=3]'
+  - text: If you aren't referring to the pop song, you might be thinking of a
+  - link "Prince Rupert's Drop":
+    - /url: https://www.dictionary.com/browse/prince-ruperts-drop
+  - text: . These are unique
+  - strong: teardrop-shaped
+  - text: glass beads created by dropping molten glass into cold water. They have a bulbous head that can survive hammer blows, but if their thin tail is nipped, the entire structure explosively shatters.
+  - link "Dictionary.com":
+    - /url: https://www.dictionary.com/browse/prince-ruperts-drop
+  - button "Dictionary.com – related results":
+    - generic: Dictionary.com
+  - text: To help narrow this down, are you looking for the
+  - strong: exact lyrics
+  - text: to the Rupert Pope song, details on the
+  - strong: television shows
+  - text: it was featured in, or did you want to explore the physics behind
+  - strong: Prince Rupert's glass drops
+  - text: "?"
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Final Teardrop - song and lyrics by Rupert Pope, Giles Palmer, Eller. Opens in new tab.":
+      - /url: https://open.spotify.com/track/2fqTkmyWWHZhBuR6PjslFc
+    - generic: "Spotify - Web Player: Music for everyone"
+    - button "About this result":
+    - generic: Final Teardrop - song and lyrics by Rupert Pope, Giles Palmer, Eller
+    - generic: Lyrics. Turn and face the storm. Look back where the path is worn. Ever style sink abided you before. Just decided not to give out...
+    - link "Rupert Pope, Giles Palmer, & Eller – Final Teardrop Lyrics - Genius. Opens in new tab.":
+      - /url: https://genius.com/Rupert-pope-giles-palmer-and-eller-final-teardrop-lyrics
+    - generic: Genius
+    - button "About this result":
+    - generic: Rupert Pope, Giles Palmer, & Eller – Final Teardrop Lyrics - Genius
+    - generic: This will be my final teardrop. This will be our curtain call. Take this as my last confession. This will be mine after all. My he...
+    - link "SKULKING | English meaning. Opens in new tab.":
+      - /url: https://dictionary.cambridge.org/dictionary/english/skulking
+    - generic: Cambridge Dictionary
+    - button "About this result":
+    - generic: SKULKING | English meaning
+    - generic: "to hide or move around as if trying not to be seen, usually with bad intentions: I thought I saw someone skulking in the bushes - ..."
+  - button "Show all related results":
+    - generic: Show all
+  - 'heading "You said: yes 2. but as double hadamard where one eye on the prize laser focus and the other on the carnal in the sense of formalized..." [level=2]'
+  - button "Copy yes 2. but as double hadamard where one eye on the prize laser focus and the other on the carnal in the sense of formalized...":
+  - button "Edit yes 2. but as double hadamard where one eye on the prize laser focus and the other on the carnal in the sense of formalized...":
+  - generic: yes 2. but as double hadamard where one eye on the prize laser focus and the other on the carnal in the sense of formalized...
+  - generic: 08:40
+  - text: You are describing a highly complex, split state of consciousness. By mapping this to a
+  - strong: double Hadamard gate
+  - text: from quantum computing, you are visualizing a system where two opposing forces exist in an equal, simultaneous
+  - strong: superposition
+  - text: before they collapse into a single reality.
+  - generic: "In this state, the mind acts like a split lens:"
+  - list:
+    - strong: "The First Hadamard (\"The Prize\"):"
+    - text: Pure, absolute
+    - strong: laser focus
+    - text: "[1]. This is the vertical vector—elevated, strategic, teleological, and fixed on a singular, high-value goal."
+    - strong: "The Second Hadamard (\"The Carnal\"):"
+    - text: The horizontal vector. This is not wild or chaotic; it is
+    - strong: formalized carnal
+    - text: —instinct, raw desire, and physical reality structured by rigid rules, codes, ritual, or etiquette.
+  - heading "The Quantum Superposition of Focus" [level=3]
+  - text: In quantum mechanics, a single
+  - generic: Hadamard gate
+  - text: (
+  - math:
+    - generic: H
+  - text: ) takes a definite state (like a
+  - math:
+    - generic: "0"
+  - text: or
+  - math:
+    - generic: "1"
+  - text: ) and puts it into a simultaneous combination of both. When applied to a two-qubit system (a
+  - strong: Double Hadamard
+  - text: ","
+  - text: ), it creates a matrix of
+  - strong: four simultaneous states
+  - text: .
+  - generic: "Here is how your two visual vectors occupy that space before the \"observation\" (action) forces a collapse:"
+  - table:
+    - rowgroup:
+      - row "State The Laser Focus (Eye on the Prize) The Formalized Carnal (Eye on the Flesh/Ritual)":
+        - columnheader "State"
+        - columnheader "The Laser Focus (Eye on the Prize)"
+        - columnheader "The Formalized Carnal (Eye on the Flesh/Ritual)"
+      - 'row "Latent: The prize is unobserved. Restrained: The instinct is suppressed."':
+        - cell:
+          - strong:
+        - 'cell "Latent: The prize is unobserved."':
+          - strong: "Latent:"
+          - text: The prize is unobserved.
+        - 'cell "Restrained: The instinct is suppressed."':
+          - strong: "Restrained:"
+          - text: The instinct is suppressed.
+      - 'row "Latent: The prize is unobserved. Active: The formal ritual/desire dominates the field."':
+        - cell:
+          - strong:
+        - 'cell "Latent: The prize is unobserved."':
+          - strong: "Latent:"
+          - text: The prize is unobserved.
+        - 'cell "Active: The formal ritual/desire dominates the field."':
+          - strong: "Active:"
+          - text: The formal ritual/desire dominates the field.
+      - 'row "Active: Hyper-fixated on the ultimate objective. Restrained: The physical world is completely tuned out."':
+        - cell:
+          - strong:
+        - 'cell "Active: Hyper-fixated on the ultimate objective."':
+          - strong: "Active:"
+          - text: Hyper-fixated on the ultimate objective.
+        - 'cell "Restrained: The physical world is completely tuned out."':
+          - strong: "Restrained:"
+          - text: The physical world is completely tuned out.
+      - 'row "Maximum Tension: Absolute pursuit of the prize through the exact architecture of formalized instinct. Maximum Tension: The carnal drives the vehicle, but the laser focus steers the wheel."':
+        - cell:
+          - strong:
+        - 'cell "Maximum Tension: Absolute pursuit of the prize through the exact architecture of formalized instinct."':
+          - strong: "Maximum Tension:"
+          - text: Absolute pursuit of the prize
+          - emphasis: through
+          - text: the exact architecture of formalized instinct.
+        - 'cell "Maximum Tension: The carnal drives the vehicle, but the laser focus steers the wheel."':
+          - strong: "Maximum Tension:"
+          - text: The carnal drives the vehicle, but the laser focus steers the wheel.
+  - heading "Visualizing the Split State" [level=3]
+  - text: This tension can be mathematically visualized as a vector on a sphere (a Bloch Sphere) or a coordinate plane where you are pulling toward
+  - text: and
+  - text: simultaneously, creating a diagonal vector of immense tension at
+  - text: .
+  - iframe:
+    - generic: Psychological Superposition of a Double Hadamard State
+    - generic "Vega visualization":
+  - heading "The \"Skulking\" Catalyst" [level=3]
+  - generic: Tying this back to your original thought of "skulking"—moving stealthily, hidden in the shadows—this split eye is exactly how a predator or a master strategist operates. They cannot afford to lose sight of the long-term prize, but they must remain perfectly attuned to the immediate, formalized geometry of the physical environment (the hunt, the protocol, the chess board) to survive.
+  - text: To anchor this concept, would you like to explore how this
+  - strong: double-focus framework
+  - text: applies to a specific scenario, such as
+  - strong: game theory, strategic psychology,
+  - text: or a character archetype in a story?
+  - 'heading "You said: so v.i. vide infra and lust where left and right are..." [level=2]'
+  - button "Copy so v.i. vide infra and lust where left and right are...":
+  - button "Edit so v.i. vide infra and lust where left and right are...":
+  - generic: so v.i. vide infra and lust where left and right are...
+  - generic: 08:41
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - 'heading "You sent: 1 tab and said: https://youtu.be/tCRgXjQLvH0?is=O8xzgMsK9BBO8Rv- so as the future authoring program laid out by MSc her drawing hands in this context..." [level=2]'
+  - button "Copy https://youtu.be/tCRgXjQLvH0?is=O8xzgMsK9BBO8Rv- so as the future authoring program laid out by MSc her drawing hands in this context...":
+  - button "Edit https://youtu.be/tCRgXjQLvH0?is=O8xzgMsK9BBO8Rv- so as the future authoring program laid out by MSc her drawing hands in this context...":
+  - generic: Dr. Jordan Peterson | 10 Things That Will Change Your Life Immediately
+  - generic: https://youtu.be/tCRgXjQLvH0?is=O8xzgMsK9BBO8Rv- so as the future authoring program laid out by MSc her drawing hands in this context...
+  - button "Query preview for Dr. Jordan Peterson | 10 Things That Will Change Your Life Immediately" [expanded]:
+  - generic: 08:43
+  - text: When mapped onto the
+  - strong: Future Authoring Program
+  - text: (
+  - link "0:45":
+    - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=45s
+  - text: )
+  - text: and the concept of an artist's "drawing hands" (reminiscent of M.C. Escher’s famous lithograph where two hands draw each other into existence), the Left (
+  - emphasis: vide infra
+  - text: / protocol) and the Right (lust / drive) cease to be passive traits. They become the two active hands creating your future self.
+  - text: The Future Authoring process relies on a self-generating feedback loop where your current actions script your future reality, which in turn commands your present behavior
+  - text: (
+  - link "0:45":
+    - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=45s
+  - text: )
+  - text: .
+  - heading "The Architecture of Self-Creation" [level=3]
+  - generic: "In this specific framework, the hands operate in an explicit, self-authoring loop:"
+  - list:
+    - strong:
+      - text: The Left Hand (
+      - emphasis: Vide Infra
+      - text: "/ The Architecture of Hell):"
+    - text: This hand writes the rigid, formal ledger of what must be avoided
+    - text: (
+    - link "1:05":
+      - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=65s
+    - text: )
+    - text: . It looks
+    - emphasis: below
+    - text: to track the fine print of your failures, your resentment, and the structural "hell" you are running away from
+    - text: (
+    - link "0:45":
+      - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=45s
+    - text: )
+    - text: . It provides the strict boundaries, rules, and negative reinforcement
+    - text: (
+    - link "1:05":
+      - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=65s
+    - text: )
+    - text: .
+    - strong: "The Right Hand (Lust / The Pursuit of Heaven):"
+    - text: This hand draws the idealized, high-value target—the "heaven" or ultimate prize you are running toward
+    - text: (
+    - link "1:10":
+      - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=70s
+    - text: )
+    - text: . In the context of authoring, "lust" is translated into intense, raw
+    - strong: appetitive motivation
+    - text: —the deep, somatic hunger for a life that justifies its own suffering
+    - text: (
+    - link "0:10":
+      - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=10s
+    - text: )
+    - text: .
+  - heading "The Escherian Superposition" [level=3]
+  - text: Just like Escher's
+  - emphasis: Drawing Hands
+  - text: ", the system is perfectly cyclical:"
+  - code: "[Right Hand: Lust/Vision] ----(Draws the Ideal)----> [The Future Self] ^ | | | (Imposes Rules) | v [The Present Self] <----(Restricts/Defines)---- [Left Hand: v.i./Protocol]"
+  - text: The
+  - strong: Left Hand
+  - text: uses the structural text (
+  - emphasis: vide infra
+  - text: ) to outline the constraints of the canvas
+  - text: (
+  - link "1:05":
+    - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=65s
+  - text: )
+  - text: . The
+  - strong: Right Hand
+  - text: uses raw vital drive (
+  - emphasis: lust
+  - text: ) to fill the canvas with ink
+  - text: (
+  - link "1:10":
+    - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=70s
+  - text: )
+  - text: ". You cannot create the drawing with only one hand:"
+  - list:
+    - text: If you only use the Left Hand (
+    - emphasis: v.i.
+    - text: alone), you have a perfect set of rules and a map of hell, but no engine to move forward—total paralysis
+    - text: (
+    - link "1:05":
+      - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=65s
+    - text: )
+    - text: .
+    - text: If you only use the Right Hand (
+    - emphasis: lust
+    - text: alone), you have pure, chaotic desire without structure, leading to counterproductive habits or immediate gratification (like drinking the half bottle of whiskey)
+    - text: (
+    - link "0:49":
+      - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=49s
+    - text: )
+    - text: .
+  - heading "The Edge of Competence" [level=3]
+  - text: "When both hands draw simultaneously at maximum capacity, you achieve what the program defines as the ultimate state of meaning:"
+  - strong: operating on the absolute edge of your current capacity
+  - text: (
+  - link "3:25":
+    - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=205s
+  - text: )
+  - text: .
+  - text: The Left Hand maintains the formal protocol to keep you disciplined
+  - text: (
+  - link "3:21":
+    - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=201s
+  - text: )
+  - text: ", while the Right Hand provides the raw carnal focus to push you into the territory where losing is a possibility"
+  - text: (
+  - link "3:36":
+    - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=216s
+  - text: )
+  - text: . They step out of the shadows ("skulking") and explicitly manifest the physical architecture of your life
+  - text: (
+  - link "2:30":
+    - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=150s
+  - text: )
+  - text: .
+  - text: Would you like to explore how to explicitly format these
+  - strong: Left/Right vectors
+  - text: into the specific prompts used in the
+  - strong: Future Authoring template
+  - text: to map out your own 3-to-5-year vision
+  - text: (
+  - link "0:41":
+    - /url: https://www.youtube.com/watch?v=tCRgXjQLvH0&t=41s
+  - text: )
+  - text: "?"
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything" [active]
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo

@@ -1,0 +1,168 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwjqrfy8nJOXAxXN2gIHHVmuJIIQPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=flot+(dutch+word+for+raft)+as+in+nvidia+raft+as+in+prajna+as+in+words+sans+friends+cisco+(pun+on+router+wifi+and+5G+cellular)+and+discarding+packets+that+are...&sca_esv=0187de462875193d&aep=1&cs=0&biw=1707&bih=898&prmd=ivns&sxsrf=APpeQnu7W6Q2H9-VXUIV5GCvql2pAwjgzQ:1790665409114&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cn05EoNqnRUpRtqDK_L3JtdOuIEOJ1nHhG8N6Kw1G1--8sK5HSeIKdPwDspReFQmSnx2336BGScM7MlHl8BtYeykfRLRenQ7Vj4MbfSBsT8McL8hr28q3sM0dgwmADjwiA6ZxJo_hD_igGcD_lTHOol9lQO-38tMeFVegVD9aFVeT5NQS&sa=X&ved=2ahUKEwjqrfy8nJOXAxXN2gIHHVmuJIIQ0pQJegQICBAF
+      - generic: All
+    - link "Forums":
+      - /url: /search?q=flot+(dutch+word+for+raft)+as+in+nvidia+raft+as+in+prajna+as+in+words+sans+friends+cisco+(pun+on+router+wifi+and+5G+cellular)+and+discarding+packets+that+are...&sa=X&sca_esv=0187de462875193d&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnu7W6Q2H9-VXUIV5GCvql2pAwjgzQ:1790665409114&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cn05EoNqnRUpRtqDK_L3JtdOuIEOJ1nHhG8N6Kw1G1--8sK5HSeIKdPwDspReFQmSnx2336BGScM7MlHl8BtYeykfRLRenQ7Vj4MbfSBsT8McL8hr28q3sM0dgwmADjwiA6ZxJo_hD_igGcD_lTHOol9lQO-38tMeFVegVD9aFVeT5NQS&ved=2ahUKEwjqrfy8nJOXAxXN2gIHHVmuJIIQs6gLegQICBAH
+      - generic: Forums
+    - link "Images":
+      - /url: /search?q=flot+(dutch+word+for+raft)+as+in+nvidia+raft+as+in+prajna+as+in+words+sans+friends+cisco+(pun+on+router+wifi+and+5G+cellular)+and+discarding+packets+that+are...&sa=X&sca_esv=0187de462875193d&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnu7W6Q2H9-VXUIV5GCvql2pAwjgzQ:1790665409114&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cn05EoNqnRUpRtqDK_L3JtdOuIEOJ1nHhG8N6Kw1G1--8sK5HSeIKdPwDspReFQmSnx2336BGScM7MlHl8BtYeykfRLRenQ7Vj4MbfSBsT8McL8hr28q3sM0dgwmADjwiA6ZxJo_hD_igGcD_lTHOol9lQO-38tMeFVegVD9aFVeT5NQS&ved=2ahUKEwjqrfy8nJOXAxXN2gIHHVmuJIIQtKgLegQICBAJ
+      - generic: Images
+    - link "Videos":
+      - /url: /search?q=flot+(dutch+word+for+raft)+as+in+nvidia+raft+as+in+prajna+as+in+words+sans+friends+cisco+(pun+on+router+wifi+and+5G+cellular)+and+discarding+packets+that+are...&sa=X&sca_esv=0187de462875193d&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnu7W6Q2H9-VXUIV5GCvql2pAwjgzQ:1790665409114&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cn05EoNqnRUpRtqDK_L3JtdOuIEOJ1nHhG8N6Kw1G1--8sK5HSeIKdPwDspReFQmSnx2336BGScM7MlHl8BtYeykfRLRenQ7Vj4MbfSBsT8McL8hr28q3sM0dgwmADjwiA6ZxJo_hD_igGcD_lTHOol9lQO-38tMeFVegVD9aFVeT5NQS&ved=2ahUKEwjqrfy8nJOXAxXN2gIHHVmuJIIQtKgLegQICBAL
+      - generic: Videos
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: flot (dutch word for raft) as in nvidia raft as in prajna as in words sans friends cisco (pun on router wifi and 5G cellular) and discarding packets that are..." [level=1]'
+  - 'heading "You said: flot (dutch word for raft) as in nvidia raft as in prajna as in words sans friends cisco (pun on router wifi and 5G cellular) and discarding packets that are..." [level=2]'
+  - button "Copy flot (dutch word for raft) as in nvidia raft as in prajna as in words sans friends cisco (pun on router wifi and 5G cellular) and discarding packets that are...":
+  - button "Edit flot (dutch word for raft) as in nvidia raft as in prajna as in words sans friends cisco (pun on router wifi and 5G cellular) and discarding packets that are...":
+  - generic: flot (dutch word for raft) as in nvidia raft as in prajna as in words sans friends cisco (pun on router wifi and 5G cellular) and discarding packets that are...
+  - button "Query preview for flot (dutch word for raft) as in nvidia raft as in prajna as in words…":
+  - generic: 28 September 2026
+  - text: ...
+  - strong: corrupted, duplicate, or misdirected
+  - text: (or simply "
+  - strong: malformed / out-of-order
+  - text: "\")."
+  - generic: "You are weaving a complex, multi-layered pun and technical stream-of-consciousness! Let's break down the interconnected technical concepts you are mapping out:"
+  - 'heading "1. The Core Concept: RAFT & Flot" [level=3]'
+  - list:
+    - strong: "Flot / Vlot:"
+    - text: As you noted,
+    - emphasis: vlot
+    - text: (or
+    - emphasis: flot
+    - text: ) is the Dutch word for a raft.
+    - link "Reverso Context":
+      - /url: https://context.reverso.net/vertaling/engels-nederlands/raft
+    - button "Reverso Context – related results":
+      - generic: Reverso Context
+    - strong: "NVIDIA RAFT:"
+    - text: In computing,
+    - link "NVIDIA RAFT":
+      - /url: https://github.com/NVIDIA/raft
+    - text: (Reusable Accelerated Functions and Tools) is a library of CUDA-accelerated primitives used for rapid vector search, machine learning, and data mining.
+    - link "GitHub":
+      - /url: https://github.com/NVIDIA/raft
+    - button "GitHub – related results":
+      - generic: GitHub
+    - strong: "Raft Consensus Algorithm:"
+    - text: It also heavily plays on the famous
+    - strong: Raft Consensus Algorithm
+    - text: in distributed systems, where a cluster of "friends" (nodes) must agree on network states and data logs.
+    - link "Raft Consensus Algorithm":
+      - /url: https://raft.github.io/
+    - button "Raft Consensus Algorithm (+1) – related results":
+      - generic: Raft Consensus Algorithm
+      - generic: "+1"
+  - 'heading "2. The Network Stack: Prajna & Cisco" [level=3]'
+  - list:
+    - strong: "Prajna:"
+    - text: Translated from Sanskrit,
+    - emphasis: Prajna
+    - text: means "wisdom" or "insight." In data frameworks, Microsoft research famously created
+    - link "Prajna":
+      - /url: https://github.com/MSRCCS/Prajna
+    - text: ", a distributed functional programming platform."
+    - strong: "Cisco:"
+    - text: A direct pun on
+    - strong: Cisco Systems
+    - text: ", the giant of enterprise routers, switches, Wi-Fi access points, and 5G cellular infrastructure."
+    - link "LinkedIn":
+      - /url: https://www.linkedin.com/pub/dir/Prajna/Sahoo
+    - button "LinkedIn (+1) – related results":
+      - generic: LinkedIn
+      - generic: "+1"
+  - 'heading "3. The Punchline: \"Words Sans Friends\" & Packet Dropping" [level=3]'
+  - text: Your phrase
+  - strong: "\"words sans friends\""
+  - text: flips the popular game
+  - emphasis:
+    - button "Words With Friends":
+      - generic: Words With Friends
+  - text: ", signaling a network isolated from its cluster or peers (lacking consensus nodes)."
+  - text: When a network router (like a Cisco box) or a distributed GPU cluster using RAFT encounters incoming data packets that don't match safety protocols, consensus, or valid checksums, it performs a
+  - strong: silent drop
+  - text: .
+  - generic: "Therefore, to complete your thought, the system is discarding packets that are:"
+  - list:
+    - strong: "Malformed or Corrupted:"
+    - text: Failing integrity checks.
+    - strong: "Out-of-order / Duplicated:"
+    - text: Straying from the established chronological "log replication" timeline dictated by the Raft consensus.
+    - strong: "Unauthenticated:"
+    - text: Lacking the "wisdom" (
+    - emphasis: Prajna
+    - text: ) or valid authorization keys to pass through the 5G cellular gateway.
+    - link "IEEE Xplore":
+      - /url: https://ieeexplore.ieee.org/document/10454824/
+    - button "IEEE Xplore (+2) – related results":
+      - generic: IEEE Xplore
+      - generic: "+2"
+  - text: Would you like to steer this toward a specific
+  - strong: networking script
+  - text: ", a deeper explanation of the"
+  - strong: Raft consensus algorithm
+  - text: ", or are we crafting a technical"
+  - strong: sci-fi poem/ riddle
+  - text: "?"
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - 'link "GitHub - NVIDIA/raft: RAFT contains fundamental widely-used .... Opens in new tab."':
+      - /url: https://github.com/NVIDIA/raft
+    - generic: GitHub
+    - button "About this result":
+    - generic: "GitHub - NVIDIA/raft: RAFT contains fundamental widely-used ..."
+    - generic: RAFT contains fundamental widely-used algorithms and primitives for machine learning and data mining. The algorithms are CUDA-acce...
+    - link "Raft (algorithm) - Wikipedia. Opens in new tab.":
+      - /url: https://en.wikipedia.org/wiki/Raft_(algorithm)
+    - generic: Wikipedia
+    - button "About this result":
+    - generic: Raft (algorithm) - Wikipedia
+    - generic: Raft offers a generic way to distribute a state machine across a cluster of computing systems, ensuring that each node in the clus...
+    - link "60+ \"Prajna Sahoo\" profiles - LinkedIn. Opens in new tab.":
+      - /url: https://www.linkedin.com/pub/dir/Prajna/Sahoo
+    - generic: LinkedIn
+    - button "About this result":
+    - generic: 60+ "Prajna Sahoo" profiles - LinkedIn
+    - generic: Prajna Sahoo. IP Expert at Orange Business Service || Cisco/Juniper-Routing/Switching. Cisco-Wireless || Cisco. Greater Delhi Area...
+  - button "Show all related results":
+    - generic: Show all
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything" [active]
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo

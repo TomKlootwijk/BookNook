@@ -1,0 +1,222 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwijmpfx6pGXAxXZ1AIHHV9PJRoQPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=monetare+system+of+systems&sca_esv=4cefd605c4e449b3&aep=1&cs=0&biw=1707&bih=842&prmd=ivns&sxsrf=APpeQnt_iPHaRWzltEXaM71bHjn-_fE7nw:1790617737095&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKjm3rhh_G8jdZ2Q6tji4z8Mva6cfvBj5rpPch2IC955IbzrbwHf6tkbFbd-nuFdbKth9Y-58t5LtnYgTA4TWDFYCUNl4d7F9XBAwiEq2T2c7SNgrvMxYiRBXL4fnQnnTOewx28&sa=X&ved=2ahUKEwijmpfx6pGXAxXZ1AIHHV9PJRoQ0pQJegQICBAF
+      - generic: All
+    - link "Images":
+      - /url: /search?q=monetare+system+of+systems&sa=X&sca_esv=4cefd605c4e449b3&aep=1&cs=0&biw=1707&bih=842&sxsrf=APpeQnt_iPHaRWzltEXaM71bHjn-_fE7nw:1790617737095&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKjm3rhh_G8jdZ2Q6tji4z8Mva6cfvBj5rpPch2IC955IbzrbwHf6tkbFbd-nuFdbKth9Y-58t5LtnYgTA4TWDFYCUNl4d7F9XBAwiEq2T2c7SNgrvMxYiRBXL4fnQnnTOewx28&ved=2ahUKEwijmpfx6pGXAxXZ1AIHHV9PJRoQtKgLegQICBAH
+      - generic: Images
+    - link "Videos":
+      - /url: /search?q=monetare+system+of+systems&sa=X&sca_esv=4cefd605c4e449b3&aep=1&cs=0&biw=1707&bih=842&sxsrf=APpeQnt_iPHaRWzltEXaM71bHjn-_fE7nw:1790617737095&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKjm3rhh_G8jdZ2Q6tji4z8Mva6cfvBj5rpPch2IC955IbzrbwHf6tkbFbd-nuFdbKth9Y-58t5LtnYgTA4TWDFYCUNl4d7F9XBAwiEq2T2c7SNgrvMxYiRBXL4fnQnnTOewx28&ved=2ahUKEwijmpfx6pGXAxXZ1AIHHV9PJRoQtKgLegQICBAJ
+      - generic: Videos
+    - link "News":
+      - /url: /search?q=monetare+system+of+systems&sca_esv=4cefd605c4e449b3&aep=1&cs=0&biw=1707&bih=842&tbm=nws&prmd=ivns&sxsrf=APpeQnt_iPHaRWzltEXaM71bHjn-_fE7nw:1790617737095&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKjm3rhh_G8jdZ2Q6tji4z8Mva6cfvBj5rpPch2IC955IbzrbwHf6tkbFbd-nuFdbKth9Y-58t5LtnYgTA4TWDFYCUNl4d7F9XBAwiEq2T2c7SNgrvMxYiRBXL4fnQnnTOewx28&sa=X&ved=2ahUKEwijmpfx6pGXAxXZ1AIHHV9PJRoQ0pQJegQICBAL
+      - generic: News
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: monetare system of systems" [level=1]'
+  - button "Copy monetare system of systems":
+  - button "Edit monetare system of systems":
+  - heading "monetare system of systems" [level=2]
+  - text: The concept of a
+  - strong: monetary system as a "System of Systems" (SoS)
+  - text: bridges macroeconomics and systems engineering. In systems architecture, an SoS is a collection of task-oriented, operationally independent systems that pool their resources to create a larger, more complex infrastructure.
+  - link "TechTarget":
+    - /url: https://www.techtarget.com/it-infrastructure/definition/system-of-systems-SoS
+  - button "TechTarget (+1) – related results":
+    - generic: TechTarget
+    - generic: "+1"
+  - text: Applying this definition, money is not just a singular tool or item. Instead, the modern financial framework is a massive, highly interconnected
+  - strong: System of Systems
+  - text: functioning across national borders, institutional domains, and technological networks.
+  - link "Steffen Murau":
+    - /url: https://steffenmurau.com/portfolio/international-monetary-system/
+  - button "Steffen Murau (+1) – related results":
+    - generic: Steffen Murau
+    - generic: "+1"
+  - separator
+  - 'heading "1. The Core Architecture: Constituent Systems" [level=3]'
+  - text: The global monetary SoS is built from individual sub-systems that have their own rules, governance, and operational logic, yet must interact continuously.
+  - link "Regenerative Economics":
+    - /url: https://www.regenerativeeconomics.earth/regenerative-economics-textbook/6-money-and-finance/6-1-what-is-money/6-1-1-money-systems
+  - button "Regenerative Economics – related results":
+    - generic: Regenerative Economics
+  - list:
+    - strong: "The Sovereign Issuance System (The State Domain):"
+    - text: Comprises
+    - strong: National Treasuries, Central Banks (like the Federal Reserve or the ECB), and Mints
+    - text: . This system regulates the monetary base, enforces legal tender status, and dictates monetary policy.
+    - link "Wikipedia":
+      - /url: https://en.wikipedia.org/wiki/Monetary_system
+    - button "Wikipedia (+2) – related results":
+      - generic: Wikipedia
+      - generic: "+2"
+    - strong: "The Commercial Credit System (The Private Banking Domain):"
+    - text: Formed by
+    - strong: commercial banks, investment firms, and shadow banks
+    - text: . This system generates between 90% and 95% of the broad money supply through debt expansion and fractional-reserve lending.
+    - link "WallStreetMojo":
+      - /url: https://www.wallstreetmojo.com/monetary-system/
+    - button "WallStreetMojo (+2) – related results":
+      - generic: WallStreetMojo
+      - generic: "+2"
+    - strong: "The Settlement & Payment Infrastructure (The Technological Domain):"
+    - text: The digital pipelines that move value, including domestic clearing houses (like
+    - strong: ACH
+    - text: ), cross-border communication hubs (like
+    - strong: SWIFT
+    - text: ), card networks (Visa/Mastercard), and real-time wholesale settlement mechanisms (like Fedwire).
+    - link "WallStreetMojo":
+      - /url: https://www.wallstreetmojo.com/monetary-system/
+    - button "WallStreetMojo – related results":
+      - generic: WallStreetMojo
+    - strong: "The Offshore / International System (The Global Domain):"
+    - text: An overarching network, primarily the
+    - strong: Offshore US Dollar (Eurodollar) System
+    - text: ", where international transactions and global trade are conducted outside the strict jurisdiction of any single nation's central bank."
+    - link "Steffen Murau":
+      - /url: https://steffenmurau.com/portfolio/international-monetary-system/
+    - button "Steffen Murau – related results":
+      - generic: Steffen Murau
+    - strong: "Alternative Currency Systems (The Complementary Domain):"
+    - text: Rapidly expanding ecosystems like decentralized blockchain networks (
+    - strong: Cryptocurrencies
+    - text: ) and
+    - strong: complementary local or green currencies
+    - text: that exist alongside traditional fiat systems.
+    - link "Erasmus Universiteit Rotterdam":
+      - /url: https://www.eur.nl/sites/corporate/files/Klammer_-_Boonstra.pdf
+    - button "Erasmus Universiteit Rotterdam (+2) – related results":
+      - generic: Erasmus Universiteit Rotterdam
+      - generic: "+2"
+  - separator
+  - heading "2. Characteristics of the Monetary \"System of Systems\"" [level=3]
+  - text: "According to systems engineering principles, an SoS possesses specific traits. The monetary framework exhibits all of them:"
+  - link "TechTarget":
+    - /url: https://www.techtarget.com/it-infrastructure/definition/system-of-systems-SoS
+  - button "TechTarget – related results":
+    - generic: TechTarget
+  - table:
+    - rowgroup:
+      - row "SoS Characteristic How it Applies to the Monetary System":
+        - columnheader "SoS Characteristic"
+        - columnheader "How it Applies to the Monetary System"
+      - row "Operational Independence A commercial bank or a local payment platform can function independently day-to-day, serving its own clients and pursuing its own profits, regardless of the broader global financial network.":
+        - cell "Operational Independence":
+          - strong: Operational Independence
+        - cell "A commercial bank or a local payment platform can function independently day-to-day, serving its own clients and pursuing its own profits, regardless of the broader global financial network."
+      - row "Managerial Independence The components are managed by entirely different entities. The U.S. Fed, the European Central Bank, private banks, and tech companies all govern their own sub-systems autonomously.":
+        - cell "Managerial Independence":
+          - strong: Managerial Independence
+        - cell "The components are managed by entirely different entities. The U.S. Fed, the European Central Bank, private banks, and tech companies all govern their own sub-systems autonomously."
+      - row "Evolutionary Development The system is never finished. It has evolved organically from commodity systems (gold) to representative paper systems to modern fiat-credit infrastructure, and now toward digital currencies and tokenization.":
+        - cell "Evolutionary Development":
+          - strong: Evolutionary Development
+        - cell "The system is never finished. It has evolved organically from commodity systems (gold) to representative paper systems to modern fiat-credit infrastructure, and now toward digital currencies and tokenization.":
+          - text: The system is never finished. It has evolved organically from
+          - strong: commodity systems (gold)
+          - text: to
+          - strong: representative paper systems
+          - text: to modern
+          - strong: fiat-credit infrastructure
+          - text: ", and now toward"
+          - strong: digital currencies and tokenization
+          - text: .
+      - row "Emergent Behavior The interaction of these systems creates phenomena that no single system intends or controls—such as sudden systemic liquidity crises, systemic inflation, and the rapid rise of offshore shadow banking markets.":
+        - cell "Emergent Behavior":
+          - strong: Emergent Behavior
+        - cell "The interaction of these systems creates phenomena that no single system intends or controls—such as sudden systemic liquidity crises, systemic inflation, and the rapid rise of offshore shadow banking markets."
+  - separator
+  - 'heading "3. The Modern Design Challenge: Geopolitics & Tech" [level=3]'
+  - text: Historically treated purely as a domain of economic theory, the monetary SoS is now explicitly viewed as a
+  - strong: critical technological and geopolitical infrastructure
+  - text: .
+  - link "TU Delft":
+    - /url: https://www.tudelft.nl/en/innovation-impact/pioneering-tech/articles/2026/money-has-become-a-design-challenge
+  - button "TU Delft – related results":
+    - generic: TU Delft
+  - text: Because the entire architecture relies heavily on cross-border technological interfaces, it creates asymmetric dependencies. For instance, regions that lack their own domestic payment processing infrastructure find themselves dependent on systems anchored in other jurisdictions. When money becomes weaponized—through sanctions, freezing of official reserves, or blocking access to messaging infrastructure—the fragile interoperability of this System of Systems becomes glaringly obvious.
+  - link "ScienceDirect.com":
+    - /url: https://www.sciencedirect.com/topics/economics-econometrics-and-finance/monetary-system
+  - button "ScienceDirect.com (+1) – related results":
+    - generic: ScienceDirect.com
+    - generic: "+1"
+  - text: Rethinking money through systems thinking allows economists and engineers alike to view it not merely as a passive medium of exchange, but as a deliberate infrastructure that can be redesigned to improve resilience, prevent cascading financial collapses, and accommodate diverse economic goals.
+  - link "YouTube · TEDx Talks":
+    - /url: https://www.youtube.com/watch?v=Ya3IuJx8O9o
+  - button "YouTube · TEDx Talks (+1) – related results":
+    - generic: YouTube
+    - generic: ·TEDx Talks
+    - generic: "+1"
+  - generic: "To explore this concept further, let me know:"
+  - list:
+    - text: Are you looking at this from a
+    - strong: macroeconomic/geopolitical
+    - text: angle, or from a
+    - strong: systems engineering/IT architecture
+    - text: perspective?
+    - text: Do you want to analyze the risks of
+    - strong: systemic failure
+    - text: (like cascading bank crashes) within this network?
+    - text: Would you like to look closer at how
+    - strong: cryptocurrencies/DeFi
+    - text: fit into or disrupt this traditional System of Systems?
+  - text: AI responses may include mistakes. For financial advice, consult a professional.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "System of Systems (SoS). Opens in new tab.":
+      - /url: https://www.techtarget.com/it-infrastructure/definition/system-of-systems-SoS
+    - generic: TechTarget
+    - button "About this result":
+    - generic: System of Systems (SoS)
+    - generic: 7 Jun 2022 — Systems engineers create frameworks to improve SoSes. They help make decisions in evolutionary development, as well as determine i...
+    - link "International Monetary System. Opens in new tab.":
+      - /url: https://steffenmurau.com/portfolio/international-monetary-system/
+    - generic: Steffen Murau
+    - button "About this result":
+    - generic: International Monetary System
+    - generic: The international monetary system of the 21st century should be understood as Offshore US Dollar System. This arrangement has grad...
+    - link "6.1.1 Money systems - Regenerative Economics. Opens in new tab.":
+      - /url: https://www.regenerativeeconomics.earth/regenerative-economics-textbook/6-money-and-finance/6-1-what-is-money/6-1-1-money-systems
+    - generic: Regenerative Economics
+    - button "About this result":
+    - generic: 6.1.1 Money systems - Regenerative Economics
+    - generic: It is part of a monetary system, a human-made system with institutions, rules, technologies, and relationships that shape how mone...
+  - button "Show all related results":
+    - generic: Show all
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything"
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo
+- generic: AI Mode response is ready

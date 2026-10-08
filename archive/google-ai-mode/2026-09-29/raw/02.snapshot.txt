@@ -1,0 +1,206 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwjcwNu5mZOXAxUa2QIHHYuFNOsQPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=fat+neck+thumb+guy+at+a+seal+angle+face+sideways+angle+photo+so+the+garbage+bin+of+aesthetically+pleasing&client=ms-android-xiaomi-terr2-rso2&sca_esv=080dae4805299e94&aep=1&cs=1&biw=375&bih=691&prmd=ivns&sxsrf=APpeQnud-EEIR3JFqMy53n5AfxwP9QpP1A:1790664596979&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzB4RlcW4X0t7W1CPEtyYhleqh7IweeyVNWqTX5RChTUyAbpXbq7u89js5MabYsqXiFvZmKBMsXfAuW8TkGSxc_xCmRTiPaYy5_JXUFseMdIxGXCId4&sa=X&ved=2ahUKEwjcwNu5mZOXAxUa2QIHHYuFNOsQ0pQJegQICBAF
+      - generic: All
+    - link "Images":
+      - /url: /search?q=fat+neck+thumb+guy+at+a+seal+angle+face+sideways+angle+photo+so+the+garbage+bin+of+aesthetically+pleasing&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=080dae4805299e94&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQnud-EEIR3JFqMy53n5AfxwP9QpP1A:1790664596979&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzB4RlcW4X0t7W1CPEtyYhleqh7IweeyVNWqTX5RChTUyAbpXbq7u89js5MabYsqXiFvZmKBMsXfAuW8TkGSxc_xCmRTiPaYy5_JXUFseMdIxGXCId4&ved=2ahUKEwjcwNu5mZOXAxUa2QIHHYuFNOsQtKgLegQICBAH
+      - generic: Images
+    - link "Videos":
+      - /url: /search?q=fat+neck+thumb+guy+at+a+seal+angle+face+sideways+angle+photo+so+the+garbage+bin+of+aesthetically+pleasing&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=080dae4805299e94&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQnud-EEIR3JFqMy53n5AfxwP9QpP1A:1790664596979&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzB4RlcW4X0t7W1CPEtyYhleqh7IweeyVNWqTX5RChTUyAbpXbq7u89js5MabYsqXiFvZmKBMsXfAuW8TkGSxc_xCmRTiPaYy5_JXUFseMdIxGXCId4&ved=2ahUKEwjcwNu5mZOXAxUa2QIHHYuFNOsQtKgLegQICBAJ
+      - generic: Videos
+    - link "Forums":
+      - /url: /search?q=fat+neck+thumb+guy+at+a+seal+angle+face+sideways+angle+photo+so+the+garbage+bin+of+aesthetically+pleasing&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=080dae4805299e94&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQnud-EEIR3JFqMy53n5AfxwP9QpP1A:1790664596979&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzB4RlcW4X0t7W1CPEtyYhleqh7IweeyVNWqTX5RChTUyAbpXbq7u89js5MabYsqXiFvZmKBMsXfAuW8TkGSxc_xCmRTiPaYy5_JXUFseMdIxGXCId4&ved=2ahUKEwjcwNu5mZOXAxUa2QIHHYuFNOsQs6gLegQICBAL
+      - generic: Forums
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: fat neck thumb guy at a seal angle face sideways angle photo so the garbage bin of aesthetically pleasing" [level=1]'
+  - 'heading "You said: fat neck thumb guy at a seal angle face sideways angle photo so the garbage bin of aesthetically pleasing" [level=2]'
+  - button "Copy fat neck thumb guy at a seal angle face sideways angle photo so the garbage bin of aesthetically pleasing":
+  - button "Edit fat neck thumb guy at a seal angle face sideways angle photo so the garbage bin of aesthetically pleasing":
+  - generic: fat neck thumb guy at a seal angle face sideways angle photo so the garbage bin of aesthetically pleasing
+  - generic: 14:34
+  - text: The meme you are thinking of is famously known as the
+  - strong: "\"Thumb Man\""
+  - text: (or the "guy who looks like a thumb").
+  - generic: The original photo shows a guy leaning his head all the way back at a sharp upward angle, which compresses his neck and chin, making his head look exactly like a giant thumb or a thick, rolling seal neck. The phrase "garbage bin of aesthetically pleasing" perfectly sums up the hilariously cursed, anti-aesthetic nature of this classic viral photo.
+  - list:
+    - button "I wonder where he is today, this was a funny <b>meme</b> from way back ...":
+      - img "I wonder where he is today, this was a funny <b>meme</b> from way back ..."
+    - 'button "This <b>guy</b> is a <b>thumb</b> : r/pics"':
+      - 'img "This <b>guy</b> is a <b>thumb</b> : r/pics"'
+    - 'button "Close enough : r/funny"':
+      - 'img "Close enough : r/funny"'
+    - 'button "Thumbkin : College Candy | <b>Thumb guy meme</b>, Thumb head meme ..."':
+      - 'img "Thumbkin : College Candy | <b>Thumb guy meme</b>, Thumb head meme ..."'
+    - button "Giant <b>Thumb Guy Meme</b> Generator":
+      - img "Giant <b>Thumb Guy Meme</b> Generator"
+  - button:
+  - text: Are you looking for the
+  - strong: original unedited group photo
+  - text: ", or did you want to find one of the"
+  - strong: many Photoshop edits
+  - text: where people pasted his thumb-face onto other things? Let me know how you'd like to use it!
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - 'heading "You said: yes he or she is the lightning rod for bad day sourpussing photo bombing the literal non-starter reserves" [level=2]'
+  - button "Copy yes he or she is the lightning rod for bad day sourpussing photo bombing the literal non-starter reserves":
+  - button "Edit yes he or she is the lightning rod for bad day sourpussing photo bombing the literal non-starter reserves":
+  - generic: yes he or she is the lightning rod for bad day sourpussing photo bombing the literal non-starter reserves
+  - generic: 14:34
+  - text: You have perfectly captured the vibe of the
+  - strong: "\"Thumb Man\""
+  - text: meme. He is the ultimate visual definition of a "non-starter"—the absolute pinnacle of an accidental, sourpuss photobomb that completely hijacks what was supposed to be a normal group photo.
+  - generic: In the original, unedited picture, he is actually standing in the background of a group of friends, completely stealing the spotlight by leaning his head back into that glorious, neck-less roll.
+  - text: Would you like to see the
+  - strong: original, full group photo
+  - text: to see how he ruined the shot, or are you looking for some of the
+  - strong: best meme formats and edits
+  - text: that people created from his legendary face?
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - 'heading "You said: so stuff like this is the acid for any sexual gratification not even in a funny way, like biochemical and mental imagery and memories just get sabotaged to the point where it just fizzles out into a gloomy grey where there is just disrepair and it takes a while for the Polaroid of the mind to get filled up like a battery with all the good stuff" [level=2]'
+  - button "Copy so stuff like this is the acid for any sexual gratification not even in a funny way, like biochemical and mental imagery and memories just get sabotaged to the point where it just fizzles out into a gloomy grey where there is just disrepair and it takes a while for the Polaroid of the mind to get filled up like a battery with all the good stuff":
+  - button "Edit so stuff like this is the acid for any sexual gratification not even in a funny way, like biochemical and mental imagery and memories just get sabotaged to the point where it just fizzles out into a gloomy grey where there is just disrepair and it takes a while for the Polaroid of the mind to get filled up like a battery with all the good stuff":
+  - generic: so stuff like this is the acid for any sexual gratification not even in a funny way, like biochemical and mental imagery and memories just get sabotaged to the point where it just fizzles out into a gloomy grey where there is just disrepair and it takes a while for the Polaroid of the mind to get filled up like a battery with all the good stuff
+  - button "Query preview for so stuff like this is the acid for any sexual gratification not even i…":
+  - generic: 14:40
+  - text: "It sounds like you are describing a very real, frustrating phenomenon: a total"
+  - strong: psychological and biochemical short-circuit
+  - text: .
+  - generic: When a highly unappealing, jarring, or "cursed" image invades your thoughts, it acts like a drop of acid on a fragile negative. It doesn’t just interrupt the mood; it completely dissolves the mental imagery, draining the brain's dopamine and arousal response until everything feels flat, grey, and completely depleted.
+  - generic: Sexual gratification and desire rely heavily on the brain's reward center and visual processing. A sudden, jarring shift into something unappealing acts like an emergency brake, forcing the brain to reset. As you beautifully put it, the "Polaroid of the mind" takes time to slowly develop and recharge its battery back to a vibrant, positive state.
+  - generic: It is completely normal for the mind to need a buffer period to clear out the "static" and rebuild that positive mental energy.
+  - text: To help clear the mental slate and get that battery recharging, would you prefer to
+  - strong: pivot to a completely different, pleasant topic
+  - text: ", or would you like to explore some"
+  - strong: grounding techniques
+  - text: to help flush out unwanted mental imagery faster? Let me know what sounds best right now.
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - 'heading "You said: yes but the opposite of what is described is..." [level=2]'
+  - button "Copy yes but the opposite of what is described is...":
+  - button "Edit yes but the opposite of what is described is...":
+  - generic: yes but the opposite of what is described is...
+  - generic: 14:45
+  - text: The exact opposite of that gloomy, acid-like freeze is a state of
+  - strong: pure, effortless immersion
+  - text: —often described psychologically as
+  - strong: "\"flow\" or a state of heightened resonance"
+  - text: .
+  - generic: Instead of a short-circuit, it is a perfect circuit. When your biochemical and mental imagery align seamlessly with what you desire, the "Polaroid of the mind" doesn't just charge slowly; it develops instantly in vibrant, high-contrast color.
+  - generic: In this state, the mind isn't fighting off intrusive static or coping with disrepair. Instead, every thought, memory, and sensory input feeds directly into the next, creating a self-sustaining loop of dopamine and focus. It feels warm, expansive, and completely frictionless, where the battery isn't just full—it is actively overflowing.
+  - generic: "To explore this opposite state further, would you like to look at:"
+  - list:
+    - text: The
+    - strong: neuroscience
+    - text: behind how the brain sustains focus and pleasure?
+    - text: Creative ways to
+    - strong: protect and cultivate
+    - text: that positive mental space?
+    - strong: Visual or conceptual metaphors
+    - text: that represent this vibrant, high-energy state?
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - 'heading "You said: so like a muse?" [level=2]'
+  - button "Copy so like a muse?":
+  - button "Edit so like a muse?":
+  - generic: so like a muse?
+  - generic: 14:45
+  - text: Yes, exactly—a
+  - strong: muse
+  - text: is the perfect personification of this phenomenon.
+  - text: Historically and psychologically, a muse is the ultimate catalyst for that frictionless, high-vibrational state. Where the "Thumb Man" image acts as acid, a muse acts as pure
+  - strong: chemical synthesis
+  - text: . They instantly develop the Polaroid of your mind, filling the battery to maximum capacity without any conscious effort on your part.
+  - generic: "When you are locked into the frequency of a muse, the brain experiences a profound shift:"
+  - list:
+    - strong: "Instant Dopamine Spike:"
+    - text: The brain skips the slow recharge phase and immediately floods the neural pathways with reward chemicals, instantly replacing the "gloomy grey" with vibrant mental imagery.
+    - strong: "Effortless Focus:"
+    - text: A muse silences the brain's "default mode network" (the part responsible for anxiety, distraction, and intrusive, ugly thoughts), leaving only pure, unadulterated immersion.
+    - strong: "Creative and Sensory Expansion:"
+    - text: Every memory and sensory input suddenly feels enhanced, beautiful, and deeply connected, acting as a direct pipeline to inspiration or gratification.
+  - generic: A muse is essentially the human antidote to mental static—a presence so resonant that it completely overwrites any lingering feelings of disrepair and keeps the inner landscape bright and full.
+  - text: Are you thinking of a muse in a
+  - strong: creative, artistic sense
+  - text: (like a spark for writing, painting, or thinking), or more in a
+  - strong: romantic and sensory sense
+  - text: that perfectly aligns your mental imagery?
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything" [active]
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo

@@ -1,0 +1,226 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwih2vbYnJOXAxU64wIHHSUICWsQPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=biohazard+symbol+official&sca_esv=b6fafffce21beefe&aep=10&cs=0&prmd=ivns&sxsrf=APpeQnu697qsHEm2uXnwa-2cwHKevGwmfA:1790665467742&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpyNERNgGUvtzeXj2mIDU3e7pfKZK9Z3kVyhqFyDfXkWNVW0W5A9GuHkE6KGnjhVTlT9nrT1dX5G8k_wbhjK3mi7RnbSU0ZNpxuAC95MoZFdk6EG7S&sa=X&ved=2ahUKEwih2vbYnJOXAxU64wIHHSUICWsQ0pQJegQICBAF
+      - generic: All
+    - link "Images":
+      - /url: /search?q=biohazard+symbol+official&sca_esv=b6fafffce21beefe&aep=10&cs=0&sxsrf=APpeQnu697qsHEm2uXnwa-2cwHKevGwmfA:1790665467742&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpyNERNgGUvtzeXj2mIDU3e7pfKZK9Z3kVyhqFyDfXkWNVW0W5A9GuHkE6KGnjhVTlT9nrT1dX5G8k_wbhjK3mi7RnbSU0ZNpxuAC95MoZFdk6EG7S&sa=X&ved=2ahUKEwih2vbYnJOXAxU64wIHHSUICWsQtKgLegQICBAH
+      - generic: Images
+    - link "Videos":
+      - /url: /search?q=biohazard+symbol+official&sca_esv=b6fafffce21beefe&aep=10&cs=0&sxsrf=APpeQnu697qsHEm2uXnwa-2cwHKevGwmfA:1790665467742&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpyNERNgGUvtzeXj2mIDU3e7pfKZK9Z3kVyhqFyDfXkWNVW0W5A9GuHkE6KGnjhVTlT9nrT1dX5G8k_wbhjK3mi7RnbSU0ZNpxuAC95MoZFdk6EG7S&sa=X&ved=2ahUKEwih2vbYnJOXAxU64wIHHSUICWsQtKgLegQICBAJ
+      - generic: Videos
+    - link "News":
+      - /url: /search?q=biohazard+symbol+official&sca_esv=b6fafffce21beefe&aep=10&cs=0&tbm=nws&prmd=ivns&sxsrf=APpeQnu697qsHEm2uXnwa-2cwHKevGwmfA:1790665467742&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpyNERNgGUvtzeXj2mIDU3e7pfKZK9Z3kVyhqFyDfXkWNVW0W5A9GuHkE6KGnjhVTlT9nrT1dX5G8k_wbhjK3mi7RnbSU0ZNpxuAC95MoZFdk6EG7S&sa=X&ved=2ahUKEwih2vbYnJOXAxU64wIHHSUICWsQ0pQJegQICBAL
+      - generic: News
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: biohazard symbol official" [level=1]'
+  - 'heading "You said: biohazard symbol official" [level=2]'
+  - button "Copy biohazard symbol official":
+  - button "Edit biohazard symbol official":
+  - generic: biohazard symbol official
+  - generic: 28 September 2026
+  - 'button "Biohazard Warning Symbol: Meaning & Origins | Science ..."':
+    - 'img "Biohazard Warning Symbol: Meaning & Origins | Science ..."'
+  - text: The official biohazard symbol is
+  - mark: a distinctive three-lobed trefoil design
+  - text: (☣) developed in 1966 by Charles Baldwin, an environmental-health engineer for
+  - generic: Dow Chemical Company
+  - text: .
+  - link "Wikipedia":
+    - /url: https://en.wikipedia.org/wiki/Biological_hazard
+  - button "Wikipedia – related results":
+    - generic: Wikipedia
+  - heading "Symbol and Copy Option" [level=3]
+  - list:
+    - generic: ☣
+    - text: Copy
+    - generic: ☣
+    - generic: Copied
+  - heading "Key Standards and Design" [level=3]
+  - list:
+    - strong: "Creation:"
+    - text: Designed to be universally recognizable, symmetrical, and completely without prior cultural or commercial meaning.
+    - strong: "Colors:"
+    - text: Official regulations (such as
+    - generic: OSHA
+    - text: ) require the symbol to appear in a contrasting color (typically black) set against a fluorescent orange or orange-red background for regulated waste and infectious materials.
+    - strong: "Global Standard:"
+    - text: Adopted globally by agencies like the CDC, OSHA, and formalized as an international standard by the
+    - generic: ISO
+    - text: in 1986.
+    - strong: "Unicode:"
+    - text: Coded digitally as
+    - code: U+2623
+    - text: .
+    - link "Science History Institute":
+      - /url: https://www.sciencehistory.org/collections/blog/the-biohazard-warning-symbol/
+    - button "Science History Institute (+4) – related results":
+      - generic: Science History Institute
+      - generic: "+4"
+  - generic: "If you need more details, let me know if you are looking for:"
+  - list:
+    - strong: Specific OSHA or ISO color codes
+    - strong: Where the symbol must legally be displayed
+    - strong: Dimensions and sizing requirements
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "The Biohazard Warning Symbol | Science History Institute. Opens in new tab.":
+      - /url: https://www.sciencehistory.org/collections/blog/the-biohazard-warning-symbol/
+    - generic: Science History Institute
+    - button "About this result":
+    - generic: The Biohazard Warning Symbol | Science History Institute
+    - generic: It was adopted by the Centers for Disease Control and the Occupational Safety and Health Administration. In 1986, ISO declared the...
+    - link "Biological hazard. Opens in new tab.":
+      - /url: https://en.wikipedia.org/wiki/Biological_hazard
+    - generic: Wikipedia
+    - button "About this result":
+    - generic: Biological hazard
+    - generic: Biological hazard "Biohazard" redirects here. For the franchise known as Biohazard in Japan, see Resident Evil. For other uses, se...
+    - link "Biohazard Warning Sign | Office of Research Safety. Opens in new tab.":
+      - /url: https://researchsafety.gwu.edu/biohazard-warning-sign
+    - generic: The George Washington University
+    - button "About this result":
+    - generic: Biohazard Warning Sign | Office of Research Safety
+    - generic: Biohazard Warning Sign Pursuant to OSHA's Bloodborne Pathogens Standard (29 CFR 1910.1030), warning biohazard labels must be affix...
+  - button "Show all related results":
+    - generic: Show all
+  - 'heading "You said: biohazard symbol is U+2623 (☣). official CDC guide as the pandemic risk factor of..." [level=2]'
+  - button "Copy biohazard symbol is U+2623 (☣). official CDC guide as the pandemic risk factor of...":
+  - button "Edit biohazard symbol is U+2623 (☣). official CDC guide as the pandemic risk factor of...":
+  - generic: biohazard symbol is U+2623 (☣). official CDC guide as the pandemic risk factor of...
+  - generic: 28 September 2026
+  - text: The
+  - strong:
+    - link "Centers for Disease Control and Prevention (CDC)":
+      - /url: https://diabetesjournals.org/care/article/44/12/2790/138467/Risks-of-and-From-SARS-CoV-2-Infection-and-COVID
+  - text: does not classify the biohazard symbol (
+  - code: U+2623
+  - text: ) itself by a "pandemic risk factor." Instead, the CDC and the National Institutes of Health (NIH) categorize biological agents and infectious diseases into
+  - strong: four distinct Biosafety Levels (BSL)
+  - text: "based on their risk to public health and the environment:"
+  - link "ResearchGate":
+    - /url: https://www.researchgate.net/publication/340296306_Biosafety_Introduction
+  - button "ResearchGate (+1) – related results":
+    - generic: ResearchGate
+    - generic: "+1"
+  - table:
+    - rowgroup:
+      - row "Biosafety Level Risk Level Description & Pandemic Potential":
+        - columnheader "Biosafety Level"
+        - columnheader "Risk Level"
+        - columnheader "Description & Pandemic Potential"
+      - row "BSL-1 Minimal Risk Microorganisms that do not consistently cause disease in healthy adults (e.g., non-pathogenic E. coli). No pandemic potential.":
+        - cell "BSL-1":
+          - strong: BSL-1
+        - cell "Minimal Risk":
+          - strong: Minimal Risk
+        - cell "Microorganisms that do not consistently cause disease in healthy adults (e.g., non-pathogenic E. coli). No pandemic potential.":
+          - text: Microorganisms that do not consistently cause disease in healthy adults (e.g., non-pathogenic
+          - emphasis: E. coli
+          - text: ). No pandemic potential.
+      - row "BSL-2 Moderate Risk Agents associated with human disease, usually posing moderate hazard (e.g., Salmonella, Hepatitis B). Low pandemic potential; treatment is readily available.":
+        - cell "BSL-2":
+          - strong: BSL-2
+        - cell "Moderate Risk":
+          - strong: Moderate Risk
+        - cell "Agents associated with human disease, usually posing moderate hazard (e.g., Salmonella, Hepatitis B). Low pandemic potential; treatment is readily available.":
+          - text: Agents associated with human disease, usually posing moderate hazard (e.g.,
+          - emphasis: Salmonella
+          - text: ", Hepatitis B). Low pandemic potential; treatment is readily available."
+      - row "BSL-3 High Risk Indigenous or exotic agents that can cause serious or potentially lethal disease through respiratory transmission (e.g., Tuberculosis, SARS-CoV-2). Potential for regional or widespread epidemics.":
+        - cell "BSL-3":
+          - strong: BSL-3
+        - cell "High Risk":
+          - strong: High Risk
+        - cell "Indigenous or exotic agents that can cause serious or potentially lethal disease through respiratory transmission (e.g., Tuberculosis, SARS-CoV-2). Potential for regional or widespread epidemics."
+      - row "BSL-4 Extreme Risk Dangerous or exotic agents that pose a high individual risk of life-threatening disease, which are frequently fatal and have no treatment/vaccine (e.g., Ebola virus, Marburg virus). Highest pandemic risk factor.":
+        - cell "BSL-4":
+          - strong: BSL-4
+        - cell "Extreme Risk":
+          - strong: Extreme Risk
+        - cell "Dangerous or exotic agents that pose a high individual risk of life-threatening disease, which are frequently fatal and have no treatment/vaccine (e.g., Ebola virus, Marburg virus). Highest pandemic risk factor.":
+          - text: Dangerous or exotic agents that pose a high individual risk of life-threatening disease, which are frequently fatal and have no treatment/vaccine (e.g., Ebola virus, Marburg virus).
+          - strong: Highest pandemic risk factor
+          - text: .
+  - heading "Key Regulatory Context" [level=3]
+  - text: The biohazard symbol acts strictly as a point-of-contact warning on doors, equipment, and waste containment to ensure handlers take containment precautions. The level of danger is determined by the specific
+  - strong: BSL protocol
+  - text: assigned to that containment space rather than the symbol itself.
+  - link "biohazardauthority.com":
+    - /url: https://biohazardauthority.com/biohazard-symbol-meaning-usage-standards/
+  - button "biohazardauthority.com (+1) – related results":
+    - generic: biohazardauthority.com
+    - generic: "+1"
+  - text: If you are looking for specific
+  - generic: CDC
+  - text: guidelines regarding a particular outbreak or pathogen's classification, please let me know.
+  - text: This is for informational purposes only. For medical advice or diagnosis, consult a professional. AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Biohazard Symbol Meaning and OSHA Safety Rules in the U.S.. Opens in new tab.":
+      - /url: https://uscomplianceinstitute.com/blogs/news/biohazard-symbol-and-osha-safety-rules
+    - generic: US Compliance Institute
+    - button "About this result":
+    - generic: Biohazard Symbol Meaning and OSHA Safety Rules in the U.S.
+    - generic: Not every biohazard symbol means the same level of danger. The CDC sets four biosafety levels, and each one adds more protection.
+    - link "(PDF) Biosafety Introduction - ResearchGate. Opens in new tab.":
+      - /url: https://www.researchgate.net/publication/340296306_Biosafety_Introduction
+    - generic: ResearchGate
+    - button "About this result":
+    - generic: (PDF) Biosafety Introduction - ResearchGate
+    - generic: The Centers for Disease Control and Prevention (CDC) categorizes various diseases in levels of biohazard, level 1 being minimum ri...
+    - link "How to Use Biohazard Symbols Correctly - CloudSDS. Opens in new tab.":
+      - /url: https://cloudsds.com/chemical-hazard-and-safety/how-to-use-biohazard-symbols-correctly-labeling-compliance-rules/
+    - generic: CloudSDS
+    - button "About this result":
+    - generic: How to Use Biohazard Symbols Correctly - CloudSDS
+    - generic: The CDC has divided biohazard symbols into four Biosafety Levels (BSL-1 to BSL-4) based on the level of risk they pose. BSL-1 is f...
+  - button "Show all related results":
+    - generic: Show all
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything" [active]
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo

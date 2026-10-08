@@ -1,0 +1,185 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwj5gIiAq5GXAxXM1AIHHTwuIK0QPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=deadliest+catch+where+they+find+a+lobster+that+is+old+and+so+is+very+fertile+and+they+throw+it+back+because+thats+just+natural+selection+and+good+for+the+dragnet&sca_esv=080dae4805299e94&aep=1&cs=0&biw=1707&bih=898&prmd=ivns&sxsrf=APpeQnt9axmnLnrdBI-nQn5i3H9nxrtvvw:1790600588433&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLzR4RIindJxFrmQWQ1WCYgKdh4SxzhRaOVvt3n87StoAMoDgDvBnjZ4Njf4yAaLs3QhOmFAyDpw9_i3qcRrE3hq_HfYRuhUIW2IGakVmpMJ6tRNQeh__uTkxGdva2OaNUe00HhT&sa=X&ved=2ahUKEwj5gIiAq5GXAxXM1AIHHTwuIK0Q0pQJegQICBAF
+      - generic: All
+    - link "Images":
+      - /url: /search?q=deadliest+catch+where+they+find+a+lobster+that+is+old+and+so+is+very+fertile+and+they+throw+it+back+because+thats+just+natural+selection+and+good+for+the+dragnet&sa=X&sca_esv=080dae4805299e94&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnt9axmnLnrdBI-nQn5i3H9nxrtvvw:1790600588433&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLzR4RIindJxFrmQWQ1WCYgKdh4SxzhRaOVvt3n87StoAMoDgDvBnjZ4Njf4yAaLs3QhOmFAyDpw9_i3qcRrE3hq_HfYRuhUIW2IGakVmpMJ6tRNQeh__uTkxGdva2OaNUe00HhT&ved=2ahUKEwj5gIiAq5GXAxXM1AIHHTwuIK0QtKgLegQICBAH
+      - generic: Images
+    - link "Short videos":
+      - /url: /search?q=deadliest+catch+where+they+find+a+lobster+that+is+old+and+so+is+very+fertile+and+they+throw+it+back+because+thats+just+natural+selection+and+good+for+the+dragnet&sa=X&sca_esv=080dae4805299e94&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnt9axmnLnrdBI-nQn5i3H9nxrtvvw:1790600588433&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLzR4RIindJxFrmQWQ1WCYgKdh4SxzhRaOVvt3n87StoAMoDgDvBnjZ4Njf4yAaLs3QhOmFAyDpw9_i3qcRrE3hq_HfYRuhUIW2IGakVmpMJ6tRNQeh__uTkxGdva2OaNUe00HhT&ved=2ahUKEwj5gIiAq5GXAxXM1AIHHTwuIK0Qs6gLegQICBAJ
+      - generic: Short videos
+    - link "Videos":
+      - /url: /search?q=deadliest+catch+where+they+find+a+lobster+that+is+old+and+so+is+very+fertile+and+they+throw+it+back+because+thats+just+natural+selection+and+good+for+the+dragnet&sa=X&sca_esv=080dae4805299e94&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnt9axmnLnrdBI-nQn5i3H9nxrtvvw:1790600588433&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLzR4RIindJxFrmQWQ1WCYgKdh4SxzhRaOVvt3n87StoAMoDgDvBnjZ4Njf4yAaLs3QhOmFAyDpw9_i3qcRrE3hq_HfYRuhUIW2IGakVmpMJ6tRNQeh__uTkxGdva2OaNUe00HhT&ved=2ahUKEwj5gIiAq5GXAxXM1AIHHTwuIK0QtKgLegQICBAL
+      - generic: Videos
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: deadliest catch where they find a lobster that is old and so is very fertile and they throw it back because thats just natural selection and good for the dragnet" [level=1]'
+  - button "Copy deadliest catch where they find a lobster that is old and so is very fertile and they throw it back because thats just natural selection and good for the dragnet":
+  - button "Edit deadliest catch where they find a lobster that is old and so is very fertile and they throw it back because thats just natural selection and good for the dragnet":
+  - heading "deadliest catch where they find a lobster that is old and so is very fertile and they throw it back because thats just natural selection and good for the dragnet" [level=2]
+  - button "Query preview for deadliest catch where they find a lobster that is old and so is very f…":
+  - text: You are likely thinking of a viral video series by
+  - strong:
+    - button "Jacob Knowles":
+      - generic: Jacob Knowles
+  - text: ", a famous 5th-generation Maine lobster fisherman, rather than an episode of"
+  - emphasis:
+    - button "Deadliest Catch":
+      - generic: Deadliest Catch
+  - text: . Because
+  - emphasis: Deadliest Catch
+  - text: focuses on crab fishing in the Bering Sea, fans often mix up the two because they share the same high-stakes, commercial fishing vibe.
+  - link "YouTube · NowThis Impact":
+    - /url: https://www.youtube.com/shorts/gAn00n8MTVM
+  - button "YouTube · NowThis Impact (+2) – related results":
+    - generic: YouTube
+    - generic: ·NowThis Impact
+    - generic: "+2"
+  - text: In several of his viral videos, Jacob catches a
+  - strong: giant, 100-year-old lobster
+  - text: "and explains the exact environmental and conservation logic you mentioned before throwing it back:"
+  - link "Newsweek":
+    - /url: https://www.newsweek.com/fisherman-catches-giant-100-year-old-lobster-1686753
+  - button "Newsweek (+1) – related results":
+    - generic: Newsweek
+    - generic: "+1"
+  - list:
+    - strong: "Why they are thrown back:"
+    - text: Maine fishing laws explicitly protect oversized lobsters (usually those measuring over 5 inches from the eye to the rear of the back shell).
+    - link "YouTube · Jacob Knowles":
+      - /url: https://www.youtube.com/watch?v=mLMLjOQQk4U&t=286
+    - button "YouTube · Jacob Knowles (+1) – related results":
+      - generic: YouTube
+      - generic: ·Jacob Knowles
+      - generic: "+1"
+    - strong: "The \"Fertile\" and Natural Selection aspect:"
+    - text: Unlike many animals that become less fertile as they age, lobsters experience what scientists call
+    - emphasis: negligible senescence
+    - text: —they don't biologically age or lose reproductive power. In fact, older, larger lobsters are the
+    - strong: most successful and high-yielding breeders
+    - text: in the ocean. By letting the giants live, they ensure strong genetics survive to reproduce.
+    - link "YouTube · BeyondTheGreen":
+      - /url: https://www.youtube.com/watch?v=CWWnzdhJBIs
+    - button "YouTube · BeyondTheGreen (+2) – related results":
+      - generic: YouTube
+      - generic: ·BeyondTheGreen
+      - generic: "+2"
+    - strong: "Good for the fishery:"
+    - text: While you mentioned a "dragnet" (which is typically a net used in trawling), Maine lobstering exclusively uses
+    - strong: lobster traps/pots
+    - text: . Returning these giant breeders keeps the entire local ecosystem healthy and ensures the lobster population stays sustainable for future generations.
+    - button "Related results":
+  - button "Jacob Knowles":
+    - generic: Jacob Knowles
+  - text: frequently posts these educational clips on his
+  - generic: YouTube Channel
+  - text: and TikTok, where he often gives the giant lobsters a snack (like a fish head) before releasing them back into the ocean.
+  - button "Related results":
+  - text: Would you like help finding the
+  - strong: specific viral video clip
+  - text: of the 100-year-old lobster release, or are you interested in learning more about how
+  - strong: lobster biology and aging
+  - text: works?
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Fisherman Catches 100-Year-Old Lobster That His Ancestors ..., Video, watch on YouTube":
+      - /url: https://www.youtube.com/shorts/gAn00n8MTVM
+    - generic: YouTube
+    - generic: ·
+    - generic: NowThis Impact
+    - button "About this result":
+    - generic: Fisherman Catches 100-Year-Old Lobster That His Ancestors ...
+    - generic: 6 Jun 2022 — Jacob Knowles, a 5th-generation fisherman, went viral on TikTok for capturing a gigantic 100-year-old lobster off the coast of Mai...
+    - button "Fisherman Catches 100-Year-Old Lobster That His Ancestors ... by NowThis Impact on YouTube. Play on Google. - 0:54":
+      - generic: 0:54
+    - link "100-Year-Old Lobster! First Catch After Launch!. Opens in new tab.":
+      - /url: https://www.youtube.com/watch?v=093H6HAyIVU
+    - generic: YouTube
+    - button "About this result":
+    - generic: 100-Year-Old Lobster! First Catch After Launch!
+    - generic: when these eggs are gone she's marked. lobster will be protected ・ years without getting notched. protect these egg bearing female...
+    - link "Fisherman Had to Release a 100-Year-Old Lobster Back to .... Opens in new tab.":
+      - /url: https://www.wuuqradio.com/fisherman-had-to-release-a-100-year-old-lobster-back-to-the-ocean/
+    - generic: WUUQ-FM
+    - button "About this result":
+    - generic: Fisherman Had to Release a 100-Year-Old Lobster Back to ...
+    - generic: fisherman have to throw back baby lobsters so they're allowed to grow to maturity, and oversized older lobsters so they can contin...
+  - button "Show all related results":
+    - generic: Show all
+  - button "Copy so my (Tom Klootwijk NL200678942 10-07-1990) starsign is cancer (kreeft in dutch) so I age like a fine wine with creativity as I age?":
+  - button "Edit so my (Tom Klootwijk NL200678942 10-07-1990) starsign is cancer (kreeft in dutch) so I age like a fine wine with creativity as I age?":
+  - heading "so my (Tom Klootwijk NL200678942 10-07-1990) starsign is cancer (kreeft in dutch) so I age like a fine wine with creativity as I age?" [level=2]
+  - button "Query preview for so my (Tom Klootwijk NL200678942 10-07-1990) starsign is cancer (kreef…":
+  - strong: Yes, in the world of astrology, Cancer (Kreeft) is considered a sign that beautifully matures and deepens in creativity over time.
+  - text: As a Cancer born on
+  - strong: July 10, 1990
+  - text: ", you are currently"
+  - strong: 36 years old
+  - text: ". In astrological traditions, your sign is ruled by the Moon, which governs emotions, intuition, and deep imagination. Here is how that translates to \"aging like a fine wine\" creatively:"
+  - heading "1. Emotional Mastery Feeds Creativity" [level=3]
+  - generic: In your youth, Cancer's intense emotional depth can sometimes feel overwhelming or turbulent. However, as you age, this shifts. You learn to channel these powerful feelings directly into creative outlets—whether that is through art, writing, music, problem-solving, or cooking. Your emotional history becomes a rich well of inspiration.
+  - heading "2. The Power of \"Ruling from the Shell\"" [level=3]
+  - generic: Cancer is a cardinal sign, meaning you are naturally an initiator and a creator, even if you prefer to work quietly behind the scenes. As you grow older, your confidence in your own skin develops. You become less concerned with external validation and more focused on creating things that hold genuine, sentimental, or authentic value to you.
+  - heading "3. The \"Fine Wine\" Transition" [level=3]
+  - generic: Astrologers often note that Cancers become more vibrant, relaxed, and playfully creative in the second half of their lives. Once a stable "nest" (home life) is established, your mind is freed up to explore imaginative pursuits with the seasoned perspective of someone who truly understands human nature.
+  - separator
+  - emphasis: "Disclaimer: While astrology offers a fun and reflective lens for personal growth, it is a belief system rather than a verified science. Your personal creative growth is ultimately shaped by your real-world experiences, dedication, and choices!"
+  - text: Would you like to explore your
+  - strong: astrological birth chart
+  - text: further by looking into your
+  - strong: Moon or Ascendant signs
+  - text: ", or are you interested in"
+  - strong: creative exercises
+  - text: tailored to help a Cancer channel their imagination?
+  - button "Show python code block":
+    - generic: Show Code
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything" [active]
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo
+- generic: AI Mode response is ready

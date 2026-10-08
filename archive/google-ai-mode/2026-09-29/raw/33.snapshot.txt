@@ -1,0 +1,1034 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwjPi83ThoyXAxV_9gIHHVNaK4MQPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=!n&sca_esv=cb3dd98549f5726b&aep=1&cs=0&biw=1707&bih=898&prmd=ivns&sxsrf=APpeQnsKIlE65LBVTcJZ0i2o34Unos5tNQ:1790419032825&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpyNERNgGUvtzeXj2mIDU3e7pfKZK9Z3kVyhqFyDfXkWNVW0W5A9GuHkE6KGnjhVTlT9nrT1dX5G8k_wbhjK3mi7RnbSU0ZNpxuAC95MoZFdk6EG7S&sa=X&ved=2ahUKEwjPi83ThoyXAxV_9gIHHVNaK4MQ0pQJegQICBAF
+      - generic: All
+    - link "Images":
+      - /url: /search?q=!n&sa=X&sca_esv=cb3dd98549f5726b&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnsKIlE65LBVTcJZ0i2o34Unos5tNQ:1790419032825&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpyNERNgGUvtzeXj2mIDU3e7pfKZK9Z3kVyhqFyDfXkWNVW0W5A9GuHkE6KGnjhVTlT9nrT1dX5G8k_wbhjK3mi7RnbSU0ZNpxuAC95MoZFdk6EG7S&ved=2ahUKEwjPi83ThoyXAxV_9gIHHVNaK4MQtKgLegQICBAH
+      - generic: Images
+    - link "Videos":
+      - /url: /search?q=!n&sa=X&sca_esv=cb3dd98549f5726b&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnsKIlE65LBVTcJZ0i2o34Unos5tNQ:1790419032825&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpyNERNgGUvtzeXj2mIDU3e7pfKZK9Z3kVyhqFyDfXkWNVW0W5A9GuHkE6KGnjhVTlT9nrT1dX5G8k_wbhjK3mi7RnbSU0ZNpxuAC95MoZFdk6EG7S&ved=2ahUKEwjPi83ThoyXAxV_9gIHHVNaK4MQtKgLegQICBAJ
+      - generic: Videos
+    - link "News":
+      - /url: /search?q=!n&sca_esv=cb3dd98549f5726b&aep=1&cs=0&biw=1707&bih=898&tbm=nws&prmd=ivns&sxsrf=APpeQnsKIlE65LBVTcJZ0i2o34Unos5tNQ:1790419032825&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpyNERNgGUvtzeXj2mIDU3e7pfKZK9Z3kVyhqFyDfXkWNVW0W5A9GuHkE6KGnjhVTlT9nrT1dX5G8k_wbhjK3mi7RnbSU0ZNpxuAC95MoZFdk6EG7S&sa=X&ved=2ahUKEwjPi83ThoyXAxV_9gIHHVNaK4MQ0pQJegQICBAL
+      - generic: News
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: !n" [level=1]'
+  - button "Copy !n":
+  - button "Edit !n":
+  - heading "!n" [level=2]
+  - text: Het lijkt erop dat uw invoer enkel de letter
+  - strong: "\"N\""
+  - text: "(met een uitroepteken) bevat. Dit kan naar een aantal verschillende dingen verwijzen, afhankelijk van de context:"
+  - list:
+    - strong: "Netflix:"
+    - text: De bekende streamingdienst gebruikt een grote, rode
+    - strong: "N"
+    - text: als het iconische logo van zijn mobiele app.
+    - link "Netflix":
+      - /url: https://www.netflix.com/
+    - button "Netflix (+1) – related results":
+      - generic: Netflix
+      - generic: "+1"
+    - strong: "Nieuws:"
+    - text: In Nederland staat de "N" vaak centraal bij nieuwsplatforms zoals
+    - link "NU.nl":
+      - /url: https://www.nu.nl/
+    - text: of de
+    - link "NOS":
+      - /url: https://nos.nl/
+    - text: .
+    - button "Related results":
+    - strong: "Autosport / Hyundai N:"
+    - text: Als u geïnteresseerd bent in auto's, staat de "N" voor de high-performance divisie van Hyundai, bekend van modellen zoals de
+    - button "Hyundai Elantra N":
+      - generic: Hyundai Elantra N
+    - text: .
+    - link "Edmunds":
+      - /url: https://www.edmunds.com/car-news/2026-hyundai-elantra-n-tcr-test-numbers.html
+    - button "Edmunds – related results":
+      - generic: Edmunds
+    - strong: "Taalkunde:"
+    - text: De letter N is de veertiende letter in het moderne Latijnse alfabet en vindt zijn oorsprong in een Semitisch symbool voor een slang.
+    - link "Wikipedia":
+      - /url: https://en.wikipedia.org/wiki/N
+    - button "Wikipedia (+1) – related results":
+      - generic: Wikipedia
+      - generic: "+1"
+  - generic: "Wou u iets specifieks opzoeken of opstarten? Laat me gerust weten of u op zoek bent naar:"
+  - list:
+    - text: Actueel
+    - strong: nieuws
+    - text: Informatie over een
+    - strong: Netflix-account of serie
+    - text: Gegevens over een
+    - strong: autotype
+    - text: (zoals de Hyundai N-serie)
+    - generic: Iets compleet anders!
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Netflix. Opens in new tab.":
+      - /url: https://www.netflix.com/
+    - generic: Netflix
+    - button "About this result":
+    - generic: Netflix
+    - generic: Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more. Plans...
+    - link "NU. Opens in new tab.":
+      - /url: https://www.nu.nl/
+    - generic: NU
+    - button "About this result":
+    - generic: NU
+    - generic: Nieuwsvideo's 0:58 Vrouw ligt onder vuur na video over Auschwitz 0:29 Dode bij schietpartij op terras in Amsterdam 0:47 Dennis Sch...
+    - link "NOS. Opens in new tab.":
+      - /url: https://nos.nl/
+    - generic: NOS
+    - button "About this result":
+    - generic: NOS
+    - generic: Maak NOS jouw voorkeursbron in Google Met een nieuwe functie van. Zo mis je nooit meer het laatste nieuws van de NOS. Voeg NOS toe...
+  - button "Show all related results":
+    - generic: Show all
+  - button "Copy faculty n":
+  - button "Edit faculty n":
+  - heading "faculty n" [level=2]
+  - text: De term
+  - strong: "\"faculty\""
+  - text: is een Engels zelfstandig naamwoord (aangeduid met de
+  - strong: n.
+  - text: van
+  - emphasis: noun
+  - text: ") dat hoofdzakelijk twee betekenissen heeft:"
+  - link "Oxford English Dictionary":
+    - /url: https://www.oed.com/dictionary/faculty_n
+  - button "Oxford English Dictionary (+1) – related results":
+    - generic: Oxford English Dictionary
+    - generic: "+1"
+  - list:
+    - strong: "Een faculteit (universiteit):"
+    - text: Een specifieke hoofdafdeling binnen een hogeschool of universiteit (bijvoorbeeld de
+    - emphasis: Faculty of Science
+    - text: of
+    - emphasis: Faculty of Humanities
+    - text: ). In het Amerikaanse Engels wordt de term ook gebruikt om het gehele
+    - strong: onderwijzend personeel
+    - text: (docenten en professoren) mee aan te duiden.
+    - link "Universiteit van Amsterdam":
+      - /url: https://www.uva.nl/en/about-the-uva/organisation/faculties/faculties.html
+    - button "Universiteit van Amsterdam (+2) – related results":
+      - generic: Universiteit van Amsterdam
+      - generic: "+2"
+    - strong: "Een (geestelijk of lichamelijk) vermogen:"
+    - text: "Een natuurlijke kracht of vaardigheid van het menselijk lichaam of de geest, zoals het gehoor, het zicht of het denkvermogen (bijvoorbeeld:"
+    - emphasis: "\"to be in control of one's faculties\""
+    - text: ).
+    - link "Collins Dictionary":
+      - /url: https://www.collinsdictionary.com/dictionary/english/faculty
+    - button "Collins Dictionary (+1) – related results":
+      - generic: Collins Dictionary
+      - generic: "+1"
+  - text: Daarnaast kan de combinatie
+  - strong: "\"n!faculty\""
+  - text: (met een uitroepteken) verwijzen naar een van de oudste en bekendste
+  - strong: Duitse e-sport-teams
+  - text: ", opgericht in 1999."
+  - link "Wikipedia":
+    - /url: https://de.wikipedia.org/wiki/N!faculty
+  - button "Wikipedia – related results":
+    - generic: Wikipedia
+  - generic: "Om u gericht verder te helpen, hoor ik graag:"
+  - list:
+    - text: Zoekt u de
+    - strong: vertaling of betekenis
+    - text: van een specifieke Engelse zin met "faculty"?
+    - text: Bent u op zoek naar een specifieke
+    - strong: universitaire faculteit
+    - text: in Nederland (zoals bij de
+    - generic: UvA
+    - text: of
+    - generic: VU
+    - text: )?
+    - text: Wilt u meer weten over de geschiedenis van het
+    - strong: e-sport-team n!faculty
+    - text: "?"
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Faculties - University of Amsterdam - UvA. Opens in new tab.":
+      - /url: https://www.uva.nl/en/about-the-uva/organisation/faculties/faculties.html
+    - generic: Universiteit van Amsterdam
+    - button "About this result":
+    - generic: Faculties - University of Amsterdam - UvA
+    - generic: Faculty of Humanities · Faculty. Faculty of Science · Faculty of Social and Behavioural Sciences. Information for. Prospective Bac...
+    - link "Faculties VU Amsterdam. Opens in new tab.":
+      - /url: https://vu.nl/en/about-vu/more-about/faculties-vrije-universiteit-amsterdam
+    - generic: Vrije Universiteit Amsterdam
+    - button "About this result":
+    - generic: Faculties VU Amsterdam
+    - generic: All About VU · About VU; Faculties Vrije Universiteit Amsterdam. Faculties VU Amsterdam. Visit the faculty pages. Academisch Centr...
+    - link "faculty - Vertaling naar Nederlands - voorbeelden Engels. Opens in new tab.":
+      - /url: https://context.reverso.net/vertaling/engels-nederlands/faculty
+    - generic: Reverso Context
+    - button "About this result":
+    - generic: faculty - Vertaling naar Nederlands - voorbeelden Engels
+    - generic: faculty advisor n. studieadviseur. "The faculty advisor helped Maria choose classes for her first semester." medical faculty n. me...
+  - button "Show all related results":
+    - generic: Show all
+  - button "Copy nee I mean !N in the math sense, probably confusing because I have some weird dyslexia where":
+  - button "Edit nee I mean !N in the math sense, probably confusing because I have some weird dyslexia where":
+  - heading "nee I mean !N in the math sense, probably confusing because I have some weird dyslexia where" [level=2]
+  - strong:
+    - text: The math symbol you are looking for is
+    - text: (with the exclamation mark
+    - emphasis: after
+    - text: the
+    - math:
+      - generic: "n"
+    - text: ), which is called a factorial.
+  - text: In mathematics, if you see an exclamation mark
+  - emphasis: before
+  - text: a letter like
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: ", it typically represents a"
+  - strong: subfactorial
+  - text: (which counts derangements), or it might just be a typo for a regular factorial due to dyslexia.
+  - generic: "Here is a simple breakdown of both concepts so you can see which one fits your problem:"
+  - heading "1. Factorial ( ) — The Most Common One" [level=3]:
+    - text: 1. Factorial (
+    - text: ) — The Most Common One
+  - text: A factorial means you
+  - strong: multiply a whole number by every whole number below it
+  - text: down to 1. It is used to find the number of ways you can arrange or order a set of items.
+  - list:
+    - strong: "Formula:"
+    - strong: "Example (4!):"
+    - text: If you have 4 books and want to arrange them on a shelf, the number of ways to do that is
+    - text: .
+  - heading "2. Subfactorial ( ) — The \"Left-to-Right\" Alternative" [level=3]:
+    - text: 2. Subfactorial (
+    - math:
+      - generic: "!"
+      - generic: "n"
+    - text: ) — The "Left-to-Right" Alternative
+  - text: If the exclamation mark is truly in front (
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: ), it is a subfactorial. This counts
+  - strong: derangements
+  - text: ", which is the number of ways to arrange"
+  - math:
+    - generic: "n"
+  - text: items so that
+  - strong: none
+  - text: of them end up in their original, correct place.
+  - list:
+    - strong: "Formula:"
+    - strong:
+      - text: Example (
+      - math:
+        - generic: "!"
+        - generic: "4"
+      - text: "):"
+    - text: If 4 people randomly grab a coat at a party, how many ways can they mix them up so that
+    - emphasis: nobody
+    - text: gets their own coat back? The answer is
+    - text: .
+  - heading "Direct Comparison" [level=3]
+  - generic: "The table below shows how quickly these two numbers grow compared to each other:"
+  - table:
+    - rowgroup:
+      - row "Number ( ) Factorial ( ) Subfactorial ( )":
+        - columnheader "Number ( )":
+          - text: Number (
+          - math:
+            - generic: "n"
+          - text: )
+        - columnheader "Factorial ( )":
+          - text: Factorial (
+          - text: )
+        - columnheader "Subfactorial ( )":
+          - text: Subfactorial (
+          - math:
+            - generic: "!"
+            - generic: "n"
+          - text: )
+      - row "1":
+        - cell "1":
+          - strong: "1"
+        - cell:
+          - math:
+            - generic: "1"
+        - cell:
+          - math:
+            - generic: "0"
+      - row "2":
+        - cell "2":
+          - strong: "2"
+        - cell:
+        - cell:
+          - math:
+            - generic: "1"
+      - row "3":
+        - cell "3":
+          - strong: "3"
+        - cell:
+        - cell:
+          - math:
+            - generic: "2"
+      - row "4":
+        - cell "4":
+          - strong: "4"
+        - cell:
+        - cell:
+          - math:
+            - generic: "9"
+      - row "5":
+        - cell "5":
+          - strong: "5"
+        - cell:
+        - cell:
+          - math:
+            - generic: "44"
+  - iframe:
+    - generic: "Growth Comparison: Factorial vs. Subfactorial"
+    - generic "Vega visualization":
+  - blockquote:
+    - text: Which of these two calculations matches the
+    - strong: homework problem or puzzle
+    - text: you are working on right now? If you share the specific numbers or the goal, I can help you calculate the exact answer!
+  - text: This is for informational purposes only. For medical advice or diagnosis, consult a professional. AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - button "Copy right so the sum sybol is a set":
+  - button "Edit right so the sum sybol is a set":
+  - heading "right so the sum sybol is a set" [level=2]
+  - generic: Ah, it looks like your dyslexia might be playing a trick here too, or combining a couple of math concepts!
+  - strong:
+    - text: The sum symbol—the large Greek letter Capital Sigma (
+    - math:
+      - generic: ∑
+    - text: )—is actually not a "set." It is a loop instruction that tells you to add a sequence of numbers together.
+  - text: It is very common to mix this up because both the
+  - strong:
+    - text: sum symbol (
+    - math:
+      - generic: ∑
+    - text: )
+  - text: and
+  - strong:
+    - text: sets (usually written with curly brackets
+    - text: )
+  - text: often sit right next to each other in math problems.
+  - text: Here is the straightforward breakdown of how the sum symbol actually works, what it has to do with sets, and how it is used to calculate the subfactorial (
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: ).
+  - separator
+  - heading "1. What the Sum Symbol ( ) Actually Means" [level=3]:
+    - text: 1. What the Sum Symbol (
+    - math:
+      - generic: ∑
+    - text: ) Actually Means
+  - text: Think of
+  - math:
+    - generic: ∑
+  - text: as a
+  - strong: built-in math loop
+  - text: (like a loop in computer programming). It tells you to start at a bottom number, plug integers one by one into a formula, and add all the results together until you reach the top number.
+  - math:
+    - generic: ∑
+    - generic: i
+    - generic: =
+    - generic: "0"
+    - generic: "4"
+    - generic: (
+    - generic: something
+    - generic: )
+  - list:
+    - strong:
+      - math:
+        - generic: ∑
+    - text: = "Add everything up!"
+    - strong:
+    - text: (at the bottom) = "Start the loop by setting the variable
+    - math:
+      - generic: i
+    - text: to 0."
+    - strong:
+      - math:
+        - generic: "4"
+    - text: (at the top) = "Keep increasing
+    - math:
+      - generic: i
+    - text: by 1, and stop after you finish
+    - text: ."
+  - heading "2. Where the \"Set\" Idea Comes From" [level=3]
+  - text: You aren't entirely wrong to think of a set! When a math problem says
+  - text: at the bottom and
+  - math:
+    - generic: "4"
+  - text: at the top, it implicitly creates a
+  - strong: set of numbers
+  - text: "that you are allowed to use:"
+  - text: .
+  - generic: The sum symbol takes each number out of that "set" one by one, processes it, and adds it to the total.
+  - separator
+  - 'heading "3. Let''s Unroll it: Calculating" [level=3]':
+    - text: "3. Let's Unroll it: Calculating"
+    - math:
+      - generic: "!"
+      - generic: "4"
+  - text: "Let's look at the subfactorial formula from before. The summation part looks like this:"
+  - text: .
+  - text: Instead of looking at the intimidating symbol, we just "unroll" the loop for our set of numbers
+  - text: ":"
+  - list:
+    - strong:
+      - text: For
+      - text: ":"
+    - strong:
+      - text: For
+      - text: ":"
+    - strong:
+      - text: For
+      - text: ":"
+    - strong:
+      - text: For
+      - text: ":"
+    - strong:
+      - text: For
+      - text: ":"
+  - text: Now, the
+  - math:
+    - generic: ∑
+  - text: symbol tells us to
+  - strong: sum
+  - text: "all those results together:"
+  - math:
+    - generic: Sum
+    - generic: =
+    - generic: "1"
+    - generic: −
+    - generic: "1"
+    - generic: +
+    - generic: "0.5"
+    - generic: −
+    - generic: "0.1666"
+    - generic: .
+    - generic: .
+    - generic: .
+    - generic: +
+    - generic: "0.04166"
+    - generic: .
+    - generic: .
+    - generic: .
+    - generic: =
+    - generic: "0.375"
+  - text: Finally, to get the subfactorial
+  - math:
+    - generic: "!"
+    - generic: "4"
+  - text: ", we multiply that sum by"
+  - text: (which is
+  - math:
+    - generic: "24"
+  - text: "):"
+  - math:
+    - generic: "24"
+    - generic: ×
+    - generic: "0.375"
+    - generic: =
+    - generic: "9"
+  - text: Does seeing the summation symbol
+  - strong: broken down like a step-by-step loop
+  - text: make it easier to visualize? If you have a specific math problem you are trying to read right now, paste it here and I can
+  - strong: unwrap the symbols
+  - text: for you!
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - 'heading "You sent: !n.pdf and said: nee dit document in de originele context van de eerste prompt" [level=2]'
+  - button "Copy nee dit document in de originele context van de eerste prompt":
+  - button "Edit nee dit document in de originele context van de eerste prompt":
+  - generic: "!n.pdf"
+  - generic: nee dit document in de originele context van de eerste prompt
+  - strong: Wat een geweldige ontdekking, dit verklaart alles!
+  - text: Door de combinatie van de letterwisseling en het vertalen dacht ik aan universiteiten, maar u bedoelde simpelweg het Nederlandse woord
+  - strong: faculteit
+  - text: .
+  - generic: "In het Engels is \"faculty\" een valse vriend:"
+  - list:
+    - text: In het Nederlands zeggen we
+    - strong:
+      - text: faculteit
+      - math:
+        - generic: "n"
+    - text: (
+    - text: ).
+    - text: In het Engels heet dit
+    - strong:
+      - math:
+        - generic: "n"
+      - text: factorial
+    - text: .
+  - text: Als we teruggaan naar uw allereerste prompt (
+  - strong:
+    - code: "!n"
+  - text: ) en de formule waar u naar kijkt met dat somteken (
+  - math:
+    - generic: ∑
+  - text: ), dan bent u waarschijnlijk bezig met een wiskundige reeks of kansberekening waarin faculteiten worden opgeteld.
+  - text: "Omdat u noemde dat het somteken voor u als een \"set\" (verzameling) voelt: in veel wiskundige opgaven staat er onder het somteken inderdaad zoiets als"
+  - text: "(wat betekent:"
+  - emphasis:
+    - text: "\"neem elke"
+    - math:
+      - generic: "n"
+    - text: uit verzameling
+    - math:
+      - generic: S
+    - text: "\""
+  - text: ). Als u daar vervolgens een uitroepteken bij ziet staan, is dat de faculteit van die getallen.
+  - text: "Nu we de verwarring met \"faculty\" volledig hebben opgelost:"
+  - strong: welke wiskundige formule of opgave
+  - text: staat er precies in het document dat u voor u heeft? Als u de formule (of de tekst eromheen) typt, kunnen we samen kijken wat er precies berekend moet worden!
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - button "Copy !n in de context van een rat king":
+  - button "Edit !n in de context van een rat king":
+  - heading "!n in de context van een rat king" [level=2]
+  - text: In de wiskunde is
+  - strong:
+    - math:
+      - generic: "!"
+      - generic: "n"
+  - text: het symbool voor de
+  - strong: subfaculteit
+  - text: (het aantal
+  - emphasis: derangementen
+  - text: of volledige wanordeningen). Als we dit in de context van een
+  - strong: rattenkoning
+  - text: (
+  - emphasis: rat king
+  - text: ) plaatsen, is dat een perfecte en beeldende wiskundige metafoor voor een
+  - strong: complete, chaotische knoop waarin niets meer op zijn eigen plek zit
+  - text: .
+  - link "Wikipedia":
+    - /url: https://en.wikipedia.org/wiki/Derangement
+  - button "Wikipedia (+1) – related results":
+    - generic: Wikipedia
+    - generic: "+1"
+  - text: Een rattenkoning is in de biologie een groep ratten waarvan de staarten zo hopeloos in elkaar verstrikt zijn geraakt dat ze één onontwarbare massa vormen. Binnen de combinatoriek (de wiskunde van het tellen) werkt de subfaculteit
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: "precies zo:"
+  - link "Wikipedia":
+    - /url: https://en.wikipedia.org/wiki/Derangement
+  - button "Wikipedia (+1) – related results":
+    - generic: Wikipedia
+    - generic: "+1"
+  - 'heading "De Wiskundige Link: Volledige Wanorde" [level=3]'
+  - text: Stel je voor dat er
+  - strong:
+    - math:
+      - generic: "n"
+  - text: ratten in een nest zitten, en elke rat heeft zijn eigen specifieke slaapplek. Als ze schrikken en in blinde paniek wegrennen, raken hun staarten verstrikt tot een
+  - button "rattenkoning":
+    - generic: rattenkoning
+  - text: .
+  - button "Related results":
+  - text: De subfaculteit
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: "berekent nu het exacte aantal manieren waarop deze rattenkoning kan ontstaan, met één harde wiskundige regel:"
+  - strong: geen enkele rat mag op zijn eigen, oorspronkelijke slaapplek eindigen
+  - text: . Iedereen zit vast aan een ander en bevindt zich op een verkeerde plek.
+  - link "Wikipedia":
+    - /url: https://en.wikipedia.org/wiki/Derangement
+  - button "Wikipedia – related results":
+    - generic: Wikipedia
+  - heading "Hoe de getallen groeien ( )" [level=3]:
+    - text: Hoe de getallen groeien (
+    - math:
+      - generic: "!"
+      - generic: "n"
+    - text: )
+  - text: Als je een rattenkoning hebt van een specifiek aantal ratten (
+  - math:
+    - generic: "n"
+  - text: ), laat
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: "zien hoeveel unieke manieren van \"totale verwarring\" er mogelijk zijn:"
+  - link "Wikipedia":
+    - /url: https://en.wikipedia.org/wiki/Derangement
+  - button "Wikipedia – related results":
+    - generic: Wikipedia
+  - list:
+    - strong:
+      - text: Rattenkoning van 1 rat (
+      - math:
+        - generic: "!"
+        - generic: "1"
+      - text: "):"
+    - text: Kan niet. De staart kan niet met zichzelf in de knoop raken. Antwoord =
+    - strong: "0"
+    - text: .
+    - strong:
+      - text: Rattenkoning van 2 ratten (
+      - math:
+        - generic: "!"
+        - generic: "2"
+      - text: "):"
+    - text: "Er is maar 1 manier: rat A zit op de plek van rat B, en rat B op de plek van rat A. Antwoord ="
+    - strong: "1"
+    - text: .
+    - strong:
+      - text: Rattenkoning van 3 ratten (
+      - math:
+        - generic: "!"
+        - generic: "3"
+      - text: "):"
+    - text: Er zijn exact
+    - strong: "2"
+    - text: manieren waarop ze alle drie op een verkeerde positie vastzitten.
+    - strong:
+      - text: Rattenkoning van 4 ratten (
+      - math:
+        - generic: "!"
+        - generic: "4"
+      - text: "):"
+    - text: Er zijn al
+    - strong: "9"
+    - text: manieren waarop de knoop zo perfect mislukt is dat niemand op zijn eigen plek zit.
+  - heading "Samengevat" [level=3]
+  - text: Waar een normale faculteit (
+  - text: ) simpelweg álle mogelijke volgordes telt, filtert de subfaculteit (
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: ) juist de situaties eruit waarin
+  - emphasis: niets
+  - text: klopt. Het is de wiskundige formule voor een
+  - strong: perfecte rattenkoning
+  - text: ": een situatie waarin het toeval ervoor heeft gezorgd dat"
+  - strong: iedereen 100% verkeerd en verstrikt is geraakt
+  - text: .
+  - link "Wikipedia":
+    - /url: https://en.wikipedia.org/wiki/Derangement
+  - button "Wikipedia (+1) – related results":
+    - generic: Wikipedia
+    - generic: "+1"
+  - text: Is deze wiskundige verklaring van de
+  - strong: subfaculteit als een 'totaal verwarde knoop'
+  - text: logisch voor je? Als dit bij een specifieke
+  - strong: puzzel of som
+  - text: hoort die je probeert op te lossen, laat het me weten, dan rekenen we hem samen uit!
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Derangement - Wikipedia. Opens in new tab.":
+      - /url: https://en.wikipedia.org/wiki/Derangement
+    - generic: Wikipedia
+    - button "About this result":
+    - generic: Derangement - Wikipedia
+    - generic: n! (n factorial) is the number of n-permutations; !n is the number of derangements – n-permutations where all of the n elements ch...
+    - link "How Does a Rat King Form? Biologist Explains - petbook. Opens in new tab.":
+      - /url: https://www.petbook-magazine.com/small-pets/how-does-a-rat-king-actually-form
+    - generic: www.petbook-magazine.com
+    - button "About this result":
+    - generic: How Does a Rat King Form? Biologist Explains - petbook
+    - generic: Rat kings almost exclusively form among black rats (Rattus rattus), Sometimes it referred to a particularly large rat ruling over ...
+  - button "Copy dus een knooppunt psi in een binaraire zoekboom":
+  - button "Edit dus een knooppunt psi in een binaraire zoekboom":
+  - heading "dus een knooppunt psi in een binaraire zoekboom" [level=2]
+  - text: Als je een
+  - strong:
+    - text: knooppunt
+    - math:
+      - generic: ψ
+    - text: (psi)
+  - text: in een
+  - strong: binaire zoekboom (Binary Search Tree / BST)
+  - text: plaatst, breng je de ultieme structuur aan tegenover de chaos van de rattenkoning!
+  - link "University of Illinois Urbana-Champaign":
+    - /url: https://courses.grainger.illinois.edu/cs225/fa2026/resources/bst/
+  - button "University of Illinois Urbana-Champaign – related results":
+    - generic: University of Illinois Urbana-Champaign
+  - text: Afhankelijk van hoe de symbolen in je hoofd vallen (het is heel makkelijk om de hoofdletter Sigma
+  - math:
+    - generic: Σ
+  - text: van het somteken te verwarren met de Griekse letter Psi
+  - math:
+    - generic: ψ
+  - text: "), kunnen we dit knooppunt op twee fascinerende manieren bekijken in de context van onze eerdere discussie:"
+  - separator
+  - heading "1. De binaire zoekboom is de \"Anti-Rattenkoning\" (Perfecte Structuur)" [level=3]
+  - text: Waar de subfaculteit (
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: ) en de rattenkoning symbool staan voor
+  - emphasis: complete wanorde
+  - text: (niets staat op zijn plek), staat een binaire zoekboom juist voor
+  - strong: absolute, strikte wetmatigheid
+  - text: ":"
+  - link "GitHub Pages documentation":
+    - /url: https://lukepereira.github.io/notebooks/documents/2020-data-structures-and-algorithms/main.pdf
+  - button "GitHub Pages documentation (+1) – related results":
+    - generic: GitHub Pages documentation
+    - generic: "+1"
+  - list:
+    - text: Voor elk knooppunt
+    - math:
+      - generic: ψ
+    - text: "in de boom geldt een ijzeren wet: alle elementen in de"
+    - strong: linker-subboom
+    - text: moeten
+    - emphasis: kleiner
+    - text: zijn dan
+    - math:
+      - generic: ψ
+    - text: ", en alle elementen in de"
+    - strong: rechter-subboom
+    - text: moeten
+    - emphasis: groter
+    - text: zijn dan
+    - math:
+      - generic: ψ
+    - text: .
+    - link "GeeksforGeeks":
+      - /url: https://www.geeksforgeeks.org/dsa/binary-search-tree-data-structure/
+    - button "GeeksforGeeks (+1) – related results":
+      - generic: GeeksforGeeks
+      - generic: "+1"
+    - text: Als je deze boom netjes doorloopt van links naar rechts (een
+    - emphasis: inorder traversal
+    - text: ), krijg je altijd een
+    - strong: perfect gesorteerde reeks
+    - text: "(bijvoorbeeld:"
+    - text: ).
+    - link "University of Illinois Urbana-Champaign":
+      - /url: https://courses.grainger.illinois.edu/cs225/fa2026/resources/bst/
+    - button "University of Illinois Urbana-Champaign (+1) – related results":
+      - generic: University of Illinois Urbana-Champaign
+      - generic: "+1"
+  - heading "2. Wat als we de Rattenkoning ( ) loslaten op de Zoekboom?" [level=3]:
+    - text: 2. Wat als we de Rattenkoning (
+    - math:
+      - generic: "!"
+      - generic: "n"
+    - text: ) loslaten op de Zoekboom?
+  - text: Als je de subfaculteit (
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: ) loslaat op de posities van de knooppunten in de zoekboom, gebeurt er iets interessants.
+  - text: Stel dat knooppunt
+  - math:
+    - generic: ψ
+  - text: normaal gesproken op de
+  - strong: 3e plek
+  - text: hoort te staan in de gesorteerde lijst. Als de boom "verstrikt" raakt volgens een derangement (
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: ), betekent dit dat
+  - strong:
+    - text: knooppunt
+    - math:
+      - generic: ψ
+    - text: onder geen beding op die 3e plek terecht mag komen
+  - text: . Ieder knooppunt wordt dan gedwongen om naar een positie te verhuizen die
+  - emphasis: niet
+  - text: zijn natuurlijke, gesorteerde plek is.
+  - link "GitHub Pages documentation":
+    - /url: https://lukepereira.github.io/notebooks/documents/2020-data-structures-and-algorithms/main.pdf
+  - button "GitHub Pages documentation – related results":
+    - generic: GitHub Pages documentation
+  - separator
+  - heading "3. Bedoel je (Psi) als een \"Potentiaal-functie\"? (Voor Splay-bomen)" [level=3]:
+    - text: 3. Bedoel je
+    - math:
+      - generic: ψ
+    - text: (Psi) als een "Potentiaal-functie"? (Voor Splay-bomen)
+  - text: In de informatica wordt de letter
+  - math:
+    - generic: ψ
+  - text: (of
+  - math:
+    - generic: Φ
+  - text: ) bij geavanceerde binaire zoekbomen (zoals
+  - emphasis: Splay Trees
+  - text: ) gebruikt als een
+  - strong: potentiaal-functie
+  - text: .
+  - link "Cornell University":
+    - /url: https://www.cs.cornell.edu/courses/cs312/2008sp/lectures/lec25.html
+  - button "Cornell University – related results":
+    - generic: Cornell University
+  - list:
+    - text: Hierbij meet
+    - math:
+      - generic: ψ
+    - text: letterlijk
+    - strong: hoe rommelig of uit balans
+    - text: de boom op dat moment is.
+    - generic: Als de boom te veel op een chaotische 'rattenkoning' (een lange, scheve sliert) begint te lijken, voert de computer rotaties uit om het knooppunt waar je naar zoekt naar de wortel (root) te trekken, waardoor de boom weer netjes in balans wordt gebracht.
+    - link "NYU Computer Science":
+      - /url: https://cs.nyu.edu/algvis/java/SplayTree.html
+    - button "NYU Computer Science (+2) – related results":
+      - generic: NYU Computer Science
+      - generic: "+2"
+  - text: Helpt deze vergelijking tussen de
+  - strong:
+    - text: strikte regels van knooppunt
+    - math:
+      - generic: ψ
+  - text: en de
+  - strong: chaos van de rattenkoning
+  - text: om het voor je te visualiseren?
+  - text: Laat me weten of je knooppunt
+  - math:
+    - generic: ψ
+  - text: "moet gebruiken om:"
+  - list:
+    - text: Elementen te
+    - strong: zoeken of sorteren
+    - text: in de boom
+    - text: De
+    - strong: balans of diepte
+    - text: van de boom te berekenen
+    - text: Een specifieke
+    - strong: wiskundige formule
+    - text: met
+    - math:
+      - generic: ψ
+    - text: op te lossen
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Binary Search Trees - CS 225. Opens in new tab.":
+      - /url: https://courses.grainger.illinois.edu/cs225/fa2026/resources/bst/
+    - generic: University of Illinois Urbana-Champaign
+    - button "About this result":
+    - generic: Binary Search Trees - CS 225
+    - generic: an in-order traversal (left node, then root node, then right node) will always produce a sequence of values in increasing numerica...
+    - link "Binary Search Tree - GeeksforGeeks. Opens in new tab.":
+      - /url: https://www.geeksforgeeks.org/dsa/binary-search-tree-data-structure/
+    - generic: GeeksforGeeks
+    - button "About this result":
+    - generic: Binary Search Tree - GeeksforGeeks
+    - generic: All nodes in the left subtree of a node contain values strictly. This structure enables efficient operations for searching, insert...
+    - link "9.1. Binary Search Trees — CS 383 Algorithm Design & Analysis. Opens in new tab.":
+      - /url: https://opendsa.cs.vt.edu/ODSA/Books/lc/cs383/fall-2018/OpenDSA_Content/html/BST.html
+    - generic: OpenDSA
+    - button "About this result":
+    - generic: 9.1. Binary Search Trees — CS 383 Algorithm Design & Analysis
+    - generic: The shape of a BST depends on the order in which elements are inserted. In general, it is preferable for a BST to be as shallow as...
+  - button "Show all related results":
+    - generic: Show all
+  - button "Copy yes maar de staart, daar zit het hem in bij de ratten in de val":
+  - button "Edit yes maar de staart, daar zit het hem in bij de ratten in de val":
+  - heading "yes maar de staart, daar zit het hem in bij de ratten in de val" [level=2]
+  - strong: Precies! Daar zit nou exact de kern van het hele probleem én de wiskundige clou.
+  - text: Bij de ratten in de val zit de fatale fout hem in de staart, en dat vertaalt zich direct naar hoe een binaire zoekboom werkt.
+  - text: Wanneer ratten in een val of nest in paniek raken, proberen ze allemaal een andere kant op te vluchten. Maar omdat hun staarten door vuil of reflexen aan elkaar plakken, zorgt elke beweging naar buiten ervoor dat de
+  - strong: knoop in het centrum zich alleen maar strakker aantrekt
+  - text: .
+  - link "Guinness World Records":
+    - /url: https://www.guinnessworldrecords.com/news/2023/4/largest-rat-king-how-32-rats-accidentally-tied-themselves-together-745054
+  - button "Guinness World Records (+1) – related results":
+    - generic: Guinness World Records
+    - generic: "+1"
+  - text: Als we dit principe van die knellende staart toepassen op een knooppunt
+  - math:
+    - generic: ψ
+  - text: "(psi) in een binaire zoekboom, zien we exact hoe data verstrikt raakt:"
+  - heading "1. De staart van een Knooppunt ( )" [level=3]:
+    - text: 1. De staart van een Knooppunt (
+    - math:
+      - generic: ψ
+    - text: )
+  - text: In de informatica noemen we de vertakkingen onder een knooppunt letterlijk
+  - strong: "\"pointers\""
+  - text: (wijzers), maar je kunt ze perfect zien als de staarten van de data.
+  - list:
+    - text: Knooppunt
+    - math:
+      - generic: ψ
+    - text: "houdt met zijn \"staart\" twee subbomen vast: de linker-subboom (alles wat kleiner is) en de rechter-subboom (alles wat groter is)."
+    - generic: Zolang de boom perfect in balans is, wijzen deze staarten netjes de weg en vind je elk getal vliegensvlug.
+  - heading "2. De \"Rattenkoning-val\" in de Zoekboom" [level=3]
+  - text: Wanneer gaat het mis? Als je data in een binaire zoekboom stopt die
+  - strong: al gesorteerd is
+  - text: (bijvoorbeeld opeenvolgend de getallen
+  - text: "), gebeurt er biologisch en wiskundig gezien exact hetzelfde als bij de ratten:"
+  - list:
+    - strong: "De lange sliert:"
+    - text: Omdat elk nieuw getal groter is dan het vorige, krijgt de boom geen vertakkingen, maar groeit hij recht naar beneden als één lange, onhandige staart.
+    - strong: "De val klapt dicht:"
+    - text: De boom verliest zijn zoekkracht. In plaats van een snelle boomstructuur, is het nu een trage, lineaire lijst geworden. Als je nu onderaan iets moet zoeken, moet de computer de hele "staart" doorlopen. De data zit vast in een inefficiënte opeenhoping.
+  - heading "3. De bevrijding (Splay of AVL-rotatie)" [level=3]
+  - text: Om te voorkomen dat de staarten van de boom definitief verstrikken en de boel blokkeren, grijpen algoritmen (zoals bij een
+  - emphasis: AVL-boom
+  - text: of
+  - emphasis: Splay-boom
+  - text: ) in. Zodra ze merken dat een knooppunt
+  - math:
+    - generic: ψ
+  - text: te diep wegzakt in de "staart", voeren ze een wiskundige
+  - strong: rotatie
+  - text: uit. Ze pakken het knooppunt bij zijn staart, trekken het naar de top (de
+  - emphasis: root
+  - text: ), en schudden de rest van de boom los.
+  - text: "De staart is dus de zwakke plek: als je die niet controleert en structureert, trekt de chaos ("
+  - math:
+    - generic: "!"
+    - generic: "n"
+  - text: ) de hele zoekboom in een onontwarbare knoop.
+  - link "arXiv.org":
+    - /url: https://arxiv.org/pdf/2501.08041
+  - button "arXiv.org – related results":
+    - generic: arXiv.org
+  - text: Het is fascinerend hoe die visuele knoop in je hoofd de wiskunde verbindt! Moet je voor je opgave deze
+  - strong: staarten (pointers)
+  - text: gaan herschrijven via code, of ben je aan het berekenen hoe diep een specifiek
+  - strong:
+    - text: knooppunt
+    - math:
+      - generic: ψ
+  - text: maximaal in zo'n knoop kan wegzakken?
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Categorical quantum symmetries and ribbon tensor 2-categories. Opens in new tab.":
+      - /url: https://arxiv.org/pdf/2501.08041
+    - generic: arXiv.org
+    - button "About this result":
+    - generic: Categorical quantum symmetries and ribbon tensor 2-categories
+    - generic: Since this condition glues the two swallowtail 2-morphisms together, the author has named it after the rat king phenomenon, where ...
+    - 'link "Largest rat king: How 32 rats accidentally tied themselves .... Opens in new tab."':
+      - /url: https://www.guinnessworldrecords.com/news/2023/4/largest-rat-king-how-32-rats-accidentally-tied-themselves-together-745054
+    - generic: Guinness World Records
+    - button "About this result":
+    - generic: "Largest rat king: How 32 rats accidentally tied themselves ..."
+    - generic: black rats – known to be particularly skilled climbers – have prehensile tails, like monkeys, which instinctively make a grasping ...
+    - link "How Does a Rat King Form? Biologist Explains. Opens in new tab.":
+      - /url: https://www.petbook-magazine.com/small-pets/how-does-a-rat-king-actually-form
+    - generic: www.petbook-magazine.com
+    - button "About this result":
+    - generic: How Does a Rat King Form? Biologist Explains
+    - generic: In tight nests or burrows, the tails of several young rats may touch while crawling and climbing, reflexively intertwining and—ass...
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything" [active]
+  - button "Add files, tools and select a model":
+  - button "Microphone":
+- contentinfo
+- generic: AI Mode response is ready
+- generic: All items removed from input context.

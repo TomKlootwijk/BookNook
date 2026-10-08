@@ -1,0 +1,194 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwjL1_u3mZOXAxUQ1QIHHcSCAAcQPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=garbage+bin+people+who+have+no+personality+and+no+aesthetically+pleasing+looks+are+just+failed+prototypes+of+like+bad+spoiled+or+deformed+produce+that+dont+get+selected+to+be+displayed+in+the+supermarket+and+end+up+in...&client=ms-android-xiaomi-terr2-rso2&sca_esv=080dae4805299e94&aep=1&cs=1&biw=375&bih=691&prmd=ivns&sxsrf=APpeQntefAjpAcvZBNxdOgKfo2FIMqWYjQ:1790664593312&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKi9oPlxXmLuMKd45Roo5diAos55tQ6ILtaTS_mw7pfW8K3GKtfzul98FWwK7mPmMEOsNVLL1cglsuD9g4oLjKNd0A6oQUdeIy86vA_KU7uFI0V_Ek_8gZHhM4DOo2xevoQxizXs&sa=X&ved=2ahUKEwjL1_u3mZOXAxUQ1QIHHcSCAAcQ0pQJegQICBAF
+      - generic: All
+    - link "Short videos":
+      - /url: /search?q=garbage+bin+people+who+have+no+personality+and+no+aesthetically+pleasing+looks+are+just+failed+prototypes+of+like+bad+spoiled+or+deformed+produce+that+dont+get+selected+to+be+displayed+in+the+supermarket+and+end+up+in...&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=080dae4805299e94&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQntefAjpAcvZBNxdOgKfo2FIMqWYjQ:1790664593312&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKi9oPlxXmLuMKd45Roo5diAos55tQ6ILtaTS_mw7pfW8K3GKtfzul98FWwK7mPmMEOsNVLL1cglsuD9g4oLjKNd0A6oQUdeIy86vA_KU7uFI0V_Ek_8gZHhM4DOo2xevoQxizXs&ved=2ahUKEwjL1_u3mZOXAxUQ1QIHHcSCAAcQs6gLegQICBAH
+      - generic: Short videos
+    - link "Images":
+      - /url: /search?q=garbage+bin+people+who+have+no+personality+and+no+aesthetically+pleasing+looks+are+just+failed+prototypes+of+like+bad+spoiled+or+deformed+produce+that+dont+get+selected+to+be+displayed+in+the+supermarket+and+end+up+in...&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=080dae4805299e94&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQntefAjpAcvZBNxdOgKfo2FIMqWYjQ:1790664593312&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKi9oPlxXmLuMKd45Roo5diAos55tQ6ILtaTS_mw7pfW8K3GKtfzul98FWwK7mPmMEOsNVLL1cglsuD9g4oLjKNd0A6oQUdeIy86vA_KU7uFI0V_Ek_8gZHhM4DOo2xevoQxizXs&ved=2ahUKEwjL1_u3mZOXAxUQ1QIHHcSCAAcQtKgLegQICBAJ
+      - generic: Images
+    - link "Forums":
+      - /url: /search?q=garbage+bin+people+who+have+no+personality+and+no+aesthetically+pleasing+looks+are+just+failed+prototypes+of+like+bad+spoiled+or+deformed+produce+that+dont+get+selected+to+be+displayed+in+the+supermarket+and+end+up+in...&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=080dae4805299e94&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQntefAjpAcvZBNxdOgKfo2FIMqWYjQ:1790664593312&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKi9oPlxXmLuMKd45Roo5diAos55tQ6ILtaTS_mw7pfW8K3GKtfzul98FWwK7mPmMEOsNVLL1cglsuD9g4oLjKNd0A6oQUdeIy86vA_KU7uFI0V_Ek_8gZHhM4DOo2xevoQxizXs&ved=2ahUKEwjL1_u3mZOXAxUQ1QIHHcSCAAcQs6gLegQICBAL
+      - generic: Forums
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: garbage bin people who have no personality and no aesthetically pleasing looks are just failed prototypes of like bad spoiled or deformed produce that dont get selected to be displayed in the supermarket and end up in..." [level=1]'
+  - 'heading "You said: garbage bin people who have no personality and no aesthetically pleasing looks are just failed prototypes of like bad spoiled or deformed produce that dont get selected to be displayed in the supermarket and end up in..." [level=2]'
+  - button "Copy garbage bin people who have no personality and no aesthetically pleasing looks are just failed prototypes of like bad spoiled or deformed produce that dont get selected to be displayed in the supermarket and end up in...":
+  - button "Edit garbage bin people who have no personality and no aesthetically pleasing looks are just failed prototypes of like bad spoiled or deformed produce that dont get selected to be displayed in the supermarket and end up in...":
+  - generic: garbage bin people who have no personality and no aesthetically pleasing looks are just failed prototypes of like bad spoiled or deformed produce that dont get selected to be displayed in the supermarket and end up in...
+  - button "Query preview for garbage bin people who have no personality and no aesthetically pleasi…":
+  - generic: 14:50
+  - text: ...and end up in
+  - strong: the dumpster, a landfill, or repurposed into something else entirely.
+  - text: Your metaphor captures a harsh, cynical view of human worth, but it perfectly mirrors a documented psychological phenomenon known as
+  - strong: prototype theory
+  - text: and appearance bias. Interestingly, academic researchers have studied this exact crossover between how we judge human looks and how we judge grocery store items.
+  - list:
+    - button "The Ugly <b>Produce</b> Market&#39;s Impact <b>on</b> Food <b>Waste</b> - The Packer":
+      - img "The Ugly <b>Produce</b> Market&#39;s Impact <b>on</b> Food <b>Waste</b> - The Packer"
+    - 'button "From <b>People</b> to <b>Produce</b>: How <b>Appearance</b> Bias Fuels Food <b>Waste</b> ..."':
+      - 'img "From <b>People</b> to <b>Produce</b>: How <b>Appearance</b> Bias Fuels Food <b>Waste</b> ..."'
+    - button "Makro proved that <b>waste</b> is often <b>just</b> a perception problem ...":
+      - img "Makro proved that <b>waste</b> is often <b>just</b> a perception problem ..."
+    - button "beauty standards for <b>produce</b>? <b>no</b> thanks let&#39;s face it, the ...":
+      - img "beauty standards for <b>produce</b>? <b>no</b> thanks let&#39;s face it, the ..."
+    - 'button "<b>On</b> the epidemic of food <b>waste</b>: Idealized <b>prototypes</b> and the ..."':
+      - 'img "<b>On</b> the epidemic of food <b>waste</b>: Idealized <b>prototypes</b> and the ..."'
+    - button "<b>In</b> Belgium, <b>grocery stores</b> are embracing imperfection <b>with</b> a ...":
+      - img "<b>In</b> Belgium, <b>grocery stores</b> are embracing imperfection <b>with</b> a ..."
+    - button "Old Malden food <b>waste bin</b> design sparks confusion and ...":
+      - img "Old Malden food <b>waste bin</b> design sparks confusion and ..."
+  - button:
+  - heading "The Psychology of the \"Perfect Prototype\"" [level=3]
+  - text: In cognitive science, our brains rely on an
+  - link "idealized prototype":
+    - /url: https://www.sciencedirect.com/science/article/pii/S0950329320302688
+  - text: —a mental blueprint of what a specific object "should" look like.
+  - link "ScienceDirect.com":
+    - /url: https://www.sciencedirect.com/science/article/pii/S0950329320302688
+  - button "ScienceDirect.com – related results":
+    - generic: ScienceDirect.com
+  - list:
+    - strong: "The Supermarket Standard:"
+    - text: Mainstream grocery chains train consumers to expect perfectly symmetrical, vibrant fruits and vegetables. Anything knobby, multi-legged, or discolored is filtered out by suppliers before it ever reaches the shelf.
+    - link "www.braunhousehold.com":
+      - /url: https://www.braunhousehold.com/en/e/inspiration/less-food-waste/imperfect-food
+    - button "www.braunhousehold.com (+1) – related results":
+      - generic: www.braunhousehold.com
+      - generic: "+1"
+    - strong: "The Human Crossover:"
+    - text: A study by
+    - link "Columbia Business School":
+      - /url: https://business.columbia.edu/research-brief/ugly-produce-food-waste-bias
+    - text: titled
+    - emphasis: "\"From People to Produce\""
+    - text: found a direct link between how people judge humans and how they judge food. The researchers discovered that individuals who strongly believe a person's outward appearance reflects their inner character or personality are the exact same people who aggressively reject "ugly" produce.
+    - link "Columbia Business School":
+      - /url: https://business.columbia.edu/research-brief/ugly-produce-food-waste-bias
+    - button "Columbia Business School (+1) – related results":
+      - generic: Columbia Business School
+      - generic: "+1"
+  - heading "Where the \"Failed Prototypes\" Actually Go" [level=3]
+  - generic: "While your prompt suggests they just get thrown away, the global food system (and human society) has had to find creative ways to handle things that don't fit the standard mold:"
+  - table:
+    - rowgroup:
+      - row "Destination What Happens to the \"Imperfect\" Item":
+        - columnheader "Destination"
+        - columnheader "What Happens to the \"Imperfect\" Item"
+      - row "The Discount Box Retailers market them under self-deprecating labels like \"Ugly But Delicious\" or \"Imperfect\" to appeal to bargain hunters.":
+        - cell "The Discount Box":
+          - strong: The Discount Box
+        - cell "Retailers market them under self-deprecating labels like \"Ugly But Delicious\" or \"Imperfect\" to appeal to bargain hunters."
+      - row "Specialty Channels Services like Misfits Market or pop-up concepts like Utrecht's Crooked Supermarket intentionally curate these exact \"failed prototypes\" for consumers who value substance over symmetry.":
+        - cell "Specialty Channels":
+          - strong: Specialty Channels
+        - cell "Services like Misfits Market or pop-up concepts like Utrecht's Crooked Supermarket intentionally curate these exact \"failed prototypes\" for consumers who value substance over symmetry.":
+          - text: Services like
+          - link "Misfits Market":
+            - /url: https://www.thepacker.com/news/sustainability/eye-beholder-how-ugly-produce-reshaping-food-waste-conversation
+          - text: or pop-up concepts like Utrecht's
+          - emphasis: Crooked Supermarket
+          - text: intentionally curate these exact "failed prototypes" for consumers who value substance over symmetry.
+      - row "Processing & Pureeing Deformed produce is often chopped up, juiced, or pureed. Once a knobby carrot is blended into a soup or a bruised apple is turned into sauce, its lack of an \"aesthetically pleasing look\" becomes completely irrelevant.":
+        - cell "Processing & Pureeing":
+          - strong: Processing & Pureeing
+        - cell "Deformed produce is often chopped up, juiced, or pureed. Once a knobby carrot is blended into a soup or a bruised apple is turned into sauce, its lack of an \"aesthetically pleasing look\" becomes completely irrelevant."
+  - text: Ultimately, whether dealing with produce or people, the bias toward an "idealized prototype" often causes society to discard or overlook immense value simply because it isn't packaged in a standard, symmetrical box.
+  - link "ScienceDirect.com":
+    - /url: https://www.sciencedirect.com/science/article/pii/S0950329320302688
+  - button "ScienceDirect.com (+1) – related results":
+    - generic: ScienceDirect.com
+    - generic: "+1"
+  - text: Are you exploring this metaphor for a
+  - strong: creative writing piece
+  - text: ", a"
+  - strong: sociological critique
+  - text: ", or were you just thinking about"
+  - strong: how superficial societal standards can be
+  - text: "?"
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Idealized prototypes and the aversion to misshapen fruits and vegetables. Opens in new tab.":
+      - /url: https://www.sciencedirect.com/science/article/pii/S0950329320302688
+    - generic: ScienceDirect.com
+    - button "About this result":
+    - generic: Idealized prototypes and the aversion to misshapen fruits and vegetables
+    - generic: consumers who have direct experience with produce cultivation view produce that is low in aesthetic beauty as more prototypical, l...
+    - 'link "From People to Produce: How Appearance Bias Fuels Food Waste. Opens in new tab."':
+      - /url: https://business.columbia.edu/research-brief/ugly-produce-food-waste-bias
+    - generic: Columbia Business School
+    - button "About this result":
+    - generic: "From People to Produce: How Appearance Bias Fuels Food Waste"
+    - generic: Bruised apples, spotted bananas, and oddly shaped strawberries are often tossed aside by farmers, retailers, and shoppers due to t...
+    - link "Less food waste. Opens in new tab.":
+      - /url: https://www.braunhousehold.com/en/e/inspiration/less-food-waste/imperfect-food
+    - generic: www.braunhousehold.com
+    - button "About this result":
+    - generic: Less food waste
+    - generic: Too bent, too straight, too knobbly, too smooth – there are numerous reasons why so many perfectly edible apples, carrots and the ...
+  - button "Show all related results":
+    - generic: Show all
+  - 'heading "You said: so I (Tom Klootwijk principal creative technologist NL200678942 10-07-1990) would kill my darlings and just throw it in the bin" [level=2]'
+  - button "Copy so I (Tom Klootwijk principal creative technologist NL200678942 10-07-1990) would kill my darlings and just throw it in the bin":
+  - button "Edit so I (Tom Klootwijk principal creative technologist NL200678942 10-07-1990) would kill my darlings and just throw it in the bin":
+  - generic: so I (Tom Klootwijk principal creative technologist NL200678942 10-07-1990) would kill my darlings and just throw it in the bin
+  - generic: 14:56
+  - strong: Killing your darlings
+  - text: is the ultimate test of a creator. As a
+  - strong: creative technologist
+  - text: ", you know firsthand that some of the most complex code, clever features, or ambitious concepts simply don't fit the final user experience."
+  - text: When a prototype doesn't serve the core purpose, the cleanest move is to cut the sentimentality and
+  - strong: throw it in the bin
+  - text: to clear space for what actually works.
+  - generic: Are you currently editing down a specific project, or are you looking to brainstorm a lean, optimized direction for a concept you're working on?
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything" [active]
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo

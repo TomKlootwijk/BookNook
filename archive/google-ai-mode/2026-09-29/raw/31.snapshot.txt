@@ -1,0 +1,325 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwir3ZDzxoyXAxVGnP0HHVbIK78QPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=that+thing+in+nature+where+rats+get+stuck+in+a+ball+with+their+tails&client=ms-android-xiaomi-terr2-rso2&sca_esv=3293b059aa9c7b4a&aep=1&cs=1&biw=375&bih=691&prmd=ivns&sxsrf=APpeQnuUU4V852pluiXw86ZJ7YmyeaI6mg:1790436278821&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE-Dsslc-KGKq55jF_BVsFlBx_GgM0fzV1XsSsLkzcasTEYACEWIWzF-55pNrwAKUeHOsvxvmV9GK7aWe1Dt1gL4yRbNiCM_1tjUQdwIRQAk2T8uGlV_QBaNCWEF78fG96j7oIlPEaM2vmIW2fPyLZFIF-bNq&sa=X&ved=2ahUKEwir3ZDzxoyXAxVGnP0HHVbIK78Q0pQJegQICBAF
+      - generic: All
+    - link "Videos":
+      - /url: /search?q=that+thing+in+nature+where+rats+get+stuck+in+a+ball+with+their+tails&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=3293b059aa9c7b4a&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQnuUU4V852pluiXw86ZJ7YmyeaI6mg:1790436278821&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE-Dsslc-KGKq55jF_BVsFlBx_GgM0fzV1XsSsLkzcasTEYACEWIWzF-55pNrwAKUeHOsvxvmV9GK7aWe1Dt1gL4yRbNiCM_1tjUQdwIRQAk2T8uGlV_QBaNCWEF78fG96j7oIlPEaM2vmIW2fPyLZFIF-bNq&ved=2ahUKEwir3ZDzxoyXAxVGnP0HHVbIK78QtKgLegQICBAH
+      - generic: Videos
+    - link "Images":
+      - /url: /search?q=that+thing+in+nature+where+rats+get+stuck+in+a+ball+with+their+tails&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=3293b059aa9c7b4a&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQnuUU4V852pluiXw86ZJ7YmyeaI6mg:1790436278821&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE-Dsslc-KGKq55jF_BVsFlBx_GgM0fzV1XsSsLkzcasTEYACEWIWzF-55pNrwAKUeHOsvxvmV9GK7aWe1Dt1gL4yRbNiCM_1tjUQdwIRQAk2T8uGlV_QBaNCWEF78fG96j7oIlPEaM2vmIW2fPyLZFIF-bNq&ved=2ahUKEwir3ZDzxoyXAxVGnP0HHVbIK78QtKgLegQICBAJ
+      - generic: Images
+    - link "Forums":
+      - /url: /search?q=that+thing+in+nature+where+rats+get+stuck+in+a+ball+with+their+tails&client=ms-android-xiaomi-terr2-rso2&sa=X&sca_esv=3293b059aa9c7b4a&aep=1&cs=1&biw=375&bih=691&sxsrf=APpeQnuUU4V852pluiXw86ZJ7YmyeaI6mg:1790436278821&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE-Dsslc-KGKq55jF_BVsFlBx_GgM0fzV1XsSsLkzcasTEYACEWIWzF-55pNrwAKUeHOsvxvmV9GK7aWe1Dt1gL4yRbNiCM_1tjUQdwIRQAk2T8uGlV_QBaNCWEF78fG96j7oIlPEaM2vmIW2fPyLZFIF-bNq&ved=2ahUKEwir3ZDzxoyXAxVGnP0HHVbIK78Qs6gLegQICBAL
+      - generic: Forums
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: that thing in nature where rats get stuck in a ball with their tails" [level=1]'
+  - 'heading "You said: that thing in nature where rats get stuck in a ball with their tails" [level=2]'
+  - button "Copy that thing in nature where rats get stuck in a ball with their tails":
+  - button "Edit that thing in nature where rats get stuck in a ball with their tails":
+  - generic: that thing in nature where rats get stuck in a ball with their tails
+  - generic: 17:20
+  - text: The phenomenon you are thinking of is called a
+  - mark:
+    - strong: rat king
+  - text: . It refers to a rare situation where a group of rats become permanently
+  - strong: joined together at their tails
+  - text: ", which are intertwined, knotted, and fused into a central ball."
+  - link "Wikipedia":
+    - /url: https://en.wikipedia.org/wiki/Rat_king
+  - button "Wikipedia (+1) – related results":
+    - generic: Wikipedia
+    - generic: "+1"
+  - heading "How it Happens" [level=3]
+  - list:
+    - strong: "The Culprits:"
+    - text: This almost exclusively happens to
+    - strong:
+      - button "black rats":
+        - generic: black rats
+    - text: (
+    - emphasis: Rattus rattus
+    - text: ) because they have particularly long, thin, and flexible tails with a natural grasping reflex.
+    - button "Related results":
+    - strong: "The Cause:"
+    - text: When rats huddle closely together for warmth in confined spaces (like nests or burrows) during cold winters, their tails can easily cross. If their tails are exposed to a sticky substance—such as
+    - strong: sap, sebum, blood, feces, or frozen urine
+    - text: —they become glued together.
+    - link "Guinness World Records":
+      - /url: https://www.guinnessworldrecords.com/news/2023/4/largest-rat-king-how-32-rats-accidentally-tied-themselves-together-745054
+    - button "Guinness World Records (+2) – related results":
+      - generic: Guinness World Records
+      - generic: "+2"
+    - strong: "The Knotting:"
+    - text: As the rats wake up and try to scurry away in different directions, their panic causes them to pull against each other. This inadvertently
+    - strong: tightens the knot
+    - text: ", trapping the animals permanently."
+    - link "Reddit":
+      - /url: https://www.reddit.com/r/interestingasfuck/comments/qcrzgp/rat_king_found_in_estonia_a_natural_phenomenon/
+    - button "Reddit (+2) – related results":
+      - generic: Reddit
+      - generic: "+2"
+  - text: Because they are stuck in a cluster, they cannot properly move to find food or water, making the condition a fatal death sentence in the wild unless they are found and manually untangled by humans.
+  - link "National Geographic":
+    - /url: https://www.nationalgeographic.com/animals/article/rat-king-real-science
+  - button "National Geographic (+1) – related results":
+    - generic: National Geographic
+    - generic: "+1"
+  - heading "Real or Myth?" [level=3]
+  - text: Historically, many people believed rat kings were a complete hoax or folklore. However, several preserved specimens exist in museums worldwide (such as a famous 32-rat cluster found in Germany). The phenomenon was definitively proven to be real when
+  - strong: living rat kings
+  - text: (and a mouse king) were discovered and filmed in places like Estonia and Russia.
+  - link "Wikipedia":
+    - /url: https://en.wikipedia.org/wiki/Rat_king
+  - button "Wikipedia (+3) – related results":
+    - generic: Wikipedia
+    - generic: "+3"
+  - text: Would you like to know more about the
+  - strong: recent living discoveries
+  - text: in Europe, or are you interested in how the concept of the "Rat King" has been used in
+  - strong: pop culture and fiction
+  - text: (like in
+  - emphasis: The Last of Us
+  - text: or
+  - emphasis: The Nutcracker
+  - text: )?
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Rat King found in Estonia. A natural phenomenon where rats get tied .... Opens in new tab.":
+      - /url: https://www.reddit.com/r/interestingasfuck/comments/qcrzgp/rat_king_found_in_estonia_a_natural_phenomenon/
+    - generic: Reddit
+    - button "About this result":
+    - generic: Rat King found in Estonia. A natural phenomenon where rats get tied ...
+    - generic: Apparently it happens when one of the rats gets its tail covered in something sticky - blood for example. As they sleep in groups ...
+    - link "Rat king - Wikipedia. Opens in new tab.":
+      - /url: https://en.wikipedia.org/wiki/Rat_king
+    - generic: Wikipedia
+    - button "About this result":
+    - generic: Rat king - Wikipedia
+    - generic: Rat king found in 1895 in Dellfeld, Germany, now in the Musée zoologique de la ville de Strasbourg, France
+    - link "All Hail The Rat King, Video, watch on YouTube":
+      - /url: https://www.youtube.com/watch?v=ltRHyYkMQJo&t=15
+    - generic: YouTube
+    - generic: ·
+    - generic: Funky Geckos
+    - button "About this result":
+    - generic: All Hail The Rat King
+    - generic: In 2021, a living mouse king was found in Russia and untangled, and a living rat king was found and filmed in Estonia, confirming ...
+    - 'button "All Hail The Rat King by Funky Geckos on YouTube. Play on Google. - Segment Duration: 29 s - Starts at: 0:15 - Total Duration: 2:40"':
+      - generic: 29s
+  - button "Show all related results":
+    - generic: Show all
+  - button:
+  - button:
+  - heading [level=2]
+  - button "Query preview for !n AI Mode reply for !nHet lijkt erop dat uw invoer enkel de letter \"N…":
+  - generic: Dat was inderdaad een automatische reactie om de context te begrijpen! Soms springt zo'n systeem aan als er per ongeluk een losse letter wordt verstuurd.
+  - text: Maar we hadden het net over de
+  - strong: rattenkoning
+  - text: (het fascinerende en ietwat griezelige natuurverschijnsel waarbij ratten met hun staarten aan elkaar geknoopt raken).
+  - generic: "Als u wilt, kunnen we daar direct weer naar terug. Laat me gerust weten hoe u verder wilt gaan:"
+  - list:
+    - text: Wilt u meer weten over de
+    - strong: meest recente vondsten
+    - text: van levende rattenkoningen in Europa (zoals in Estland)?
+    - text: Bent u benieuwd naar hoe dit fenomeen wordt gebruikt in
+    - strong: popcultuur
+    - text: (zoals in de game
+    - emphasis: The Last of Us
+    - text: of het sprookje van
+    - emphasis: De Notenkraker
+    - text: )?
+    - generic: Of wilde u toch iets heel anders opzoeken?
+  - text: Laat me weten of we verdergaan met de
+  - strong: rattenkoning
+  - text: of dat u een
+  - strong: ander onderwerp
+  - text: wilt bespreken!
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - button "Copy nee in de prompt in deze context":
+  - button "Edit nee in de prompt in deze context":
+  - heading "nee in de prompt in deze context" [level=2]
+  - text: Je wilt dat ik
+  - strong: reageer op de inhoud van die automatische systeemreactie
+  - text: in onze huidige context.
+  - text: Als we kijken naar de "N" in de Nederlandse context op dit moment (
+  - strong: september 2026
+  - text: "), vallen er direct een aantal actuele zaken op:"
+  - heading "1. Nieuws in Nederland (NOS & NU.nl)" [level=3]:
+    - heading "1. Nieuws in Nederland (NOS & NU.nl)" [level=3]
+  - text: In het overzicht zie je direct koppen voorbijkomen van de grote Nederlandse nieuwsplatforms zoals
+  - generic: NOS
+  - text: en
+  - generic: NU.nl
+  - text: . Een van de meest besproken en recente nieuwsfeiten van dit moment in Amsterdam is de dodelijke schietpartij op een terras.
+  - heading "2. Hyundai N-divisie & de Elantra N TCR" [level=3]:
+    - heading "2. Hyundai N-divisie & de Elantra N TCR" [level=3]
+  - text: De "N" staat in de autowereld bekend als de sportuitvoering van Hyundai. Heel recent is de
+  - strong:
+    - button "2026 Hyundai Elantra N TCR":
+      - generic: 2026 Hyundai Elantra N TCR
+  - text: uitgebreid getest [Edmunds]. Dit is een circuit-georiënteerde auto die ondanks zijn voorwielaandrijving indrukwekkende prestaties levert (0.98 g in bochten) voor een prijs van rond de
+  - strong: $40.000
+  - text: "[Edmunds]."
+  - heading "3. De oorsprong van de letter N" [level=3]:
+    - heading "3. De oorsprong van de letter N" [level=3]
+  - text: Taalkundig gezien komt onze letter N voort uit de Semitische letter
+  - strong: Nûn
+  - text: ", wat oorspronkelijk het symbool of de hiëroglief was voor een"
+  - strong: slang
+  - text: "[Wikipedia]. Dit sluit ergens wel grappig aan op ons eerdere gesprek over dieren in de natuur (de rattenkoning)!"
+  - generic: Wilde je over een van deze specifieke onderwerpen uit het systeemoverzicht meer weten, of zocht je de betekenis achter een heel andere "N"?
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - button "Copy ja maar de rattenvanger van hamelen met dawnwood (morningwood) ODOL niet IDOL in deze context":
+  - button "Edit ja maar de rattenvanger van hamelen met dawnwood (morningwood) ODOL niet IDOL in deze context":
+  - heading "ja maar de rattenvanger van hamelen met dawnwood (morningwood) ODOL niet IDOL in deze context" [level=2]
+  - text: "Het kwartje valt: je doelt op de Nederlandse straattaal/humoristische afkorting"
+  - strong: ODOL
+  - text: (ontzettend dikke ochtendlul), wat synoniem is aan de Engelse uitdrukking
+  - emphasis: morning wood
+  - text: "[Reddit]."
+  - text: In het kader van de sage rondom de
+  - 'link "Rattenvanger van Hamelen. Link preview. Site: Wikipedia. Title: De rattenvanger van Hamelen - Wikipedia. URL: https://nl.wikipedia.org/wiki/De_rattenvanger_van_Hamelen."':
+    - /url: https://nl.wikipedia.org/wiki/De_rattenvanger_van_Hamelen
+    - text: Rattenvanger van Hamelen
+  - text: en de eerder genoemde
+  - emphasis: rattenkoning
+  - text: ", lijkt dit te spelen met een reeks dubbelzinnigheden en woordgrappen [Reddit]:"
+  - link "Wikipedia":
+    - /url: https://nl.wikipedia.org/wiki/De_rattenvanger_van_Hamelen
+  - button "Wikipedia – related results":
+    - generic: Wikipedia
+  - list:
+    - strong: "De \"fluit\" van de Rattenvanger:"
+    - text: In het volksverhaal gebruikt de rattenvanger zijn magische fluit (
+    - emphasis: pipe
+    - text: of
+    - emphasis: fife
+    - text: ) om het ongedierte en later de kinderen mee te lokken [Wikipedia]. In dubbelzinnige parodieën of studentikoze humor wordt "fluit" uiteraard dikwijls als schunnige metafoor ingezet voor de mannelijke anatomie (
+    - emphasis: dawnwood
+    - text: /
+    - emphasis: morning wood
+    - text: /
+    - emphasis: ODOL
+    - text: ) [Reddit].
+    - link "Wikipedia":
+      - /url: https://en.wikipedia.org/wiki/Morning_wood
+    - button "Wikipedia (+1) – related results":
+      - generic: Wikipedia
+      - generic: "+1"
+    - strong: "ODOL vs. IDOL:"
+    - text: Waar
+    - emphasis:
+      - button "Idol":
+        - generic: Idol
+    - text: verwijst naar een idool of popster (zoals een charismatische leider of muzikant die de massa achter zich aan krijgt), is
+    - emphasis:
+      - generic: Odol
+    - text: zowel de bekende Duitse mondwaterklassieker als het platte Nederlandse acroniem voor een ochtenderectie [Reddit].
+    - link "DM":
+      - /url: https://www.dm.de/p/d/1500514/odol-mundwasser-extra-frisch
+    - button "DM – related results":
+      - generic: DM
+    - strong: "Het contrast met de eerdere systeemreactie:"
+    - text: De gekopieerde zoekresultaten probeerden "N" serieus te duiden via
+    - emphasis: Netflix
+    - text: ","
+    - emphasis: Nieuws
+    - text: en
+    - emphasis: Hyundai N
+    - text: ", terwijl de associatieketen hier via het volksverhaal, de staarten/fluiten en de letterlijke platte betekenis liep."
+  - generic: Is er een specifieke sketch, parodietekst of cabaretvoorstelling waarin deze specifieke woordspeling werd gemaakt?
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - 'link "The Pied Piper: The Unsettling History of a Haunting Fairy Tale. Opens in new tab."':
+      - /url: https://snowwhitewrites.com/pied-piper-unsettling-history/
+    - generic: snowwhitewrites.com
+    - button "About this result":
+    - generic: "The Pied Piper: The Unsettling History of a Haunting Fairy Tale"
+    - generic: 17 Oct 2024 — Perhaps the earliest version on record is a ballad by Johann Wolfgang von Goethe, The story is set in Hamelin, Germany, in the yea...
+    - link "De rattenvanger van Hamelen - Wikipedia. Opens in new tab.":
+      - /url: https://nl.wikipedia.org/wiki/De_rattenvanger_van_Hamelen
+    - generic: Wikipedia
+    - button "About this result":
+    - generic: De rattenvanger van Hamelen - Wikipedia
+    - generic: De rattenvanger van Hamelen is een sage of volksverhaal over een massale kinderverdwijning die op 26 juni 1284 in de Duitse stad H...
+    - link "Morning wood - Wikipedia. Opens in new tab.":
+      - /url: https://en.wikipedia.org/wiki/Morning_wood
+    - generic: Wikipedia
+    - button "About this result":
+    - generic: Morning wood - Wikipedia
+    - generic: "\"Morning wood\" is one of several similar slang or colloquial terms referring to the phenomenon of nocturnal penile tumescence (ere..."
+  - button "Show all related results":
+    - generic: Show all
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything"
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo
+- generic: AI Mode response is ready
+- generic: Ask about

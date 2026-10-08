@@ -1,0 +1,171 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwj-1e_GgJOXAxVmzwIHHRuwJdMQPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=cryptex+svalbard+seedbank+concept&sca_esv=5082edfadcd2fcdb&aep=1&cs=0&biw=1707&bih=898&prmd=ivns&sxsrf=APpeQnvrbJa3xQDJui3hgHxRPSD0wyVeAQ:1790657913685&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&sa=X&ved=2ahUKEwj-1e_GgJOXAxVmzwIHHRuwJdMQ0pQJegQICBAF
+      - generic: All
+    - link "Images":
+      - /url: /search?q=cryptex+svalbard+seedbank+concept&sa=X&sca_esv=5082edfadcd2fcdb&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnvrbJa3xQDJui3hgHxRPSD0wyVeAQ:1790657913685&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&ved=2ahUKEwj-1e_GgJOXAxVmzwIHHRuwJdMQtKgLegQICBAH
+      - generic: Images
+    - link "Videos":
+      - /url: /search?q=cryptex+svalbard+seedbank+concept&sa=X&sca_esv=5082edfadcd2fcdb&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnvrbJa3xQDJui3hgHxRPSD0wyVeAQ:1790657913685&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&ved=2ahUKEwj-1e_GgJOXAxVmzwIHHRuwJdMQtKgLegQICBAJ
+      - generic: Videos
+    - link "Forums":
+      - /url: /search?q=cryptex+svalbard+seedbank+concept&sa=X&sca_esv=5082edfadcd2fcdb&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnvrbJa3xQDJui3hgHxRPSD0wyVeAQ:1790657913685&udm=forums&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&ved=2ahUKEwj-1e_GgJOXAxVmzwIHHRuwJdMQs6gLegQICBAL
+      - generic: Forums
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: cryptex svalbard seedbank concept" [level=1]'
+  - button "Copy cryptex svalbard seedbank concept":
+  - button "Edit cryptex svalbard seedbank concept":
+  - heading "cryptex svalbard seedbank concept" [level=2]
+  - list:
+    - 'button "Sustainability on Ice: The <b>Svalbard</b> Global Seed Vault ..."':
+      - 'img "Sustainability on Ice: The <b>Svalbard</b> Global Seed Vault ..."'
+    - 'button "The doomsday vault: the <b>seeds</b> that could save a post ..."':
+      - 'img "The doomsday vault: the <b>seeds</b> that could save a post ..."'
+    - button "<b>Svalbard</b> Global Seed Vault – Snøhetta":
+      - img "<b>Svalbard</b> Global Seed Vault – Snøhetta"
+    - button "The world&#39;s coldest bank!!! 🥶❄️ Think of the <b>Svalbard</b> ...":
+      - img "The world&#39;s coldest bank!!! 🥶❄️ Think of the <b>Svalbard</b> ..."
+    - button "<b>Svalbard</b> Global Seed Vault - Wikipedia":
+      - img "<b>Svalbard</b> Global Seed Vault - Wikipedia"
+    - button "<b>Svalbard</b> Global Seed Vault | Description &amp; Facts | Britannica":
+      - img "<b>Svalbard</b> Global Seed Vault | Description &amp; Facts | Britannica"
+    - button "Myths and Realities of the <b>Svalbard</b> Global Seed Vault ...":
+      - img "Myths and Realities of the <b>Svalbard</b> Global Seed Vault ..."
+  - button:
+  - text: A
+  - strong: "\"Cryptex Svalbard Seedbank\" concept"
+  - text: usually refers to a speculative or artistic engineering design that merges the mechanics of a
+  - strong: cryptex
+  - text: (a cylindrical vault with rotating letter rings used to hide secrets, popularized by
+  - emphasis: The Da Vinci Code
+  - text: ) with the extreme safeguarding mission of the
+  - link "Svalbard Global Seed Vault":
+    - /url: https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault
+  - text: .
+  - button "Related results":
+  - text: While the actual seed vault in Norway relies on a physical facility built 120 meters deep inside an Arctic mountain, the "cryptex concept" reimagines how highly critical information or the seeds themselves could be mechanically locked, organized, or preserved.
+  - link "YouTube · Al Arabiya English":
+    - /url: https://www.youtube.com/watch?v=toKQYC1jS3M&t=115
+  - button "YouTube · Al Arabiya English (+1) – related results":
+    - generic: YouTube
+    - generic: ·Al Arabiya English
+    - generic: "+1"
+  - heading "Core Pillars of the Concept" [level=3]
+  - list:
+    - strong: "Mechanical Access Over Digital Control:"
+    - text: In a true cryptex design, access relies on physical gears, alignment, and a password combination rather than electronic keycards or digital servers. Applying this to a Svalbard concept implies a "low-tech, high-security" backup that remains fully operational even if a global catastrophe destroys the electrical grid or internet.
+    - strong: "Decentralized Capsule Storage:"
+    - text: Instead of open shelves holding cardboard boxes, a cryptex seed bank concept reimagines the seeds stored in individual, pressurized cylindrical capsules. Each capsule or sub-chamber acts as its own miniature vault, requiring a specific mechanical verification code to open.
+    - link "Facebook · Al Arabiya English":
+      - /url: https://www.facebook.com/alarabiya.english/videos/inside-the-svalbard-global-seed-bank/607287489028011/
+    - button "Facebook · Al Arabiya English (+1) – related results":
+      - generic: Facebook
+      - generic: ·Al Arabiya English
+      - generic: "+1"
+    - strong: "Built-in Fail-Safes:"
+    - text: A traditional cryptex contains a vial of vinegar that breaks and destroys the hidden papyrus if forced open. In a seed-vault concept, this mechanism is reversed into a
+    - strong: fail-secure survival pod
+    - text: —if the outer structural integrity is compromised, the capsule seals permanently or triggers an autonomous deep-freeze mechanism using the surrounding Arctic permafrost.
+    - link "YouTube · Unbox Engineering":
+      - /url: https://www.youtube.com/shorts/mb91uBgSE3I
+    - button "YouTube · Unbox Engineering (+1) – related results":
+      - generic: YouTube
+      - generic: ·Unbox Engineering
+      - generic: "+1"
+  - 'heading "Real-World Parallel: The Actual Vault" [level=3]'
+  - text: Though a literal puzzle-box structure doesn't exist on Spitsbergen, the real
+  - link "Svalbard Global Seed Vault":
+    - /url: https://www.croptrust.org/what-we-do/programs/svalbard-global-seed-vault/
+  - text: "already shares the philosophical DNA of a cryptex:"
+  - link "Crop Trust":
+    - /url: https://www.croptrust.org/what-we-do/programs/svalbard-global-seed-vault/
+  - button "Crop Trust (+1) – related results":
+    - generic: Crop Trust
+    - generic: "+1"
+  - list:
+    - strong: "Strict Ownership Lock:"
+    - text: The actual vault operates like a bank deposit box box system. Only the depositing nation holds the "code" (ownership rights) to withdraw their seeds; no one else can access them.
+    - link "SeedSavers":
+      - /url: https://seedsavers.org/myths-and-realities-of-the-svalbard-global-seed-vault/
+    - button "SeedSavers (+2) – related results":
+      - generic: SeedSavers
+      - generic: "+2"
+    - strong: "Passive Preservation:"
+    - text: Like a mechanical device that works without a battery, the real facility is carved into sandstone and relies on natural permafrost to keep seeds frozen at sub-zero temperatures even if the artificial cooling power completely cuts out.
+    - link "www.seedvault.no":
+      - /url: https://www.seedvault.no/about/purpose-operations-and-organisation/
+    - button "www.seedvault.no (+1) – related results":
+      - generic: www.seedvault.no
+      - generic: "+1"
+  - text: Are you researching this concept for a
+  - strong: creative writing project, sci-fi worldbuilding, or a specific industrial design/architecture project
+  - text: "? I can help flesh out technical mechanics or narrative lore based on what you are creating."
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Inside the Svalbard Global Seed Bank | Pixel, Video, watch on YouTube":
+      - /url: https://www.youtube.com/watch?v=toKQYC1jS3M&t=115
+    - generic: YouTube
+    - generic: ·
+    - generic: Al Arabiya English
+    - button "About this result":
+    - generic: Inside the Svalbard Global Seed Bank | Pixel
+    - generic: 1 May 2025 — The Svalbard Seed Vault is a secure underground facility. The vault is built 120 meters deep inside a sandstone mountain, making i...
+    - 'button "Inside the Svalbard Global Seed Bank | Pixel by Al Arabiya English on YouTube. Play on Google. - Segment Duration: 1 min - Starts at: 1:55 - Total Duration: 4:21"':
+      - generic: 1m
+    - link "Svalbard Global Seed Vault - Wikipedia. Opens in new tab.":
+      - /url: https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault
+    - generic: Wikipedia
+    - button "About this result":
+    - generic: Svalbard Global Seed Vault - Wikipedia
+    - generic: The Svalbard Global Seed Vault ・ is a secure backup facility on the Norwegian island of Spitsbergen ・ provides long-term storage f...
+    - 'link "The Svalbard Seed Vault: Built Into Arctic Permafrost to Outlast ..., Video, watch on YouTube"':
+      - /url: https://www.youtube.com/shorts/mb91uBgSE3I
+    - generic: YouTube
+    - generic: ·
+    - generic: Unbox Engineering
+    - button "About this result":
+    - generic: "The Svalbard Seed Vault: Built Into Arctic Permafrost to Outlast ..."
+    - generic: 8 Jul 2026 — The vault is naturally frozen by permafrost, maintaining a stable temperature of -8°C even if external power fails. It serves as a...
+    - 'button "The Svalbard Seed Vault: Built Into Arctic Permafrost to Outlast ... by Unbox Engineering on YouTube. Play on Google. - 0:49"':
+      - generic: 0:49
+  - button "Show all related results":
+    - generic: Show all
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything" [active]
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo
+- generic: AI Mode response is ready

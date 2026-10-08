@@ -1,0 +1,410 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwjL14j05ImXAxW_-QIHHbf0AS0QPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=background+android+voice+recorder+process+always+on+24/7/356+no+downtime&sca_esv=8e748a2716bd8857&aep=1&cs=0&biw=1707&bih=898&prmd=ivns&sxsrf=APpeQnumQBscBK5jbqlmCZa_-Gnl7bFbaQ:1790341254628&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&sa=X&ved=2ahUKEwjL14j05ImXAxW_-QIHHbf0AS0Q0pQJegQICBAF
+      - generic: All
+    - link "Videos":
+      - /url: /search?q=background+android+voice+recorder+process+always+on+24/7/356+no+downtime&sa=X&sca_esv=8e748a2716bd8857&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnumQBscBK5jbqlmCZa_-Gnl7bFbaQ:1790341254628&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&ved=2ahUKEwjL14j05ImXAxW_-QIHHbf0AS0QtKgLegQICBAH
+      - generic: Videos
+    - link "Images":
+      - /url: /search?q=background+android+voice+recorder+process+always+on+24/7/356+no+downtime&sa=X&sca_esv=8e748a2716bd8857&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnumQBscBK5jbqlmCZa_-Gnl7bFbaQ:1790341254628&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&ved=2ahUKEwjL14j05ImXAxW_-QIHHbf0AS0QtKgLegQICBAJ
+      - generic: Images
+    - link "Short videos":
+      - /url: /search?q=background+android+voice+recorder+process+always+on+24/7/356+no+downtime&sa=X&sca_esv=8e748a2716bd8857&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnumQBscBK5jbqlmCZa_-Gnl7bFbaQ:1790341254628&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&ved=2ahUKEwjL14j05ImXAxW_-QIHHbf0AS0Qs6gLegQICBAL
+      - generic: Short videos
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: background android voice recorder process always on 24/7/356 no downtime" [level=1]'
+  - button "Copy background android voice recorder process always on 24/7/356 no downtime":
+  - button "Edit background android voice recorder process always on 24/7/356 no downtime":
+  - heading "background android voice recorder process always on 24/7/356 no downtime" [level=2]
+  - text: To achieve
+  - strong: 24/7/365 zero-downtime continuous background voice recording
+  - text: on Android, you must bypass aggressive operating system restrictions. Standard apps will eventually be terminated by Android’s memory manager or battery-saving systems.
+  - link "blackboxrecorder.in":
+    - /url: https://blackboxrecorder.in/blog/record-audio-background-android
+  - button "blackboxrecorder.in – related results":
+    - generic: blackboxrecorder.in
+  - text: To build or configure a truly non-stop setup, you need the right application design combined with specific operating system adjustments.
+  - link "blackboxrecorder.in":
+    - /url: https://blackboxrecorder.in/blog/record-audio-background-android
+  - button "blackboxrecorder.in – related results":
+    - generic: blackboxrecorder.in
+  - heading "1. Recommended Applications" [level=3]
+  - list:
+    - strong:
+      - link "Life Recorder":
+        - /url: https://play.google.com/store/apps/details?id=com.dsdb.voicebox
+    - text: ": Specifically engineered for"
+    - strong: always-on 24/7 recording
+    - text: . It automatically splits files into chunks (10, 20, 30, or 60 minutes) to prevent corruption and maps them onto a neat calendar view.
+    - link "Google Play":
+      - /url: https://play.google.com/store/apps/details?id=com.dsdb.voicebox
+    - button "Google Play – related results":
+      - generic: Google Play
+    - strong:
+      - link "Voice Recorder in Background":
+        - /url: https://play.google.com/store/apps/details?id=com.helge.voicerecorder
+    - text: ": Features a"
+    - strong: loop recording
+    - text: mode that auto-deletes the oldest files when your storage runs low, preventing the app from stopping due to full storage.
+    - link "Google Play":
+      - /url: https://play.google.com/store/apps/details?id=com.helge.voicerecorder
+    - button "Google Play – related results":
+      - generic: Google Play
+    - strong:
+      - link "Eardrum (GitHub)":
+        - /url: https://github.com/miguelrochefort/eardrum
+    - text: ": An open-source option that achieves zero downtime by tying the recording mechanism to"
+    - code: BootReceiver
+    - text: (starts on phone reboot) and
+    - code: AlarmManager
+    - text: (checks and forces a restart of the recording process every hour).
+    - link "GitHub":
+      - /url: https://github.com/miguelrochefort/eardrum
+    - button "GitHub – related results":
+      - generic: GitHub
+  - separator
+  - heading "2. Mandatory Android OS Tweaks (To Prevent Downtime)" [level=3]
+  - text: Without these settings, Android will force-close your app within a few hours.
+  - link "blackboxrecorder.in":
+    - /url: https://blackboxrecorder.in/blog/record-audio-background-android
+  - button "blackboxrecorder.in – related results":
+    - generic: blackboxrecorder.in
+  - list:
+    - strong: "Disable Battery Optimization:"
+    - text: Go to your device
+    - strong: Settings > Apps
+    - text: ", select your recorder app, tap"
+    - strong: Battery
+    - text: ", and change it to"
+    - strong: Unrestricted
+    - text: .
+    - link "blackboxrecorder.in":
+      - /url: https://blackboxrecorder.in/blog/record-audio-background-android
+    - button "blackboxrecorder.in – related results":
+      - generic: blackboxrecorder.in
+    - strong: "Lock the App in App Switcher:"
+    - text: Open your recent apps screen, long-press the recorder app icon (or tap the three dots), and select
+    - strong: Lock this app
+    - text: . This prevents the OS from clearing it when cleaning system RAM.
+    - strong: "Enable Foreground Service Notifications:"
+    - text: The app must display a persistent notification in the status bar. Do not block this notification; it tells Android that the app is performing vital user-requested tasks and should not be killed.
+    - link "Uptodown":
+      - /url: https://voice-recorder-in-background.en.uptodown.com/android
+    - button "Uptodown (+1) – related results":
+      - generic: Uptodown
+      - generic: "+1"
+  - separator
+  - heading "3. Critical Technical Pitfalls to Avoid" [level=3]
+  - table:
+    - rowgroup:
+      - row "Pitfall Problem The Fix":
+        - columnheader "Pitfall"
+        - columnheader "Problem"
+        - columnheader "The Fix"
+      - row "Storage Exhaustion Audio files will eventually fill the phone storage, crashing the app. Use lower bitrates (e.g., AMR or low-bitrate OGG/MP3 format) and enable loop recording / auto-segmentation.":
+        - cell "Storage Exhaustion":
+          - strong: Storage Exhaustion
+        - cell "Audio files will eventually fill the phone storage, crashing the app."
+        - cell "Use lower bitrates (e.g., AMR or low-bitrate OGG/MP3 format) and enable loop recording / auto-segmentation.":
+          - text: Use lower bitrates (e.g., AMR or low-bitrate OGG/MP3 format) and enable
+          - strong: loop recording / auto-segmentation
+          - text: .
+      - row "System Updates / Reboots If the phone automatically installs an update overnight, the recorder stops. Select an app that handles the RECEIVE_BOOT_COMPLETED permission (like Eardrum) to automatically resume recording at boot.":
+        - cell "System Updates / Reboots":
+          - strong: System Updates / Reboots
+        - cell "If the phone automatically installs an update overnight, the recorder stops."
+        - cell "Select an app that handles the RECEIVE_BOOT_COMPLETED permission (like Eardrum) to automatically resume recording at boot.":
+          - text: Select an app that handles the
+          - code: RECEIVE_BOOT_COMPLETED
+          - text: permission (like Eardrum) to automatically resume recording at boot.
+      - row "Microphone Conflicts Taking a phone call, using Google Assistant, or shooting a video can hijack the mic. Ensure your app supports seamless audio device switching and test if it resumes immediately after a call ends.":
+        - cell "Microphone Conflicts":
+          - strong: Microphone Conflicts
+        - cell "Taking a phone call, using Google Assistant, or shooting a video can hijack the mic."
+        - cell "Ensure your app supports seamless audio device switching and test if it resumes immediately after a call ends."
+  - text: Are you trying to configure an
+  - strong: off-the-shelf app
+  - text: for personal security, or are you
+  - strong: developing your own Android app
+  - text: using Kotlin/Java? Let me know so I can give you specific app settings or the exact background service code.
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "Voice Recorder in Background - Apps on Google Play. Opens in new tab.":
+      - /url: https://play.google.com/store/apps/details?id=com.helge.voicerecorder
+    - generic: Google Play
+    - button "About this result":
+    - generic: Voice Recorder in Background - Apps on Google Play
+    - generic: 8 Aug 2026 — Loop Recording - auto deletion of old recording files when there is not enough space for new recordings and you can set max space ...
+    - link "How to Record Audio in the Background on Android - BlackBox. Opens in new tab.":
+      - /url: https://blackboxrecorder.in/blog/record-audio-background-android
+    - generic: blackboxrecorder.in
+    - button "About this result":
+    - generic: How to Record Audio in the Background on Android - BlackBox
+    - generic: Android records audio in the background reliably once you exclude the app from battery optimization and let it run its foreground-
+    - link "24/7 Voice Recorder - Apps on Google Play. Opens in new tab.":
+      - /url: https://play.google.com/store/apps/details?id=com.dsdb.voicebox
+    - generic: Google Play
+    - button "About this result":
+    - generic: 24/7 Voice Recorder - Apps on Google Play
+    - generic: Life Recorder is a simple, always-on voice recorder designed to capture your life as it happens … organizes your recordings in a c...
+  - button "Show all related results":
+    - generic: Show all
+  - button "Copy poco x7 pro 12gb ram":
+  - button "Edit poco x7 pro 12gb ram":
+  - heading "poco x7 pro 12gb ram" [level=2]
+  - text: The
+  - strong: Xiaomi Poco X7 Pro with 12GB of RAM
+  - text: is
+  - mark: widely recognized as a "flagship killer" mid-range smartphone
+  - text: . Released in
+  - strong: January 2025
+  - text: ", the 12GB variant is designed specifically for intensive multitasking, high-end 3D gaming, and heavy media workloads without slowing down."
+  - link "GSMArena.com":
+    - /url: https://www.gsmarena.com/xiaomi_poco_x7_pro-13582.php
+  - button "GSMArena.com (+3) – related results":
+    - generic: GSMArena.com
+    - generic: "+3"
+  - heading "Core Specifications & Performance" [level=3]:
+    - heading "Core Specifications & Performance" [level=3]
+  - list:
+    - strong: "Memory Configuration:"
+    - text: Equipped with high-speed
+    - strong: 12GB LPDDR5X RAM
+    - text: paired with either
+    - strong: 256GB or 512GB of UFS 4.0 storage
+    - text: .
+    - emphasis: "Note: The phone does not feature a MicroSD card slot for expandable storage."
+    - link "Xiaomi":
+      - /url: https://www.mi.com/nl/product/poco-x7-pro/specs/
+    - button "Xiaomi (+2) – related results":
+      - generic: Xiaomi
+      - generic: "+2"
+    - strong: "Processor:"
+    - text: Powered by the
+    - strong: MediaTek Dimensity 8400-Ultra
+    - text: (4nm architecture). It easily handles demanding gaming performance and is kept cool by Xiaomi's upgraded Liquid Cool Technology 4.0.
+    - link "YouTube · TotallydubbedHD":
+      - /url: https://www.youtube.com/watch?v=n-GKTi0v4zo&t=729
+    - button "YouTube · TotallydubbedHD (+1) – related results":
+      - generic: YouTube
+      - generic: ·TotallydubbedHD
+      - generic: "+1"
+    - strong: "Display:"
+    - text: A
+    - strong: 6.67-inch CrystalRes AMOLED display
+    - text: with a 1.5K resolution (2712 x 1220), a smooth 120Hz refresh rate, and up to 3200 nits peak brightness.
+    - link "Xiaomi":
+      - /url: https://www.mi.com/global/product/poco-x7-pro/specs/
+    - button "Xiaomi (+2) – related results":
+      - generic: Xiaomi
+      - generic: "+2"
+    - strong: "Battery & Charging:"
+    - text: Packs a massive
+    - strong: 6000mAh battery
+    - text: that supports
+    - strong: 90W HyperCharge
+    - text: fast charging, taking the phone from flat to 90% in roughly 30 minutes.
+    - link "Coolblue":
+      - /url: https://www.coolblue.nl/en/product/961037/poco-x7-pro-512gb-12gb-ram-black-5g.html
+    - button "Coolblue (+1) – related results":
+      - generic: Coolblue
+      - generic: "+1"
+    - strong: "Camera System:"
+    - text: A dual rear camera setup led by a
+    - strong: 50MP main sensor
+    - text: (with 4K video recording capabilities) and an 8MP ultra-wide lens, along with a 20MP front-facing selfie camera.
+    - link "Xiaomi":
+      - /url: https://www.mi.com/sg/product/poco-x7-pro/specs/
+    - button "Xiaomi (+2) – related results":
+      - generic: Xiaomi
+      - generic: "+2"
+    - strong: "Software & Durability:"
+    - text: Ships with
+    - strong: Android 15 layered with HyperOS 2
+    - text: . It also boasts premium structural build ratings (up to IP68/IP69 water and dust resistance depending on the regional variant).
+    - link "Smartprix":
+      - /url: https://us.smartprix.com/mobiles/xiaomi-poco-x7-pro-5g-12gb-ram-512gb-ppd1dageabpb
+    - button "Smartprix (+2) – related results":
+      - generic: Smartprix
+      - generic: "+2"
+  - heading "Storage Variants" [level=3]:
+    - heading "Storage Variants" [level=3]
+  - generic: "When purchasing the 12GB RAM version, you can choose between two storage models:"
+  - list:
+    - strong: "12GB RAM + 256GB Storage:"
+    - text: Ideal for heavy app usage, streaming, and moderate gaming storage. You can view local pricing on
+    - link "Tweakers PriceWatch":
+      - /url: https://tweakers.net/pricewatch/2159154/poco-x7-pro-12gb-ram-256gb-opslag-zwart.html
+    - text: .
+    - button "Related results":
+    - strong: "12GB RAM + 512GB Storage:"
+    - text: Recommended if you record lots of 4K video, store heavy offline media playlists, or install multiple large modern games (like Genshin Impact). For listing availability, check retailers like
+    - link "Coolblue":
+      - /url: https://www.coolblue.nl/en/product/961037/poco-x7-pro-512gb-12gb-ram-black-5g.html?srsltid=AU7gw4UzKpGCp0y8G8jh32JR-_m-Pqq0h4hz1g4zBlsMMP_vzdQBl_av
+    - text: .
+    - button "Related results":
+  - text: Are you considering buying the
+  - strong: 256GB or the 512GB storage version
+  - text: "? If you are trying to decide, tell me"
+  - strong: what games or apps
+  - text: you intend to run so I can recommend the right setup for you.
+  - link "Xiaomi":
+    - /url: https://www.mi.com/nl/product/poco-x7-pro/specs/
+  - button "Xiaomi – related results":
+    - generic: Xiaomi
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - link "POCO X7 Pro 512GB 12GB RAM Black 5G - Coolblue. Opens in new tab.":
+      - /url: https://www.coolblue.nl/en/product/961037/poco-x7-pro-512gb-12gb-ram-black-5g.html?srsltid=AU7gw4UzKpGCp0y8G8jh32JR-_m-Pqq0h4hz1g4zBlsMMP_vzdQBl_av
+    - generic: Coolblue
+    - button "About this result":
+    - generic: POCO X7 Pro 512GB 12GB RAM Black 5G - Coolblue
+    - generic: The POCO X7 Pro is suitable for the most demanding tasks. You can play demanding 3D games and edit photos and videos, for example.
+    - link "Poco X7 Pro - One Year Later! (Still Worth It?), Video, watch on YouTube":
+      - /url: https://www.youtube.com/watch?v=w2cycB2JQek&t=256
+    - generic: YouTube
+    - generic: ·
+    - generic: Kevin Breeze
+    - button "About this result":
+    - generic: Poco X7 Pro - One Year Later! (Still Worth It?)
+    - generic: 20 Dec 2025 — The Poco X7 Pro is. The device comes with 512 GB of storage and 12 GB of RAM, though other variations with less storage and RAM ar...
+    - 'button "Poco X7 Pro - One Year Later! (Still Worth It?) by Kevin Breeze on YouTube. Play on Google. - Segment Duration: 31 s - Starts at: 4:16 - Total Duration: 7:43"':
+      - generic: 31s
+    - 'link "Poco X7 Pro Review: A Real Flagship Killer!, Video, watch on YouTube"':
+      - /url: https://www.youtube.com/watch?v=n-GKTi0v4zo&t=729
+    - generic: YouTube
+    - generic: ·
+    - generic: TotallydubbedHD
+    - button "About this result":
+    - generic: "Poco X7 Pro Review: A Real Flagship Killer!"
+    - generic: 6 Mar 2025 — The Poco X7 Pro is powered by a 4nm MediaTek Dimensity 8400. It includes LP DDDR5X RAM (8GB to 12GB) and UFS 4.0 storage, performa...
+    - 'button "Poco X7 Pro Review: A Real Flagship Killer! by TotallydubbedHD on YouTube. Play on Google. - Segment Duration: 1 min - Starts at: 12:09 - Total Duration: 15:11"':
+      - generic: 1m
+  - button "Show all related results":
+    - generic: Show all
+  - button "Copy in the original context":
+  - button "Edit in the original context":
+  - heading "in the original context" [level=2]
+  - text: To keep a background voice recorder running
+  - strong: 24/7/365 with zero downtime on a Poco X7 Pro (12GB RAM)
+  - text: ", you have a massive advantage:"
+  - strong: 12GB of LPDDR5X RAM
+  - text: provides more than enough memory headspace to ensure the OS never closes the app due to a lack of system resources.
+  - text: However, Xiaomi's
+  - strong: HyperOS 2 (Android 15)
+  - text: features some of the most aggressive battery-saving and process-killing algorithms in the industry. Without manual optimization, HyperOS will forcefully kill your recording background process within 10 to 30 minutes of the screen turning off.
+  - heading "HyperOS 2 Optimization Steps for Zero Downtime" [level=3]:
+    - heading "HyperOS 2 Optimization Steps for Zero Downtime" [level=3]
+  - generic: "To ensure your recorder process is completely immune to HyperOS memory cleanups, apply these exact settings:"
+  - list:
+    - strong: "Remove Battery Restrictions:"
+    - text: Go to
+    - strong: Settings > Apps > Manage Apps
+    - text: and select your voice recorder. Tap on
+    - strong: Battery Saver
+    - text: and change the setting from "Battery Saver (Recommended)" to
+    - strong: No Restrictions
+    - text: .
+    - strong: "Lock the App in the HyperOS RAM Switcher:"
+    - text: Swipe up and hold to open your recent apps screen. Press and hold down on your recording app's preview window until a menu pops up. Tap the
+    - strong: Padlock icon
+    - text: . This locks the app into your 12GB RAM pool and prevents the "Clear All" button from killing it.
+    - strong: "Enable Background Autostart:"
+    - text: Go to
+    - strong: Settings > Apps > Manage Apps
+    - text: ", select your recorder app, and toggle the switch for"
+    - strong: Autostart
+    - text: to
+    - strong: "ON"
+    - text: . Tap into the Autostart settings and ensure "Allow apps to be started by other apps" is also turned on. This ensures that if the phone ever reboots, the recorder instantly fires back up.
+    - strong: "Turn Off Memory Extension (Recommended):"
+    - text: Go to
+    - strong: Settings > Additional Settings > Memory Extension
+    - text: . Turn this feature
+    - strong: "OFF"
+    - text: and reboot your device. While the Poco X7 Pro allows virtual RAM additions, utilizing storage swap memory can sometimes cause sudden background process restarts. Your native 12GB RAM is more than enough.
+  - heading "Hardware Considerations for this Specific Device" [level=3]:
+    - heading "Hardware Considerations for this Specific Device" [level=3]
+  - list:
+    - strong: "Storage Management:"
+    - text: A 24/7 audio stream generates massive amounts of data. If you have the
+    - strong: 256GB variant
+    - text: ", store your audio in low-bitrate"
+    - strong: MP3 or AAC (.m4a)
+    - text: formats. Avoid raw WAV files, which will deplete your storage and crash the app within weeks. If you have the
+    - strong: 512GB variant
+    - text: ", you have double the safety runway."
+    - strong: "Heat Dissipation:"
+    - text: While the
+    - emphasis: Liquid Cool Technology 4.0
+    - text: on the Poco X7 Pro handles heavy gaming well, continuous 24/7 CPU micro-activity combined with charging will heat the phone. Keep the device out of thick cases if it is plugged into a charger permanently while recording to prevent thermal throttling.
+  - text: Are you setting this up using one of the third-party apps mentioned earlier (like
+  - strong: Life Recorder
+  - text: or
+  - strong: Eardrum
+  - text: ), or are you writing a
+  - strong: custom Android studio project
+  - text: specifically tailored to deploy on your Poco X7 Pro? Let me know so I can guide you further.
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything"
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo
+- generic: AI Mode response is ready
+- generic: Ask about

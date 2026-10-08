@@ -1,0 +1,174 @@
+- link "Skip to main content"
+- link "Accessibility help":
+  - /url: https://support.google.com/websearch/answer/181196?hl=en-NL
+- banner:
+  - link "Go to Google Home":
+    - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwiB8bWH5ZGXAxWZRP4FHdxQG44QPHoECAYQAw
+- navigation:
+  - list:
+    - link "AI Mode" [disabled]:
+      - generic: AI Mode
+    - link "All":
+      - /url: /search?q=driver+san+francisco+game+mechanic+main&sca_esv=ee3892b004fb5afd&aep=1&cs=0&biw=1707&bih=898&prmd=ivns&sxsrf=APpeQnt9nYFXuZIPpGf6odaK4cfnUFx4tQ:1790616173122&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&sa=X&ved=2ahUKEwiB8bWH5ZGXAxWZRP4FHdxQG44Q0pQJegQICBAF
+      - generic: All
+    - link "Videos":
+      - /url: /search?q=driver+san+francisco+game+mechanic+main&sa=X&sca_esv=ee3892b004fb5afd&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnt9nYFXuZIPpGf6odaK4cfnUFx4tQ:1790616173122&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&ved=2ahUKEwiB8bWH5ZGXAxWZRP4FHdxQG44QtKgLegQICBAH
+      - generic: Videos
+    - link "Images":
+      - /url: /search?q=driver+san+francisco+game+mechanic+main&sa=X&sca_esv=ee3892b004fb5afd&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnt9nYFXuZIPpGf6odaK4cfnUFx4tQ:1790616173122&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&ved=2ahUKEwiB8bWH5ZGXAxWZRP4FHdxQG44QtKgLegQICBAJ
+      - generic: Images
+    - link "Short videos":
+      - /url: /search?q=driver+san+francisco+game+mechanic+main&sa=X&sca_esv=ee3892b004fb5afd&aep=1&cs=0&biw=1707&bih=898&sxsrf=APpeQnt9nYFXuZIPpGf6odaK4cfnUFx4tQ:1790616173122&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&ved=2ahUKEwiB8bWH5ZGXAxWZRP4FHdxQG44Qs6gLegQICBAL
+      - generic: Short videos
+    - button "More filters":
+      - generic "More filters":
+        - generic: More
+- generic: Pro
+- button "Google apps":
+- 'button "Google Account: Tom Klootwijk (wnxduck@gmail.com), Google membership"':
+- main:
+  - button "AI Mode history"
+  - button:
+  - button "New thread":
+  - button "Settings":
+  - 'heading "AI Mode conversation: driver san francisco game mechanic main" [level=1]'
+  - 'heading "You said: driver san francisco game mechanic main" [level=2]'
+  - button "Copy driver san francisco game mechanic main":
+  - button "Edit driver san francisco game mechanic main":
+  - generic: driver san francisco game mechanic main
+  - generic: 27 September 2026
+  - text: The main and defining gameplay mechanic in
+  - emphasis:
+    - 'button "Driver: San Francisco"':
+      - generic: "Driver: San Francisco"
+  - text: is called
+  - mark:
+    - strong: "\"Shift\""
+  - text: .
+  - button "Related results":
+  - list:
+    - button "Shift | <b>Driver</b> Wiki | Fandom":
+      - img "Shift | <b>Driver</b> Wiki | Fandom"
+    - button "The Best Racing <b>Game</b> You&#39;ve Never Played | <b>Driver San</b> ...":
+      - img "The Best Racing <b>Game</b> You&#39;ve Never Played | <b>Driver San</b> ..."
+    - 'button "How <b>Driver</b>: <b>San Francisco</b> took the series in a daring new ..."':
+      - 'img "How <b>Driver</b>: <b>San Francisco</b> took the series in a daring new ..."'
+    - button "The &#39;shift&#39; <b>mechanic</b> is actually genius! | Gamerficial":
+      - img "The &#39;shift&#39; <b>mechanic</b> is actually genius! | Gamerficial"
+    - button "The <b>Game</b> That Proved Racing <b>Games</b> Could Tell Stories - YouTube":
+      - img "The <b>Game</b> That Proved Racing <b>Games</b> Could Tell Stories - YouTube"
+    - 'button "There&#39;s a really cool mission in <b>Driver</b>: <b>San Francisco</b> that ..."':
+      - 'img "There&#39;s a really cool mission in <b>Driver</b>: <b>San Francisco</b> that ..."'
+    - 'button "<b>Driver</b>: <b>San Francisco</b> Finished! – The Gamer Inside"':
+      - 'img "<b>Driver</b>: <b>San Francisco</b> Finished! – The Gamer Inside"'
+  - button:
+  - generic: "The Shift mechanic completely reinvents traditional open-world driving games through several key features:"
+  - list:
+    - strong: "Teleportation and Possession:"
+    - text: Instead of exiting a vehicle on foot like in
+    - emphasis: Grand Theft Auto
+    - text: ", pressing a button allows the protagonist, Detective John Tanner, to have an out-of-body experience. The camera zooms out into a top-down, Google Maps-style view of the city, allowing the player to float over traffic, select any vehicle on the road, and instantly possess its driver."
+    - link "YouTube · minimme":
+      - /url: https://www.youtube.com/watch?v=kCSpQIYyhRI
+    - button "YouTube · minimme (+2) – related results":
+      - generic: YouTube
+      - generic: ·minimme
+      - generic: "+2"
+    - strong: "The Narrative Justification:"
+    - text: "The game justifies this supernatural superpower with a clever plot twist: Tanner is actually in a"
+    - strong: coma
+    - text: following a severe car crash at the beginning of the game. The entire open world is a hallucination taking place inside his head, explaining why he can magically hop between bodies. When zooming out to Shift, the background audio fades and is replaced by the faint sound of a hospital heart monitor.
+    - link "Steemit":
+      - /url: https://steemit.com/gaming/@vladalexan/the-shift-mechanic-of-driver-san-francisco
+    - button "Steemit (+1) – related results":
+      - generic: Steemit
+      - generic: "+1"
+    - strong: "Tactical Mission Design:"
+    - text: Players must use the mechanic creatively to solve puzzles and win events. For example, if you need to finish 1st
+    - emphasis: and
+    - text: 2nd in a team street race, you can constantly swap back and forth between two different cars to ensure they both cross the line ahead of the pack.
+    - link "Reddit · UltraViolet":
+      - /url: https://www.reddit.com/r/Gaming4Gamers/comments/10f9djs/driver_san_francisco_review_12_years_later/
+    - button "Reddit · UltraViolet (+2) – related results":
+      - generic: Reddit
+      - generic: ·UltraViolet
+      - generic: "+2"
+    - strong: "Weapons-Grade Traffic:"
+    - text: Instead of just racing, you can Shift into an oncoming semi-truck or bus half a mile away and deliberately steer it directly into the path of a target you are chasing.
+    - link "YouTube · GameSpot":
+      - /url: https://www.youtube.com/watch?v=g25uO8tSEpg&t=3
+    - button "YouTube · GameSpot (+1) – related results":
+      - generic: YouTube
+      - generic: ·GameSpot
+      - generic: "+1"
+    - strong: "Passenger Reactions:"
+    - text: When Tanner possesses a driver, he inherits the vehicle's original passenger. Driving erratically triggers unique, often humorous dialogue from passengers who are terrified or confused by their friend's sudden, reckless change in behavior.
+    - link "YouTube · minimme":
+      - /url: https://www.youtube.com/watch?v=kCSpQIYyhRI
+    - button "YouTube · minimme (+1) – related results":
+      - generic: YouTube
+      - generic: ·minimme
+      - generic: "+1"
+  - text: Technically, the mechanic was highly praised upon release because it allowed for instant car swaps across a massive map seamlessly, without any loading screens.
+  - link "YouTube · UltraViolet":
+    - /url: https://www.youtube.com/watch?v=13gVWqSJvA8
+  - button "YouTube · UltraViolet (+1) – related results":
+    - generic: YouTube
+    - generic: ·UltraViolet
+    - generic: "+1"
+  - text: Would you like to know more about how the
+  - strong: Shift ability upgrades
+  - text: work, or are you interested in some of the most unique
+  - strong: story missions
+  - text: that make use of it?
+  - text: AI responses may include mistakes.
+  - link "Learn more about AI Mode. Opens in new tab":
+    - /url: https://support.google.com/websearch?p=aimode
+    - text: Learn more
+  - document:
+    - button "SaveAI Export":
+  - status
+  - button "Copy text":
+  - button "Share":
+  - button "Good response":
+  - button "Bad response":
+  - button "More options":
+  - list:
+    - 'link "Driver: San Francisco - The Unattainable Gem : r/patientgamers. Opens in new tab."':
+      - /url: https://www.reddit.com/r/patientgamers/comments/jb0rd6/driver_san_francisco_the_unattainable_gem/
+    - generic: Reddit
+    - button "About this result":
+    - generic: "Driver: San Francisco - The Unattainable Gem : r/patientgamers"
+    - generic: It has so many unique design and gameplay elements that metaphorically represent Tanner's unconscious struggle to survive outside ...
+    - link "DRIVER SAN FRANCISCO RETROSPECTIVE, Video, watch on YouTube":
+      - /url: https://www.youtube.com/watch?v=kCSpQIYyhRI
+    - generic: YouTube
+    - generic: ·
+    - generic: minimme
+    - button "About this result":
+    - generic: DRIVER SAN FRANCISCO RETROSPECTIVE
+    - generic: all events are a hallucination. This dream setting allows the game to maintain a deep unseriousness, treating the world as a conse...
+    - button "DRIVER SAN FRANCISCO RETROSPECTIVE by minimme on YouTube. Play on Google. - 28:28":
+      - generic: 28:28
+    - 'link "Driver San Francisco Review | 12 Years Later : r/Gaming4Gamers, Video, watch on Reddit"':
+      - /url: https://www.reddit.com/r/Gaming4Gamers/comments/10f9djs/driver_san_francisco_review_12_years_later/
+    - generic: Reddit
+    - generic: ·
+    - generic: UltraViolet
+    - button "About this result":
+    - generic: "Driver San Francisco Review | 12 Years Later : r/Gaming4Gamers"
+    - generic: This ability enables instant car switching, tactical mission play, and solving environmental puzzles, all without loading screens,
+    - 'link "Driver San Francisco Review | 12 Years Later : r/Gaming4Gamers by UltraViolet on Reddit - Segment Duration: 1 min - Starts at: 1:26 - Total Duration: 16:50"':
+      - /url: https://www.reddit.com/r/Gaming4Gamers/comments/10f9djs/driver_san_francisco_review_12_years_later/
+      - 'img "Driver San Francisco Review | 12 Years Later : r/Gaming4Gamers by UltraViolet on Reddit"'
+      - generic: 1m
+  - button "Show all related results":
+    - generic: Show all
+  - link "Skip to previous prompt":
+    - /url: "#"
+    - generic: Skip to previous prompt
+  - alert
+  - textbox "Ask anything" [active]
+  - button "Add files, tools, and select a model":
+  - button "Microphone":
+- contentinfo
