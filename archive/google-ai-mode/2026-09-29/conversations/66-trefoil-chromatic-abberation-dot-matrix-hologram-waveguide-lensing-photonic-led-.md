@@ -1,6 +1,6 @@
 # trefoil chromatic abberation dot matrix hologram waveguide lensing photonic led spectra different frequency bending and blending quad rendering axis
 
-Captured: 2026-10-08T04:19:42.974Z
+Captured: 2026-10-09T10:04:47.339Z
 
 Source: https://www.google.com/search?q=trefoil+chromatic+abberation+dot+matrix+hologram+waveguide+lensing+photonic+led+spectra+different+frequency+bending+and+blending+quad+rendering+axis&client=ms-android-xiaomi-terr2-rso2&hs=5jQB&sca_esv=57920db85477561b&sxsrf=APpeQnsFvRv_euq6orC1XjGSzXdPUyGZUQ%3A1791282974395&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UfVcuk_CN5lZ7ooDDWHK2Mvzz3zSAVajbtoCgDcY4ClkqSY2KMHBVEZtzZXhvZhOAYOei-ZwZNbTP-zA17u6NI3tEs6cG6hn81aUxnDhSOjSjwakoJQVHh0SeQ8h1zJd7wJVl3n&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjGy4WLmaWXAxUig_0HHSPWEYkQ2J8OegQIEhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfA6EVLs8v2OKb3Yn5q8QXpNLLmcMo8DU-Ovlty4EKQPgUh7tXBwnRJ2k7SLWgQUJoM7K5y_mQZctdK6CVwojeyKbNG_yXIG2hjcx53xvzaDo8aE_rEA-y4-aW9bjOY0m6JqhOA6UJO8N2y2swp5YzlkI_FeSJ8FCGEZBdmqMDSwQ15J_XcwJSPUV6F7drdVe4ne9SPJGPgo06F-zHpg3xVyaTwJXqBwG0dx3GQ9r4yEyfaT_pA5Lh2I4hyTcgBxgRS98WGqyIUCAe6Raj0ENwrQAkfJwKOTfNizKssVjdE48oCsaGJzyFvAJfqiYYi8HdSsX3PtByIWfg&csuir=1&mtid=H8_EasmzJvbr7_UPrMTteQ&lns_mode=cvst&udm=50
 

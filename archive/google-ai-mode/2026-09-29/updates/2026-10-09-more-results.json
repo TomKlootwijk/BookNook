@@ -1,0 +1,71 @@
+{
+  "at": "2026-10-09T10:08:50.112818+00:00",
+  "date": "2026-10-09",
+  "batchId": "2026-10-09-more",
+  "openAiModeTabs": 103,
+  "uniqueOpenConversations": 100,
+  "historyConversations": 300,
+  "method": "Compared 100 distinct open AI Mode tabs and all 300 exposed history identities with the cumulative archive. Captured four newly found history threads and recovered attachment labels in conversation 66. Recent continued threads were checked; partial or unreadable older captures were retained from the previous archive.",
+  "records": [
+    {
+      "ordinal": 359,
+      "tabId": "history-47jIatCpBZWL9u8Pqa3RmQc",
+      "title": "Jitka Digital Studio",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 360,
+      "tabId": "history-0LfIauvUM8aK9u8Pp9We2Q8",
+      "title": "Human Childhood History",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 361,
+      "tabId": "history-wLTIaqOWEsvti-gP0fa8iQk",
+      "title": "Jitske vs Tom Blood Gulch",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 362,
+      "tabId": "history-c6TIaqa_N4rN-d8P2fXC2Ag",
+      "title": "Corporate Takeover Tactics",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 66,
+      "tabId": "1037239592",
+      "title": "trefoil chromatic abberation dot matrix hologram waveguide lensing photonic led spectra different frequency bending and blending quad rendering axis - Google Search",
+      "status": "updated",
+      "previousCounts": {
+        "prompts": 20,
+        "responses": 20
+      },
+      "counts": {
+        "prompts": 20,
+        "responses": 20
+      }
+    }
+  ],
+  "newOrdinals": [
+    359,
+    360,
+    361,
+    362
+  ]
+}
