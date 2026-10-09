@@ -1,14 +1,14 @@
 {
-  "checkedHistoryThreads": 300,
+  "checkedHistoryThreads": 301,
   "allTranscriptsCaptured": true,
-  "unavailableUploadedImages": 27,
+  "unavailableUploadedImages": 28,
   "pendingImages": [],
   "pendingWidgets": [],
   "sourceWidgetWithoutPlot": {
     "conversation": 157,
     "response": 5
   },
-  "note": "The cumulative archive preserves all scoped transcripts. The afternoon update adds three vector diagrams, one still image of the animated rainbow shield, and two uploaded images. Google did not serve 27 previously recorded uploaded images; one earlier chart had no plotted marks and two earlier doodles remain unavailable. These existing source gaps are marked in context.",
+  "note": "The cumulative archive preserves all scoped transcripts. The evening update adds six vector diagrams, including two static snapshots of interactive pentagram animations. Google did not serve 28 uploaded images (27 previously recorded and one new screenshot); one earlier chart had no plotted marks and two earlier doodles remain unavailable. These source gaps are marked in context.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -50,5 +50,17 @@
     "animatedWidgetStills": 1,
     "uploadedImages": 2,
     "expandedCodeBlocks": 2
+  },
+  "eveningMedia": {
+    "date": "2026-10-09",
+    "vectorDiagrams": 6,
+    "interactiveVectorSnapshots": 2,
+    "unavailableUploadedImages": [
+      {
+        "conversation": 391,
+        "prompt": 8,
+        "reason": "Google displays a missing-image placeholder and no image resource in the restored conversation."
+      }
+    ]
   }
 }

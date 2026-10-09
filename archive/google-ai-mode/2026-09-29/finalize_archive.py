@@ -75,6 +75,6 @@ if zip_parts:
     '- [Capture manifest](archive/google-ai-mode/2026-09-29/manifest.json)\n\n'
     'Coverage: '+str(manifest['capturedCount'])+' of '+str(manifest['scopeCount'])+' conversations in the cumulative archive, '
     +str(prompts)+' prompt/response pairs. '+str(len(manifest['missing']))+' missing conversations are recorded in the manifest and PDF.\n\n'
-    +'The PDF and [media status](archive/google-ai-mode/2026-09-29/media-status.json) identify media that Google did not serve: 27 uploaded images, one chart without plotted marks, and two previously recorded unavailable doodles. All available media in this update has been bundled.\n', encoding='utf-8')
+    +'The PDF and [media status](archive/google-ai-mode/2026-09-29/media-status.json) identify media that Google did not serve: '+str(manifest.get('mediaStatus',{}).get('unavailableUploadedImages',0))+' uploaded images, one chart without plotted marks, and two previously recorded unavailable doodles. All available media in this update has been bundled.\n', encoding='utf-8')
 
 print(json.dumps({'pdfPages':len(reader.pages),'pdfBytes':pdf.stat().st_size,'verifiedPrompts':prompts,'verifiedResponses':responses,'bookmarks':len(manifest['conversations'])+2,'zipBytes':zip_path.stat().st_size,'chapterPages':starts},indent=2))
