@@ -1,0 +1,251 @@
+<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data: 'self'"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #FFFFFF;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #E9EBF0 !important;
+        border: 1px solid #DCDFE5 !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #0A0A0A !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #0A0A0A !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #56595E !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) > :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style></head><body>
+<div class="chart-container-wrapper" style="background-color: rgb(247, 248, 250);">
+<div class="chart-header" id="js-chart-title" style='font-family: "Google Sans", Roboto, Arial, sans-serif; font-size: 16px; font-weight: 500; padding-bottom: 0px; word-break: break-word; white-space: normal; line-height: 1.4; color: rgb(10, 10, 10);'>Chronological Data Integrity vs. Just-In-Time Packet Injection</div>
+<div id="vis-wrapper">
+<div aria-label="Vega visualization" aria-roledescription="visualization" class="vega-embed fit-x fit-y" id="vis" role="graphics-document" style="cursor: default;"><svg class="marks" height="475" style="background-color: rgb(247, 248, 250);" version="1.1" viewbox="0 0 619 475" width="619" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g fill="none" stroke-miterlimit="10" transform="translate(55,43)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h547v384h-547Z" fill="transparent"></path><g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,384.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#959BAB" stroke-width="1" transform="translate(0,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(50,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(99,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(149,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(199,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(249,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(298,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(348,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(398,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(448,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(497,-384)" x2="0" y2="384"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(547,-384)" x2="0" y2="384"></line></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,384)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,339)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,294)" x2="547" y2="0"></line><line opacity="1" stroke="#959BAB" stroke-width="1" transform="translate(0,248)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,203)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,158)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,113)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,68)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,23)" x2="547" y2="0"></line></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-label="X-axis titled 'Chronological Packet Sequence Index' for a linear scale with values from 0 to 11" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,384.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(50,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(99,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(149,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(199,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(249,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(298,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(348,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(398,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(448,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(497,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(547,0)" x2="0" y2="5"></line></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="start" transform="translate(0,15)">0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(49.72727272727273,15)">1</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(99.45454545454545,15)">2</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(149.18181818181816,15)">3</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(198.9090909090909,15)">4</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(248.63636363636363,15)">5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(298.3636363636363,15)">6</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(348.09090909090907,15)">7</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(397.8181818181818,15)">8</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(447.54545454545456,15)">9</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(497.27272727272725,15)">10</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(547,15)">11</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="547" y2="0"></line></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(273.5,30)">Chronological Packet Sequence Index</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-label="Y-axis titled 'Verifiable Cryptographic Checksum Value / Timestamp Offset (ms)' for a linear scale with values from −30 to 55" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,384)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,339)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,294)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,248)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,203)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,158)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,113)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,68)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,23)" x2="-5" y2="0"></line></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,387)">−30</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,341.8235294117647)">−20</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,296.6470588235294)">−10</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,251.4705882352941)">0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,206.29411764705884)">10</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,161.11764705882354)">20</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,115.94117647058822)">30</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,70.76470588235296)">40</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,25.588235294117652)">50</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,384)" x2="0" y2="-384"></line></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(-27.962890625,192) rotate(-90) translate(0,-2)">Verifiable Cryptographic Checksum Value / Timestamp Offset (ms)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-roledescription="group mark container" class="mark-group role-scope view_1_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h547v384h-547Z"></path><g><g aria-roledescription="line mark container" class="mark-line role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object"><path aria-label="x: 1; y: 10; series: True Footprint; order: 0" aria-roledescription="line mark" d="M49.727,203.294L99.455,194.259L149.182,198.776L198.909,189.741L248.636,194.259L298.364,185.224L348.091,189.741L397.818,180.706L447.545,185.224L497.273,176.188" role="graphics-symbol" stroke="#3364f0" stroke-width="2"></path></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark layer_1_marks" clip-path="url(#clip2)" pointer-events="none" role="graphics-object"><path aria-label="x: 1; y: 10; series: True Footprint" aria-roledescription="circle" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(49.72727272727273,203.29411764705884)"></path><path aria-label="x: 2; y: 12; series: True Footprint" aria-roledescription="circle" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(99.45454545454545,194.25882352941176)"></path><path aria-label="x: 3; y: 11; series: True Footprint" aria-roledescription="circle" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(149.18181818181816,198.77647058823527)"></path><path aria-label="x: 4; y: 13; series: True Footprint" aria-roledescription="circle" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(198.9090909090909,189.74117647058824)"></path><path aria-label="x: 5; y: 12; series: True Footprint" aria-roledescription="circle" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(248.63636363636363,194.25882352941176)"></path><path aria-label="x: 6; y: 14; series: True Footprint" aria-roledescription="circle" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(298.3636363636363,185.22352941176467)"></path><path aria-label="x: 7; y: 13; series: True Footprint" aria-roledescription="circle" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(348.09090909090907,189.74117647058824)"></path><path aria-label="x: 8; y: 15; series: True Footprint" aria-roledescription="circle" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(397.8181818181818,180.70588235294116)"></path><path aria-label="x: 9; y: 14; series: True Footprint" aria-roledescription="circle" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(447.54545454545456,185.22352941176467)"></path><path aria-label="x: 10; y: 16; series: True Footprint" aria-roledescription="circle" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(497.27272727272725,176.18823529411765)"></path></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark layer_2_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object"><path aria-label="x: 4.5; y: 45; series: Tampered/Injected Data" aria-roledescription="circle" d="M5.477,0A5.477,5.477,0,1,1,-5.477,0A5.477,5.477,0,1,1,5.477,0" fill="#3364f0" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(223.77272727272728,45.176470588235304)"></path><path aria-label="x: 7.5; y: −20; series: Tampered/Injected Data" aria-roledescription="circle" d="M5.477,0A5.477,5.477,0,1,1,-5.477,0A5.477,5.477,0,1,1,5.477,0" fill="#3364f0" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(372.95454545454544,338.8235294117647)"></path></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_3_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object"><text aria-label="x: 4.5; y: 45; label: Anomaly (4.5, 45)" aria-roledescription="text mark" fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="end" transform="translate(218.82297980442144,38.226723119929474)">Anomaly (4.5, 45)</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_4_marks" clip-path="url(#clip5)" pointer-events="none" role="graphics-object"><text aria-label="x: 7.5; y: −20; label: Anomaly (7.5, -20)" aria-roledescription="text mark" fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="start" transform="translate(377.90429292285125,331.8737819434589)">Anomaly (7.5, -20)</text></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark layer_5_marks" clip-path="url(#clip6)" pointer-events="none" role="graphics-object"><path aria-label="x: 1; y: 10; series: True Footprint" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(49.72727272727273,203.29411764705884)"></path><path aria-label="x: 2; y: 12; series: True Footprint" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(99.45454545454545,194.25882352941176)"></path><path aria-label="x: 3; y: 11; series: True Footprint" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(149.18181818181816,198.77647058823527)"></path><path aria-label="x: 4; y: 13; series: True Footprint" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(198.9090909090909,189.74117647058824)"></path><path aria-label="x: 5; y: 12; series: True Footprint" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(248.63636363636363,194.25882352941176)"></path><path aria-label="x: 6; y: 14; series: True Footprint" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(298.3636363636363,185.22352941176467)"></path><path aria-label="x: 7; y: 13; series: True Footprint" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(348.09090909090907,189.74117647058824)"></path><path aria-label="x: 8; y: 15; series: True Footprint" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(397.8181818181818,180.70588235294116)"></path><path aria-label="x: 9; y: 14; series: True Footprint" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(447.54545454545456,185.22352941176467)"></path><path aria-label="x: 10; y: 16; series: True Footprint" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(497.27272727272725,176.18823529411765)"></path><path aria-label="x: 4.5; y: 45; series: Tampered/Injected Data" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#3364f0" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(223.77272727272728,45.176470588235304)"></path><path aria-label="x: 7.5; y: −20; series: Tampered/Injected Data" aria-roledescription="circle" d="M5.916,0A5.916,5.916,0,1,1,-5.916,0A5.916,5.916,0,1,1,5.916,0" fill="#3364f0" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(372.95454545454544,338.8235294117647)"></path></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark hover_target_marks" clip-path="url(#clip7)" role="graphics-object"><path aria-label="x: 1; y: 10; Series: True Footprint; Sequence Index: 1; Checksum/Offset: 10" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(49.72727272727273,203.29411764705884)"></path><path aria-label="x: 2; y: 12; Series: True Footprint; Sequence Index: 2; Checksum/Offset: 12" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(99.45454545454545,194.25882352941176)"></path><path aria-label="x: 3; y: 11; Series: True Footprint; Sequence Index: 3; Checksum/Offset: 11" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(149.18181818181816,198.77647058823527)"></path><path aria-label="x: 4; y: 13; Series: True Footprint; Sequence Index: 4; Checksum/Offset: 13" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(198.9090909090909,189.74117647058824)"></path><path aria-label="x: 5; y: 12; Series: True Footprint; Sequence Index: 5; Checksum/Offset: 12" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(248.63636363636363,194.25882352941176)"></path><path aria-label="x: 6; y: 14; Series: True Footprint; Sequence Index: 6; Checksum/Offset: 14" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(298.3636363636363,185.22352941176467)"></path><path aria-label="x: 7; y: 13; Series: True Footprint; Sequence Index: 7; Checksum/Offset: 13" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(348.09090909090907,189.74117647058824)"></path><path aria-label="x: 8; y: 15; Series: True Footprint; Sequence Index: 8; Checksum/Offset: 15" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(397.8181818181818,180.70588235294116)"></path><path aria-label="x: 9; y: 14; Series: True Footprint; Sequence Index: 9; Checksum/Offset: 14" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(447.54545454545456,185.22352941176467)"></path><path aria-label="x: 10; y: 16; Series: True Footprint; Sequence Index: 10; Checksum/Offset: 16" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(497.27272727272725,176.18823529411765)"></path><path aria-label="x: 4.5; y: 45; Series: Tampered/Injected Data; Sequence Index: 4.5; Checksum/Offset: 45" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(223.77272727272728,45.176470588235304)"></path><path aria-label="x: 7.5; y: −20; Series: Tampered/Injected Data; Sequence Index: 7.5; Checksum/Offset: −20" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(372.95454545454544,338.8235294117647)"></path></g><g aria-label="Symbol legend for fill color and stroke color with 2 values: Tampered/Injected Data, True Footprint" aria-roledescription="legend" class="mark-group role-legend" role="graphics-symbol"><g transform="translate(0,-27)"><path aria-hidden="true" class="background" d="M0,0h229v11h-229Z" pointer-events="none"></path><g><g class="mark-group role-legend-entry"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g aria-roledescription="group mark container" class="mark-group role-scope" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h132.7890625v11h-132.7890625Z" opacity="1" pointer-events="none"></path><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M-5,0L5,0" fill="#3364f0" opacity="1" stroke="#de7300" stroke-width="1.5" transform="translate(6,6)"></path></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,9)">Tampered/Injected Data</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g><g transform="translate(144,0)"><path aria-hidden="true" class="background" d="M0,0h84.6748046875v11h-84.6748046875Z" opacity="1" pointer-events="none"></path><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M-5,0L5,0" fill="#de7300" opacity="1" stroke="#3364f0" stroke-width="1.5" transform="translate(6,6)"></path></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,9)">True Footprint</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g></g><defs><clippath id="clip1"><rect height="384" width="547" x="0" y="0"></rect></clippath><clippath id="clip2"><rect height="384" width="547" x="0" y="0"></rect></clippath><clippath id="clip3"><rect height="384" width="547" x="0" y="0"></rect></clippath><clippath id="clip4"><rect height="384" width="547" x="0" y="0"></rect></clippath><clippath id="clip5"><rect height="384" width="547" x="0" y="0"></rect></clippath><clippath id="clip6"><rect height="384" width="547" x="0" y="0"></rect></clippath><clippath id="clip7"><rect height="384" width="547" x="0" y="0"></rect></clippath></defs></svg><form class="vega-bindings"></form></div>
+</div>
+</div>
+
+
+</body></html>

@@ -5,6 +5,7 @@ import html
 import json
 import mimetypes
 import re
+import time
 from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse, parse_qs
@@ -30,6 +31,9 @@ captured = {d['ordinal'] for d in records}
 update_status = {r['ordinal']: r for r in (latest_update or {}).get('records', [])}
 missing = [dict(ordinal=i+1, title=t['title'].removesuffix(' - Google Search'), url=t['url'], reason='The conversation could not be loaded for capture.' if i+1 in update_status else 'The original tab was unreadable during the earlier export.') for i,t in enumerate(scope['tabs']) if i+1 not in captured]
 issues = []
+media_gaps = []
+media_status = json.loads((ROOT / 'media-status.json').read_text(encoding='utf-8')) if (ROOT / 'media-status.json').exists() else {}
+pending_urls = {(x['conversation'], x['url']) for x in media_status.get('pendingImages', [])}
 math_total = 0
 image_total = 0
 
@@ -55,6 +59,19 @@ math{font-family:"Cambria Math",serif;font-size:1.04em} .equation{display:inline
 CSS = CSS.replace('29 Sep 2026', date.fromisoformat(export_date).strftime('%d %b %Y').lstrip('0'))
 
 def esc(s): return html.escape(str(s), quote=True)
+def write_aggregate(path, text):
+    # Keep the previous large artifact intact if Windows temporarily locks it.
+    temporary = path.with_name(path.name + '.building')
+    temporary.write_text(text, encoding='utf-8')
+    for attempt in range(10):
+        try:
+            temporary.replace(path)
+            break
+        except OSError:
+            if attempt == 9:
+                raise
+            time.sleep(1)
+
 def page(title, body):
     return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="Content-Security-Policy" content="default-src \'none\'; img-src \'self\' data:; style-src \'unsafe-inline\'; font-src \'self\' data:"><title>'+esc(title)+'</title><style>'+CSS+'</style></head><body><main>'+body+'</main></body></html>'
 
@@ -149,7 +166,8 @@ def clean_message(item, ordinal, index):
         absolute_src = 'https:' + src if src.startswith('//') else src
         if absolute_src in bundled_assets:
             asset = ROOT / bundled_assets[absolute_src]
-            src = 'data:image/png;base64,' + base64.b64encode(asset.read_bytes()).decode('ascii')
+            mime = mimetypes.guess_type(asset.name)[0] or 'application/octet-stream'
+            src = 'data:' + mime + ';base64,' + base64.b64encode(asset.read_bytes()).decode('ascii')
             x['src'] = src
         if src.startswith('data:image/gif') or 'favicon' in src or not src:
             x.decompose();continue
@@ -163,8 +181,13 @@ def clean_message(item, ordinal, index):
                 image_total+=1
             except Exception as e: issues.append({'conversation':ordinal,'message':index,'type':'image_decode','error':str(e)})
         else:
-            issues.append({'conversation':ordinal,'message':index,'type':'unbundled_image','url':src})
-            x.replace_with(soup.new_string('[Image: '+x.get('alt',src)+']'))
+            record={'conversation':ordinal,'message':index,'type':'unbundled_image','url':src}
+            if (ordinal,src) in pending_urls:
+                media_gaps.append(record)
+                x.replace_with(soup.new_string('[Image capture pending; original source URL preserved in the raw archive.]'))
+            else:
+                issues.append(record)
+                x.replace_with(soup.new_string('[Image: '+x.get('alt',src)+']'))
     for x in soup.find_all(True):
         is_math = x.name == 'math' or x.find_parent('math') is not None
         keep={'href','src','alt','title','colspan','rowspan','role','aria-level'}
@@ -180,7 +203,9 @@ def clean_message(item, ordinal, index):
 
 chapters=[]; toc=[]; manifest=[]; all_md=[]
 for d in records:
-    n=d['ordinal'];title=d['title'].removesuffix(' - Google Search');slug=re.sub(r'[^a-z0-9]+','-',title.lower()).strip('-')[:80] or 'conversation'
+    n=d['ordinal'];title=d['title'].removesuffix(' - Google Search')
+    if len(title)>250:title=title[:220].rsplit(' ',1)[0]+'…'
+    slug=re.sub(r'[^a-z0-9]+','-',title.lower()).strip('-')[:80] or 'conversation'
     basename=f'{n:02d}-{slug}'
     chunks=[];md=[f'# {title}\n',f'Captured: {d["capturedAt"]}\n',f'Source: {d.get("originalUrl",d["url"])}\n']
     prompt_count=0;response_count=0
@@ -188,6 +213,9 @@ for d in records:
         if item['role']=='user':
             prompt_count+=1;label=f'Prompt {prompt_count} · You';txt=item['text'];txt=txt.removeprefix('You said: ')
             body='<div class="prompt">'+esc(txt)+'</div>'; md.append(f'## Prompt {prompt_count} — You\n\n{txt}\n')
+            for note in item.get('attachmentNotes', []):
+                body += '<p class="meta">'+esc(note)+'</p>'
+                md.append('Attachment availability: '+note+'\n')
         else:
             response_count+=1;label=f'Response {response_count} · Google AI Mode';clean=clean_message(item,n,j)
             body='<div class="content">'+clean+'</div>'
@@ -207,17 +235,19 @@ for d in records:
     toc.append('<li><a href="#conversation-'+str(n)+'">'+esc(title)+'</a><span class="meta"> — '+str(prompt_count)+' exchanges</span></li>')
     manifest.append({'ordinal':n,'title':title,'prompts':prompt_count,'responses':response_count,'html':'conversations/'+basename+'.html','markdown':'conversations/'+basename+'.md','source':d.get('originalUrl',d['url']),'recoveredFromSavedUrl':d.get('recoveredFromSavedUrl',False)})
 
-missing_html='<ul>'+''.join('<li><strong>'+str(m['ordinal']).zfill(2)+'. '+esc(m['title'])+'</strong><br>'+esc(m['reason'])+'</li>' for m in missing)+'</ul>' if missing else '<p>All scoped tabs were captured.</p>'
+missing_html='<ul>'+''.join('<li><strong>'+str(m['ordinal']).zfill(2)+'. '+esc(m['title'])+'</strong><br>'+esc(m['reason'])+'</li>' for m in missing)+'</ul>' if missing else '<p>All scoped conversation transcripts were captured.</p>'
+if media_status:
+    missing_html += '<p><strong>Media availability.</strong> '+esc(media_status.get('note',''))+' Gaps are marked in context; original URLs and source markup are retained. See media-status.json for details.</p>'
 update_note = '<p class="meta">Last updated: '+esc(latest_update['at'])+'. New conversations are appended after the existing collection.</p>' if latest_update else ''
 cover='<section class="cover"><div class="eyebrow">BookNook / Personal study archive</div><h1>Google AI Mode<br>Conversations & doodles</h1><p class="meta">'+esc(date_label)+'</p>'+update_note+'<p>'+str(len(records))+' conversations captured from '+str(len(scope['tabs']))+' conversations in the archive scope. '+str(sum(d['counts']['prompts'] for d in records))+' prompts and '+str(sum(d['counts']['responses'] for d in records))+' responses.</p><p>This is an archival transcript. User prompts and Google AI Mode responses are labeled separately. Wording is preserved; layout is adapted for reading. Google responses are reproduced as source material, without independent validation.</p><p>Equations retain their source LaTeX in the editable archive and are rendered in the PDF. Embedded images, text diagrams, tables, and available source links are included. Linked external pages and videos are references, not full copies of those external works.</p><div class="notice"><strong>Coverage record</strong>'+missing_html+'</div><p class="meta">The initial scope is retained and extended with new conversations on each update. Captures use loaded conversation pages. On 8 October 2026, the user authorized reopening saved URLs to recover stalled tabs. Earlier and current raw captures retain their capture times and recovery provenance.</p></section>'
 book=cover+'<section class="pagebreak"><div class="eyebrow">Contents</div><h1>Conversation index</h1><ol class="toc">'+''.join(toc)+'</ol></section>'+''.join(chapters)
-(ROOT/'book.html').write_text(page('BookNook - Google AI Mode archive',book),encoding='utf-8')
-(ROOT/'all-conversations.md').write_text('# BookNook Google AI Mode archive\n\n'+'\n\n---\n\n'.join(all_md),encoding='utf-8')
+write_aggregate(ROOT/'book.html', page('BookNook - Google AI Mode archive',book))
+write_aggregate(ROOT/'all-conversations.md', '# BookNook Google AI Mode archive\n\n'+'\n\n---\n\n'.join(all_md))
 index=cover+'<h2>Open a conversation</h2><ol class="toc">'+''.join('<li><a href="'+esc(m['html'])+'">'+esc(m['title'])+'</a> · <a href="'+esc(m['markdown'])+'">Markdown</a></li>' for m in manifest)+'</ol>'
 (ROOT/'index.html').write_text(page('BookNook archive index',index),encoding='utf-8')
-report={'exportDate':export_date,'scopeCount':len(scope['tabs']),'capturedCount':len(records),'prompts':sum(d['counts']['prompts'] for d in records),'responses':sum(d['counts']['responses'] for d in records),'mathRendered':math_total,'embeddedImages':image_total,'conversations':manifest,'missing':missing,'issues':issues}
+report={'exportDate':export_date,'scopeCount':len(scope['tabs']),'capturedCount':len(records),'prompts':sum(d['counts']['prompts'] for d in records),'responses':sum(d['counts']['responses'] for d in records),'mathRendered':math_total,'embeddedImages':image_total,'conversations':manifest,'missing':missing,'issues':issues,'mediaGaps':media_gaps,'mediaStatus':media_status}
 if latest_update: report['latestUpdate'] = latest_update
 (ROOT/'manifest.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
 (ROOT/'README.md').write_text('# BookNook Google AI Mode archive\n\nUpdated '+date_label+'.\n\n- Open `index.html` to browse individual HTML and Markdown transcripts.\n- `book.html` is the complete typeset source for the combined PDF.\n- `raw/` contains original message markup, readable text, equations, links, and DOM snapshots.\n- `assets/` contains embedded image copies.\n- `manifest.json` records capture coverage, provenance, and conversion issues.\n\n## Missing conversations\n\n'+('\n'.join(f'- {m["ordinal"]:02d}. {m["title"]}: {m["reason"]}' for m in missing) or 'None.')+'\n',encoding='utf-8')
-print(json.dumps({k:v for k,v in report.items() if k not in ['conversations','issues','latestUpdate','missing']},ensure_ascii=True,indent=2))
+print(json.dumps({k:v for k,v in report.items() if k not in ['conversations','issues','latestUpdate','missing','mediaGaps','mediaStatus']},ensure_ascii=True,indent=2))
 print('Conversion issues:',len(issues))

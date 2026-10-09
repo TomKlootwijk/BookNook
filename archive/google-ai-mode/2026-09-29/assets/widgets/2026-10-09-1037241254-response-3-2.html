@@ -1,0 +1,251 @@
+<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data: 'self'"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #FFFFFF;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #E9EBF0 !important;
+        border: 1px solid #DCDFE5 !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #0A0A0A !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #0A0A0A !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #56595E !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) > :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style></head><body>
+<div class="chart-container-wrapper" style="background-color: rgb(247, 248, 250);">
+<div class="chart-header" id="js-chart-title" style='font-family: "Google Sans", Roboto, Arial, sans-serif; font-size: 16px; font-weight: 500; padding-bottom: 0px; word-break: break-word; white-space: normal; line-height: 1.4; color: rgb(10, 10, 10);'>Superposition Phase Space</div>
+<div id="vis-wrapper">
+<div aria-label="Vega visualization" aria-roledescription="visualization" class="vega-embed fit-x fit-y" id="vis" role="graphics-document" style="cursor: default;"><svg class="marks" height="450" style="background-color: rgb(247, 248, 250);" version="1.1" viewbox="0 0 550 450" width="550" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g fill="none" stroke-miterlimit="10" transform="translate(52,16)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h482v386h-482Z" fill="transparent"></path><g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,386.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#959BAB" stroke-width="1" transform="translate(0,-386)" x2="0" y2="386"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(46,-386)" x2="0" y2="386"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(92,-386)" x2="0" y2="386"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(138,-386)" x2="0" y2="386"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(184,-386)" x2="0" y2="386"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(230,-386)" x2="0" y2="386"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(275,-386)" x2="0" y2="386"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(321,-386)" x2="0" y2="386"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(367,-386)" x2="0" y2="386"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(413,-386)" x2="0" y2="386"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(459,-386)" x2="0" y2="386"></line></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#959BAB" stroke-width="1" transform="translate(0,386)" x2="482" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,349)" x2="482" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,312)" x2="482" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,276)" x2="482" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,239)" x2="482" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,202)" x2="482" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,165)" x2="482" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,129)" x2="482" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,92)" x2="482" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,55)" x2="482" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,18)" x2="482" y2="0"></line></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-label="X-axis titled 'Right Axis: Lust / Carnal Focus' for a linear scale with values from 0.0 to 1.1" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,386.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(46,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(92,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(138,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(184,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(230,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(275,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(321,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(367,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(413,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(459,0)" x2="0" y2="5"></line></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="start" transform="translate(0,15)">0.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(45.904761904761905,15)">0.1</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(91.80952380952381,15)">0.2</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(137.7142857142857,15)">0.3</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(183.61904761904762,15)">0.4</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(229.52380952380952,15)">0.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(275.4285714285714,15)">0.6</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(321.3333333333333,15)">0.7</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(367.23809523809524,15)">0.8</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(413.1428571428571,15)">0.9</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(459.04761904761904,15)">1.0</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="482" y2="0"></line></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(241,30)">Right Axis: Lust / Carnal Focus</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-label="Y-axis titled 'Left Axis: Vide Infra / Protocol Tracking' for a linear scale with values from 0.0 to 1.1" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,386)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,349)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,312)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,276)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,239)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,202)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,165)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,129)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,92)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,55)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,18)" x2="-5" y2="0"></line></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,389)">0.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,352.23809523809524)">0.1</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,315.4761904761905)">0.2</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,278.7142857142857)">0.3</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,241.95238095238096)">0.4</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,205.1904761904762)">0.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,168.42857142857144)">0.6</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,131.66666666666669)">0.7</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,94.90476190476193)">0.8</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,58.14285714285716)">0.9</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,21.3809523809524)">1.0</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,386)" x2="0" y2="-386"></line></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(-24.9013671875,193) rotate(-90) translate(0,-2)">Left Axis: Vide Infra / Protocol Tracking</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-roledescription="line mark container" class="mark-line role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object"><path aria-label="x: 1; y: 0; order: 1" aria-roledescription="line mark" d="M459.048,386L459.048,18.381" role="graphics-symbol" stroke="#3364f0" stroke-dasharray="4,4" stroke-width="1"></path></g><g aria-roledescription="line mark container" class="mark-line role-mark layer_1_marks" clip-path="url(#clip2)" pointer-events="none" role="graphics-object"><path aria-label="x: 0; y: 1; order: 1" aria-roledescription="line mark" d="M0,18.381L459.048,18.381" role="graphics-symbol" stroke="#3364f0" stroke-dasharray="4,4" stroke-width="1"></path></g><g aria-roledescription="line mark container" class="mark-line role-mark layer_2_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object"><path aria-label="x: 0; y: 0; order: 1" aria-roledescription="line mark" d="M0,386L459.048,18.381" role="graphics-symbol" stroke="#de7300" stroke-width="3"></path></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark layer_3_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object"><path aria-label="x: 1; y: 1" aria-roledescription="point" d="M4.472,0A4.472,4.472,0,1,1,-4.472,0A4.472,4.472,0,1,1,4.472,0" fill="#3364f0" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(459.04761904761904,18.3809523809524)"></path></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_4_marks" clip-path="url(#clip5)" pointer-events="none" role="graphics-object"><text aria-label="x: 1; y: 1; label: Double Hadamard Equilibrium (Formalized Lust)" aria-roledescription="text mark" fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="bold" opacity="1" role="graphics-symbol" text-anchor="end" transform="translate(454.0978715793132,10.431204912646567)">Double Hadamard Equilibrium (Formalized Lust)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g></g><defs><clippath id="clip1"><rect height="386" width="482" x="0" y="0"></rect></clippath><clippath id="clip2"><rect height="386" width="482" x="0" y="0"></rect></clippath><clippath id="clip3"><rect height="386" width="482" x="0" y="0"></rect></clippath><clippath id="clip4"><rect height="386" width="482" x="0" y="0"></rect></clippath><clippath id="clip5"><rect height="386" width="482" x="0" y="0"></rect></clippath></defs></svg><form class="vega-bindings"></form></div>
+</div>
+</div>
+
+
+</body></html>

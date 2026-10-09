@@ -1,0 +1,251 @@
+<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data: 'self'"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #FFFFFF;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #E9EBF0 !important;
+        border: 1px solid #DCDFE5 !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #0A0A0A !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #0A0A0A !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #56595E !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) > :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style></head><body>
+<div class="chart-container-wrapper" style="background-color: rgb(247, 248, 250);">
+<div class="chart-header" id="js-chart-title" style='font-family: "Google Sans", Roboto, Arial, sans-serif; font-size: 16px; font-weight: 500; padding-bottom: 0px; word-break: break-word; white-space: normal; line-height: 1.4; color: rgb(10, 10, 10);'>Geometric Analogy of Lowercase Phi (φ) as a Basketball Hoop</div>
+<div id="vis-wrapper">
+<div aria-label="Vega visualization" aria-roledescription="visualization" class="vega-embed fit-x fit-y" id="vis" role="graphics-document" style="cursor: default;"><svg class="marks" height="389" style="background-color: rgb(247, 248, 250);" version="1.1" viewbox="0 0 450 389" width="450" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g fill="none" stroke-miterlimit="10" transform="translate(58,21)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h375v320h-375Z" fill="transparent"></path><g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,320.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(54,-320)" x2="0" y2="320"></line><line opacity="1" stroke="#959BAB" stroke-width="1" transform="translate(161,-320)" x2="0" y2="320"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(268,-320)" x2="0" y2="320"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(375,-320)" x2="0" y2="320"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,-320)" x2="0" y2="320"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(107,-320)" x2="0" y2="320"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(214,-320)" x2="0" y2="320"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(321,-320)" x2="0" y2="320"></line></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,320)" x2="375" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,280)" x2="375" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,240)" x2="375" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,200)" x2="375" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,160)" x2="375" y2="0"></line><line opacity="1" stroke="#959BAB" stroke-width="1" transform="translate(0,120)" x2="375" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,80)" x2="375" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,40)" x2="375" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="375" y2="0"></line></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-label="X-axis titled 'X Coordinate' for a linear scale with values from −1.5 to 2.0" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,320.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(54,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(161,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(268,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(375,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(107,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(214,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(321,0)" x2="0" y2="5"></line></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(53.57142857142857,15)">−1.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(160.7142857142857,15)">0.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(267.8571428571429,15)">1.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(375,15)">2.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="start" transform="translate(0,15)">−1.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(107.14285714285714,15)">−0.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(214.28571428571428,15)">0.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(321.4285714285714,15)">1.5</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="375" y2="0"></line></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(187.5,30)">X Coordinate</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-label="Y-axis titled 'Y Coordinate' for a linear scale with values from −3 to 2" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,320)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,280)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,240)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,200)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,160)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,120)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,80)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,40)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="-5" y2="0"></line></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,323)">−2.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,283)">−2.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,243)">−1.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,203)">−1.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,163)">−0.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,123)">0.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,83)">0.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,43)">1.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,3)">1.5</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,320)" x2="0" y2="-320"></line></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(-30.7412109375,160) rotate(-90) translate(0,-2)">Y Coordinate</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-roledescription="line mark container" class="mark-line role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object"><path aria-label="x: 1; y: 0; order: 0" aria-roledescription="line mark" d="M267.857,120L267.804,117.475L267.644,114.952L267.377,112.434L267.004,109.923L266.525,107.423L265.94,104.935L265.251,102.462L264.457,100.007L263.56,97.572L262.561,95.159L261.46,92.77L260.258,90.409L258.958,88.078L257.559,85.778L256.064,83.512L254.474,81.283L252.79,79.092L251.014,76.942L249.149,74.835L247.195,72.773L245.156,70.758L243.032,68.792L240.826,66.878L238.54,65.016L236.176,63.209L233.737,61.458L231.226,59.766L228.644,58.134L225.995,56.564L223.28,55.057L220.503,53.614L217.667,52.238L214.773,50.929L211.826,49.69L208.828,48.52L205.782,47.421L202.691,46.395L199.558,45.443L196.386,44.564L193.179,43.761L189.94,43.034L186.671,42.383L183.376,41.81L180.059,41.315L176.723,40.898L173.371,40.56L170.006,40.301L166.631,40.122L163.251,40.022L159.869,40.002L156.487,40.062L153.109,40.202L149.739,40.421L146.38,40.719L143.035,41.097L139.708,41.553L136.402,42.087L133.12,42.699L129.865,43.388L126.642,44.153L123.452,44.994L120.299,45.91L117.187,46.899L114.118,47.962L111.095,49.096L108.122,50.301L105.202,51.575L102.336,52.918L99.529,54.327L96.783,55.802L94.101,57.341L91.485,58.943L88.938,60.605L86.463,62.326L84.061,64.105L81.736,65.94L79.49,67.828L77.325,69.769L75.242,71.76L73.245,73.798L71.336,75.883L69.515,78.012L67.785,80.182L66.148,82.393L64.605,84.641L63.158,86.924L61.808,89.24L60.557,91.586L59.406,93.961L58.355,96.362L57.407,98.787L56.561,101.232L55.82,103.697L55.183,106.177L54.651,108.672L54.225,111.177L53.905,113.692L53.692,116.213L53.585,118.737L53.585,121.263L53.692,123.787L53.905,126.308L54.225,128.823L54.651,131.328L55.183,133.823L55.82,136.303L56.561,138.768L57.407,141.213L58.355,143.638L59.406,146.039L60.557,148.414L61.808,150.76L63.158,153.076L64.605,155.359L66.148,157.607L67.785,159.818L69.515,161.988L71.336,164.117L73.245,166.202L75.242,168.24L77.325,170.231L79.49,172.172L81.736,174.06L84.061,175.895L86.463,177.674L88.938,179.395L91.485,181.057L94.101,182.659L96.783,184.198L99.529,185.673L102.336,187.082L105.202,188.425L108.122,189.699L111.095,190.904L114.118,192.038L117.187,193.101L120.299,194.09L123.452,195.006L126.642,195.847L129.865,196.612L133.12,197.301L136.402,197.913L139.708,198.447L143.035,198.903L146.38,199.281L149.739,199.579L153.109,199.798L156.487,199.938L159.869,199.998L163.251,199.978L166.631,199.878L170.006,199.699L173.371,199.44L176.723,199.102L180.059,198.685L183.376,198.19L186.671,197.617L189.94,196.966L193.179,196.239L196.386,195.436L199.558,194.557L202.691,193.605L205.782,192.579L208.828,191.48L211.826,190.31L214.773,189.071L217.667,187.762L220.503,186.386L223.28,184.943L225.995,183.436L228.644,181.866L231.226,180.234L233.737,178.542L236.176,176.791L238.54,174.984L240.826,173.122L243.032,171.208L245.156,169.242L247.195,167.227L249.149,165.165L251.014,163.058L252.79,160.908L254.474,158.717L256.064,156.488L257.559,154.222L258.958,151.922L260.258,149.591L261.46,147.23L262.561,144.841L263.56,142.428L264.457,139.993L265.251,137.538L265.94,135.065L266.525,132.577L267.004,130.077L267.377,127.566L267.644,125.048L267.804,122.525L267.857,120" role="graphics-symbol" stroke="#3364f0" stroke-width="2"></path></g><g aria-roledescription="line mark container" class="mark-line role-mark layer_1_marks" clip-path="url(#clip2)" pointer-events="none" role="graphics-object"><path aria-label="x: 0.5; y: 1.3; order: 0" aria-roledescription="line mark" d="M214.286,16L214.286,16.936L214.286,17.873L214.286,18.809L214.286,19.746L214.286,20.682L214.286,21.619L214.286,22.555L214.286,23.492L214.286,24.428L214.286,25.365L214.286,26.301L214.286,27.237L214.286,28.174L214.286,29.11L214.286,30.047L214.286,30.983L214.286,31.92L214.286,32.856L214.286,33.793L214.286,34.729L214.286,35.666L214.286,36.602L214.286,37.538L214.286,38.475L214.286,39.411L214.286,40.348L214.286,41.284L214.286,42.221L214.286,43.157L214.286,44.094L214.286,45.03L214.286,45.967L214.286,46.903L214.286,47.839L214.286,48.776L214.286,49.712L214.286,50.649L214.286,51.585L214.286,52.522L214.286,53.458L214.286,54.395L214.286,55.331L214.286,56.268L214.286,57.204L214.286,58.14L214.286,59.077L214.286,60.013L214.286,60.95L214.286,61.886L214.286,62.823L214.286,63.759L214.286,64.696L214.286,65.632L214.286,66.569L214.286,67.505L214.286,68.441L214.286,69.378L214.286,70.314L214.286,71.251L214.286,72.187L214.286,73.124L214.286,74.06L214.286,74.997L214.286,75.933L214.286,76.87L214.286,77.806L214.286,78.742L214.286,79.679L214.286,80.615L214.286,81.552L214.286,82.488L214.286,83.425L214.286,84.361L214.286,85.298L214.286,86.234L214.286,87.171L214.286,88.107L214.286,89.043L214.286,89.98L214.286,90.916L214.286,91.853L214.286,92.789L214.286,93.726L214.286,94.662L214.286,95.599L214.286,96.535L214.286,97.472L214.286,98.408L214.286,99.344L214.286,100.281L214.286,101.217L214.286,102.154L214.286,103.09L214.286,104.027L214.286,104.963L214.286,105.9L214.286,106.836L214.286,107.773L214.286,108.709L214.286,109.645L214.286,110.582L214.286,111.518L214.286,112.455L214.286,113.391L214.286,114.328L214.286,115.264L214.286,116.201L214.286,117.137L214.286,118.074L214.286,119.01L214.286,119.946L214.286,120.883L214.286,121.819L214.286,122.756L214.286,123.692L214.286,124.629L214.286,125.565L214.286,126.502L214.286,127.438L214.286,128.375L214.286,129.311L214.286,130.247L214.286,131.184L214.286,132.12L214.286,133.057L214.286,133.993L214.286,134.93L214.286,135.866L214.286,136.803L214.286,137.739L214.286,138.676L214.286,139.612L214.286,140.548L214.286,141.485L214.286,142.421L214.286,143.358L214.286,144.294L214.286,145.231L214.286,146.167L214.286,147.104L214.286,148.04L214.286,148.977L214.286,149.913L214.286,150.849L214.286,151.786L214.286,152.722L214.286,153.659L214.286,154.595L214.286,155.532L214.286,156.468L214.286,157.405L214.286,158.341L214.286,159.278L214.286,160.214L214.286,161.151L214.286,162.087L214.286,163.023L214.286,163.96L214.286,164.896L214.286,165.833L214.286,166.769L214.286,167.706L214.286,168.642L214.286,169.579L214.286,170.515L214.286,171.452L214.286,172.388L214.286,173.324L214.286,174.261L214.286,175.197L214.286,176.134L214.286,177.07L214.286,178.007L214.286,178.943L214.286,179.88L214.286,180.816L214.286,181.753L214.286,182.689L214.286,183.625L214.286,184.562L214.286,185.498L214.286,186.435L214.286,187.371L214.286,188.308L214.286,189.244L214.286,190.181L214.286,191.117L214.286,192.054L214.286,192.99L214.286,193.926L214.286,194.863L214.286,195.799L214.286,196.736L214.286,197.672L214.286,198.609L214.286,199.545L214.287,200.482L214.295,201.418L214.311,202.355L214.336,203.291L214.369,204.227L214.41,205.164L214.459,206.1L214.516,207.037L214.581,207.973L214.655,208.91L214.737,209.846L214.826,210.783L214.924,211.719L215.031,212.656L215.145,213.592L215.267,214.528L215.398,215.465L215.537,216.401L215.684,217.338L215.839,218.274L216.002,219.211L216.173,220.147L216.353,221.084L216.541,222.02L216.736,222.957L216.94,223.893L217.153,224.829L217.373,225.766L217.601,226.702L217.838,227.639L218.083,228.575L218.336,229.512L218.597,230.448L218.866,231.385L219.144,232.321L219.429,233.258L219.723,234.194L220.025,235.13L220.335,236.067L220.653,237.003L220.979,237.94L221.314,238.876L221.657,239.813L222.008,240.749L222.366,241.686L222.734,242.622L223.109,243.559L223.492,244.495L223.884,245.431L224.284,246.368L224.692,247.304L225.108,248.241L225.532,249.177L225.964,250.114L226.405,251.05L226.854,251.987L227.311,252.923L227.776,253.86L228.249,254.796L228.73,255.732L229.22,256.669L229.717,257.605L230.223,258.542L230.737,259.478L231.259,260.415L231.789,261.351L232.328,262.288L232.874,263.224L233.429,264.161L233.992,265.097L234.563,266.033L235.142,266.97L235.73,267.906L236.325,268.843L236.929,269.779L237.541,270.716L238.161,271.652L238.789,272.589L239.425,273.525L240.069,274.462L240.722,275.398L241.383,276.334L242.052,277.271L242.729,278.207L243.414,279.144L244.107,280.08L244.809,281.017L245.519,281.953L246.236,282.89L246.962,283.826L247.697,284.763L248.439,285.699L249.189,286.635L249.948,287.572L250.715,288.508L251.49,289.445L252.273,290.381L253.064,291.318L253.864,292.254L254.671,293.191L255.487,294.127L256.311,295.064L257.143,296" role="graphics-symbol" stroke="#3364f0" stroke-width="2"></path></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_2_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object"><text aria-label="x: −0.8; y: 0; label: The Rim / Graph Component" aria-roledescription="text mark" fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="500" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">The Rim / Graph Component</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_3_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object"><text aria-label="x: 0.7; y: −1.6; label: The Net / Directed Edge (Downward Flow)" aria-roledescription="text mark" fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="500" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">The Net / Directed Edge (Downward Flow)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g></g><defs><clippath id="clip1"><rect height="320" width="375" x="0" y="0"></rect></clippath><clippath id="clip2"><rect height="320" width="375" x="0" y="0"></rect></clippath><clippath id="clip3"><rect height="320" width="375" x="0" y="0"></rect></clippath><clippath id="clip4"><rect height="320" width="375" x="0" y="0"></rect></clippath></defs></svg><form class="vega-bindings"></form></div>
+</div>
+</div>
+
+
+</body></html>

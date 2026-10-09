@@ -1,0 +1,78 @@
+# Hindenburg Airship Disaster Theories
+
+Captured: 2026-10-09T08:22:24.046Z
+
+Source: https://www.google.com/search?sca_esv=afb89ae158309890&sxsrf=APpeQnukJyhscj9KdL4AJ-FND_hbXWaKkA%3A1791529679109&udm=50&vsint=&ntc=1&cs=0&sa=X&ved=0CBMQ2_wOahgKEwj4usPzv6yXAxUAAAAAHQAAAAAQtQ8&biw=1707&bih=898&dpr=1.5&atvm=2&sei=VaPIasitPNi3i-gPgdDLsAs&mstk=AUtExfDXZUhk_kRXsvL7IyqohxVNQUAl3F6APj4GKH0GsmgVb1s7tQWXp_PZIuLaFBWhv1wEjTSrH4kAZchJvjZrD9zAf83S-5RKo7x1Vlyz-ZIF2aPo_5sKe4oERBUEjQaCi6p7k1N0qiIBCyezEZ7wIVgbwpyhaKC-plvJrAmQ4cuH8wAgG2M8S1yeti9pMt7hE4CjvlJD7kfs0OWHqGM0aLP_SyOp-lLE_0Fd807VU7phkTaBuwoIGAHA61ctXJIfX2lA9NyXeqJTb3E1HFcKUx2i9bo6zq_p9Z3hqUl6zr--dDQWZaeNGj5jFKViKZcnO9AsXleaDVCGJQ&mtid=qBnBavHvAc2oi-gP4e708AE&csuir=1&aep=26&q=hindenburg+when+one+needle+punctures+the+canvas+and+the+%22helium%22+escapes+or+catches+fire%3F
+
+## Prompt 1 — You
+
+hindenburg when one needle punctures the canvas and the "helium" escapes or catches fire?
+
+## Response 1 — Google AI Mode
+
+The scenario you are describing—where a puncture causes a leak and static electricity ignites the gas—is actually the **leading scientific theory for how the real Hindenburg disaster happened**.
+
+However, two important details in your question need a quick clarification: the airship was filled with **highly flammable hydrogen**, not helium, and the "needle" was likely a **snapped internal steel bracing wire**, not an object from the outside.
+
+### 1. The Lifting Gas was Hydrogen (Not Helium)
+
+The *Hindenburg* was originally designed to use helium, which is completely non-flammable. However, the United States held a monopoly on helium and had banned its export to Nazi Germany. Out of necessity, the Germans had to use **hydrogen**, which is incredibly volatile and explosive when mixed with oxygen.
+
+### 2. The "Needle" was a Snapped Wire
+
+During its final approach to Lakehurst, New Jersey, on May 6, 1937, the *Hindenburg* had to make several sharp, tight turns to align with its mooring mast in stormy weather.
+
+* **The Puncture:** Experts and investigators (including original airship architect Hugo Eckener) believe that the high stress of these sharp turns caused one of the internal steel bracing structural wires to snap.
+* **The Tear:** Like a taut guitar string snapping, the broken wire lashed outward like a needle, slashing into **Gas Cell 4** (one of the fabric bags holding the hydrogen inside the canvas hull).
+
+### 3. The Escape and the Fire
+
+Once the canvas cell was punctured, the hydrogen did not just escape—it mixed with the oxygen between the interior bags and the outer hull, creating a highly combustible fuel air pocket.
+
+Because the airship had just flown through an electrical storm, its outer skin had collected a massive static charge. When the wet mooring lines hit the ground, the internal aluminum framework was instantly grounded, while the fabric skin remained charged. This massive voltage difference caused **electrostatic sparks to leap across the gap**, precisely where the escaped hydrogen was pooling. The gas caught fire instantly, and the entire airship was consumed in just **32 to 34 seconds**.
+
+If you would like to explore this further, I can break down **how 62 of the 97 people on board miraculously survived**, or look into the **"Incendiary Paint" theory** that attempted to blame the canvas skin rather than the hydrogen. Which direction would you like to go?
+
+## Prompt 2 — You
+
+shape of american football where signed distance field thickness of radius is defined as what shape
+
+## Response 2 — Google AI Mode
+
+In the context of Signed Distance Fields (SDFs), the shape of an American football is mathematically defined and rendered using the **Vesica Piscis** (in 2D) or a **Vesica** / **Lemon** shape (in 3D). 
+
+![](data:image/png;base64,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)Inigo Quilez +3
+
+Here is how the thickness, radius, and geometry of this shape are defined in computer graphics and SDF logic:
+
+### 1. The Core 2D Base: Vesica Piscis
+
+In a 2D signed distance field, a football profile is a **Vesica Piscis** (Latin for "fish bladder"). Rather than using a complex formula for a proper prolate spheroid (which is notoriously difficult to calculate as an exact analytic SDF), graphic programmers create a football by taking the **intersection of two congruent circles**. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJyckJCT8/Pz5+flvb28/Pz8bGxvw8PDi4uIgICDZ2dm3t7egoKBZWVmGhoZKSkrDw8NoaGg6OjqmpqaNjY1PT0/MzMzo6Oivr69hYWF/f38AAACVlZURERF3d3cUjdnRAAAEXUlEQVR4nO2YyaKyOgyAaTrIDKJMIniQ93/HvzRVadW70Lq6/TYecypJ00wlCDwej8fj8Xg8Ho/H4/F4PB6Px+N5y/5K42M1RZdDf7hE1Slm4q8Lsj/BjlOz9P0lalbhdZUlEJ+a5XBYplMr/qKgIFceV9FyuEgJSf7qTwwoT5ADpQDAQX4yBtCOwbkigkop51JGaU7iLiiOsZLBuk7aJyVNzEFLIG+b4hMDwqLuKkHuQFQPabDLhrIFLaLxfiikrBjKmOKiVRKqVRVK+Gkczp/oV6TdlWllvEtv0ixCu1j8cG0RrwvzJt3dJadVwi+fa1fULVoAh91DeG7U7uhytynY7bkUbBcFnTSTH75Tvz5GG7B/Nos2m92VufldLsoJa9PgW9IIng3YKSFrh4ekE9sTUSYJko9f65fPUbuFxdhLcVVxMYd3OyfKL+YPe06r7x0g96YOfLvblUa5ALLb9zphEBorwory0oF+dbrrbnvj+QOg8Pa9oqIzf1a3MGWBC3aMKRcYERZiaHDt4yGhJ9Pd4QHo7ET/epirLmGEYVCjUOuIQFjxVpxobJ7a55zRBcIQYnawo/LySKCxCk6Xw+JIv/Sm2m1uhtSI1XCvjbHiLT2xxJUDpLsJ1p1tnQtSVezpdF7/Tycr4WrZlJzpl6VXuds601l1BCjXGpDYCTdRJ0XoxqjqMTdKfRAoA2T0jzIFrB8UV3Z0UYRuZKqzsZPZ19EFoowZ2BPHgfP9LnAIhiE3vZqpIs2k/sUsgtJgevxoCHlLpmq/VdtDdAFjzHbAyPjFsulbJjUBWLGGUwihvaVMBm380Rj4H9S4WTPYZLlVUjveawKTYwforCeJebJ6MLlYbaDnTnMQGVVPBKvnT69a9ZmwxLn+oFAuYFZw19iqzYibhXDVBzfsenXe1OyJQ44dwTBLusTNIGBSq5BXtf8BTgXEaHx1wg+uQ1CBmUi3+SWDEK8fySYMpVGucxDB0Qyah6404nGj28TDqJgvLtvABoK6Huct8315Cs4ZiPsc1I8WZibKuVDWhRlP5hb3WQVOhvFXZKBckNwirBbQyPw8quCsdOCX/DEquybE6fSuoKVkTQnslHoqlxUz+ZUDZNZj5dUuLhM+rz0/S1QpOKr8HAREP9N/uyfiAJpOoAcUzE+cy+V87m4WfQavyqAq7yivhigd0AVE/hkm2zR1z7lSMxCRmzxPvNJFMVyUY9YO2Iun6cwt+pIkb8Uj5PfLYE1wXgrTiju6D77jjN6Oz2kF5HE3168Lyrp1dh98B84loitFsql3GBu0acDxLPrMgKNZ3BrBlupGRe2BxT1albyuGsHW6fd5ya8dILOP6wnAnNBR6vI++A4s/TLgTHEvXoztv2EGewRaSddebb8l+Q3DOpo9nXU48/VtqtP74DsaSl40HGmXPTL/ijJn4llTeOH29f1nkGR+oWlo21/2wS1l/+oN+K5z+0bA4/F4PB6Px+PxeDwej+f/wj+K7jVSoVGXHQAAAABJRU5ErkJggg==)Wikipedia +3
+
+* **The Radius Definition:** The SDF evaluates the distance from a sample point to the center of both overlapping circles. The thickness of the football shape is determined by the radius of these circles and how far apart their centers are offset.
+
+### 2. The 3D Shape: The Vesica (or "Lemon")
+
+To turn this into a 3D American football, the 2D Vesica Piscis SDF is **rotated around its major (long) axis** (a operation known as a *surface of revolution*). In 3D geometry and graphics programming, this exact intersection of two spherical shells is formally called a **lemon** or **3D Vesica**. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/ADP/ADP/ADP/ADP/////hpT/2uH/Smj/s8D/JEv/b4eB3bNwAAAACHRSTlMAQB+z1GXri3bBstgAAAKRSURBVHic7ZrpduMwCIUrGW1xMn3/t602J25s59RARGeG+zd1+Y4QaLsfHyqVSqVSqVSqv0C2yCxyxh0r/9pVP7L4kKaGCSFMVTBBke+KO/Jx+bX+af6kKP+HUMnMD2mscSVmC7YXB6UKVXCceYlhQonLFnYXBSCYo/DTW0OvNO0h2GHhK8ImE/a9I7+RfxoEMzj+M4GB0fFjhBXB2PwvWs2DIBE/xiCZgKJ7EoQGIEbXZ4DQAOQhaLPASMWP0chmoOdApgabghWdAn0SWLn4MVrZOdhmoZMEcLJF0LqxYBHkBSkDCBZBLoMMMHwrspbPAJLxY0S1geuVD8Bi2sBlvv2RBUgpfTIBGEwfKgBp5smDQwOkdONAcJhG2AHSfKEjBApAQaADIDrxA4Ceh4kKkIglSQcg5mHCrEVPAKSSBBaAPBWweeACSOmCQwDMarwLkOZPDILnA8h5QCwQHrMdOALIJXl+NrICYEqSGeB8SbIDnC3JNwCcGwR+gJOLAzvA2UL4t6pgRvRj1k6IWBQZW/HtilsLuFZD5EGBazlGb4qAYUtG2pmy7AkpxzSGXTFyK8QFQD8XkE5GmD3Qd5GOZrhd4DMA/nRMS34X/nh+Y4heAXA3JKTSW8vg7ojIp/K7rPwtmfg9ofxNqfhdsfhtufh7gfiLifibkeSrmf8d74bSL6fib8fyr+dyOVhcJNIOCjkPyd1GI9QMlwH4BT4ikWYE3/xso71sWzfbcDfd1lk5tBjDJnydioNGwe86KitCmADeSuEBpkNPaWMwzcsLnPbWbqotDt/XrtoHRjUyd2dx9xYDPKzFR3EWU3HzFN9Nxa4ZnX8UeheneavX9upXst1VXT5Dx1SpVCqVSqX6j/QFgvdUtSxW0v0AAAAASUVORK5CYII=)YouTube·National Science Foundation News +2
+
+### 3. Alternative SDF Method: Varying Capsule Radius
+
+If your question is referring to how a football is modeled by modifying a basic **capsule** primitive:
+
+* A standard capsule SDF is defined as a fixed-thickness radius swept along a **line segment**.
+* To morph a capsule into a football shape, the radius is no longer treated as a constant. Instead, the **thickness of the radius is defined as a function of the distance along the segment** (pinching down to zero at the endpoints and reaching maximum thickness at the exact center). 
+
+  ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/ADP/ADP/ADP/ADP/////hpT/2uH/Smj/s8D/JEv/b4eB3bNwAAAACHRSTlMAQB+z1GXri3bBstgAAAKRSURBVHic7ZrpduMwCIUrGW1xMn3/t602J25s59RARGeG+zd1+Y4QaLsfHyqVSqVSqVSqv0C2yCxyxh0r/9pVP7L4kKaGCSFMVTBBke+KO/Jx+bX+af6kKP+HUMnMD2mscSVmC7YXB6UKVXCceYlhQonLFnYXBSCYo/DTW0OvNO0h2GHhK8ImE/a9I7+RfxoEMzj+M4GB0fFjhBXB2PwvWs2DIBE/xiCZgKJ7EoQGIEbXZ4DQAOQhaLPASMWP0chmoOdApgabghWdAn0SWLn4MVrZOdhmoZMEcLJF0LqxYBHkBSkDCBZBLoMMMHwrspbPAJLxY0S1geuVD8Bi2sBlvv2RBUgpfTIBGEwfKgBp5smDQwOkdONAcJhG2AHSfKEjBApAQaADIDrxA4Ceh4kKkIglSQcg5mHCrEVPAKSSBBaAPBWweeACSOmCQwDMarwLkOZPDILnA8h5QCwQHrMdOALIJXl+NrICYEqSGeB8SbIDnC3JNwCcGwR+gJOLAzvA2UL4t6pgRvRj1k6IWBQZW/HtilsLuFZD5EGBazlGb4qAYUtG2pmy7AkpxzSGXTFyK8QFQD8XkE5GmD3Qd5GOZrhd4DMA/nRMS34X/nh+Y4heAXA3JKTSW8vg7ojIp/K7rPwtmfg9ofxNqfhdsfhtufh7gfiLifibkeSrmf8d74bSL6fib8fyr+dyOVhcJNIOCjkPyd1GI9QMlwH4BT4ikWYE3/xso71sWzfbcDfd1lk5tBjDJnydioNGwe86KitCmADeSuEBpkNPaWMwzcsLnPbWbqotDt/XrtoHRjUyd2dx9xYDPKzFR3EWU3HzFN9Nxa4ZnX8UeheneavX9upXst1VXT5Dx1SpVCqVSqX6j/QFgvdUtSxW0v0AAAAASUVORK5CYII=)YouTube·CGMatter +1
+
+Would you like the **GLSL shader code** for an exact 2D Vesica/3D football SDF, or are you looking to implement a specific **distortion operation** (like inflating or rounding) on an existing shape?
+
+### Source links
+
+- [Inigo Quilez](https://iquilezles.org/articles/distfunctions/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Vesica_piscis)
+- [YouTube · National Science Foundation News](https://www.youtube.com/watch?v=ZrB18WP3jDI)
+- [YouTube · CGMatter](https://www.youtube.com/watch?v=LyQWZRfWotQ)

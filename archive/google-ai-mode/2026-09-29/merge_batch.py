@@ -28,6 +28,9 @@ def clean_url(value):
     q.pop('google_abuse', None)
     return urlunparse(u._replace(query=urlencode(q, doseq=True)))
 
+def normalized_text(item):
+    return re.sub(r'\s+', '', item.get('text', '').removeprefix('You said: ').replace('\u200b', ''))
+
 scope = read(ROOT / 'scope.json')
 inventory = read(intake / 'open-tabs.json')
 results = {}
@@ -63,20 +66,31 @@ for t in inventory['tabs']:
         assert not any('[Truncated]' in (i.get('html', '') + ''.join(i.get('htmlChunks', []))) for i in data['items'])
         data.update(ordinal=ordinal, url=clean_url(data['url']))
         if old:
-            if data['counts']['responses'] <= old['counts']['responses']:
+            same_text = len(data['items']) == len(old['items']) and all(
+                a['role'] == b['role'] and normalized_text(a) == normalized_text(b)
+                for a,b in zip(data['items'], old['items']))
+            media_added = any(any(a.get(k) and a.get(k) != b.get(k)
+                for k in ['widgets','attachmentAudit','attachmentNotes'])
+                for a,b in zip(data['items'],old['items']))
+            if data['counts']['responses'] < old['counts']['responses'] or (same_text and not media_added):
                 record.update(status='previous_capture_retained', counts=old['counts'])
                 changes.append(record)
                 continue
             write(ROOT / 'revisions' / f'{args.batch}-{ordinal:02d}-before.json', old)
             # Preserve already archived markup and diagrams on unchanged turns.
             for i,item in enumerate(data['items']):
-                if i < len(old['items']) and item['role'] == old['items'][i]['role'] and item['text'].strip() == old['items'][i]['text'].strip():
-                    data['items'][i] = old['items'][i]
+                if i < len(old['items']) and item['role'] == old['items'][i]['role'] and normalized_text(item) == normalized_text(old['items'][i]):
+                    saved = dict(old['items'][i])
+                    for key in ['attachmentAudit','attachmentNotes']:
+                        if item.get(key): saved[key] = item[key]
+                    if item.get('widgets'):
+                        saved['widgets'] = saved.get('widgets', []) + [w for w in item['widgets'] if w not in saved.get('widgets', [])]
+                    data['items'][i] = saved
             record.update(status='updated', previousCounts=old['counts'])
         else:
             record['status'] = 'added'
             new_ordinals.append(ordinal)
-        if t['id'] == '1037241492':
+        if t['id'] == '1037241492' and (intake / '1492-widgets.json').exists():
             widget_data = read(intake / '1492-widgets.json')
             for widget in widget_data:
                 item = [i for i in data['items'] if i['role'] == 'google'][widget['response']-1]
@@ -100,8 +114,10 @@ for t in inventory['tabs']:
 
 at = datetime.now(timezone.utc).isoformat()
 update = dict(at=at, date=args.batch[:10], batchId=args.batch,
-              openAiModeTabs=len(inventory['tabs']), uniqueOpenConversations=len(seen),
-              method='Read-only DOM extraction from open Chrome tabs, with saved-URL recovery for new conversations.',
+              openAiModeTabs=inventory.get('openAiModeTabs', len(inventory['tabs'])),
+              uniqueOpenConversations=inventory.get('uniqueOpenConversations', len(seen)),
+              historyConversations=inventory.get('historyConversations', 0),
+              method=inventory.get('method', 'Read-only DOM extraction from open Chrome tabs, with saved-URL recovery for new conversations.'),
               records=changes, newOrdinals=new_ordinals)
 scope['updatedAt'] = at
 write(ROOT / 'scope.json', scope)

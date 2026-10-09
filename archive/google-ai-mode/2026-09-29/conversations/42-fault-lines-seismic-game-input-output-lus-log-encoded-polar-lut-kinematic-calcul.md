@@ -1,8 +1,8 @@
 # fault lines seismic game input output LUS log encoded polar LUT kinematic calculus mosTADPOLE (the green one)
 
-Captured: 2026-09-29T07:06:27.684Z
+Captured: 2026-10-09T08:33:11.774Z
 
-Source: https://www.google.com/search?q=fault+lines+seismic+game+input+output+LUS+log+encoded+polar+LUT+kinematic+calculus+mosTADPOLE+%28the+green+one%29&sca_esv=5aa1eea069a5c1c6&sxsrf=APpeQnvkXuJCoF3aLxqxbo272USZaBbZ0g%3A1790297966318&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwja6cvSw4iXAxUD0QIHHQzACAMQ2J8OegQIEhAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfCoH06HRW1wmu4Y9a4XYTSjeIV0sfT4HyGqoaca6HvFRN26uiYry4IjoLCvTI7Xg-a5N-JtX2Hbx1OxJWupItdc2EG2PjOckRSJ__4r3W6HNwGx2Lyzw16rct5lmYPrrACbOe4Lq8MYNHtCyxEtvn11EwNvHfEvEkoC-dK-9nPBqvuvy_v1-q054ckJlhhH9yXppD1OBvj27UwcTLcm5b1GITrR8VDGllIicV5vfs-YoVjQ_zUrGDEHEEo7NeIYZPwmUzjPWPocRfDKBFiDpIuhxNmw5pMvuZI_8nqAi8pc6eJ6b-kvojQWN6V8Wsepk5V8D2ijBbRRvg&csuir=1&mtid=cce1auGMNvili-gPvLzIyA4&udm=50
+Source: https://www.google.com/search?q=fault+lines+seismic+game+input+output+LUS+log+encoded+polar+LUT+kinematic+calculus+mosTADPOLE+%28the+green+one%29&sca_esv=5aa1eea069a5c1c6&sxsrf=APpeQnvkXuJCoF3aLxqxbo272USZaBbZ0g%3A1790297966318&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwja6cvSw4iXAxUD0QIHHQzACAMQ2J8OegQIEhAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfCpbHuLFvQB-PyyXt15VVnBlKHho5V5RbbdbGYFwOYBPi627IMEMt1rqBoICUnW49LXEx0jT4J27o2htOQE5jHQajJUUVfBoWl250-Fk8LDvRSXxyqndr4tsTHTWuR9Q7UWla3BLvVpWRLhreMMn9Ycd0Ig_-Ry0PU67yOUNmLl-yvhwK2PGimfICgdlqOFCiJ6kuOqtxNFtpuXgB6fLdUhTzY6jWirFvF70vtGDs8zoF3cf_z88Kr1bGrin7tIqm98IxCbJ-I2Yr0rzJz-PIm97QpFEolCFEcYLz6FKUUcte9xKvlQVyUt3rgvIjMpWQzzkRxslURu0w&csuir=1&mtid=cce1auGMNvili-gPvLzIyA4&udm=50
 
 ## Prompt 1 — You
 
@@ -275,14 +275,6 @@ To ensure that a simulation yields the exact same byte-level output on an expens
 ---
 
 Browsing ideas
-
-Unpacking request
-
-Breaking down the concept
-
-Mapping the flow
-
-Assembling the logic
 
 AI-generated. Don't enter sensitive personal info.
 

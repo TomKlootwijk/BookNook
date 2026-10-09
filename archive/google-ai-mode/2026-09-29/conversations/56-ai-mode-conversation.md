@@ -8,6 +8,8 @@ Source: https://www.google.com/search?sca_esv=1ef16b6696f8b5b3&hl=en-US&lns_surf
 
 You sent: 1 image
 
+Attachment availability: Google displayed 1 unavailable uploaded-image placeholder(s) during this capture. The prompt and response are preserved; the original image pixels were not served by Google.
+
 ## Response 1 — Google AI Mode
 
 **The complete formula hidden under the blue highlight is:**

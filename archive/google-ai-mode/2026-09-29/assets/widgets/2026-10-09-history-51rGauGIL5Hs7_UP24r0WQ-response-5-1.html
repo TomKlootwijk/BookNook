@@ -1,0 +1,51 @@
+<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data: 'self'"><style>
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif;
+      }
+      body {
+        background-color: #f7f8fa;
+        color: #56595E;
+        border-radius: 16px;
+      }
+      .chart-container-wrapper {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      .chart-header {
+        white-space: pre-wrap;
+        word-break: break-word;
+        display: none;
+        padding: 16px 16px 0 16px;
+        flex-shrink: 0;
+        font-size: 16px;
+        font-weight: bold;
+        color: #1F1F1F;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif;
+      }
+      #chart-container {
+        
+        flex-grow: 1;
+        min-height: 0;
+        
+        position: relative;
+        padding: 8px 16px 16px 16px;
+        box-sizing: border-box;
+      }
+      canvas {
+        width: 100% !important;
+        height: 100% !important;
+      }
+    </style></head><body class="">
+<div class="chart-container-wrapper">
+<div class="chart-header" id="js-chart-title" style="display: block;">Calculation Breakdown of Seconds from Birth to Age 16</div>
+<div id="chart-container">
+<canvas height="511" id="myChart" style="display: block; box-sizing: border-box; height: 340.667px; width: 620px;" width="930"></canvas>
+</div>
+</div></body></html>

@@ -1,6 +1,6 @@
-# vivisectie ank glyph
+# Vivisectie Ank Glyph
 
-Captured: 2026-10-08T05:03:09.512Z
+Captured: 2026-10-09T08:21:27.718Z
 
 Source: https://www.google.com/search?q=vivisectie+ank+glyph&sca_esv=936417aed4b7c340&sxsrf=APpeQnvaOrRVfmdyCpp9weoTMum3Xtgo-w%3A1791091353230&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiohfqez5-XAxW23AIHHQhnEmsQ2J8OegQIGBAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfBurUriZE9n7FtegIme8Ex4r64tuP8y1oY_yZV_5gZGApcorbhRTRBQ9-_4qEhWHm_vZJeAYcfkiCnshvMuYJ3S4mQn6c8pHXpU8yoPSP6Qc4K9XCNLfhG0lm3yLS8KSWOeLcjcfjq7hosCJVUrxt45uQF5oceJ107H-qjM9v6W7NyJqgNAZxRv107UrHjmdhbzJcKfwbFZGVuYOen7cIEPHhXU7B3PRM-smYUd56yq82E_QOzW4YcNJCOyykRTlTAPuWNHvnbqBMe9I5VckjFzD_YsvkZO1GGv245ix6L7qKTWHKBsGHH0u91DPcpUJ95ut9g9JulBuQ&csuir=1&mtid=nOLBarerJ-X8i-gPtJOCwAc&lns_mode=cvst&udm=50
 
@@ -38,6 +38,8 @@ Laat het me weten, dan zoek ik gericht verder naar die specifieke betekenis!
 ## Prompt 2 — You
 
 You sent: 1 image and said: nagelschaal knippertje haarlemmet gebogen (als symbolische paraaf voor het knippen als microbioloog arts resident see) zoals mijn (Tom Klootwijk NL200678942 10-07-1990) huidige paraaf, waarbij het een krul is met een 90 graden gebogen lus deel en als je het 2d plat ziet is het een veer schaartje wat je kan gebruiken voor...
+
+Attachment availability: Google displayed 1 unavailable uploaded-image placeholder(s) during this capture. The prompt and response are preserved; the original image pixels were not served by Google.
 
 ## Response 2 — Google AI Mode
 

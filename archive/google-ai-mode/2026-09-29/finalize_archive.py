@@ -43,13 +43,38 @@ with zipfile.ZipFile(zip_path,'w',compression=zipfile.ZIP_DEFLATED,compresslevel
             z.write(path,'archive/'+str(path.relative_to(root)).replace('\\','/'))
     z.write(pdf,filename+'.pdf')
 with zipfile.ZipFile(zip_path) as z:assert z.testzip() is None
+zip_parts=[]
+if zip_path.stat().st_size > 95*1024*1024:
+    # Each volume is an ordinary ZIP. Extract all into the same directory.
+    with zipfile.ZipFile(zip_path) as source:
+        volume=None;used=0
+        try:
+            for member in source.infolist():
+                estimate=member.compress_size+len(member.filename.encode('utf8'))*2+256
+                if volume is None or used+estimate>90*1024*1024:
+                    if volume:volume.close()
+                    part=zip_path.with_name(filename+f'-part-{len(zip_parts)+1:02d}.zip')
+                    zip_parts.append(part)
+                    volume=zipfile.ZipFile(part,'w',compression=zipfile.ZIP_DEFLATED,compresslevel=6)
+                    used=0
+                volume.writestr(member.filename,source.read(member))
+                used+=estimate
+        finally:
+            if volume:volume.close()
+    for part in zip_parts:
+        assert part.stat().st_size < 100*1024*1024
+        with zipfile.ZipFile(part) as z:assert z.testzip() is None
+archive_links='- [Portable archive ZIP](output/'+filename+'.zip)\n'
+if zip_parts:
+    archive_links='- Portable archive volumes (extract all into one directory): '+', '.join('[Part '+str(i+1)+'](output/'+part.name+')' for i,part in enumerate(zip_parts))+'.\n'
 (workspace/'README.md').write_text(
     '# BookNook\n\nGoogle AI Mode archive updated '+export_date+'.\n\n'
     '- [Combined PDF](output/pdf/'+filename+'.pdf)\n'
     '- [Browse HTML and Markdown transcripts](archive/google-ai-mode/2026-09-29/index.html)\n'
-    '- [Portable archive ZIP](output/'+filename+'.zip)\n'
+    +archive_links+
     '- [Capture manifest](archive/google-ai-mode/2026-09-29/manifest.json)\n\n'
     'Coverage: '+str(manifest['capturedCount'])+' of '+str(manifest['scopeCount'])+' conversations in the cumulative archive, '
-    +str(prompts)+' prompt/response pairs. '+str(len(manifest['missing']))+' missing conversations are recorded in the manifest and PDF.\n', encoding='utf-8')
+    +str(prompts)+' prompt/response pairs. '+str(len(manifest['missing']))+' missing conversations are recorded in the manifest and PDF.\n\n'
+    +'The PDF and [media status](archive/google-ai-mode/2026-09-29/media-status.json) identify media that Google did not serve: 27 uploaded images, one chart without plotted marks, and two previously recorded unavailable doodles. All available media in this update has been bundled.\n', encoding='utf-8')
 
 print(json.dumps({'pdfPages':len(reader.pages),'pdfBytes':pdf.stat().st_size,'verifiedPrompts':prompts,'verifiedResponses':responses,'bookmarks':len(manifest['conversations'])+2,'zipBytes':zip_path.stat().st_size,'chapterPages':starts},indent=2))

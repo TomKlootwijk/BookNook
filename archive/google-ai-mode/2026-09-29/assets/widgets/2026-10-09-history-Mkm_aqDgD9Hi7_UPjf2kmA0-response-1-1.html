@@ -1,0 +1,251 @@
+<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data: 'self'"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #FFFFFF;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #E9EBF0 !important;
+        border: 1px solid #DCDFE5 !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #0A0A0A !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #0A0A0A !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #56595E !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) > :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style></head><body>
+<div class="chart-container-wrapper" style="background-color: rgb(247, 248, 250);">
+<div class="chart-header" id="js-chart-title" style='font-family: "Google Sans", Roboto, Arial, sans-serif; font-size: 16px; font-weight: 500; padding-bottom: 0px; word-break: break-word; white-space: normal; line-height: 1.4; color: rgb(10, 10, 10);'>Economic Contraction Timeline Post-Pension Disruption</div>
+<div id="vis-wrapper">
+<div aria-label="Vega visualization" aria-roledescription="visualization" class="vega-embed fit-x fit-y" id="vis" role="graphics-document" style="cursor: default;"><svg class="marks" height="475" style="background-color: rgb(247, 248, 250);" version="1.1" viewbox="0 0 619 475" width="619" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g fill="none" stroke-miterlimit="10" transform="translate(55,44)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h547v383h-547Z" fill="transparent"></path><g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,383.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,-383)" x2="0" y2="383"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(182,-383)" x2="0" y2="383"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(365,-383)" x2="0" y2="383"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(547,-383)" x2="0" y2="383"></line></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#959BAB" stroke-width="1" transform="translate(0,383)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,345)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,306)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,268)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,230)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,192)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,153)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,115)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,77)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,38)" x2="547" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="547" y2="0"></line></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-label="X-axis titled 'Weeks Post-Halt' for a linear scale with values from 1.0 to 4.0" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,383.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(182,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(365,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(547,0)" x2="0" y2="5"></line></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="start" transform="translate(0.1000000000000208,15)">1</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(182.36666666666667,15)">2</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(364.6333333333334,15)">3</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(546.9000000000001,15)">4</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="547" y2="0"></line></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(273.5,30)">Weeks Post-Halt</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-label="Y-axis titled 'Percentage of Baseline (%)' for a linear scale with values from 0 to 200" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,383)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,345)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,306)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,268)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,230)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,192)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,153)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,115)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,77)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,38)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="-5" y2="0"></line></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,386)">0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,347.7)">20</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,309.40000000000003)">40</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,271.09999999999997)">60</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,232.79999999999998)">80</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,194.5)">100</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,156.20000000000002)">120</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,117.90000000000002)">140</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,79.59999999999998)">160</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,41.29999999999999)">180</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,3)">200</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,383)" x2="0" y2="-383"></line></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(-27.6845703125,191.5) rotate(-90) translate(0,-2)">Percentage of Baseline (%)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-roledescription="group mark container" class="mark-group role-scope view_1_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h547v383h-547Z"></path><g><g aria-roledescription="line mark container" class="mark-line role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object"><path aria-label="x: 1; y: 100; series: Consumer Spending" aria-roledescription="line mark" d="M0.1,191.5L182.367,325.55L364.633,344.7L546.9,354.275" role="graphics-symbol" stroke="#3364f0" stroke-width="3"></path></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h547v383h-547Z"></path><g><g aria-roledescription="line mark container" class="mark-line role-mark view_1_marks" clip-path="url(#clip2)" role="graphics-object"><path aria-label="x: 1; y: 100; series: Social Service Demand" aria-roledescription="line mark" d="M0.1,191.5L182.367,95.75L364.633,38.3L546.9,0" role="graphics-symbol" stroke="#de7300" stroke-width="3"></path></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark layer_1_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object"><path aria-label="x: 1; y: 100; series: Consumer Spending" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#3364f0" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(0.1000000000000208,191.5)"></path><path aria-label="x: 2; y: 30; series: Consumer Spending" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#3364f0" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(182.36666666666667,325.55)"></path><path aria-label="x: 3; y: 20; series: Consumer Spending" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#3364f0" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(364.6333333333334,344.7)"></path><path aria-label="x: 4; y: 15; series: Consumer Spending" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#3364f0" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(546.9000000000001,354.27500000000003)"></path><path aria-label="x: 1; y: 100; series: Social Service Demand" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(0.1000000000000208,191.5)"></path><path aria-label="x: 2; y: 150; series: Social Service Demand" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(182.36666666666667,95.75)"></path><path aria-label="x: 3; y: 180; series: Social Service Demand" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(364.6333333333334,38.29999999999999)"></path><path aria-label="x: 4; y: 200; series: Social Service Demand" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#de7300" opacity="1" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(546.9000000000001,0)"></path></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_2_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object"><text aria-label="x: 1; y: 100; label: Crossover (1, 100%)" aria-roledescription="text mark" fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="bold" opacity="1" role="graphics-symbol" text-anchor="start" transform="translate(5.100000000000023,194.5)">Crossover (1, 100%)</text></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark layer_3_marks" clip-path="url(#clip5)" pointer-events="none" role="graphics-object"><path aria-label="x: 1; y: 100; series: Consumer Spending" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#3364f0" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(0.1000000000000208,191.5)"></path><path aria-label="x: 2; y: 30; series: Consumer Spending" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#3364f0" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(182.36666666666667,325.55)"></path><path aria-label="x: 3; y: 20; series: Consumer Spending" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#3364f0" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(364.6333333333334,344.7)"></path><path aria-label="x: 4; y: 15; series: Consumer Spending" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#3364f0" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(546.9000000000001,354.27500000000003)"></path><path aria-label="x: 1; y: 100; series: Social Service Demand" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(0.1000000000000208,191.5)"></path><path aria-label="x: 2; y: 150; series: Social Service Demand" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(182.36666666666667,95.75)"></path><path aria-label="x: 3; y: 180; series: Social Service Demand" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(364.6333333333334,38.29999999999999)"></path><path aria-label="x: 4; y: 200; series: Social Service Demand" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#de7300" opacity="0" role="graphics-symbol" stroke="#f7f8fa" stroke-width="2" transform="translate(546.9000000000001,0)"></path></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark hover_target_marks" clip-path="url(#clip6)" role="graphics-object"><path aria-label="x: 1; y: 100; Series: Consumer Spending; Weeks Post-Halt: 1; Percentage of Baseline (%): 100" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(0.1000000000000208,191.5)"></path><path aria-label="x: 2; y: 30; Series: Consumer Spending; Weeks Post-Halt: 2; Percentage of Baseline (%): 30" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(182.36666666666667,325.55)"></path><path aria-label="x: 3; y: 20; Series: Consumer Spending; Weeks Post-Halt: 3; Percentage of Baseline (%): 20" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(364.6333333333334,344.7)"></path><path aria-label="x: 4; y: 15; Series: Consumer Spending; Weeks Post-Halt: 4; Percentage of Baseline (%): 15" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(546.9000000000001,354.27500000000003)"></path><path aria-label="x: 1; y: 100; Series: Social Service Demand; Weeks Post-Halt: 1; Percentage of Baseline (%): 100" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(0.1000000000000208,191.5)"></path><path aria-label="x: 2; y: 150; Series: Social Service Demand; Weeks Post-Halt: 2; Percentage of Baseline (%): 150" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(182.36666666666667,95.75)"></path><path aria-label="x: 3; y: 180; Series: Social Service Demand; Weeks Post-Halt: 3; Percentage of Baseline (%): 180" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(364.6333333333334,38.29999999999999)"></path><path aria-label="x: 4; y: 200; Series: Social Service Demand; Weeks Post-Halt: 4; Percentage of Baseline (%): 200" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(546.9000000000001,0)"></path></g><g aria-label="Symbol legend for fill color and stroke color with 2 values: Consumer Spending, Social Service Demand" aria-roledescription="legend" class="mark-group role-legend" role="graphics-symbol"><g transform="translate(0,-28)"><path aria-hidden="true" class="background" d="M0,0h278v12h-278Z" pointer-events="none"></path><g><g class="mark-group role-legend-entry"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g aria-roledescription="group mark container" class="mark-group role-scope" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h125.400390625v12h-125.400390625Z" opacity="1" pointer-events="none"></path><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M-5,0L5,0" fill="#3364f0" opacity="1" stroke="#3364f0" stroke-width="1.5" transform="translate(6,6)"></path></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,10)">Consumer Spending</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g><g transform="translate(137,0)"><path aria-hidden="true" class="background" d="M0,0h140.72265625v12h-140.72265625Z" opacity="1" pointer-events="none"></path><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M-5,0L5,0" fill="#de7300" opacity="1" stroke="#de7300" stroke-width="1.5" transform="translate(6,6)"></path></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,10)">Social Service Demand</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g></g><defs><clippath id="clip1"><rect height="383" width="547" x="0" y="0"></rect></clippath><clippath id="clip2"><rect height="383" width="547" x="0" y="0"></rect></clippath><clippath id="clip3"><rect height="383" width="547" x="0" y="0"></rect></clippath><clippath id="clip4"><rect height="383" width="547" x="0" y="0"></rect></clippath><clippath id="clip5"><rect height="383" width="547" x="0" y="0"></rect></clippath><clippath id="clip6"><rect height="383" width="547" x="0" y="0"></rect></clippath></defs></svg><form class="vega-bindings"></form></div>
+</div>
+</div>
+
+
+</body></html>

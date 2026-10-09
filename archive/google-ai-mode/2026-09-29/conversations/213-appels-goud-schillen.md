@@ -1,0 +1,79 @@
+# Appels Goud Schillen
+
+Captured: 2026-10-09T08:16:54.238Z
+
+Source: https://www.google.com/search?sca_esv=afb89ae158309890&sxsrf=APpeQnukJyhscj9KdL4AJ-FND_hbXWaKkA%3A1791529679109&udm=50&vsint=&ntc=1&cs=0&sa=X&ved=0CA0Q2_wOahgKEwj4yfaTvayXAxUAAAAAHQAAAAAQ_F4&biw=1707&bih=898&dpr=1.5&atvm=2&mstk=AUtExfDnkHi5NzryeVW2f6ksB1SdkHa3yg_BpNgKdI26SEr-96DJaB-ssJIARw6l305Grbt_6RPwP8UdnLFvFGvw5_RUQgbGtmWo-Yc2YL3-caFzgJea2QCc67TbT-e1bsb7TR50J7OGBAxY7mvSqQeRjWkQK1D6xZMXL7qP3aqxaCcgGC3lT8bXLDQZFnKDRu6WoNCMYFd1hZmUEqCtywCsq0iJpWaSoAPNxXFKcJovyYfzcrkNsCmPSY4M9jsPcB3KN4_x0rL5r6EQkURn033tmymCzl_nHQQkcpGWfQzXnCmM21Gc5nWZ1_TkYvjm7czBInKSd9iW9Y3nZQ&mtid=b-nDaoqbJ5mMi-gPtdnayA4&csuir=1&aep=26&q=appeltjes+goud+te+schillen+hebben+met+sliver
+
+## Prompt 1 — You
+
+appeltjes goud te schillen hebben met sliver
+
+## Response 1 — Google AI Mode
+
+Je hebt hier waarschijnlijk **twee verschillende Nederlandse uitdrukkingen per ongeluk met elkaar vermengd**, gecombineerd met een klein typefoutje ("sliver" in plaats van zilver).
+
+De precieze formulering die je noemt bestaat niet, maar de elementen die je gebruikt horen bij de volgende twee bekende gezegden:
+
+### 1. Een appeltje met iemand te schillen hebben
+
+Als je "**een appeltje met iemand te schillen hebt**", betekent dit dat je **kwaad bent op iemand** en nog een onaangename zaak met diegene moet rechtzetten of uitpraten. Je wilt die persoon ergens op aanspreken of de waarheid vertellen. Bij deze uitdrukking horen echter *geen* edelmetalen zoals goud of zilver. 
+
+![](data:image/png;base64,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)Genootschap Onze Taal +1
+
+### 2. Gouden appelen op zilveren schalen
+
+De combinatie van goud, zilver en appels komt wél voor in de uitdrukking "**gouden appelen op zilveren schalen**" (afkomstig uit de Bijbel, Spreuken 25:11). Dit betekent dat **iets buitengewoon mooi, verstandig of perfect verwoord is**. Het staat symbool voor de kunst van het overtuigend en fraai spreken (woorden die precies op het juiste moment worden uitgesproken). 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAADnElEQVRYhcWZzUtUURjGf02GhRQudJFQmwQhCBfn1iIXA2FY5mdCVNQmWrWP/oygdlJhX2aZoFIoJIlQLeyehbRy0UIJg2oxIBJSQYt7xsaZufc+547Qs5m59z7nPc+897wf58wuE5pOoAkNszawBZErw4RmN9AFHBDoK3XAIHBDtH8duJ9RWxJagdci91YOeOJhvNdfj4RukVcAxnJACCyJg/ImNC2ZZMXALY0ekb5gA7uas4H9BUyKgxqB05nUxaMV6BC5YwA5dzENbIoDBz1FpaEbqBd434E5+Cd6if+wRDyXxowN7A9wom1g/+BcL6AROOutsDp8lsbz4pdcyc1pYEM0sFNZpB9taawA88WLLdE2sJ+B9+JknSY0h73klcEtDfXHj9vA/ixe5MoevhCNNKCvxTgcBY6L3JelF+Wip4iiVEG/yIvDENrSWCSqJVvYJtpF54w4ad6Epk3kboMJzR5gQKRPuESxhXJPQ0mUpqCe7N4OgHaBtwFMlN+sJnoeWBYnH3IB5YvzIm/OJYhtqBDtorTi18XgBJrHtmBCsw89a1StHdU8XSSrZX1I5BXRASixsAbMVntQVbQN7Cf0nD3kAkvFBZE3GbfhiPM0wKhovA04qRBNaBqBc6Ld2D4/SfQU0StSoHrvDKA0WxW5uRSxol3OVvvsAROa/QLvomhvzPX5VZHkadC3Yi2kvHbXq+QFWwVSakWa6EXgnTARpFe4HqK2Ng3TNrCJyzJRtCufqre7UjYHl0Q7j5MemtA0pXkaokKjNFGxmwMTmmNoHd0SsJDCOZgq2gXkuDAhxGcRtaN7mBSADocUTwM8QquQHeWdnys8StYooLUPzaroEPgo8Bqo7PzyaGV72gZ2VeDtlUS7gLyncIHLZWX9qjjugcj7rXoaogq5IvDacWXdZRNl574IfBB1bMiiXfPyVKRfc5+9QLPAHxYCsIivPp6GKCCVY4Y+E5ojwBWBu4bevwN88RJtA7sMvBKojcAwWm4e9Tzz/ubradAD8hTpuXmT6O3JsIFdzyJ6gShwdgKzbsPhBW/RLmCGfcfFIJOdLJ6GKHCU9JeEReBNloGZRLvAGckytgQ+aW4bsnoaogqW9Z+uFfRzwwpkFu36BLX7K8eIDex61rlr8TTAXfTzkSIK1BjINYl26arqgUoCRtO2U2mo1dMAtz24m8CdWiesWbQN7ALwVqRPulagJtTVasDhJtAn8J7txGR/AYkH+ZAq9rjBAAAAAElFTkSuQmCC)VoedingOnline +3
+
+Bedoelde je een van deze twee uitdrukkingen, of probeerde je hiermee **iets specifieks te beschrijven** (zoals een situatie waarin je met iemand in conflict bent over geld of waardevolle spullen)? Laat het gerust weten, dan help ik je verder!
+
+### Source links
+
+- [Genootschap Onze Taal](https://onzetaal.nl/schatkamer/lezen/uitdrukkingen/een-appeltje-met-iemand-te-schillen-hebben)
+- [VoedingOnline](https://www.voedingonline.nl/page/Nieuws/Bericht/7/Spreekwoorden-met-appel)
+
+## Prompt 2 — You
+
+klomp t
+
+## Response 2 — Google AI Mode
+
+**"Klomp" wordt altijd met een 'p' aan het einde gespeld (klomp)**, nooit met een 't'. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAhFBMVEX4aST4aiX4bCn4cTD+7OP4biv4by3+6d/+7+j4dTX4eTz5h1H5jlr5iVP5i1b7tJL939H8x676nnH80bz+8uz4djj8y7P94tX8waX92cf5k2L4fUL5gkj+5dn/9vL6pHr6mmv7sIz7u5z7rIb7p3/6nG781cH6kl/8xKn9z7n7so/7t5dyvmj8AAADYklEQVRIic1V2wJjMBBtCAlxSQgREhSl6v//b0Orpdt93zy1k5wzlzMzLpf/8ABzftn+ZQQ+iZR3vrV8EoT+F2J9SDJwccoijwPrdGffipQlXyxO+3zoJhKOjXu682JRwyJyzixXqu+TY4AzFFf75LwqUM3Hxj6zdIhelXWxok6jLju6t4MZci4e3ikvxeDY2sDkMkjMyNG9P1Ckoe5OaXsm9HzL1W5TLJMjm4mIjhSx8JiZv2hUhCvAChjWi3+4UzNMuxnJJjsaGdxSMADSIczUoX6BxEUSU91Vh0KQkae3LVVQDZKn5B0v8HuNluA2w/zDAuyW8oJscgE3YJy2b5kAuUPRK1LA8cNiVTGCy4sAqA6jWL0BwYjTJFMxop9SWGGORb+HWD0Qz8O9O6yS4i6y/Z6i7s3iTCbsZC+CqXstpxcAeA1CQ2VlyYzTAOwp3DQvol16r81rvYq4cZEOChOLG3WYlg54pXCFsK/2IFyy8P0vMIrisbTNm9548p9v7Ilh8WlfkDWIs8l+/u4hLFaNvYSajnVfLJTL9tOM3o3WtNkIrGrhIlmJ7TKFMtkCXVnwC/z0WM4mpk1GO2C1DNwt0A6hfmMBflzr5NDRjnrA+uFvA9vIOt0UBdmN8vjNQo/zBLxW1FvgwCiKi63HLk401nfinljeLiJZy8a4AKrAYngOgkVy/jLGemfZ1SUz37rDiXI+hk/nluogWowRmL7aWXZAtZgyEGD0lZxV4FVtU8y7icQKGR4j9wgwSVCeB65DzFy9R9MlKZ9L28puI95Z3i7UzGWS2VMO6bD3KKjumA6VrWJh1sTlfPwC61hl5QhZ8BYoi40/4gUM0d77Apg7yCbftMPjI5CdjHCefCP5XLpfAK+ROG3Dq9DDUdACytZvJeoq6wvgRAzLJsmRTA7ZWT2iTThQ3X+/NyPyQGJZJMqno7URurgyTZu/lv8FDALNKRLX6mhsRyRTiub2B8CsQqHNDjyt4LDQSCDxWREHwMQQxjwtT9GaVWCMXywvgHqIusb36MTltiOvv1lex05kXYvr2TkIcl5jFvwd0bqPUvMVac/OgRm7Wi8/UljJ7hAycr5aZwePSfYToPp5PhV180u6dCG/UjDSqSBQ3y1zsUmgftToCfnxNd+s/3j/v5w/oGJEZo43swIAAAAASUVORK5CYII=)Woorden.org
+
+Omdat je zoekterm erg kort is, kan je hier verschillende dingen mee bedoelen:
+
+### 1. Spreekwoorden en uitdrukkingen
+
+Als je zocht naar de bekende Nederlandse gezegden met het woord klomp, zijn dit de belangrijkste:
+
+* **"Nou breekt mijn klomp!"** – Dit zeg je als je ergens **totaal door verrast bent** of als je je grote verbazing uitspreekt.
+* **"Dat kun je op je klompen aanvoelen."** – Dit betekent dat iets **heel duidelijk of volkomen logisch** is; je had het van mijlenver kunnen zien aankomen.
+* **"Met de klompen op het ijs komen."** – Heel **onvoorzichtig handelen** of je begeven op een terrein waar je eigenlijk niets van afweet. 
+
+  Encyclo.nl +1
+
+### 2. Vervoeging van het werkwoord (Klompen)
+
+Mocht je denken aan een werkwoordsvorm: het werkwoord *klompen* bestaat in modern Nederlands eigenlijk niet (behalve heel specifiek historisch voor het maken of dragen van klompen). Als het als werkwoord gebruikt zou worden, zou de stam *klomp* zijn. Bij de 'jij'- of 'hij'-vorm plak je er in de tegenwoordige tijd een -t achter: **hij klompt** (bijvoorbeeld: *hij klompt door de modder*), al hoor en zie je dit in de praktijk bijna nooit. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJyckJCT8/Pz5+flvb28/Pz8bGxvw8PDi4uIgICDZ2dm3t7egoKBZWVmGhoZKSkrDw8NoaGg6OjqmpqaNjY1PT0/MzMzo6Oivr69hYWF/f38AAACVlZURERF3d3cUjdnRAAAEXUlEQVR4nO2YyaKyOgyAaTrIDKJMIniQ93/HvzRVadW70Lq6/TYecypJ00wlCDwej8fj8Xg8Ho/H4/F4PB6Px+N5y/5K42M1RZdDf7hE1Slm4q8Lsj/BjlOz9P0lalbhdZUlEJ+a5XBYplMr/qKgIFceV9FyuEgJSf7qTwwoT5ADpQDAQX4yBtCOwbkigkop51JGaU7iLiiOsZLBuk7aJyVNzEFLIG+b4hMDwqLuKkHuQFQPabDLhrIFLaLxfiikrBjKmOKiVRKqVRVK+Gkczp/oV6TdlWllvEtv0ixCu1j8cG0RrwvzJt3dJadVwi+fa1fULVoAh91DeG7U7uhytynY7bkUbBcFnTSTH75Tvz5GG7B/Nos2m92VufldLsoJa9PgW9IIng3YKSFrh4ekE9sTUSYJko9f65fPUbuFxdhLcVVxMYd3OyfKL+YPe06r7x0g96YOfLvblUa5ALLb9zphEBorwory0oF+dbrrbnvj+QOg8Pa9oqIzf1a3MGWBC3aMKRcYERZiaHDt4yGhJ9Pd4QHo7ET/epirLmGEYVCjUOuIQFjxVpxobJ7a55zRBcIQYnawo/LySKCxCk6Xw+JIv/Sm2m1uhtSI1XCvjbHiLT2xxJUDpLsJ1p1tnQtSVezpdF7/Tycr4WrZlJzpl6VXuds601l1BCjXGpDYCTdRJ0XoxqjqMTdKfRAoA2T0jzIFrB8UV3Z0UYRuZKqzsZPZ19EFoowZ2BPHgfP9LnAIhiE3vZqpIs2k/sUsgtJgevxoCHlLpmq/VdtDdAFjzHbAyPjFsulbJjUBWLGGUwihvaVMBm380Rj4H9S4WTPYZLlVUjveawKTYwforCeJebJ6MLlYbaDnTnMQGVVPBKvnT69a9ZmwxLn+oFAuYFZw19iqzYibhXDVBzfsenXe1OyJQ44dwTBLusTNIGBSq5BXtf8BTgXEaHx1wg+uQ1CBmUi3+SWDEK8fySYMpVGucxDB0Qyah6404nGj28TDqJgvLtvABoK6Huct8315Cs4ZiPsc1I8WZibKuVDWhRlP5hb3WQVOhvFXZKBckNwirBbQyPw8quCsdOCX/DEquybE6fSuoKVkTQnslHoqlxUz+ZUDZNZj5dUuLhM+rz0/S1QpOKr8HAREP9N/uyfiAJpOoAcUzE+cy+V87m4WfQavyqAq7yivhigd0AVE/hkm2zR1z7lSMxCRmzxPvNJFMVyUY9YO2Iun6cwt+pIkb8Uj5PfLYE1wXgrTiju6D77jjN6Oz2kF5HE3168Lyrp1dh98B84loitFsql3GBu0acDxLPrMgKNZ3BrBlupGRe2BxT1albyuGsHW6fd5ya8dILOP6wnAnNBR6vI++A4s/TLgTHEvXoztv2EGewRaSddebb8l+Q3DOpo9nXU48/VtqtP74DsaSl40HGmXPTL/ijJn4llTeOH29f1nkGR+oWlo21/2wS1l/+oN+K5z+0bA4/F4PB6Px+PxeDwej+f/wj+K7jVSoVGXHQAAAABJRU5ErkJggg==)Wikipedia +1
+
+### 3. Bedrijf of transport
+
+Zocht je per ongeluk naar een transportbedrijf? **Klomp Transport** is een bekend Nederlands transportbedrijf uit Harderwijk dat gespecialiseerd is in het vervoeren en plaatsen van chalets en mobiele bungalows. 
+
+![](data:image/png;base64,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)Facebook·Klomp Transport BV
+
+Mocht je naar iets heel anders op zoek zijn, laat het me weten! Bedoelde je een specifiek **spreekwoord**, zocht je de **betekenis van het woord** zelf, of zocht je een bepaald **bedrijf**? 
+
+Encyclo.nl
+
+### Source links
+
+- [Woorden.org](https://www.woorden.org/woord/klomp)
+- [Encyclo.nl](https://www.encyclo.nl/begrip/klomp)
+- [Wikipedia](https://nl.wikipedia.org/wiki/Klomp)
+- [Facebook · Klomp Transport BV](https://www.facebook.com/KlompTransportBv/)

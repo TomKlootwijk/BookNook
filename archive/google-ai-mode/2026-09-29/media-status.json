@@ -1,0 +1,47 @@
+{
+  "checkedHistoryThreads": 300,
+  "allTranscriptsCaptured": true,
+  "unavailableUploadedImages": 27,
+  "pendingImages": [],
+  "pendingWidgets": [],
+  "sourceWidgetWithoutPlot": {
+    "conversation": 157,
+    "response": 5
+  },
+  "note": "All 300 exposed history conversations and all scoped transcripts are captured. All available media in this update is bundled, including the four doodles recovered after Google verification. Google did not serve 27 uploaded images; one chart showed its title without plotted marks. Two previously recorded source doodles also remain unavailable.",
+  "resolvedImageOccurrences": 19,
+  "recoveredWidgets": [
+    {
+      "conversation": 333,
+      "response": 1,
+      "status": "recovered"
+    },
+    {
+      "conversation": 333,
+      "response": 3,
+      "status": "recovered"
+    },
+    {
+      "conversation": 333,
+      "response": 4,
+      "status": "recovered"
+    },
+    {
+      "conversation": 183,
+      "response": 4,
+      "status": "recovered"
+    }
+  ],
+  "historicalUnavailableWidgets": [
+    {
+      "conversation": 23,
+      "response": 4,
+      "description": "Metaballs doodle unavailable in source"
+    },
+    {
+      "conversation": 42,
+      "response": 9,
+      "description": "Svalbard simulator unavailable in source"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data: 'self'"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #FFFFFF;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #E9EBF0 !important;
+        border: 1px solid #DCDFE5 !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #0A0A0A !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #0A0A0A !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #56595E !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) > :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style></head><body>
+<div class="chart-container-wrapper" style="background-color: rgb(247, 248, 250);">
+<div class="chart-header" id="js-chart-title" style='font-family: "Google Sans", Roboto, Arial, sans-serif; font-size: 16px; font-weight: 500; padding-bottom: 0px; word-break: break-word; white-space: normal; line-height: 1.4; color: rgb(10, 10, 10);'>Psychological Superposition of a Double Hadamard State</div>
+<div id="vis-wrapper">
+<div aria-label="Vega visualization" aria-roledescription="visualization" class="vega-embed fit-x fit-y" id="vis" role="graphics-document" style="cursor: default;"><svg class="marks" height="450" style="background-color: rgb(247, 248, 250);" version="1.1" viewbox="0 0 550 450" width="550" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g fill="none" stroke-miterlimit="10" transform="translate(52,21)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h481v381h-481Z" fill="transparent"></path><g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,381.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#959BAB" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(44,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(87,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(131,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(175,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(219,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(262,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(306,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(350,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(394,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(437,-381)" x2="0" y2="381"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(481,-381)" x2="0" y2="381"></line></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#959BAB" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,381)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,346)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,312)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,277)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,242)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,208)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,173)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,139)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,104)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,69)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,35)" x2="481" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-dasharray="2,2" stroke-width="1" transform="translate(0,0)" x2="481" y2="0"></line></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-label="X-axis titled 'Formalized Carnal' for a linear scale with values from 0.0 to 1.1" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,381.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(44,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(87,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(131,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(175,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(219,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(262,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(306,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(350,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(394,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(437,0)" x2="0" y2="5"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(481,0)" x2="0" y2="5"></line></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="start" transform="translate(0,15)">0.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(43.72727272727273,15)">0.1</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(87.45454545454545,15)">0.2</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(131.18181818181816,15)">0.3</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(174.9090909090909,15)">0.4</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(218.63636363636363,15)">0.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(262.3636363636363,15)">0.6</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(306.090909090909,15)">0.7</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(349.8181818181818,15)">0.8</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(393.5454545454545,15)">0.9</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(437.27272727272725,15)">1.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(481,15)">1.1</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="481" y2="0"></line></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(240.5,30)">Formalized Carnal</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-label="Y-axis titled 'Laser Focus / Prize' for a linear scale with values from 0.0 to 1.1" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,381)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,346)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,312)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,277)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,242)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,208)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,173)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,139)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,104)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,69)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,35)" x2="-5" y2="0"></line><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,0)" x2="-5" y2="0"></line></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,384)">0.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,349.3636363636364)">0.1</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,314.7272727272727)">0.2</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,280.0909090909091)">0.3</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,245.45454545454544)">0.4</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,210.8181818181818)">0.5</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,176.1818181818182)">0.6</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,141.5454545454546)">0.7</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,106.9090909090909)">0.8</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,72.2727272727273)">0.9</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,37.63636363636365)">1.0</text><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,3)">1.1</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#DCDFE5" stroke-width="1" transform="translate(0,381)" x2="0" y2="-381"></line></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(-24.9013671875,190.5) rotate(-90) translate(0,-2)">Laser Focus / Prize</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"></path></g></g><g aria-roledescription="group mark container" class="mark-group role-scope view_1_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h481v381h-481Z"></path><g><g aria-roledescription="line mark container" class="mark-line role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object"><path aria-label="x: 1; y: 1; series: Helper Line" aria-roledescription="line mark" d="M437.273,34.636L437.273,381" role="graphics-symbol" stroke="#3364f0" stroke-dasharray="4,4" stroke-width="1.5"></path></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g><g aria-roledescription="group mark container" class="mark-group role-scope layer_1_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h481v381h-481Z"></path><g><g aria-roledescription="line mark container" class="mark-line role-mark layer_1_marks" clip-path="url(#clip2)" pointer-events="none" role="graphics-object"><path aria-label="x: 0; y: 1; series: Helper Line" aria-roledescription="line mark" d="M0,34.636L437.273,34.636" role="graphics-symbol" stroke="#3364f0" stroke-dasharray="4,4" stroke-width="1.5"></path></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g><g aria-roledescription="group mark container" class="mark-group role-scope layer_2_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h481v381h-481Z"></path><g><g aria-roledescription="line mark container" class="mark-line role-mark layer_2_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object"><path aria-label="x: 0; y: 0; series: Main Vector" aria-roledescription="line mark" d="M0,381L437.273,34.636" role="graphics-symbol" stroke="#de7300" stroke-width="3"></path></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g><g aria-roledescription="group mark container" class="mark-group role-scope layer_3_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h481v381h-481Z"></path><g><g aria-roledescription="line mark container" class="mark-line role-mark layer_3_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object"><path aria-label="x: 0.95; y: 1; series: Main Vector" aria-roledescription="line mark" d="M415.409,34.636L428.527,51.955L437.273,34.636" role="graphics-symbol" stroke="#de7300" stroke-width="3"></path></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_4_marks" clip-path="url(#clip5)" pointer-events="none" role="graphics-object"><text aria-label="x: 1; y: 1; text: Superposition State |11⟩ (Maximum Tension)" aria-roledescription="text mark" fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="bold" opacity="1" role="graphics-symbol" text-anchor="end" transform="translate(432.27272727272725,38.63636363636365)">Superposition State |11⟩ (Maximum Tension)</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_5_marks" clip-path="url(#clip6)" pointer-events="none" role="graphics-object"><text aria-label="x: 1; y: 0.5; text: Carnal Protocol" aria-roledescription="text mark" fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(437.27272727272725,200.8181818181818)">Carnal Protocol</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_6_marks" clip-path="url(#clip7)" pointer-events="none" role="graphics-object"><text aria-label="x: 0.5; y: 1; text: Laser Focus" aria-roledescription="text mark" fill="#56595E" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(218.63636363636363,27.636363636363647)">Laser Focus</text></g></g><path aria-hidden="true" class="foreground" d="" display="none"></path></g></g></g><defs><clippath id="clip1"><rect height="381" width="481" x="0" y="0"></rect></clippath><clippath id="clip2"><rect height="381" width="481" x="0" y="0"></rect></clippath><clippath id="clip3"><rect height="381" width="481" x="0" y="0"></rect></clippath><clippath id="clip4"><rect height="381" width="481" x="0" y="0"></rect></clippath><clippath id="clip5"><rect height="381" width="481" x="0" y="0"></rect></clippath><clippath id="clip6"><rect height="381" width="481" x="0" y="0"></rect></clippath><clippath id="clip7"><rect height="381" width="481" x="0" y="0"></rect></clippath></defs></svg><form class="vega-bindings"></form></div>
+</div>
+</div>
+
+
+</body></html>

@@ -1,6 +1,6 @@
 # doperwten stamppot met jus en bal gehakt
 
-Captured: 2026-09-29T11:38:08.884Z
+Captured: 2026-10-09T08:33:31.806Z
 
 Source: https://www.google.com/search?q=doperwten+stamppot+met+jus+en+bal+gehakt&client=ms-android-xiaomi-terr2-rso2&hs=9jiq&sca_esv=8b41958295edf98a&sxsrf=APpeQnsOAdCN_9-bfvXwLrIFQqfYgwdiSg%3A1790668364531&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwio2Jy-p5OXAxUNygIHHWuxMrYQ2J8OegQIEBAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDqBDNsArzUXY_wcE5uPweMsEXsq5zqpxeYCBqvWd-yM8jCKW9PDHVM3yHEAT3tQeOVKUkEdo93ljRlckW9rPw8s3C7pcY69iJdNNlcEDa2ge6lsrJzbFaEagIsgaQ0syZnihDCrHWr47ohMZBb82-CZuiTw_Nl5Clyz5tI90nyA5bDN2Lk8PuLCjtHFX5gG3go-GLmQKvsQExdWUmn6TztkbR5uxrDQeTmdg1qVMUXycs7zKVjfIp9RN-NDt-VdGVOznDEiLKvvMkhRj3w2ob_U_rPgLLS_5r-HKOBMHQ9fKFdY5ycLZbwmexlUZdcDCLYgBZSaygYpg&csuir=1&mtid=Tm67arjjNO6hi-gPxdXkiQM&udm=50
 
