@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All 300 exposed history conversations and all scoped transcripts are captured. All available media in this update is bundled, including the four doodles recovered after Google verification. Google did not serve 27 uploaded images; one chart showed its title without plotted marks. Two previously recorded source doodles also remain unavailable.",
+  "note": "The cumulative archive preserves all scoped transcripts. The afternoon update adds three vector diagrams, one still image of the animated rainbow shield, and two uploaded images. Google did not serve 27 previously recorded uploaded images; one earlier chart had no plotted marks and two earlier doodles remain unavailable. These existing source gaps are marked in context.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -43,5 +43,12 @@
       "response": 9,
       "description": "Svalbard simulator unavailable in source"
     }
-  ]
+  ],
+  "afternoonMedia": {
+    "date": "2026-10-09",
+    "vectorDiagrams": 3,
+    "animatedWidgetStills": 1,
+    "uploadedImages": 2,
+    "expandedCodeBlocks": 2
+  }
 }

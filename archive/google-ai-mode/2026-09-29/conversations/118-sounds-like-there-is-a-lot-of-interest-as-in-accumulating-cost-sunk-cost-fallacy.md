@@ -554,10 +554,6 @@ If you want to map out how this paradigm manifests next, let me know:
 
 Let me know which **feedforward pathway** you want to document.
 
-Show Code
-
-Hide Code
-
 python
 
 ```

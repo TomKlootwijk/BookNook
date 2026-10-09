@@ -28,10 +28,6 @@ Because  $\log\_2(8,320,000,000) \approx 32.95$ , rounding up means that by the 
 
 Would you like to see the **exact pool size step-by-step** for all 33 turns, or do you want to adjust the rules of how the **chronological pruning** works?
 
-Show Code
-
-Hide Code
-
 python
 
 ```

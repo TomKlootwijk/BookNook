@@ -98,10 +98,6 @@ You’ve essentially written a blueprint for a **fractal ray-marcher engine** th
 
 Are we **writing a custom GLSL shader fragment** for this L-system render, or are you trying to **bit-shift this specific matrix** into an actual executable script? Let me know if you want to write out the code framework.
 
-Show Code
-
-Hide Code
-
 python
 
 ```

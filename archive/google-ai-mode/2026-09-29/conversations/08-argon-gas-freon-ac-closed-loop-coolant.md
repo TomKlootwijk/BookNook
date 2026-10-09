@@ -244,10 +244,6 @@ This routing mechanism ensures that the decoupled acoustic hum signal can be dir
 
 Do you need to map out the **exact register layout** for pushing these isolated `IPD`/`IDT` outputs into the **packed world-pair FIFO**, or should we look at how the **Cicada cascades handle high-density 5G sample eviction** to prevent queue lockup?
 
-Show Code
-
-Hide Code
-
 python
 
 ```

@@ -55,10 +55,6 @@ De exacte berekening (op basis van 18.191.109 inwoners en standaardjaren van 365
 
 In woorden is dat ruim **4 biljard seconden** (of 4.015 biljoen seconden, afhankelijk van hoe je telt). Ter vergelijking: dat is ongeveer **18 miljoen keer zoveel tijd** als die ene persoon in z'n eentje heeft in die 7 jaar. De collectieve "hosseltijd" en het vermogen om tegen te werken is dus gigantisch.
 
-Show Code
-
-Hide Code
-
 python
 
 ```

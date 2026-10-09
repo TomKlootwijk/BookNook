@@ -83,7 +83,15 @@ def clean_message(item, ordinal, index):
     soup = BeautifulSoup(markup, 'html.parser')
     # Google hosts some rendered diagrams in separate embedded frames. Preserve
     # their observed SVG content alongside the corresponding response.
+    rendered_widgets = []
     for widget in item.get('widgets', []):
+        if widget.get('pages'):
+            for number, path in enumerate(widget['pages'], 1):
+                caption = widget['caption'] if number == 1 else 'Original source diagram continued.'
+                rendered_widgets.append(dict(widget, path=path, caption=caption+f' Section {number} of {len(widget["pages"])}; original vector file retained in the archive.'))
+        else:
+            rendered_widgets.append(widget)
+    for widget in rendered_widgets:
         asset = ROOT / widget['path']
         if asset.suffix == '.svg':
             ElementTree.fromstring(asset.read_bytes())
@@ -159,7 +167,7 @@ def clean_message(item, ordinal, index):
         if not x.get_text(strip=True) and not x.find(['img','math','svg']): x.decompose()
     for x in list(soup.find_all('button')):
         text=x.get_text(' ',strip=True)
-        if not text or re.match(r'^(Copy|Copied|Show .*code block|About this result|Good response|Bad response|Share|SaveAI|Related results|Show all related results)$',text):x.decompose()
+        if not text or re.match(r'^(Copy|Copied|Show Code|Hide Code|Show .*code block|About this result|Good response|Bad response|Share|SaveAI|Related results|Show all related results)$',text):x.decompose()
         else:x.unwrap()
     for x in list(soup.find_all('img')):
         src=x.get('src','')
@@ -216,6 +224,20 @@ for d in records:
             for note in item.get('attachmentNotes', []):
                 body += '<p class="meta">'+esc(note)+'</p>'
                 md.append('Attachment availability: '+note+'\n')
+            # Uploaded images sit beside the prompt heading in Google's DOM.
+            # Capture audits explicitly add the served pixels to this item.
+            for attachment in item.get('images', []):
+                src = attachment.get('url', '')
+                if attachment.get('alt') != 'Visually searched image' or not src.startswith('data:image/'):
+                    continue
+                header, encoded = src.split(',', 1)
+                pixels = base64.b64decode(encoded)
+                extension = 'jpg' if 'image/jpeg' in header else 'png'
+                asset_name = hashlib.sha256(pixels).hexdigest()[:20]+'.'+extension
+                (ROOT/'assets'/asset_name).write_bytes(pixels)
+                body += '<figure><img src="'+esc(src)+'" alt="User-uploaded image"><figcaption>User-uploaded image as served by Google.</figcaption></figure>'
+                md.append('![User-uploaded image as served by Google]('+src+')\n')
+                image_total += 1
         else:
             response_count+=1;label=f'Response {response_count} · Google AI Mode';clean=clean_message(item,n,j)
             body='<div class="content">'+clean+'</div>'

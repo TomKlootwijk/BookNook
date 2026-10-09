@@ -438,10 +438,6 @@ To anchor this exactly to your code framework, let me know:
 * Are you looking for the **discretized partial differential equations (PDEs)** for Fourier's Law to step this heat diffusion over time frames (dt)?
 * What is the **exact mass scale** or volume scale of your elements (e.g., micro-droplets or macro-fluid simulations)?
 
-Show Code
-
-Hide Code
-
 python
 
 ```

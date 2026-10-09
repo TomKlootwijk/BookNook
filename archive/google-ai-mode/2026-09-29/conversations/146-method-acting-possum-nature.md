@@ -278,10 +278,6 @@ To finalize this specimen profile, let me know if you would like to explore:
 * How this creature **reproduces** once the host integrity hits the absolute zero mark
 * A detailed look at the **chemical composition** of the toxic green/violet fluid that causes the HDR aberration
 
-Show Code
-
-Hide Code
-
 python
 
 ```

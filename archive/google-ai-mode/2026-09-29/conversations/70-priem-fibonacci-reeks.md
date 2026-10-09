@@ -30,10 +30,6 @@ Hier zijn de eerste zes Fibonacci-priemgetallen met hun positie ( $n$ ) in de re
 
 Wil je dat ik de **volgende grotere Fibonacci-priemgetallen** voor je opzoek, of wil je een **Python-script** om ze zelf te berekenen?
 
-Show Code
-
-Hide Code
-
 python
 
 ```
@@ -80,10 +76,6 @@ Om je gericht te kunnen helpen bij deze specifieke restwaarde, kun je me vertell
 
 * Is dit onderdeel van een **programmeertaak**, **cryptografie-opdracht** (zoals AES padding), of een **bitshift-operatie**?
 * Hoe wordt de **16 bytes** exact toegepast op het getal (bijvoorbeeld als een array of als een deler)?
-
-Show Code
-
-Hide Code
 
 python
 

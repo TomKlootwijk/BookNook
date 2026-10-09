@@ -836,10 +836,6 @@ The structural change from a moving trajectory to a resting **static chrysalis**
 
 Now that the complete computational flow is organized, how would you like to proceed? We can build a **visual proof-of-concept shader script** to watch these iridescent caustic waves react to the turning matrix in real-time, or focus on detailing the **L-System grammar rules** for procedural mesh generation.
 
-Show Code
-
-Hide Code
-
 python
 
 ```

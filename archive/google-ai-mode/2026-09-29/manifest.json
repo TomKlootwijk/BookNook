@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-10-09",
-  "scopeCount": 362,
-  "capturedCount": 362,
-  "prompts": 1544,
-  "responses": 1544,
-  "mathRendered": 2982,
-  "embeddedImages": 3590,
+  "scopeCount": 379,
+  "capturedCount": 379,
+  "prompts": 1601,
+  "responses": 1601,
+  "mathRendered": 3174,
+  "embeddedImages": 3753,
   "conversations": [
     {
       "ordinal": 1,
@@ -3988,6 +3988,193 @@
       "source": "https://www.google.com/search?sca_esv=afb89ae158309890&sxsrf=APpeQnu27SoOBNgdlgzmkrbHMkQ-PGTDpw%3A1791533058907&vsint=&ntc=1&cs=0&sa=X&ved=0CBoQ2_wOahcKEwjIp_fs1KyXAxUAAAAAHQAAAAAQYA&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBQcY2vyYGEP46IKIOmCHIluh8nTXET4GtBTAYejtkugwO0pvX47grfEekcz1NaBy7LwfwuyM6rc636DLV7WVNtpb44zuLK35Y7Mfx6xdZ9f8beznrVyLYNKDQ8xGJrmu3NM8UA-99yGoVLiY7NbxAQsnwsoZfOXKmHK9w6eXHX2HAAQ3VNeNw5lPTKGgkr1PS2NzqT-HkdP0-vu8OkU6WpDS66oXnBdRMJubMlWUVWCENcdWQimipQsbh3Jtcx0z7EEzhQGP8Y_w&mtid=c6TIaqa_N4rN-d8P2fXC2Ag&csuir=1&aep=26&q=hostile+takeover+poison+pill+board+seat+backdooring+fortune+500",
       "recoveredFromSavedUrl": false,
       "pdfPage": 1426
+    },
+    {
+      "ordinal": 363,
+      "title": "jonge kaas en het aantal bacteriën het aantal eenheden in jonge kaas ten opzichte van oude kaas",
+      "prompts": 12,
+      "responses": 12,
+      "html": "conversations/363-jonge-kaas-en-het-aantal-bacteri-n-het-aantal-eenheden-in-jonge-kaas-ten-opzicht.html",
+      "markdown": "conversations/363-jonge-kaas-en-het-aantal-bacteri-n-het-aantal-eenheden-in-jonge-kaas-ten-opzicht.md",
+      "source": "https://www.google.com/search?q=jonge+kaas+en+het+aantal+bacteri%C3%ABn+het+aantal+eenheden+in+jonge+kaas+ten+opzichte+van+oude+kaas&client=ms-android-xiaomi-terr2-rso2&hs=YZmq&sca_esv=2cd7c0326b86c6e2&sxsrf=APpeQnuSTJcb5-Evi1JF7mAQJcSTg5z0GA%3A1791551502813&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjx16-3ga2XAxUChv0HHWInHucQ2J8OegQIEBAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBg2mUuqcYImxCeuiWHGys3Pt9NaHi2FL9xg2OT9469Nbn7slCO7ZJxCGL_3LOiRs6bMyuIsOEI7U3xlMkNXXqJlABGhzi6GBPTyLOqZLSd_jxqi6QVaefZOkddjlW1YTXzAT2o4dyjLNQO3IxNWkgX1Q4wX3jiZrpBspRgtPTR6hHXyMIGiP1SSydLGiMC98AqnusIzgmDISSi9i6fYb-Y80qcBdkT_qgvMOe6D3yhV0oJZuMiIdgy_A4sX1TEitPcZYqMxmtRng&csuir=1&mtid=J-jIaov-I6uN9u8Pp4mq8QE&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1428
+    },
+    {
+      "ordinal": 364,
+      "title": "oude kaas jds of jonge kaas jsf deze vergelijking als signed distance field",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/364-oude-kaas-jds-of-jonge-kaas-jsf-deze-vergelijking-als-signed-distance-field.html",
+      "markdown": "conversations/364-oude-kaas-jds-of-jonge-kaas-jsf-deze-vergelijking-als-signed-distance-field.md",
+      "source": "https://www.google.com/search?q=oude+kaas+jds+of+jonge+kaas+jsf+deze+vergelijking+als+signed+distance+field&client=ms-android-xiaomi-terr2-rso2&hs=kF7V&sca_esv=2cd7c0326b86c6e2&sxsrf=APpeQntE4kza_A1vQeVSiR5gSZd77pGsfg%3A1791554622718&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjWyoeHja2XAxU0gv0HHT-CG9IQ2J8OegQIERAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfC5m8Zlp3DNYNonjq7ifmFhGMk-Inp_UT0lWpA3deXhf9W-KQ7bFvxyBSyLey5RiBFdlq95HNGzqn3fn2A3D5McTN1oZYVbR0rgaovKFIgo7c_43YiWUA6wiS-CGkcmwiA3i0iZcCm9TTQFYBnFsTACPi7SM_auZZZn1OE3Iv3I8j-H4aqhOMGnCf4u5yxOXvh5FHUWrZclMvMfblgXeiERZsH0OPr8if8hUgYs7gCOx-N_EaNokNxl_KOZ0CGoS3Y_yUs5clnndA&csuir=1&mtid=P_TIarzxN5WL9u8Pqa3RmQc&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1438
+    },
+    {
+      "ordinal": 365,
+      "title": "boeren en de combine harvester",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/365-boeren-en-de-combine-harvester.html",
+      "markdown": "conversations/365-boeren-en-de-combine-harvester.md",
+      "source": "https://www.google.com/search?q=boeren+en+de+combine+harvester&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM5MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&aep=10&ntc=1&sxsrf=APpeQnsB2Wpfv6aNHEuFmpQZYLkaRL17TQ%3A1791551145290&mstk=AUtExfAZnfkLFGHuSNDHYaXk7C4IqT2coJYXqqvy2GFIL9qiRe3kX-3PWomPEeMAlPlFD-FYbZ1ZukbWZiB6TfjUOm90AlOnrVFJds3nNcPkAEfgqkteTtZpCDCCiuvNcn04_EnyTbMmEEHUE3TVvkW9yaD7kF31lsJsp5x-XO_-AlxYf2wJxw5_ZvdgRPgkowXPbv6uocPnRpjWK565wGAFdyk6Esuf-hER2j8imVfK56MtNYqPD6crtgTZmRH6xS7kC7nLHIhB0-yHqDYbH4v3u4PirwvlylwOYXe3Dqk1qFsVyY35afM8JoQTZG-2wh9E36BECsAZZ1-VJw&aioh=3&csuir=1&cs=0&udm=50&mtid=zubIapC2Dv3h7_UP29HGqQw",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1500
+    },
+    {
+      "ordinal": 366,
+      "title": "vanta black natfan waarbij de omgedraaide betekenis betekent...",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/366-vanta-black-natfan-waarbij-de-omgedraaide-betekenis-betekent.html",
+      "markdown": "conversations/366-vanta-black-natfan-waarbij-de-omgedraaide-betekenis-betekent.md",
+      "source": "https://www.google.com/search?q=vanta+black+natfan+waarbij+de+omgedraaide+betekenis+betekent...&sca_esv=11c016ce86d16d05&sxsrf=APpeQnurtwGpXcLXYutpPksnVHNPk_ualQ%3A1791547311009&ei=ltfIas-cOo_97_UPwdCj2Q4&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&aep=10&ntc=1&mstk=AUtExfDd42WvWL-aLYdzzlfG02oZod4CYrAiw-cXOFylSU_K_qQjwWG7yjNhcypU8DqsSx8wvlwYD_bhH1ZUkpVf8RqLEVQAYngAJ63nPSCdXwtoI2s9G-Y_idDUso2eUo6B7OgCjEthVy7ZSdJsA71-OlvnTLqlgvc8M9E-1cBm660Q5rHUkjA-oPHnnn0L1_dclr6MaP1H6l7myY00U5hLdJvkSDqgLaO3z7SML1iGV3NfGFTsA4XBPgR5h1JIGDoiPcVKVCIcPe_idQVUWsPN_SR0sUmTJ4OOtOuUO5rBvYnGrb85qgav6YfL4YaAQ4BV2_AY7pWLsA-L7Q&aioh=3&csuir=1&cs=0&mtid=2dfIap3fF9T97_UP5veqsQg&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1502
+    },
+    {
+      "ordinal": 367,
+      "title": "t = k, hoe heet het ook alweer als je betekenis toeschrijft of wijst aan een letter of woord ontologie misschien?",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/367-t-k-hoe-heet-het-ook-alweer-als-je-betekenis-toeschrijft-of-wijst-aan-een-letter.html",
+      "markdown": "conversations/367-t-k-hoe-heet-het-ook-alweer-als-je-betekenis-toeschrijft-of-wijst-aan-een-letter.md",
+      "source": "https://www.google.com/search?q=t+%3D+k%2C+hoe+heet+het+ook+alweer+als+je+betekenis+toeschrijft+of+wijst+aan+een+letter+of+woord+ontologie+misschien%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTI4OTM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&aep=10&ntc=1&sxsrf=APpeQnvAgB4i9tUXzngXsTotghAgLzNzJw%3A1791550228039&mstk=AUtExfB66jaAOIg1BeSL7sbbodOVHhL9NeorCEh-VwXlNg8dnJUp0vN91tZOU7w1t9blfffKa23FbJe8LbUxdy7HA5Dw0u5vW394v79hDqITv26bmqwXwxR7yDEl_MWfzLmxzJ7rxzq_YRnfcj-9bbcuTpRdiyi60XbGw48gSXD1gP77kU-kgXzYuOx8UFG4RU4N8cY0p8HlR2BZDOEfOKodsbYCqSCwFBSPscRxESFN0XEZRn46v3kHKGgcbiUoD8TvGzzBC0t1HkEg21BD4jGTTCyD-2TX3RA7rOZ25ZXKyL7VAMfnLtt4oN0bNf-L2Xbdfu5OwKIrIupY1Q&aioh=3&csuir=1&cs=0&mtid=g-PIasW9Doip9u8PpI5v&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1504
+    },
+    {
+      "ordinal": 368,
+      "title": "poep transplantatie micropia probiotisch en antibiotisch",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/368-poep-transplantatie-micropia-probiotisch-en-antibiotisch.html",
+      "markdown": "conversations/368-poep-transplantatie-micropia-probiotisch-en-antibiotisch.md",
+      "source": "https://www.google.com/search?q=poep+transplantatie+micropia+probiotisch+en+antibiotisch&sca_esv=2cd7c0326b86c6e2&sxsrf=APpeQnsKn49K0msKYqjndVGyyEITke-iDQ%3A1791550963552&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwip3Z22_6yXAxWkg_0HHbfGEa4Q2J8OegQIFxAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfAyrd1NnANCtIXDLWRMu60mdI5Zk-k---LuAz0pbVfc2hnIEsB-eoCXs3S2-X8zxC6VmEl7gAJiEYetVYI-lfP64XU0bdtuHuiJnuvPaRM1Y8a4YUcK8Ceccckaq6hoMChpAg5ZD-9OmvFkyu97nlEEm9lBCXn1Awbqpfyrx8BOGZHUBGr3Lxr3v0XcXhRFjK-2bBCv-8gjQvLzpOs4OBAMhY9e2DFAesHaksJwZvBbas95cpziloZ0kqwMzU0ZS6RsMteLRK5QuQmrHFuoBS_LO1xOKyaXbax_W4rlU48lY9P6g0leEbrtYB6uwXFdMoFgRNswcjRLKw&csuir=1&mtid=-OXIapDoCPb87_UP6I7C4Q8",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1506
+    },
+    {
+      "ordinal": 369,
+      "title": "celldelning mitosis",
+      "prompts": 11,
+      "responses": 11,
+      "html": "conversations/369-celldelning-mitosis.html",
+      "markdown": "conversations/369-celldelning-mitosis.md",
+      "source": "https://www.google.com/search?q=celldelning+mitosis&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMwNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7vnQU6QWmnWBznGVLK1G8Rykll-s04_elOQbRleKreNqN6HKk20ZyZ-d8SXGwXAN8EIvObbF33JhfJkDoGbxHTj31od_&aep=10&ntc=1&sxsrf=APpeQnvKBmVFwyGnvmYGGc_0omZbSMCgew%3A1791548242924&mstk=AUtExfDrq6cREcmCNfNw4cgs-pcTffJ6CoglhqSxN0VmCQobX1QiPMLIOr115YJ2sxeH7dPeIT9I3WLluP47ik_0OMD3y1VGJfi-QCGGpnnsCiUSOkqTb_RrObEKt6W0PHeED3FFwV8YA7L1LwLpc_u_Z-wLNBQdCbYZKi0EU7baTq7i6tgTQ8GwsDQ9q_hIJvUZ63_7wW9lNN2T_aE-CcVHvzp-FO6PcWIBuwG1rK1bA9UDRfi2yA-C5z5FdU0e6fairgj3wK4AxE7xjOKoGO73RDy0BhTLayKVeGWSsSAtY5utXSNcLLQzvg1-GPbNwTtuZkgVZ29JWvM2rQ&aioh=3&csuir=1&cs=0&mtid=ZtvIatmoE6zq7_UPsNPj-AI&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1508
+    },
+    {
+      "ordinal": 370,
+      "title": "pulletjes zie je nog niet van een afstand of het een mannetje of vrouwtje is",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/370-pulletjes-zie-je-nog-niet-van-een-afstand-of-het-een-mannetje-of-vrouwtje-is.html",
+      "markdown": "conversations/370-pulletjes-zie-je-nog-niet-van-een-afstand-of-het-een-mannetje-of-vrouwtje-is.md",
+      "source": "https://www.google.com/search?q=pulletjes+zie+je+nog+niet+van+een+afstand+of+het+een+mannetje+of+vrouwtje+is&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwMTM3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&aep=10&ntc=1&sxsrf=APpeQns_5CHLj_0uEKMWWS_KmoeHN1KTAg%3A1791547672249&mstk=AUtExfC0oXTQlgDc0keao1OJuRDpSEHVZfYKmCb-rxAYIstvII5O05cLPySrUs28z9BxGMYANLOyGitF0DnIP14k88eAKqz5QoRFYQ8bLSkjXwGGFxi4MZBe1IkOqeDI5x0zJWJ9zAFBaULiVaXFCaKMVj61R_6NuZWBzFCkXOIwz9O40XIF-dA_JtMOHn5ovhdmGd_MiCbcbTvoxN-6YZlrytJkjHfTXCLFEt9F9I6sbbt2FTnmRAW-wCPdn1qySDUF1oRIbzatBGozff9e1PAsZy4z8bpTdO62kbXFyc1Ct68ZKsQBV_nxU3l1g0Fv0Hew-3jn5w49LZ_peA&aioh=3&csuir=1&cs=0&mtid=SNnIatPaHubh7_UPqKXx6QQ&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1515
+    },
+    {
+      "ordinal": 371,
+      "title": "schild tegen alles, de regenboog, bushido",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/371-schild-tegen-alles-de-regenboog-bushido.html",
+      "markdown": "conversations/371-schild-tegen-alles-de-regenboog-bushido.md",
+      "source": "https://www.google.com/search?q=schild+tegen+alles%2C+de+regenboog%2C+bushido&sca_esv=11c016ce86d16d05&sxsrf=APpeQnsJQvO1asD3yxlPsW7RUh7hf89BNA%3A1791546360334&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiYzZ-j7qyXAxXtzgIHHXmWBT4Q2J8OegQIFxAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfC03L-jlsS64XkW4IXC8NwWdSEUTh1XoF3sGdkDtEWsXHF7bcHIjv3J_-hGNyHxZu1Sqfk41nRqIzShWwD7YEt0puERdmGNTa7LCHMgESFYH8pCtkDM2hWkum9QW1y8sdgB-naAtPGZnvMBVFzKhNvF4y7-A66zi5XAUkJ_h4nEKGWVpJolWJFWjjTMR3-XHa_dWOqXO2COdgLGEKpPc7Z1t9ypWQ_PDQqCRGkSmKqyZtvhksnFSJqAHG8475WcRAnfNZ_Tgw-TrSeWDm3XO4CnDbjVN5bSKCPsuWwEyjh3buujBUQNEUMxGEjHxpbXhyQ2XYY-KbXPUw&csuir=1&mtid=-9PIarDQNfWZi-gPr7Hs-Q0&udm=50&lns_mode=cvst",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1517
+    },
+    {
+      "ordinal": 372,
+      "title": "tau wiskundig visueel",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/372-tau-wiskundig-visueel.html",
+      "markdown": "conversations/372-tau-wiskundig-visueel.md",
+      "source": "https://www.google.com/search?q=tau+wiskundig+visueel&sca_esv=11c016ce86d16d05&sxsrf=APpeQntL3CEPryA8IfKwNCT27boKvZvmGg%3A1791547067454&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwiN7bb08KyXAxXH_7sIHVPhE5kQ2J8OegQIFRAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfBkLIjd984_C6uYce4SHRvdUbG2esO4iU9e6Ehv3dmWlQcdqMLd7CXyUhPZvdBRaSjm0JktXTsrSDoZ-uHE_RvyPKrTab-ksM6hivJipd6r9CHh2ih7p7TrGtADrOpsRnA_eY5D7GWM9OYe-ZoxLRIBAHVRS9O49ve6rzyRRZEg01lpImxs_7g5iA3nmAzvyqTuMZhpggJ8rEQriidCEhiB-MABJuqpR9MM0hgHpTAaP4_w9rfnn7ceZvPW52NiPY6_a2XrxI-kbjMyPIXNBu_R2OnXwq6WAdsPBh0ECVPtrSdh-aAJh1PcJtAzJJjAjB9AvjTidO20xQ&csuir=1&mtid=vtbIasy4MMvp7_UP-Nvg8Qk&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1521
+    },
+    {
+      "ordinal": 373,
+      "title": "ik mag overal een T aan vast maken, waarom?",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/373-ik-mag-overal-een-t-aan-vast-maken-waarom.html",
+      "markdown": "conversations/373-ik-mag-overal-een-t-aan-vast-maken-waarom.md",
+      "source": "https://www.google.com/search?q=ik+mag+overal+een+T+aan+vast+maken%2C+waarom%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE2ODE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4CuEddQ3ZmQozcvkgnTNQKiWE327vHSSX3EU0x8dB6hqifrmJYJpi5hdo8N_17Yp0m7NOldBqgUtkN1rgthOVh3L4tR1Qj_liBuKKq6Hdnl0kGiYf5Tt0rmV1aWFi9WZPRgDTPs&aep=10&ntc=1&sxsrf=APpeQnvLUwuwV2GFBx-9C6VvkJIsjhSDeg%3A1791545037736&mstk=AUtExfA5Fn_auzNtHyXe55AghCo4Nulrmh6rxBfdGFm0NGsG1gCtyAHytgUepTqxyMVtdX9sAmtG3tTBKVQ9HCBiPMyFESIxRbZ80Lt373ECYZm7HuJH2NpsJaQbh7Hj_rlm0wrzxepY09QgfcVgDA5i9j7cDCpsb5hjHMDEsltUC_VhZTGK3ISMuzv_PBfLYR_93cX0jOhNLZH1LCkF_JBGDML-BD9ck6Evhhpl2vLzkQiWXyIzD7b6yyQbLOXY9y_n6oMQqG_6fK8GiLAwGhzCydLviazBDM7LV5OWwUUK8j13JM7nnzUUU6fFB9Xl9PVlnzbKDjJVDSZ1ZQ&aioh=3&csuir=1&cs=0&udm=50&mtid=6s7IavLuEq2Mi-gP69uuoAw",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1525
+    },
+    {
+      "ordinal": 374,
+      "title": "alle vormen van eren (niet spiritiueel) isoleren distribueren balanceren redigeren masturberen leren enz...",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/374-alle-vormen-van-eren-niet-spiritiueel-isoleren-distribueren-balanceren-redigeren.html",
+      "markdown": "conversations/374-alle-vormen-van-eren-niet-spiritiueel-isoleren-distribueren-balanceren-redigeren.md",
+      "source": "https://www.google.com/search?q=alle+vormen+van+eren+%28niet+spiritiueel%29+isoleren+distribueren+balanceren+redigeren+masturberen+leren+enz...&sca_esv=11c016ce86d16d05&sxsrf=APpeQnvpzlj5facEwC73R1o1oSMiZAvlfQ%3A1791544435488&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwjrtbSN56yXAxU2h_0HHTTVAQ4Q2J8OegQIFBAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfBuuvoMwpR7h27kgA4hUvI1klqg-fQlyeTX2EovNaVTQ9dgXPtjp67cKisirgUKCMMK4bRb6GRuYaD8QLXvZ7hG_SH1AT4NAV284aRuD0SV6MrdXrmIMPLrwTqLjBmetc1mfAUgQAtMP7vxTtleyEEppS1-xQYzrMWP2SktoLO9i5V93VtFbiZIykmk7F1ZeHBy_xpUB0Q6mxHe-bUo0biMyyrnTxccj8KYbKuqXTmAF4QeW1upUvv842YTyDg0R0hOczl4Idbtmw&csuir=1&mtid=dszIatyrF63_7_UP6tKCsAU&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1526
+    },
+    {
+      "ordinal": 375,
+      "title": "dood jij diegene even, ik doodt helemaal niemand jij dood",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/375-dood-jij-diegene-even-ik-doodt-helemaal-niemand-jij-dood.html",
+      "markdown": "conversations/375-dood-jij-diegene-even-ik-doodt-helemaal-niemand-jij-dood.md",
+      "source": "https://www.google.com/search?q=dood+jij+diegene+even%2C+ik+doodt+helemaal+niemand+jij+dood&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIxNzY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&aep=10&ntc=1&sxsrf=APpeQntvVfSyAUYjTbHv8FLoHrSDTjfA_g%3A1791545156563&mstk=AUtExfBmnqwK94dUS5ddJSqmdWw96S915CPOtm_oKkk2CTfk0zjGe-p-tutYTq_0DSjBTz5pDG4GNJWnbMDQ655vvVuOIh4NUT7BWJw3veoskowfz1AFcJTqvuIV5OhiLOBjL97h6Qqp8pT0TveWd3s0CHR7T7J-mXfKdoUmJh-XQQ0z1E24gNnCOpvDjD4jJczp33jU_v_4E4Ogbs6iEf0jrrWxHT5iMWACMKSnf-7bU5u2kw_xP0ipaLbnR6W6u582QMTrzFV8YR8lgjZO-wMSLX0KnPXbMZd4LGmIly3nSm-_kWz9_B8tblfsIDjnNbQycaUQTCIm1cMPMw&aioh=3&csuir=1&cs=0&udm=50&mtid=ZM_IaoP4MYiYi-gPn4ugqQk",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1529
+    },
+    {
+      "ordinal": 376,
+      "title": "Binnenleiden als in alle mankementen van een mens dus ziektes en die transplanteren",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/376-binnenleiden-als-in-alle-mankementen-van-een-mens-dus-ziektes-en-die-transplante.html",
+      "markdown": "conversations/376-binnenleiden-als-in-alle-mankementen-van-een-mens-dus-ziektes-en-die-transplante.md",
+      "source": "https://www.google.com/search?q=Binnenleiden+als+in+alle+mankementen+van+een+mens+dus+ziektes+en+die+transplanteren&sca_esv=11c016ce86d16d05&sxsrf=APpeQnvp-QOToJjCTk5H4BY05Fsmxtn6Yw%3A1791544818083&udm=50&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&vsint=&aep=1&ntc=1&cs=0&sa=X&ved=2ahUKEwifj-zD6KyXAxWq_gIHHftPFMAQ2J8OegQIFRAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfD-F2mFCYWRQyYrBEwfsgeO0Gd8RaXA2pfiYjvE-svh9xOuRJsDdOb4EMGtbWjyPnmHqYv2_1OtR2VfsH5xjPgZld67KKHu3aCFrwpEZDy5EHCN-w2M7AQIWsMMATKvrC578RPdwhy8DOey0LXSrXEQhV_X-t3SuV9H-mZDspi7beOsBfvEtB7oAAj97M1zuzchADGCapcn42FXvow0-56QNYmpxA-ZUzj1uu_hETnA6hgmSUd9MxRN8JIwGnE0VV8OEVVRZyoL_ycsL7LXoF6A14buM-fCO6Bcr3Nu9AIGp75OFy1S617e142auh7wWGpAbK8E6fBnHA&csuir=1&mtid=883Iao7VMtCM-d8P58H1wAE",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1530
+    },
+    {
+      "ordinal": 377,
+      "title": "Russische Gevangenissen Marteling",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/377-russische-gevangenissen-marteling.html",
+      "markdown": "conversations/377-russische-gevangenissen-marteling.md",
+      "source": "https://www.google.com/search?sca_esv=11c016ce86d16d05&sxsrf=APpeQnvp-QOToJjCTk5H4BY05Fsmxtn6Yw%3A1791544818083&udm=50&vsint=&ntc=1&cs=0&sa=X&ved=0CB8Q2_wOahcKEwjo-ffcj62XAxUAAAAAHQAAAAAQOg&biw=1707&bih=898&dpr=1.5&atvm=2&mstk=AUtExfDZ585PYuY0VyyWtM57_NtkFuIw3d4gHgKhfg6i6eZL3CHxUwSI20LzNbuoW8_37zyPOOaf66ogUsoArZaW2U6Ol4iphe5qZQIo0PH1jxcJQKs8KklaINNZRv5-frcuxBbh2SQ0bEmRwlXKnJhOaMuKUA0Bjp5E5O7w7dAzHq4ovEC5YkRaNvgNzFY9VYvu07Yp2mpDn0AQPOFrQmHjogTFRalR1sibPjaa8Z3YqH_9Z5aZwssFdVaOm6bweGQAiBkpd7j5XTxHStUF5EJPXHAEAEo9dlOc54izm3g2LphLek66UzOMPdUD_5k6qc4KVcaKWksaP_Haaw&mtid=--DIaoz4BPuB9u8P-bmnyAk&csuir=1&aep=26&q=russische+ergste+gevangenis+verkracht+met+een+bezemsteel+en+geslagen+enz+ongeachte+welke+kleur+van+de+regenboog",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1531
+    },
+    {
+      "ordinal": 378,
+      "title": "Vantablack Nathan",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/378-vantablack-nathan.html",
+      "markdown": "conversations/378-vantablack-nathan.md",
+      "source": "https://www.google.com/search?sca_esv=11c016ce86d16d05&sxsrf=APpeQnvp-QOToJjCTk5H4BY05Fsmxtn6Yw%3A1791544818083&udm=50&vsint=&ntc=1&cs=0&sa=X&ved=0CDcQ2_wOahcKEwjo-ffcj62XAxUAAAAAHQAAAAAQOg&biw=1707&bih=898&dpr=1.5&atvm=2&mstk=AUtExfCIA6C5RZTOo5kxVqPgek1fqVXzFpyNG9Z9Pv0oeY2h-yl7rMvaeh1Dn6S_Fkso5MGN61wguvBAZY3HR9mZkhTt7yd-6J5MKYFFN6Qgptksuc4k5fdE8ANxdox3d3fpL5YNVA-irbAU5axBeEPILrX8WIwD5Zp1oOGId4cCLYRRuptz1D_uFcN5N2RMSDK25jCjKJRasIlu5OFg9sJ1DBUCO7GfkdfQ9QkcLKB3UDIDrX_FeUoyBhxVaMrK-GogStkHt1jEl_tEzeEpFB7XRXw90tY8B2l-HAjW1_Fl6Er1HIcpUqF2r_QetZB0xQbLc7MZFC1rFJIJ7Q&mtid=mdfIasqxDdKp9u8P87bN-Q0&csuir=1&aep=26&q=vantablack+nathan",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1532
+    },
+    {
+      "ordinal": 379,
+      "title": "Aeronautics Concepts",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/379-aeronautics-concepts.html",
+      "markdown": "conversations/379-aeronautics-concepts.md",
+      "source": "https://www.google.com/search?sca_esv=11c016ce86d16d05&sxsrf=APpeQnvp-QOToJjCTk5H4BY05Fsmxtn6Yw%3A1791544818083&udm=50&vsint=&ntc=1&cs=0&sa=X&ved=0CAcQ2_wOahcKEwjo-ffcj62XAxUAAAAAHQAAAAAQQQ&biw=1707&bih=898&dpr=1.5&atvm=2&mstk=AUtExfCYYeDUhvJCKbaPF7DAql8VvpMQBlVobifJ5Yfm4Fx_NCmRER94LoD5dlh9qLuphpuSjLAoWb0x78lXRXSez55pj5wVSM2R6uJK6iqjuvBCo5jrHOX8P6BU4o87ekLRH7n0WxvnTiixhjximhhMp4JI1WNnZGZrckBl7R8tdbNE_x4D_ksuNmWWdeLvzWYE6ixlpIdqhPo9AH3pS1BbsikO5UUOYsfrxlGJKSQWvnsPwtd9HBf5lrPXGvo-9Raz1tjOlSaglzZsfXJEtSihmQVn80qxfEJspWKy7Wj7zDzg6tlVQU0qTlzPpFEoOKa8XzY1yWhJZ9zESA&mtid=7tTIasXqIYnm7_UPrsHJWA&csuir=1&aep=26&q=aeronautics",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 1533
     }
   ],
   "missing": [],
@@ -4003,7 +4190,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "All 300 exposed history conversations and all scoped transcripts are captured. All available media in this update is bundled, including the four doodles recovered after Google verification. Google did not serve 27 uploaded images; one chart showed its title without plotted marks. Two previously recorded source doodles also remain unavailable.",
+    "note": "The cumulative archive preserves all scoped transcripts. The afternoon update adds three vector diagrams, one still image of the animated rainbow shield, and two uploaded images. Google did not serve 27 previously recorded uploaded images; one earlier chart had no plotted marks and two earlier doodles remain unavailable. These existing source gaps are marked in context.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -4038,41 +4225,48 @@
         "response": 9,
         "description": "Svalbard simulator unavailable in source"
       }
-    ]
+    ],
+    "afternoonMedia": {
+      "date": "2026-10-09",
+      "vectorDiagrams": 3,
+      "animatedWidgetStills": 1,
+      "uploadedImages": 2,
+      "expandedCodeBlocks": 2
+    }
   },
   "latestUpdate": {
-    "at": "2026-10-09T10:08:50.112818+00:00",
+    "at": "2026-10-09T14:23:56.740651+00:00",
     "date": "2026-10-09",
-    "batchId": "2026-10-09-more",
-    "openAiModeTabs": 103,
-    "uniqueOpenConversations": 100,
+    "batchId": "2026-10-09-afternoon",
+    "openAiModeTabs": 117,
+    "uniqueOpenConversations": 114,
     "historyConversations": 300,
-    "method": "Compared 100 distinct open AI Mode tabs and all 300 exposed history identities with the cumulative archive. Captured four newly found history threads and recovered attachment labels in conversation 66. Recent continued threads were checked; partial or unreadable older captures were retained from the previous archive.",
+    "method": "Compared the 114 unique open AI Mode tabs and all 300 exposed history identities against the archive. Captured 17 new distinct conversations from original tabs and saved history; retained two duplicate history aliases. Expanded two Python code blocks, preserved two uploaded images, three SVG diagrams and a rendered shield-widget still.",
     "records": [
       {
-        "ordinal": 359,
-        "tabId": "history-47jIatCpBZWL9u8Pqa3RmQc",
-        "title": "Jitka Digital Studio",
+        "ordinal": 363,
+        "tabId": "1037241899",
+        "title": "jonge kaas en het aantal bacteriën het aantal eenheden in jonge kaas ten opzichte van oude kaas - Google Search",
         "status": "added",
         "counts": {
-          "prompts": 1,
-          "responses": 1
+          "prompts": 12,
+          "responses": 12
         }
       },
       {
-        "ordinal": 360,
-        "tabId": "history-0LfIauvUM8aK9u8Pp9We2Q8",
-        "title": "Human Childhood History",
+        "ordinal": 364,
+        "tabId": "1037241910",
+        "title": "oude kaas jds of jonge kaas jsf deze vergelijking als signed distance field - Google Search",
         "status": "added",
         "counts": {
-          "prompts": 1,
-          "responses": 1
+          "prompts": 3,
+          "responses": 3
         }
       },
       {
-        "ordinal": 361,
-        "tabId": "history-wLTIaqOWEsvti-gP0fa8iQk",
-        "title": "Jitske vs Tom Blood Gulch",
+        "ordinal": 365,
+        "tabId": "1037241905",
+        "title": "boeren en de combine harvester - Google Search",
         "status": "added",
         "counts": {
           "prompts": 2,
@@ -4080,9 +4274,29 @@
         }
       },
       {
-        "ordinal": 362,
-        "tabId": "history-c6TIaqa_N4rN-d8P2fXC2Ag",
-        "title": "Corporate Takeover Tactics",
+        "ordinal": 366,
+        "tabId": "1037241867",
+        "title": "vanta black natfan waarbij de omgedraaide betekenis betekent... - Google Search",
+        "status": "added",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      },
+      {
+        "ordinal": 367,
+        "tabId": "1037241888",
+        "title": "t = k, hoe heet het ook alweer als je betekenis toeschrijft of wijst aan een letter of woord ontologie misschien? - Google Search",
+        "status": "added",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 368,
+        "tabId": "1037241902",
+        "title": "poep transplantatie micropia probiotisch en antibiotisch - Google Search",
         "status": "added",
         "counts": {
           "prompts": 1,
@@ -4090,33 +4304,142 @@
         }
       },
       {
-        "ordinal": 66,
-        "tabId": "1037239592",
-        "title": "trefoil chromatic abberation dot matrix hologram waveguide lensing photonic led spectra different frequency bending and blending quad rendering axis - Google Search",
-        "status": "updated",
-        "previousCounts": {
-          "prompts": 20,
-          "responses": 20
-        },
+        "ordinal": 369,
+        "tabId": "1037241882",
+        "title": "celldelning mitosis - Google Search",
+        "status": "added",
         "counts": {
-          "prompts": 20,
-          "responses": 20
+          "prompts": 11,
+          "responses": 11
+        }
+      },
+      {
+        "ordinal": 370,
+        "tabId": "1037241873",
+        "title": "pulletjes zie je nog niet van een afstand of het een mannetje of vrouwtje is - Google Search",
+        "status": "added",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        }
+      },
+      {
+        "ordinal": 371,
+        "tabId": "1037241847",
+        "title": "schild tegen alles, de regenboog, bushido - Google Search",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 372,
+        "tabId": "1037241860",
+        "title": "tau wiskundig visueel - Google Search",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 373,
+        "tabId": "1037241879",
+        "title": "ik mag overal een T aan vast maken, waarom? - Google Search",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 374,
+        "tabId": "1037241824",
+        "title": "alle vormen van eren (niet spiritiueel) isoleren distribueren balanceren redigeren masturberen leren enz... - Google Search",
+        "status": "added",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        }
+      },
+      {
+        "ordinal": 375,
+        "tabId": "1037241870",
+        "title": "dood jij diegene even, ik doodt helemaal niemand jij dood - Google Search",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 376,
+        "tabId": "1037241839",
+        "title": "Binnenleiden als in alle mankementen van een mens dus ziektes en die transplanteren - Google Search",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 377,
+        "tabId": "history---DIaoz4BPuB9u8P-bmnyAk",
+        "title": "Russische Gevangenissen Marteling",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 378,
+        "tabId": "history-mdfIasqxDdKp9u8P87bN-Q0",
+        "title": "Vantablack Nathan",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 379,
+        "tabId": "history-7tTIasXqIYnm7_UPrsHJWA",
+        "title": "Aeronautics Concepts",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
         }
       }
     ],
     "newOrdinals": [
-      359,
-      360,
-      361,
-      362
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379
     ]
   },
   "pdf": {
     "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-09.pdf",
-    "pages": 1427,
-    "bytes": 79914977,
-    "sha256": "66bd8932b3b743eae9db9f0fb031dc6790bb030b26aa3b68d89fe75d6041013f",
-    "promptMarkersVerified": 1544,
-    "responseMarkersVerified": 1544
+    "pages": 1536,
+    "bytes": 85215097,
+    "sha256": "3971c65fa313d9fcce2216956c547d89b5cdb1038a630ca3b5a938159a9b9265",
+    "promptMarkersVerified": 1601,
+    "responseMarkersVerified": 1601
   }
 }

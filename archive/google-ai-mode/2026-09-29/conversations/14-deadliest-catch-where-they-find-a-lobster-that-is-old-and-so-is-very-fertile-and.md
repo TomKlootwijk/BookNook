@@ -65,10 +65,6 @@ Astrologers often note that Cancers become more vibrant, relaxed, and playfully 
 
 Would you like to explore your **astrological birth chart** further by looking into your **Moon or Ascendant signs**, or are you interested in **creative exercises** tailored to help a Cancer channel their imagination?
 
-Show Code
-
-Hide Code
-
 python
 
 ```

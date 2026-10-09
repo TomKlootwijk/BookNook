@@ -72,10 +72,6 @@ To scale this to a human **fetal context**:
 
 Are you exploring this for a **hard sci-fi writing project**, a **biophysics calculation**, or trying to determine the exact **metabolic conversion formulas**? Let me know what you are calculating next!
 
-Show Code
-
-Hide Code
-
 python
 
 ```

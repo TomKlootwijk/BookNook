@@ -151,10 +151,6 @@ If you want to explore this scale further, let me know:
 * Should we calculate the **physical volume of paper** it would take to print the true factorial?
 * Are you looking to see how this relates to the maximum **information storage capacity (entropy)** of a black hole of the same size?
 
-Show Code
-
-Hide Code
-
 python
 
 ```

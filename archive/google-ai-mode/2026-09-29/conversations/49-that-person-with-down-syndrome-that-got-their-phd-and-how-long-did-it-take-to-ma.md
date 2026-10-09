@@ -160,10 +160,6 @@ If you want to look closer at how this is being researched today, I can explain:
 
 Which component of this biological network should we map out?
 
-Show Code
-
-Hide Code
-
 python
 
 ```
@@ -626,10 +622,6 @@ With the system now compressed to this **57-day fast-action horizon**, should we
 * The **metabolic and energy demands** required to sustain such high-speed cellular mitosis?
 * How the **Double Signed Distance Fields** must be adjusted to prevent structural scarring during fast remodeling?
 * The **algorithmic safety limits** needed to prevent the fast-clicking synNotch pinions from misaligning?
-
-Show Code
-
-Hide Code
 
 python
 
