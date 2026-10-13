@@ -1,0 +1,242 @@
+<svg class="marks" height="500" style="background:#25282f" version="1.1" viewBox="0 0 652 500" width="652" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #22242a;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #25262ECC !important;
+        border: 1px solid #2D2F35CC !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #ADAFB8 !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) &gt; :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style><g fill="none" stroke-miterlimit="10" transform="translate(57,43)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h579v409h-579Z" fill="transparent"/><g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,409.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#747B8C" stroke-width="1" transform="translate(0,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(38,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(75,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(113,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(151,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(188,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(226,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(264,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(302,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(339,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(377,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(415,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(452,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(490,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(528,-409)" x2="0" y2="409"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(565,-409)" x2="0" y2="409"/></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#747B8C" stroke-width="1" transform="translate(0,409)" x2="579" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,362)" x2="579" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,314)" x2="579" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,267)" x2="579" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,220)" x2="579" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,172)" x2="579" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,125)" x2="579" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,78)" x2="579" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,30)" x2="579" y2="0"/></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-label="X-axis titled 'Horizontal Resolution (Pixels)' for a linear scale with values from 0k to 8k" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,409.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(38,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(75,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(113,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(151,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(188,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(226,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(264,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(302,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(339,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(377,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(415,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(452,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(490,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(528,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(565,0)" x2="0" y2="5"/></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="start" transform="translate(0,15)">0k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(37.6953125,15)">0.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(75.390625,15)">1k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(113.0859375,15)">1.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(150.78125,15)">2k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(188.4765625,15)">2.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(226.171875,15)">3k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(263.8671875,15)">3.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(301.5625,15)">4k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(339.2578125,15)">4.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(376.953125,15)">5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(414.6484375,15)">5.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(452.34375,15)">6k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(490.0390625,15)">6.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(527.734375,15)">7k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(565.4296875,15)">7.5k</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="579" y2="0"/></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(289.5,30)">Horizontal Resolution (Pixels)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-label="Y-axis titled 'Vertical Resolution (Pixels)' for a linear scale with values from 0k to 4k" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,409)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,362)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,314)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,267)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,220)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,172)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,125)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,78)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,30)" x2="-5" y2="0"/></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,412)">0k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,364.66203703703707)">0.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,317.3240740740741)">1k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,269.98611111111114)">1.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,222.64814814814812)">2k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,175.3101851851852)">2.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,127.97222222222223)">3k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,80.63425925925924)">3.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,33.29629629629629)">4k</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,409)" x2="0" y2="-409"/></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(-29.9013671875,204.5) rotate(-90) translate(0,-2)">Vertical Resolution (Pixels)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-roledescription="group mark container" class="mark-group role-scope view_1_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h579v409h-579Z"/><g><g aria-roledescription="area mark container" class="mark-area role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object"><path aria-label="x: 0; y: 4.32k; y2: 0; series: Full 8K Frame" aria-roledescription="area mark" d="M0,0L579,0L579,409L0,409Z" fill="#ffbe73" opacity="0.15" role="graphics-symbol"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g><g aria-roledescription="group mark container" class="mark-group role-scope layer_1_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h579v409h-579Z"/><g><g aria-roledescription="area mark container" class="mark-area role-mark layer_1_marks" clip-path="url(#clip2)" pointer-events="none" role="graphics-object"><path aria-label="x: 0; y: 2.16k; y2: 0; series: 2 × 4K Setup" aria-roledescription="area mark" d="M0,204.5L579,204.5L579,409L0,409Z" fill="#618eff" opacity="0.3" role="graphics-symbol"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g><g aria-roledescription="group mark container" class="mark-group role-scope layer_2_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h579v409h-579Z"/><g><g aria-roledescription="area mark container" class="mark-area role-mark layer_2_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object"><path aria-label="x: 0; y: 2.16k; y2: 0; series: Single 4K" aria-roledescription="area mark" d="M0,204.5L289.5,204.5L289.5,409L0,409Z" fill="#f765d1" opacity="0.45" role="graphics-symbol"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_3_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object"><text aria-label="x: 1.92k; y: 1.08k; label: Single 4K (8.3M Pixels)" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(144.75,298.75)">Single 4K (8.3M Pixels)</text><text aria-label="x: 5.76k; y: 1.08k; label: 2 × 4K Setup (16.6M Pixels)" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(434.25,298.75)">2 × 4K Setup (16.6M Pixels)</text><text aria-label="x: 3.84k; y: 3.24k; label: Full 8K Frame (33.2M Pixels)" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(289.5,94.25)">Full 8K Frame (33.2M Pixels)</text></g><g aria-label="Symbol legend for fill color with 3 values: 2 × 4K Setup, Full 8K Frame, Single 4K" aria-roledescription="legend" class="mark-group role-legend" role="graphics-symbol"><g transform="translate(0,-27)"><path aria-hidden="true" class="background" d="M0,0h250v11h-250Z" pointer-events="none"/><g><g class="mark-group role-legend-entry"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g aria-roledescription="group mark container" class="mark-group role-scope" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h79.91064453125v11h-79.91064453125Z" opacity="1" pointer-events="none"/><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#618eff" opacity="0.15" stroke-width="1.5" transform="translate(6,6)"/></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,9)">2 × 4K Setup</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g><g transform="translate(90,0)"><path aria-hidden="true" class="background" d="M0,0h85.072265625v11h-85.072265625Z" opacity="1" pointer-events="none"/><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#ffbe73" opacity="0.15" stroke-width="1.5" transform="translate(6,6)"/></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,9)">Full 8K Frame</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g><g transform="translate(186,0)"><path aria-hidden="true" class="background" d="M0,0h63.08837890625v11h-63.08837890625Z" opacity="1" pointer-events="none"/><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#f765d1" opacity="0.15" stroke-width="1.5" transform="translate(6,6)"/></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,9)">Single 4K</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g></g><defs><clipPath id="clip1"><rect height="409" width="579" x="0" y="0"/></clipPath><clipPath id="clip2"><rect height="409" width="579" x="0" y="0"/></clipPath><clipPath id="clip3"><rect height="409" width="579" x="0" y="0"/></clipPath><clipPath id="clip4"><rect height="409" width="579" x="0" y="0"/></clipPath></defs></svg>

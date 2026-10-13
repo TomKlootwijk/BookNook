@@ -1,0 +1,242 @@
+<svg class="marks" height="450" style="background:#25282f" version="1.1" viewBox="0 0 563 450" width="563" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #22242a;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #25262ECC !important;
+        border: 1px solid #2D2F35CC !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #ADAFB8 !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) &gt; :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style><g fill="none" stroke-miterlimit="10" transform="translate(57,21)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h490v381h-490Z" fill="transparent"/><g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,381.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(31,-381)" x2="0" y2="381"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(92,-381)" x2="0" y2="381"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(153,-381)" x2="0" y2="381"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(214,-381)" x2="0" y2="381"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(276,-381)" x2="0" y2="381"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(337,-381)" x2="0" y2="381"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(398,-381)" x2="0" y2="381"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(459,-381)" x2="0" y2="381"/></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#747B8C" stroke-width="1" transform="translate(0,381)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,346)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,312)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,277)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,242)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,208)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,173)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,139)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,104)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,69)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,35)" x2="490" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="490" y2="0"/></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-label="X-axis titled 'Number of Clusters K' for a linear scale with values from 1 to 9" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,381.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(31,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(92,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(153,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(214,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(276,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(337,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(398,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(459,0)" x2="0" y2="5"/></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(30.625,15)">1</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(91.875,15)">2</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(153.125,15)">3</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(214.375,15)">4</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(275.625,15)">5</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(336.875,15)">6</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(398.125,15)">7</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(459.375,15)">8</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="490" y2="0"/></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(245,30)">Number of Clusters K</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-label="Y-axis titled 'Within-Cluster Sum of Squares (Inertia)' for a linear scale with values from 0k to 1.1k" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,381)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,346)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,312)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,277)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,242)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,208)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,173)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,139)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,104)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,69)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,35)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="-5" y2="0"/></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,384)">0k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,349.3636363636364)">0.1k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,314.7272727272727)">0.2k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,280.0909090909091)">0.3k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,245.45454545454544)">0.4k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,210.8181818181818)">0.5k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,176.1818181818182)">0.6k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,141.54545454545456)">0.7k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,106.9090909090909)">0.8k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,72.27272727272725)">0.9k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,37.63636363636365)">1k</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,3)">1.1k</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,381)" x2="0" y2="-381"/></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(-29.9013671875,190.5) rotate(-90) translate(0,-2)">Within-Cluster Sum of Squares (Inertia)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-roledescription="group mark container" class="mark-group role-scope view_1_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h490v381h-490Z"/><g><g aria-roledescription="line mark container" class="mark-line role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object"><path aria-label="k: 1; inertia: 1k; series: Inertia" aria-roledescription="line mark" d="M30.625,34.636L91.875,190.5L153.125,277.091L214.375,304.8L275.625,322.118L336.875,332.509L398.125,339.436L459.375,344.632" role="graphics-symbol" stroke="#618eff" stroke-width="3"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark layer_1_marks" clip-path="url(#clip2)" pointer-events="none" role="graphics-object"><path aria-label="k: 1; inertia: 1k; series: Inertia" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(30.625,34.63636363636365)"/><path aria-label="k: 2; inertia: 550; series: Inertia" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(91.875,190.5)"/><path aria-label="k: 3; inertia: 300; series: Inertia" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(153.125,277.0909090909091)"/><path aria-label="k: 4; inertia: 220; series: Inertia" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(214.375,304.8)"/><path aria-label="k: 5; inertia: 170; series: Inertia" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(275.625,322.1181818181818)"/><path aria-label="k: 6; inertia: 140; series: Inertia" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(336.875,332.50909090909096)"/><path aria-label="k: 7; inertia: 120; series: Inertia" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(398.125,339.43636363636364)"/><path aria-label="k: 8; inertia: 105; series: Inertia" aria-roledescription="point" d="M3.873,0A3.873,3.873,0,1,1,-3.873,0A3.873,3.873,0,1,1,3.873,0" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(459.375,344.6318181818182)"/></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark layer_2_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object"><path aria-label="k: 3; inertia: 300" aria-roledescription="point" d="M5.477,0A5.477,5.477,0,1,1,-5.477,0A5.477,5.477,0,1,1,5.477,0" fill="red" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(153.125,277.0909090909091)"/></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_3_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object"><text aria-label="k: 3; inertia: 300; label: Elbow Point (Optimal K=3)" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="bold" opacity="1" role="graphics-symbol" text-anchor="start" transform="translate(158.07474746830584,269.1411616226033)">Elbow Point (Optimal K=3)</text></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark layer_4_marks" clip-path="url(#clip5)" pointer-events="none" role="graphics-object"><path aria-label="k: 1; inertia: 1k" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#4c78a8" opacity="0" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(30.625,34.63636363636365)"/><path aria-label="k: 2; inertia: 550" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#4c78a8" opacity="0" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(91.875,190.5)"/><path aria-label="k: 3; inertia: 300" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#4c78a8" opacity="0" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(153.125,277.0909090909091)"/><path aria-label="k: 4; inertia: 220" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#4c78a8" opacity="0" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(214.375,304.8)"/><path aria-label="k: 5; inertia: 170" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#4c78a8" opacity="0" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(275.625,322.1181818181818)"/><path aria-label="k: 6; inertia: 140" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#4c78a8" opacity="0" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(336.875,332.50909090909096)"/><path aria-label="k: 7; inertia: 120" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#4c78a8" opacity="0" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(398.125,339.43636363636364)"/><path aria-label="k: 8; inertia: 105" aria-roledescription="circle" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#4c78a8" opacity="0" role="graphics-symbol" stroke="#272930" stroke-width="2" transform="translate(459.375,344.6318181818182)"/></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark hover_target_marks" clip-path="url(#clip6)" role="graphics-object"><path aria-label="k: 1; inertia: 1k; Number of Clusters K: 1; Within-Cluster Sum of Squares: 1000" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(30.625,34.63636363636365)"/><path aria-label="k: 2; inertia: 550; Number of Clusters K: 2; Within-Cluster Sum of Squares: 550" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(91.875,190.5)"/><path aria-label="k: 3; inertia: 300; Number of Clusters K: 3; Within-Cluster Sum of Squares: 300" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(153.125,277.0909090909091)"/><path aria-label="k: 4; inertia: 220; Number of Clusters K: 4; Within-Cluster Sum of Squares: 220" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(214.375,304.8)"/><path aria-label="k: 5; inertia: 170; Number of Clusters K: 5; Within-Cluster Sum of Squares: 170" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(275.625,322.1181818181818)"/><path aria-label="k: 6; inertia: 140; Number of Clusters K: 6; Within-Cluster Sum of Squares: 140" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(336.875,332.50909090909096)"/><path aria-label="k: 7; inertia: 120; Number of Clusters K: 7; Within-Cluster Sum of Squares: 120" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(398.125,339.43636363636364)"/><path aria-label="k: 8; inertia: 105; Number of Clusters K: 8; Within-Cluster Sum of Squares: 105" aria-roledescription="point" d="M9.354,0A9.354,9.354,0,1,1,-9.354,0A9.354,9.354,0,1,1,9.354,0" fill="transparent" opacity="1" role="graphics-symbol" stroke="transparent" stroke-width="2" transform="translate(459.375,344.6318181818182)"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g></g><defs><clipPath id="clip1"><rect height="381" width="490" x="0" y="0"/></clipPath><clipPath id="clip2"><rect height="381" width="490" x="0" y="0"/></clipPath><clipPath id="clip3"><rect height="381" width="490" x="0" y="0"/></clipPath><clipPath id="clip4"><rect height="381" width="490" x="0" y="0"/></clipPath><clipPath id="clip5"><rect height="381" width="490" x="0" y="0"/></clipPath><clipPath id="clip6"><rect height="381" width="490" x="0" y="0"/></clipPath></defs></svg>

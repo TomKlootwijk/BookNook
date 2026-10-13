@@ -32,6 +32,27 @@ temp=pdf.with_suffix('.bookmarked.pdf')
 with temp.open('wb') as f:writer.write(f)
 temp.replace(pdf)
 manifest['pdf']={'path':str(pdf.relative_to(workspace)).replace('\\','/'),'pages':len(reader.pages),'bytes':pdf.stat().st_size,'sha256':hashlib.sha256(pdf.read_bytes()).hexdigest(),'promptMarkersVerified':prompts,'responseMarkersVerified':responses}
+pdf_parts=[]
+if pdf.stat().st_size > 95*1024*1024:
+    # Keep the combined local PDF and publish complete chapter-aligned volumes.
+    boundaries=[0]
+    for c in manifest['conversations']:
+        start=starts[c['ordinal']]
+        if start-boundaries[-1]>=800: boundaries.append(start)
+    boundaries.append(len(reader.pages))
+    for i,(start,end) in enumerate(zip(boundaries,boundaries[1:]),1):
+        volume=PdfWriter()
+        for page in reader.pages[start:end]:volume.add_page(page)
+        if start==0:
+            volume.add_outline_item('Archive coverage',0)
+            volume.add_outline_item('Conversation index',index_page)
+        for c in manifest['conversations']:
+            if start<=starts[c['ordinal']]<end:volume.add_outline_item(f"{c['ordinal']:02d}. {c['title']}",starts[c['ordinal']]-start)
+        part=pdf.with_name(filename+f'-volume-{i:02d}.pdf')
+        with part.open('wb') as f:volume.write(f)
+        assert part.stat().st_size<100*1024*1024
+        pdf_parts.append(part)
+    manifest['pdf']['volumes']=[dict(path=str(p.relative_to(workspace)).replace('\\','/'),bytes=p.stat().st_size,sha256=hashlib.sha256(p.read_bytes()).hexdigest(),firstPage=boundaries[i]+1,lastPage=boundaries[i+1]) for i,p in enumerate(pdf_parts)]
 (root/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
 # Retain only task artifacts in the portable package.
 zip_path=workspace/'output'/(filename+'.zip')
@@ -41,7 +62,7 @@ with zipfile.ZipFile(zip_path,'w',compression=zipfile.ZIP_DEFLATED,compresslevel
         # concatenation from the ZIP; it remains available in the repository.
         if path.is_file() and path.name not in ['13.assets.json','media-needs.json','all-conversations.md'] and '__pycache__' not in path.parts:
             z.write(path,'archive/'+str(path.relative_to(root)).replace('\\','/'))
-    z.write(pdf,filename+'.pdf')
+    for document in pdf_parts or [pdf]:z.write(document,document.name)
 with zipfile.ZipFile(zip_path) as z:assert z.testzip() is None
 zip_parts=[]
 if zip_path.stat().st_size > 95*1024*1024:
@@ -67,14 +88,16 @@ if zip_path.stat().st_size > 95*1024*1024:
 archive_links='- [Portable archive ZIP](output/'+filename+'.zip)\n'
 if zip_parts:
     archive_links='- Portable archive volumes (extract all into one directory): '+', '.join('[Part '+str(i+1)+'](output/'+part.name+')' for i,part in enumerate(zip_parts))+'.\n'
+pdf_links='- [Combined PDF](output/pdf/'+filename+'.pdf)\n'
+if pdf_parts:pdf_links='- Complete PDF in volumes: '+', '.join('[Volume '+str(i+1)+'](output/pdf/'+p.name+')' for i,p in enumerate(pdf_parts))+'. Read in order; every page is included.\n'
 (workspace/'README.md').write_text(
     '# BookNook\n\nGoogle AI Mode archive updated '+export_date+'.\n\n'
-    '- [Combined PDF](output/pdf/'+filename+'.pdf)\n'
+    +pdf_links+
     '- [Browse HTML and Markdown transcripts](archive/google-ai-mode/2026-09-29/index.html)\n'
     +archive_links+
     '- [Capture manifest](archive/google-ai-mode/2026-09-29/manifest.json)\n\n'
     'Coverage: '+str(manifest['capturedCount'])+' of '+str(manifest['scopeCount'])+' conversations in the cumulative archive, '
     +str(prompts)+' prompt/response pairs. '+str(len(manifest['missing']))+' missing conversations are recorded in the manifest and PDF.\n\n'
-    +'The PDF and [media status](archive/google-ai-mode/2026-09-29/media-status.json) identify media that Google did not serve: '+str(manifest.get('mediaStatus',{}).get('unavailableUploadedImages',0))+' uploaded images, one chart without plotted marks, and two previously recorded unavailable doodles. All available media in this update has been bundled.\n', encoding='utf-8')
+    +'The PDF and [media status](archive/google-ai-mode/2026-09-29/media-status.json) identify source gaps. '+manifest.get('mediaStatus',{}).get('note','')+'\n', encoding='utf-8')
 
 print(json.dumps({'pdfPages':len(reader.pages),'pdfBytes':pdf.stat().st_size,'verifiedPrompts':prompts,'verifiedResponses':responses,'bookmarks':len(manifest['conversations'])+2,'zipBytes':zip_path.stat().st_size,'chapterPages':starts},indent=2))

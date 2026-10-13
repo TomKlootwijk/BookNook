@@ -1,0 +1,242 @@
+<svg class="marks" height="475" style="background:#25282f" version="1.1" viewBox="0 0 619 475" width="619" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #22242a;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #25262ECC !important;
+        border: 1px solid #2D2F35CC !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #ADAFB8 !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) &gt; :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style><g fill="none" stroke-miterlimit="10" transform="translate(58,43)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h544v384h-544Z" fill="transparent"/><g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,384.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(34,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(68,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(102,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(136,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(170,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(204,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(238,-384)" x2="0" y2="384"/><line opacity="1" stroke="#747B8C" stroke-width="1" transform="translate(272,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(306,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(340,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(374,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(408,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(442,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(476,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(510,-384)" x2="0" y2="384"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(544,-384)" x2="0" y2="384"/></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-hidden="true" class="mark-group role-axis"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-grid" pointer-events="none"><line opacity="1" stroke="#747B8C" stroke-width="1" transform="translate(0,354)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,295)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,236)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,177)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,118)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,59)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,384)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,325)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,266)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,207)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,148)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,89)" x2="544" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,30)" x2="544" y2="0"/></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-label="X-axis titled 'Manifold Domain (X)' for a linear scale with values from −4 to 4" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,384.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(34,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(68,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(102,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(136,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(170,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(204,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(238,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(272,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(306,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(340,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(374,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(408,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(442,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(476,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(510,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(544,0)" x2="0" y2="5"/></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="start" transform="translate(0,15)">−4.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(34,15)">−3.5</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(68,15)">−3.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(102,15)">−2.5</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(136,15)">−2.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(170,15)">−1.5</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(204,15)">−1.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(238,15)">−0.5</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(272,15)">0.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(306,15)">0.5</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(340,15)">1.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(374,15)">1.5</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(408,15)">2.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(442,15)">2.5</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(476,15)">3.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(510,15)">3.5</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(544,15)">4.0</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="544" y2="0"/></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(272,30)">Manifold Domain (X)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-label="Y-axis titled 'Geometric Amplitude / Intensity' for a linear scale with values from −0.1 to 1.2" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,354)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,295)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,236)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,177)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,118)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,59)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,384)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,325)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,266)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,207)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,148)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,89)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,30)" x2="-5" y2="0"/></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,357.46153846153845)">0.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,298.38461538461536)">0.2</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,239.30769230769232)">0.4</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,180.23076923076923)">0.6</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,121.15384615384616)">0.8</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,62.07692307692308)">1.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,3)">1.2</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,387)">−0.1</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,327.9230769230769)">0.1</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,268.8461538461538)">0.3</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,209.7692307692308)">0.5</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,150.69230769230774)">0.7</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,91.61538461538464)">0.9</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,32.53846153846152)">1.1</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,384)" x2="0" y2="-384"/></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(-30.7412109375,192) rotate(-90) translate(0,-2)">Geometric Amplitude / Intensity</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-roledescription="group mark container" class="mark-group role-scope view_1_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h544v384h-544Z"/><g><g aria-roledescription="line mark container" class="mark-line role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object"><path aria-label="x: −12; y: 5.38018616002e-32; series: Shamayim Manifold M(x)" aria-roledescription="line mark" d="M-544,354.462L-541.275,354.462L-538.551,354.462L-535.826,354.462L-533.102,354.462L-530.377,354.462L-527.653,354.462L-524.928,354.462L-522.204,354.462L-519.479,354.462L-516.755,354.462L-514.03,354.462L-511.306,354.462L-508.581,354.462L-505.856,354.462L-503.132,354.462L-500.407,354.462L-497.683,354.462L-494.958,354.462L-492.234,354.462L-489.509,354.462L-486.785,354.462L-484.06,354.462L-481.336,354.462L-478.611,354.462L-475.886,354.462L-473.162,354.462L-470.437,354.462L-467.713,354.462L-464.988,354.462L-462.264,354.462L-459.539,354.462L-456.815,354.462L-454.09,354.462L-451.366,354.462L-448.641,354.462L-445.917,354.462L-443.192,354.462L-440.467,354.462L-437.743,354.462L-435.018,354.462L-432.294,354.462L-429.569,354.462L-426.845,354.462L-424.12,354.462L-421.396,354.462L-418.671,354.462L-415.947,354.462L-413.222,354.462L-410.497,354.462L-407.773,354.462L-405.048,354.462L-402.324,354.462L-399.599,354.462L-396.875,354.462L-394.15,354.462L-391.426,354.462L-388.701,354.462L-385.977,354.462L-383.252,354.462L-380.528,354.462L-377.803,354.462L-375.078,354.462L-372.354,354.462L-369.629,354.462L-366.905,354.462L-364.18,354.462L-361.456,354.462L-358.731,354.462L-356.007,354.462L-353.282,354.462L-350.558,354.462L-347.833,354.462L-345.109,354.462L-342.384,354.462L-339.659,354.462L-336.935,354.462L-334.21,354.462L-331.486,354.462L-328.761,354.462L-326.037,354.462L-323.312,354.462L-320.588,354.462L-317.863,354.462L-315.139,354.462L-312.414,354.462L-309.689,354.462L-306.965,354.462L-304.24,354.462L-301.516,354.462L-298.791,354.462L-296.067,354.462L-293.342,354.462L-290.618,354.462L-287.893,354.462L-285.169,354.462L-282.444,354.462L-279.72,354.462L-276.995,354.462L-274.27,354.462L-271.546,354.462L-268.821,354.462L-266.097,354.462L-263.372,354.462L-260.648,354.462L-257.923,354.462L-255.199,354.462L-252.474,354.462L-249.75,354.462L-247.025,354.462L-244.301,354.462L-241.576,354.462L-238.851,354.462L-236.127,354.462L-233.402,354.462L-230.678,354.462L-227.953,354.462L-225.229,354.462L-222.504,354.462L-219.78,354.462L-217.055,354.462L-214.331,354.462L-211.606,354.462L-208.881,354.462L-206.157,354.462L-203.432,354.462L-200.708,354.462L-197.983,354.462L-195.259,354.462L-192.534,354.462L-189.81,354.462L-187.085,354.462L-184.361,354.462L-181.636,354.462L-178.912,354.462L-176.187,354.462L-173.462,354.462L-170.738,354.462L-168.013,354.462L-165.289,354.462L-162.564,354.462L-159.84,354.462L-157.115,354.462L-154.391,354.462L-151.666,354.462L-148.942,354.462L-146.217,354.462L-143.492,354.462L-140.768,354.462L-138.043,354.462L-135.319,354.462L-132.594,354.462L-129.87,354.462L-127.145,354.462L-124.421,354.462L-121.696,354.462L-118.972,354.462L-116.247,354.462L-113.523,354.462L-110.798,354.461L-108.073,354.461L-105.349,354.461L-102.624,354.461L-99.9,354.461L-97.175,354.461L-94.451,354.461L-91.726,354.461L-89.002,354.461L-86.277,354.461L-83.553,354.461L-80.828,354.461L-78.104,354.461L-75.379,354.461L-72.654,354.461L-69.93,354.461L-67.205,354.46L-64.481,354.46L-61.756,354.46L-59.032,354.459L-56.307,354.459L-53.583,354.458L-50.858,354.458L-48.134,354.457L-45.409,354.456L-42.684,354.455L-39.96,354.454L-37.235,354.452L-34.511,354.45L-31.786,354.448L-29.062,354.445L-26.337,354.442L-23.613,354.438L-20.888,354.434L-18.164,354.429L-15.439,354.423L-12.715,354.415L-9.99,354.407L-7.265,354.397L-4.541,354.386L-1.816,354.373L0.908,354.357L3.633,354.339L6.357,354.318L9.082,354.294L11.806,354.266L14.531,354.234L17.255,354.197L19.98,354.154L22.705,354.105L25.429,354.049L28.154,353.985L30.878,353.912L33.603,353.828L36.327,353.734L39.052,353.626L41.776,353.504L44.501,353.365L47.225,353.209L49.95,353.033L52.674,352.835L55.399,352.612L58.124,352.361L60.848,352.081L63.573,351.768L66.297,351.419L69.022,351.029L71.746,350.596L74.471,350.116L77.195,349.583L79.92,348.994L82.644,348.344L85.369,347.627L88.093,346.839L90.818,345.974L93.543,345.025L96.267,343.987L98.992,342.853L101.716,341.618L104.441,340.274L107.165,338.814L109.89,337.232L112.614,335.521L115.339,333.672L118.063,331.68L120.788,329.537L123.513,327.236L126.237,324.771L128.962,322.134L131.686,319.32L134.411,316.322L137.135,313.134L139.86,309.752L142.584,306.17L145.309,302.386L148.033,298.395L150.758,294.195L153.482,289.784L156.207,285.161L158.932,280.328L161.656,275.284L164.381,270.033L167.105,264.578L169.83,258.924L172.554,253.077L175.279,247.046L178.003,240.837L180.728,234.463L183.452,227.935L186.177,221.265L188.902,214.469L191.626,207.562L194.351,200.561L197.075,193.485L199.8,186.354L202.524,179.189L205.249,172.012L207.973,164.845L210.698,157.713L213.422,150.64L216.147,143.652L218.871,136.774L221.596,130.032L224.321,123.452L227.045,117.061L229.77,110.884L232.494,104.947L235.219,99.276L237.943,93.894L240.668,88.826L243.392,84.094L246.117,79.718L248.841,75.72L251.566,72.117L254.29,68.926L257.015,66.163L259.74,63.839L262.464,61.967L265.189,60.555L267.913,59.61L270.638,59.136L273.362,59.136L276.087,59.61L278.811,60.555L281.536,61.967L284.26,63.839L286.985,66.163L289.71,68.926L292.434,72.117L295.159,75.72L297.883,79.718L300.608,84.094L303.332,88.826L306.057,93.894L308.781,99.276L311.506,104.947L314.23,110.884L316.955,117.061L319.679,123.452L322.404,130.032L325.129,136.774L327.853,143.652L330.578,150.64L333.302,157.713L336.027,164.845L338.751,172.012L341.476,179.189L344.2,186.354L346.925,193.485L349.649,200.561L352.374,207.562L355.098,214.469L357.823,221.265L360.548,227.935L363.272,234.463L365.997,240.837L368.721,247.046L371.446,253.077L374.17,258.924L376.895,264.578L379.619,270.033L382.344,275.284L385.068,280.328L387.793,285.161L390.518,289.784L393.242,294.195L395.967,298.395L398.691,302.386L401.416,306.17L404.14,309.752L406.865,313.134L409.589,316.322L412.314,319.32L415.038,322.134L417.763,324.771L420.487,327.236L423.212,329.537L425.937,331.68L428.661,333.672L431.386,335.521L434.11,337.232L436.835,338.814L439.559,340.274L442.284,341.618L445.008,342.853L447.733,343.987L450.457,345.025L453.182,345.974L455.907,346.839L458.631,347.627L461.356,348.344L464.08,348.994L466.805,349.583L469.529,350.116L472.254,350.596L474.978,351.029L477.703,351.419L480.427,351.768L483.152,352.081L485.876,352.361L488.601,352.612L491.326,352.835L494.05,353.033L496.775,353.209L499.499,353.365L502.224,353.504L504.948,353.626L507.673,353.734L510.397,353.828L513.122,353.912L515.846,353.985L518.571,354.049L521.295,354.105L524.02,354.154L526.745,354.197L529.469,354.234L532.194,354.266L534.918,354.294L537.643,354.318L540.367,354.339L543.092,354.357L545.816,354.373L548.541,354.386L551.265,354.397L553.99,354.407L556.715,354.415L559.439,354.423L562.164,354.429L564.888,354.434L567.613,354.438L570.337,354.442L573.062,354.445L575.786,354.448L578.511,354.45L581.235,354.452L583.96,354.454L586.684,354.455L589.409,354.456L592.134,354.457L594.858,354.458L597.583,354.458L600.307,354.459L603.032,354.459L605.756,354.46L608.481,354.46L611.205,354.46L613.93,354.461L616.654,354.461L619.379,354.461L622.104,354.461L624.828,354.461L627.553,354.461L630.277,354.461L633.002,354.461L635.726,354.461L638.451,354.461L641.175,354.461L643.9,354.461L646.624,354.461L649.349,354.461L652.073,354.461L654.798,354.461L657.523,354.462L660.247,354.462L662.972,354.462L665.696,354.462L668.421,354.462L671.145,354.462L673.87,354.462L676.594,354.462L679.319,354.462L682.043,354.462L684.768,354.462L687.492,354.462L690.217,354.462L692.942,354.462L695.666,354.462L698.391,354.462L701.115,354.462L703.84,354.462L706.564,354.462L709.289,354.462L712.013,354.462L714.738,354.462L717.462,354.462L720.187,354.462L722.912,354.462L725.636,354.462L728.361,354.462L731.085,354.462L733.81,354.462L736.534,354.462L739.259,354.462L741.983,354.462L744.708,354.462L747.432,354.462L750.157,354.462L752.881,354.462L755.606,354.462L758.331,354.462L761.055,354.462L763.78,354.462L766.504,354.462L769.229,354.462L771.953,354.462L774.678,354.462L777.402,354.462L780.127,354.462L782.851,354.462L785.576,354.462L788.301,354.462L791.025,354.462L793.75,354.462L796.474,354.462L799.199,354.462L801.923,354.462L804.648,354.462L807.372,354.462L810.097,354.462L812.821,354.462L815.546,354.462L818.27,354.462L820.995,354.462L823.72,354.462L826.444,354.462L829.169,354.462L831.893,354.462L834.618,354.462L837.342,354.462L840.067,354.462L842.791,354.462L845.516,354.462L848.24,354.462L850.965,354.462L853.689,354.462L856.414,354.462L859.139,354.462L861.863,354.462L864.588,354.462L867.312,354.462L870.037,354.462L872.761,354.462L875.486,354.462L878.21,354.462L880.935,354.462L883.659,354.462L886.384,354.462L889.109,354.462L891.833,354.462L894.558,354.462L897.282,354.462L900.007,354.462L902.731,354.462L905.456,354.462L908.18,354.462L910.905,354.462L913.629,354.462L916.354,354.462L919.078,354.462L921.803,354.462L924.528,354.462L927.252,354.462L929.977,354.462L932.701,354.462L935.426,354.462L938.15,354.462L940.875,354.462L943.599,354.462L946.324,354.462L949.048,354.462L951.773,354.462L954.497,354.462L957.222,354.462L959.947,354.462L962.671,354.462L965.396,354.462L968.12,354.462L970.845,354.462L973.569,354.462L976.294,354.462L979.018,354.462L981.743,354.462L984.467,354.462L987.192,354.462L989.917,354.462L992.641,354.462L995.366,354.462L998.09,354.462L1000.815,354.462L1003.539,354.462L1006.264,354.462L1008.988,354.462L1011.713,354.462L1014.437,354.462L1017.162,354.462L1019.886,354.462L1022.611,354.462L1025.336,354.462L1028.06,354.462L1030.785,354.462L1033.509,354.462L1036.234,354.462L1038.958,354.462L1041.683,354.462L1044.407,354.462L1047.132,354.462L1049.856,354.462L1052.581,354.462L1055.306,354.462L1058.03,354.462L1060.755,354.462L1063.479,354.462L1066.204,354.462L1068.928,354.462L1071.653,354.462L1074.377,354.462L1077.102,354.462L1079.826,354.462L1082.551,354.462L1085.275,354.462L1088,354.462" role="graphics-symbol" stroke="#ffbe73" stroke-width="2.5"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h544v384h-544Z"/><g><g aria-roledescription="line mark container" class="mark-line role-mark view_1_marks" clip-path="url(#clip2)" role="graphics-object"><path aria-label="x: −12; y: 1; series: Malkhut Inverse Matrix" aria-roledescription="line mark" d="M-544,59.077L-541.275,59.077L-538.551,59.077L-535.826,59.077L-533.102,59.077L-530.377,59.077L-527.653,59.077L-524.928,59.077L-522.204,59.077L-519.479,59.077L-516.755,59.077L-514.03,59.077L-511.306,59.077L-508.581,59.077L-505.856,59.077L-503.132,59.077L-500.407,59.077L-497.683,59.077L-494.958,59.077L-492.234,59.077L-489.509,59.077L-486.785,59.077L-484.06,59.077L-481.336,59.077L-478.611,59.077L-475.886,59.077L-473.162,59.077L-470.437,59.077L-467.713,59.077L-464.988,59.077L-462.264,59.077L-459.539,59.077L-456.815,59.077L-454.09,59.077L-451.366,59.077L-448.641,59.077L-445.917,59.077L-443.192,59.077L-440.467,59.077L-437.743,59.077L-435.018,59.077L-432.294,59.077L-429.569,59.077L-426.845,59.077L-424.12,59.077L-421.396,59.077L-418.671,59.077L-415.947,59.077L-413.222,59.077L-410.497,59.077L-407.773,59.077L-405.048,59.077L-402.324,59.077L-399.599,59.077L-396.875,59.077L-394.15,59.077L-391.426,59.077L-388.701,59.077L-385.977,59.077L-383.252,59.077L-380.528,59.077L-377.803,59.077L-375.078,59.077L-372.354,59.077L-369.629,59.077L-366.905,59.077L-364.18,59.077L-361.456,59.077L-358.731,59.077L-356.007,59.077L-353.282,59.077L-350.558,59.077L-347.833,59.077L-345.109,59.077L-342.384,59.077L-339.659,59.077L-336.935,59.077L-334.21,59.077L-331.486,59.077L-328.761,59.077L-326.037,59.077L-323.312,59.077L-320.588,59.077L-317.863,59.077L-315.139,59.077L-312.414,59.077L-309.689,59.077L-306.965,59.077L-304.24,59.077L-301.516,59.077L-298.791,59.077L-296.067,59.077L-293.342,59.077L-290.618,59.077L-287.893,59.077L-285.169,59.077L-282.444,59.077L-279.72,59.077L-276.995,59.077L-274.27,59.077L-271.546,59.077L-268.821,59.077L-266.097,59.077L-263.372,59.077L-260.648,59.077L-257.923,59.077L-255.199,59.077L-252.474,59.077L-249.75,59.077L-247.025,59.077L-244.301,59.077L-241.576,59.077L-238.851,59.077L-236.127,59.077L-233.402,59.077L-230.678,59.077L-227.953,59.077L-225.229,59.077L-222.504,59.077L-219.78,59.077L-217.055,59.077L-214.331,59.077L-211.606,59.077L-208.881,59.077L-206.157,59.077L-203.432,59.077L-200.708,59.077L-197.983,59.077L-195.259,59.077L-192.534,59.077L-189.81,59.077L-187.085,59.077L-184.361,59.077L-181.636,59.077L-178.912,59.077L-176.187,59.077L-173.462,59.077L-170.738,59.077L-168.013,59.077L-165.289,59.077L-162.564,59.077L-159.84,59.077L-157.115,59.077L-154.391,59.077L-151.666,59.077L-148.942,59.077L-146.217,59.077L-143.492,59.077L-140.768,59.077L-138.043,59.077L-135.319,59.077L-132.594,59.077L-129.87,59.077L-127.145,59.077L-124.421,59.077L-121.696,59.077L-118.972,59.077L-116.247,59.077L-113.523,59.077L-110.798,59.077L-108.073,59.077L-105.349,59.077L-102.624,59.077L-99.9,59.077L-97.175,59.077L-94.451,59.077L-91.726,59.077L-89.002,59.077L-86.277,59.077L-83.553,59.077L-80.828,59.077L-78.104,59.077L-75.379,59.078L-72.654,59.078L-69.93,59.078L-67.205,59.078L-64.481,59.078L-61.756,59.079L-59.032,59.079L-56.307,59.079L-53.583,59.08L-50.858,59.081L-48.134,59.081L-45.409,59.082L-42.684,59.084L-39.96,59.085L-37.235,59.086L-34.511,59.088L-31.786,59.091L-29.062,59.093L-26.337,59.096L-23.613,59.1L-20.888,59.105L-18.164,59.11L-15.439,59.116L-12.715,59.123L-9.99,59.131L-7.265,59.141L-4.541,59.153L-1.816,59.166L0.908,59.181L3.633,59.199L6.357,59.22L9.082,59.244L11.806,59.272L14.531,59.305L17.255,59.342L19.98,59.384L22.705,59.433L25.429,59.489L28.154,59.553L30.878,59.627L33.603,59.71L36.327,59.805L39.052,59.913L41.776,60.035L44.501,60.173L47.225,60.329L49.95,60.506L52.674,60.704L55.399,60.927L58.124,61.177L60.848,61.457L63.573,61.77L66.297,62.12L69.022,62.509L71.746,62.942L74.471,63.423L77.195,63.955L79.92,64.544L82.644,65.194L85.369,65.911L88.093,66.699L90.818,67.565L93.543,68.514L96.267,69.552L98.992,70.685L101.716,71.92L104.441,73.265L107.165,74.724L109.89,76.306L112.614,78.018L115.339,79.866L118.063,81.858L120.788,84.001L123.513,86.302L126.237,88.767L128.962,91.404L131.686,94.219L134.411,97.217L137.135,100.404L139.86,103.787L142.584,107.368L145.309,111.153L148.033,115.144L150.758,119.344L153.482,123.755L156.207,128.377L158.932,133.211L161.656,138.255L164.381,143.506L167.105,148.961L169.83,154.614L172.554,160.461L175.279,166.493L178.003,172.701L180.728,179.075L183.452,185.604L186.177,192.273L188.902,199.07L191.626,205.977L194.351,212.978L197.075,220.053L199.8,227.184L202.524,234.349L205.249,241.526L207.973,248.693L210.698,255.825L213.422,262.898L216.147,269.886L218.871,276.765L221.596,283.507L224.321,290.087L227.045,296.478L229.77,302.655L232.494,308.591L235.219,314.263L237.943,319.644L240.668,324.712L243.392,329.445L246.117,333.82L248.841,337.819L251.566,341.421L254.29,344.612L257.015,347.376L259.74,349.699L262.464,351.571L265.189,352.983L267.913,353.929L270.638,354.402L273.362,354.402L276.087,353.929L278.811,352.983L281.536,351.571L284.26,349.699L286.985,347.376L289.71,344.612L292.434,341.421L295.159,337.819L297.883,333.82L300.608,329.445L303.332,324.712L306.057,319.644L308.781,314.263L311.506,308.591L314.23,302.655L316.955,296.478L319.679,290.087L322.404,283.507L325.129,276.765L327.853,269.886L330.578,262.898L333.302,255.825L336.027,248.693L338.751,241.526L341.476,234.349L344.2,227.184L346.925,220.053L349.649,212.978L352.374,205.977L355.098,199.07L357.823,192.273L360.548,185.604L363.272,179.075L365.997,172.701L368.721,166.493L371.446,160.461L374.17,154.614L376.895,148.961L379.619,143.506L382.344,138.255L385.068,133.211L387.793,128.377L390.518,123.755L393.242,119.344L395.967,115.144L398.691,111.153L401.416,107.368L404.14,103.787L406.865,100.404L409.589,97.217L412.314,94.219L415.038,91.404L417.763,88.767L420.487,86.302L423.212,84.001L425.937,81.858L428.661,79.866L431.386,78.018L434.11,76.306L436.835,74.724L439.559,73.265L442.284,71.92L445.008,70.685L447.733,69.552L450.457,68.514L453.182,67.565L455.907,66.699L458.631,65.911L461.356,65.194L464.08,64.544L466.805,63.955L469.529,63.423L472.254,62.942L474.978,62.509L477.703,62.12L480.427,61.77L483.152,61.457L485.876,61.177L488.601,60.927L491.326,60.704L494.05,60.506L496.775,60.329L499.499,60.173L502.224,60.035L504.948,59.913L507.673,59.805L510.397,59.71L513.122,59.627L515.846,59.553L518.571,59.489L521.295,59.433L524.02,59.384L526.745,59.342L529.469,59.305L532.194,59.272L534.918,59.244L537.643,59.22L540.367,59.199L543.092,59.181L545.816,59.166L548.541,59.153L551.265,59.141L553.99,59.131L556.715,59.123L559.439,59.116L562.164,59.11L564.888,59.105L567.613,59.1L570.337,59.096L573.062,59.093L575.786,59.091L578.511,59.088L581.235,59.086L583.96,59.085L586.684,59.084L589.409,59.082L592.134,59.081L594.858,59.081L597.583,59.08L600.307,59.079L603.032,59.079L605.756,59.079L608.481,59.078L611.205,59.078L613.93,59.078L616.654,59.078L619.379,59.078L622.104,59.077L624.828,59.077L627.553,59.077L630.277,59.077L633.002,59.077L635.726,59.077L638.451,59.077L641.175,59.077L643.9,59.077L646.624,59.077L649.349,59.077L652.073,59.077L654.798,59.077L657.523,59.077L660.247,59.077L662.972,59.077L665.696,59.077L668.421,59.077L671.145,59.077L673.87,59.077L676.594,59.077L679.319,59.077L682.043,59.077L684.768,59.077L687.492,59.077L690.217,59.077L692.942,59.077L695.666,59.077L698.391,59.077L701.115,59.077L703.84,59.077L706.564,59.077L709.289,59.077L712.013,59.077L714.738,59.077L717.462,59.077L720.187,59.077L722.912,59.077L725.636,59.077L728.361,59.077L731.085,59.077L733.81,59.077L736.534,59.077L739.259,59.077L741.983,59.077L744.708,59.077L747.432,59.077L750.157,59.077L752.881,59.077L755.606,59.077L758.331,59.077L761.055,59.077L763.78,59.077L766.504,59.077L769.229,59.077L771.953,59.077L774.678,59.077L777.402,59.077L780.127,59.077L782.851,59.077L785.576,59.077L788.301,59.077L791.025,59.077L793.75,59.077L796.474,59.077L799.199,59.077L801.923,59.077L804.648,59.077L807.372,59.077L810.097,59.077L812.821,59.077L815.546,59.077L818.27,59.077L820.995,59.077L823.72,59.077L826.444,59.077L829.169,59.077L831.893,59.077L834.618,59.077L837.342,59.077L840.067,59.077L842.791,59.077L845.516,59.077L848.24,59.077L850.965,59.077L853.689,59.077L856.414,59.077L859.139,59.077L861.863,59.077L864.588,59.077L867.312,59.077L870.037,59.077L872.761,59.077L875.486,59.077L878.21,59.077L880.935,59.077L883.659,59.077L886.384,59.077L889.109,59.077L891.833,59.077L894.558,59.077L897.282,59.077L900.007,59.077L902.731,59.077L905.456,59.077L908.18,59.077L910.905,59.077L913.629,59.077L916.354,59.077L919.078,59.077L921.803,59.077L924.528,59.077L927.252,59.077L929.977,59.077L932.701,59.077L935.426,59.077L938.15,59.077L940.875,59.077L943.599,59.077L946.324,59.077L949.048,59.077L951.773,59.077L954.497,59.077L957.222,59.077L959.947,59.077L962.671,59.077L965.396,59.077L968.12,59.077L970.845,59.077L973.569,59.077L976.294,59.077L979.018,59.077L981.743,59.077L984.467,59.077L987.192,59.077L989.917,59.077L992.641,59.077L995.366,59.077L998.09,59.077L1000.815,59.077L1003.539,59.077L1006.264,59.077L1008.988,59.077L1011.713,59.077L1014.437,59.077L1017.162,59.077L1019.886,59.077L1022.611,59.077L1025.336,59.077L1028.06,59.077L1030.785,59.077L1033.509,59.077L1036.234,59.077L1038.958,59.077L1041.683,59.077L1044.407,59.077L1047.132,59.077L1049.856,59.077L1052.581,59.077L1055.306,59.077L1058.03,59.077L1060.755,59.077L1063.479,59.077L1066.204,59.077L1068.928,59.077L1071.653,59.077L1074.377,59.077L1077.102,59.077L1079.826,59.077L1082.551,59.077L1085.275,59.077L1088,59.077" role="graphics-symbol" stroke="#618eff" stroke-width="2.5"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_1_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object"><text aria-label="x: 0; y: 1; label: Shamayim Apex (Unity)" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="bold" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(272,52.07692307692308)">Shamayim Apex (Unity)</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_2_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object"><text aria-label="x: −3.2; y: 0.994023977105; label: Malkhut Plane (Physical Manifestation)" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="start" transform="translate(59.39999999999998,63.84214830129409)">Malkhut Plane (Physical Manifestation)</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_3_marks" clip-path="url(#clip5)" pointer-events="none" role="graphics-object"><text aria-label="x: 3.2; y: 0.994023977105; label: Malkhut Plane (Physical Manifestation)" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="end" transform="translate(484.6,63.84214830129409)">Malkhut Plane (Physical Manifestation)</text></g><g aria-label="Symbol legend for stroke color with 2 values: Malkhut Inverse Matrix, Shamayim Manifold M(x)" aria-roledescription="legend" class="mark-group role-legend" role="graphics-symbol"><g transform="translate(0,-27)"><path aria-hidden="true" class="background" d="M0,0h276v11h-276Z" pointer-events="none"/><g><g class="mark-group role-legend-entry"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g aria-roledescription="group mark container" class="mark-group role-scope" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h126.64453125v11h-126.64453125Z" opacity="1" pointer-events="none"/><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M-5,0L5,0" fill="transparent" opacity="1" stroke="#618eff" stroke-width="1.5" transform="translate(6,6)"/></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,9)">Malkhut Inverse Matrix</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g><g transform="translate(138,0)"><path aria-hidden="true" class="background" d="M0,0h137.63916015625v11h-137.63916015625Z" opacity="1" pointer-events="none"/><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M-5,0L5,0" fill="transparent" opacity="1" stroke="#ffbe73" stroke-width="1.5" transform="translate(6,6)"/></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,9)">Shamayim Manifold M(x)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g></g><defs><clipPath id="clip1"><rect height="384" width="544" x="0" y="0"/></clipPath><clipPath id="clip2"><rect height="384" width="544" x="0" y="0"/></clipPath><clipPath id="clip3"><rect height="384" width="544" x="0" y="0"/></clipPath><clipPath id="clip4"><rect height="384" width="544" x="0" y="0"/></clipPath><clipPath id="clip5"><rect height="384" width="544" x="0" y="0"/></clipPath></defs></svg>

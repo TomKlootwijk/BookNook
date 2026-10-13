@@ -185,7 +185,9 @@ def clean_message(item, ordinal, index):
                 b=base64.b64decode(data) if ';base64' in header else data.encode()
                 ext={'image/png':'png','image/jpeg':'jpg','image/webp':'webp','image/svg+xml':'svg','image/gif':'gif'}.get(header[5:].split(';')[0],'bin')
                 filename=hashlib.sha256(b).hexdigest()[:20]+'.'+ext
-                (ROOT/'assets'/filename).write_bytes(b)
+                asset_path = ROOT/'assets'/filename
+                if not asset_path.exists(): asset_path.write_bytes(b)
+                x['src'] = 'assets/' + filename
                 image_total+=1
             except Exception as e: issues.append({'conversation':ordinal,'message':index,'type':'image_decode','error':str(e)})
         else:
@@ -234,9 +236,10 @@ for d in records:
                 pixels = base64.b64decode(encoded)
                 extension = 'jpg' if 'image/jpeg' in header else 'png'
                 asset_name = hashlib.sha256(pixels).hexdigest()[:20]+'.'+extension
-                (ROOT/'assets'/asset_name).write_bytes(pixels)
-                body += '<figure><img src="'+esc(src)+'" alt="User-uploaded image"><figcaption>User-uploaded image as served by Google.</figcaption></figure>'
-                md.append('![User-uploaded image as served by Google]('+src+')\n')
+                asset_path = ROOT/'assets'/asset_name
+                if not asset_path.exists(): asset_path.write_bytes(pixels)
+                body += '<figure><img src="assets/'+esc(asset_name)+'" alt="User-uploaded image"><figcaption>User-uploaded image as served by Google.</figcaption></figure>'
+                md.append('![User-uploaded image as served by Google](assets/'+asset_name+')\n')
                 image_total += 1
         else:
             response_count+=1;label=f'Response {response_count} · Google AI Mode';clean=clean_message(item,n,j)
@@ -251,8 +254,8 @@ for d in records:
         chunks.append('<section class="turn"><div class="role">'+esc(label)+'</div>'+body+'</section>')
     head='<header class="chapterhead"><div class="eyebrow">Conversation '+str(n).zfill(2)+'</div><h1>'+esc(title)+'</h1><p class="meta">'+str(prompt_count)+' prompts · '+str(response_count)+' responses · Captured '+esc(d['capturedAt'])+'</p><p><a href="'+esc(d.get('originalUrl',d['url']))+'">Open the original Google AI Mode conversation</a></p></header>'
     chapter='<article class="chapter" id="conversation-'+str(n)+'">'+head+''.join(chunks)+'</article>'
-    (ROOT/'conversations'/(basename+'.html')).write_text(page(title,chapter),encoding='utf-8')
-    (ROOT/'conversations'/(basename+'.md')).write_text('\n'.join(md),encoding='utf-8')
+    write_aggregate(ROOT/'conversations'/(basename+'.html'), page(title,chapter).replace('src="assets/', 'src="../assets/'))
+    write_aggregate(ROOT/'conversations'/(basename+'.md'), '\n'.join(md).replace('](assets/', '](../assets/'))
     chapters.append(chapter);all_md.append('\n'.join(md))
     toc.append('<li><a href="#conversation-'+str(n)+'">'+esc(title)+'</a><span class="meta"> — '+str(prompt_count)+' exchanges</span></li>')
     manifest.append({'ordinal':n,'title':title,'prompts':prompt_count,'responses':response_count,'html':'conversations/'+basename+'.html','markdown':'conversations/'+basename+'.md','source':d.get('originalUrl',d['url']),'recoveredFromSavedUrl':d.get('recoveredFromSavedUrl',False)})

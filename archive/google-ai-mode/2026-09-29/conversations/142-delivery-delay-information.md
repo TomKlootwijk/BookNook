@@ -12,7 +12,7 @@ Delivery Delayed - Due to Holiday Closure.
 
 A delivery delay due to a holiday closure means your package is temporarily on hold because either the carrier, the sorting facility, or your delivery address is closed for a public or regional holiday. 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACgElEQVRYhe2WUUiTURTHf1dbzo2ZTpsPlg5RQUmpTKkwyigsqewhLB+EMiKCoqLooadCLCIzQUgqIQJ7yHoIQSh1RTKwxbIHozRj05ZZaWpqranb7WE5Z25hBNnDd+CDy72X//2dP+ccPiGlZD4jZF5fVwAUAAXgfwAQ22PKA06i+v4TYi4COxZfkgD1u096NyZ+uXBlHEJVQbXm3YEFUwvD0ghq2g7MKevfRkQsXPwwZx0fQFSsdsbB0Mev8pnJztgXF5ExGrLzEtFEhAmPW0prs41+xwixCYtmK2r1f8QbsAZWbjTSZx+mzz7s20tMN3ChYQ91FRbuVFpmCQWsAUMy6OOhwwSaSDjWBJ97oKYI3BOws2zaAf9oe9gNQG5hGgWHMqktM2NttlN9yoT5XicAm4qWERIqaKxtD55eSCjsvwXnsmDIAVX5MO70Pp66GbaeFj4HEtMNlJxdz/j3SS4fvs/ooDOoblySnurWfQICdEFUEhRfBwQs1IAxS9D5SHKtEMYGvHcSVsGRBtAZhM+BiOhwMtbFC49byqkKWp2fhFqjQq1VERauot3swPbiE+FaVfCsw3SQsmFmESblQLTRDyATdAYBfm3occufrgmRkBYDQGp2HEertpCeE49aq2JJirfA3nUN0trQJa1NttkzxPEcDgrp+wBulkCPdfpOy1UwVUrw6wKXc7p68kuW0252cOPMY25XPOHbiAuA0ru7GOgd5aWll/N764O74B+N5RJLrXddUAqvW+BVE9Qdh8Q1UgT7JWt72C3fdgzgck4y8H6UFblG1m5LFr1vBuXTBzbckx50ejV5xRl/NTuCAvyrmPdRrAAoAAqAAqAA/ADgpNZTt5nxaQAAAABJRU5ErkJggg==)FedEx +1
+![](../assets/4c452d38dcc1cd16b115.png)FedEx +1
 
 ### What This Means for Your Package
 
@@ -20,7 +20,7 @@ A delivery delay due to a holiday closure means your package is temporarily on h
 * **Business vs. Residential:** If you are shipping to a business address, a status update noting a holiday closure often means the driver attempted delivery, but the recipient's location was closed.
 * **Next Business Day:** Movement resumes automatically on the next regular working day once facilities reopen. 
 
-  ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA5FBMVEX///8hAAAYAAD/vkL/x0KcYSlKIAD3tkLOlkJzQRitcTH/tkKUYSnnpkKUWSmMUSGcYTGESSFaKAiMWTHOjjm1cTHGjjljMAhSIADOljmlaTG1eTFjMBA5EABrOBDWnjm9hjkpAAC9hjHv7+/enjl7SRhCGADOx8athlq9jlLvrkJ7SSFaMAgxCABSKAgxAACchnOllpTGtrWlhmulhmO1noze395KGACcaSlCEADepjmceVqtpqWcjoSceWuMYTmUaUqccVrGjkrGtq2leUqEWTnGlkq1ppyUeWuteUq9rpy9llKVP5xtAAAB2UlEQVQ4jW2Te3uaMBTG7UkgIwpURMpNBBQvqNjWS21tu25r3bp9/++zEIgF9f2Dh4f3l+TlnJNGQ2j8/PK6/97pfLz9uL27b9Q1Xk2mZj9FpYjq/Jys7gbC/rWmBKOaMNPwfbPl/kdacZqqGXZdSdM0iXrWJwc6X6v7uhFdwVE3TgGUrjmzI/b16ii4+VYB6DyqmqdAPzl1awBxF+d2FZjx5fkDRAge0i+AawqZ0YOekS3hIdGSXg4+6HomdriWZIIVaGMiK828QAGAQtiLnwnARogBqClLeNjyEJENhDzNUo6ALIAWpgAW3uk4zQ+aXwC6ABJWNYSSSsgTQEPEoBiZfiXkKWAvWH+JbZyFLI8gI7a9iqhxOaSHrbxObeSIDLseQaHsciAc6QQFAbUNk/WvAN4o6MWkjVp8mFyYsRHBKAsOHLh1lqCHTujOQUJqHOsRPLZC0wtAn3LgfphA2Sgpz1A2jr3E62Jop1bZbAZ0v/oOSvq7ADZsXM4BWD5NxNy/Yr/YeIc9AcAiPjwLYLBPJT4FvtsW8xI4YfV6/XGIUgQr7FGM3rf1y7d3+klU/oHtPbmbQeNE45Wl0se8xqb6+ffM5gVZO6qmWOr05aKda7v6d1jXr/5/C5sr4npVxhMAAAAASUVORK5CYII=)UPS +2
+  ![](../assets/46f41339c8987ef9e965.png)UPS +2
 
 If you share the **name of the shipping carrier** (like PostNL, UPS, or DHL) and the **date** you expected the package, I can check their specific holiday schedule for you.
 

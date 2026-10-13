@@ -18,13 +18,13 @@ elaborate
 
 ## Response 2 — Google AI Mode
 
-![](data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA/vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3+/rM6qzQWc8D3etVbTfBEeNbqJu+10k1h5hVXEe/3vpL5NJSAtUHvrJ6e/LkA//pZx+xvTn7v+qaIRjl47m2LoP17C7tcoPGgAAA=)
+![](../assets/7e5a1e720e16a7bb6165.webp)
 
 1 site
 
 ### Here are top web results for exploring this topic:
 
-![](data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA/vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3+/rM6qzQWc8D3etVbTfBEeNbqJu+10k1h5hVXEe/3vpL5NJSAtUHvrJ6e/LkA//pZx+xvTn7v+qaIRjl47m2LoP17C7tcoPGgAAA=)
+![](../assets/7e5a1e720e16a7bb6165.webp)
 
 Wikipedia·https://en.wikipedia.org
 
@@ -42,13 +42,13 @@ yes but my prompt
 
 ## Response 3 — Google AI Mode
 
-![](data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA/vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3+/rM6qzQWc8D3etVbTfBEeNbqJu+10k1h5hVXEe/3vpL5NJSAtUHvrJ6e/LkA//pZx+xvTn7v+qaIRjl47m2LoP17C7tcoPGgAAA=)
+![](../assets/7e5a1e720e16a7bb6165.webp)
 
 1 site
 
 ### Here are top web results for exploring this topic:
 
-![](data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA/vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3+/rM6qzQWc8D3etVbTfBEeNbqJu+10k1h5hVXEe/3vpL5NJSAtUHvrJ6e/LkA//pZx+xvTn7v+qaIRjl47m2LoP17C7tcoPGgAAA=)
+![](../assets/7e5a1e720e16a7bb6165.webp)
 
 Wikipedia·https://en.wikipedia.org
 

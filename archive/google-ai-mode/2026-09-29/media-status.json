@@ -1,14 +1,14 @@
 {
-  "checkedHistoryThreads": 301,
+  "checkedHistoryThreads": 300,
   "allTranscriptsCaptured": true,
-  "unavailableUploadedImages": 28,
+  "unavailableUploadedImages": 38,
   "pendingImages": [],
   "pendingWidgets": [],
   "sourceWidgetWithoutPlot": {
     "conversation": 157,
     "response": 5
   },
-  "note": "The cumulative archive preserves all scoped transcripts. The evening update adds six vector diagrams, including two static snapshots of interactive pentagram animations. Google did not serve 28 uploaded images (27 previously recorded and one new screenshot); one earlier chart had no plotted marks and two earlier doodles remain unavailable. These source gaps are marked in context.",
+  "note": "All scoped conversation slots are archived. This batch adds 21 original diagrams/charts and 18 generated images as static snapshots. Google did not serve 38 uploaded images cumulatively, two restored response slots contain only the standard AI notice, and one PDF attachment is unavailable. One earlier chart without plotted marks and two earlier unavailable doodles remain recorded. All gaps are marked in context.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -62,5 +62,226 @@
         "reason": "Google displays a missing-image placeholder and no image resource in the restored conversation."
       }
     ]
+  },
+  "sourceEmptyResponses": [
+    {
+      "conversation": 399,
+      "response": 7
+    },
+    {
+      "conversation": 559,
+      "response": 8
+    }
+  ],
+  "unavailableFileAttachments": [
+    {
+      "conversation": 559,
+      "prompt": 4,
+      "filename": "Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.2_Reviewed.pdf"
+    }
+  ],
+  "october13Media": {
+    "date": "2026-10-13",
+    "visuals": [
+      {
+        "conversation": 402,
+        "response": 4,
+        "path": "assets/402-response-4-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 425,
+        "response": 3,
+        "path": "assets/425-response-3-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 432,
+        "response": 2,
+        "path": "assets/432-response-2-canvas.jpg",
+        "format": "jpg"
+      },
+      {
+        "conversation": 446,
+        "response": 2,
+        "path": "assets/446-response-2-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 448,
+        "response": 1,
+        "path": "assets/448-response-1-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 448,
+        "response": 2,
+        "path": "assets/448-response-2-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 448,
+        "response": 3,
+        "path": "assets/448-response-3-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 448,
+        "response": 4,
+        "path": "assets/448-response-4-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 448,
+        "response": 7,
+        "path": "assets/448-response-7-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 452,
+        "response": 1,
+        "path": "assets/452-response-1-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 458,
+        "response": 14,
+        "path": "assets/458-response-14-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 460,
+        "response": 2,
+        "path": "assets/460-response-2-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 460,
+        "response": 3,
+        "path": "assets/460-response-3-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 488,
+        "response": 5,
+        "path": "assets/488-response-5-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 503,
+        "response": 2,
+        "path": "assets/503-response-2-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 506,
+        "response": 1,
+        "path": "assets/506-response-1-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 508,
+        "response": 10,
+        "path": "assets/508-response-10-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 511,
+        "response": 2,
+        "path": "assets/511-response-2-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 552,
+        "response": 2,
+        "path": "assets/552-response-2-chart-1.svg",
+        "format": "svg"
+      },
+      {
+        "conversation": 557,
+        "response": 2,
+        "path": "assets/557-response-2-canvas.jpg",
+        "format": "jpg"
+      },
+      {
+        "conversation": 557,
+        "response": 3,
+        "path": "assets/557-response-3-chart-1.svg",
+        "format": "svg"
+      }
+    ],
+    "unavailableUploadedImages": [
+      {
+        "conversation": 410,
+        "prompt": 2,
+        "notes": [
+          "Google did not serve this uploaded image in the restored conversation; a missing-image placeholder or no image resource is present."
+        ]
+      },
+      {
+        "conversation": 410,
+        "prompt": 7,
+        "notes": [
+          "Google did not serve this uploaded image in the restored conversation; a missing-image placeholder or no image resource is present."
+        ]
+      },
+      {
+        "conversation": 425,
+        "prompt": 4,
+        "notes": [
+          "Google did not serve this uploaded image in the restored conversation; a missing-image placeholder or no image resource is present."
+        ]
+      },
+      {
+        "conversation": 459,
+        "prompt": 4,
+        "notes": [
+          "Google did not serve this uploaded image in the restored conversation; a missing-image placeholder or no image resource is present."
+        ]
+      },
+      {
+        "conversation": 487,
+        "prompt": 2,
+        "notes": [
+          "Google did not serve this uploaded image in the restored conversation; a missing-image placeholder or no image resource is present."
+        ]
+      },
+      {
+        "conversation": 506,
+        "prompt": 2,
+        "notes": [
+          "Google did not serve this uploaded image in the restored conversation; a missing-image placeholder or no image resource is present."
+        ]
+      },
+      {
+        "conversation": 512,
+        "prompt": 1,
+        "notes": [
+          "Google did not serve this uploaded image in the restored conversation; a missing-image placeholder or no image resource is present."
+        ]
+      },
+      {
+        "conversation": 515,
+        "prompt": 3,
+        "notes": [
+          "Google did not serve this uploaded image in the restored conversation; a missing-image placeholder or no image resource is present."
+        ]
+      },
+      {
+        "conversation": 546,
+        "prompt": 5,
+        "notes": [
+          "Google did not serve this uploaded image in the restored conversation; a missing-image placeholder or no image resource is present."
+        ]
+      },
+      {
+        "conversation": 557,
+        "prompt": 19,
+        "notes": [
+          "Google did not serve this uploaded image in the restored conversation; a missing-image placeholder or no image resource is present."
+        ]
+      }
+    ],
+    "generatedImagesBundled": 18
   }
 }

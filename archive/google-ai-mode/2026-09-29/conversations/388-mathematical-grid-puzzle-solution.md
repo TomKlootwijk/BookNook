@@ -61,18 +61,18 @@ Geometrically, if you look at this matrix from the absolute middle (the origin  
 
 When you calculate the **dot product** of these two spatial vectors from the center: 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJyckJCT8/Pz5+flvb28/Pz8bGxvw8PDi4uIgICDZ2dm3t7egoKBZWVmGhoZKSkrDw8NoaGg6OjqmpqaNjY1PT0/MzMzo6Oivr69hYWF/f38AAACVlZURERF3d3cUjdnRAAAEXUlEQVR4nO2YyaKyOgyAaTrIDKJMIniQ93/HvzRVadW70Lq6/TYecypJ00wlCDwej8fj8Xg8Ho/H4/F4PB6Px+N5y/5K42M1RZdDf7hE1Slm4q8Lsj/BjlOz9P0lalbhdZUlEJ+a5XBYplMr/qKgIFceV9FyuEgJSf7qTwwoT5ADpQDAQX4yBtCOwbkigkop51JGaU7iLiiOsZLBuk7aJyVNzEFLIG+b4hMDwqLuKkHuQFQPabDLhrIFLaLxfiikrBjKmOKiVRKqVRVK+Gkczp/oV6TdlWllvEtv0ixCu1j8cG0RrwvzJt3dJadVwi+fa1fULVoAh91DeG7U7uhytynY7bkUbBcFnTSTH75Tvz5GG7B/Nos2m92VufldLsoJa9PgW9IIng3YKSFrh4ekE9sTUSYJko9f65fPUbuFxdhLcVVxMYd3OyfKL+YPe06r7x0g96YOfLvblUa5ALLb9zphEBorwory0oF+dbrrbnvj+QOg8Pa9oqIzf1a3MGWBC3aMKRcYERZiaHDt4yGhJ9Pd4QHo7ET/epirLmGEYVCjUOuIQFjxVpxobJ7a55zRBcIQYnawo/LySKCxCk6Xw+JIv/Sm2m1uhtSI1XCvjbHiLT2xxJUDpLsJ1p1tnQtSVezpdF7/Tycr4WrZlJzpl6VXuds601l1BCjXGpDYCTdRJ0XoxqjqMTdKfRAoA2T0jzIFrB8UV3Z0UYRuZKqzsZPZ19EFoowZ2BPHgfP9LnAIhiE3vZqpIs2k/sUsgtJgevxoCHlLpmq/VdtDdAFjzHbAyPjFsulbJjUBWLGGUwihvaVMBm380Rj4H9S4WTPYZLlVUjveawKTYwforCeJebJ6MLlYbaDnTnMQGVVPBKvnT69a9ZmwxLn+oFAuYFZw19iqzYibhXDVBzfsenXe1OyJQ44dwTBLusTNIGBSq5BXtf8BTgXEaHx1wg+uQ1CBmUi3+SWDEK8fySYMpVGucxDB0Qyah6404nGj28TDqJgvLtvABoK6Huct8315Cs4ZiPsc1I8WZibKuVDWhRlP5hb3WQVOhvFXZKBckNwirBbQyPw8quCsdOCX/DEquybE6fSuoKVkTQnslHoqlxUz+ZUDZNZj5dUuLhM+rz0/S1QpOKr8HAREP9N/uyfiAJpOoAcUzE+cy+V87m4WfQavyqAq7yivhigd0AVE/hkm2zR1z7lSMxCRmzxPvNJFMVyUY9YO2Iun6cwt+pIkb8Uj5PfLYE1wXgrTiju6D77jjN6Oz2kF5HE3168Lyrp1dh98B84loitFsql3GBu0acDxLPrMgKNZ3BrBlupGRe2BxT1albyuGsHW6fd5ya8dILOP6wnAnNBR6vI++A4s/TLgTHEvXoztv2EGewRaSddebb8l+Q3DOpo9nXU48/VtqtP74DsaSl40HGmXPTL/ijJn4llTeOH29f1nkGR+oWlo21/2wS1l/+oN+K5z+0bA4/F4PB6Px+PxeDwej+f/wj+K7jVSoVGXHQAAAABJRU5ErkJggg==)Wikipedia
+![](../assets/f48ec470e852199e1b30.png)Wikipedia
 
   
  $\vec{u}\cdot \vec{v}=(1)(1)+(1)(-1)=1-1=\mathbf{0}$
 
 Because the dot product is exactly **0**, it tells you something beautiful geometrically: these two vectors are **perfectly perpendicular (orthogonal) to each other**. They form a perfect  $90^{\circ }$  right angle splitting right through the center of the grid. 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAP1BMVEV3AwP/3wSMJQOHHAPXnwOdQQOsWgOIHwP61wPnuQPkswPwxwN5BgOjSgOoUwO2aQN/DwOZOwOTMQO/dwPJhwME9xzxAAAASklEQVQYla2MSQ6AMAACme627vr/t2pqvZh4Ug4ECBnpm+yjx/RydKnLJfca4Bo8IxNRc2iDQRhMDe1hWfBaw2mVwcaOU+GG/K4Dn6kBMLmfldQAAAAASUVORK5CYII=)Math Insight +1
+![](../assets/92010ddeef4b2366e116.png)Math Insight +1
 
 Furthermore, if you view this as a **linear transformation matrix**, it acts as a perfect **geometric reflection and scale**. It takes the standard grid, rotates it, and expands it symmetrically outward. 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/ADP/ADP/ADP/ADP/////hpT/2uH/Smj/s8D/JEv/b4eB3bNwAAAACHRSTlMAQB+z1GXri3bBstgAAAKRSURBVHic7ZrpduMwCIUrGW1xMn3/t602J25s59RARGeG+zd1+Y4QaLsfHyqVSqVSqVSqv0C2yCxyxh0r/9pVP7L4kKaGCSFMVTBBke+KO/Jx+bX+af6kKP+HUMnMD2mscSVmC7YXB6UKVXCceYlhQonLFnYXBSCYo/DTW0OvNO0h2GHhK8ImE/a9I7+RfxoEMzj+M4GB0fFjhBXB2PwvWs2DIBE/xiCZgKJ7EoQGIEbXZ4DQAOQhaLPASMWP0chmoOdApgabghWdAn0SWLn4MVrZOdhmoZMEcLJF0LqxYBHkBSkDCBZBLoMMMHwrspbPAJLxY0S1geuVD8Bi2sBlvv2RBUgpfTIBGEwfKgBp5smDQwOkdONAcJhG2AHSfKEjBApAQaADIDrxA4Ceh4kKkIglSQcg5mHCrEVPAKSSBBaAPBWweeACSOmCQwDMarwLkOZPDILnA8h5QCwQHrMdOALIJXl+NrICYEqSGeB8SbIDnC3JNwCcGwR+gJOLAzvA2UL4t6pgRvRj1k6IWBQZW/HtilsLuFZD5EGBazlGb4qAYUtG2pmy7AkpxzSGXTFyK8QFQD8XkE5GmD3Qd5GOZrhd4DMA/nRMS34X/nh+Y4heAXA3JKTSW8vg7ojIp/K7rPwtmfg9ofxNqfhdsfhtufh7gfiLifibkeSrmf8d74bSL6fib8fyr+dyOVhcJNIOCjkPyd1GI9QMlwH4BT4ikWYE3/xso71sWzfbcDfd1lk5tBjDJnydioNGwe86KitCmADeSuEBpkNPaWMwzcsLnPbWbqotDt/XrtoHRjUyd2dx9xYDPKzFR3EWU3HzFN9Nxa4ZnX8UeheneavX9upXst1VXT5Dx1SpVCqVSqX6j/QFgvdUtSxW0v0AAAAASUVORK5CYII=)YouTube
+![](../assets/9a05b6f8eb450be9efa3.png)YouTube
 
 Are you visualizing how this matrix **transforms a shape or a vector** on a coordinate plane, or are you computing a specific **matrix multiplication** with it? Let me know what you want to map out next!
 

@@ -18,19 +18,19 @@ Here are the three primary ways to explain how 35 connects to or "means" 7:
 
 If you divide **35 by 5**, you get **7**. Alternatively, if you divide **35 by 7**, you get **5**. In a word problem, if someone says "I have 35 items divided into groups of 5," it means you have exactly **7 groups**. 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAElBMVEVHcEy5Kia5Kya5Kia5Kye5Kycvm6K0AAAABXRSTlMAJJxYyYno0gQAAAJUSURBVHic7VvZkgIxCHQm8f9/ebU8VlduOsNWST9LugMkQ0g8nRqNRqPRaMQwxj7n+Y459zGO497Gk/kdc2wHsO80+QP7Wg1DZr9hWTC0ya92AxP4oySYZ/+UAKU3xf4vgLng8v4vJog+NH2gE9zRfwUgE4LufyAbhi1Hf0VqQQL4Uwog/AkFIP6wAhh/VAGO/3yO8CfX3zsCqzG1/3zCvSPp+++lDryHdrvUh+rPvbuyNqGPtFLLFR+/OKPJJDVXrN6tPPxSADj6KzZJgicIwjDKkpak2/n5cBqSOWV8A78FmrzIO8EqgJ2DcUdlJ2DMQ9bevKOzI9jMOQc4viicAlsW5Pl5BRZbJoecW2lilIzzXsAEUjdknOfl5yaiB5JWHjhh0EHQPUmahap7+rugWdERCNV09FCaFem44PGGdIEWTNIoWFaHJhNyG3IwyiR8xCVXlGxCeg17tJKTgBQQ5af9KQugnJY44lMpLQfUbyHCPx9KQKLRQ0VUFkAFDd1gcAuI8wfGawEt4F8KOHQZlm9E5VsxZZEQ4J9P+ee4vCApL8nqi1JSNLIs19xZfjBZfjRThyKtDjyc1h/PyxsU5S2a+iZVeZuuvlG5sFVrHGFZs9qaycva9WYXVl9YiFc2ihMwVzb1l1bKtR0zFPDarv7isv7qtvzyGnx9H6proQIipT3wCUcraAUJBdjVGFIA3ZFCChIPGkEKoGGIKUA6Idh0w2VC9ALG/q5aQ1AATkJYwAmTC8lnrnk35N8aXyqwBD/qzfnbXzzs4ArqRqPRaDS+GT9dTmlNzVLS1wAAAABJRU5ErkJggg==)Quora +2
+![](../assets/7861cff9e1816e7201f0.png)Quora +2
 
 ### 2. Multiples and Factors
 
 In arithmetic, **35 is a multiple of 7**. 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAk1BMVEWBNYlLIFv////8+vxfJ2yFOozs4u769vrWvtm3jbx9M4Z5MoOlb6uNSJX48/jBnMXw6PFVK2RRImDSttWRT5jcx9+BPYq8lMCxg7afZKXp2+rZyNyLaJVwSn1uLnmWdZ+XWJ60mbqcZ6PJqM3j0+Woiq++psTIssx2PoC7ocB7VoZhOW6OU5ZcMmqmhK2cYKKmd6wPPbx4AAABB0lEQVQ4ja2T627DIAyFsUlICCkl12Ulbddma7v73v/phiYloDhrpWn+ZXQ+cXwBxq5HfEO/DdBYXRW7VCM+dsvq/XqD3D71/YnbBWep0Zz6oiwBYKsrotd43kK0yxhTEcAeH8j9eFFj7gizngMxr6c8A7Ap8WikzyOwtAgpAqDQkgA1th44YE4AJo5jpopngRUZxTDZui5gnzRzIMcpzRzywu9mQJy8+cMO4KDnJmGjzuaVFCpNcFBumnOPsFHGAAQZ9ya8syw4GdYQLCBb3mhQZCHIIBjzjap3q2sKpGPd7Ycxn1Rn3U+j7bHCpFp83Cv8qjuBYsh/+y4y4Y1c8Pbxh4/2D/ENp20L4YZHUS0AAAAASUVORK5CYII=)BYJU'S
+![](../assets/7d3880298e3d222334b2.png)BYJU'S
 
 * 5 × 7 = 35
 
 Because 7 is a prime factor of 35, the number 35 is inherently linked to 7. If you count by 7s ( $7, 14, 21, 28, \mathbf{35}$ ), 35 is the **5th step**. 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAk1BMVEWBNYlLIFv////8+vxfJ2yFOozs4u769vrWvtm3jbx9M4Z5MoOlb6uNSJX48/jBnMXw6PFVK2RRImDSttWRT5jcx9+BPYq8lMCxg7afZKXp2+rZyNyLaJVwSn1uLnmWdZ+XWJ60mbqcZ6PJqM3j0+Woiq++psTIssx2PoC7ocB7VoZhOW6OU5ZcMmqmhK2cYKKmd6wPPbx4AAABB0lEQVQ4ja2T627DIAyFsUlICCkl12Ulbddma7v73v/phiYloDhrpWn+ZXQ+cXwBxq5HfEO/DdBYXRW7VCM+dsvq/XqD3D71/YnbBWep0Zz6oiwBYKsrotd43kK0yxhTEcAeH8j9eFFj7gizngMxr6c8A7Ap8WikzyOwtAgpAqDQkgA1th44YE4AJo5jpopngRUZxTDZui5gnzRzIMcpzRzywu9mQJy8+cMO4KDnJmGjzuaVFCpNcFBumnOPsFHGAAQZ9ya8syw4GdYQLCBb3mhQZCHIIBjzjap3q2sKpGPd7Ycxn1Rn3U+j7bHCpFp83Cv8qjuBYsh/+y4y4Y1c8Pbxh4/2D/ENp20L4YZHUS0AAAAASUVORK5CYII=)BYJU'S +1
+![](../assets/7d3880298e3d222334b2.png)BYJU'S +1
 
 ### 3. Word Problems and Algebra
 
@@ -38,7 +38,7 @@ In riddles or math expressions, "35 means 7" often stems from phrases like:
 
 * **"7 times a number is 35"**: When turned into an equation (7x = 35), solving for x gives you **5**. 
 
-  ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAElBMVEVHcEy5Kia5Kya5Kia5Kye5Kycvm6K0AAAABXRSTlMAJJxYyYno0gQAAAJUSURBVHic7VvZkgIxCHQm8f9/ebU8VlduOsNWST9LugMkQ0g8nRqNRqPRaMQwxj7n+Y459zGO497Gk/kdc2wHsO80+QP7Wg1DZr9hWTC0ya92AxP4oySYZ/+UAKU3xf4vgLng8v4vJog+NH2gE9zRfwUgE4LufyAbhi1Hf0VqQQL4Uwog/AkFIP6wAhh/VAGO/3yO8CfX3zsCqzG1/3zCvSPp+++lDryHdrvUh+rPvbuyNqGPtFLLFR+/OKPJJDVXrN6tPPxSADj6KzZJgicIwjDKkpak2/n5cBqSOWV8A78FmrzIO8EqgJ2DcUdlJ2DMQ9bevKOzI9jMOQc4viicAlsW5Pl5BRZbJoecW2lilIzzXsAEUjdknOfl5yaiB5JWHjhh0EHQPUmahap7+rugWdERCNV09FCaFem44PGGdIEWTNIoWFaHJhNyG3IwyiR8xCVXlGxCeg17tJKTgBQQ5af9KQugnJY44lMpLQfUbyHCPx9KQKLRQ0VUFkAFDd1gcAuI8wfGawEt4F8KOHQZlm9E5VsxZZEQ4J9P+ee4vCApL8nqi1JSNLIs19xZfjBZfjRThyKtDjyc1h/PyxsU5S2a+iZVeZuuvlG5sFVrHGFZs9qaycva9WYXVl9YiFc2ihMwVzb1l1bKtR0zFPDarv7isv7qtvzyGnx9H6proQIipT3wCUcraAUJBdjVGFIA3ZFCChIPGkEKoGGIKUA6Idh0w2VC9ALG/q5aQ1AATkJYwAmTC8lnrnk35N8aXyqwBD/qzfnbXzzs4ArqRqPRaDS+GT9dTmlNzVLS1wAAAABJRU5ErkJggg==)Quora +1
+  ![](../assets/7861cff9e1816e7201f0.png)Quora +1
 
 If this is part of a specific riddle, a word puzzle, or a unique coding/number system, please share the **full context** or the **exact problem** so I can give you the precise explanation.
 
