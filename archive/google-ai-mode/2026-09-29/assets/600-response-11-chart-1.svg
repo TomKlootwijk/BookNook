@@ -1,0 +1,1459 @@
+<svg class="w-full h-full cursor-grab active:cursor-grabbing" height="320" style=";background:#25282f;color:#e8eaed" viewBox="0 0 400 320" width="400" xmlns="http://www.w3.org/2000/svg"><style>
+/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */
+@layer properties {
+  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {
+    *, :before, :after, ::backdrop {
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+      --tw-rotate-x: initial;
+      --tw-rotate-y: initial;
+      --tw-rotate-z: initial;
+      --tw-skew-x: initial;
+      --tw-skew-y: initial;
+      --tw-divide-x-reverse: 0;
+      --tw-border-style: solid;
+      --tw-gradient-position: initial;
+      --tw-gradient-from: #0000;
+      --tw-gradient-via: #0000;
+      --tw-gradient-to: #0000;
+      --tw-gradient-stops: initial;
+      --tw-gradient-via-stops: initial;
+      --tw-gradient-from-position: 0%;
+      --tw-gradient-via-position: 50%;
+      --tw-gradient-to-position: 100%;
+      --tw-font-weight: initial;
+      --tw-tracking: initial;
+      --tw-ordinal: initial;
+      --tw-slashed-zero: initial;
+      --tw-numeric-figure: initial;
+      --tw-numeric-spacing: initial;
+      --tw-numeric-fraction: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-outline-style: solid;
+      --tw-blur: initial;
+      --tw-brightness: initial;
+      --tw-contrast: initial;
+      --tw-grayscale: initial;
+      --tw-hue-rotate: initial;
+      --tw-invert: initial;
+      --tw-opacity: initial;
+      --tw-saturate: initial;
+      --tw-sepia: initial;
+      --tw-drop-shadow: initial;
+      --tw-drop-shadow-color: initial;
+      --tw-drop-shadow-alpha: 100%;
+      --tw-drop-shadow-size: initial;
+      --tw-content: "";
+      --tw-scale-x: 1;
+      --tw-scale-y: 1;
+      --tw-scale-z: 1;
+    }
+  }
+}
+
+@layer theme {
+  :root, :host {
+    --font-sans: "Google Sans", "Roboto", sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --color-slate-100: oklch(96.8% .007 247.896);
+    --color-slate-300: oklch(86.9% .022 252.894);
+    --color-slate-400: oklch(70.4% .04 256.788);
+    --color-black: #000;
+    --spacing: .25rem;
+    --text-xs: .75rem;
+    --text-xs--line-height: calc(1 / .75);
+    --text-sm: .875rem;
+    --text-sm--line-height: calc(1.25 / .875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --tracking-wide: .025em;
+    --tracking-wider: .05em;
+    --radius-lg: .5rem;
+    --radius-xl: .75rem;
+    --animate-pulse: pulse 2s cubic-bezier(.4, 0, .6, 1) infinite;
+    --default-transition-duration: .15s;
+    --default-transition-timing-function: cubic-bezier(.31, .94, .34, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+    --color-primary: var(--primary, #336ef3);
+    --color-primary-hover: var(--primary-hover, #395fe1);
+    --color-error: var(--brand-red, #ea4335);
+    --color-warning: var(--brand-yellow, #fbbc04);
+    --color-success: var(--brand-green, #34a853);
+    --color-background: var(--surface-container-de-emphasis, #f7f8fa);
+    --color-card: var(--surface-container-de-emphasis, #f7f8fa);
+    --color-card-hover: var(--surface-container-high, #e9ebf0);
+    --color-border: var(--divider, #dcdfe5);
+    --color-input: var(--surface-container, #f0f2f5);
+    --color-secondary: var(--surface-container-high, #e9ebf0);
+    --color-secondary-hover: var(--surface-container-highest, #e1e3e8);
+    --color-accent: var(--surface-container-highest, #e1e3e8);
+    --color-accent-foreground: var(--on-surface-default, #0a0a0a);
+    --color-muted: var(--surface-container, #f0f2f5);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);
+    --color-foreground: var(--on-surface-default, #0a0a0a);
+    --color-disabled: var(--surface-container, #f0f2f5);
+    --color-disabled-foreground: var(--disabled-foreground, #95989c);
+  }
+}
+
+@layer base {
+  *, :after, :before, ::backdrop {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::file-selector-button {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, :host {
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    line-height: 1.5;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  hr {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+
+  abbr:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+
+  a {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+
+  b, strong {
+    font-weight: bolder;
+  }
+
+  code, kbd, samp, pre {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+
+  small {
+    font-size: 80%;
+  }
+
+  sub, sup {
+    vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+  }
+
+  sub {
+    bottom: -.25em;
+  }
+
+  sup {
+    top: -.5em;
+  }
+
+  table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+
+  :-moz-focusring {
+    outline: auto;
+  }
+
+  progress {
+    vertical-align: baseline;
+  }
+
+  summary {
+    display: list-item;
+  }
+
+  ol, ul, menu {
+    list-style: none;
+  }
+
+  img, svg, video, canvas, audio, iframe, embed, object {
+    vertical-align: middle;
+    display: block;
+  }
+
+  img, video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  button, input, select, optgroup, textarea {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  ::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  :where(select:is([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+
+  :where(select:is([multiple], [size])) optgroup option {
+    padding-inline-start: 20px;
+  }
+
+  ::file-selector-button {
+    margin-inline-end: 4px;
+  }
+
+  ::placeholder {
+    opacity: 1;
+  }
+
+  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {
+    ::placeholder {
+      color: currentColor;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      ::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+
+  textarea {
+    resize: vertical;
+  }
+
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  ::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+
+  ::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+
+  ::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+
+  ::-webkit-datetime-edit {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-year-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-month-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-day-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-hour-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-minute-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-second-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-millisecond-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+
+  :-moz-ui-invalid {
+    box-shadow: none;
+  }
+
+  button, input:where([type="button"], [type="reset"], [type="submit"]) {
+    appearance: button;
+  }
+
+  ::file-selector-button {
+    appearance: button;
+  }
+
+  ::-webkit-inner-spin-button {
+    height: auto;
+  }
+
+  ::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  [hidden]:where(:not([hidden="until-found"])) {
+    display: none !important;
+  }
+}
+
+@layer components;
+
+@layer utilities {
+  .pointer-events-auto {
+    pointer-events: auto;
+  }
+
+  .pointer-events-none {
+    pointer-events: none;
+  }
+
+  .absolute {
+    position: absolute;
+  }
+
+  .relative {
+    position: relative;
+  }
+
+  .static {
+    position: static;
+  }
+
+  .inset-x-0 {
+    inset-inline: calc(var(--spacing) * 0);
+  }
+
+  .top-0 {
+    top: calc(var(--spacing) * 0);
+  }
+
+  .top-1 {
+    top: calc(var(--spacing) * 1);
+  }
+
+  .top-1\/2 {
+    top: 50%;
+  }
+
+  .top-3 {
+    top: calc(var(--spacing) * 3);
+  }
+
+  .top-4 {
+    top: calc(var(--spacing) * 4);
+  }
+
+  .right-0 {
+    right: calc(var(--spacing) * 0);
+  }
+
+  .right-4 {
+    right: calc(var(--spacing) * 4);
+  }
+
+  .right-5 {
+    right: calc(var(--spacing) * 5);
+  }
+
+  .bottom-3 {
+    bottom: calc(var(--spacing) * 3);
+  }
+
+  .left-4 {
+    left: calc(var(--spacing) * 4);
+  }
+
+  .left-5 {
+    left: calc(var(--spacing) * 5);
+  }
+
+  .z-10 {
+    z-index: 10;
+  }
+
+  .-my-3 {
+    margin-block: calc(var(--spacing) * -3);
+  }
+
+  .mt-1 {
+    margin-top: calc(var(--spacing) * 1);
+  }
+
+  .block {
+    display: block;
+  }
+
+  .flex {
+    display: flex;
+  }
+
+  .grid {
+    display: grid;
+  }
+
+  .table {
+    display: table;
+  }
+
+  .h-1 {
+    height: calc(var(--spacing) * 1);
+  }
+
+  .h-3 {
+    height: calc(var(--spacing) * 3);
+  }
+
+  .h-3\.5 {
+    height: calc(var(--spacing) * 3.5);
+  }
+
+  .h-4 {
+    height: calc(var(--spacing) * 4);
+  }
+
+  .h-7 {
+    height: calc(var(--spacing) * 7);
+  }
+
+  .h-9 {
+    height: calc(var(--spacing) * 9);
+  }
+
+  .h-11 {
+    height: calc(var(--spacing) * 11);
+  }
+
+  .h-80 {
+    height: calc(var(--spacing) * 80);
+  }
+
+  .h-\[18px\] {
+    height: 18px;
+  }
+
+  .h-auto {
+    height: auto;
+  }
+
+  .h-full {
+    height: 100%;
+  }
+
+  .w-3 {
+    width: calc(var(--spacing) * 3);
+  }
+
+  .w-3\.5 {
+    width: calc(var(--spacing) * 3.5);
+  }
+
+  .w-4 {
+    width: calc(var(--spacing) * 4);
+  }
+
+  .w-9 {
+    width: calc(var(--spacing) * 9);
+  }
+
+  .w-\[6ch\] {
+    width: 6ch;
+  }
+
+  .w-\[18px\] {
+    width: 18px;
+  }
+
+  .w-full {
+    width: 100%;
+  }
+
+  .min-w-0 {
+    min-width: calc(var(--spacing) * 0);
+  }
+
+  .flex-1 {
+    flex: 1;
+  }
+
+  .flex-shrink {
+    flex-shrink: 1;
+  }
+
+  .shrink-0 {
+    flex-shrink: 0;
+  }
+
+  .flex-grow, .grow {
+    flex-grow: 1;
+  }
+
+  .border-collapse {
+    border-collapse: collapse;
+  }
+
+  .-translate-y-1 {
+    --tw-translate-y: calc(var(--spacing) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  .-translate-y-1\/2 {
+    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  .transform {
+    transform: var(--tw-rotate-x, ) var(--tw-rotate-y, ) var(--tw-rotate-z, ) var(--tw-skew-x, ) var(--tw-skew-y, );
+  }
+
+  .animate-pulse {
+    animation: var(--animate-pulse);
+  }
+
+  .cursor-grab {
+    cursor: grab;
+  }
+
+  .cursor-pointer {
+    cursor: pointer;
+  }
+
+  .touch-none {
+    touch-action: none;
+  }
+
+  .resize {
+    resize: both;
+  }
+
+  .grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .flex-col {
+    flex-direction: column;
+  }
+
+  .items-center {
+    align-items: center;
+  }
+
+  .justify-between {
+    justify-content: space-between;
+  }
+
+  .justify-center {
+    justify-content: center;
+  }
+
+  .justify-end {
+    justify-content: flex-end;
+  }
+
+  .gap-0 {
+    gap: calc(var(--spacing) * 0);
+  }
+
+  .gap-0\.5 {
+    gap: calc(var(--spacing) * .5);
+  }
+
+  .gap-1 {
+    gap: calc(var(--spacing) * 1);
+  }
+
+  .gap-1\.5 {
+    gap: calc(var(--spacing) * 1.5);
+  }
+
+  .gap-3 {
+    gap: calc(var(--spacing) * 3);
+  }
+
+  .gap-3\.5 {
+    gap: calc(var(--spacing) * 3.5);
+  }
+
+  .gap-4 {
+    gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-x-4 {
+    column-gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-x-6 {
+    column-gap: calc(var(--spacing) * 6);
+  }
+
+  .gap-y-4 {
+    row-gap: calc(var(--spacing) * 4);
+  }
+
+  :where(.divide-x &gt; :not(:last-child)) {
+    --tw-divide-x-reverse: 0;
+    border-inline-style: var(--tw-border-style);
+    border-inline-start-width: calc(1px * var(--tw-divide-x-reverse));
+    border-inline-end-width: calc(1px * calc(1 - var(--tw-divide-x-reverse)));
+  }
+
+  :where(.divide-border &gt; :not(:last-child)) {
+    border-color: var(--color-border);
+  }
+
+  .truncate {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .overflow-hidden {
+    overflow: hidden;
+  }
+
+  .overflow-visible {
+    overflow: visible;
+  }
+
+  .rounded {
+    border-radius: .25rem;
+  }
+
+  .rounded-full {
+    border-radius: 3.40282e38px;
+  }
+
+  .rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+
+  .rounded-xl {
+    border-radius: var(--radius-xl);
+  }
+
+  .border {
+    border-style: var(--tw-border-style);
+    border-width: 1px;
+  }
+
+  .border-b {
+    border-bottom-style: var(--tw-border-style);
+    border-bottom-width: 1px;
+  }
+
+  .border-none {
+    --tw-border-style: none;
+    border-style: none;
+  }
+
+  .border-border {
+    border-color: var(--color-border);
+  }
+
+  .\!bg-muted {
+    background-color: var(--color-muted) !important;
+  }
+
+  .bg-\[\#070b14\]\/60 {
+    background-color: oklab(14.9994% -.00205025 -.0207038 / .6);
+  }
+
+  .bg-\[\#090d16\] {
+    background-color: #090d16;
+  }
+
+  .bg-background {
+    background-color: var(--color-background);
+  }
+
+  .bg-black\/40 {
+    background-color: #0006;
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-black\/40 {
+      background-color: color-mix(in oklab, var(--color-black) 40%, transparent);
+    }
+  }
+
+  .bg-card {
+    background-color: var(--color-card);
+  }
+
+  .bg-muted, .bg-muted\/90 {
+    background-color: var(--color-muted);
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-muted\/90 {
+      background-color: color-mix(in oklab, var(--color-muted) 90%, transparent);
+    }
+  }
+
+  .bg-primary {
+    background-color: var(--color-primary);
+  }
+
+  .bg-gradient-to-b {
+    --tw-gradient-position: to bottom in oklab;
+    background-image: linear-gradient(var(--tw-gradient-stops));
+  }
+
+  .from-\[\#0e121a\] {
+    --tw-gradient-from: #0e121a;
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+
+  .to-\[\#151b26\] {
+    --tw-gradient-to: #151b26;
+    --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+  }
+
+  .p-3 {
+    padding: calc(var(--spacing) * 3);
+  }
+
+  .p-4 {
+    padding: calc(var(--spacing) * 4);
+  }
+
+  .p-5 {
+    padding: calc(var(--spacing) * 5);
+  }
+
+  .px-2 {
+    padding-inline: calc(var(--spacing) * 2);
+  }
+
+  .px-2\.5 {
+    padding-inline: calc(var(--spacing) * 2.5);
+  }
+
+  .px-3 {
+    padding-inline: calc(var(--spacing) * 3);
+  }
+
+  .px-4 {
+    padding-inline: calc(var(--spacing) * 4);
+  }
+
+  .px-5 {
+    padding-inline: calc(var(--spacing) * 5);
+  }
+
+  .py-0 {
+    padding-block: calc(var(--spacing) * 0);
+  }
+
+  .py-0\.5 {
+    padding-block: calc(var(--spacing) * .5);
+  }
+
+  .py-2\.5 {
+    padding-block: calc(var(--spacing) * 2.5);
+  }
+
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .text-right {
+    text-align: right;
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .\!text-base {
+    font-size: var(--text-base) !important;
+    line-height: var(--tw-leading, var(--text-base--line-height)) !important;
+  }
+
+  .text-base {
+    font-size: var(--text-base);
+    line-height: var(--tw-leading, var(--text-base--line-height));
+  }
+
+  .text-sm {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+
+  .text-xs {
+    font-size: var(--text-xs);
+    line-height: var(--tw-leading, var(--text-xs--line-height));
+  }
+
+  .text-\[10px\] {
+    font-size: 10px;
+  }
+
+  .text-\[11px\] {
+    font-size: 11px;
+  }
+
+  .font-bold {
+    --tw-font-weight: var(--font-weight-bold);
+    font-weight: var(--font-weight-bold);
+  }
+
+  .font-medium {
+    --tw-font-weight: var(--font-weight-medium);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .font-semibold {
+    --tw-font-weight: var(--font-weight-semibold);
+    font-weight: var(--font-weight-semibold);
+  }
+
+  .tracking-wide {
+    --tw-tracking: var(--tracking-wide);
+    letter-spacing: var(--tracking-wide);
+  }
+
+  .tracking-wider {
+    --tw-tracking: var(--tracking-wider);
+    letter-spacing: var(--tracking-wider);
+  }
+
+  .whitespace-nowrap {
+    white-space: nowrap;
+  }
+
+  .whitespace-pre-wrap {
+    white-space: pre-wrap;
+  }
+
+  .text-error {
+    color: var(--color-error);
+  }
+
+  .text-foreground {
+    color: var(--color-foreground);
+  }
+
+  .text-muted-foreground {
+    color: var(--color-muted-foreground);
+  }
+
+  .text-primary {
+    color: var(--color-primary);
+  }
+
+  .text-slate-100 {
+    color: var(--color-slate-100);
+  }
+
+  .text-slate-300 {
+    color: var(--color-slate-300);
+  }
+
+  .text-slate-400 {
+    color: var(--color-slate-400);
+  }
+
+  .uppercase {
+    text-transform: uppercase;
+  }
+
+  .tabular-nums {
+    --tw-numeric-spacing: tabular-nums;
+    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );
+  }
+
+  .underline {
+    text-decoration-line: underline;
+  }
+
+  .opacity-0 {
+    opacity: 0;
+  }
+
+  .shadow-none {
+    --tw-shadow: 0 0 #0000;
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .shadow-sm {
+    --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, #0000001a), 0 1px 2px -1px var(--tw-shadow-color, #0000001a);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .ring {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .outline {
+    outline-style: var(--tw-outline-style);
+    outline-width: 1px;
+  }
+
+  .filter {
+    filter: var(--tw-blur, ) var(--tw-brightness, ) var(--tw-contrast, ) var(--tw-grayscale, ) var(--tw-hue-rotate, ) var(--tw-invert, ) var(--tw-saturate, ) var(--tw-sepia, ) var(--tw-drop-shadow, );
+  }
+
+  .transition-colors {
+    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to;
+    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration, var(--default-transition-duration));
+  }
+
+  .transition-transform {
+    transition-property: transform, translate, scale, rotate;
+    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration, var(--default-transition-duration));
+  }
+
+  .select-none {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .after\:absolute:after {
+    content: var(--tw-content);
+    position: absolute;
+  }
+
+  .after\:-inset-1:after {
+    content: var(--tw-content);
+    inset: calc(var(--spacing) * -1);
+  }
+
+  .after\:top-1\/2:after {
+    content: var(--tw-content);
+    top: 50%;
+  }
+
+  .after\:left-1\/2:after {
+    content: var(--tw-content);
+    left: 50%;
+  }
+
+  .after\:h-11:after {
+    content: var(--tw-content);
+    height: calc(var(--spacing) * 11);
+  }
+
+  .after\:w-11:after {
+    content: var(--tw-content);
+    width: calc(var(--spacing) * 11);
+  }
+
+  .after\:-translate-x-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  .after\:-translate-y-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  @media (hover: hover) {
+    .hover\:scale-105:hover {
+      --tw-scale-x: 105%;
+      --tw-scale-y: 105%;
+      --tw-scale-z: 105%;
+      scale: var(--tw-scale-x) var(--tw-scale-y);
+    }
+
+    .hover\:bg-secondary-hover:hover {
+      background-color: var(--color-secondary-hover);
+    }
+  }
+
+  .focus\:outline-none:focus {
+    --tw-outline-style: none;
+    outline-style: none;
+  }
+
+  .focus-visible\:ring-2:focus-visible {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .focus-visible\:ring-primary:focus-visible {
+    --tw-ring-color: var(--color-primary);
+  }
+
+  .active\:cursor-grabbing:active {
+    cursor: grabbing;
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:grid-cols-2 {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .sm\:gap-x-8 {
+      column-gap: calc(var(--spacing) * 8);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:gap-x-12 {
+      column-gap: calc(var(--spacing) * 12);
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --color-primary: var(--primary, #336ef3);
+    --color-primary-hover: var(--primary-hover, #395fe1);
+    --color-error: var(--brand-red, #ea4335);
+    --color-warning: var(--brand-yellow, #fbbc04);
+    --color-success: var(--brand-green, #34a853);
+    --color-background: var(--surface-container-de-emphasis, #272930);
+    --color-card: var(--surface-container-de-emphasis, #272930);
+    --color-card-hover: var(--surface-container-high, #363840);
+    --color-border: var(--divider, #363840);
+    --color-input: var(--surface-container, #2c2e35);
+    --color-secondary: var(--surface-container-high, #363840);
+    --color-secondary-hover: var(--surface-container-highest, #42444d);
+    --color-accent: var(--surface-container-highest, #42444d);
+    --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+    --color-muted: var(--surface-container, #2c2e35);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+    --color-foreground: var(--on-surface-default, #e6e8f0);
+    --color-disabled: var(--surface-container, #2c2e35);
+    --color-disabled-foreground: var(--disabled-foreground, #797c90);
+  }
+}
+
+.dark {
+  --color-primary: var(--primary, #336ef3);
+  --color-primary-hover: var(--primary-hover, #395fe1);
+  --color-error: var(--brand-red, #ea4335);
+  --color-warning: var(--brand-yellow, #fbbc04);
+  --color-success: var(--brand-green, #34a853);
+  --color-background: var(--surface-container-de-emphasis, #272930);
+  --color-card: var(--surface-container-de-emphasis, #272930);
+  --color-card-hover: var(--surface-container-high, #363840);
+  --color-border: var(--divider, #363840);
+  --color-input: var(--surface-container, #2c2e35);
+  --color-secondary: var(--surface-container-high, #363840);
+  --color-secondary-hover: var(--surface-container-highest, #42444d);
+  --color-accent: var(--surface-container-highest, #42444d);
+  --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+  --color-muted: var(--surface-container, #2c2e35);
+  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+  --color-foreground: var(--on-surface-default, #e6e8f0);
+  --color-disabled: var(--surface-container, #2c2e35);
+  --color-disabled-foreground: var(--disabled-foreground, #797c90);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  opacity: .6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert();
+    opacity: .7;
+  }
+}
+
+.dark input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert();
+  opacity: .7;
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-rotate-x {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-rotate-y {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-rotate-z {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-skew-x {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-skew-y {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-divide-x-reverse {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-border-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-gradient-position {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-gradient-from {
+  syntax: "&lt;color&gt;";
+  inherits: false;
+  initial-value: #0000;
+}
+
+@property --tw-gradient-via {
+  syntax: "&lt;color&gt;";
+  inherits: false;
+  initial-value: #0000;
+}
+
+@property --tw-gradient-to {
+  syntax: "&lt;color&gt;";
+  inherits: false;
+  initial-value: #0000;
+}
+
+@property --tw-gradient-stops {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-gradient-via-stops {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-gradient-from-position {
+  syntax: "&lt;length-percentage&gt;";
+  inherits: false;
+  initial-value: 0%;
+}
+
+@property --tw-gradient-via-position {
+  syntax: "&lt;length-percentage&gt;";
+  inherits: false;
+  initial-value: 50%;
+}
+
+@property --tw-gradient-to-position {
+  syntax: "&lt;length-percentage&gt;";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-tracking {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ordinal {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-slashed-zero {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-figure {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-spacing {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-fraction {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow-alpha {
+  syntax: "&lt;percentage&gt;";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-inset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-shadow-alpha {
+  syntax: "&lt;percentage&gt;";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-ring-inset {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-offset-width {
+  syntax: "&lt;length&gt;";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-ring-offset-color {
+  syntax: "*";
+  inherits: false;
+  initial-value: #fff;
+}
+
+@property --tw-ring-offset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-outline-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-blur {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-brightness {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-contrast {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-grayscale {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-hue-rotate {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-invert {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-opacity {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-saturate {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-sepia {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-drop-shadow {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-drop-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-drop-shadow-alpha {
+  syntax: "&lt;percentage&gt;";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-drop-shadow-size {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-content {
+  syntax: "*";
+  inherits: false;
+  initial-value: "";
+}
+
+@property --tw-scale-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 1;
+}
+
+@property --tw-scale-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 1;
+}
+
+@property --tw-scale-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 1;
+}
+
+@keyframes pulse {
+  50% {
+    opacity: .5;
+  }
+}
+
+
+* {animation-play-state:paused !important;}</style><ellipse cx="200" cy="235" fill="rgba(0,0,0,0.35)" filter="blur(6px)" rx="81.51325611976694" ry="17.551651237807455"/><line opacity="0.21647938229459848" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="164.48746790939123" x2="214.7365210519063" y1="102.46217132908257" y2="101.01990364101657"/><line opacity="0.21460751002190978" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="214.7365210519063" x2="263.53328017417005" y1="101.01990364101657" y2="106.43658789007856"/><line opacity="0.22716839035201886" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="117.71764025287301" x2="164.48746790939123" y1="110.57870011389532" y2="102.46217132908257"/><line opacity="0.4089821293393662" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="159.59658066707448" x2="187.74795424967192" y1="92.5666795999673" y2="100.86703066766574"/><line opacity="0.4087748006128895" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="227.59772346159448" x2="260.98730417271616" y1="91.0758213765083" y2="105.70812280076649"/><line opacity="0.22168033853592137" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="263.53328017417005" x2="306.2064785800117" y1="106.43658789007856" y2="118.0277406387319"/><line opacity="0.24594609595947878" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="78.7431810000342" x2="117.71764025287301" y1="124.36301129862207" y2="110.57870011389532"/><line opacity="0.43764944556786406" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="102.42057203481713" x2="120.30995974473493" y1="106.18439675658873" y2="109.9543013511445"/><line opacity="0.44441781855899687" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="198.30267325013241" x2="227.59772346159448" y1="81.32270234649295" y2="91.0758213765083"/><line opacity="0.4574268078702575" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="137.82873384500255" x2="159.59658066707448" y1="88.19100810327812" y2="92.5666795999673"/><line opacity="0.23721586626180502" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="306.2064785800117" x2="339.1287906143143" y1="118.0277406387319" y2="134.41149367351352"/><line opacity="0.44233563394193426" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="293.41471375077396" x2="324.783997245627" y1="104.37334306246251" y2="125.64361228321862"/><line opacity="0.4858509995931362" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="174.0394217332292" x2="198.30267325013241" y1="75.70801708837041" y2="81.32270234649295"/><line opacity="0.4636089137688474" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="262.71854632599025" x2="293.41471375077396" y1="88.10542539975158" y2="104.37334306246251"/><line opacity="0.2715328295114556" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="50.60288335080148" x2="78.7431810000342" y1="142.23152845810006" y2="124.36301129862207"/><line opacity="0.49126249689282986" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="234.19838509618842" x2="262.71854632599025" y1="76.55470315572379" y2="88.10542539975158"/><line opacity="0.4959519908553364" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="91.5272562081005" x2="102.42057203481713" y1="105.01033186291053" y2="106.18439675658873"/><line opacity="0.51016525699137" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="122.51449621438356" x2="137.82873384500255" y1="86.77161228067432" y2="88.19100810327812"/><line opacity="0.49133529123284636" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="61.828745216156506" x2="66.84739510014359" y1="128.9050520528079" y2="130.4706006653332"/><line opacity="0.5249950070598575" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="209.08271521602381" x2="234.19838509618842" y1="69.22829818532598" y2="76.55470315572379"/><line opacity="0.5322190521274647" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="155.31894149776144" x2="174.0394217332292" y1="73.39821588983705" y2="75.70801708837041"/><line opacity="0.2601553726587153" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="339.1287906143143" x2="360.15569120570547" y1="134.41149367351352" y2="153.82231678023433"/><line opacity="0.5642046449852041" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="188.25700583359648" x2="209.08271521602381" y1="65.48143643704856" y2="69.22829818532598"/><line opacity="0.5289762008841673" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="287.4298029860239" x2="313.76329876824235" y1="90.49214694019098" y2="107.93391652417864"/><line opacity="0.5659356783631064" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="113.36094562360655" x2="122.51449621438356" y1="87.39005947541663" y2="86.77161228067432"/><line opacity="0.30218489740045845" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="34.795399139677926" x2="50.60288335080148" y1="162.35971301677395" y2="142.23152845810006"/><line opacity="0.5491864725824553" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="261.5479055975148" x2="287.4298029860239" y1="77.4200256212067" y2="90.49214694019098"/><line opacity="0.5148804679983271" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="313.76329876824235" x2="339.0840755925832" y1="107.93391652417864" y2="129.78755311500328"/><line opacity="0.5564693255344503" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="86.95785530764645" x2="91.5272562081005" y1="105.49210328050083" y2="105.01033186291053"/><line opacity="0.5824213105045397" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="142.25961873266738" x2="155.31894149776144" y1="73.54072017553285" y2="73.39821588983705"/><line opacity="0.5755053865289096" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="237.45610265244565" x2="261.5479055975148" y1="68.46558656770783" y2="77.4200256212067"/><line opacity="0.5065978830331638" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="339.0840755925832" x2="361.92011600920455" y1="129.78755311500328" y2="155.8831044640311"/><line opacity="0.5559863636752684" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="62.912675311244755" x2="61.828745216156506" y1="128.61947010024025" y2="128.9050520528079"/><line opacity="0.6080081591209717" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="172.241192376998" x2="188.25700583359648" y1="64.58267620183653" y2="65.48143643704856"/><line opacity="0.6076132151508485" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="216.268935028973" x2="237.45610265244565" y1="63.194976503152674" y2="68.46558656770783"/><line opacity="0.2889355682750296" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="360.15569120570547" x2="368.6493396786948" y1="153.82231678023433" y2="174.44218046730518"/><line opacity="0.6351533974035644" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="134.65067578659853" x2="142.25961873266738" y1="75.32386136947785" y2="73.54072017553285"/><line opacity="0.6233178650282265" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="109.80709757467672" x2="113.36094562360655" y1="89.22518252703816" y2="87.39005947541663"/><line opacity="0.6448820637048359" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="198.81179906769057" x2="216.268935028973" y1="61.03878306954638" y2="63.194976503152674"/><line opacity="0.5680738520774821" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="43.252907104523786" x2="35.154754843268904" y1="157.93923726052807" y2="159.83055743038338"/><line opacity="0.6552718734801446" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="161.20723280347104" x2="172.241192376998" y1="65.7771705918595" y2="64.58267620183653"/><line opacity="0.6177043128118057" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="87.86008362768014" x2="86.95785530764645" y1="106.83105690170107" y2="105.49210328050083"/><line opacity="0.6126921362539518" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="276.88846709053183" x2="299.1581970927073" y1="81.1439704301532" y2="94.96250502990249"/><line opacity="0.6330410507602368" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="255.1227267499478" x2="276.88846709053183" y1="71.19038463648995" y2="81.1439704301532"/><line opacity="0.5982321259366679" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="299.1581970927073" x2="320.62830457809275" y1="94.96250502990249" y2="112.7126465248977"/><line opacity="0.3358134118547891" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="31.403557721396908" x2="34.795399139677926" y1="182.9877566631615" y2="162.35971301677395"/><line opacity="0.6592199863948215" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="235.05082727869967" x2="255.1227267499478" y1="64.85097514163859" y2="71.19038463648995"/><line opacity="0.6863942319933038" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="185.59346121377345" x2="198.81179906769057" y1="61.34731445655997" y2="61.03878306954638"/><line opacity="0.5894053335151858" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="320.62830457809275" x2="339.9829156552688" y1="112.7126465248977" y2="134.27202559356334"/><line opacity="0.6203364055570395" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="69.01754822685913" x2="62.912675311244755" y1="128.86683104210286" y2="128.61947010024025"/><line opacity="0.6908487407492474" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="217.66409478345912" x2="235.05082727869967" y1="61.71688383191206" y2="64.85097514163859"/><line opacity="0.6889589694967747" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="132.02829839553544" x2="134.65067578659853" y1="78.01899297987529" y2="75.32386136947785"/><line opacity="0.7046543919607591" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="155.02479268588542" x2="161.20723280347104" y1="68.33979634463512" y2="65.7771705918595"/><line opacity="0.6807910852736179" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="111.11360005662578" x2="109.80709757467672" y1="91.57931629973142" y2="89.22518252703816"/><line opacity="0.5856600313707885" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="339.9829156552688" x2="355.99687201738357" y1="134.27202559356334" y2="159.3474738254837"/><line opacity="0.7309734332020553" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="176.81309960277017" x2="185.59346121377345" y1="63.44546242638974" y2="61.34731445655997"/><line opacity="0.7272317548298391" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="203.69810906146876" x2="217.66409478345912" y1="61.2624326259333" y2="61.71688383191206"/><line opacity="0.6781060488901093" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="93.28836803117898" x2="87.86008362768014" y1="108.37915925580553" y2="106.83105690170107"/><line opacity="0.6918680040179543" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="262.8542644289445" x2="281.8802444956546" y1="75.0073226344509" y2="85.24497178042421"/><line opacity="0.6343944910204936" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="55.494258109592664" x2="43.252907104523786" y1="156.29493019536295" y2="157.93923726052807"/><line opacity="0.7137051868706547" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="244.61396214446438" x2="262.8542644289445" y1="68.22049007184545" y2="75.0073226344509"/><line opacity="0.3215951303410179" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="368.6493396786948" x2="365.19458573425186" y1="174.44218046730518" y2="194.64924781493866"/><line opacity="0.6757182288575698" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="281.8802444956546" x2="300.51939078626583" y1="85.24497178042421" y2="99.0483920423934"/><line opacity="0.5861776129513746" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="355.99687201738357" x2="367.6242679341806" y1="159.3474738254837" y2="187.51385320200814"/><line opacity="0.7410612304812905" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="228.2110110961378" x2="244.61396214446438" y1="64.60732126344203" y2="68.22049007184545"/><line opacity="0.7546601741376" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="153.32149298074748" x2="155.02479268588542" y1="71.61409232358868" y2="68.33979634463512"/><line opacity="0.7673774377962619" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="193.60725442307245" x2="203.69810906146876" y1="62.89371370566754" y2="61.2624326259333"/><line opacity="0.6651005828332515" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="300.51939078626583" x2="317.5662175965361" y1="99.0483920423934" y2="116.36013426590821"/><line opacity="0.7422902699647428" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="133.7508363014279" x2="132.02829839553544" y1="81.00518436880776" y2="78.01899297987529"/><line opacity="0.7772286142545147" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="172.39320852848812" x2="176.81309960277017" y1="66.68002521477754" y2="63.44546242638974"/><line opacity="0.682835039544637" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="79.05943947555394" x2="69.01754822685913" y1="129.06630987387646" y2="128.86683104210286"/><line opacity="0.7734390670402318" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="214.50507467126803" x2="228.2110110961378" y1="63.75603949586187" y2="64.60732126344203"/><line opacity="0.7367988078786595" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="116.43795720525519" x2="111.11360005662578" y1="93.88777353468929" y2="91.57931629973142"/><line opacity="0.6595529313219384" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="317.5662175965361" x2="331.8743356914723" y1="116.36013426590821" y2="136.96013912656235"/><line opacity="0.3701266451881327" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="39.453414536889994" x2="31.403557721396908" y1="202.6201078354935" y2="182.9877566631615"/><line opacity="0.810031124802965" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="187.56876203043717" x2="193.60725442307245" y1="65.99670818874829" y2="62.89371370566754"/><line opacity="0.8100217121528562" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="204.1176426690018" x2="214.50507467126803" y1="65.15959462741144" y2="63.75603949586187"/><line opacity="0.7682364510754011" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="247.67759390287787" x2="263.907553544882" y1="72.23252754357165" y2="79.05570744897634"/><line opacity="0.7361368947550451" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="102.26751998646812" x2="93.28836803117898" y1="109.63483718329266" y2="108.37915925580553"/><line opacity="0.7496254686643543" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="263.907553544882" x2="280.22418953965155" y1="79.05570744897634" y2="89.13792492059038"/><line opacity="0.8037026880585407" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="155.54587753803366" x2="153.32149298074748" y1="75.03662382316442" y2="71.61409232358868"/><line opacity="0.7923245592908901" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="232.59324016320608" x2="247.67759390287787" y1="68.50037933450284" y2="72.23252754357165"/><line opacity="0.8236096224419505" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="172.02750186282162" x2="172.39320852848812" y1="70.45557234563171" y2="66.68002521477754"/><line opacity="0.7935757520540011" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="139.06434258783761" x2="133.7508363014279" y1="83.77963027606009" y2="81.00518436880776"/><line opacity="0.6583342732104084" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="331.8743356914723" x2="342.43902125054217" y1="136.96013912656235" y2="160.49436317514434"/><line opacity="0.7364675719233396" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="280.22418953965155" x2="295.51128846240243" y1="89.13792492059038" y2="102.48940693517707"/><line opacity="0.658045579542921" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="51.21219629349673" x2="32.57502683231317" y1="188.13491984679695" y2="192.603891862175"/><line opacity="0.8215796468492719" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="219.58012988715183" x2="232.59324016320608" y1="67.54917525138268" y2="68.50037933450284"/><line opacity="0.8496948721087918" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="197.41354720822275" x2="204.1176426690018" y1="68.25985655325826" y2="65.15959462741144"/><line opacity="0.6976368212535303" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="70.74882125453018" x2="55.494258109592664" y1="154.40068157095124" y2="156.29493019536295"/><line opacity="0.8537214609670497" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="185.50929085690126" x2="187.56876203043717" y1="69.97895189796446" y2="65.99670818874829"/><line opacity="0.7898182037377578" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="124.89183294532664" x2="116.43795720525519" y1="95.71688378250812" y2="93.88777353468929"/><line opacity="0.7284189477440083" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="295.51128846240243" x2="308.67873699556606" y1="102.48940693517707" y2="118.96425011393615"/><line opacity="0.8553558623948215" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="209.37206789583567" x2="219.58012988715183" y1="68.95648031013698" y2="67.54917525138268"/><line opacity="0.7419956606830738" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="91.99426884944523" x2="79.05943947555394" y1="128.7874367091565" y2="129.06630987387646"/><line opacity="0.8501753071233842" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="161.02472871290007" x2="155.54587753803366" y1="78.14889402677827" y2="75.03662382316442"/><line opacity="0.868473389142861" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="175.23361572142176" x2="172.02750186282162" y1="74.25800990231942" y2="70.45557234563171"/><line opacity="0.35590836367436146" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="365.19458573425186" x2="351.187668182013" y1="194.64924781493866" y2="213.14617878199715"/><line opacity="0.6604623417360879" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="342.43902125054217" x2="348.458757951364" y1="160.49436317514434" y2="186.5176022226703"/><line opacity="0.8434247170274134" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="232.6280568679611" x2="246.33405689530065" y1="72.97733464253538" y2="76.69803598763522"/><line opacity="0.8910838272993441" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="194.50748569018293" x2="197.41354720822275" y1="72.49014085720158" y2="68.25985655325826"/><line opacity="0.8222477217436435" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="246.33405689530065" x2="260.5301932432962" y1="76.69803598763522" y2="83.41015660878146"/><line opacity="0.8412925539424054" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="147.15439788577015" x2="139.06434258783761" y1="85.9580119056282" y2="83.77963027606009"/><line opacity="0.8926840972084392" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="202.47593449014704" x2="209.37206789583567" y1="72.22579953778005" y2="68.95648031013698"/><line opacity="0.8968194302767722" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="187.14502397926373" x2="185.50929085690126" y1="74.30139964287531" y2="69.97895189796446"/><line opacity="0.8698815423925107" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="220.37664182183337" x2="232.6280568679611" y1="72.0410551816366" y2="72.97733464253538"/><line opacity="0.7248419901010209" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="308.67873699556606" x2="318.7413087607538" y1="118.96425011393615" y2="138.279572165903"/><line opacity="0.7903422020717911" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="113.83515602707483" x2="102.26751998646812" y1="110.23143428192105" y2="109.63483718329266"/><line opacity="0.8064462373642796" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="260.5301932432962" x2="274.17752622830585" y1="83.41015660878146" y2="93.17640558414502"/><line opacity="0.9011757329875573" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="210.40334553022112" x2="220.37664182183337" y1="73.5573004067634" y2="72.0410551816366"/><line opacity="0.7957821252543354" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="274.17752622830585" x2="286.23845823575914" y1="93.17640558414502" y2="105.91090359943306"/><line opacity="0.9101586761989755" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="181.40283627349442" x2="175.23361572142176" y1="77.66727154000121" y2="74.25800990231942"/><line opacity="0.892527558177102" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="169.0101412590796" x2="161.02472871290007" y1="80.60014555255589" y2="78.14889402677827"/><line opacity="0.8384319302731342" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="135.5810085466885" x2="124.89183294532664" y1="96.7555717402478" y2="95.71688378250812"/><line opacity="0.9326043236819331" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="195.28918671869445" x2="194.50748569018293" y1="77.31128643994572" y2="72.49014085720158"/><line opacity="0.93229910090682" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="199.16105409728803" x2="202.47593449014704" y1="76.82724918612072" y2="72.22579953778005"/><line opacity="0.9376085947935902" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="192.02655856856737" x2="187.14502397926373" y1="78.49971732032444" y2="74.30139964287531"/><line opacity="0.4027862072541211" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="57.32999056977684" x2="39.453414536889994" y1="220.1061906943618" y2="202.6201078354935"/><line opacity="0.9365187077153552" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="203.3420329080496" x2="210.40334553022112" y1="77.10008346432066" y2="73.5573004067634"/><line opacity="0.6647593017995499" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="348.458757951364" x2="349.36903277483896" y1="186.5176022226703" y2="214.54377400927598"/><line opacity="0.7248413495271312" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="318.7413087607538" x2="324.8818913633209" y1="138.279572165903" y2="160.04911352224957"/><line opacity="0.7564203863980787" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="87.98218864982123" x2="70.74882125453018" y1="151.90457786112637" y2="154.40068157095124"/><line opacity="0.8840411276152232" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="157.18374147042047" x2="147.15439788577015" y1="87.26897981550583" y2="85.9580119056282"/><line opacity="0.7200410024042543" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="71.67500572529792" x2="51.21219629349673" y1="183.32136112373456" y2="188.13491984679695"/><line opacity="0.892347233224872" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="228.69406365220973" x2="241.05039132753598" y1="77.46041181168682" y2="81.12542426153021"/><line opacity="0.9160249544047092" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="217.13443929669364" x2="228.69406365220973" y1="76.57317424611611" y2="77.46041181168682"/><line opacity="0.7964636892950273" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="106.84039740621662" x2="91.99426884944523" y1="127.73161867643523" y2="128.7874367091565"/><line opacity="0.7897085655399679" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="286.23845823575914" x2="295.7514714890509" y1="105.91090359943306" y2="121.39101410265492"/><line opacity="0.8740196730221281" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="241.05039132753598" x2="253.22450455800242" y1="81.12542426153021" y2="87.66364725253699"/><line opacity="0.9470667889825279" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="189.84210803977675" x2="181.40283627349442" y1="80.36181229096769" y2="77.66727154000121"/><line opacity="0.9448709367528962" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="207.2673689426649" x2="217.13443929669364" y1="78.23479532117966" y2="76.57317424611611"/><line opacity="0.9293437844003389" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="178.71496377088516" x2="169.0101412590796" y1="82.14459631000086" y2="80.60014555255589"/><line opacity="0.8394200399595723" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="127.06704699755068" x2="113.83515602707483" y1="109.92293238914105" y2="110.23143428192105"/><line opacity="0.8608739723310939" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="253.22450455800242" x2="264.2245206503753" y1="87.66364725253699" y2="97.02915252874314"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="199.16105409728803" y1="82.05053238300923" y2="76.82724918612072"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="195.28918671869445" y1="82.05053238300923" y2="77.31128643994572"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="203.3420329080496" y1="82.05053238300923" y2="77.10008346432066"/><line opacity="0.8813993080235851" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="147.63085628437463" x2="135.5810085466885" y1="96.80443257409783" y2="96.7555717402478"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="192.02655856856737" y1="82.05053238300923" y2="78.49971732032444"/><line opacity="0.9206188925391471" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="168.31751809183677" x2="157.18374147042047" y1="87.54622049909823" y2="87.26897981550583"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="207.2673689426649" y1="82.05053238300923" y2="78.23479532117966"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="189.84210803977675" y1="82.05053238300923" y2="80.36181229096769"/><line opacity="0.9594208050478127" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="189.3374989332632" x2="178.71496377088516" y1="82.63622045101785" y2="82.14459631000086"/><line opacity="0.9559874790690293" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="210.0354414948663" x2="221.03181251958955" y1="80.12788472830037" y2="80.87442969333443"/><line opacity="0.9349472856652973" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="221.03181251958955" x2="232.16884722045523" y1="80.87442969333443" y2="84.36894657679296"/><line opacity="0.7874057233695705" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="295.7514714890509" x2="301.89448894907565" y1="121.39101410265492" y2="139.28342752460833"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="210.0354414948663" y1="82.05053238300923" y2="80.12788472830037"/><line opacity="0.727308452361601" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="324.8818913633209" x2="326.49173283654204" y1="160.04911352224957" y2="183.825918889052"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="189.3374989332632" y1="82.05053238300923" y2="82.63622045101785"/><line opacity="0.8524182634033509" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="264.2245206503753" x2="273.11650943232866" y1="97.02915252874314" y2="109.0417106909592"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="211.0130431529013" y1="82.05053238300923" y2="82.34924068918475"/><line opacity="0.9192194823589855" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="232.16884722045523" x2="242.48474299448856" y1="84.36894657679296" y2="90.59531602092905"/><line opacity="0.9500894432328506" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="179.7391648679154" x2="168.31751809183677" y1="86.72062297371075" y2="87.54622049909823"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="190.66045606537878" y1="82.05053238300923" y2="84.81411332801618"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="210.2521356251456" y1="82.05053238300923" y2="84.43943782794622"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="207.72763408433124" y1="82.05053238300923" y2="86.3384162436327"/><line opacity="0.9177236731844336" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="160.20117800655828" x2="147.63085628437463" y1="95.76506927576901" y2="96.80443257409783"/><line opacity="0.9673043179950727" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="211.0130431529013" x2="221.23620965934145" y1="82.34924068918475" y2="85.47267255552416"/><line opacity="0.9718436341476429" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="190.66045606537878" x2="179.7391648679154" y1="84.81411332801618" y2="86.72062297371075"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="193.30667903146897" y1="82.05053238300923" y2="86.48377550199548"/><line opacity="0.3895368781286922" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="351.187668182013" x2="328.4491570786704" y1="213.14617878199715" y2="228.98372442920328"/><line opacity="0.8822879118632982" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="141.0902676560639" x2="127.06704699755068" y1="108.57008161909313" y2="109.92293238914105"/><line opacity="0.8450824668147423" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="122.68789786475598" x2="106.84039740621662" y1="125.71452627750809" y2="127.73161867643523"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="204.3351984596497" y1="82.05053238300923" y2="87.56312631317785"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="196.66843213765122" y1="82.05053238300923" y2="87.52657894815651"/><line opacity="0.980665775844745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200" x2="200.43589110400245" y1="82.05053238300923" y2="87.92546100851905"/><line opacity="0.8095498966200969" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="106.2564590808174" x2="87.98218864982123" y1="148.57762338280958" y2="151.90457786112637"/><line opacity="0.9083465558765798" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="242.48474299448856" x2="251.0631607720033" y1="90.59531602092905" y2="99.4047947265303"/><line opacity="0.7323329717653435" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="78.0040575013292" x2="54.094699826524305" y1="210.8472886789654" y2="218.43067992399614"/><line opacity="0.9536346583506046" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="221.23620965934145" x2="230.11198195791656" y1="85.47267255552416" y2="91.1816987444387"/><line opacity="0.8478746783565217" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="273.11650943232866" x2="279.0866099487363" y1="109.0417106909592" y2="123.40761041626257"/><line opacity="0.9763561264325741" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="210.2521356251456" x2="218.24487623495793" y1="84.43943782794622" y2="89.46814583662224"/><line opacity="0.9467124783462951" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="172.4944478147062" x2="160.20117800655828" y1="93.63135336593301" y2="95.76506927576901"/><line opacity="0.7878251957626803" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="301.89448894907565" x2="304.02917578142336" y1="139.28342752460833" y2="159.18025301018452"/><line opacity="0.7764025184254248" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="93.02107341585669" x2="71.67500572529792" y1="177.8811954343819" y2="183.32136112373456"/><line opacity="0.9817159042433764" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="193.30667903146897" x2="183.76129251726024" y1="86.48377550199548" y2="90.48333853991505"/><line opacity="0.9771583147768589" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="207.72763408433124" x2="212.71261023340153" y1="86.3384162436327" y2="92.59510530359753"/><line opacity="0.9680266573710241" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="183.76129251726024" x2="172.4944478147062" y1="90.48333853991505" y2="93.63135336593301"/><line opacity="0.730972827023547" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="326.49173283654204" x2="323.18515061947016" y1="183.825918889052" y2="209.14789584795864"/><line opacity="0.9015713196499584" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="251.0631607720033" x2="257.0946272508545" y1="99.4047947265303" y2="110.53300618504974"/><line opacity="0.9181432289332064" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="155.0888429148669" x2="141.0902676560639" y1="106.12877565805456" y2="108.57008161909313"/><line opacity="0.9444060270427898" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="230.11198195791656" x2="236.81440810063194" y1="91.1816987444387" y2="99.24270210948114"/><line opacity="0.9876530463355697" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="196.66843213765122" x2="189.68402758475642" y1="87.52657894815651" y2="93.10091245507833"/><line opacity="0.9854982778107342" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="204.3351984596497" x2="205.0037946252691" y1="87.56312631317785" y2="94.43106978940948"/><line opacity="0.9682758176376751" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="218.24487623495793" x2="223.75584038886177" y1="89.46814583662224" y2="96.65813053892823"/><line opacity="0.9890567951832172" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200.43589110400245" x2="196.92315333116883" y1="87.92546100851905" y2="94.50221663793823"/><line opacity="0.4315664028704353" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="83.12667509217604" x2="57.32999056977684" y1="234.6317430148641" y2="220.1061906943618"/><line opacity="0.8869537510820197" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="138.69995697679312" x2="122.68789786475598" y1="122.65129137691068" y2="125.71452627750809"/><line opacity="0.8462258449951982" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="279.0866099487363" x2="281.4867853685254" y1="123.40761041626257" y2="139.750738673585"/><line opacity="0.9807830487224052" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="189.68402758475642" x2="180.04694694441724" y1="93.10091245507833" y2="98.23170331365756"/><line opacity="0.9465142180507521" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="168.3060527313605" x2="155.0888429148669" y1="102.64147771996647" y2="106.12877565805456"/><line opacity="0.9762707584203729" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="212.71261023340153" x2="214.4843443268066" y1="92.59510530359753" y2="100.39974460887396"/><line opacity="0.9672980245388918" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="180.04694694441724" x2="168.3060527313605" y1="98.23170331365756" y2="102.64147771996647"/><line opacity="0.9386318650820097" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="236.81440810063194" x2="240.66034553921554" y1="99.24270210948114" y2="109.3258213265956"/><line opacity="0.8560742974503278" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="124.7245423433569" x2="106.2564590808174" y1="144.2955089556648" y2="148.57762338280958"/><line opacity="0.7897414468876578" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="304.02917578142336" x2="301.7225842094074" y1="159.18025301018452" y2="180.63968524810562"/><line opacity="0.8978869326718468" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="257.0946272508545" x2="259.9233688104965" y1="110.53300618504974" y2="123.62737492705186"/><line opacity="0.9630745526298995" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="223.75584038886177" x2="226.21435327356033" y1="96.65813053892823" y2="105.6311392401384"/><line opacity="0.9872132518578126" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="196.92315333116883" x2="190.1337760095697" y1="94.50221663793823" y2="101.19007628343945"/><line opacity="0.9859894778694301" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="205.0037946252691" x2="202.16159880335226" y1="94.43106978940948" y2="102.09892113340317"/><line opacity="0.921489658666708" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="154.11089797402366" x2="138.69995697679312" y1="118.54532379654336" y2="122.65129137691068"/><line opacity="0.7344585276178511" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="323.18515061947016" x2="314.7908341867068" y1="209.14789584795864" y2="235.58073698870714"/><line opacity="0.7831171655385755" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="102.01320780817962" x2="78.0040575013292" y1="202.68887604270054" y2="210.8472886789654"/><line opacity="0.8261628685650767" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="114.41432948483333" x2="93.02107341585669" y1="171.64451215204653" y2="177.8811954343819"/><line opacity="0.9806031447242755" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="190.1337760095697" x2="180.41485827797578" y1="101.19007628343945" y2="107.61777555306821"/><line opacity="0.8462682907503942" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="281.4867853685254" x2="279.86020793702085" y1="139.750738673585" y2="157.64910205839618"/><line opacity="0.9762459859964219" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="214.4843443268066" x2="212.7725695041006" y1="100.39974460887396" y2="109.30790946477231"/><line opacity="0.9351201277719431" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="240.66034553921554" x2="241.1415709372261" y1="109.3258213265956" y2="121.03607199062324"/><line opacity="0.948452942936156" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="168.22441411417716" x2="154.11089797402366" y1="113.48073869738826" y2="118.54532379654336"/><line opacity="0.9594299659539592" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="226.21435327356033" x2="225.237007715058" y1="105.6311392401384" y2="115.96243132991285"/><line opacity="0.9679827166208365" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="180.41485827797578" x2="168.22441411417716" y1="107.61777555306821" y2="113.48073869738826"/><line opacity="0.9843290710750979" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="202.16159880335226" x2="195.88089999013516" y1="102.09892113340317" y2="110.13049387832865"/><line opacity="0.8960936443674345" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="259.9233688104965" x2="259.07532222091066" y1="123.62737492705186" y2="138.28059201628008"/><line opacity="0.8953379091620735" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="142.6223380892715" x2="124.7245423433569" y1="139.0248517683674" y2="144.2955089556648"/><line opacity="0.4201889460176951" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="328.4491570786704" x2="298.9403312515359" y1="228.98372442920328" y2="241.51931345626403"/><line opacity="0.791808425042555" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="301.7225842094074" x2="294.74684121129246" y1="180.63968524810562" y2="203.2259866081521"/><line opacity="0.9788673483576814" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="195.88089999013516" x2="186.38677596660372" y1="110.13049387832865" y2="118.13628526388571"/><line opacity="0.9752977465382421" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="212.7725695041006" x2="207.49641708159228" y1="109.30790946477231" y2="118.88298581475138"/><line opacity="0.9325375945410008" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="241.1415709372261" x2="237.9379594709331" y1="121.03607199062324" y2="133.94688246186948"/><line opacity="0.9559265015733729" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="225.237007715058" x2="220.6298600161559" y1="115.96243132991285" y2="127.21328685414423"/><line opacity="0.9270207261494656" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="159.2621245928939" x2="142.6223380892715" y1="132.8137126336346" y2="139.0248517683674"/><line opacity="0.8466707622699521" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="279.86020793702085" x2="273.9462006485237" y1="157.64910205839618" y2="176.6718628766164"/><line opacity="0.868641083386086" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="135.1103088472339" x2="114.41432948483333" y1="164.53694532060774" y2="171.64451215204653"/><line opacity="0.8268839926788731" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="125.40192449625545" x2="102.01320780817962" y1="193.79135400612023" y2="202.68887604270054"/><line opacity="0.9681867553807098" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="186.38677596660372" x2="174.02965012235924" y1="118.13628526388571" y2="125.7856669024049"/><line opacity="0.8948600209856187" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="259.07532222091066" x2="254.26677530591033" y1="138.28059201628008" y2="154.0654203257891"/><line opacity="0.9511651458769513" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="174.02965012235924" x2="159.2621245928939" y1="125.7856669024049" y2="132.8137126336346"/><line opacity="0.4545059092673455" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="114.87847866207915" x2="83.12667509217604" y1="245.6623687592616" y2="234.6317430148641"/><line opacity="0.7895681527656953" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="118.99973326670948" x2="92.50325250523852" y1="227.83389488346717" y2="239.3567411922499"/><line opacity="0.9717078575601745" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="207.49641708159228" x2="198.7424402741654" y1="118.88298581475138" y2="128.72070644139046"/><line opacity="0.951123938357494" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="220.6298600161559" x2="212.37645986201588" y1="127.21328685414423" y2="138.959890485229"/><line opacity="0.792619547751787" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="294.74684121129246" x2="283.06095806503595" y1="203.2259866081521" y2="226.54478895173946"/><line opacity="0.9294761180557374" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="237.9379594709331" x2="230.9137548336559" y1="133.94688246186948" y2="147.63195668967757"/><line opacity="0.9034809938176562" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="154.44462169509228" x2="135.1103088472339" y1="156.5682392686988" y2="164.53694532060774"/><line opacity="0.846035518769722" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="273.9462006485237" x2="263.66792792177756" y1="176.6718628766164" y2="196.41290276827573"/><line opacity="0.9639139781423927" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="198.7424402741654" x2="186.73814189618787" y1="128.72070644139046" y2="138.46627049401442"/><line opacity="0.8634230205052117" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="147.51753639494424" x2="125.40192449625545" y1="184.08925994274327" y2="193.79135400612023"/><line opacity="0.8927865244942765" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="254.26677530591033" x2="245.39627052667592" y1="154.0654203257891" y2="170.5668820372404"/><line opacity="0.9436235782760755" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="212.37645986201588" x2="200.61667869997055" y1="138.959890485229" y2="150.81664478571176"/><line opacity="0.9306769199849682" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="171.8264169177211" x2="154.44462169509228" y1="147.82498481012314" y2="156.5682392686988"/><line opacity="0.950584359388075" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="186.73814189618787" x2="171.8264169177211" y1="138.46627049401442" y2="147.82498481012314"/><line opacity="0.9245186682381662" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="230.9137548336559" x2="220.1011507661473" y1="147.63195668967757" y2="161.69259074764213"/><line opacity="0.4457756795696719" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="298.9403312515359" x2="264.5986535497688" y1="241.51931345626403" y2="250.34948184928552"/><line opacity="0.8287353984166146" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="144.1072289805743" x2="118.99973326670948" y1="215.71915093860918" y2="227.83389488346717"/><line opacity="0.8928320331770945" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="167.76778024087363" x2="147.51753639494424" y1="173.60704785393943" y2="184.08925994274327"/><line opacity="0.9321302684392018" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="200.61667869997055" x2="185.6214416909593" y1="150.81664478571176" y2="162.45337889453512"/><line opacity="0.7907692272175308" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="283.06095806503595" x2="266.7806929650192" y1="226.54478895173946" y2="250.27154977485358"/><line opacity="0.915508629470099" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="185.6214416909593" x2="167.76778024087363" y1="162.45337889453512" y2="173.60704785393943"/><line opacity="0.8884694416907877" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="245.39627052667592" x2="232.5244219113573" y1="170.5668820372404" y2="187.40923386504474"/><line opacity="0.8429607080204896" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="263.66792792177756" x2="249.10799451139928" y1="196.41290276827573" y2="216.51847449009847"/><line opacity="0.9163032189192042" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="220.1011507661473" x2="205.67633009680253" y1="161.69259074764213" y2="175.77903962273467"/><line opacity="0.47004143699322926" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="150.68168039108048" x2="114.87847866207915" y1="252.87380866930226" y2="245.6623687592616"/><line opacity="0.8605321374790332" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="167.25714714279783" x2="144.1072289805743" y1="202.96233803613353" y2="215.71915093860918"/><line opacity="0.9035826978908852" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="205.67633009680253" x2="187.93294242090658" y1="175.77903962273467" y2="189.60588102609358"/><line opacity="0.8852793685867777" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="187.93294242090658" x2="167.25714714279783" y1="189.60588102609358" y2="202.96233803613353"/><line opacity="0.8805632794146657" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="232.5244219113573" x2="215.84700534537768" y1="187.40923386504474" y2="204.2766731073068"/><line opacity="0.8361019722207319" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="249.10799451139928" x2="230.4776778858725" y1="216.51847449009847" y2="236.70817220603067"/><line opacity="0.8239325186564034" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="172.3649160416918" x2="146.38433725091883" y1="237.2070122675799" y2="253.0490187006911"/><line opacity="0.46455338517713174" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="264.5986535497688" x2="227.27277202982438" y1="250.34948184928552" y2="255.24315212306556"/><line opacity="0.8678398413920532" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="215.84700534537768" x2="195.6663297024802" y1="204.2766731073068" y2="220.9280708486893"/><line opacity="0.8492422836750605" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="195.6663297024802" x2="172.3649160416918" y1="220.9280708486893" y2="237.2070122675799"/><line opacity="0.8242314542817967" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="2" x1="230.4776778858725" x2="208.08498700620459" y1="236.70817220603067" y2="256.78987817755393"/><line opacity="0.47711426550724084" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="188.72636224295576" x2="150.68168039108048" y1="256.0905017140323" y2="252.87380866930226"/><line opacity="0.47524239323455214" stroke="url(#metallicGradient)" stroke-linecap="round" stroke-width="1.2" x1="227.27277202982438" x2="188.72636224295576" y1="255.24315212306556" y2="256.0905017140323"/><g><circle cx="187.74795424967192" cy="100.86703066766574" fill="var(--color-primary)" opacity="0.3" r="7.6829419696157935"/><circle cx="187.74795424967192" cy="100.86703066766574" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="260.98730417271616" cy="105.70812280076649" fill="var(--color-primary)" opacity="0.3" r="4.486395009384143"/><circle cx="260.98730417271616" cy="105.70812280076649" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="120.30995974473493" cy="109.9543013511445" fill="var(--color-primary)" opacity="0.3" r="4.082151450673723"/><circle cx="120.30995974473493" cy="109.9543013511445" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="324.783997245627" cy="125.64361228321862" fill="var(--color-primary)" opacity="0.3" r="6.840334073653282"/><circle cx="324.783997245627" cy="125.64361228321862" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="66.84739510014359" cy="130.4706006653332" fill="var(--color-primary)" opacity="0.3" r="7.9812147113897405"/><circle cx="66.84739510014359" cy="130.4706006653332" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="35.154754843268904" cy="159.83055743038338" fill="var(--color-primary)" opacity="0.3" r="7.999823720214534"/><circle cx="35.154754843268904" cy="159.83055743038338" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="361.92011600920455" cy="155.8831044640311" fill="var(--color-primary)" opacity="0.3" r="5.143634661007698"/><circle cx="361.92011600920455" cy="155.8831044640311" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="367.6242679341806" cy="187.51385320200814" fill="var(--color-primary)" opacity="0.3" r="7.902109306508749"/><circle cx="367.6242679341806" cy="187.51385320200814" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="32.57502683231317" cy="192.603891862175" fill="var(--color-primary)" opacity="0.3" r="4.0297074790635055"/><circle cx="32.57502683231317" cy="192.603891862175" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="349.36903277483896" cy="214.54377400927598" fill="var(--color-primary)" opacity="0.3" r="7.392160262449483"/><circle cx="349.36903277483896" cy="214.54377400927598" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="54.094699826524305" cy="218.43067992399614" fill="var(--color-primary)" opacity="0.3" r="4.003309278252164"/><circle cx="54.094699826524305" cy="218.43067992399614" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><circle cx="200" cy="82.05053238300923" fill="url(#goldGradient)" r="7" stroke="#ffffff" stroke-width="1"/><g><circle cx="314.7908341867068" cy="235.58073698870714" fill="var(--color-primary)" opacity="0.3" r="7.992933283532215"/><circle cx="314.7908341867068" cy="235.58073698870714" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="92.50325250523852" cy="239.3567411922499" fill="var(--color-primary)" opacity="0.3" r="4.419170517013637"/><circle cx="92.50325250523852" cy="239.3567411922499" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="266.7806929650192" cy="250.27154977485358" fill="var(--color-primary)" opacity="0.3" r="4.545673613112702"/><circle cx="266.7806929650192" cy="250.27154977485358" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="146.38433725091883" cy="253.0490187006911" fill="var(--color-primary)" opacity="0.3" r="4.987216730151018"/><circle cx="146.38433725091883" cy="253.0490187006911" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><g><circle cx="208.08498700620459" cy="256.78987817755393" fill="var(--color-primary)" opacity="0.3" r="4.103416580955902"/><circle cx="208.08498700620459" cy="256.78987817755393" fill="#ffffff" r="4" stroke="var(--color-primary)" stroke-width="1.5"/></g><defs><linearGradient id="metallicGradient" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" stop-color="#cfd9df"/><stop offset="50%" stop-color="#336ef3"/><stop offset="100%" stop-color="#a6c1ee"/></linearGradient><linearGradient id="goldGradient" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" stop-color="#f6d365"/><stop offset="100%" stop-color="#fda085"/></linearGradient></defs></svg>

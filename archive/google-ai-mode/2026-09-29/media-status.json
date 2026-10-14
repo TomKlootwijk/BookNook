@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All scoped conversation slots are archived. The second October 14 batch adds 19 conversations and 27 SVG snapshots from 23 original charts/figures, including all five CE construction phases, plus one original generated raster doodle. One additional source visual remains at Google’s Wrapping things up placeholder, marked in context. Earlier source gaps remain: 38 unavailable uploaded images, two empty restored response slots, one unavailable PDF attachment, one chart without plotted marks and two unavailable doodles.",
+  "note": "All scoped conversation slots are archived. The evening batch and its follow-up preserve original diagrams and a 71-page v1.5 specification PDF recovered from the linked author repository. Two blank restored prompt slots are explicitly marked without reconstructed wording. Source error messages remain verbatim. Earlier source gaps remain as recorded in this file. One original generated raster doodle is also preserved.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -1812,5 +1812,54 @@
         "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAPFBMVEVHcEztdTX////tczHtdTXtdT"
       }
     ]
+  },
+  "october14EveningMedia": {
+    "date": "2026-10-14",
+    "newConversations": 42,
+    "newPairs": 336,
+    "vectorSnapshots": 12,
+    "sourceFigures": 14,
+    "rasterSnapshots": 2,
+    "blankRestoredPrompts": [
+      {
+        "conversation": 592,
+        "prompt": 2
+      },
+      {
+        "conversation": 595,
+        "prompt": 12
+      }
+    ],
+    "sourceErrorResponses": [
+      {
+        "conversation": 586,
+        "response": 10
+      },
+      {
+        "conversation": 601,
+        "response": 23
+      },
+      {
+        "conversation": 602,
+        "response": 3
+      }
+    ],
+    "recoveredPDF": {
+      "path": "attachments/Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf",
+      "pages": 71,
+      "bytes": 5295716,
+      "sha256": "8dfae654435c035beefc3f9770cf6f51b55c0cef968071900142e4cf9b1cf0fd",
+      "source": "https://huggingface.co/c0mbatduckzz/XD-TAU-JKT/blob/main/Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf",
+      "downloadedAt": "2026-10-14T19:59:06.223941+00:00",
+      "provenance": "Author repository linked in the captured conversations; filename matches the document named in conversation 583."
+    },
+    "generatedRasterDoodles": 1,
+    "generatedDoodle": {
+      "conversation": 601,
+      "response": 9,
+      "path": "assets/601-response-9-original-doodle.jpg",
+      "source": "https://lens.usercontent.google.com/banana?agsi=CmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAwZWI6MTpkYTJkYjg5ODc2ZTM5MzNlOjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAzMjFkZTMwMzM2ODowMDA2NWRjNmFmOTFmMjhmEAIYASIKaW1hZ2UvanBlZw==",
+      "sha256": "7b6351bada0aea3383f9dc2e6692844d6b32b28cab24334e1afbce40766da56d"
+    }
   }
 }

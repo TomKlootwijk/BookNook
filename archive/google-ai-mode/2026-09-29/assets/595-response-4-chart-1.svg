@@ -1,0 +1,243 @@
+<svg class="marks" height="450" style="background-color: rgb(39, 41, 48);;background:rgb(39, 41, 48);color:#e8eaed" version="1.1" viewBox="0 0 500 450" width="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #22242a;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #25262ECC !important;
+        border: 1px solid #2D2F35CC !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #ADAFB8 !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) &gt; :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+* {animation-play-state:paused !important;}</style><g fill="none" stroke-miterlimit="10" transform="translate(58,21)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h425v352h-425Z" fill="transparent"/><g><g aria-label="X-axis titled 'X Axis (r = 1)' for a linear scale with values from −1.2 to 1.2" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,352.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(35,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(71,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(106,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(142,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(177,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(213,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(248,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(283,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(319,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(354,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(390,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(425,0)" x2="0" y2="5"/></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="start" transform="translate(0,15)">−1.2</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(35.41666666666666,15)">−1.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(70.83333333333331,15)">−0.8</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(106.25,15)">−0.6</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(141.66666666666666,15)">−0.4</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(177.08333333333334,15)">−0.2</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(212.5,15)">0.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(247.91666666666669,15)">0.2</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(283.33333333333337,15)">0.4</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(318.75,15)">0.6</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(354.1666666666667,15)">0.8</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(389.58333333333337,15)">1.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(425,15)">1.2</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="425" y2="0"/></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(212.5,30)">X Axis (r = 1)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-label="Y-axis titled 'Y Axis (r = 1)' for a linear scale with values from −1.2 to 1.2" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,352)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,323)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,293)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,264)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,235)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,205)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,176)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,147)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,117)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,88)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,59)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,29)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="-5" y2="0"/></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,355)">−1.2</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,325.6666666666667)">−1.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,296.33333333333337)">−0.8</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,267)">−0.6</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,237.66666666666669)">−0.4</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,208.33333333333331)">−0.2</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,179)">0.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,149.66666666666666)">0.2</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,120.33333333333331)">0.4</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,91)">0.6</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,61.66666666666666)">0.8</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,32.33333333333331)">1.0</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,3)">1.2</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,352)" x2="0" y2="-352"/></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(-30.7412109375,176) rotate(-90) translate(0,-2)">Y Axis (r = 1)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-roledescription="area mark container" class="mark-area role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object"><path aria-label="x: −1; y_top: 0; y_bottom: 0" aria-roledescription="area mark" d="M35.417,176L36.601,159.064L37.786,152.09L38.97,146.765L40.155,142.3L41.339,138.386L42.524,134.866L43.708,131.646L44.893,128.665L46.077,125.88L47.262,123.26L48.446,120.782L49.631,118.427L50.815,116.18L52,114.031L53.184,111.968L54.369,109.985L55.553,108.073L56.738,106.228L57.922,104.444L59.107,102.716L60.291,101.041L61.476,99.415L62.66,97.836L63.845,96.299L65.029,94.804L66.214,93.347L67.398,91.927L68.583,90.542L69.767,89.19L70.952,87.869L72.136,86.579L73.321,85.318L74.505,84.085L75.69,82.878L76.874,81.697L78.059,80.54L79.243,79.408L80.428,78.298L81.612,77.211L82.797,76.145L83.981,75.1L85.166,74.075L86.35,73.069L87.535,72.083L88.719,71.115L89.904,70.165L91.088,69.232L92.273,68.317L93.457,67.418L94.642,66.535L95.826,65.668L97.011,64.816L98.195,63.98L99.38,63.158L100.564,62.351L101.749,61.557L102.933,60.778L104.118,60.012L105.302,59.259L106.487,58.52L107.671,57.793L108.856,57.079L110.04,56.376L111.225,55.687L112.409,55.009L113.594,54.342L114.778,53.687L115.963,53.044L117.147,52.411L118.332,51.79L119.516,51.179L120.701,50.579L121.885,49.99L123.07,49.411L124.254,48.842L125.439,48.283L126.623,47.734L127.808,47.195L128.992,46.665L130.177,46.145L131.361,45.635L132.546,45.134L133.73,44.642L134.915,44.159L136.099,43.686L137.284,43.221L138.469,42.765L139.653,42.318L140.838,41.88L142.022,41.45L143.207,41.028L144.391,40.615L145.576,40.211L146.76,39.814L147.945,39.426L149.129,39.046L150.314,38.674L151.498,38.31L152.683,37.954L153.867,37.606L155.052,37.266L156.236,36.933L157.421,36.608L158.605,36.291L159.79,35.981L160.974,35.679L162.159,35.385L163.343,35.097L164.528,34.818L165.712,34.545L166.897,34.28L168.081,34.022L169.266,33.772L170.45,33.528L171.635,33.292L172.819,33.063L174.004,32.841L175.188,32.626L176.373,32.418L177.557,32.217L178.742,32.023L179.926,31.836L181.111,31.656L182.295,31.483L183.48,31.316L184.664,31.157L185.849,31.004L187.033,30.858L188.218,30.719L189.402,30.586L190.587,30.461L191.771,30.342L192.956,30.229L194.14,30.124L195.325,30.025L196.509,29.933L197.694,29.847L198.878,29.768L200.063,29.696L201.247,29.63L202.432,29.571L203.616,29.518L204.801,29.472L205.985,29.433L207.17,29.4L208.354,29.374L209.539,29.354L210.723,29.341L211.908,29.334L213.092,29.334L214.277,29.341L215.461,29.354L216.646,29.374L217.83,29.4L219.015,29.433L220.199,29.472L221.384,29.518L222.568,29.571L223.753,29.63L224.937,29.696L226.122,29.768L227.306,29.847L228.491,29.933L229.675,30.025L230.86,30.124L232.044,30.229L233.229,30.342L234.413,30.461L235.598,30.586L236.782,30.719L237.967,30.858L239.151,31.004L240.336,31.157L241.52,31.316L242.705,31.483L243.889,31.656L245.074,31.836L246.258,32.023L247.443,32.217L248.627,32.418L249.812,32.626L250.996,32.841L252.181,33.063L253.365,33.292L254.55,33.528L255.734,33.772L256.919,34.022L258.103,34.28L259.288,34.545L260.472,34.818L261.657,35.097L262.841,35.385L264.026,35.679L265.21,35.981L266.395,36.291L267.579,36.608L268.764,36.933L269.948,37.266L271.133,37.606L272.317,37.954L273.502,38.31L274.686,38.674L275.871,39.046L277.055,39.426L278.24,39.814L279.424,40.211L280.609,40.615L281.793,41.028L282.978,41.45L284.162,41.88L285.347,42.318L286.531,42.765L287.716,43.221L288.901,43.686L290.085,44.159L291.27,44.642L292.454,45.134L293.639,45.635L294.823,46.145L296.008,46.665L297.192,47.195L298.377,47.734L299.561,48.283L300.746,48.842L301.93,49.411L303.115,49.99L304.299,50.579L305.484,51.179L306.668,51.79L307.853,52.411L309.037,53.044L310.222,53.687L311.406,54.342L312.591,55.009L313.775,55.687L314.96,56.376L316.144,57.079L317.329,57.793L318.513,58.52L319.698,59.259L320.882,60.012L322.067,60.778L323.251,61.557L324.436,62.351L325.62,63.158L326.805,63.98L327.989,64.816L329.174,65.668L330.358,66.535L331.543,67.418L332.727,68.317L333.912,69.232L335.096,70.165L336.281,71.115L337.465,72.083L338.65,73.069L339.834,74.075L341.019,75.1L342.203,76.145L343.388,77.211L344.572,78.298L345.757,79.408L346.941,80.54L348.126,81.697L349.31,82.878L350.495,84.085L351.679,85.318L352.864,86.579L354.048,87.869L355.233,89.19L356.417,90.542L357.602,91.927L358.786,93.347L359.971,94.804L361.155,96.299L362.34,97.836L363.524,99.415L364.709,101.041L365.893,102.716L367.078,104.444L368.262,106.228L369.447,108.073L370.631,109.985L371.816,111.968L373,114.031L374.185,116.18L375.369,118.427L376.554,120.782L377.738,123.26L378.923,125.88L380.107,128.665L381.292,131.646L382.476,134.866L383.661,138.386L384.845,142.3L386.03,146.765L387.214,152.09L388.399,159.064L389.583,176L389.583,176L388.399,192.936L387.214,199.91L386.03,205.235L384.845,209.7L383.661,213.614L382.476,217.134L381.292,220.354L380.107,223.335L378.923,226.12L377.738,228.74L376.554,231.218L375.369,233.573L374.185,235.82L373,237.969L371.816,240.032L370.631,242.015L369.447,243.927L368.262,245.772L367.078,247.556L365.893,249.284L364.709,250.959L363.524,252.585L362.34,254.164L361.155,255.701L359.971,257.196L358.786,258.653L357.602,260.073L356.417,261.458L355.233,262.81L354.048,264.131L352.864,265.421L351.679,266.682L350.495,267.915L349.31,269.122L348.126,270.303L346.941,271.46L345.757,272.592L344.572,273.702L343.388,274.789L342.203,275.855L341.019,276.9L339.834,277.925L338.65,278.931L337.465,279.917L336.281,280.885L335.096,281.835L333.912,282.768L332.727,283.683L331.543,284.582L330.358,285.465L329.174,286.332L327.989,287.184L326.805,288.02L325.62,288.842L324.436,289.649L323.251,290.443L322.067,291.222L320.882,291.988L319.698,292.741L318.513,293.48L317.329,294.207L316.144,294.921L314.96,295.624L313.775,296.313L312.591,296.991L311.406,297.658L310.222,298.313L309.037,298.956L307.853,299.589L306.668,300.21L305.484,300.821L304.299,301.421L303.115,302.01L301.93,302.589L300.746,303.158L299.561,303.717L298.377,304.266L297.192,304.805L296.008,305.335L294.823,305.855L293.639,306.365L292.454,306.866L291.27,307.358L290.085,307.841L288.901,308.314L287.716,308.779L286.531,309.235L285.347,309.682L284.162,310.12L282.978,310.55L281.793,310.972L280.609,311.385L279.424,311.789L278.24,312.186L277.055,312.574L275.871,312.954L274.686,313.326L273.502,313.69L272.317,314.046L271.133,314.394L269.948,314.734L268.764,315.067L267.579,315.392L266.395,315.709L265.21,316.019L264.026,316.321L262.841,316.615L261.657,316.903L260.472,317.182L259.288,317.455L258.103,317.72L256.919,317.978L255.734,318.228L254.55,318.472L253.365,318.708L252.181,318.937L250.996,319.159L249.812,319.374L248.627,319.582L247.443,319.783L246.258,319.977L245.074,320.164L243.889,320.344L242.705,320.517L241.52,320.684L240.336,320.843L239.151,320.996L237.967,321.142L236.782,321.281L235.598,321.414L234.413,321.539L233.229,321.658L232.044,321.771L230.86,321.876L229.675,321.975L228.491,322.067L227.306,322.153L226.122,322.232L224.937,322.304L223.753,322.37L222.568,322.429L221.384,322.482L220.199,322.528L219.015,322.567L217.83,322.6L216.646,322.626L215.461,322.646L214.277,322.659L213.092,322.666L211.908,322.666L210.723,322.659L209.539,322.646L208.354,322.626L207.17,322.6L205.985,322.567L204.801,322.528L203.616,322.482L202.432,322.429L201.247,322.37L200.063,322.304L198.878,322.232L197.694,322.153L196.509,322.067L195.325,321.975L194.14,321.876L192.956,321.771L191.771,321.658L190.587,321.539L189.402,321.414L188.218,321.281L187.033,321.142L185.849,320.996L184.664,320.843L183.48,320.684L182.295,320.517L181.111,320.344L179.926,320.164L178.742,319.977L177.557,319.783L176.373,319.582L175.188,319.374L174.004,319.159L172.819,318.937L171.635,318.708L170.45,318.472L169.266,318.228L168.081,317.978L166.897,317.72L165.712,317.455L164.528,317.182L163.343,316.903L162.159,316.615L160.974,316.321L159.79,316.019L158.605,315.709L157.421,315.392L156.236,315.067L155.052,314.734L153.867,314.394L152.683,314.046L151.498,313.69L150.314,313.326L149.129,312.954L147.945,312.574L146.76,312.186L145.576,311.789L144.391,311.385L143.207,310.972L142.022,310.55L140.838,310.12L139.653,309.682L138.469,309.235L137.284,308.779L136.099,308.314L134.915,307.841L133.73,307.358L132.546,306.866L131.361,306.365L130.177,305.855L128.992,305.335L127.808,304.805L126.623,304.266L125.439,303.717L124.254,303.158L123.07,302.589L121.885,302.01L120.701,301.421L119.516,300.821L118.332,300.21L117.147,299.589L115.963,298.956L114.778,298.313L113.594,297.658L112.409,296.991L111.225,296.313L110.04,295.624L108.856,294.921L107.671,294.207L106.487,293.48L105.302,292.741L104.118,291.988L102.933,291.222L101.749,290.443L100.564,289.649L99.38,288.842L98.195,288.02L97.011,287.184L95.826,286.332L94.642,285.465L93.457,284.582L92.273,283.683L91.088,282.768L89.904,281.835L88.719,280.885L87.535,279.917L86.35,278.931L85.166,277.925L83.981,276.9L82.797,275.855L81.612,274.789L80.428,273.702L79.243,272.592L78.059,271.46L76.874,270.303L75.69,269.122L74.505,267.915L73.321,266.682L72.136,265.421L70.952,264.131L69.767,262.81L68.583,261.458L67.398,260.073L66.214,258.653L65.029,257.196L63.845,255.701L62.66,254.164L61.476,252.585L60.291,250.959L59.107,249.284L57.922,247.556L56.738,245.772L55.553,243.927L54.369,242.015L53.184,240.032L52,237.969L50.815,235.82L49.631,233.573L48.446,231.218L47.262,228.74L46.077,226.12L44.893,223.335L43.708,220.354L42.524,217.134L41.339,213.614L40.155,209.7L38.97,205.235L37.786,199.91L36.601,192.936L35.417,176Z" fill="#618eff" opacity="0.2" role="graphics-symbol"/></g><g aria-roledescription="group mark container" class="mark-group role-scope layer_1_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h425v352h-425Z"/><g><g aria-roledescription="line mark container" class="mark-line role-mark layer_1_marks" clip-path="url(#clip2)" pointer-events="none" role="graphics-object"><path aria-label="x: −1; y: 0; group: h_mid" aria-roledescription="line mark" d="M35.417,176L389.583,176" role="graphics-symbol" stroke="#ffbe73" stroke-dasharray="4,4" stroke-width="1.5"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h425v352h-425Z"/><g><g aria-roledescription="line mark container" class="mark-line role-mark layer_1_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object"><path aria-label="x: 0; y: −1; group: v_mid" aria-roledescription="line mark" d="M212.5,322.667L212.5,29.333" role="graphics-symbol" stroke="#ffbe73" stroke-dasharray="4,4" stroke-width="1.5"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h425v352h-425Z"/><g><g aria-roledescription="line mark container" class="mark-line role-mark layer_1_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object"><path aria-label="x: −1; y: −1; group: bottom" aria-roledescription="line mark" d="M35.417,322.667L389.583,322.667" role="graphics-symbol" stroke="#ffbe73" stroke-dasharray="4,4" stroke-width="1.5"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h425v352h-425Z"/><g><g aria-roledescription="line mark container" class="mark-line role-mark layer_1_marks" clip-path="url(#clip5)" pointer-events="none" role="graphics-object"><path aria-label="x: −1; y: 1; group: top" aria-roledescription="line mark" d="M35.417,29.333L35.417,322.667" role="graphics-symbol" stroke="#ffbe73" stroke-dasharray="4,4" stroke-width="1.5"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h425v352h-425Z"/><g><g aria-roledescription="line mark container" class="mark-line role-mark layer_1_marks" clip-path="url(#clip6)" pointer-events="none" role="graphics-object"><path aria-label="x: 1; y: 1; group: right" aria-roledescription="line mark" d="M389.583,29.333L389.583,322.667" role="graphics-symbol" stroke="#ffbe73" stroke-dasharray="4,4" stroke-width="1.5"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g><g aria-roledescription="line mark container" class="mark-line role-mark layer_2_marks" clip-path="url(#clip7)" pointer-events="none" role="graphics-object"><path aria-label="x: −0.999944801995; y: 0.0105068055189" aria-roledescription="line mark" d="M35.426,174.459L35.426,177.541L35.505,171.378L35.505,180.622L35.661,168.298L35.661,183.702L35.895,165.223L35.895,186.777L36.208,162.151L36.208,189.849L36.598,159.086L36.598,192.914L37.066,156.029L37.066,195.971L37.611,152.98L37.611,199.02L38.234,202.058L38.234,149.942L38.934,146.915L38.934,205.085L39.71,143.9L39.71,208.1L40.562,140.9L40.562,211.1L41.491,137.916L41.491,214.084L42.495,217.052L42.495,134.948L43.574,220.001L43.574,131.999L44.727,222.932L44.727,129.068L45.955,225.841L45.955,126.159L47.256,228.728L47.256,123.272L48.631,120.407L48.631,231.593L50.077,117.568L50.077,234.432L51.595,237.246L51.595,114.754L53.185,240.033L53.185,111.967L54.844,242.791L54.844,109.209L56.574,245.52L56.574,106.48L58.372,248.218L58.372,103.782L60.238,101.115L60.238,250.885L62.172,98.482L62.172,253.518L64.171,256.117L64.171,95.883L66.237,258.681L66.237,93.319L68.367,261.208L68.367,90.792L70.56,263.698L70.56,88.302L72.817,266.149L72.817,85.851L75.134,268.56L75.134,83.44L77.513,81.07L77.513,270.93L79.951,78.742L79.951,273.258L82.448,275.543L82.448,76.457L85.002,277.785L85.002,74.215L87.613,279.981L87.613,72.019L90.278,282.132L90.278,69.868L92.998,284.235L92.998,67.765L95.77,65.709L95.77,286.291L98.594,288.298L98.594,63.702L101.468,290.256L101.468,61.744L104.391,292.163L104.391,59.837L107.362,294.019L107.362,57.981L110.38,295.822L110.38,56.178L113.442,297.573L113.442,54.427L116.548,299.27L116.548,52.73L119.697,51.087L119.697,300.913L122.886,49.5L122.886,302.5L126.115,47.968L126.115,304.032L129.383,46.493L129.383,305.507L132.687,45.075L132.687,306.925L136.026,43.715L136.026,308.285L139.399,309.587L139.399,42.413L142.804,310.829L142.804,41.171L146.24,312.013L146.24,39.987L149.705,313.136L149.705,38.864L153.198,314.198L153.198,37.802L156.718,315.2L156.718,36.8L160.261,316.14L160.261,35.86L163.828,34.982L163.828,317.018L167.417,34.166L167.417,317.834L171.025,33.413L171.025,318.587L174.652,32.722L174.652,319.278L178.295,32.095L178.295,319.905L181.953,31.532L181.953,320.468L185.625,31.032L185.625,320.968L189.309,30.596L189.309,321.404L193.003,321.775L193.003,30.225L196.706,322.082L196.706,29.918L200.415,322.325L200.415,29.675L204.13,322.503L204.13,29.497L207.849,322.616L207.849,29.384L211.57,322.665L211.57,29.335L215.291,322.648L215.291,29.352L219.011,29.432L219.011,322.568L222.728,29.578L222.728,322.422L226.44,29.788L226.44,322.212L230.146,30.063L230.146,321.937L233.845,30.403L233.845,321.597L237.534,30.806L237.534,321.194L241.212,31.274L241.212,320.726L244.878,31.806L244.878,320.194L248.529,319.599L248.529,32.401L252.164,318.94L252.164,33.06L255.782,318.218L255.782,33.782L259.38,317.434L259.38,34.566L262.958,35.413L262.958,316.587L266.513,315.678L266.513,36.322L270.045,314.707L270.045,37.293L273.551,38.325L273.551,313.675L277.031,39.418L277.031,312.582L280.482,40.572L280.482,311.428L283.903,41.785L283.903,310.215L287.292,43.057L287.292,308.943L290.648,44.388L290.648,307.612L293.97,45.777L293.97,306.223L297.256,47.223L297.256,304.777L300.504,303.273L300.504,48.727L303.714,50.287L303.714,301.713L306.883,300.098L306.883,51.902L310.01,298.428L310.01,53.572L313.095,296.704L313.095,55.296L316.135,294.927L316.135,57.073L319.129,293.097L319.129,58.903L322.076,291.216L322.076,60.784L324.975,62.717L324.975,289.283L327.824,64.699L327.824,287.301L330.623,66.731L330.623,285.269L333.369,68.811L333.369,283.189L336.062,70.938L336.062,281.062L338.7,73.111L338.7,278.889L341.282,75.33L341.282,276.67L343.808,274.406L343.808,77.594L346.275,272.099L346.275,79.901L348.684,82.25L348.684,269.75L351.032,267.359L351.032,84.641L353.319,87.072L353.319,264.928L355.544,89.542L355.544,262.458L357.706,92.051L357.706,259.949L359.804,257.404L359.804,94.596L361.837,97.178L361.837,254.822L363.803,99.794L363.803,252.206L365.703,102.444L365.703,249.556L367.536,105.127L367.536,246.873L369.3,107.841L369.3,244.159L370.994,110.584L370.994,241.416L372.619,113.357L372.619,238.643L374.173,116.158L374.173,235.842L375.655,118.984L375.655,233.016L377.066,121.837L377.066,230.163L378.403,124.712L378.403,227.288L379.668,127.611L379.668,224.389L380.859,221.469L380.859,130.531L381.975,133.471L381.975,218.529L383.017,136.43L383.017,215.57L383.983,139.406L383.983,212.594L384.873,142.399L384.873,209.601L385.688,145.406L385.688,206.594L386.426,148.427L386.426,203.573L387.087,151.46L387.087,200.54L387.671,154.503L387.671,197.497L388.178,157.557L388.178,194.443L388.607,191.382L388.607,160.618L388.958,163.686L388.958,188.314L389.232,166.76L389.232,185.24L389.427,169.838L389.427,182.162L389.544,172.918L389.544,179.082L389.583,176L389.583,176" role="graphics-symbol" stroke="#618eff" stroke-width="2"/></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_3_marks" clip-path="url(#clip8)" pointer-events="none" role="graphics-object"><text aria-label="x: 0.5; y: 0.5; label: r²" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">r²</text><text aria-label="x: −0.5; y: 0.5; label: r²" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">r²</text><text aria-label="x: −0.5; y: −0.5; label: r²" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">r²</text><text aria-label="x: 0.5; y: −0.5; label: r²" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">r²</text><text aria-label="x: 0; y: 1.05; label: Total Area = π × r² ≈ 3.14 r²" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="bold" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(212.5,14)">Total Area = π × r² ≈ 3.14 r²</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_4_marks" clip-path="url(#clip9)" pointer-events="none" role="graphics-object"><text aria-label="x: 0.85; y: 0.85; label: Wasted Corner" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-style="italic" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(363.0208333333333,44.33333333333334)">Wasted Corner</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_5_marks" clip-path="url(#clip10)" pointer-events="none" role="graphics-object"><text aria-label="x: −0.85; y: −0.85; label: Wasted Corner" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-style="italic" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(61.97916666666667,313.66666666666663)">Wasted Corner</text></g><g aria-label="Symbol legend for fill color and stroke color with 2 values: Circle Area (π r²), Radius-Square Boundaries (4 r² total)" aria-roledescription="legend" class="mark-group role-legend" role="graphics-symbol"><g transform="translate(0,400)"><path aria-hidden="true" class="background" d="M0,0h309v13h-309Z" pointer-events="none"/><g><g class="mark-group role-legend-entry"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g aria-roledescription="group mark container" class="mark-group role-scope" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h98.7578125v12.5h-98.7578125Z" opacity="1" pointer-events="none"/><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#618eff" opacity="0.2" stroke="#618eff" stroke-width="1.5" transform="translate(6,6)"/></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,9)">Circle Area (π r²)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g><g transform="translate(110,0)"><path aria-hidden="true" class="background" d="M0,0h198.810546875v12.5h-198.810546875Z" opacity="1" pointer-events="none"/><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="#ffbe73" opacity="0.2" stroke="#ffbe73" stroke-width="1.5" transform="translate(6,6)"/></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,9)">Radius-Square Boundaries (4 r² total)</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g></g><defs><clipPath id="clip1"><rect height="352" width="425" x="0" y="0"/></clipPath><clipPath id="clip2"><rect height="352" width="425" x="0" y="0"/></clipPath><clipPath id="clip3"><rect height="352" width="425" x="0" y="0"/></clipPath><clipPath id="clip4"><rect height="352" width="425" x="0" y="0"/></clipPath><clipPath id="clip5"><rect height="352" width="425" x="0" y="0"/></clipPath><clipPath id="clip6"><rect height="352" width="425" x="0" y="0"/></clipPath><clipPath id="clip7"><rect height="352" width="425" x="0" y="0"/></clipPath><clipPath id="clip8"><rect height="352" width="425" x="0" y="0"/></clipPath><clipPath id="clip9"><rect height="352" width="425" x="0" y="0"/></clipPath><clipPath id="clip10"><rect height="352" width="425" x="0" y="0"/></clipPath></defs></svg>
