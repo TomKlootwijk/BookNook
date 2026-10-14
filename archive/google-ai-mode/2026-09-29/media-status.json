@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All scoped conversation slots are archived. The October 14 batch adds four conversations, one original SVG diagram as a static snapshot and five inline photo thumbnails. Earlier source gaps remain: 38 uploaded images unavailable from Google, two empty restored response slots, one unavailable PDF attachment, one chart without plotted marks and two unavailable doodles. All gaps remain marked in context.",
+  "note": "All scoped conversation slots are archived. The second October 14 batch adds 19 conversations and 27 SVG snapshots from 23 original charts/figures, including all five CE construction phases, plus one original generated raster doodle. One additional source visual remains at Google’s Wrapping things up placeholder, marked in context. Earlier source gaps remain: 38 unavailable uploaded images, two empty restored response slots, one unavailable PDF attachment, one chart without plotted marks and two unavailable doodles.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -289,5 +289,1528 @@
     "vectorDiagrams": 1,
     "inlinePhotoThumbnails": 5,
     "unavailableUploadedImages": []
+  },
+  "october14MoreMedia": {
+    "date": "2026-10-14",
+    "newConversations": 19,
+    "newPairs": 82,
+    "vectorSnapshots": 27,
+    "sourceFigures": 23,
+    "unavailableWidget": [
+      {
+        "conversation": 564,
+        "response": 9,
+        "reason": "Google still shows Wrapping things up"
+      }
+    ],
+    "generatedRasterDoodles": 1,
+    "inlineImageCandidates": [
+      {
+        "conversation": 564,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 564,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAA8FBMVEUkKzP////09PS4xuD/o0jsZi"
+      },
+      {
+        "conversation": 564,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 564,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 564,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 564,
+        "response": 12,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAY1BMVEUAAAD///+bm5uRkZH6+vr09P"
+      },
+      {
+        "conversation": 564,
+        "response": 12,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAY1BMVEUAAAD///+bm5uRkZH6+vr09P"
+      },
+      {
+        "conversation": 565,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 565,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 565,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAaVBMVEXZbxj/mQHnLgT/mQH4nA7/mg"
+      },
+      {
+        "conversation": 565,
+        "response": 3,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAADAFBMVEVHcEwZCCANBQ8mN3AoCzEMAg"
+      },
+      {
+        "conversation": 565,
+        "response": 3,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAADAFBMVEVHcEwZCCANBQ8mN3AoCzEMAg"
+      },
+      {
+        "conversation": 565,
+        "response": 3,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAOVBMVEVHcEyzrKWzHySzHySzrKWzq6"
+      },
+      {
+        "conversation": 565,
+        "response": 9,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAS1BMVEVHcEwAAAAAAAAAAAAAAAAAAA"
+      },
+      {
+        "conversation": 565,
+        "response": 9,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAABPlBMVEVHcEz///////////////////"
+      },
+      {
+        "conversation": 565,
+        "response": 9,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAIVBMVEVHcEwZgv8Ygf8Ygv8Zgv8Zgv"
+      },
+      {
+        "conversation": 565,
+        "response": 9,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAaVBMVEXZbxj/mQHnLgT/mQH4nA7/mg"
+      },
+      {
+        "conversation": 565,
+        "response": 9,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAABPlBMVEVHcEz///////////////////"
+      },
+      {
+        "conversation": 567,
+        "response": 2,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAADAFBMVEVHcEz+/v7///////////////"
+      },
+      {
+        "conversation": 567,
+        "response": 2,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 567,
+        "response": 4,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAIVBMVEVHcEzqSjTqSjTqSjTqSjTqSj"
+      },
+      {
+        "conversation": 567,
+        "response": 7,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAALVBMVEV+L/99Lv99Lv99Lv99Lv99Lv"
+      },
+      {
+        "conversation": 567,
+        "response": 7,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAllBMVEVHcEz/RQD/RgD/RQD/RQD/RQ"
+      },
+      {
+        "conversation": 567,
+        "response": 16,
+        "alt": "Nothing custom <b>glyph matrix</b> image is s**t : r/NothingTech",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAg0AAAGHCAMAAAAEBZGFAAAAb1BMVEUAAAAwMDMcHBz///8jIyUBAQ"
+      },
+      {
+        "conversation": 567,
+        "response": 16,
+        "alt": "Nothing custom <b>glyph matrix</b> image is s**t : r/NothingTech",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 16,
+        "alt": "34,425 <b>Tile Matrix</b> Royalty-Free Images, Stock Photos &amp; Pictures ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 16,
+        "alt": "31,026 Mathematical <b>Mosaic</b> Royalty-Free Images, Stock Photos ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 16,
+        "alt": "34,425 <b>Tile Matrix</b> Royalty-Free Images, Stock Photos &amp; Pictures ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 16,
+        "alt": "Glyph Matrix - Everything About it. - Nothing Community",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 16,
+        "alt": "Geometric Matrix Stock Illustrations – 55,662 Geometric Matrix Stock ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 16,
+        "alt": "Glyph matrix – Xenographics",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 18,
+        "alt": "AI generated image",
+        "url": "https://lens.usercontent.google.com/banana?agsi=CmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAwZWI6MTpj"
+      },
+      {
+        "conversation": 567,
+        "response": 18,
+        "alt": "AI generated image",
+        "url": "https://lens.usercontent.google.com/banana?agsi=CmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAwZWI6MTpj"
+      },
+      {
+        "conversation": 567,
+        "response": 18,
+        "alt": "Black Computer Icons <b>Tile Pattern</b> | Pc Lunar By Artaic",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 18,
+        "alt": "Browse thousands of <b>Geometric Mosaic</b> images for <b>design</b> ...",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAioAAAG7CAMAAADaPE76AAAA51BMVEUVAwQAiIDkggb/8N3WPQUVAA"
+      },
+      {
+        "conversation": 567,
+        "response": 18,
+        "alt": "Bold Primary <b>Geometric Glyph Art</b> in Red White and Blue n.0469 <b>Art</b> ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 18,
+        "alt": "Roman <b>Mosaic</b> Cross Stitch <b>Pattern</b>: Blackwork <b>Geometric Design</b> ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Symbol #science #physicswallah #viralreels #science #meme physics",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Cyber Memory – Apps on Google Play",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Pressure Waveform Analysis: The Art Following the Acquisition",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Undercroft Rune Puzzle Solver: Easier than before : r/CODZombies",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANkAAACuCAMAAACMR1g9AAAB4FBMVEULDQ8EBQYAAAAICgsAAAYEAA"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Turning Symbols Into Sound | Shape Sonification - YouTube",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Minimal actuation and control of a soft hydrogel swimmer from flutter instability - ScienceDirect",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Bespaar 20% op AfterMove op Steam",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Just a quick cheat sheet sunset 等 bird o face 1 2 diplo 3 eclipse ball balloon oon 5 boat 6 bug dragonfly 8 7 gal galaxy 9 VO voxel fish A",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "TelePulse: Enhancing the Teleoperation Experience through Biomechanical Simulation-Based Electrical Muscle Stimulation in Virtual Reality | Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Premiere Pro Profiles Stream Deck + XL | Elgato Marketplace",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "The Evolution of Communication: From Extraterrestrial Hieroglyphs to Telepathy? | by Boris (Bruce) Kriger | GLOBAL SCIENCE NEWS | Medium",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Leveraging Vision Foundation Model via PConv-Based Fine-Tuning with Automated Prompter for Defect Segmentation",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAADHCAMAAAADI25BAAABVlBMVEUAAAD///8jIyPBwcEuLi5oaG"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Core Defense - YouTube",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "MDFT-GAN: A Multi-Domain Feature Transformer GAN for Bearing Fault Diagnosis Under Limited and Imbalanced Data Conditions",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Homestuck Save Quick | Astrology symbols rainbow colors, Astrology wall art ideas, Colorful astrological symbols chart",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Semiotron",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAAC0CAMAAABVLrsMAAABUFBMVEUAAAAdK1MTWF4eLVYLMTUGWr"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "I made a handheld game console, for Darktide. : r/DarkTide",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "LOOPERATOR Review — DATABROTH",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "📈 Math Symbols: The Alphabet of Mathematics! • Math symbols are the language of mathematics. From sums and integrals to infinity, operators, and gradients, each symbol represents a powerful idea tha",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAACGCAMAAAB+MzHAAAABhlBMVEUAAAAAAAIAAgBkYlcAAAYHAA"
+      },
+      {
+        "conversation": 567,
+        "response": 20,
+        "alt": "Homestuck Trolls Zodiac Signs | Colorful esoteric symbols, Colorful mystical symbols grid, Design inspiration for tattoos",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "<b>Luger</b> pistol - Wikipedia",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "The <b>Luger</b> Parabellum: History, Design and Collecting",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "<b>Luger</b> pistol | Gun Wiki | Fandom",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "<b>Luger</b> - Simple English Wikipedia, the free encyclopedia",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "What Made the German <b>Luger</b> the Most Famous Pistol in Modern ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "<b>Luger</b> (2025) - IMDb",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "Mauser <b>Luger</b> P08 Limited Edition 9mm pistool - occasion",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "Unique German Navy <b>Luger</b> Pistols: Best Collectible <b>Lugers</b> ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAaVBMVEUAAADtHCTxHCWXEhdHCAu7Fh"
+      },
+      {
+        "conversation": 568,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 568,
+        "response": 2,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 568,
+        "response": 2,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 568,
+        "response": 2,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "<b>Engraved</b> and Gold Inlaid Mauser <b>P.08 Luger</b> Semi-Automatic <b>Pistol</b> ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "Stunning <b>Engraved</b> DWM 1916 <b>P-08</b> German <b>Luger</b> | Proxibid",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "Krieghoff Side Frame <b>Inscribed P.08 Luger Pistol</b> | Rock Island Auction",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "SUPER RARE &amp; BEAUTIFUL <b>ENGRAVED</b> KRIEGHOFF <b>LUGER P.08</b>",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "<b>Engraved</b> WWI German DWM <b>P.08 P08 P-08</b> 9mm <b>Luger</b> Semi-Auto ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "The <b>Luger P08</b>: A Mechanical Icon with a Legacy That Won&#39;t Quit",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "A super fancy 1921 DWM <b>P08 Luger</b>. This one is 435 of 500 <b>custom</b> ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "<b>P08</b> &#39;<b>Luger</b>&#39; 9mm - <b>Engraved</b>, gold/silver inlays &amp; with Ivory grips ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "DWM <b>LUGER P08</b> 9MM SEMI AUTO <b>PISTOL</b>, <b>CUSTOM</b> ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "Fully <b>engraved</b> Mauser <b>P08</b> / P06? Cal. 9mm <b>Luger</b>, very rare, with ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "<b>Luger P08</b> – American Golden Weapons Inc",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "Past Work - <b>Luger</b> | Altamont Company",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "Hand <b>Engraved</b> &amp; Gold Inlaid DWM <b>Luger P.08</b> .30 Cal Semi Auto ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "Cased Factory Presentation <b>Engraved</b> Krieghoff <b>P.08 Luger Pistol</b> ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "Pistol Luger P08 Custom - ArtStation",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "DWM <b>LUGER P08</b> 9MM SEMI AUTO <b>PISTOL</b>, <b>CUSTOM</b> ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "<b>Luger P08</b> – American Golden Weapons Inc",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "<b>Luger pistol</b> - Wikipedia",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "Mauser Parabellum <b>P08</b> IWA &#39;83 <b>Luger</b> — Luxus Collection",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 3,
+        "alt": "<b>Luger P08</b> DWM <b>Custom</b> Target Model | LugerMan",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 5,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 568,
+        "response": 5,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 568,
+        "response": 5,
+        "alt": "",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 568,
+        "response": 5,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAM1BMVEVHcEw9Y589Y58tMOs9Y589Y5"
+      },
+      {
+        "conversation": 569,
+        "response": 2,
+        "alt": "Graph image",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACCUAAAJJCAYAAACX9B9OAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG"
+      },
+      {
+        "conversation": 569,
+        "response": 2,
+        "alt": "Image of a graph lightbox",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACCUAAAJJCAYAAACX9B9OAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG"
+      },
+      {
+        "conversation": 570,
+        "response": 1,
+        "alt": "<b>CE</b> vs <b>China Export</b> Mark Explained | StarFish Medical",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAd0AAAFlCAMAAACZesJEAAABCFBMVEX///8AAADl5eX8/P73+P2wve"
+      },
+      {
+        "conversation": 570,
+        "response": 1,
+        "alt": "Differences between <b>ce</b> and <b>china export</b> markings | Kimua…",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 1,
+        "alt": "Differences Between <b>CE</b> (Conformité Européenne) and <b>CE</b> (<b>China</b> ...",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkgAAAGyCAMAAAAoIct/AAABgFBMVEXeKBADObQAOLOdMTMAObT///"
+      },
+      {
+        "conversation": 570,
+        "response": 1,
+        "alt": "<b>CE</b>-markering: <b>China Export</b> of Conformité Européenne ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 1,
+        "alt": "<b>CE</b> or <b>China Export</b>: can you spot the difference? - www ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 1,
+        "alt": "<b>CE</b>-markering en Chinees <b>CE</b>-logo: wat is het verschil? | RVO.nl",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAloAAAHDCAMAAADLBETOAAABX1BMVEX///8AAAD3+Prr7vLg5er6+/"
+      },
+      {
+        "conversation": 570,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAP1BMVEVHcEwAz/8Az/8pTPUAz/8QaP"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "How big should the <b>CE logo</b> be? - <b>Certification</b> Experts",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "<b>CE vs China Export Mark</b> Explained | StarFish Medical",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "<b>CE Marking</b> on <b>China</b> Imports: What Irish Firms Need | Ériu",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "What Is a <b>CE</b>-<b>Certified</b> USB-C Charger? A Charger Pass EU Law",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "I just found out that the EU&#39;s <b>CE marking</b> and the <b>China Export</b> mark ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "Differences between ce and china export markings | Kimua…",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "Differences Between CE (Conformité Européenne) and CE (China ...",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiMAAAG2CAMAAACat3buAAABX1BMVEXeKBADObSdMTMAOLMAObT///"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "CE or China Export: can you spot the difference? - www.thegreenlist.nl",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "Bamboozling customers on safety markings : r/assholedesign",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "A Real CE Mark VS A Chinese CE Export Mark | MatchSourcing",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 3,
+        "alt": "Devon - 🛍️ Are you getting ready to shop on Black Friday? When ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 570,
+        "response": 5,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 570,
+        "response": 5,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 570,
+        "response": 5,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 570,
+        "response": 5,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 570,
+        "response": 5,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 570,
+        "response": 6,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 570,
+        "response": 7,
+        "alt": "",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhUIBxEKFRUXFhoYFhcYGBgdHxoiGR4dIiAnK"
+      },
+      {
+        "conversation": 570,
+        "response": 7,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAACACAYAAADApa2mAAAGXElEQVR4nO2dT37aRhTHf092g7OjJy"
+      },
+      {
+        "conversation": 571,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 571,
+        "response": 1,
+        "alt": "<b>Catenary</b> - Wikipedia",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 571,
+        "response": 1,
+        "alt": "<b>Catenary</b> | Mathematics, Physics &amp; Engineering | Britannica",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATIAAADmCAMAAABhwPl6AAAAulBMVEX///+ZzP8AAABpuSX/HQRpms"
+      },
+      {
+        "conversation": 571,
+        "response": 1,
+        "alt": "A <b>catenary</b> arch and chain... | Download Scientific Diagram",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKwAAADlCAMAAAD5uOxOAAAAZlBMVEX///8AAAA7ODn8/Pynpqb5+f"
+      },
+      {
+        "conversation": 571,
+        "response": 1,
+        "alt": "<b>Catenary</b> Cable: Structure, Uses, and Installation Guide",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 571,
+        "response": 1,
+        "alt": "<b>Catenary</b> Cables and Arches – Basic Concepts of Structural ...",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhoAAAGTCAMAAABZMEuZAAABLFBMVEX8/v/////h39/wYi9xZ2UAAA"
+      },
+      {
+        "conversation": 571,
+        "response": 1,
+        "alt": "<b>Catenary</b> Definiton",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 571,
+        "response": 1,
+        "alt": "What is a <b>Catenary</b> System? | MAC Products",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 571,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAS1BMVEVHcEyRQpCQQJHmhjOVRI2UQ4"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "How To Pick The Right Backpacking <b>Tent</b> - Hike Oregon",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Durston X-Mid Pro 1 <b>tent</b> - BackpackingLight.nl",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Outsunny dubbele familietent, Quick-Up <b>tent</b> voor 2 volwassenen + 1 ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Best Ultralight Tents of 2026 | Switchback Tested",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "The Best Ultralight Tents of 2026 | Tested & Ranked",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Best Backpacking Tents of 2026, 140 Tested | CleverHiker",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "The Best Backpacking Tents of 2026 | Tested & Ranked",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "9 Best Ultralight Tents of 2026 (Field-Tested)",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Best 3 Person Tent For Backpacking Lightweight 2026",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Best Ultralight Backpacking Tents of 2026 | Better Trail",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Star Trail™ EXT 1-Persoons Ultralichte Backpacking Tent | Naturehike",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Best Ultralight Backpacking Tent 2026",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "All Ultralight Tents | Naturehike",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Bell <b>Tent</b> 5x5m Zand voor 6 Personen – Koop bij Dancover",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "13&#39; Regatta Bell <b>Tent</b> | Camping and Music Festivals",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Trendy and Cool <b>Tents</b> for Modern <b>Campers</b>",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "9 Best Glamping <b>Tents</b> 2023 — Luxury <b>Tents</b> for Summer",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Outdoor Waterproof Family Camping Cotton Canvas Bell Netherlands",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "16ft Better Bell Stargazing Tent",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Luxury Glamping Outdoor Waterproof Family Camping Cotton ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "20ft Better Bell Stargazing Tent",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Fifty Fest glamping: Luxury Bell Tent camping — The Canvas Co",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Deals VEVOR Canvas Bell Tent, 4 Seasons 16.4 ft Yurt Tent for ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "16' (5M) Stella™ Stargazer Bell Tent | A Skyview Glamping Tent ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Canvas Bell Yurt Tent with Stove Jack, Waterproof Netherlands | Ubuy",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Canvas Bell Tents for Sale | Luxury Glamping & Camping Tents",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Fifty Fest glamping: Luxury Bell Tent camping — The Canvas Co",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "RBM Panda Large Sunny Beige Inflatable Hot <b>Tent</b> with Stove Jack ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "7 Popular <b>Types</b> of <b>Tents</b> for <b>Camping</b> | Portal Outdoors",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Best <b>Camping Tents</b> of 2026: <b>Styles</b> Compared | CORE Equipment ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "<b>Types</b> of <b>Camping Tents</b>: Which One Is Right for You?",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Night Cat 8-Persons Camping Tent: Large Waterproof Instant Cabin ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Top 5 Spacious Cabin Tents for Family Camping",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "ADITAM Large Camping Tent Inflatable Tent Home Tent Family ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Large Space Luxury Frog Hexagonal Tent, Outdoor Family Camping ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "ADITAM Outdoor Camping Tent, Bell Tent, Yurt Bell Tent Glamping ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "13.1 Ft Green 4 Season Bell Tent with Stove Jack, Water-Resistant ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "8 10 person large camping tent 183cm tall 2 - Temu Mauritius",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Best Camping Tents with AC Port for Summer Camping",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "RBM Panda Large Forest Green Blow Up Hot Tent + Caminus M ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 1,
+        "alt": "Luxury Camping Cabin Tent Camping Tents Large Family Cabin ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 2,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABqCAMAAAB9NgQWAAAAwFBMVEX+/v4oKCivrIL////9/f37+/"
+      },
+      {
+        "conversation": 572,
+        "response": 2,
+        "alt": "<b>CIRQUE DU SOLEIL TENT</b> - VSO Chapiteaux",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 2,
+        "alt": "In San Francisco: <b>Cirque du Soleil</b> raises iconic Big Top for ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 2,
+        "alt": "The big <b>tent</b> of <b>Cirque du Soleil</b> has already been installed ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 2,
+        "alt": "The blue-and-white <b>tents</b> of <b>Cirque du Soleil</b> have returned to ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 2,
+        "alt": "<b>Cirque du Soleil</b> – Birdair",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 2,
+        "alt": "<b>Cirque du Soleil</b> — gsb-inc",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 2,
+        "alt": "<b>Cirque Du Soleil</b> Raises 2,500-Seat &#39;Big Top&#39; <b>Tent</b> In Montco ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 572,
+        "response": 2,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABqCAMAAAB9NgQWAAAAwFBMVEX+/v4oKCivrIL////9/f37+/"
+      },
+      {
+        "conversation": 573,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAA"
+      },
+      {
+        "conversation": 573,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAY1BMVEX///8AAADz8/Pb29vHx8f29v"
+      },
+      {
+        "conversation": 573,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAY1BMVEUAAAD///+0tLT7+/vy8vKmpq"
+      },
+      {
+        "conversation": 573,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAIVBMVEVHcEzqSjTqSjTqSjTqSjTqSj"
+      },
+      {
+        "conversation": 573,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 575,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAANlBMVEX///8AAACrq6vw8PDW1tbh4e"
+      },
+      {
+        "conversation": 575,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 575,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 575,
+        "response": 2,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 576,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAASFBMVEVHcEwJaP8Uav/0+P8Iaf8HZP"
+      },
+      {
+        "conversation": 576,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 576,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAkFBMVEUDOab///8AN6UANaUAMqQAL6"
+      },
+      {
+        "conversation": 576,
+        "response": 2,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 576,
+        "response": 2,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEX///8AAADMzMwfHx/q6uq0tL"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "<b>Ski</b>-<b>ongeluk</b>",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "<b>Ski</b>-<b>ongeluk</b>",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "Nederlander zwaargewond bij <b>skiongeluk</b> Oostenrijk, vijf ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "Waar moet je op letten bij een <b>ski</b>-ongeval",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "Directeur Walibi Belgium uitgeschakeld door <b>ski</b>-<b>ongeluk</b> ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "Gepeperde doktersrekening na <b>ski</b>-<b>ongeluk</b> voorkomen? Zo doe ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "Schadevergoeding na een <b>ski</b>-ongeval",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "<b>Ski</b>-<b>ongeluk</b> Michael Schumacher buiten de piste&#39; | Algemeen ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAIVBMVEVHcEzuK1PuK1PvK1PuK1PuK1"
+      },
+      {
+        "conversation": 577,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAIVBMVEVHcEzuK1PuK1PvK1PuK1PuK1"
+      },
+      {
+        "conversation": 578,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEVHcEz/ADP/ADP/ADP/ADP/AD"
+      },
+      {
+        "conversation": 578,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 578,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAb1BMVEVHcEz///////+LLTH///////"
+      },
+      {
+        "conversation": 579,
+        "response": 1,
+        "alt": "What is a proof of concept (POC)? – TechTarget Definition",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAO8AAADICAMAAAA3B0YFAAAAk1BMVEX+/v7////y8vL29vbz8/MAvf"
+      },
+      {
+        "conversation": 579,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAANlBMVEVHcEwAAABSGB4FAQIAAAAAAA"
+      },
+      {
+        "conversation": 579,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAYFBMVEUoLDP///8AABL29/cAAAsQFy"
+      },
+      {
+        "conversation": 579,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAAjVBMVEUYASQ1ElH///8XACMcAyszEU"
+      },
+      {
+        "conversation": 580,
+        "response": 1,
+        "alt": "Double <b>Melon Baller Tool</b>, Dual Scoop | Williams Sonoma",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 580,
+        "response": 1,
+        "alt": "2Pcs Silver 2 in 1 Stainless Steel <b>Melon Ballers</b> Scoop,Double ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 580,
+        "response": 1,
+        "alt": "Choice Stainless Steel <b>Melon Baller</b> with Black Nylon Soft-Grip Handle",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 580,
+        "response": 1,
+        "alt": "2Pcs <b>Melon Baller</b>, Stainless Steel Multifunction Kitchen <b>Tools</b> ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 580,
+        "response": 1,
+        "alt": "Personalized <b>MELON BALLER</b> Scooper Scoop Utensil Peeler ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 580,
+        "response": 1,
+        "alt": "Double <b>Melon Baller Tool</b> | Inspire Uplift",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 580,
+        "response": 3,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8AAADc3Nzp6ekzMzMVFR"
+      },
+      {
+        "conversation": 580,
+        "response": 3,
+        "alt": "",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 580,
+        "response": 3,
+        "alt": "",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 580,
+        "response": 3,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAkFBMVEXzkgDzkQD////zkADzjwD+xw"
+      },
+      {
+        "conversation": 580,
+        "response": 4,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 580,
+        "response": 4,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAABDCAYAAADHyrhzAAANq0lEQVR4nNWceXxU5bnHf+9ZZjkzmS"
+      },
+      {
+        "conversation": 580,
+        "response": 4,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 580,
+        "response": 4,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAaVBMVEUAY6////8AXKwAYK53qdIAXq"
+      },
+      {
+        "conversation": 580,
+        "response": 4,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAALQklEQVR4nO1dXagkRxX+zmUQWYLMyi"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAFVBMVEW/rmK/rmK/rmK/rmL////u6d"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAFVBMVEW/rmK/rmK/rmK/rmL////u6d"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAFVBMVEW/rmK/rmK/rmK/rmL////u6d"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAbFBMVEX///8zMzMqKiotLS0wMDAnJy"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "The precious <b>reed</b> parrotbills—known as the &quot;wetland giant ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "The reed parrotbill, often referred to as \"the panda of birds,\" is a rare ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "'Panda of birds' returns to central China reserve after 9 years - CGTN",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "'Panda of birds' the reed parrotbill settles in E China - CGTN",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "Known as the 'panda' of birds in China for their rareness, around ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "The reed parrotbill, often referred to as \"the panda of birds,\" is a rare ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "'Panda of birds' the reed parrotbill settles in E China - CGTN",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "\"Panda of birds\" spotted in central China reserve for first time in 9 ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "Known as the 'panda' of birds in China for their rareness, around ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "'Panda of birds' visits wetlands in E China - CGTN",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 581,
+        "response": 1,
+        "alt": "'Pandas of birds' show up in Beijing thanks to improved ecological ...",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdH"
+      },
+      {
+        "conversation": 582,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAWlBMVEX////nGAvmAAD74uHzpaP97O"
+      },
+      {
+        "conversation": 582,
+        "response": 1,
+        "alt": "",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAPFBMVEVHcEztdTX////tczHtdTXtdT"
+      }
+    ]
   }
 }

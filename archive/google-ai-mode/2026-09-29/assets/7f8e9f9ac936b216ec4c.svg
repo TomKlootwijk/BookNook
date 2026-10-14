@@ -1,0 +1,1021 @@
+<svg aria-label="Interactive 3D simulation showing a mechanical cylinder pinion core forcing outward and flexing four triangular rubber sheet flaps clamped inside a solid metal outer support ring." class="w-full block" height="339.04" role="img" style="height: 339.04px;;background:#25282f;color:#e8eaed" viewBox="0 0 652 339.04" width="652" xmlns="http://www.w3.org/2000/svg"><style>
+/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */
+@layer properties {
+  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {
+    *, :before, :after, ::backdrop {
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+      --tw-border-style: solid;
+      --tw-font-weight: initial;
+      --tw-ordinal: initial;
+      --tw-slashed-zero: initial;
+      --tw-numeric-figure: initial;
+      --tw-numeric-spacing: initial;
+      --tw-numeric-fraction: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-outline-style: solid;
+      --tw-duration: initial;
+      --tw-content: "";
+    }
+  }
+}
+
+@layer theme {
+  :root, :host {
+    --font-sans: "Google Sans", "Roboto", sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --color-slate-100: oklch(96.8% .007 247.896);
+    --color-slate-700: oklch(37.2% .044 257.287);
+    --color-slate-800: oklch(27.9% .041 260.031);
+    --spacing: .25rem;
+    --text-xs: .75rem;
+    --text-xs--line-height: calc(1 / .75);
+    --text-sm: .875rem;
+    --text-sm--line-height: calc(1.25 / .875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --font-weight-medium: 500;
+    --radius-lg: .5rem;
+    --radius-xl: .75rem;
+    --default-transition-duration: .15s;
+    --default-transition-timing-function: cubic-bezier(.31, .94, .34, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+    --color-primary: var(--primary, #336ef3);
+    --color-error: var(--brand-red, #ea4335);
+    --color-card: var(--surface-container-de-emphasis, #f7f8fa);
+    --color-border: var(--divider, #dcdfe5);
+    --color-muted: var(--surface-container, #f0f2f5);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);
+    --color-foreground: var(--on-surface-default, #0a0a0a);
+  }
+}
+
+@layer base {
+  *, :after, :before, ::backdrop {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::file-selector-button {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, :host {
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    line-height: 1.5;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  hr {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+
+  abbr:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+
+  a {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+
+  b, strong {
+    font-weight: bolder;
+  }
+
+  code, kbd, samp, pre {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+
+  small {
+    font-size: 80%;
+  }
+
+  sub, sup {
+    vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+  }
+
+  sub {
+    bottom: -.25em;
+  }
+
+  sup {
+    top: -.5em;
+  }
+
+  table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+
+  :-moz-focusring {
+    outline: auto;
+  }
+
+  progress {
+    vertical-align: baseline;
+  }
+
+  summary {
+    display: list-item;
+  }
+
+  ol, ul, menu {
+    list-style: none;
+  }
+
+  img, svg, video, canvas, audio, iframe, embed, object {
+    vertical-align: middle;
+    display: block;
+  }
+
+  img, video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  button, input, select, optgroup, textarea {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  ::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  :where(select:is([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+
+  :where(select:is([multiple], [size])) optgroup option {
+    padding-inline-start: 20px;
+  }
+
+  ::file-selector-button {
+    margin-inline-end: 4px;
+  }
+
+  ::placeholder {
+    opacity: 1;
+  }
+
+  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {
+    ::placeholder {
+      color: currentColor;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      ::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+
+  textarea {
+    resize: vertical;
+  }
+
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  ::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+
+  ::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+
+  ::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+
+  ::-webkit-datetime-edit {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-year-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-month-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-day-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-hour-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-minute-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-second-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-millisecond-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+
+  :-moz-ui-invalid {
+    box-shadow: none;
+  }
+
+  button, input:where([type="button"], [type="reset"], [type="submit"]) {
+    appearance: button;
+  }
+
+  ::file-selector-button {
+    appearance: button;
+  }
+
+  ::-webkit-inner-spin-button {
+    height: auto;
+  }
+
+  ::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  [hidden]:where(:not([hidden="until-found"])) {
+    display: none !important;
+  }
+}
+
+@layer components;
+
+@layer utilities {
+  .pointer-events-auto {
+    pointer-events: auto;
+  }
+
+  .pointer-events-none {
+    pointer-events: none;
+  }
+
+  .absolute {
+    position: absolute;
+  }
+
+  .relative {
+    position: relative;
+  }
+
+  .static {
+    position: static;
+  }
+
+  .inset-x-0 {
+    inset-inline: calc(var(--spacing) * 0);
+  }
+
+  .top-0 {
+    top: calc(var(--spacing) * 0);
+  }
+
+  .top-1\/2 {
+    top: 50%;
+  }
+
+  .right-0 {
+    right: calc(var(--spacing) * 0);
+  }
+
+  .right-2\.5 {
+    right: calc(var(--spacing) * 2.5);
+  }
+
+  .z-10 {
+    z-index: 10;
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  @media (min-width: 40rem) {
+    .container {
+      max-width: 40rem;
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .container {
+      max-width: 48rem;
+    }
+  }
+
+  @media (min-width: 64rem) {
+    .container {
+      max-width: 64rem;
+    }
+  }
+
+  @media (min-width: 80rem) {
+    .container {
+      max-width: 80rem;
+    }
+  }
+
+  @media (min-width: 96rem) {
+    .container {
+      max-width: 96rem;
+    }
+  }
+
+  .-my-3 {
+    margin-block: calc(var(--spacing) * -3);
+  }
+
+  .mb-2 {
+    margin-bottom: calc(var(--spacing) * 2);
+  }
+
+  .block {
+    display: block;
+  }
+
+  .flex {
+    display: flex;
+  }
+
+  .h-1 {
+    height: calc(var(--spacing) * 1);
+  }
+
+  .h-9 {
+    height: calc(var(--spacing) * 9);
+  }
+
+  .h-11 {
+    height: calc(var(--spacing) * 11);
+  }
+
+  .h-\[18px\] {
+    height: 18px;
+  }
+
+  .h-full {
+    height: 100%;
+  }
+
+  .w-9 {
+    width: calc(var(--spacing) * 9);
+  }
+
+  .w-\[7ch\] {
+    width: 7ch;
+  }
+
+  .w-\[18px\] {
+    width: 18px;
+  }
+
+  .w-full {
+    width: 100%;
+  }
+
+  .min-w-0 {
+    min-width: calc(var(--spacing) * 0);
+  }
+
+  .flex-1 {
+    flex: 1;
+  }
+
+  .shrink-0 {
+    flex-shrink: 0;
+  }
+
+  .grow {
+    flex-grow: 1;
+  }
+
+  .-translate-y-1\/2 {
+    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  .cursor-pointer {
+    cursor: pointer;
+  }
+
+  .touch-none {
+    touch-action: none;
+  }
+
+  .resize {
+    resize: both;
+  }
+
+  .flex-col {
+    flex-direction: column;
+  }
+
+  .items-center {
+    align-items: center;
+  }
+
+  .justify-between {
+    justify-content: space-between;
+  }
+
+  .justify-center {
+    justify-content: center;
+  }
+
+  .justify-end {
+    justify-content: flex-end;
+  }
+
+  .gap-0\.5 {
+    gap: calc(var(--spacing) * .5);
+  }
+
+  .gap-1\.5 {
+    gap: calc(var(--spacing) * 1.5);
+  }
+
+  .gap-4 {
+    gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-5 {
+    gap: calc(var(--spacing) * 5);
+  }
+
+  .gap-x-4 {
+    column-gap: calc(var(--spacing) * 4);
+  }
+
+  .truncate {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .overflow-hidden {
+    overflow: hidden;
+  }
+
+  .overflow-visible {
+    overflow: visible;
+  }
+
+  .rounded-full {
+    border-radius: 3.40282e38px;
+  }
+
+  .rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+
+  .rounded-xl {
+    border-radius: var(--radius-xl);
+  }
+
+  .border-b {
+    border-bottom-style: var(--tw-border-style);
+    border-bottom-width: 1px;
+  }
+
+  .border-none {
+    --tw-border-style: none;
+    border-style: none;
+  }
+
+  .border-border {
+    border-color: var(--color-border);
+  }
+
+  .\!bg-muted {
+    background-color: var(--color-muted) !important;
+  }
+
+  .bg-\[\#0f172a\] {
+    background-color: #0f172a;
+  }
+
+  .bg-\[\#0f172a\]\/70 {
+    background-color: oklab(20.7682% -.00294792 -.0397151 / .7);
+  }
+
+  .bg-card {
+    background-color: var(--color-card);
+  }
+
+  .bg-muted {
+    background-color: var(--color-muted);
+  }
+
+  .bg-primary, .bg-primary\/10 {
+    background-color: var(--color-primary);
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-primary\/10 {
+      background-color: color-mix(in oklab, var(--color-primary) 10%, transparent);
+    }
+  }
+
+  .bg-slate-800\/90 {
+    background-color: #1d293de6;
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-slate-800\/90 {
+      background-color: color-mix(in oklab, var(--color-slate-800) 90%, transparent);
+    }
+  }
+
+  .p-3 {
+    padding: calc(var(--spacing) * 3);
+  }
+
+  .p-5 {
+    padding: calc(var(--spacing) * 5);
+  }
+
+  .px-2 {
+    padding-inline: calc(var(--spacing) * 2);
+  }
+
+  .px-3 {
+    padding-inline: calc(var(--spacing) * 3);
+  }
+
+  .px-5 {
+    padding-inline: calc(var(--spacing) * 5);
+  }
+
+  .py-0\.5 {
+    padding-block: calc(var(--spacing) * .5);
+  }
+
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .text-right {
+    text-align: right;
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .\!text-base {
+    font-size: var(--text-base) !important;
+    line-height: var(--tw-leading, var(--text-base--line-height)) !important;
+  }
+
+  .text-sm {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+
+  .text-xs {
+    font-size: var(--text-xs);
+    line-height: var(--tw-leading, var(--text-xs--line-height));
+  }
+
+  .font-medium {
+    --tw-font-weight: var(--font-weight-medium);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .whitespace-nowrap {
+    white-space: nowrap;
+  }
+
+  .text-error {
+    color: var(--color-error);
+  }
+
+  .text-foreground {
+    color: var(--color-foreground);
+  }
+
+  .text-muted-foreground {
+    color: var(--color-muted-foreground);
+  }
+
+  .text-primary {
+    color: var(--color-primary);
+  }
+
+  .text-slate-100 {
+    color: var(--color-slate-100);
+  }
+
+  .tabular-nums {
+    --tw-numeric-spacing: tabular-nums;
+    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );
+  }
+
+  .opacity-0 {
+    opacity: 0;
+  }
+
+  .shadow {
+    --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, #0000001a), 0 1px 2px -1px var(--tw-shadow-color, #0000001a);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .shadow-none {
+    --tw-shadow: 0 0 #0000;
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .ring {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .outline {
+    outline-style: var(--tw-outline-style);
+    outline-width: 1px;
+  }
+
+  .transition-all {
+    transition-property: all;
+    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration, var(--default-transition-duration));
+  }
+
+  .transition-colors {
+    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to;
+    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration, var(--default-transition-duration));
+  }
+
+  .duration-75 {
+    --tw-duration: 75ms;
+    transition-duration: 75ms;
+  }
+
+  .select-none {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .after\:absolute:after {
+    content: var(--tw-content);
+    position: absolute;
+  }
+
+  .after\:-inset-1:after {
+    content: var(--tw-content);
+    inset: calc(var(--spacing) * -1);
+  }
+
+  .after\:top-1\/2:after {
+    content: var(--tw-content);
+    top: 50%;
+  }
+
+  .after\:left-1\/2:after {
+    content: var(--tw-content);
+    left: 50%;
+  }
+
+  .after\:h-11:after {
+    content: var(--tw-content);
+    height: calc(var(--spacing) * 11);
+  }
+
+  .after\:w-11:after {
+    content: var(--tw-content);
+    width: calc(var(--spacing) * 11);
+  }
+
+  .after\:-translate-x-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  .after\:-translate-y-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  @media (hover: hover) {
+    .hover\:bg-slate-700:hover {
+      background-color: var(--color-slate-700);
+    }
+  }
+
+  .focus\:outline-none:focus {
+    --tw-outline-style: none;
+    outline-style: none;
+  }
+
+  .focus-visible\:ring-2:focus-visible {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .focus-visible\:ring-primary:focus-visible {
+    --tw-ring-color: var(--color-primary);
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:gap-x-8 {
+      column-gap: calc(var(--spacing) * 8);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:gap-x-12 {
+      column-gap: calc(var(--spacing) * 12);
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --color-primary: var(--primary, #336ef3);
+    --color-primary-hover: var(--primary-hover, #395fe1);
+    --color-error: var(--brand-red, #ea4335);
+    --color-warning: var(--brand-yellow, #fbbc04);
+    --color-success: var(--brand-green, #34a853);
+    --color-background: var(--surface-container-de-emphasis, #272930);
+    --color-card: var(--surface-container-de-emphasis, #272930);
+    --color-card-hover: var(--surface-container-high, #363840);
+    --color-border: var(--divider, #363840);
+    --color-input: var(--surface-container, #2c2e35);
+    --color-secondary: var(--surface-container-high, #363840);
+    --color-secondary-hover: var(--surface-container-highest, #42444d);
+    --color-accent: var(--surface-container-highest, #42444d);
+    --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+    --color-muted: var(--surface-container, #2c2e35);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+    --color-foreground: var(--on-surface-default, #e6e8f0);
+    --color-disabled: var(--surface-container, #2c2e35);
+    --color-disabled-foreground: var(--disabled-foreground, #797c90);
+  }
+}
+
+.dark {
+  --color-primary: var(--primary, #336ef3);
+  --color-primary-hover: var(--primary-hover, #395fe1);
+  --color-error: var(--brand-red, #ea4335);
+  --color-warning: var(--brand-yellow, #fbbc04);
+  --color-success: var(--brand-green, #34a853);
+  --color-background: var(--surface-container-de-emphasis, #272930);
+  --color-card: var(--surface-container-de-emphasis, #272930);
+  --color-card-hover: var(--surface-container-high, #363840);
+  --color-border: var(--divider, #363840);
+  --color-input: var(--surface-container, #2c2e35);
+  --color-secondary: var(--surface-container-high, #363840);
+  --color-secondary-hover: var(--surface-container-highest, #42444d);
+  --color-accent: var(--surface-container-highest, #42444d);
+  --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+  --color-muted: var(--surface-container, #2c2e35);
+  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+  --color-foreground: var(--on-surface-default, #e6e8f0);
+  --color-disabled: var(--surface-container, #2c2e35);
+  --color-disabled-foreground: var(--disabled-foreground, #797c90);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  opacity: .6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert();
+    opacity: .7;
+  }
+}
+
+.dark input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert();
+  opacity: .7;
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-border-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ordinal {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-slashed-zero {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-figure {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-spacing {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-fraction {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow-alpha {
+  syntax: "&lt;percentage&gt;";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-inset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-shadow-alpha {
+  syntax: "&lt;percentage&gt;";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-ring-inset {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-offset-width {
+  syntax: "&lt;length&gt;";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-ring-offset-color {
+  syntax: "*";
+  inherits: false;
+  initial-value: #fff;
+}
+
+@property --tw-ring-offset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-outline-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-duration {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-content {
+  syntax: "*";
+  inherits: false;
+  initial-value: "";
+}
+
+
+* {animation-play-state:paused !important;}</style><g opacity="0.12"><path d="M 363.582990848 204.43776000000003 L 363.582990848 204.43776000000003 L 357.2410067973446 207.5650173454474 L 350.1297654763814 210.08098067568585 L 342.4243692472894 211.92369862352132 L 334.3145505379727 213.04779735744785 L 326 213.42559783596636 L 317.6854494620273 213.04779735744785 L 309.5756307527106 211.92369862352132 L 301.8702345236186 210.08098067568585 L 294.7589932026554 207.5650173454474 L 288.417009152 204.43776000000003 L 283.00044306681787 200.7762120939607 L 278.6426687806784 196.6705330887569 L 275.45098915912996 192.22181842746423 L 273.5039939470325 187.5396102294811 L 272.8496246282145 182.7392 L 273.5039939470325 177.93878977051892 L 275.45098915912996 173.2565815725358 L 278.6426687806784 168.8078669112431 L 283.00044306681787 164.70218790603934 L 288.417009152 161.04064000000002 L 294.7589932026554 157.91338265455263 L 301.8702345236186 155.3974193243142 L 309.5756307527106 153.55470137647873 L 317.68544946202724 152.43060264255217 L 326 152.05280216403366 L 334.3145505379727 152.43060264255217 L 342.4243692472894 153.5547013764787 L 350.1297654763814 155.39741932431417 L 357.2410067973446 157.91338265455263 L 363.582990848 161.04064 L 368.99955693318213 164.7021879060393 L 373.3573312193216 168.80786691124308 L 376.54901084087004 173.2565815725358 L 378.4960060529675 177.9387897705189 L 379.1503753717855 182.7392 L 378.4960060529675 187.5396102294811 L 376.54901084087004 192.22181842746423 L 373.3573312193216 196.6705330887569 L 368.99955693318213 200.77621209396068 L 363.582990848 204.43776" fill="none" stroke="#cbd5e1" stroke-width="1"/><path d="M 391.770233984 220.71168 L 391.770233984 220.71168 L 380.67176189535303 226.18438035453295 L 368.22708958366746 230.5873161824502 L 354.74264618275646 233.81207259116226 L 340.5504634414523 235.77924537553372 L 326 236.4403962129411 L 311.4495365585477 235.77924537553372 L 297.2573538172436 233.81207259116226 L 283.77291041633254 230.5873161824502 L 271.32823810464697 226.18438035453295 L 260.229766016 220.71168 L 250.75077536693126 214.3039711644312 L 243.12467036618713 207.11903290532462 L 237.53923102847742 199.3337822480624 L 234.1319894073069 191.13991790159193 L 232.98684309937536 182.7392 L 234.13198940730686 174.3384820984081 L 237.53923102847742 166.14461775193766 L 243.12467036618716 158.35936709467543 L 250.75077536693124 151.17442883556882 L 260.229766016 144.76672000000002 L 271.32823810464697 139.2940196454671 L 283.7729104163325 134.89108381754983 L 297.25735381724354 131.66632740883776 L 311.4495365585477 129.6991546244663 L 326 129.0380037870589 L 340.5504634414523 129.6991546244663 L 354.7426461827564 131.66632740883776 L 368.22708958366746 134.89108381754983 L 380.67176189535303 139.29401964546707 L 391.770233984 144.76672000000002 L 401.2492246330687 151.17442883556882 L 408.87532963381284 158.3593670946754 L 414.4607689715226 166.14461775193763 L 417.8680105926931 174.3384820984081 L 419.0131569006246 182.73919999999998 L 417.86801059269317 191.1399179015919 L 414.4607689715226 199.33378224806236 L 408.87532963381284 207.1190329053246 L 401.24922463306876 214.30397116443118 L 391.770233984 220.71168" fill="none" stroke="#cbd5e1" stroke-width="1"/><path d="M 419.95747712 236.9856 L 419.95747712 236.9856 L 404.1025169933615 244.80374336361848 L 386.3244136909535 251.09365168921457 L 367.0609231182235 255.70044655880324 L 346.7863763449318 258.5106933936196 L 326 259.4551945899159 L 305.2136236550682 258.5106933936196 L 284.93907688177654 255.70044655880324 L 265.6755863090465 251.0936516892146 L 247.8974830066385 244.80374336361848 L 232.04252287999998 236.9856 L 218.50110766704466 227.83173023490173 L 207.6066719516959 217.5675327218923 L 199.62747289782487 206.44574606866055 L 194.75998486758124 194.74022557370276 L 193.12406157053624 182.7392 L 194.75998486758124 170.7381744262973 L 199.62747289782487 159.0326539313395 L 207.6066719516959 147.91086727810773 L 218.50110766704464 137.64666976509832 L 232.04252287999998 128.49280000000002 L 247.89748300663848 120.67465663638156 L 265.6755863090464 114.38474831078545 L 284.9390768817765 109.77795344119679 L 305.21362365506815 106.96770660638045 L 326 106.02320541008415 L 346.7863763449318 106.96770660638045 L 367.06092311822346 109.77795344119677 L 386.3244136909535 114.38474831078544 L 404.10251699336146 120.67465663638154 L 419.95747712 128.4928 L 433.49889233295534 137.6466697650983 L 444.39332804830406 147.91086727810773 L 452.3725271021751 159.03265393133947 L 457.24001513241876 170.73817442629726 L 458.87593842946376 182.73919999999998 L 457.24001513241876 194.74022557370273 L 452.3725271021751 206.44574606866053 L 444.3933280483041 217.56753272189226 L 433.4988923329554 227.8317302349017 L 419.95747712 236.9856" fill="none" stroke="#cbd5e1" stroke-width="1"/></g><g><path d="M 346.6706449664 214.67340800000002                   L 346.6706449664 151.67340800000002                   A 23.868416 11.934208 0 0 1 305.3293550336 127.80499200000003                   L 305.3293550336 190.80499200000003                   Z" fill="url(#pinionShadingGrad)" opacity="0.9" stroke="#64748b" stroke-width="1.2"/><path d="M 346.6706449664 151.67340800000002 L 346.6706449664 151.67340800000002 L 342.2408215367102 153.77234402139794 L 337.1868724433223 155.33199418793137 L 331.70301811560785 156.29242201836234 L 326 156.6167188097815 L 320.29698188439215 156.29242201836234 L 314.8131275566777 155.33199418793137 L 309.7591784632898 153.77234402139794 L 305.3293550336 151.67340800000002 L 301.6938928977377 149.11584705794303 L 298.99250082679345 146.19794682793355 L 297.3289918030955 143.03184057943355 L 296.767293545518 139.7392 L 297.3289918030955 136.44655942056647 L 298.99250082679345 133.28045317206647 L 301.6938928977377 130.362552942057 L 305.3293550336 127.80499200000003 L 309.7591784632898 125.70605597860208 L 314.81312755667767 124.14640581206865 L 320.29698188439215 123.18597798163768 L 326 122.86168119021852 L 331.70301811560785 123.18597798163768 L 337.1868724433223 124.14640581206862 L 342.2408215367102 125.70605597860208 L 346.6706449664 127.804992 L 350.3061071022623 130.362552942057 L 353.00749917320655 133.28045317206647 L 354.6710081969045 136.44655942056647 L 355.232706454482 139.7392 L 354.6710081969045 143.03184057943355 L 353.00749917320655 146.19794682793355 L 350.3061071022623 149.11584705794303 L 346.6706449664 151.673408" fill="#94a3b8" stroke="#cbd5e1" stroke-width="1"/><line opacity="0.6" stroke="#475569" stroke-dasharray="3 3" stroke-width="1.5" x1="326" x2="326" y1="202.7392" y2="139.7392"/></g><g><g class="transition-all duration-75"><path d="M 341.5029837248 118.68985600000002 L 442.93082581792817 162.7392 L 326 230.24927523912598 Z" fill="#0f766e" opacity="0.5"/><path d="M 341.5029837248 118.68985600000002 L 442.93082581792817 162.7392 L 442.36777193116905 169.35634451837262 L 440.6840327876179 175.90976231773413 L 437.89582371565257 182.33634040221415 L 434.0299966928261 188.5741873117342 L 429.12378174664445 194.56322917060157 L 423.22442840904915 200.2457882317721 L 416.38875067759585 205.56713834508395 L 408.6825798656 210.476032 L 400.18013061060265 214.92519386714926 L 390.96328614684086 218.87177608559173 L 381.12080972494044 222.27777091114257 L 370.7474897732892 225.11037675172548 L 359.943227033655 227.3423140646359 L 348.8120724624314 228.95208807344935 L 337.4612251630473 229.924195774469 L 326 230.24927523912598 Z" fill="url(#tealToAmberGrad)" stroke="#f59e0b" stroke-linejoin="round" stroke-width="1.5"/><path d="M 402.3596889806769 145.11946240000003 L 402.3596889806769 145.11946240000003 L 402.02185664862145 149.0897491110236 L 401.0116131624908 153.0217997906405 L 399.33868771931157 156.87774664132849 L 397.01919150561565 160.6204547870405 L 394.0754625379067 164.21387990236093 L 390.5358505353495 167.62341533906329 L 386.43444389647755 170.81622540705035 L 381.81074140928 173.7615616 L 376.7092718562816 176.43105872028957 L 371.1791651780245 178.79900805135503 L 365.27367932488426 180.84260494668553 L 359.0496873538935 182.5421684510353 L 352.567129710113 183.88133083878154 L 345.8884369673788 184.8471952440696 L 339.0779285877484 185.43045986468144 L 332.20119348992 185.62550754347558" fill="none" opacity="0.35" stroke="#2dd4bf" stroke-dasharray="none" stroke-width="1"/><path d="M 371.9313363527384 131.90465920000003 L 371.9313363527384 131.90465920000003 L 371.7624201867107 133.8898025555118 L 371.25729844364537 135.85582789532026 L 370.42083572205576 137.78380132066425 L 369.2610876152078 139.65515539352026 L 367.7892231313533 141.45186795118047 L 366.01941713007477 143.15663566953165 L 363.96871381063875 144.7530407035252 L 361.65686256704 146.2257088 L 359.10612779054077 147.5604573601448 L 356.3410744514123 148.74443202567753 L 353.38833152484216 149.76623047334277 L 350.27633553934675 150.61601222551766 L 347.0350567174565 151.28559341939078 L 343.6957103460894 151.76852562203482 L 340.29045615627416 152.06015793234073 L 336.85208860736003 152.1576817717378" fill="none" opacity="0.55" stroke="#2dd4bf" stroke-dasharray="none" stroke-width="1"/><line opacity="0.5" stroke="#115e59" stroke-width="1" x1="442.93082581792817" x2="341.5029837248" y1="162.7392" y2="118.68985600000002"/><line opacity="0.5" stroke="#115e59" stroke-width="1" x1="326" x2="341.5029837248" y1="230.24927523912598" y2="118.68985600000002"/></g><g class="transition-all duration-75"><path d="M 310.4970162752 118.68985600000002 L 326 230.24927523912598 L 209.06917418207186 162.7392 Z" fill="#0f766e" opacity="0.5"/><path d="M 310.4970162752 118.68985600000002 L 326 230.24927523912598 L 314.5387748369527 229.924195774469 L 303.1879275375686 228.95208807344935 L 292.056772966345 227.3423140646359 L 281.2525102267108 225.11037675172548 L 270.87919027505956 222.27777091114257 L 261.03671385315914 218.87177608559173 L 251.8198693893974 214.92519386714926 L 243.31742013439998 210.476032 L 235.61124932240415 205.56713834508395 L 228.77557159095085 200.2457882317721 L 222.87621825335555 194.56322917060157 L 217.97000330717387 188.5741873117342 L 214.10417628434743 182.33634040221415 L 211.31596721238208 175.90976231773416 L 209.63222806883095 169.35634451837262 L 209.06917418207186 162.7392 Z" fill="url(#tealToAmberGrad)" stroke="#f59e0b" stroke-linejoin="round" stroke-width="1.5"/><path d="M 319.79880651008 185.62550754347558 L 319.79880651008 185.62550754347558 L 312.9220714122516 185.43045986468144 L 306.1115630326212 184.8471952440696 L 299.432870289887 183.88133083878154 L 292.9503126461065 182.5421684510353 L 286.72632067511574 180.84260494668553 L 280.8208348219755 178.79900805135503 L 275.29072814371847 176.43105872028957 L 270.18925859072 173.7615616 L 265.56555610352245 170.81622540705035 L 261.4641494646505 167.62341533906329 L 257.9245374620933 164.21387990236093 L 254.98080849438435 160.6204547870405 L 252.66131228068843 156.87774664132849 L 250.98838683750924 153.0217997906405 L 249.97814335137858 149.0897491110236 L 249.64031101932312 145.11946240000003" fill="none" opacity="0.35" stroke="#2dd4bf" stroke-dasharray="3 2" stroke-width="1"/><path d="M 315.14791139264 152.1576817717378 L 315.14791139264 152.1576817717378 L 311.70954384372584 152.06015793234073 L 308.3042896539106 151.76852562203482 L 304.9649432825435 151.28559341939078 L 301.72366446065325 150.61601222551766 L 298.61166847515784 149.76623047334277 L 295.6589255485877 148.74443202567753 L 292.89387220945923 147.5604573601448 L 290.34313743296 146.2257088 L 288.03128618936125 144.7530407035252 L 285.98058286992523 143.15663566953165 L 284.2107768686467 141.4518679511805 L 282.7389123847922 139.65515539352026 L 281.5791642779442 137.78380132066425 L 280.74270155635463 135.85582789532026 L 280.2375798132893 133.8898025555118 L 280.0686636472616 131.90465920000003" fill="none" opacity="0.55" stroke="#2dd4bf" stroke-dasharray="3 2" stroke-width="1"/><line opacity="0.5" stroke="#115e59" stroke-width="1" x1="326" x2="310.4970162752" y1="230.24927523912598" y2="118.68985600000002"/><line opacity="0.5" stroke="#115e59" stroke-width="1" x1="209.06917418207186" x2="310.4970162752" y1="162.7392" y2="118.68985600000002"/></g><g class="transition-all duration-75"><path d="M 310.4970162752 100.788544 L 209.06917418207186 162.7392 L 326 95.22912476087404 Z" fill="#0f766e" opacity="0.5"/><path d="M 310.4970162752 100.788544 L 209.06917418207186 162.7392 L 209.63222806883095 156.1220554816274 L 211.31596721238205 149.56863768226586 L 214.10417628434743 143.14205959778587 L 217.97000330717384 136.90421268826583 L 222.87621825335555 130.91517082939845 L 228.77557159095085 125.23261176822794 L 235.61124932240415 119.9112616549161 L 243.31742013439998 115.00236800000002 L 251.81986938939738 110.55320613285076 L 261.03671385315914 106.60662391440829 L 270.87919027505956 103.20062908885748 L 281.2525102267108 100.36802324827453 L 292.05677296634497 98.13608593536414 L 303.18792753756856 96.52631192655068 L 314.5387748369527 95.55420422553101 L 326 95.22912476087404 Z" fill="url(#tealToAmberGrad)" stroke="#f59e0b" stroke-linejoin="round" stroke-width="1.5"/><path d="M 249.64031101932312 137.9589376 L 249.64031101932312 137.9589376 L 249.97814335137855 133.98865088897645 L 250.9883868375092 130.05660020935954 L 252.66131228068843 126.20065335867152 L 254.98080849438432 122.4579452129595 L 257.9245374620933 118.86452009763907 L 261.4641494646505 115.45498466093677 L 265.56555610352245 112.26217459294968 L 270.18925859072 109.31683840000001 L 275.2907281437184 106.64734127971046 L 280.8208348219755 104.27939194864497 L 286.72632067511574 102.23579505331449 L 292.95031264610645 100.53623154896472 L 299.432870289887 99.19706916121848 L 306.1115630326211 98.2312047559304 L 312.9220714122516 97.6479401353186 L 319.79880651008 97.45289245652444" fill="none" opacity="0.35" stroke="#2dd4bf" stroke-dasharray="none" stroke-width="1"/><path d="M 280.0686636472616 119.37374080000004 L 280.0686636472616 119.37374080000004 L 280.2375798132893 117.38859744448823 L 280.74270155635463 115.42257210467977 L 281.57916427794424 113.49459867933578 L 282.7389123847922 111.62324460647977 L 284.2107768686467 109.82653204881956 L 285.98058286992523 108.12176433046838 L 288.03128618936125 106.52535929647485 L 290.34313743296 105.05269120000003 L 292.89387220945923 103.71794263985524 L 295.6589255485877 102.53396797432251 L 298.61166847515784 101.51216952665726 L 301.72366446065325 100.66238777448237 L 304.9649432825435 99.99280658060925 L 308.3042896539106 99.50987437796522 L 311.70954384372584 99.2182420676593 L 315.14791139263997 99.12071822826223" fill="none" opacity="0.55" stroke="#2dd4bf" stroke-dasharray="none" stroke-width="1"/><line opacity="0.5" stroke="#115e59" stroke-width="1" x1="209.06917418207186" x2="310.4970162752" y1="162.7392" y2="100.788544"/><line opacity="0.5" stroke="#115e59" stroke-width="1" x1="326" x2="310.4970162752" y1="95.22912476087404" y2="100.788544"/></g><g class="transition-all duration-75"><path d="M 341.5029837248 100.788544 L 326 95.22912476087404 L 442.9308258179281 162.73919999999998 Z" fill="#0f766e" opacity="0.5"/><path d="M 341.5029837248 100.788544 L 326 95.22912476087404 L 337.4612251630472 95.554204225531 L 348.8120724624314 96.52631192655068 L 359.943227033655 98.13608593536414 L 370.7474897732891 100.36802324827451 L 381.12080972494044 103.20062908885745 L 390.9632861468408 106.60662391440829 L 400.18013061060265 110.55320613285078 L 408.6825798656 115.002368 L 416.3887506775958 119.91126165491606 L 423.22442840904915 125.23261176822793 L 429.12378174664445 130.91517082939845 L 434.0299966928261 136.90421268826586 L 437.89582371565257 143.14205959778585 L 440.6840327876179 149.56863768226586 L 442.36777193116905 156.12205548162734 L 442.9308258179281 162.73919999999998 Z" fill="url(#tealToAmberGrad)" stroke="#f59e0b" stroke-linejoin="round" stroke-width="1.5"/><path d="M 332.20119348992 97.45289245652444 L 332.20119348992 97.45289245652444 L 339.0779285877483 97.64794013531859 L 345.8884369673788 98.2312047559304 L 352.567129710113 99.19706916121848 L 359.0496873538935 100.53623154896471 L 365.27367932488426 102.23579505331448 L 371.1791651780245 104.27939194864497 L 376.7092718562816 106.64734127971046 L 381.81074140928 109.31683840000001 L 386.4344438964775 112.26217459294962 L 390.5358505353495 115.45498466093674 L 394.0754625379067 118.86452009763904 L 397.0191915056157 122.4579452129595 L 399.33868771931157 126.20065335867152 L 401.01161316249073 130.0566002093595 L 402.02185664862145 133.9886508889764 L 402.3596889806769 137.9589376" fill="none" opacity="0.35" stroke="#2dd4bf" stroke-dasharray="3 2" stroke-width="1"/><path d="M 336.85208860736 99.12071822826223 L 336.85208860736 99.12071822826223 L 340.29045615627416 99.2182420676593 L 343.6957103460894 99.50987437796522 L 347.0350567174565 99.99280658060925 L 350.27633553934675 100.66238777448237 L 353.38833152484216 101.51216952665726 L 356.3410744514122 102.53396797432251 L 359.10612779054077 103.71794263985524 L 361.65686256704 105.0526912 L 363.96871381063875 106.52535929647482 L 366.01941713007477 108.12176433046838 L 367.7892231313533 109.82653204881953 L 369.2610876152078 111.62324460647977 L 370.42083572205576 113.49459867933578 L 371.25729844364537 115.42257210467977 L 371.7624201867107 117.38859744448823 L 371.9313363527384 119.37374080000001" fill="none" opacity="0.55" stroke="#2dd4bf" stroke-dasharray="3 2" stroke-width="1"/><line opacity="0.5" stroke="#115e59" stroke-width="1" x1="326" x2="341.5029837248" y1="95.22912476087404" y2="100.788544"/><line opacity="0.5" stroke="#115e59" stroke-width="1" x1="442.9308258179281" x2="341.5029837248" y1="162.73919999999998" y2="100.788544"/></g></g><g><ellipse cx="326" cy="162.7392" fill="none" rx="108.4928" ry="54.2464" stroke="#475569" stroke-width="6"/><ellipse cx="326" cy="162.7392" fill="none" rx="95.473664" ry="47.736832" stroke="#1e293b" stroke-width="2"/><ellipse cx="326" cy="162.7392" fill="none" opacity="0.8" rx="111.4928" ry="55.7464" stroke="#64748b" stroke-width="1.5"/></g><defs><linearGradient id="pinionShadingGrad" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" stop-color="#475569"/><stop offset="25%" stop-color="#94a3b8"/><stop offset="65%" stop-color="#cbd5e1"/><stop offset="90%" stop-color="#64748b"/><stop offset="100%" stop-color="#334155"/></linearGradient><linearGradient id="rubberBaseGrad" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" stop-color="#14b8a6" stop-opacity="0.85"/><stop offset="100%" stop-color="#0d9488" stop-opacity="0.95"/></linearGradient><linearGradient id="tealToAmberGrad" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" stop-color="#0f766e"/><stop offset="50%" stop-color="#d97706"/><stop offset="100%" stop-color="#f59e0b"/></linearGradient></defs></svg>

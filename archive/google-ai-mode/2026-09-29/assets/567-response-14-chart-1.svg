@@ -1,0 +1,243 @@
+<svg class="marks" height="429" style="background-color: rgb(39, 41, 48);;background:rgb(39, 41, 48);color:#e8eaed" version="1.1" viewBox="0 0 557 429" width="557" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #22242a;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #25262ECC !important;
+        border: 1px solid #2D2F35CC !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #ADAFB8 !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) &gt; :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+* {animation-play-state:paused !important;}</style><g fill="none" stroke-miterlimit="10" transform="translate(164,26)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h376v318h-376Z" fill="transparent"/><g><g aria-roledescription="rect mark container" class="mark-rect role-mark view_1_marks" role="graphics-object"><path aria-label="domain: Mechanical; action: Energy Dissipation" aria-roledescription="rect mark" d="M0,0h94v79.5h-94Z" fill="#f765d1" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Mechanical; action: Phase/Surface Transport" aria-roledescription="rect mark" d="M0,79.5h94v79.5h-94Z" fill="#f765d1" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Mechanical; action: Spatial Constraints" aria-roledescription="rect mark" d="M0,159h94v79.5h-94Z" fill="#f765d1" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Mechanical; action: Axial/Drag Stabilization" aria-roledescription="rect mark" d="M0,238.5h94v79.5h-94Z" fill="#f765d1" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Fluid; action: Energy Dissipation" aria-roledescription="rect mark" d="M94,0h94v79.5h-94Z" fill="#ffbe73" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Fluid; action: Phase/Surface Transport" aria-roledescription="rect mark" d="M94,79.5h94v79.5h-94Z" fill="#ffbe73" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Fluid; action: Spatial Constraints" aria-roledescription="rect mark" d="M94,159h94v79.5h-94Z" fill="#ffbe73" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Fluid; action: Axial/Drag Stabilization" aria-roledescription="rect mark" d="M94,238.5h94v79.5h-94Z" fill="#ffbe73" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Topological; action: Energy Dissipation" aria-roledescription="rect mark" d="M188,0h94v79.5h-94Z" fill="#ffaedd" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Topological; action: Phase/Surface Transport" aria-roledescription="rect mark" d="M188,79.5h94v79.5h-94Z" fill="#ffaedd" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Topological; action: Spatial Constraints" aria-roledescription="rect mark" d="M188,159h94v79.5h-94Z" fill="#ffaedd" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Topological; action: Axial/Drag Stabilization" aria-roledescription="rect mark" d="M188,238.5h94v79.5h-94Z" fill="#ffaedd" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Biological; action: Energy Dissipation" aria-roledescription="rect mark" d="M282,0h94v79.5h-94Z" fill="#618eff" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Biological; action: Phase/Surface Transport" aria-roledescription="rect mark" d="M282,79.5h94v79.5h-94Z" fill="#618eff" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Biological; action: Spatial Constraints" aria-roledescription="rect mark" d="M282,159h94v79.5h-94Z" fill="#618eff" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/><path aria-label="domain: Biological; action: Axial/Drag Stabilization" aria-roledescription="rect mark" d="M282,238.5h94v79.5h-94Z" fill="#618eff" opacity="0.15" role="graphics-symbol" stroke="grey" stroke-width="0.5"/></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_1_marks" pointer-events="none" role="graphics-object"><text aria-label="domain: Mechanical; action: Energy Dissipation; token: Padding" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Padding</text><text aria-label="domain: Mechanical; action: Phase/Surface Transport; token: Butter" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Butter</text><text aria-label="domain: Mechanical; action: Spatial Constraints; token: Hockey puck" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Hockey puck</text><text aria-label="domain: Mechanical; action: Axial/Drag Stabilization; token: Ball bearing" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Ball bearing</text><text aria-label="domain: Fluid; action: Energy Dissipation; token: Coagulate" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Coagulate</text><text aria-label="domain: Fluid; action: Phase/Surface Transport; token: Capillary" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Capillary</text><text aria-label="domain: Fluid; action: Spatial Constraints; token: NHL" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">NHL</text><text aria-label="domain: Fluid; action: Axial/Drag Stabilization; token: Wash" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Wash</text><text aria-label="domain: Topological; action: Energy Dissipation; token: Set" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Set</text><text aria-label="domain: Topological; action: Phase/Surface Transport; token: Dead reckoning" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Dead reckoning</text><text aria-label="domain: Topological; action: Spatial Constraints; token: Yellow box" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Yellow box</text><text aria-label="domain: Topological; action: Axial/Drag Stabilization; token: Catenary" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Catenary</text><text aria-label="domain: Biological; action: Energy Dissipation; token: Tad" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Tad</text><text aria-label="domain: Biological; action: Phase/Surface Transport; token: Cub" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Cub</text><text aria-label="domain: Biological; action: Spatial Constraints; token: Scales" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Scales</text><text aria-label="domain: Biological; action: Axial/Drag Stabilization; token: Backbone" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" text-anchor="start" transform="translate(0,0)">Backbone</text></g><g aria-label="X-axis titled 'Continuum Domains' for a discrete scale with 4 values: Mechanical, Fluid, Topological, Biological" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,318.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(47,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(141,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(235,0)" x2="0" y2="5"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(329,0)" x2="0" y2="5"/></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="end" transform="translate(46.5,7) rotate(-25) translate(0,9)">Mechanical</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="end" transform="translate(140.5,7) rotate(-25) translate(0,9)">Fluid</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="end" transform="translate(234.5,7) rotate(-25) translate(0,9)">Topological</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="end" transform="translate(328.5,7) rotate(-25) translate(0,9)">Biological</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="376" y2="0"/></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(188,65.48351080734992)">Continuum Domains</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-label="Y-axis titled 'Core Physics Actions' for a discrete scale with 4 values: Energy Dissipation, Phase/Surface Transport, Spatial Constraints, Axial/Drag Stabilization" aria-roledescription="axis" class="mark-group role-axis" role="graphics-symbol"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,39)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,119)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,198)" x2="-5" y2="0"/><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,278)" x2="-5" y2="0"/></g><g class="mark-text role-axis-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,39.25) rotate(-25) translate(0,3)">Energy Dissipation</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,118.75) rotate(-25) translate(0,3)">Phase/Surface Transport</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,198.25) rotate(-25) translate(0,3)">Spatial Constraints</text><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="1" text-anchor="end" transform="translate(-7,277.75) rotate(-25) translate(0,3)">Axial/Drag Stabilization</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line opacity="1" stroke="#2D2F35" stroke-width="1" transform="translate(0,0)" x2="0" y2="318"/></g><g class="mark-text role-axis-title" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="500" opacity="1" text-anchor="middle" transform="translate(-134.99241364863502,159) rotate(-90) translate(0,-3)">Core Physics Actions</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g></g></svg>

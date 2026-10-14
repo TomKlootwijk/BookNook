@@ -1,0 +1,232 @@
+{
+  "at": "2026-10-14T06:03:56.790533+00:00",
+  "date": "2026-10-14",
+  "batchId": "2026-10-14-more",
+  "openAiModeTabs": 158,
+  "uniqueOpenConversations": 153,
+  "historyConversations": 300,
+  "method": "Compared all 158 open AI Mode tab identities and 300 history entries with the archive. Captured all 19 unknown history threads. Existing history order is unchanged after removing those 19. Checked the intervening Teemo thread and sampled readable open pages; retained prior complete captures.",
+  "records": [
+    {
+      "ordinal": 564,
+      "tabId": "1037251871",
+      "title": "Math Blend Operator Crosshair",
+      "status": "added",
+      "counts": {
+        "prompts": 16,
+        "responses": 16
+      }
+    },
+    {
+      "ordinal": 565,
+      "tabId": "history-1QDParz2Lfbti-gPyNOU-QU",
+      "title": "Double Cassette Tape Deck",
+      "status": "added",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 566,
+      "tabId": "history-WADPaqa_JaSH9u8PubK4oAk",
+      "title": "Belt Fed Double Pinion Latch",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 567,
+      "tabId": "history-1PvOauvKLLadi-gP_-2S0Qc",
+      "title": "Coagulate Catena Capillary Backbone Fish",
+      "status": "added",
+      "counts": {
+        "prompts": 21,
+        "responses": 21
+      }
+    },
+    {
+      "ordinal": 568,
+      "tabId": "history-tPrOavbSM47g7_UPmeOvsQ0",
+      "title": "Luger Pistols",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 569,
+      "tabId": "history-C_jOau64JMvzi-gP35C86AU",
+      "title": "EC Diode Diagram",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 570,
+      "tabId": "history-DffOaq28Dr-T9u8P0KKf2Qg",
+      "title": "China Export CE",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 571,
+      "tabId": "history-YfXOareaOpPY7_UP2tLyiAo",
+      "title": "Catenary Curve Definition",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 572,
+      "tabId": "history-FPXOaqGzDbfGi-gP7KOoOA",
+      "title": "Tent Selection for Nature",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 573,
+      "tabId": "history-v_DOapWmJ52M9u8PsLecmAU",
+      "title": "Linear Servo CD Drive",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 574,
+      "tabId": "history-6-7OatSVNZnxi-gPhMnasQg",
+      "title": "pigmy girl",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 575,
+      "tabId": "history-uu7OaszNJauyi-gPvfCyoQU",
+      "title": "Also Known As Definition",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 576,
+      "tabId": "history-Xu7OatueFMDFi-gPqcqByQg",
+      "title": "Sneeuwkanon Regenboog Effect",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 577,
+      "tabId": "history-Du7Oau7CBJCLi-gPyr-08AU",
+      "title": "Ski Ongeluk",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 578,
+      "tabId": "history-DezOasj3GIr0i-gPsq-zwAU",
+      "title": "Waterpas Ei Van Columbus",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 579,
+      "tabId": "history-a-fOaoKgCOS4-d8Pydz04QI",
+      "title": "Proof of Concept",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 580,
+      "tabId": "history-FuXOauPJBcfli-gP87m9qAQ",
+      "title": "Mellonballer",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 581,
+      "tabId": "history-a-LOaupty4D27w-956-oDQ",
+      "title": "Panda Reed Field",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 582,
+      "tabId": "history-auHOatP6DoqJi-gP0KnayQQ",
+      "title": "Custom Configuration Variables",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 560,
+      "tabId": "history-2dfOaorpOqeN9u8PofCt0Ag",
+      "title": "Glass Cannon Teemo Build",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      }
+    }
+  ],
+  "newOrdinals": [
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582
+  ]
+}

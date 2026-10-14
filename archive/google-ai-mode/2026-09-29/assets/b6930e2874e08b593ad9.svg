@@ -1,0 +1,981 @@
+<svg aria-label="Interactive 3D simulation of a circular disk featuring an exact X-cut that divides it into 4 rounded wedge-shaped flaps folding outward." class="w-full h-full pointer-events-none" height="366.75" role="img" style=";background:#25282f;color:#e8eaed" viewBox="0 0 652 366.75" width="652" xmlns="http://www.w3.org/2000/svg"><style>
+/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */
+@layer properties {
+  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {
+    *, :before, :after, ::backdrop {
+      --tw-rotate-x: initial;
+      --tw-rotate-y: initial;
+      --tw-rotate-z: initial;
+      --tw-skew-x: initial;
+      --tw-skew-y: initial;
+      --tw-border-style: solid;
+      --tw-font-weight: initial;
+      --tw-ordinal: initial;
+      --tw-slashed-zero: initial;
+      --tw-numeric-figure: initial;
+      --tw-numeric-spacing: initial;
+      --tw-numeric-fraction: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-outline-style: solid;
+      --tw-content: "";
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+    }
+  }
+}
+
+@layer theme {
+  :root, :host {
+    --font-sans: "Google Sans", "Roboto", sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --color-slate-100: oklch(96.8% .007 247.896);
+    --spacing: .25rem;
+    --text-xs: .75rem;
+    --text-xs--line-height: calc(1 / .75);
+    --text-sm: .875rem;
+    --text-sm--line-height: calc(1.25 / .875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --font-weight-medium: 500;
+    --radius-lg: .5rem;
+    --aspect-video: 16 / 9;
+    --default-transition-duration: .15s;
+    --default-transition-timing-function: cubic-bezier(.31, .94, .34, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+    --color-primary: var(--primary, #336ef3);
+    --color-error: var(--brand-red, #ea4335);
+    --color-card: var(--surface-container-de-emphasis, #f7f8fa);
+    --color-border: var(--divider, #dcdfe5);
+    --color-secondary-hover: var(--surface-container-highest, #e1e3e8);
+    --color-muted: var(--surface-container, #f0f2f5);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);
+    --color-foreground: var(--on-surface-default, #0a0a0a);
+  }
+}
+
+@layer base {
+  *, :after, :before, ::backdrop {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::file-selector-button {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, :host {
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    line-height: 1.5;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  hr {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+
+  abbr:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+
+  a {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+
+  b, strong {
+    font-weight: bolder;
+  }
+
+  code, kbd, samp, pre {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+
+  small {
+    font-size: 80%;
+  }
+
+  sub, sup {
+    vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+  }
+
+  sub {
+    bottom: -.25em;
+  }
+
+  sup {
+    top: -.5em;
+  }
+
+  table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+
+  :-moz-focusring {
+    outline: auto;
+  }
+
+  progress {
+    vertical-align: baseline;
+  }
+
+  summary {
+    display: list-item;
+  }
+
+  ol, ul, menu {
+    list-style: none;
+  }
+
+  img, svg, video, canvas, audio, iframe, embed, object {
+    vertical-align: middle;
+    display: block;
+  }
+
+  img, video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  button, input, select, optgroup, textarea {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  ::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  :where(select:is([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+
+  :where(select:is([multiple], [size])) optgroup option {
+    padding-inline-start: 20px;
+  }
+
+  ::file-selector-button {
+    margin-inline-end: 4px;
+  }
+
+  ::placeholder {
+    opacity: 1;
+  }
+
+  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {
+    ::placeholder {
+      color: currentColor;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      ::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+
+  textarea {
+    resize: vertical;
+  }
+
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  ::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+
+  ::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+
+  ::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+
+  ::-webkit-datetime-edit {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-year-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-month-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-day-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-hour-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-minute-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-second-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-millisecond-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+
+  :-moz-ui-invalid {
+    box-shadow: none;
+  }
+
+  button, input:where([type="button"], [type="reset"], [type="submit"]) {
+    appearance: button;
+  }
+
+  ::file-selector-button {
+    appearance: button;
+  }
+
+  ::-webkit-inner-spin-button {
+    height: auto;
+  }
+
+  ::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  [hidden]:where(:not([hidden="until-found"])) {
+    display: none !important;
+  }
+}
+
+@layer components;
+
+@layer utilities {
+  .pointer-events-auto {
+    pointer-events: auto;
+  }
+
+  .pointer-events-none {
+    pointer-events: none;
+  }
+
+  .visible {
+    visibility: visible;
+  }
+
+  .absolute {
+    position: absolute;
+  }
+
+  .fixed {
+    position: fixed;
+  }
+
+  .relative {
+    position: relative;
+  }
+
+  .static {
+    position: static;
+  }
+
+  .top-0 {
+    top: calc(var(--spacing) * 0);
+  }
+
+  .right-0 {
+    right: calc(var(--spacing) * 0);
+  }
+
+  .z-10 {
+    z-index: 10;
+  }
+
+  .m-4 {
+    margin: calc(var(--spacing) * 4);
+  }
+
+  .-my-3 {
+    margin-block: calc(var(--spacing) * -3);
+  }
+
+  .mt-1 {
+    margin-top: calc(var(--spacing) * 1);
+  }
+
+  .block {
+    display: block;
+  }
+
+  .flex {
+    display: flex;
+  }
+
+  .aspect-video {
+    aspect-ratio: var(--aspect-video);
+  }
+
+  .h-1 {
+    height: calc(var(--spacing) * 1);
+  }
+
+  .h-9 {
+    height: calc(var(--spacing) * 9);
+  }
+
+  .h-11 {
+    height: calc(var(--spacing) * 11);
+  }
+
+  .h-\[18px\] {
+    height: 18px;
+  }
+
+  .h-full {
+    height: 100%;
+  }
+
+  .w-9 {
+    width: calc(var(--spacing) * 9);
+  }
+
+  .w-\[7ch\] {
+    width: 7ch;
+  }
+
+  .w-\[18px\] {
+    width: 18px;
+  }
+
+  .w-full {
+    width: 100%;
+  }
+
+  .min-w-0 {
+    min-width: calc(var(--spacing) * 0);
+  }
+
+  .flex-1 {
+    flex: 1;
+  }
+
+  .shrink-0 {
+    flex-shrink: 0;
+  }
+
+  .grow {
+    flex-grow: 1;
+  }
+
+  .transform {
+    transform: var(--tw-rotate-x, ) var(--tw-rotate-y, ) var(--tw-rotate-z, ) var(--tw-skew-x, ) var(--tw-skew-y, );
+  }
+
+  .cursor-pointer {
+    cursor: pointer;
+  }
+
+  .touch-none {
+    touch-action: none;
+  }
+
+  .flex-col {
+    flex-direction: column;
+  }
+
+  .items-center {
+    align-items: center;
+  }
+
+  .justify-center {
+    justify-content: center;
+  }
+
+  .justify-end {
+    justify-content: flex-end;
+  }
+
+  .gap-0\.5 {
+    gap: calc(var(--spacing) * .5);
+  }
+
+  .gap-1\.5 {
+    gap: calc(var(--spacing) * 1.5);
+  }
+
+  .gap-3 {
+    gap: calc(var(--spacing) * 3);
+  }
+
+  .gap-4 {
+    gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-x-4 {
+    column-gap: calc(var(--spacing) * 4);
+  }
+
+  .truncate {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .overflow-hidden {
+    overflow: hidden;
+  }
+
+  .overflow-visible {
+    overflow: visible;
+  }
+
+  .rounded {
+    border-radius: .25rem;
+  }
+
+  .rounded-full {
+    border-radius: 3.40282e38px;
+  }
+
+  .rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+
+  .border {
+    border-style: var(--tw-border-style);
+    border-width: 1px;
+  }
+
+  .border-b {
+    border-bottom-style: var(--tw-border-style);
+    border-bottom-width: 1px;
+  }
+
+  .border-none {
+    --tw-border-style: none;
+    border-style: none;
+  }
+
+  .border-border {
+    border-color: var(--color-border);
+  }
+
+  .\!bg-muted {
+    background-color: var(--color-muted) !important;
+  }
+
+  .bg-\[\#0b0f19\] {
+    background-color: #0b0f19;
+  }
+
+  .bg-\[\#070b14\]\/75 {
+    background-color: oklab(14.9994% -.00205025 -.0207038 / .75);
+  }
+
+  .bg-card {
+    background-color: var(--color-card);
+  }
+
+  .bg-muted\/90 {
+    background-color: var(--color-muted);
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-muted\/90 {
+      background-color: color-mix(in oklab, var(--color-muted) 90%, transparent);
+    }
+  }
+
+  .bg-primary {
+    background-color: var(--color-primary);
+  }
+
+  .p-3 {
+    padding: calc(var(--spacing) * 3);
+  }
+
+  .p-5 {
+    padding: calc(var(--spacing) * 5);
+  }
+
+  .px-2 {
+    padding-inline: calc(var(--spacing) * 2);
+  }
+
+  .px-5 {
+    padding-inline: calc(var(--spacing) * 5);
+  }
+
+  .py-0\.5 {
+    padding-block: calc(var(--spacing) * .5);
+  }
+
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .text-right {
+    text-align: right;
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .\!text-base {
+    font-size: var(--text-base) !important;
+    line-height: var(--tw-leading, var(--text-base--line-height)) !important;
+  }
+
+  .text-sm {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+
+  .text-xs {
+    font-size: var(--text-xs);
+    line-height: var(--tw-leading, var(--text-xs--line-height));
+  }
+
+  .font-medium {
+    --tw-font-weight: var(--font-weight-medium);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .whitespace-nowrap {
+    white-space: nowrap;
+  }
+
+  .whitespace-pre-wrap {
+    white-space: pre-wrap;
+  }
+
+  .text-error {
+    color: var(--color-error);
+  }
+
+  .text-foreground {
+    color: var(--color-foreground);
+  }
+
+  .text-muted-foreground {
+    color: var(--color-muted-foreground);
+  }
+
+  .text-slate-100 {
+    color: var(--color-slate-100);
+  }
+
+  .tabular-nums {
+    --tw-numeric-spacing: tabular-nums;
+    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );
+  }
+
+  .shadow-none {
+    --tw-shadow: 0 0 #0000;
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .shadow\/reverse {
+    --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, #0000001a), 0 1px 2px -1px var(--tw-shadow-color, #0000001a);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .ring {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .outline {
+    outline-style: var(--tw-outline-style);
+    outline-width: 1px;
+  }
+
+  .transition-colors {
+    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to;
+    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration, var(--default-transition-duration));
+  }
+
+  .select-none {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .after\:absolute:after {
+    content: var(--tw-content);
+    position: absolute;
+  }
+
+  .after\:-inset-1:after {
+    content: var(--tw-content);
+    inset: calc(var(--spacing) * -1);
+  }
+
+  .after\:top-1\/2:after {
+    content: var(--tw-content);
+    top: 50%;
+  }
+
+  .after\:left-1\/2:after {
+    content: var(--tw-content);
+    left: 50%;
+  }
+
+  .after\:h-11:after {
+    content: var(--tw-content);
+    height: calc(var(--spacing) * 11);
+  }
+
+  .after\:w-11:after {
+    content: var(--tw-content);
+    width: calc(var(--spacing) * 11);
+  }
+
+  .after\:-translate-x-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  .after\:-translate-y-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  @media (hover: hover) {
+    .hover\:bg-secondary-hover:hover {
+      background-color: var(--color-secondary-hover);
+    }
+  }
+
+  .focus\:outline-none:focus {
+    --tw-outline-style: none;
+    outline-style: none;
+  }
+
+  .focus-visible\:ring-2:focus-visible {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .focus-visible\:ring-primary:focus-visible {
+    --tw-ring-color: var(--color-primary);
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:gap-x-8 {
+      column-gap: calc(var(--spacing) * 8);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:gap-x-12 {
+      column-gap: calc(var(--spacing) * 12);
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --color-primary: var(--primary, #336ef3);
+    --color-primary-hover: var(--primary-hover, #395fe1);
+    --color-error: var(--brand-red, #ea4335);
+    --color-warning: var(--brand-yellow, #fbbc04);
+    --color-success: var(--brand-green, #34a853);
+    --color-background: var(--surface-container-de-emphasis, #272930);
+    --color-card: var(--surface-container-de-emphasis, #272930);
+    --color-card-hover: var(--surface-container-high, #363840);
+    --color-border: var(--divider, #363840);
+    --color-input: var(--surface-container, #2c2e35);
+    --color-secondary: var(--surface-container-high, #363840);
+    --color-secondary-hover: var(--surface-container-highest, #42444d);
+    --color-accent: var(--surface-container-highest, #42444d);
+    --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+    --color-muted: var(--surface-container, #2c2e35);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+    --color-foreground: var(--on-surface-default, #e6e8f0);
+    --color-disabled: var(--surface-container, #2c2e35);
+    --color-disabled-foreground: var(--disabled-foreground, #797c90);
+  }
+}
+
+.dark {
+  --color-primary: var(--primary, #336ef3);
+  --color-primary-hover: var(--primary-hover, #395fe1);
+  --color-error: var(--brand-red, #ea4335);
+  --color-warning: var(--brand-yellow, #fbbc04);
+  --color-success: var(--brand-green, #34a853);
+  --color-background: var(--surface-container-de-emphasis, #272930);
+  --color-card: var(--surface-container-de-emphasis, #272930);
+  --color-card-hover: var(--surface-container-high, #363840);
+  --color-border: var(--divider, #363840);
+  --color-input: var(--surface-container, #2c2e35);
+  --color-secondary: var(--surface-container-high, #363840);
+  --color-secondary-hover: var(--surface-container-highest, #42444d);
+  --color-accent: var(--surface-container-highest, #42444d);
+  --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+  --color-muted: var(--surface-container, #2c2e35);
+  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+  --color-foreground: var(--on-surface-default, #e6e8f0);
+  --color-disabled: var(--surface-container, #2c2e35);
+  --color-disabled-foreground: var(--disabled-foreground, #797c90);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  opacity: .6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert();
+    opacity: .7;
+  }
+}
+
+.dark input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert();
+  opacity: .7;
+}
+
+@property --tw-rotate-x {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-rotate-y {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-rotate-z {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-skew-x {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-skew-y {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-border-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ordinal {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-slashed-zero {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-figure {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-spacing {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-fraction {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow-alpha {
+  syntax: "&lt;percentage&gt;";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-inset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-shadow-alpha {
+  syntax: "&lt;percentage&gt;";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-ring-inset {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-offset-width {
+  syntax: "&lt;length&gt;";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-ring-offset-color {
+  syntax: "*";
+  inherits: false;
+  initial-value: #fff;
+}
+
+@property --tw-ring-offset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-outline-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-content {
+  syntax: "*";
+  inherits: false;
+  initial-value: "";
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+
+* {animation-play-state:paused !important;}</style><defs><linearGradient id="tealGrad" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" stop-color="#2dd4bf"/><stop offset="100%" stop-color="#0d9488"/></linearGradient><radialGradient cx="50%" cy="50%" id="holeDepth" r="50%"><stop offset="0%" stop-color="#020617"/><stop offset="100%" stop-color="#1e1b4b"/></radialGradient></defs><g opacity="0.15"><line stroke="#38bdf8" stroke-width="1" x1="65.2" x2="586.8000000000001" y1="183.375" y2="183.375"/><line stroke="#38bdf8" stroke-width="1" x1="326" x2="326" y1="36.675000000000004" y2="330.075"/></g><path d="M 305.2742375809539,290.9189696750264 L 294.5193397169695,288.8180600487142 L 284.06761782059016,285.8637460079617 L 274.01972768717036,282.0844792119737 L 264.4724359914303,277.5166560659528 L 255.51768837148063,272.2042672038215 L 247.2417239420644,266.1984738343691 L 239.72424476473918,259.5571150308442 L 233.03764827345486,252.34415070906067 L 227.24633004768788,244.6290456584447 L 222.406063647809,236.48610055813913 L 218.56346348520776,227.99373642084655 L 215.75553590002897,219.2337393556075 L 214.00932276988726,210.2904729228617 L 213.34164108180312,201.25006566724332 L 213.7589209754247,192.19958165261323 L 215.25714381726806,183.2261819875301 L 217.82188090235428,174.416285416128 L 221.42843241052609,165.85473605836884 L 226.0420652792182,157.6239863147868 L 231.61834770183688,149.80330280479805 L 238.10357703034623,142.46800298582428 L 245.43529696112566,135.68872980500498 L 253.54289902331607,129.53077136899913 L 262.3483025769924,124.05343218382794 L 271.7667067724096,119.30946202006282 L 281.70740722854225,115.3445479036987 L 292.07466956585813,112.19687412511873 L 302.7686513807269,109.89675450350407 L 313.6863637823463,108.46634044818421 L 324.72266323205986,107.91940762845576 L 335.7712641331121,108.26122330635657 L 346.7257624190461,109.488495610053 L 357.4806602830305,111.58940523636517 L 367.93238217940984,114.54371927711766 L 377.98027231282964,118.32298607310568 L 387.5275640085697,122.89080921912654 L 396.48231162851937,128.20319808125788 L 404.7582760579356,134.20899145071022 L 412.27575523526076,140.85035025423514 L 418.96235172654514,148.06331457601868 L 424.75366995231207,155.77841962663464 L 429.593936352191,163.92136472694025 L 433.43653651479224,172.41372886423284 L 436.24446409997097,181.17372592947186 L 437.99067723011274,190.11699236221767 L 438.6583589181969,199.15739961783603 L 438.2410790245753,208.20788363246618 L 436.74285618273194,217.18128329754927 L 434.1781190976457,225.99117986895135 L 430.57156758947394,234.55272922671054 L 425.9579347207818,242.78347897029255 L 420.3816522981631,250.60416248028136 L 413.89642296965377,257.93946229925507 L 406.5647030388743,264.7187354800744 L 398.4571009766839,270.8766939160803 L 389.6516974230076,276.35403310125145 L 380.2332932275905,281.09800326501653 L 370.29259277145775,285.06291738138066 L 359.92533043414187,288.2105911599607 L 349.23134861927315,290.5107107815753 L 338.3136362176537,291.94112483689514 L 327.27733676794014,292.4880576566236 L 316.2287358668879,292.1462419787228 L 305.2742375809539,290.9189696750264 Z" fill="url(#holeDepth)" opacity="0.85"/><path d="M 304.410664146827,277.870038575507 L 293.20764553850995,275.6815910480985 L 282.3204352297814,272.6041805889813 L 271.8538830074691,268.6674443431604 L 261.9087874910732,263.909295232722 L 252.580925386959,258.37555683466854 L 243.96012910631708,252.11952207482233 L 236.12942162993664,245.2014399878172 L 229.16421695151547,237.68793548595937 L 223.13159379967487,229.65136772490104 L 218.08964963313434,221.1691332454161 L 214.08694113042475,212.32292060240297 L 211.1620165625302,203.19792365944562 L 209.34304455196593,193.88202112533543 L 208.64754279354494,184.4649302340663 L 209.08220934940073,175.0373427188266 L 210.64285814298754,165.6900514010317 L 213.31445927328565,156.51307580582116 L 217.07128376096466,147.59479522482204 L 221.87715133251896,139.02109757525741 L 227.6857788560801,130.87455225235246 L 234.44122607327728,123.23361494092143 L 242.0784343345059,116.17187204423469 L 250.5238531492876,109.75733200672857 L 259.69614851770046,104.05177035550861 L 269.50698622126,99.11013476825326 L 279.8618825297315,94.98001589704063 L 290.66111413110224,91.70118904435314 L 301.80067852159056,89.30523110517122 L 313.17329560661074,87.81521646421305 L 324.669440866729,87.2454947769959 L 336.1784001386584,87.60155277480925 L 347.589335853173,88.87996142449302 L 358.79235446149005,91.06840895190152 L 369.6795647702186,94.1458194110187 L 380.1461169925309,98.08255565683959 L 390.09121250892673,102.84070476727797 L 399.419074613041,108.37444316533146 L 408.0398708936829,114.63047792517763 L 415.8705783700633,121.54856001218278 L 422.83578304848453,129.06206451404063 L 428.8684062003251,137.0986322750989 L 433.91035036686566,145.5808667545839 L 437.91305886957525,154.42707939759703 L 440.8379834374698,163.55207634055435 L 442.65695544803407,172.86797887466457 L 443.35245720645503,182.28506976593368 L 442.9177906505993,191.71265728117342 L 441.3571418570125,201.05994859896828 L 438.68554072671435,210.23692419417878 L 434.92871623903534,219.155204775178 L 430.12284866748104,227.72890242474259 L 424.3142211439199,235.87544774764757 L 417.5587739267227,243.51638505907857 L 409.9215656654941,250.5781279557653 L 401.4761468507124,256.9926679932714 L 392.3038514822996,262.6982296444914 L 382.4930137787401,267.63986523174674 L 372.1381174702685,271.76998410295937 L 361.3388858688978,275.04881095564684 L 350.1993214784095,277.44476889482877 L 338.8267043933893,278.93478353578695 L 327.330559133271,279.5045052230041 L 315.82159986134155,279.14844722519075 L 304.410664146827,277.870038575507 Z L M 305.2742375809539,290.9189696750264 L 294.5193397169695,288.8180600487142 L 284.06761782059016,285.8637460079617 L 274.01972768717036,282.0844792119737 L 264.4724359914303,277.5166560659528 L 255.51768837148063,272.2042672038215 L 247.2417239420644,266.1984738343691 L 239.72424476473918,259.5571150308442 L 233.03764827345486,252.34415070906067 L 227.24633004768788,244.6290456584447 L 222.406063647809,236.48610055813913 L 218.56346348520776,227.99373642084655 L 215.75553590002897,219.2337393556075 L 214.00932276988726,210.2904729228617 L 213.34164108180312,201.25006566724332 L 213.7589209754247,192.19958165261323 L 215.25714381726806,183.2261819875301 L 217.82188090235428,174.416285416128 L 221.42843241052609,165.85473605836884 L 226.0420652792182,157.6239863147868 L 231.61834770183688,149.80330280479805 L 238.10357703034623,142.46800298582428 L 245.43529696112566,135.68872980500498 L 253.54289902331607,129.53077136899913 L 262.3483025769924,124.05343218382794 L 271.7667067724096,119.30946202006282 L 281.70740722854225,115.3445479036987 L 292.07466956585813,112.19687412511873 L 302.7686513807269,109.89675450350407 L 313.6863637823463,108.46634044818421 L 324.72266323205986,107.91940762845576 L 335.7712641331121,108.26122330635657 L 346.7257624190461,109.488495610053 L 357.4806602830305,111.58940523636517 L 367.93238217940984,114.54371927711766 L 377.98027231282964,118.32298607310568 L 387.5275640085697,122.89080921912654 L 396.48231162851937,128.20319808125788 L 404.7582760579356,134.20899145071022 L 412.27575523526076,140.85035025423514 L 418.96235172654514,148.06331457601868 L 424.75366995231207,155.77841962663464 L 429.593936352191,163.92136472694025 L 433.43653651479224,172.41372886423284 L 436.24446409997097,181.17372592947186 L 437.99067723011274,190.11699236221767 L 438.6583589181969,199.15739961783603 L 438.2410790245753,208.20788363246618 L 436.74285618273194,217.18128329754927 L 434.1781190976457,225.99117986895135 L 430.57156758947394,234.55272922671054 L 425.9579347207818,242.78347897029255 L 420.3816522981631,250.60416248028136 L 413.89642296965377,257.93946229925507 L 406.5647030388743,264.7187354800744 L 398.4571009766839,270.8766939160803 L 389.6516974230076,276.35403310125145 L 380.2332932275905,281.09800326501653 L 370.29259277145775,285.06291738138066 L 359.92533043414187,288.2105911599607 L 349.23134861927315,290.5107107815753 L 338.3136362176537,291.94112483689514 L 327.27733676794014,292.4880576566236 L 316.2287358668879,292.1462419787228 L 305.2742375809539,290.9189696750264 Z Z" fill="#1e293b" stroke="#334155" stroke-width="0.5"/><g><path d="M 421.3768923142526 130.89472598505702 L 424.61281595421224 146.18906695676225 L 426.41650503544355 161.99400751674204 L 426.74354674666574 177.9203775748193 L 425.5858882355593 193.57601704357236 L 422.97203489671597 208.575432121192 L 418.9663484742199 222.54928742826257 L 413.66746226190406 235.15350027055715 L 407.2058524243108 246.07771309691427 L 399.74062524049515 255.0529355321653 L 391.4555993793913 261.8581678128988 L 391.4555993793913 261.8581678128988 L 390.4895293121672 230.56547581904064 L 386.61971772065937 206.10014706693897 L 381.6251502695686 188.85609692593164 L 377.2848639373982 178.40395763007922 L 375.4910353083696 173.5894818551793 L 378.650864991105 172.42506494240854 L 385.82821080207134 170.45958997198275 L 396.1276087910517 164.48476160169338 L 408.45062923479645 151.95097643887806 L 421.3768923142526 130.89472598505702 Z" fill="#115e59" opacity="0.9" stroke="#0f766e" stroke-width="1"/><path d="M 422.83578304848453 129.06206451404063 L 428.5725079539312 146.4625675220356 L 432.37183907023 164.03340578448848 L 434.14022425604065 181.3419269491087 L 433.8341199991545 197.96193778113505 L 431.4610636022778 213.48419845522938 L 427.0794875896245 227.52649939816587 L 420.797280904243 239.74307255700447 L 412.76913232417616 249.8331053560928 L 403.1927215113627 257.5481477010183 L 392.3038514822996 262.6982296444914 L 392.3038514822996 262.6982296444914 L 388.38215100433604 228.60360877508373 L 381.01127660369997 201.1174533266493 L 372.68265272108556 181.13992027724308 L 365.81972817799755 168.68095596366936 L 362.9424170993485 162.9968460483868 L 367.2136068042289 162.58004505788296 L 376.9714899991495 162.36797440586665 L 390.71320626736565 158.65277428048032 L 406.70980398661084 148.38473185655047 L 422.83578304848453 129.06206451404063 Z" fill="url(#tealGrad)" stroke="#042f2e" stroke-width="1.2"/></g><g><path d="M 261.1116515044766 105.91997298855057 L 275.67903540050384 106.63069819704646 L 291.67188079831317 107.85757115726055 L 308.69639076699974 109.57038218515451 L 326.33336537002515 111.72695618872766 L 344.14852375890024 114.27419115875324 L 361.70319760896984 117.14936571648107 L 378.56513258942306 120.2816835221426 L 394.3191318994873 123.59401651579563 L 408.5772797916227 127.00480406613349 L 420.98849334464495 130.43006126391197 L 420.98849334464495 130.43006126391197 L 387.7353740679191 127.16808817506254 L 363.6363234545754 125.61351007450205 L 348.03266584818124 125.24253809805822 L 339.3753371273376 125.43742174376361 L 335.2623531217342 125.46152361375457 L 332.0764568652976 124.31845918811881 L 325.574677636827 121.79959247058822 L 312.83331837709073 117.82510166731309 L 291.76479091641335 112.4552164557619 L 261.1116515044766 105.91997298855057 Z" fill="#115e59" opacity="0.9" stroke="#0f766e" stroke-width="1"/><path d="M 259.69614851770046 104.05177035550861 L 275.0164968804116 104.20332874914905 L 291.7023264870869 104.99370572778909 L 309.3427768357165 106.40343958710378 L 327.503481493419 108.39781800083838 L 345.7372636395985 110.92773275348422 L 363.59514704336254 113.93088894752553 L 380.63741134839336 117.33333891056103 L 396.4444194474687 121.05130303241671 L 410.6269503407369 124.99323269719704 L 422.83578304848453 129.06206451404063 L 422.83578304848453 129.06206451404063 L 388.3545659692272 126.42527206829203 L 363.12324708269284 125.64526989934808 L 346.59624809925805 126.0282711327423 L 337.3066994891588 126.80063822292496 L 332.9138523818008 127.0718932480144 L 329.85886248707715 125.6588396967568 L 323.6799335978762 122.51506130879335 L 311.2834459832187 117.69791438180835 L 290.42539948809895 111.41213766084238 L 259.69614851770046 104.05177035550861 Z" fill="url(#tealGrad)" stroke="#042f2e" stroke-width="1.2"/></g><g><path d="M 390.8883484955234 262.17632562285263 L 376.32096459949616 268.1884777610206 L 360.32811920168683 272.37034191753946 L 343.30360923300026 274.6189467180642 L 325.6666346299748 274.87892404971456 L 307.85147624109976 273.1438724077699 L 290.29680239103016 269.45651452196114 L 273.43486741057694 263.9076453810761 L 257.6808681005127 256.63389655900437 L 243.4227202083773 247.81437189193355 L 231.01150665535505 237.6662373474912 L 231.01150665535505 237.6662373474912 L 264.2646259320809 232.82154771765568 L 288.36367654542454 224.92704146470155 L 303.96733415181876 216.37344921245725 L 312.6246628726624 209.4576240145687 L 316.73764687826576 206.54288910741383 L 319.9235431347024 210.5765865702135 L 326.425322363173 219.81639483992723 L 339.1666816229092 232.71544987189048 L 360.2352090835866 247.53441943695634 L 390.8883484955234 262.17632562285263 Z" fill="#0f766e" opacity="0.9" stroke="#0f766e" stroke-width="1"/><path d="M 392.30385148229954 262.69822964449145 L 376.9835031195884 272.24828790577226 L 360.2976735129131 279.2631245861062 L 342.6572231642835 283.5700111255152 L 324.49651850658097 285.0628976836621 L 306.2627363604015 283.7050244388788 L 288.40485295663746 279.5298267369749 L 271.36258865160664 272.64011180205796 L 255.55558055253132 263.20552728147857 L 241.37304965926302 251.45838395772427 L 229.16421695151547 237.68793548595937 L 229.16421695151547 237.68793548595937 L 263.6454340307728 228.6262051129849 L 288.87675291730716 215.77046927708415 L 305.40375190074195 202.50865195136288 L 314.6933005108412 192.03746170300232 L 319.0861476181992 187.59480622383032 L 322.14113751292285 193.17926022917047 L 328.3200664021238 206.02186177531183 L 340.7165540167813 223.71782479462388 L 361.57460051190105 243.63933952043453 L 392.30385148229954 262.69822964449145 Z" fill="url(#tealGrad)" stroke="#042f2e" stroke-width="1.2"/></g><g><path d="M 230.62310768574744 237.20157262634612 L 227.38718404578773 228.6301090013048 L 225.58349496455642 218.23390555805796 L 225.25645325333426 206.26895132839942 L 226.41411176444072 193.02986319486982 L 229.0279651032841 178.8426314453311 L 233.0336515257801 164.0565928101796 L 238.33253773809594 149.03582863266158 L 244.79414757568924 134.15019997788573 L 252.25937475950485 119.76624042590176 L 260.54440062060877 106.23813079850439 L 260.54440062060877 106.23813079850439 L 261.5104706878329 129.42416007367757 L 265.38028227934063 144.4404044722646 L 270.3748497304314 152.75989038458385 L 274.7151360626018 156.49108812825307 L 276.5089646916304 158.4149308659891 L 273.349135008895 162.46998081592375 L 266.17178919792866 171.1563973385327 L 255.87239120894827 186.0557899375102 L 243.54937076520355 208.03865945384015 L 230.62310768574744 237.20157262634612 Z" fill="#134e4a" opacity="0.9" stroke="#0f766e" stroke-width="1"/><path d="M 229.16421695151547 237.68793548595937 L 223.42749204606878 229.9890491328857 L 219.62816092977 220.2234245294068 L 217.85977574395935 208.63152376351024 L 218.1658800008455 195.49877790336538 L 220.53893639772218 181.1485587371336 L 224.92051241037552 165.93421628633453 L 231.202719095757 150.2303781556145 L 239.23086767582384 134.42372495780248 L 248.80727848863728 118.90346895390302 L 259.69614851770046 104.05177035550861 L 259.69614851770046 104.05177035550861 L 263.61784899566396 126.44786840619318 L 270.98872339630003 140.29828584978293 L 279.31734727891444 147.39700280686213 L 286.18027182200245 150.15714396225792 L 289.0575829006515 151.66985342345794 L 284.7863931957711 156.25805486804433 L 275.0285100008505 166.16894867823854 L 261.28679373263435 182.7629648959519 L 245.29019601338916 206.66674532472643 L 229.16421695151547 237.68793548595937 Z" fill="url(#tealGrad)" stroke="#042f2e" stroke-width="1.2"/></g><path d="M 304.410664146827,277.870038575507 L 293.20764553850995,275.6815910480985 L 282.3204352297814,272.6041805889813 L 271.8538830074691,268.6674443431604 L 261.9087874910732,263.909295232722 L 252.580925386959,258.37555683466854 L 243.96012910631708,252.11952207482233 L 236.12942162993664,245.2014399878172 L 229.16421695151547,237.68793548595937 L 223.13159379967487,229.65136772490104 L 218.08964963313434,221.1691332454161 L 214.08694113042475,212.32292060240297 L 211.1620165625302,203.19792365944562 L 209.34304455196593,193.88202112533543 L 208.64754279354494,184.4649302340663 L 209.08220934940073,175.0373427188266 L 210.64285814298754,165.6900514010317 L 213.31445927328565,156.51307580582116 L 217.07128376096466,147.59479522482204 L 221.87715133251896,139.02109757525741 L 227.6857788560801,130.87455225235246 L 234.44122607327728,123.23361494092143 L 242.0784343345059,116.17187204423469 L 250.5238531492876,109.75733200672857 L 259.69614851770046,104.05177035550861 L 269.50698622126,99.11013476825326 L 279.8618825297315,94.98001589704063 L 290.66111413110224,91.70118904435314 L 301.80067852159056,89.30523110517122 L 313.17329560661074,87.81521646421305 L 324.669440866729,87.2454947769959 L 336.1784001386584,87.60155277480925 L 347.589335853173,88.87996142449302 L 358.79235446149005,91.06840895190152 L 369.6795647702186,94.1458194110187 L 380.1461169925309,98.08255565683959 L 390.09121250892673,102.84070476727797 L 399.419074613041,108.37444316533146 L 408.0398708936829,114.63047792517763 L 415.8705783700633,121.54856001218278 L 422.83578304848453,129.06206451404063 L 428.8684062003251,137.0986322750989 L 433.91035036686566,145.5808667545839 L 437.91305886957525,154.42707939759703 L 440.8379834374698,163.55207634055435 L 442.65695544803407,172.86797887466457 L 443.35245720645503,182.28506976593368 L 442.9177906505993,191.71265728117342 L 441.3571418570125,201.05994859896828 L 438.68554072671435,210.23692419417878 L 434.92871623903534,219.155204775178 L 430.12284866748104,227.72890242474259 L 424.3142211439199,235.87544774764757 L 417.5587739267227,243.51638505907857 L 409.9215656654941,250.5781279557653 L 401.4761468507124,256.9926679932714 L 392.3038514822996,262.6982296444914 L 382.4930137787401,267.63986523174674 L 372.1381174702685,271.76998410295937 L 361.3388858688978,275.04881095564684 L 350.1993214784095,277.44476889482877 L 338.8267043933893,278.93478353578695 L 327.330559133271,279.5045052230041 L 315.82159986134155,279.14844722519075 L 304.410664146827,277.870038575507 Z" fill="none" opacity="0.75" stroke="#38bdf8" stroke-dasharray="4 3" stroke-width="2"/></svg>

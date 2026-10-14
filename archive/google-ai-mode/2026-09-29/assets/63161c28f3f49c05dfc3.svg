@@ -1,0 +1,243 @@
+<svg class="marks" height="412" style="background-color: rgb(39, 41, 48);;background:rgb(39, 41, 48);color:#e8eaed" version="1.1" viewBox="0 0 643 412" width="643" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #22242a;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #25262ECC !important;
+        border: 1px solid #2D2F35CC !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #ADAFB8 !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) &gt; :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+* {animation-play-state:paused !important;}</style><g fill="none" stroke-miterlimit="10" transform="translate(16,44)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h611v352h-611Z" fill="transparent"/><g><g class="mark-group role-axis"><g transform="translate(0.5,352.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g/><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g class="mark-group role-axis"><g transform="translate(0.5,0.5)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g/><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g><g aria-roledescription="group mark container" class="mark-group role-scope view_1_pathgroup" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h611v352h-611Z"/><g><g aria-roledescription="line mark container" class="mark-line role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object"><path aria-label="x: −1.5; y: 1.22464679915e-16; series: Melon Baller Structure; order: 0" aria-roledescription="line mark" d="M97.205,117.333L97.274,121.987L97.484,126.636L97.833,131.275L98.322,135.9L98.949,140.507L99.714,145.09L100.616,149.646L101.655,154.168L102.829,158.654L104.138,163.098L105.579,167.496L107.152,171.844L108.854,176.136L110.685,180.37L112.641,184.54L114.722,188.642L116.925,192.673L119.249,196.627L121.689,200.502L124.245,204.293L126.914,207.997L129.692,211.609L132.578,215.126L135.568,218.545L138.659,221.862L141.848,225.073L145.132,228.177L148.507,231.168L151.971,234.045L155.519,236.804L159.149,239.444L162.856,241.96L166.636,244.35L170.487,246.613L174.403,248.746L178.382,250.746L182.419,252.612L186.51,254.342L190.65,255.933L194.837,257.386L199.065,258.697L203.33,259.866L207.628,260.891L211.955,261.772L216.306,262.507L220.677,263.096L225.063,263.539L229.461,263.834L233.865,263.982L238.271,263.982L242.676,263.834L247.073,263.539L251.46,263.096L255.831,262.507L260.182,261.772L264.508,260.891L268.807,259.866L273.072,258.697L277.3,257.386L281.486,255.933L285.627,254.342L289.717,252.612L293.754,250.746L297.733,248.746L301.649,246.613L305.5,244.35L309.281,241.96L312.988,239.444L316.617,236.804L320.165,234.045L323.629,231.168L327.005,228.177L330.288,225.073L333.478,221.862L336.569,218.545L339.558,215.126L342.444,211.609L345.222,207.997L347.891,204.293L350.447,200.502L352.888,196.627L355.211,192.673L357.414,188.642L359.495,184.54L361.452,180.37L363.282,176.136L364.985,171.844L366.557,167.496L367.999,163.098L369.307,158.654L370.481,154.168L371.52,149.646L372.422,145.09L373.188,140.507L373.815,135.9L374.303,131.275L374.652,126.636L374.862,121.987L374.932,117.333L374.932,117.333L379.183,117.333L383.434,117.333L387.685,117.333L391.936,117.333L396.186,117.333L400.437,117.333L404.688,117.333L408.939,117.333L413.19,117.333L417.441,117.333L421.692,117.333L425.943,117.333L430.194,117.333L434.445,117.333L438.696,117.333L442.947,117.333L447.198,117.333L451.449,117.333L455.699,117.333L459.95,117.333L464.201,117.333L468.452,117.333L472.703,117.333L476.954,117.333L481.205,117.333L485.456,117.333L489.707,117.333L493.958,117.333L498.209,117.333L502.46,117.333L506.711,117.333L510.962,117.333L515.212,117.333L519.463,117.333L523.714,117.333L527.965,117.333L532.216,117.333L536.467,117.333L540.718,117.333L544.969,117.333L549.22,117.333L553.471,117.333L557.722,117.333L561.973,117.333L566.224,117.333L570.474,117.333L574.725,117.333L578.976,117.333L583.227,117.333" role="graphics-symbol" stroke="#618eff" stroke-width="3.5"/></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_1_marks" clip-path="url(#clip2)" pointer-events="none" role="graphics-object"><text aria-label="x: −0.5; y: −0.4; label: Concave (Hollow Interior)" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(236.0681818181818,168)">Concave (Hollow Interior)</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_2_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object"><text aria-label="x: −0.5; y: −1.3; label: Convex (Rounded Exterior)" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(236.0681818181818,300)">Convex (Rounded Exterior)</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_3_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object"><text aria-label="x: 1.25; y: 0.15; label: Handle" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="500" opacity="1" role="graphics-symbol" text-anchor="middle" transform="translate(479.07954545454544,87.33333333333339)">Handle</text></g><g aria-label="Symbol legend for stroke color with 1 value: Melon Baller Structure" aria-roledescription="legend" class="mark-group role-legend" role="graphics-symbol"><g transform="translate(0,-28)"><path aria-hidden="true" class="background" d="M0,0h135v12h-135Z" pointer-events="none"/><g><g class="mark-group role-legend-entry"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h0v0h0Z" pointer-events="none"/><g><g aria-roledescription="group mark container" class="mark-group role-scope" role="graphics-object"><g transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h134.716796875v12h-134.716796875Z" opacity="1" pointer-events="none"/><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path d="M-5,0L5,0" fill="transparent" opacity="1" stroke="#618eff" stroke-width="1.5" transform="translate(6,6)"/></g><g class="mark-text role-legend-label" pointer-events="none"><text fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="500" opacity="1" text-anchor="start" transform="translate(16,10)">Melon Baller Structure</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none" pointer-events="none"/></g></g></g><path aria-hidden="true" class="foreground" d="" display="none"/></g></g></g><defs><clipPath id="clip1"><rect height="352" width="611" x="0" y="0"/></clipPath><clipPath id="clip2"><rect height="352" width="611" x="0" y="0"/></clipPath><clipPath id="clip3"><rect height="352" width="611" x="0" y="0"/></clipPath><clipPath id="clip4"><rect height="352" width="611" x="0" y="0"/></clipPath></defs></svg>
