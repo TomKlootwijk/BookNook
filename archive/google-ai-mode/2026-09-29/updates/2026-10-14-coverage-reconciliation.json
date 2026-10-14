@@ -1,0 +1,225 @@
+{
+  "historyEntries": 300,
+  "openTabs": 178,
+  "uniqueOpenConversations": 172,
+  "newThreads": [
+    {
+      "id": "2dfOaorpOqeN9u8PofCt0Ag",
+      "label": "Glass Cannon Teemo Build, 1 of 300"
+    },
+    {
+      "id": "xHbOasTIB8GH9u8P66u9yAo",
+      "label": "Prinsengracht Content, 2 of 300"
+    },
+    {
+      "id": "QkXOatKUHJy3i-gP3aKsyQ0",
+      "label": "Grafische Drukkerij Vlaar Krommenie, 3 of 300"
+    },
+    {
+      "id": "DUXOauKxMuS4-d8PmP3AiQE",
+      "label": "Drukkerij Bijlmer Arena, 4 of 300"
+    }
+  ],
+  "existingHistoryOrderUnchanged": true,
+  "aliases": [
+    {
+      "threadId": "yJPGav7oEqWMi-gPp-W_8Q0",
+      "archiveOrdinal": 53,
+      "reason": "Same complete prompt sequence and response count as the previously retained archive capture; also reconciled in the October 13 results."
+    },
+    {
+      "threadId": "_WDGaq62Odi3i-gPuq6UwAo",
+      "archiveOrdinal": 54,
+      "reason": "Same complete prompt sequence and response count as the previously retained archive capture; also reconciled in the October 13 results."
+    }
+  ],
+  "unmatchedHistory": [],
+  "unmatchedOpen": [],
+  "openReadAudit": [
+    {
+      "id": "1037251730",
+      "ordinal": 163,
+      "frames": 0,
+      "prompts": [
+        "You said: can I put ideal link in a qr code? tikkie I mean",
+        "You said: consumer tikkie tikkie gelimiteerd?",
+        "You said: dus als ik een aantal X transacties QR codes roteer automatisch kan ik dat automatiseren? dus na die 30 kan ik een rest api gebruiken ofzo dat die link gesloten is ofzo?",
+        "You said: dus ik kan bijvoorbeeld een counter bijhouden op een website die aftelt vanaf 30 en dan bij de 0 handmatig een nieuwe tikkie aanmakendaarnaast bijvoorbeeld mensen een open donatie bedrag met een bodem bedrag van bijvoorbeeld 2 euro? en kan ik ook het bedrag automatisch binnen krijgen of uitlezen en dan bijvoorbeeld daar een hook op plaatsen?"
+      ],
+      "responses": 4
+    },
+    {
+      "id": "1037248948",
+      "ordinal": 398,
+      "frames": 0,
+      "prompts": [
+        "You said: waarom biochemisch neurochemish bio-art neuro-chemisch neuro-psycho-biologisch chemisch-botanist chemisch castreren chemie van psychologische en sexuele aantrekking en handeling (waarom het onderscheid en het verbindende woord neuro)"
+      ],
+      "responses": 1
+    },
+    {
+      "id": "1037251703",
+      "ordinal": 413,
+      "error": "Error: CDP operation exceeded its deadline before command dispatch"
+    },
+    {
+      "id": "1037248942",
+      "ordinal": 420,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248941",
+      "ordinal": 559,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248938",
+      "ordinal": 428,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248940",
+      "ordinal": 399,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248936",
+      "ordinal": 507,
+      "error": "Error: Timed out after 34ms waiting for CDP command Runtime.evaluate."
+    },
+    {
+      "id": "1037248937",
+      "ordinal": 429,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248934",
+      "ordinal": 510,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248933",
+      "ordinal": 528,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248930",
+      "ordinal": 400,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248931",
+      "ordinal": 474,
+      "frames": 0,
+      "prompts": [
+        "You said: steeds de helft missen is een binaire zoekboom",
+        "You said: ik verneukte de prompt aangezien ik bedoelde steeds de helft presenteren en dan a/b kiezen",
+        "You said: nee het kutte is dat ik zei boom en daardoor is de context verpest en liggen de trucjes al in jouw geheugen",
+        "You said: yes a/b testende presenteren is een perfecte representatie van een scene",
+        "You said: de best presenterende scène als je niet eens meedoet 0 sum game high stakes poker",
+        "You said: antwoord op de prompt"
+      ],
+      "responses": 6
+    },
+    {
+      "id": "1037248932",
+      "ordinal": 475,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248929",
+      "ordinal": 477,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248927",
+      "ordinal": 480,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248926",
+      "ordinal": 401,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248921",
+      "ordinal": 496,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248879",
+      "ordinal": 402,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248918",
+      "ordinal": 497,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248914",
+      "ordinal": 500,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248913",
+      "ordinal": 501,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248912",
+      "ordinal": 502,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248910",
+      "ordinal": 503,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    },
+    {
+      "id": "1037248911",
+      "ordinal": 414,
+      "frames": 0,
+      "prompts": [],
+      "responses": 0
+    }
+  ]
+}

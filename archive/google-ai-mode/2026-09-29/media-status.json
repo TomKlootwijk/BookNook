@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All scoped conversation slots are archived. This batch adds 21 original diagrams/charts and 18 generated images as static snapshots. Google did not serve 38 uploaded images cumulatively, two restored response slots contain only the standard AI notice, and one PDF attachment is unavailable. One earlier chart without plotted marks and two earlier unavailable doodles remain recorded. All gaps are marked in context.",
+  "note": "All scoped conversation slots are archived. The October 14 batch adds four conversations, one original SVG diagram as a static snapshot and five inline photo thumbnails. Earlier source gaps remain: 38 uploaded images unavailable from Google, two empty restored response slots, one unavailable PDF attachment, one chart without plotted marks and two unavailable doodles. All gaps remain marked in context.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -283,5 +283,11 @@
       }
     ],
     "generatedImagesBundled": 18
+  },
+  "october14Media": {
+    "date": "2026-10-14",
+    "vectorDiagrams": 1,
+    "inlinePhotoThumbnails": 5,
+    "unavailableUploadedImages": []
   }
 }

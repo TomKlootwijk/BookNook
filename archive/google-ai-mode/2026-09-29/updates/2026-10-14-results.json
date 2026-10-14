@@ -1,0 +1,77 @@
+{
+  "at": "2026-10-14T03:09:04.147268+00:00",
+  "date": "2026-10-14",
+  "batchId": "2026-10-14",
+  "openAiModeTabs": 178,
+  "uniqueOpenConversations": 172,
+  "historyConversations": 300,
+  "method": "Compared all 178 open AI Mode tab identities and 300 history entries to the archive. Four new entries precede an otherwise unchanged 296-entry history order. Captured all four new conversations and reconciled two older aliases; retained prior complete captures.",
+  "records": [
+    {
+      "ordinal": 560,
+      "tabId": "1037251710",
+      "title": "glass cannon build teemo",
+      "status": "added",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      }
+    },
+    {
+      "ordinal": 561,
+      "tabId": "history-xHbOasTIB8GH9u8P66u9yAo",
+      "title": "Prinsengracht Content",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 562,
+      "tabId": "history-QkXOatKUHJy3i-gP3aKsyQ0",
+      "title": "Grafische Drukkerij Vlaar Krommenie",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 563,
+      "tabId": "history-DUXOauKxMuS4-d8PmP3AiQE",
+      "title": "Drukkerij Bijlmer Arena",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 53,
+      "tabId": "history-yJPGav7oEqWMi-gPp-W_8Q0",
+      "title": "Missing Point Component",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 54,
+      "tabId": "history-_WDGaq62Odi3i-gPuq6UwAo",
+      "title": "WiFi en 5G Signalen",
+      "status": "unchanged",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      }
+    }
+  ],
+  "newOrdinals": [
+    560,
+    561,
+    562,
+    563
+  ]
+}
