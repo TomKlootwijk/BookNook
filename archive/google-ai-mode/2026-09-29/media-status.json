@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All scoped conversation slots are archived. The additional 15 October batch preserves 8 original vector diagrams, 6 canvas snapshots and one original generated image. Animations are static snapshots with displayed settings retained. Source error messages and blank responses remain as returned by Google. All previous source and media gaps remain recorded.",
+  "note": "All scoped conversation slots are archived. The additional 15 October J batch preserves 4 original vector diagrams. Animations are static snapshots with displayed settings retained. One embedded simulation displays a source error; two PDF attachment names are visible but their originals are not downloadable. Source error responses remain unchanged. All earlier source and media gaps remain recorded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -1918,5 +1918,144 @@
     "sourceErrorResponses": [],
     "blankResponses": [],
     "visualAudit": "updates/2026-10-15-more-visual-audit.json"
+  },
+  "october15JMedia": {
+    "date": "2026-10-15-j",
+    "newConversations": 6,
+    "newPairs": 103,
+    "sourceFigures": 4,
+    "vectorSnapshots": 4,
+    "canvasSnapshots": 0,
+    "generatedImages": [],
+    "sourceErrorResponses": [
+      {
+        "conversation": 710,
+        "response": 44
+      },
+      {
+        "conversation": 710,
+        "response": 45
+      },
+      {
+        "conversation": 710,
+        "response": 46
+      },
+      {
+        "conversation": 710,
+        "response": 47
+      },
+      {
+        "conversation": 710,
+        "response": 48
+      },
+      {
+        "conversation": 710,
+        "response": 49
+      },
+      {
+        "conversation": 710,
+        "response": 51
+      },
+      {
+        "conversation": 710,
+        "response": 52
+      },
+      {
+        "conversation": 710,
+        "response": 54
+      },
+      {
+        "conversation": 710,
+        "response": 55
+      },
+      {
+        "conversation": 710,
+        "response": 57
+      },
+      {
+        "conversation": 710,
+        "response": 58
+      },
+      {
+        "conversation": 710,
+        "response": 59
+      },
+      {
+        "conversation": 710,
+        "response": 60
+      },
+      {
+        "conversation": 710,
+        "response": 62
+      },
+      {
+        "conversation": 710,
+        "response": 63
+      },
+      {
+        "conversation": 710,
+        "response": 64
+      },
+      {
+        "conversation": 710,
+        "response": 65
+      },
+      {
+        "conversation": 710,
+        "response": 66
+      }
+    ],
+    "blankResponses": [],
+    "widgetErrors": [
+      {
+        "conversation": 712,
+        "response": 1,
+        "text": "Something went wrong:\n\nr is not a function"
+      }
+    ],
+    "attachments": [
+      {
+        "conversation": 708,
+        "prompt": 3,
+        "name": "weide ijssel.pdf",
+        "status": "filename_only_unavailable",
+        "path": null
+      },
+      {
+        "conversation": 708,
+        "prompt": 3,
+        "name": "247-online-streaming.pdf",
+        "status": "filename_only_unavailable",
+        "path": null
+      },
+      {
+        "conversation": 708,
+        "prompt": 9,
+        "name": "Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf",
+        "status": "previously_archived",
+        "path": "attachments/Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf"
+      },
+      {
+        "conversation": 709,
+        "prompt": 2,
+        "name": "weide ijssel.pdf",
+        "status": "filename_only_unavailable",
+        "path": null
+      },
+      {
+        "conversation": 709,
+        "prompt": 2,
+        "name": "247-online-streaming.pdf",
+        "status": "filename_only_unavailable",
+        "path": null
+      },
+      {
+        "conversation": 710,
+        "prompt": 61,
+        "name": "247-online-streaming.pdf",
+        "status": "filename_only_unavailable",
+        "path": null
+      }
+    ]
   }
 }
