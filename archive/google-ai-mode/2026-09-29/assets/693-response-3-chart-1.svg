@@ -1,0 +1,243 @@
+<svg class="marks" height="412" style='background-color: rgb(39, 41, 48);;background:rgb(39, 41, 48);color:#e6e8f0;color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px' version="1.1" viewBox="0 0 550 412" width="550" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+
+
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #22242a;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #25262ECC !important;
+        border: 1px solid #2D2F35CC !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #ADAFB8 !important;
+        text-align: start !important;
+      }
+    
+
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+
+.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) &gt; :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+*{animation-play-state:paused!important}</style><g fill="none" stroke-miterlimit="10" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px' transform="translate(16,16)"><g aria-roledescription="group mark container" class="mark-group role-frame root" role="graphics-object" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><g style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px' transform="translate(0,0)"><path aria-hidden="true" class="background" d="M0,0h518v380h-518Z" fill="transparent" style=';color:rgb(0, 0, 0);fill:rgba(0, 0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'/><g style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><g aria-roledescription="rect mark container" class="mark-rect role-mark view_1_marks" clip-path="url(#clip1)" role="graphics-object" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><path aria-label="x1: 0.5; y1: 7; x2: 3.5; y2: 9" aria-roledescription="rect mark" d="M30.566656494140624,28.90907703746452L173.9666564941406,28.90907703746452C177.2781466411046,28.90907703746452,179.9666564941406,31.59758689050052,179.9666564941406,34.90907703746452L179.9666564941406,98.9090770374645C179.9666564941406,102.2205671844285,177.2781466411046,104.9090770374645,173.9666564941406,104.9090770374645L30.566656494140624,104.9090770374645C27.255166347176623,104.9090770374645,24.566656494140624,102.2205671844285,24.566656494140624,98.9090770374645L24.566656494140624,34.90907703746452C24.566656494140624,31.59758689050052,27.255166347176623,28.90907703746452,30.566656494140624,28.90907703746452Z" fill="#618eff" fill-opacity="0.05" role="graphics-symbol" stroke-width="1.5" style=';color:rgb(0, 0, 0);fill:rgb(97, 142, 255);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1.5px'/><path aria-label="x1: 6.5; y1: 7; x2: 9.5; y2: 9" aria-roledescription="rect mark" d="M341.36665649414067,28.90907703746452L484.7666564941406,28.90907703746452C488.0781466411046,28.90907703746452,490.7666564941406,31.59758689050052,490.7666564941406,34.90907703746452L490.7666564941406,98.9090770374645C490.7666564941406,102.2205671844285,488.0781466411046,104.9090770374645,484.7666564941406,104.9090770374645L341.36665649414067,104.9090770374645C338.0551663471767,104.9090770374645,335.36665649414067,102.2205671844285,335.36665649414067,98.9090770374645L335.36665649414067,34.90907703746452C335.36665649414067,31.59758689050052,338.0551663471767,28.90907703746452,341.36665649414067,28.90907703746452Z" fill="#618eff" fill-opacity="0.05" role="graphics-symbol" stroke-width="1.5" style=';color:rgb(0, 0, 0);fill:rgb(97, 142, 255);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1.5px'/><path aria-label="x1: 6.5; y1: 1; x2: 9.5; y2: 3" aria-roledescription="rect mark" d="M341.36665649414067,256.9090770374645L484.7666564941406,256.9090770374645C488.0781466411046,256.9090770374645,490.7666564941406,259.5975868905005,490.7666564941406,262.9090770374645L490.7666564941406,326.9090770374645C490.7666564941406,330.2205671844285,488.0781466411046,332.9090770374645,484.7666564941406,332.9090770374645L341.36665649414067,332.9090770374645C338.0551663471767,332.9090770374645,335.36665649414067,330.2205671844285,335.36665649414067,326.9090770374645L335.36665649414067,262.9090770374645C335.36665649414067,259.5975868905005,338.0551663471767,256.9090770374645,341.36665649414067,256.9090770374645Z" fill="#618eff" fill-opacity="0.05" role="graphics-symbol" stroke-width="1.5" style=';color:rgb(0, 0, 0);fill:rgb(97, 142, 255);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1.5px'/><path aria-label="x1: 0.5; y1: 1; x2: 3.5; y2: 3" aria-roledescription="rect mark" d="M30.566656494140624,256.9090770374645L173.9666564941406,256.9090770374645C177.2781466411046,256.9090770374645,179.9666564941406,259.5975868905005,179.9666564941406,262.9090770374645L179.9666564941406,326.9090770374645C179.9666564941406,330.2205671844285,177.2781466411046,332.9090770374645,173.9666564941406,332.9090770374645L30.566656494140624,332.9090770374645C27.255166347176623,332.9090770374645,24.566656494140624,330.2205671844285,24.566656494140624,326.9090770374645L24.566656494140624,262.9090770374645C24.566656494140624,259.5975868905005,27.255166347176623,256.9090770374645,30.566656494140624,256.9090770374645Z" fill="#618eff" fill-opacity="0.05" role="graphics-symbol" stroke-width="1.5" style=';color:rgb(0, 0, 0);fill:rgb(97, 142, 255);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1.5px'/></g><g aria-roledescription="rule mark container" class="mark-rule role-mark layer_1_marks" clip-path="url(#clip2)" pointer-events="none" role="graphics-object" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><line aria-label="x: 3.8; y: 8; x2: 6.2; y2: 8" aria-roledescription="rule mark" role="graphics-symbol" stroke="#ffbe73" stroke-dasharray="4,4" stroke-width="2" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:rgb(255, 190, 115);stroke-width:2px' transform="translate(195.5066564941406,66.90907703746451)" x2="124.32000000000005" y2="0"/><line aria-label="x: 8; y: 6.8; x2: 8; y2: 3.2" aria-roledescription="rule mark" role="graphics-symbol" stroke="#ffbe73" stroke-dasharray="4,4" stroke-width="2" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:rgb(255, 190, 115);stroke-width:2px' transform="translate(413.0666564941406,112.50907703746451)" x2="0" y2="136.8"/><line aria-label="x: 6.2; y: 2; x2: 3.8; y2: 2" aria-roledescription="rule mark" role="graphics-symbol" stroke="#ffbe73" stroke-dasharray="4,4" stroke-width="2" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:rgb(255, 190, 115);stroke-width:2px' transform="translate(319.82665649414065,294.9090770374645)" x2="-124.32000000000005" y2="0"/><line aria-label="x: 2; y: 3.2; x2: 2; y2: 6.8" aria-roledescription="rule mark" role="graphics-symbol" stroke="#ffbe73" stroke-dasharray="4,4" stroke-width="2" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:rgb(255, 190, 115);stroke-width:2px' transform="translate(102.26665649414062,249.3090770374645)" x2="0" y2="-136.8"/></g><g aria-roledescription="symbol mark container" class="mark-symbol role-mark layer_2_marks" clip-path="url(#clip3)" pointer-events="none" role="graphics-object" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><path aria-label="x: 6.2; y: 8; angle: 90" aria-roledescription="point" d="M0,-6.325L-5.477,3.162L5.477,3.162Z" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" style=';color:rgb(0, 0, 0);fill:rgb(97, 142, 255);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:rgb(39, 41, 48);stroke-width:2px' transform="translate(319.82665649414065,66.90907703746451) rotate(90)"/><path aria-label="x: 8; y: 3.2; angle: 180" aria-roledescription="point" d="M0,-6.325L-5.477,3.162L5.477,3.162Z" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" style=';color:rgb(0, 0, 0);fill:rgb(97, 142, 255);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:rgb(39, 41, 48);stroke-width:2px' transform="translate(413.0666564941406,249.3090770374645) rotate(180)"/><path aria-label="x: 3.8; y: 2; angle: 270" aria-roledescription="point" d="M0,-6.325L-5.477,3.162L5.477,3.162Z" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" style=';color:rgb(0, 0, 0);fill:rgb(97, 142, 255);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:rgb(39, 41, 48);stroke-width:2px' transform="translate(195.5066564941406,294.9090770374645) rotate(270)"/><path aria-label="x: 2; y: 6.8; angle: 0" aria-roledescription="point" d="M0,-6.325L-5.477,3.162L5.477,3.162Z" fill="#618eff" opacity="1" role="graphics-symbol" stroke="#272930" stroke-width="2" style=';color:rgb(0, 0, 0);fill:rgb(97, 142, 255);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:rgb(39, 41, 48);stroke-width:2px' transform="translate(102.26665649414062,112.50907703746451)"/></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_3_marks" clip-path="url(#clip4)" pointer-events="none" role="graphics-object" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><text aria-label="x: 2; y: 8; step: 1. Gravity Feed" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" style=';color:rgb(0, 0, 0);fill:rgb(173, 175, 184);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:13px;font-weight:700;opacity:0;stroke:none;stroke-width:1px' text-anchor="start" transform="translate(0,0)">1. Gravity Feed</text><text aria-label="x: 8; y: 8; step: 2. Rotation &amp; Capture" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" style=';color:rgb(0, 0, 0);fill:rgb(173, 175, 184);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:13px;font-weight:700;opacity:0;stroke:none;stroke-width:1px' text-anchor="start" transform="translate(0,0)">2. Rotation &amp; Capture</text><text aria-label="x: 8; y: 2; step: 3. Mechanical Block" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" style=';color:rgb(0, 0, 0);fill:rgb(173, 175, 184);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:13px;font-weight:700;opacity:0;stroke:none;stroke-width:1px' text-anchor="start" transform="translate(0,0)">3. Mechanical Block</text><text aria-label="x: 2; y: 2; step: 4. Gravity Release/Drop" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="13px" font-weight="bold" opacity="0" role="graphics-symbol" style=';color:rgb(0, 0, 0);fill:rgb(173, 175, 184);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:13px;font-weight:700;opacity:0;stroke:none;stroke-width:1px' text-anchor="start" transform="translate(0,0)">4. Gravity Release/Drop</text></g><g aria-roledescription="text mark container" class="mark-text role-mark layer_4_marks" clip-path="url(#clip5)" pointer-events="none" role="graphics-object" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><text aria-label="x: 2; y: 8; desc: Item enters open slot at the top" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="0" role="graphics-symbol" style=';color:rgb(0, 0, 0);fill:rgb(173, 175, 184);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:11px;font-weight:500;opacity:0;stroke:none;stroke-width:1px' text-anchor="start" transform="translate(0,0)">Item enters open slot at the top</text><text aria-label="x: 8; y: 8; desc: Wheel turns, trapping/scooping item" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="0" role="graphics-symbol" style=';color:rgb(0, 0, 0);fill:rgb(173, 175, 184);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:11px;font-weight:500;opacity:0;stroke:none;stroke-width:1px' text-anchor="start" transform="translate(0,0)">Wheel turns, trapping/scooping item</text><text aria-label="x: 8; y: 2; desc: System isolates the item" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="0" role="graphics-symbol" style=';color:rgb(0, 0, 0);fill:rgb(173, 175, 184);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:11px;font-weight:500;opacity:0;stroke:none;stroke-width:1px' text-anchor="start" transform="translate(0,0)">System isolates the item</text><text aria-label="x: 2; y: 2; desc: Item falls out at output point" aria-roledescription="text mark" fill="#ADAFB8" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="500" opacity="0" role="graphics-symbol" style=';color:rgb(0, 0, 0);fill:rgb(173, 175, 184);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:11px;font-weight:500;opacity:0;stroke:none;stroke-width:1px' text-anchor="start" transform="translate(0,0)">Item falls out at output point</text></g></g><path aria-hidden="true" class="foreground" d="" display="none" style=';color:rgb(0, 0, 0);fill:none;font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'/></g></g></g><defs style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><clipPath id="clip1" style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><rect height="380" style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px' width="518" x="0" y="0"/></clipPath><clipPath id="clip2" style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><rect height="380" style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px' width="518" x="0" y="0"/></clipPath><clipPath id="clip3" style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><rect height="380" style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px' width="518" x="0" y="0"/></clipPath><clipPath id="clip4" style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><rect height="380" style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px' width="518" x="0" y="0"/></clipPath><clipPath id="clip5" style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px'><rect height="380" style=';color:rgb(0, 0, 0);fill:rgb(0, 0, 0);font-family:"Google Sans", Roboto, Arial, sans-serif;font-size:16px;font-weight:400;opacity:1;stroke:none;stroke-width:1px' width="518" x="0" y="0"/></clipPath></defs></svg>

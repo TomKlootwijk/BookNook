@@ -1,0 +1,332 @@
+{
+  "at": "2026-10-15T18:51:50.388981+00:00",
+  "date": "2026-10-15",
+  "batchId": "2026-10-15-more",
+  "openAiModeTabs": 211,
+  "uniqueOpenConversations": 203,
+  "historyConversations": 300,
+  "method": "Compared 211 open AI Mode tabs (203 unique conversations) and all 300 visible history entries with the existing archive. Captured 29 new conversations. Original source diagrams and generated images were exported; animations are static snapshots. Longer captures are retained when a reopening returns fewer turns.",
+  "records": [
+    {
+      "ordinal": 679,
+      "tabId": "history-PB3Rasb_G63l7_UPko6ewQE",
+      "title": "Streamlining Processes",
+      "status": "added",
+      "counts": {
+        "prompts": 20,
+        "responses": 20
+      }
+    },
+    {
+      "ordinal": 680,
+      "tabId": "history-_hnRarT7I6Sfi-gPp76Y2Aw",
+      "title": "Eliminatie van TV Spel",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 681,
+      "tabId": "history-qxXRapvyApj0i-gPzpiA4Ak",
+      "title": "Grabbelton",
+      "status": "added",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      }
+    },
+    {
+      "ordinal": 682,
+      "tabId": "history-RRHRaoDCPPD0i-gP6ePPqQg",
+      "title": "AI Stocks",
+      "status": "added",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      }
+    },
+    {
+      "ordinal": 683,
+      "tabId": "history-kBDRau9LzMmL6A-c-tuZCg",
+      "title": "Grabbelton",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 684,
+      "tabId": "history-TPDQavXeCaqCi-gPyv_90A0",
+      "title": "Feels Like a Test",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 685,
+      "tabId": "history-3e7QaqnNHNDYi-gP9fuGqAQ",
+      "title": "Helm Lionheart Archeon Geometric",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 686,
+      "tabId": "history-JOvQau6kM6vh7_UPlLi2sAE",
+      "title": "Atomische Klok",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 687,
+      "tabId": "history-ZOLQauPqEcuN9u8PpN3bgAg",
+      "title": "Six Degrees of Separation",
+      "status": "added",
+      "counts": {
+        "prompts": 20,
+        "responses": 20
+      }
+    },
+    {
+      "ordinal": 688,
+      "tabId": "history-Y-nQaryoM4qP9u8P3L_10Q8",
+      "title": "Inhibition and Exhibition",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 689,
+      "tabId": "history-lubQapvaKo3m7_UPy8mnoQw",
+      "title": "Saturn and Neptune Connection",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 690,
+      "tabId": "history-GebQavuhBLTg7_UP976Z0Q0",
+      "title": "Heemskerk Anagrams",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 691,
+      "tabId": "history-OOPQarO8L5iD9u8PqoT4yAc",
+      "title": "Minesweeper XOR Red Flags",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 692,
+      "tabId": "history-09_QarHxBNDYi-gP9fuGqAQ",
+      "title": "Page Faults Breakpoints Databases COBOL",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 693,
+      "tabId": "history-Xd7Qaq7VAb6D9u8P_bfYkAM",
+      "title": "Snoepdispenser Draaien Aan Knoppen",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 694,
+      "tabId": "history-DtTQaqScGdW1i-gPy_mwsA4",
+      "title": "Vier Preparaten en Concepten",
+      "status": "added",
+      "counts": {
+        "prompts": 17,
+        "responses": 17
+      }
+    },
+    {
+      "ordinal": 695,
+      "tabId": "history-3tXQasa6CqaB9u8P6aTv4QM",
+      "title": "Artsen Zonder Grenzen Tweedehands Spullen",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 696,
+      "tabId": "history-Oc_QapuoCpSD9u8P8Z7P6Qs",
+      "title": "Manger Anagrams",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 697,
+      "tabId": "history-x8vQasTML4rIi-gP58CwqAs",
+      "title": "Spartelen Tegen Obsessief Compulsief",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 698,
+      "tabId": "history-28rQaprsDPjZi-gP2cHfwAU",
+      "title": "King of the Hill Mode",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 699,
+      "tabId": "history-kJbQapL9NPSui-gPnqCe4Qw",
+      "title": "Overwhelming Thoughts Support",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 700,
+      "tabId": "history-45XQavj6AvL7i-gPvMO00AE",
+      "title": "Door Het Oog Van De Speldenknoop",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 701,
+      "tabId": "history-CZPQar3CNMHp7_UPzObVUA",
+      "title": "Genealogie 4e Generatie DNA",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 702,
+      "tabId": "history-hJDQarCgGbXh7_UP_8nRkQk",
+      "title": "Sinai Vector Flowfield Particles",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 703,
+      "tabId": "history-dYnQarbqGeCAi-gP0sS0yAw",
+      "title": "The Blacklist Favoriete Serie",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 704,
+      "tabId": "history-j4bQas7uAu3o7_UP_vKtoQc",
+      "title": "Elizabeth II's Heir Selection",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 705,
+      "tabId": "history-voPQapzyLsOri-gPoaza-Qs",
+      "title": "Middelpunt En Focaal Brandpunt",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 706,
+      "tabId": "history-eH_Qaq3_IPaA9u8P3_6ZoAU",
+      "title": "Raymond Paddington Street Wear",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 707,
+      "tabId": "history-Qn7QatHSHf-O9u8PyryMgQI",
+      "title": "Father Cap",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    }
+  ],
+  "newOrdinals": [
+    679,
+    680,
+    681,
+    682,
+    683,
+    684,
+    685,
+    686,
+    687,
+    688,
+    689,
+    690,
+    691,
+    692,
+    693,
+    694,
+    695,
+    696,
+    697,
+    698,
+    699,
+    700,
+    701,
+    702,
+    703,
+    704,
+    705,
+    706,
+    707
+  ]
+}

@@ -1,0 +1,2036 @@
+[
+  {
+    "background": "rgb(34, 36, 42)",
+    "canvases": 0,
+    "styles": [
+      "#vg-tooltip-element {\n  visibility: hidden;\n  padding: 8px;\n  position: fixed;\n  z-index: 1000;\n  font-family: sans-serif;\n  font-size: 11px;\n  border-radius: 3px;\n  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);\n  /* The default theme is the light theme. */\n  background-color: rgba(255, 255, 255, 0.95);\n  border: 1px solid #d9d9d9;\n  color: black;\n}\n#vg-tooltip-element.visible {\n  visibility: visible;\n}\n#vg-tooltip-element h2 {\n  margin-top: 0;\n  margin-bottom: 10px;\n  font-size: 13px;\n}\n#vg-tooltip-element table {\n  border-spacing: 0;\n}\n#vg-tooltip-element table tr {\n  border: none;\n}\n#vg-tooltip-element table tr td {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  padding-top: 2px;\n  padding-bottom: 2px;\n}\n#vg-tooltip-element table tr td.key {\n  color: #808080;\n  max-width: 150px;\n  text-align: right;\n  padding-right: 4px;\n}\n#vg-tooltip-element table tr td.value {\n  display: block;\n  max-width: 300px;\n  max-height: 7em;\n  text-align: left;\n}\n#vg-tooltip-element.dark-theme {\n  background-color: rgba(32, 32, 32, 0.9);\n  border: 1px solid #f5f5f5;\n  color: white;\n}\n#vg-tooltip-element.dark-theme td.key {\n  color: #bfbfbf;\n}\n",
+      "\n      \n      /* SDS utility classes are not available within the SafeContentFrame iframe. */\n      html, body {\n        height: 100%;\n        width: 100%;\n        margin: 0;\n        overflow: hidden;\n      }\n      body {\n        background-color: #22242a;\n      }\n      #vis {\n        height: 100% !important;\n        width: 100% !important;\n        border-radius: 16px;\n        overflow: hidden;\n        touch-action: none;\n      }\n      \n      #vg-tooltip-element.vg-tooltip.aim-theme {\n        background-color: #25262ECC !important;\n        border: 1px solid #2D2F35CC !important;\n        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;\n        color: #E6E8F0 !important;\n      }\n      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {\n        color: #E6E8F0 !important;\n      }\n      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {\n        color: #ADAFB8 !important;\n        text-align: start !important;\n      }\n    ",
+      "\n  html, body {\n    height: 100%;\n    margin: 0;\n    overflow: hidden;\n    font-family: \"Google Sans\", Roboto, Arial, sans-serif;\n  }\n  .chart-container-wrapper {\n    display: flex;\n    flex-direction: column;\n    height: 100%;\n    width: 100%;\n    box-sizing: border-box;\n    border-radius: 16px;\n    overflow: hidden;\n  }\n  .chart-header {\n    padding: 16px 16px 0 16px;\n    flex-shrink: 0;\n  }\n  .chart-header:empty {\n    display: none;\n  }\n  #vis-wrapper {\n    position: relative;\n    width: 100%;\n    flex-grow: 1;\n    min-height: 0;\n  }\n  #vis {\n    height: 100%;\n    width: 100%;\n  }\n",
+      ".vega-embed {\n  position: relative;\n  display: inline-block;\n  box-sizing: border-box;\n}\n.vega-embed.has-actions {\n  padding-right: 38px;\n}\n.vega-embed details:not([open]) > :not(summary) {\n  display: none !important;\n}\n.vega-embed summary {\n  list-style: none;\n  position: absolute;\n  top: 0;\n  right: 0;\n  padding: 6px;\n  z-index: 1000;\n  background: white;\n  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);\n  color: #1b1e23;\n  border: 1px solid #aaa;\n  border-radius: 999px;\n  opacity: 0.2;\n  transition: opacity 0.4s ease-in;\n  cursor: pointer;\n  line-height: 0px;\n}\n.vega-embed summary::-webkit-details-marker {\n  display: none;\n}\n.vega-embed summary:active {\n  box-shadow: #aaa 0px 0px 0px 1px inset;\n}\n.vega-embed summary svg {\n  width: 14px;\n  height: 14px;\n}\n.vega-embed details[open] summary {\n  opacity: 0.7;\n}\n.vega-embed:hover summary, .vega-embed:focus-within summary {\n  opacity: 1 !important;\n  transition: opacity 0.2s ease;\n}\n.vega-embed .vega-actions {\n  position: absolute;\n  z-index: 1001;\n  top: 35px;\n  right: -9px;\n  display: flex;\n  flex-direction: column;\n  padding-bottom: 8px;\n  padding-top: 8px;\n  border-radius: 4px;\n  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);\n  border: 1px solid #d9d9d9;\n  background: white;\n  animation-duration: 0.15s;\n  animation-name: scale-in;\n  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);\n  text-align: left;\n}\n.vega-embed .vega-actions a {\n  padding: 8px 16px;\n  font-family: sans-serif;\n  font-size: 14px;\n  font-weight: 600;\n  white-space: nowrap;\n  color: #434a56;\n  text-decoration: none;\n}\n.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {\n  background-color: #f7f7f9;\n  color: black;\n}\n.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {\n  content: \"\";\n  display: inline-block;\n  position: absolute;\n}\n.vega-embed .vega-actions::before {\n  left: auto;\n  right: 14px;\n  top: -16px;\n  border: 8px solid rgba(0, 0, 0, 0);\n  border-bottom-color: #d9d9d9;\n}\n.vega-embed .vega-actions::after {\n  left: auto;\n  right: 15px;\n  top: -14px;\n  border: 7px solid rgba(0, 0, 0, 0);\n  border-bottom-color: #fff;\n}\n.vega-embed .chart-wrapper.fit-x {\n  width: 100%;\n}\n.vega-embed .chart-wrapper.fit-y {\n  height: 100%;\n}\n\n.vega-embed-wrapper {\n  max-width: 100%;\n  overflow: auto;\n  padding-right: 14px;\n}\n\n@keyframes scale-in {\n  from {\n    opacity: 0;\n    transform: scale(0.6);\n  }\n  to {\n    opacity: 1;\n    transform: scale(1);\n  }\n}\n"
+    ],
+    "svgs": [
+      {
+        "background": "rgb(39, 41, 48)",
+        "chunks": [
+          "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" class=\"marks\" width=\"550\" height=\"412\" viewBox=\"0 0 550 412\" style=\"background-color: rgb(39, 41, 48);\"><g fill=\"none\" stroke-miterlimit=\"10\" transform=\"translate(16,16)\"><g class=\"mark-group role-frame root\" role=\"graphics-object\" aria-roledescription=\"group mark container\"><g transform=\"translate(0,0)\"><path class=\"background\" aria-hidden=\"true\" d=\"M0,0h518v380h-518Z\" fill=\"transparent\"></path><g><g class=\"mark-rect role-mark view_1_marks\" role=\"graphics-object\" aria-roledescription=\"rect mark container\" clip-path=\"url(#clip1)\"><path aria-label=\"x1: 0.5; y1: 7; x2: 3.5; y2: 9\" role=\"graphics-symbol\" aria-roledescription=\"rect mark\" d=\"M30.566656494140624,28.90907703746452L173.9666564941406,28.90907703746452C177.2781466411046,28.90907703746452,179.9666564941406,31.59758689050052,179.9666564941406,34.90907703746452L179.9666564941406,98.9090770374645C179.9666564941406,102.2205671844285,177.2781466411046,104.9090770374645,173.9666564941406,104.9090770374645L30.566656494140624,104.9090770374645C27.255166347176623,104.9090770374645,24.566656494140624,102.2205671844285,24.566656494140624,98.9090770374645L24.566656494140624,34.90907703746452C24.566656494140624,31.59758689050052,27.255166347176623,28.90907703746452,30.566656494140624,28.90907703746452Z\" fill=\"#618eff\" fill-opacity=\"0.05\" stroke-width=\"1.5\"></path><path aria-label=\"x1: 6.5; y1: 7; x2: 9.5; y2: 9\" role=\"graphics-symbol\" aria-roledescription=\"rect mark\" d=\"M341.36665649414067,28.90907703746452L484.7666564941406,28.90907703746452C488.0781466411046,28.90907703746452,490.7666564941406,31.59758689050052,490.7666564941406,34.90907703746452L490.7666564941406,98.9090770374645C490.7666564941406,102.2205671844285,488.0781466411046,104.9090770374645,484.7666564941406,104.9090770374645L341.36665649414067,104.9090770374645C338.0551663471767,104.9090770374645,335.36665649414067,102.2205671844285,335.36665649414067,98.9090770374645L335.36665649414067,34.90907703746452C335.36665649414067,31.59758689050052,338.0551663471767,28.90907703746452,341.36665649414067,28.90907703746452Z\" fill=\"#618eff\" fill-opacity=\"0.05\" stroke-width=\"1.5\"></path><path aria-label=\"x1: 6.5; y1: 1; x2: 9.5; y2: 3\" role=\"graphics-symbol\" aria-roledescription=\"rect mark\" d=\"M341.36665649414067,256.9090770374645L484.7666564941406,256.9090770374645C488.0781466411046,256.9090770374645,490.7666564941406,259.5975868905005,490.7666564941406,262.9090770374645L490.7666564941406,326.9090770374645C490.7666564941406,330.2205671844285,488.0781466411046,332.9090770374645,484.7666564941406,332.9090770374645L341.36665649414067,332.9090770374645C338.0551663471767,332.9090770374645,335.36665649414067,330.2205671844285,335.36665649414067,326.9090770374645L335.36665649414067,262.9090770374645C335.36665649414067,259.5975868905005,338.0551663471767,256.9090770374645,341.36665649414067,256.9090770374645Z\" fill=\"#618eff\" fill-opacity=\"0.05\" stroke-width=\"1.5\"></path><path aria-label=\"x1: 0.5; y1: 1; x2: 3.5; y2: 3\" role=\"graphics-symbol\" aria-roledescription=\"rect mark\" d=\"M30.566656494140624,256.9090770374645L173.9666564941406,256.9090770374645C177.2781466411046,256.9090770374645,179.9666564941406,259.5975868905005,179.9666564941406,262.9090770374645L179.9666564941406,326.9090770374645C179.9666564941406,330.2205671844285,177.2781466411046,332.9090770374645,173.9666564941406,332.9090770374645L30.566656494140624,332.9090770374645C27.255166347176623,332.9090770374645,24.566656494140624,330.2205671844285,24.566656494140624,326.9090770374645L24.566656494140624,262.9090770374645C24.566656494140624,259.5975868905005,27.255166347176623,256.9090770374645,30.566656494140624,256.9090770374645Z\" fill=\"#618eff\" fill-opacity=\"0.05\" stroke-width=\"1.5\"></path></g><g class=\"mark-rule role-mark layer_1_marks\" role=\"graphics-object\" aria-roledescription=\"rule mark container\" pointer-events=\"none\" clip-path=\"url(#clip2)\"><line aria-label=\"x: 3.8; y: 8; x2: 6.2; y2: 8\" role=\"graphics-symbol\" aria-roledescription=\"rule mark\" transform=\"translate(195.5066564941406,66.90907703746451)\" x2=\"124.32000000000005\" y2=\"0\" stroke=\"#ffbe73\" stroke-width=\"2\" stroke-dasharray=\"4,4\"></line><line aria-label=\"x: 8; y: 6.8; x2: 8; y2: 3.2\" role=\"graphics-symbol\" aria-roledescription=\"rule mark\" transform=\"translate(413.0666564941406,112.50907703746451)\" x2=\"0\" y2=\"136.8\" stroke=\"#ffbe73\" stroke-width=\"2\" stroke-dasharray=\"4,4\"></line><line aria-label=\"x: 6.2; y: 2; x2: 3.8; y2: 2\" role=\"graphics-symbol\" aria-roledescription=\"rule mark\" transform=\"translate(319.82665649414065,294.9090770374645)\" x2=\"-124.32000000000005\" y2=\"0\" stroke=\"#ffbe73\" stroke-width=\"2\" stroke-dasharray=\"4,4\"></line><line aria-label=\"x: 2; y: 3.2; x2: 2; y2: 6.8\" role=\"graphics-symbol\" aria-roledescription=\"rule mark\" transform=\"translate(102.26665649414062,249.3090770374645)\" x2=\"0\" y2=\"-136.8\" stroke=\"#ffbe73\" stroke-width=\"2\" stroke-dasharray=\"4,4\"></line></g><g class=\"mark-symbol role-mark layer_2_marks\" role=\"graphics-object\" aria-roledescription=\"symbol mark container\" pointer-events=\"none\" clip-path=\"url(#clip3)\"><path aria-label=\"x: 6.2; y: 8; angle: 90\" role=\"graphics-symbol\" aria-roledescription=\"point\" transform=\"translate(319.82665649414065,66.90907703746451) rotate(90)\" d=\"M0,-6.325L-5.477,3.162L5.477,3.162Z\" fill=\"#618eff\" stroke=\"#272930\" stroke-width=\"2\" opacity=\"1\"></path><path aria-label=\"x: 8; y: 3.2; angle: 180\" role=\"graphics-symbol\" aria-roledescription=\"point\" transform=\"translate(413.0666564941406,249.3090770374645) rotate(180)\" d=\"M0,-6.325L-5.477,3.162L5.477,3.162Z\" fill=\"#618eff\" stroke=\"#272930\" stroke-width=\"2\" opacity=\"1\"></path><path aria-label=\"x: 3.8; y: 2; angle: 270\" role=\"graphics-symbol\" aria-roledescription=\"point\" transform=\"translate(195.5066564941406,294.9090770374645) rotate(270)\" d=\"M0,-6.325L-5.477,3.162L5.477,3.162Z\" fill=\"#618eff\" stroke=\"#272930\" stroke-width=\"2\" opacity=\"1\"></path><path aria-label=\"x: 2; y: 6.8; angle: 0\" role=\"graphics-symbol\" aria-roledescription=\"point\" transform=\"translate(102.26665649414062,112.50907703746451)\" d=\"M0,-6.325L-5.477,3.162L5.477,3.162Z\" fill=\"#618eff\" stroke=\"#272930\" stroke-width=\"2\" opacity=\"1\"></path></g><g class=\"mark-text role-mark layer_3_marks\" role=\"graphics-object\" aria-roledescription=\"text mark container\" pointer-events=\"none\" clip-path=\"url(#clip4)\"><text aria-label=\"x: 2; y: 8; step: 1. Gravity Feed\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"start\" transform=\"translate(0,0)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"13px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"0\">1. Gravity Feed</text><text aria-label=\"x: 8; y: 8; step: 2. Rotation &amp; Capture\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"start\" transform=\"translate(0,0)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"13px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"0\">2. Rotation &amp; Capture</text><text aria-label=\"x: 8; y: 2; step: 3. Mechanical Block\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"start\" transform=\"translate(0,0)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"13px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"0\">3. Mechanical Block</text><text aria-label=\"x: 2; y: 2; step: 4. Gravity Release/Drop\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"start\" transform=\"translate(0,0)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"13px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"0\">4. Gravity Release/Drop</text></g><g class=\"mark-text role-mark layer_4_marks\" role=\"graphics-object\" aria-roledescription=\"text mark container\" pointer-events=\"none\" clip-path=\"url(#clip5)\"><text aria-label=\"x: 2; y: 8; desc: Item enters open slot at the top\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"start\" transform=\"translate(0,0)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"11px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">Item enters open slot at the top</text><text aria-label=\"x: 8; y: 8; desc: Wheel turns, trapping/scooping item\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"start\" transform=\"translate(0,0)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"11px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">Wheel turns, trapping/scooping item</text><text aria-label=\"x: 8; y: 2; desc: System isolates the item\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"start\" transform=\"translate(0,0)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"11px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">System isolates the item</text><text aria-label=\"x: 2; y: 2; desc: Item falls out at output point\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"start\" transform=\"translate(0,0)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"11px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">Item falls out at output point</text></g></g><path class=\"foreground\" aria-hidden=\"true\" d=\"\" display=\"none\"></path></g></g></g><defs><clipPath id=\"clip1\"><rect x=\"0\" y=\"0\" width=\"518\" height=\"380\"></rect></clipPath><clipPath id=\"clip2\"><rect x=\"0\" y=\"0\" width=\"518\" height=\"380\"></rect></clipPath><clipPath id=\"clip3\"><rect x=\"0\" y=\"0\" width=\"518\" height=\"380\"></rect></clipPath><clipPath id=\"clip4\"><rect x=\"0\" y=\"0\" width=\"518\" height=\"380\"></rect></clipPath><clipPath id=\"clip5\"><rect x=\"0\" y=\"0\" width=\"518\" height=\"380\"></rect></clipPath></defs></svg>"
+        ],
+        "computedStyles": [
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1.5px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1.5px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1.5px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1.5px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(255, 190, 115)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(255, 190, 115)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(255, 190, 115)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(255, 190, 115)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(39, 41, 48)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(39, 41, 48)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(39, 41, 48)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(39, 41, 48)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          }
+        ]
+      }
+    ],
+    "text": "Continuous Mechanical Cycle of a Rotating Bucket System\n1. Gravity Feed\n2. Rotation & Capture\n3. Mechanical Block\n4. Gravity Release/Drop\nItem enters open slot at the top\nWheel turns, trapping/scooping item\nSystem isolates the item\nItem falls out at output point",
+    "response": 3
+  },
+  {
+    "background": "rgb(34, 36, 42)",
+    "canvases": 0,
+    "styles": [
+      "#vg-tooltip-element {\n  visibility: hidden;\n  padding: 8px;\n  position: fixed;\n  z-index: 1000;\n  font-family: sans-serif;\n  font-size: 11px;\n  border-radius: 3px;\n  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);\n  /* The default theme is the light theme. */\n  background-color: rgba(255, 255, 255, 0.95);\n  border: 1px solid #d9d9d9;\n  color: black;\n}\n#vg-tooltip-element.visible {\n  visibility: visible;\n}\n#vg-tooltip-element h2 {\n  margin-top: 0;\n  margin-bottom: 10px;\n  font-size: 13px;\n}\n#vg-tooltip-element table {\n  border-spacing: 0;\n}\n#vg-tooltip-element table tr {\n  border: none;\n}\n#vg-tooltip-element table tr td {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  padding-top: 2px;\n  padding-bottom: 2px;\n}\n#vg-tooltip-element table tr td.key {\n  color: #808080;\n  max-width: 150px;\n  text-align: right;\n  padding-right: 4px;\n}\n#vg-tooltip-element table tr td.value {\n  display: block;\n  max-width: 300px;\n  max-height: 7em;\n  text-align: left;\n}\n#vg-tooltip-element.dark-theme {\n  background-color: rgba(32, 32, 32, 0.9);\n  border: 1px solid #f5f5f5;\n  color: white;\n}\n#vg-tooltip-element.dark-theme td.key {\n  color: #bfbfbf;\n}\n",
+      "\n      \n      /* SDS utility classes are not available within the SafeContentFrame iframe. */\n      html, body {\n        height: 100%;\n        width: 100%;\n        margin: 0;\n        overflow: hidden;\n      }\n      body {\n        background-color: #22242a;\n      }\n      #vis {\n        height: 100% !important;\n        width: 100% !important;\n        border-radius: 16px;\n        overflow: hidden;\n        touch-action: none;\n      }\n      \n      #vg-tooltip-element.vg-tooltip.aim-theme {\n        background-color: #25262ECC !important;\n        border: 1px solid #2D2F35CC !important;\n        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;\n        color: #E6E8F0 !important;\n      }\n      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {\n        color: #E6E8F0 !important;\n      }\n      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {\n        color: #ADAFB8 !important;\n        text-align: start !important;\n      }\n    ",
+      "\n  html, body {\n    height: 100%;\n    margin: 0;\n    overflow: hidden;\n    font-family: \"Google Sans\", Roboto, Arial, sans-serif;\n  }\n  .chart-container-wrapper {\n    display: flex;\n    flex-direction: column;\n    height: 100%;\n    width: 100%;\n    box-sizing: border-box;\n    border-radius: 16px;\n    overflow: hidden;\n  }\n  .chart-header {\n    padding: 16px 16px 0 16px;\n    flex-shrink: 0;\n  }\n  .chart-header:empty {\n    display: none;\n  }\n  #vis-wrapper {\n    position: relative;\n    width: 100%;\n    flex-grow: 1;\n    min-height: 0;\n  }\n  #vis {\n    height: 100%;\n    width: 100%;\n  }\n",
+      ".vega-embed {\n  position: relative;\n  display: inline-block;\n  box-sizing: border-box;\n}\n.vega-embed.has-actions {\n  padding-right: 38px;\n}\n.vega-embed details:not([open]) > :not(summary) {\n  display: none !important;\n}\n.vega-embed summary {\n  list-style: none;\n  position: absolute;\n  top: 0;\n  right: 0;\n  padding: 6px;\n  z-index: 1000;\n  background: white;\n  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);\n  color: #1b1e23;\n  border: 1px solid #aaa;\n  border-radius: 999px;\n  opacity: 0.2;\n  transition: opacity 0.4s ease-in;\n  cursor: pointer;\n  line-height: 0px;\n}\n.vega-embed summary::-webkit-details-marker {\n  display: none;\n}\n.vega-embed summary:active {\n  box-shadow: #aaa 0px 0px 0px 1px inset;\n}\n.vega-embed summary svg {\n  width: 14px;\n  height: 14px;\n}\n.vega-embed details[open] summary {\n  opacity: 0.7;\n}\n.vega-embed:hover summary, .vega-embed:focus-within summary {\n  opacity: 1 !important;\n  transition: opacity 0.2s ease;\n}\n.vega-embed .vega-actions {\n  position: absolute;\n  z-index: 1001;\n  top: 35px;\n  right: -9px;\n  display: flex;\n  flex-direction: column;\n  padding-bottom: 8px;\n  padding-top: 8px;\n  border-radius: 4px;\n  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);\n  border: 1px solid #d9d9d9;\n  background: white;\n  animation-duration: 0.15s;\n  animation-name: scale-in;\n  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);\n  text-align: left;\n}\n.vega-embed .vega-actions a {\n  padding: 8px 16px;\n  font-family: sans-serif;\n  font-size: 14px;\n  font-weight: 600;\n  white-space: nowrap;\n  color: #434a56;\n  text-decoration: none;\n}\n.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {\n  background-color: #f7f7f9;\n  color: black;\n}\n.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {\n  content: \"\";\n  display: inline-block;\n  position: absolute;\n}\n.vega-embed .vega-actions::before {\n  left: auto;\n  right: 14px;\n  top: -16px;\n  border: 8px solid rgba(0, 0, 0, 0);\n  border-bottom-color: #d9d9d9;\n}\n.vega-embed .vega-actions::after {\n  left: auto;\n  right: 15px;\n  top: -14px;\n  border: 7px solid rgba(0, 0, 0, 0);\n  border-bottom-color: #fff;\n}\n.vega-embed .chart-wrapper.fit-x {\n  width: 100%;\n}\n.vega-embed .chart-wrapper.fit-y {\n  height: 100%;\n}\n\n.vega-embed-wrapper {\n  max-width: 100%;\n  overflow: auto;\n  padding-right: 14px;\n}\n\n@keyframes scale-in {\n  from {\n    opacity: 0;\n    transform: scale(0.6);\n  }\n  to {\n    opacity: 1;\n    transform: scale(1);\n  }\n}\n"
+    ],
+    "svgs": [
+      {
+        "background": "rgb(39, 41, 48)",
+        "chunks": [
+          "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" class=\"marks\" width=\"450\" height=\"389\" viewBox=\"0 0 450 389\" style=\"background-color: rgb(39, 41, 48);\"><g fill=\"none\" stroke-miterlimit=\"10\" transform=\"translate(58,21)\"><g class=\"mark-group role-frame root\" role=\"graphics-object\" aria-roledescription=\"group mark container\"><g transform=\"translate(0,0)\"><path class=\"background\" aria-hidden=\"true\" d=\"M0,0h375v293h-375Z\" fill=\"transparent\"></path><g><g class=\"mark-group role-axis\" aria-hidden=\"true\"><g transform=\"translate(0.5,293.5)\"><path class=\"background\" aria-hidden=\"true\" d=\"M0,0h0v0h0Z\" pointer-events=\"none\"></path><g><g class=\"mark-rule role-axis-grid\" pointer-events=\"none\"><line transform=\"translate(0,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(27,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(54,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(80,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(107,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(134,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(161,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(188,-293)\" x2=\"0\" y2=\"293\" stroke=\"#747B8C\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(214,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(241,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(268,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(295,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(321,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(348,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(375,-293)\" x2=\"0\" y2=\"293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line></g></g><path class=\"foreground\" aria-hidden=\"true\" d=\"\" pointer-events=\"none\" display=\"none\"></path></g></g><g class=\"mark-group role-axis\" aria-hidden=\"true\"><g transform=\"translate(0.5,0.5)\"><path class=\"background\" aria-hidden=\"true\" d=\"M0,0h0v0h0Z\" pointer-events=\"none\"></path><g><g class=\"mark-rule role-axis-grid\" pointer-events=\"none\"><line transform=\"translate(0,251)\" x2=\"375\" y2=\"0\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(0,147)\" x2=\"375\" y2=\"0\" stroke=\"#747B8C\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(0,42)\" x2=\"375\" y2=\"0\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(0,199)\" x2=\"375\" y2=\"0\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(0,94)\" x2=\"375\" y2=\"0\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line></g></g><path class=\"foreground\" aria-hidden=\"true\" d=\"\" pointer-events=\"none\" display=\"none\"></path></g></g><g class=\"mark-group role-axis\" role=\"graphics-symbol\" aria-roledescription=\"axis\" aria-label=\"X-axis titled 'X Coördinaat' for a linear scale with values from −1.4 to 1.4\"><g transform=\"translate(0.5,293.5)\"><path class=\"background\" aria-hidden=\"true\" d=\"M0,0h0v0h0Z\" pointer-events=\"none\"></path><g><g class=\"mark-rule role-axis-tick\" pointer-events=\"none\"><line transform=\"translate(0,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(27,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(54,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(80,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(107,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(134,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(161,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(188,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(214,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(241,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(268,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(295,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(321,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(348,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(375,0)\" x2=\"0\" y2=\"5\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line></g><g class=\"mark-text role-axis-label\" pointer-events=\"none\"><text text-anchor=\"start\" transform=\"translate(0,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">−1.4</text><text text-anchor=\"middle\" transform=\"translate(26.785714285714278,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">−1.2</text><text text-anchor=\"middle\" transform=\"translate(53.571428571428555,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">−1.0</text><text text-anchor=\"middle\" transform=\"translate(80.35714285714285,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">−0.8</text><text text-anchor=\"middle\" transform=\"translate(107.14285714285714,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">−0.6</text><text text-anchor=\"middle\" transform=\"translate(133.92857142857144,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">−0.4</text><text text-anchor=\"middle\" transform=\"translate(160.71428571428572,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">−0.2</text><text text-anchor=\"middle\" transform=\"translate(187.5,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">0.0</text><text text-anchor=\"middle\" transform=\"translate(214.28571428571428,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">0.2</text><text text-anchor=\"middle\" transform=\"translate(241.07142857142856,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">0.4</text><text text-anchor=\"middle\" transform=\"translate(267.8571428571429,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">0.6</text><text text-anchor=\"middle\" transform=\"translate(294.64285714285717,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">0.8</text><text text-anchor=\"middle\" transform=\"translate(321.42857142857144,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">1.0</text><text text-anchor=\"middle\" transform=\"translate(348.21428571428567,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"0\">1.2</text><text text-anchor=\"end\" transform=\"translate(375,15)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">1.4</text></g><g class=\"mark-rule role-axis-domain\" pointer-events=\"none\"><line transform=\"translate(0,0)\" x2=\"375\" y2=\"0\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line></g><g class=\"mark-text role-axis-title\" pointer-events=\"none\"><text text-anchor=\"middle\" transform=\"translate(187.5,30)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"11px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">X Coördinaat</text></g></g><path class=\"foreground\" aria-hidden=\"true\" d=\"\" pointer-events=\"none\" display=\"none\"></path></g></g><g class=\"mark-group role-axis\" role=\"graphics-symbol\" aria-roledescription=\"axis\" aria-label=\"Y-axis titled 'Y Coördinaat' for a linear scale with values from −1.4 to 1.4\"><g transform=\"translate(0.5,0.5)\"><path class=\"background\" aria-hidden=\"true\" d=\"M0,0h0v0h0Z\" pointer-events=\"none\"></path><g><g class=\"mark-rule role-axis-tick\" pointer-events=\"none\"><line transform=\"translate(0,251)\" x2=\"-5\" y2=\"0\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(0,147)\" x2=\"-5\" y2=\"0\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(0,42)\" x2=\"-5\" y2=\"0\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(0,199)\" x2=\"-5\" y2=\"0\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line><line transform=\"translate(0,94)\" x2=\"-5\" y2=\"0\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line></g><g class=\"mark-text role-axis-label\" pointer-events=\"none\"><text text-anchor=\"end\" transform=\"translate(-7,254.14285714285717)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">−1.0</text><text text-anchor=\"end\" transform=\"translate(-7,149.5)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">0.0</text><text text-anchor=\"end\" transform=\"translate(-7,44.85714285714284)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">1.0</text><text text-anchor=\"end\" transform=\"translate(-7,201.82142857142858)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">−0.5</text><text text-anchor=\"end\" transform=\"translate(-7,97.17857142857142)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"10px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">0.5</text></g><g class=\"mark-rule role-axis-domain\" pointer-events=\"none\"><line transform=\"translate(0,293)\" x2=\"0\" y2=\"-293\" stroke=\"#2D2F35\" stroke-width=\"1\" opacity=\"1\"></line></g><g class=\"mark-text role-axis-title\" pointer-events=\"none\"><text text-anchor=\"middle\" transform=\"translate(-30.7412109375,146.5) rotate(-90) translate(0,-2)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"11px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">Y Coördinaat</text></g></g><path class=\"foreground\" aria-hidden=\"true\" d=\"\" pointer-events=\"none\" display=\"none\"></path></g></g><g class=\"mark-group role-scope view_1_pathgroup\" role=\"graphics-object\" aria-roledescription=\"group mark container\"><g transform=\"translate(0,0)\"><path class=\"background\" aria-hidden=\"true\" d=\"M0,0h375v293h-375Z\"></path><g><g class=\"mark-line role-mark view_1_marks\" role=\"graphics-object\" aria-roledescription=\"line mark container\" clip-path=\"url(#clip1)\"><path aria-label=\"x: 1; y: 0; series: Hoofdtraject; order: 0\" role=\"graphics-symbol\" aria-roledescription=\"line mark\" d=\"M321.429,146.5L321.362,143.197L321.162,139.896L320.828,136.603L320.362,133.319L319.763,130.049L319.032,126.795L318.171,123.56L317.179,120.348L316.058,117.163L314.808,114.007L313.432,110.883L311.93,107.794L310.304,104.744L308.556,101.736L306.687,98.772L304.699,95.856L302.595,92.991L300.375,90.179L298.043,87.423L295.601,84.725L293.052,82.09L290.397,79.519L287.639,77.014L284.782,74.579L281.827,72.215L278.779,69.925L275.64,67.712L272.412,65.577L269.1,63.523L265.707,61.552L262.236,59.665L258.69,57.865L255.074,56.153L251.39,54.531L247.642,53.001L243.834,51.565L239.971,50.222L236.054,48.976L232.09,47.827L228.081,46.777L224.032,45.825L219.946,44.974L215.828,44.225L211.681,43.577L207.511,43.032L203.32,42.59L199.114,42.251L194.896,42.017L190.671,41.886L186.443,41.86L182.216,41.939L177.994,42.121L173.781,42.408L169.582,42.798L165.401,43.291L161.242,43.888L157.109,44.587L153.007,45.387L148.939,46.288L144.909,47.289L140.922,48.389L136.981,49.587L133.091,50.882L129.255,52.271L125.476,53.755L121.76,55.331L118.109,56.998L114.528,58.754L111.019,60.598L107.586,62.527L104.233,64.54L100.963,66.635L97.78,68.809L94.685,71.061L91.684,73.388L88.777,75.787L85.97,78.258L83.263,80.796L80.66,83.4L78.164,86.067L75.777,88.793L73.501,91.578L71.339,94.417L69.292,97.308L67.364,100.249L65.555,103.235L63.868,106.264L62.303,109.334L60.864,112.44L59.551,115.581L58.366,118.752L57.309,121.951L56.382,125.175L55.586,128.419L54.921,131.682L54.388,134.96L53.988,138.249L53.722,141.546L53.588,144.848L53.588,148.152L53.722,151.454L53.988,154.751L54.388,158.04L54.921,161.318L55.586,164.581L56.382,167.825L57.309,171.049L58.366,174.248L59.551,177.419L60.864,180.56L62.303,183.666L63.868,186.736L65.555,189.765L67.364,192.751L69.292,195.692L71.339,198.583L73.501,201.422L75.777,204.207L78.164,206.933L80.66,209.6L83.263,212.204L85.97,214.742L88.777,217.213L91.684,219.612L94.685,221.939L97.78,224.191L100.963,226.365L104.233,228.46L107.586,230.473L111.019,232.402L114.528,234.246L118.109,236.002L121.76,237.669L125.476,239.245L129.255,240.729L133.091,242.118L136.981,243.413L140.922,244.611L144.909,245.711L148.939,246.712L153.007,247.613L157.109,248.413L161.242,249.112L165.401,249.709L169.582,250.202L173.781,250.592L177.994,250.879L182.216,251.061L186.443,251.14L190.671,251.114L194.896,250.983L199.114,250.749L203.32,250.41L207.511,249.968L211.681,249.423L215.828,248.775L219.946,248.026L224.032,247.175L228.081,246.223L232.09,245.173L236.054,244.024L239.971,242.778L243.834,241.435L247.642,239.999L251.39,238.469L255.074,236.847L258.69,235.135L262.236,233.335L265.707,231.448L269.1,229.477L272.412,227.423L275.64,225.288L278.779,223.075L281.827,220.785L284.782,218.421L287.639,215.986L290.397,213.481L293.052,210.91L295.601,208.275L298.043,205.577L300.375,202.821L302.595,200.009L304.699,197.144L306.687,194.228L308.556,191.264L310.304,188.256L311.93,185.206L313.432,182.117L314.808,178.993L316.058,175.837L317.179,172.652L318.171,169.44L319.032,166.205L319.763,162.951L320.362,159.681L320.828,156.397L321.162,153.104L321.362,149.803L321.429,146.5\" stroke=\"#618eff\" stroke-width=\"3\"></path></g></g><path class=\"foreground\" aria-hidden=\"true\" d=\"\" display=\"none\"></path></g></g><g class=\"mark-text role-mark layer_1_marks\" role=\"graphics-object\" aria-roledescription=\"text mark container\" pointer-events=\"none\" clip-path=\"url(#clip2)\"><text aria-label=\"x: 0.707106781187; y: 0.707106781187; label: →\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"middle\" transform=\"translate(282.20180105176973,64.50632611155058)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"16px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"1\">→</text><text aria-label=\"x: −0.707106781187; y: 0.707106781187; label: ↑\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"middle\" transform=\"translate(92.79819894823025,64.50632611155058)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"16px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"1\">↑</text><text aria-label=\"x: −0.707106781187; y: −0.707106781187; label: ←\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"middle\" transform=\"translate(92.79819894823021,212.49367388844942)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"16px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"1\">←</text><text aria-label=\"x: 0.707106781187; y: −0.707106781187; label: ↓\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"middle\" transform=\"translate(282.20180105176973,212.49367388844945)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"16px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"1\">↓</text></g><g class=\"mark-symbol role-mark layer_2_marks\" role=\"graphics-object\" aria-roledescription=\"symbol mark container\" pointer-events=\"none\" clip-path=\"url(#clip3)\"><path aria-label=\"x: 0; y: 1; series: Operationele Fasen\" role=\"graphics-symbol\" aria-roledescription=\"point\" transform=\"translate(187.5,41.85714285714284)\" d=\"M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0\" fill=\"#618eff\" stroke=\"#272930\" stroke-width=\"2\" opacity=\"1\"></path><path aria-label=\"x: 1; y: 0; series: Operationele Fasen\" role=\"graphics-symbol\" aria-roledescription=\"point\" transform=\"translate(321.42857142857144,146.5)\" d=\"M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0\" fill=\"#618eff\" stroke=\"#272930\" stroke-width=\"2\" opacity=\"1\"></path><path aria-label=\"x: 0; y: −1; series: Operationele Fasen\" role=\"graphics-symbol\" aria-roledescription=\"point\" transform=\"translate(187.5,251.14285714285717)\" d=\"M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0\" fill=\"#618eff\" stroke=\"#272930\" stroke-width=\"2\" opacity=\"1\"></path></g><g class=\"mark-text role-mark layer_3_marks\" role=\"graphics-object\" aria-roledescription=\"text mark container\" pointer-events=\"none\" clip-path=\"url(#clip4)\"><text aria-label=\"x: 0; y: 1; text: 1. Inloop / Zwaartekrachtvoeding\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"middle\" transform=\"translate(187.5,28.85714285714284)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"12px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"1\">1. Inloop / Zwaartekrachtvoeding</text></g><g class=\"mark-text role-mark layer_4_marks\" role=\"graphics-object\" aria-roledescription=\"text mark container\" pointer-events=\"none\" clip-path=\"url(#clip5)\"><text aria-label=\"x: 1; y: 0; text: 2. Rotatie &amp; Opscheppen\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"end\" transform=\"translate(316.47882396026563,138.55025253169416)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"12px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"1\">2. Rotatie &amp; Opscheppen</text></g><g class=\"mark-text role-mark layer_5_marks\" role=\"graphics-object\" aria-roledescription=\"text mark container\" pointer-events=\"none\" clip-path=\"url(#clip6)\"><text aria-label=\"x: 0; y: −1; text: 3. Lossen / Uitloopgat\" role=\"graphics-symbol\" aria-roledescription=\"text mark\" text-anchor=\"start\" transform=\"translate(192.44974746830584,243.19310967455132)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"12px\" font-weight=\"bold\" fill=\"#ADAFB8\" opacity=\"1\">3. Lossen / Uitloopgat</text></g><g class=\"mark-group role-legend\" role=\"graphics-symbol\" aria-roledescription=\"legend\" aria-label=\"Symbol legend for fill color and stroke color with 1 value: Operationele Fasen\"><g transform=\"translate(0,341)\"><path class=\"background\" aria-hidden=\"true\" d=\"M0,0h113v11h-113Z\" pointer-events=\"none\"></path><g><g class=\"mark-group role-legend-entry\"><g transform=\"translate(0,0)\"><path class=\"background\" aria-hidden=\"true\" d=\"M0,0h0v0h0Z\" pointer-events=\"none\"></path><g><g class=\"mark-group role-scope\" role=\"graphics-object\" aria-roledescription=\"group mark container\"><g transform=\"translate(0,0)\"><path class=\"background\" aria-hidden=\"true\" d=\"M0,0h112.615234375v11h-112.615234375Z\" pointer-events=\"none\" opacity=\"1\"></path><g><g class=\"mark-symbol role-legend-symbol\" pointer-events=\"none\"><path transform=\"translate(6,6)\" d=\"M-5,0L5,0\" fill=\"#618eff\" stroke-width=\"1.5\" opacity=\"1\"></path></g><g class=\"mark-text role-legend-label\" pointer-events=\"none\"><text text-anchor=\"start\" transform=\"translate(16,9)\" font-family=\"Google Sans, Roboto, Arial, sans-serif\" font-size=\"11px\" font-weight=\"500\" fill=\"#ADAFB8\" opacity=\"1\">Operationele Fasen</text></g></g><path class=\"foreground\" aria-hidden=\"true\" d=\"\" pointer-events=\"none\" display=\"none\"></path></g></g></g><path class=\"foreground\" aria-hidden=\"true\" d=\"\" pointer-events=\"none\" display=\"none\"></path></g></g></g><path class=\"foreground\" aria-hidden=\"true\" d=\"\" pointer-events=\"none\" display=\"none\"></path></g></g></g><path class=\"foreground\" aria-hidden=\"true\" d=\"\" display=\"none\"></path></g></g></g><defs><clipPath id=\"clip1\"><rect x=\"0\" y=\"0\" width=\"375\" height=\"293\"></rect></clipPath><clipPath id=\"clip2\"><rect x=\"0\" y=\"0\" width=\"375\" height=\"293\"></rect></clipPath><clipPath id=\"clip3\"><rect x=\"0\" y=\"0\" width=\"375\" height=\"293\"></rect></clipPath><clipPath id=\"clip4\"><rect x=\"0\" y=\"0\" width=\"375\" height=\"293\"></rect></clipPath><clipPath id=\"clip5\"><rect x=\"0\" y=\"0\" width=\"375\" height=\"293\"></rect></clipPath><clipPath id=\"clip6\"><rect x=\"0\" y=\"0\" width=\"375\" height=\"293\"></rect></clipPath></defs></svg>"
+        ],
+        "computedStyles": [
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgba(0, 0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(116, 123, 140)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(116, 123, 140)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "0",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(45, 47, 53)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(97, 142, 255)",
+            "strokeWidth": "3px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(39, 41, 48)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(39, 41, 48)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(39, 41, 48)",
+            "strokeWidth": "2px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "700",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "700",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "700",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(97, 142, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1.5px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(0, 0, 0)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          }
+        ]
+      }
+    ],
+    "text": "Roterend mechanisme: Continue cirkelvormige beweging van de schepbakken\n−1.4\n−1.2\n−1.0\n−0.8\n−0.6\n−0.4\n−0.2\n0.0\n0.2\n0.4\n0.6\n0.8\n1.0\n1.2\n1.4\nX Coördinaat\n−1.0\n0.0\n1.0\n−0.5\n0.5\nY Coördinaat\n→\n↑\n←\n↓\n1. Inloop / Zwaartekrachtvoeding\n2. Rotatie & Opscheppen\n3. Lossen / Uitloopgat\nOperationele Fasen",
+    "response": 4
+  },
+  {
+    "background": "rgb(39, 41, 48)",
+    "canvases": 1,
+    "styles": [
+      "\n      html, body {\n        height: 100%;\n        width: 100%;\n        margin: 0;\n        overflow: hidden;\n        font-family: 'Google Sans', Roboto, Arial, sans-serif;\n      }\n      body {\n        background-color: #272930;\n        color: #ADAFB8;\n        border-radius: 16px;\n      }\n      .chart-container-wrapper {\n        display: flex;\n        flex-direction: column;\n        height: 100%;\n        width: 100%;\n        box-sizing: border-box;\n      }\n      .chart-header {\n        white-space: pre-wrap;\n        word-break: break-word;\n        display: none;\n        padding: 16px 16px 0 16px;\n        flex-shrink: 0;\n        font-size: 16px;\n        font-weight: bold;\n        color: #E8E8E8;\n        font-family: 'Google Sans', Roboto, Arial, sans-serif;\n      }\n      #chart-container {\n        \n        flex-grow: 1;\n        min-height: 0;\n        \n        position: relative;\n        padding: 8px 16px 16px 16px;\n        box-sizing: border-box;\n      }\n      canvas {\n        width: 100% !important;\n        height: 100% !important;\n      }\n    "
+    ],
+    "svgs": [],
+    "text": "Het Schaal-Spectrum van Roterende Grijpsystemen (Bakgrootte)",
+    "response": 6
+  }
+]

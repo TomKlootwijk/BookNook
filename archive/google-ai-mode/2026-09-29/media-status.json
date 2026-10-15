@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All scoped conversation slots are archived. The 15 October batch preserves 5 original vector diagrams and four original generated images, plus one original map snapshot. Animations are static snapshots with displayed settings retained. Source error messages and blank responses remain as returned by Google. Previous gaps include the two blank responses in conversations 611 and 612, documented in the 14 October source-gap addendum; all earlier media gaps remain recorded.",
+  "note": "All scoped conversation slots are archived. The additional 15 October batch preserves 8 original vector diagrams, 6 canvas snapshots and one original generated image. Animations are static snapshots with displayed settings retained. Source error messages and blank responses remain as returned by Google. All previous source and media gaps remain recorded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -1900,5 +1900,23 @@
         "method": "Static screenshot of the source page map, cropped from the observed browser screenshot."
       }
     ]
+  },
+  "october15MoreMedia": {
+    "date": "2026-10-15-more",
+    "newConversations": 29,
+    "newPairs": 148,
+    "sourceFigures": 14,
+    "vectorSnapshots": 8,
+    "canvasSnapshots": 6,
+    "generatedImages": [
+      {
+        "path": "assets/2026-10-15-more-original-70a6752cb358a805b7ce.jpg",
+        "url": "https://lens.usercontent.google.com/banana?agsi=CmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAwZWI6MTpiODU0ODY3YjU0NTdmNDY1OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAzMjFkZTMwMzM2ODowMDA2NWRkY2YxN2JjODdmEAIYASIKaW1hZ2UvanBlZw==",
+        "sha256": "70a6752cb358a805b7ce12fca7d98d056abf62f53209a5519dff5d4e3847cb87"
+      }
+    ],
+    "sourceErrorResponses": [],
+    "blankResponses": [],
+    "visualAudit": "updates/2026-10-15-more-visual-audit.json"
   }
 }

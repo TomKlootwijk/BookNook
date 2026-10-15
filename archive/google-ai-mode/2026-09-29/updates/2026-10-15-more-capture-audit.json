@@ -1,0 +1,336 @@
+{
+  "conversations": 29,
+  "pairs": 148,
+  "records": [
+    {
+      "threadId": "PB3Rasb_G63l7_UPko6ewQE",
+      "title": "Streamlining Processes",
+      "counts": {
+        "prompts": 20,
+        "responses": 20
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "_hnRarT7I6Sfi-gPp76Y2Aw",
+      "title": "Eliminatie van TV Spel",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "qxXRapvyApj0i-gPzpiA4Ak",
+      "title": "Grabbelton",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "RRHRaoDCPPD0i-gP6ePPqQg",
+      "title": "AI Stocks",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "kBDRau9LzMmL6A-c-tuZCg",
+      "title": "Grabbelton",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "TPDQavXeCaqCi-gPyv_90A0",
+      "title": "Feels Like a Test",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "3e7QaqnNHNDYi-gP9fuGqAQ",
+      "title": "Helm Lionheart Archeon Geometric",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "JOvQau6kM6vh7_UPlLi2sAE",
+      "title": "Atomische Klok",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "ZOLQauPqEcuN9u8PpN3bgAg",
+      "title": "Six Degrees of Separation",
+      "counts": {
+        "prompts": 20,
+        "responses": 20
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "Y-nQaryoM4qP9u8P3L_10Q8",
+      "title": "Inhibition and Exhibition",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "lubQapvaKo3m7_UPy8mnoQw",
+      "title": "Saturn and Neptune Connection",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "GebQavuhBLTg7_UP976Z0Q0",
+      "title": "Heemskerk Anagrams",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "OOPQarO8L5iD9u8PqoT4yAc",
+      "title": "Minesweeper XOR Red Flags",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "09_QarHxBNDYi-gP9fuGqAQ",
+      "title": "Page Faults Breakpoints Databases COBOL",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "Xd7Qaq7VAb6D9u8P_bfYkAM",
+      "title": "Snoepdispenser Draaien Aan Knoppen",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "DtTQaqScGdW1i-gPy_mwsA4",
+      "title": "Vier Preparaten en Concepten",
+      "counts": {
+        "prompts": 17,
+        "responses": 17
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "3tXQasa6CqaB9u8P6aTv4QM",
+      "title": "Artsen Zonder Grenzen Tweedehands Spullen",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "Oc_QapuoCpSD9u8P8Z7P6Qs",
+      "title": "Manger Anagrams",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "x8vQasTML4rIi-gP58CwqAs",
+      "title": "Spartelen Tegen Obsessief Compulsief",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "28rQaprsDPjZi-gP2cHfwAU",
+      "title": "King of the Hill Mode",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "kJbQapL9NPSui-gPnqCe4Qw",
+      "title": "Overwhelming Thoughts Support",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "45XQavj6AvL7i-gPvMO00AE",
+      "title": "Door Het Oog Van De Speldenknoop",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "CZPQar3CNMHp7_UPzObVUA",
+      "title": "Genealogie 4e Generatie DNA",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "hJDQarCgGbXh7_UP_8nRkQk",
+      "title": "Sinai Vector Flowfield Particles",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "dYnQarbqGeCAi-gP0sS0yAw",
+      "title": "The Blacklist Favoriete Serie",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "j4bQas7uAu3o7_UP_vKtoQc",
+      "title": "Elizabeth II's Heir Selection",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "voPQapzyLsOri-gPoaza-Qs",
+      "title": "Middelpunt En Focaal Brandpunt",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "eH_Qaq3_IPaA9u8P3_6ZoAU",
+      "title": "Raymond Paddington Street Wear",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    },
+    {
+      "threadId": "Qn7QatHSHf-O9u8PyryMgQI",
+      "title": "Father Cap",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "alternatingRoles": true,
+      "queryMatchesFirstPrompt": true,
+      "capturedAfterCopyEnabled": true
+    }
+  ],
+  "additionalReadback": {
+    "status": "verified",
+    "conversation": "Helm Lionheart Archeon Geometric",
+    "alreadyCapturedPairs": 3,
+    "alreadyCapturedFigures": 1,
+    "verifiedPairs": 3,
+    "additionalPairs": 0,
+    "verifiedAt": "2026-10-15T19:18:58.305Z",
+    "sourceCrownClippingConfirmed": true
+  },
+  "additionalLiveReplies": 13
+}

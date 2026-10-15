@@ -1,0 +1,21 @@
+{
+  "correctedPage": 2878,
+  "originalSvgOperationSpans": [
+    [
+      1462,
+      1477
+    ],
+    [
+      1477,
+      3348
+    ]
+  ],
+  "other2991PageContentStreamsUnchanged": true,
+  "originalPageBodyTextUnchanged": true,
+  "pagePromptResponseMarkersUnchanged": true,
+  "all10OriginalParticipantLabelsRetained": true,
+  "previousFullPdfPromptMarkers": 3133,
+  "previousFullPdfResponseMarkers": 3133,
+  "previousFullPdfSha256": "feb2e8ecb90e31b70773dd964c6e4234c45212a9134a47f5f26faed66d1837ed",
+  "newPdfSha256": "c1232dbe3dc3fddb632d16bb43b70fb491ca6d6ec010c484afa9df7830ec38e3"
+}

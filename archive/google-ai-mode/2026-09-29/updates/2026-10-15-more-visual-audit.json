@@ -1,0 +1,5 @@
+{
+  "680-response-3": "Reopened source, brought the SVG into view, waited until the three groups settled, and paused the source animation. The exported SVG now preserves that observed state. Initial widget JSON is retained; settled state is saved separately.",
+  "693-response-3": "The original live source SVG keeps its four box labels at opacity zero. The archive preserves that SVG and records its label text below the figure.",
+  "685-response-3": "The saved source SVG has crown coordinates outside its original 0 0 800 400 viewBox. The original geometry and viewport are preserved. After the approved Google check, the live source screenshot confirmed the same clipping. All three prompt/response texts exactly match the archived capture."
+}
