@@ -1,0 +1,521 @@
+[
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "canvases": 0,
+    "styles": [
+      "\n/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */\n@layer properties {\n  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {\n    *, :before, :after, ::backdrop {\n      --tw-rotate-x: initial;\n      --tw-rotate-y: initial;\n      --tw-rotate-z: initial;\n      --tw-skew-x: initial;\n      --tw-skew-y: initial;\n      --tw-border-style: solid;\n      --tw-font-weight: initial;\n      --tw-ordinal: initial;\n      --tw-slashed-zero: initial;\n      --tw-numeric-figure: initial;\n      --tw-numeric-spacing: initial;\n      --tw-numeric-fraction: initial;\n      --tw-shadow: 0 0 #0000;\n      --tw-shadow-color: initial;\n      --tw-shadow-alpha: 100%;\n      --tw-inset-shadow: 0 0 #0000;\n      --tw-inset-shadow-color: initial;\n      --tw-inset-shadow-alpha: 100%;\n      --tw-ring-color: initial;\n      --tw-ring-shadow: 0 0 #0000;\n      --tw-inset-ring-color: initial;\n      --tw-inset-ring-shadow: 0 0 #0000;\n      --tw-ring-inset: initial;\n      --tw-ring-offset-width: 0px;\n      --tw-ring-offset-color: #fff;\n      --tw-ring-offset-shadow: 0 0 #0000;\n      --tw-blur: initial;\n      --tw-brightness: initial;\n      --tw-contrast: initial;\n      --tw-grayscale: initial;\n      --tw-hue-rotate: initial;\n      --tw-invert: initial;\n      --tw-opacity: initial;\n      --tw-saturate: initial;\n      --tw-sepia: initial;\n      --tw-drop-shadow: initial;\n      --tw-drop-shadow-color: initial;\n      --tw-drop-shadow-alpha: 100%;\n      --tw-drop-shadow-size: initial;\n      --tw-content: \"\";\n      --tw-translate-x: 0;\n      --tw-translate-y: 0;\n      --tw-translate-z: 0;\n      --tw-scale-x: 1;\n      --tw-scale-y: 1;\n      --tw-scale-z: 1;\n    }\n  }\n}\n\n@layer theme {\n  :root, :host {\n    --font-sans: \"Google Sans\", \"Roboto\", sans-serif;\n    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n    --color-slate-200: oklch(92.9% .013 255.508);\n    --spacing: .25rem;\n    --text-xs: .75rem;\n    --text-xs--line-height: calc(1 / .75);\n    --text-sm: .875rem;\n    --text-sm--line-height: calc(1.25 / .875);\n    --font-weight-medium: 500;\n    --radius-xl: .75rem;\n    --default-transition-duration: .15s;\n    --default-transition-timing-function: cubic-bezier(.31, .94, .34, 1);\n    --default-font-family: var(--font-sans);\n    --default-mono-font-family: var(--font-mono);\n    --color-primary: var(--primary, #336ef3);\n    --color-error: var(--brand-red, #ea4335);\n    --color-warning: var(--brand-yellow, #fbbc04);\n    --color-success: var(--brand-green, #34a853);\n    --color-card: var(--surface-container-de-emphasis, #f7f8fa);\n    --color-border: var(--divider, #dcdfe5);\n    --color-secondary-hover: var(--surface-container-highest, #e1e3e8);\n    --color-muted: var(--surface-container, #f0f2f5);\n    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);\n    --color-foreground: var(--on-surface-default, #0a0a0a);\n  }\n}\n\n@layer base {\n  *, :after, :before, ::backdrop {\n    box-sizing: border-box;\n    border: 0 solid;\n    margin: 0;\n    padding: 0;\n  }\n\n  ::file-selector-button {\n    box-sizing: border-box;\n    border: 0 solid;\n    margin: 0;\n    padding: 0;\n  }\n\n  html, :host {\n    -webkit-text-size-adjust: 100%;\n    tab-size: 4;\n    line-height: 1.5;\n    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\");\n    font-feature-settings: var(--default-font-feature-settings, normal);\n    font-variation-settings: var(--default-font-variation-settings, normal);\n    -webkit-tap-highlight-color: transparent;\n  }\n\n  hr {\n    height: 0;\n    color: inherit;\n    border-top-width: 1px;\n  }\n\n  abbr:where([title]) {\n    -webkit-text-decoration: underline dotted;\n    text-decoration: underline dotted;\n  }\n\n  h1, h2, h3, h4, h5, h6 {\n    font-size: inherit;\n    font-weight: inherit;\n  }\n\n  a {\n    color: inherit;\n    -webkit-text-decoration: inherit;\n    -webkit-text-decoration: inherit;\n    -webkit-text-decoration: inherit;\n    text-decoration: inherit;\n  }\n\n  b, strong {\n    font-weight: bolder;\n  }\n\n  code, kbd, samp, pre {\n    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace);\n    font-feature-settings: var(--default-mono-font-feature-settings, normal);\n    font-variation-settings: var(--default-mono-font-variation-settings, normal);\n    font-size: 1em;\n  }\n\n  small {\n    font-size: 80%;\n  }\n\n  sub, sup {\n    vertical-align: baseline;\n    font-size: 75%;\n    line-height: 0;\n    position: relative;\n  }\n\n  sub {\n    bottom: -.25em;\n  }\n\n  sup {\n    top: -.5em;\n  }\n\n  table {\n    text-indent: 0;\n    border-color: inherit;\n    border-collapse: collapse;\n  }\n\n  :-moz-focusring {\n    outline: auto;\n  }\n\n  progress {\n    vertical-align: baseline;\n  }\n\n  summary {\n    display: list-item;\n  }\n\n  ol, ul, menu {\n    list-style: none;\n  }\n\n  img, svg, video, canvas, audio, iframe, embed, object {\n    vertical-align: middle;\n    display: block;\n  }\n\n  img, video {\n    max-width: 100%;\n    height: auto;\n  }\n\n  button, input, select, optgroup, textarea {\n    font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    opacity: 1;\n    background-color: #0000;\n    border-radius: 0;\n  }\n\n  ::file-selector-button {\n    font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    opacity: 1;\n    background-color: #0000;\n    border-radius: 0;\n  }\n\n  :where(select:is([multiple], [size])) optgroup {\n    font-weight: bolder;\n  }\n\n  :where(select:is([multiple], [size])) optgroup option {\n    padding-inline-start: 20px;\n  }\n\n  ::file-selector-button {\n    margin-inline-end: 4px;\n  }\n\n  ::placeholder {\n    opacity: 1;\n  }\n\n  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {\n    ::placeholder {\n      color: currentColor;\n    }\n\n    @supports (color: color-mix(in lab, red, red)) {\n      ::placeholder {\n        color: color-mix(in oklab, currentcolor 50%, transparent);\n      }\n    }\n  }\n\n  textarea {\n    resize: vertical;\n  }\n\n  ::-webkit-search-decoration {\n    -webkit-appearance: none;\n  }\n\n  ::-webkit-date-and-time-value {\n    min-height: 1lh;\n    text-align: inherit;\n  }\n\n  ::-webkit-datetime-edit {\n    display: inline-flex;\n  }\n\n  ::-webkit-datetime-edit-fields-wrapper {\n    padding: 0;\n  }\n\n  ::-webkit-datetime-edit {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-year-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-month-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-day-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-hour-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-minute-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-second-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-millisecond-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-meridiem-field {\n    padding-block: 0;\n  }\n\n  :-moz-ui-invalid {\n    box-shadow: none;\n  }\n\n  button, input:where([type=\"button\"], [type=\"reset\"], [type=\"submit\"]) {\n    appearance: button;\n  }\n\n  ::file-selector-button {\n    appearance: button;\n  }\n\n  ::-webkit-inner-spin-button {\n    height: auto;\n  }\n\n  ::-webkit-outer-spin-button {\n    height: auto;\n  }\n\n  [hidden]:where(:not([hidden=\"until-found\"])) {\n    display: none !important;\n  }\n}\n\n@layer components;\n\n@layer utilities {\n  .pointer-events-none {\n    pointer-events: none;\n  }\n\n  .absolute {\n    position: absolute;\n  }\n\n  .relative {\n    position: relative;\n  }\n\n  .static {\n    position: static;\n  }\n\n  .-my-3 {\n    margin-block: calc(var(--spacing) * -3);\n  }\n\n  .mt-2 {\n    margin-top: calc(var(--spacing) * 2);\n  }\n\n  .mr-1 {\n    margin-right: calc(var(--spacing) * 1);\n  }\n\n  .block {\n    display: block;\n  }\n\n  .flex {\n    display: flex;\n  }\n\n  .grid {\n    display: grid;\n  }\n\n  .hidden {\n    display: none;\n  }\n\n  .h-1 {\n    height: calc(var(--spacing) * 1);\n  }\n\n  .h-7 {\n    height: calc(var(--spacing) * 7);\n  }\n\n  .h-11 {\n    height: calc(var(--spacing) * 11);\n  }\n\n  .h-\\[18px\\] {\n    height: 18px;\n  }\n\n  .h-auto {\n    height: auto;\n  }\n\n  .h-full {\n    height: 100%;\n  }\n\n  .w-\\[6ch\\] {\n    width: 6ch;\n  }\n\n  .w-\\[18px\\] {\n    width: 18px;\n  }\n\n  .w-full {\n    width: 100%;\n  }\n\n  .max-w-full {\n    max-width: 100%;\n  }\n\n  .min-w-0 {\n    min-width: calc(var(--spacing) * 0);\n  }\n\n  .flex-1 {\n    flex: 1;\n  }\n\n  .shrink-0 {\n    flex-shrink: 0;\n  }\n\n  .grow {\n    flex-grow: 1;\n  }\n\n  .transform {\n    transform: var(--tw-rotate-x, ) var(--tw-rotate-y, ) var(--tw-rotate-z, ) var(--tw-skew-x, ) var(--tw-skew-y, );\n  }\n\n  .cursor-pointer {\n    cursor: pointer;\n  }\n\n  .touch-none {\n    touch-action: none;\n  }\n\n  .grid-cols-1 {\n    grid-template-columns: repeat(1, minmax(0, 1fr));\n  }\n\n  .flex-col {\n    flex-direction: column;\n  }\n\n  .flex-wrap {\n    flex-wrap: wrap;\n  }\n\n  .items-center {\n    align-items: center;\n  }\n\n  .justify-center {\n    justify-content: center;\n  }\n\n  .gap-0\\.5 {\n    gap: calc(var(--spacing) * .5);\n  }\n\n  .gap-1\\.5 {\n    gap: calc(var(--spacing) * 1.5);\n  }\n\n  .gap-2 {\n    gap: calc(var(--spacing) * 2);\n  }\n\n  .gap-3 {\n    gap: calc(var(--spacing) * 3);\n  }\n\n  .gap-5 {\n    gap: calc(var(--spacing) * 5);\n  }\n\n  .gap-x-4 {\n    column-gap: calc(var(--spacing) * 4);\n  }\n\n  .gap-x-6 {\n    column-gap: calc(var(--spacing) * 6);\n  }\n\n  .gap-y-4 {\n    row-gap: calc(var(--spacing) * 4);\n  }\n\n  .truncate {\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    overflow: hidden;\n  }\n\n  .overflow-auto {\n    overflow: auto;\n  }\n\n  .overflow-hidden {\n    overflow: hidden;\n  }\n\n  .overflow-visible {\n    overflow: visible;\n  }\n\n  .rounded-full {\n    border-radius: 3.40282e38px;\n  }\n\n  .rounded-xl {\n    border-radius: var(--radius-xl);\n  }\n\n  .border-t {\n    border-top-style: var(--tw-border-style);\n    border-top-width: 1px;\n  }\n\n  .border-b {\n    border-bottom-style: var(--tw-border-style);\n    border-bottom-width: 1px;\n  }\n\n  .border-none {\n    --tw-border-style: none;\n    border-style: none;\n  }\n\n  .border-border, .border-border\\/40 {\n    border-color: var(--color-border);\n  }\n\n  @supports (color: color-mix(in lab, red, red)) {\n    .border-border\\/40 {\n      border-color: color-mix(in oklab, var(--color-border) 40%, transparent);\n    }\n  }\n\n  .\\!bg-muted {\n    background-color: var(--color-muted) !important;\n  }\n\n  .bg-\\[\\#0a090d\\] {\n    background-color: #0a090d;\n  }\n\n  .bg-\\[\\#0a090d\\]\\/60 {\n    background-color: oklab(14.3095% .00400109 -.00785274 / .6);\n  }\n\n  .bg-card, .bg-card\\/50 {\n    background-color: var(--color-card);\n  }\n\n  @supports (color: color-mix(in lab, red, red)) {\n    .bg-card\\/50 {\n      background-color: color-mix(in oklab, var(--color-card) 50%, transparent);\n    }\n  }\n\n  .bg-muted {\n    background-color: var(--color-muted);\n  }\n\n  .bg-primary {\n    background-color: var(--color-primary);\n  }\n\n  .p-5 {\n    padding: calc(var(--spacing) * 5);\n  }\n\n  .px-2\\.5 {\n    padding-inline: calc(var(--spacing) * 2.5);\n  }\n\n  .px-3 {\n    padding-inline: calc(var(--spacing) * 3);\n  }\n\n  .px-5 {\n    padding-inline: calc(var(--spacing) * 5);\n  }\n\n  .py-0\\.5 {\n    padding-block: calc(var(--spacing) * .5);\n  }\n\n  .py-3 {\n    padding-block: calc(var(--spacing) * 3);\n  }\n\n  .pt-1 {\n    padding-top: calc(var(--spacing) * 1);\n  }\n\n  .text-center {\n    text-align: center;\n  }\n\n  .text-right {\n    text-align: right;\n  }\n\n  .text-sm {\n    font-size: var(--text-sm);\n    line-height: var(--tw-leading, var(--text-sm--line-height));\n  }\n\n  .text-xs {\n    font-size: var(--text-xs);\n    line-height: var(--tw-leading, var(--text-xs--line-height));\n  }\n\n  .font-medium {\n    --tw-font-weight: var(--font-weight-medium);\n    font-weight: var(--font-weight-medium);\n  }\n\n  .whitespace-nowrap {\n    white-space: nowrap;\n  }\n\n  .text-error {\n    color: var(--color-error);\n  }\n\n  .text-foreground {\n    color: var(--color-foreground);\n  }\n\n  .text-muted-foreground {\n    color: var(--color-muted-foreground);\n  }\n\n  .text-slate-200 {\n    color: var(--color-slate-200);\n  }\n\n  .text-success {\n    color: var(--color-success);\n  }\n\n  .text-warning {\n    color: var(--color-warning);\n  }\n\n  .tabular-nums {\n    --tw-numeric-spacing: tabular-nums;\n    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );\n  }\n\n  .shadow {\n    --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, #0000001a), 0 1px 2px -1px var(--tw-shadow-color, #0000001a);\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n\n  .shadow-none {\n    --tw-shadow: 0 0 #0000;\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n\n  .filter {\n    filter: var(--tw-blur, ) var(--tw-brightness, ) var(--tw-contrast, ) var(--tw-grayscale, ) var(--tw-hue-rotate, ) var(--tw-invert, ) var(--tw-saturate, ) var(--tw-sepia, ) var(--tw-drop-shadow, );\n  }\n\n  .transition-transform {\n    transition-property: transform, translate, scale, rotate;\n    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));\n    transition-duration: var(--tw-duration, var(--default-transition-duration));\n  }\n\n  .select-none {\n    -webkit-user-select: none;\n    user-select: none;\n  }\n\n  .after\\:absolute:after {\n    content: var(--tw-content);\n    position: absolute;\n  }\n\n  .after\\:inset-x-0:after {\n    content: var(--tw-content);\n    inset-inline: calc(var(--spacing) * 0);\n  }\n\n  .after\\:-inset-y-1:after {\n    content: var(--tw-content);\n    inset-block: calc(var(--spacing) * -1);\n  }\n\n  .after\\:top-1\\/2:after {\n    content: var(--tw-content);\n    top: 50%;\n  }\n\n  .after\\:left-1\\/2:after {\n    content: var(--tw-content);\n    left: 50%;\n  }\n\n  .after\\:h-11:after {\n    content: var(--tw-content);\n    height: calc(var(--spacing) * 11);\n  }\n\n  .after\\:w-11:after {\n    content: var(--tw-content);\n    width: calc(var(--spacing) * 11);\n  }\n\n  .after\\:-translate-x-1\\/2:after {\n    content: var(--tw-content);\n    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);\n    translate: var(--tw-translate-x) var(--tw-translate-y);\n  }\n\n  .after\\:-translate-y-1\\/2:after {\n    content: var(--tw-content);\n    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);\n    translate: var(--tw-translate-x) var(--tw-translate-y);\n  }\n\n  @media (hover: hover) {\n    .hover\\:scale-110:hover {\n      --tw-scale-x: 110%;\n      --tw-scale-y: 110%;\n      --tw-scale-z: 110%;\n      scale: var(--tw-scale-x) var(--tw-scale-y);\n    }\n\n    .hover\\:bg-secondary-hover:hover {\n      background-color: var(--color-secondary-hover);\n    }\n  }\n\n  .focus\\:outline-none:focus {\n    --tw-outline-style: none;\n    outline-style: none;\n  }\n\n  .focus-visible\\:ring-2:focus-visible {\n    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n\n  .focus-visible\\:ring-primary:focus-visible {\n    --tw-ring-color: var(--color-primary);\n  }\n\n  @media (min-width: 40rem) {\n    .sm\\:block {\n      display: block;\n    }\n\n    .sm\\:grid-cols-3 {\n      grid-template-columns: repeat(3, minmax(0, 1fr));\n    }\n\n    .sm\\:gap-x-8 {\n      column-gap: calc(var(--spacing) * 8);\n    }\n  }\n\n  @media (min-width: 48rem) {\n    .md\\:gap-x-12 {\n      column-gap: calc(var(--spacing) * 12);\n    }\n  }\n}\n\n@media (prefers-color-scheme: dark) {\n  :root:not(.light) {\n    --color-primary: var(--primary, #336ef3);\n    --color-primary-hover: var(--primary-hover, #395fe1);\n    --color-error: var(--brand-red, #ea4335);\n    --color-warning: var(--brand-yellow, #fbbc04);\n    --color-success: var(--brand-green, #34a853);\n    --color-background: var(--surface-container-de-emphasis, #272930);\n    --color-card: var(--surface-container-de-emphasis, #272930);\n    --color-card-hover: var(--surface-container-high, #363840);\n    --color-border: var(--divider, #363840);\n    --color-input: var(--surface-container, #2c2e35);\n    --color-secondary: var(--surface-container-high, #363840);\n    --color-secondary-hover: var(--surface-container-highest, #42444d);\n    --color-accent: var(--surface-container-highest, #42444d);\n    --color-accent-foreground: var(--on-surface-default, #e6e8f0);\n    --color-muted: var(--surface-container, #2c2e35);\n    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);\n    --color-foreground: var(--on-surface-default, #e6e8f0);\n    --color-disabled: var(--surface-container, #2c2e35);\n    --color-disabled-foreground: var(--disabled-foreground, #797c90);\n  }\n}\n\n.dark {\n  --color-primary: var(--primary, #336ef3);\n  --color-primary-hover: var(--primary-hover, #395fe1);\n  --color-error: var(--brand-red, #ea4335);\n  --color-warning: var(--brand-yellow, #fbbc04);\n  --color-success: var(--brand-green, #34a853);\n  --color-background: var(--surface-container-de-emphasis, #272930);\n  --color-card: var(--surface-container-de-emphasis, #272930);\n  --color-card-hover: var(--surface-container-high, #363840);\n  --color-border: var(--divider, #363840);\n  --color-input: var(--surface-container, #2c2e35);\n  --color-secondary: var(--surface-container-high, #363840);\n  --color-secondary-hover: var(--surface-container-highest, #42444d);\n  --color-accent: var(--surface-container-highest, #42444d);\n  --color-accent-foreground: var(--on-surface-default, #e6e8f0);\n  --color-muted: var(--surface-container, #2c2e35);\n  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);\n  --color-foreground: var(--on-surface-default, #e6e8f0);\n  --color-disabled: var(--surface-container, #2c2e35);\n  --color-disabled-foreground: var(--disabled-foreground, #797c90);\n}\n\ninput[type=\"date\"]::-webkit-calendar-picker-indicator {\n  cursor: pointer;\n  opacity: .6;\n}\n\n@media (prefers-color-scheme: dark) {\n  :root:not(.light) input[type=\"date\"]::-webkit-calendar-picker-indicator {\n    filter: invert();\n    opacity: .7;\n  }\n}\n\n.dark input[type=\"date\"]::-webkit-calendar-picker-indicator {\n  filter: invert();\n  opacity: .7;\n}\n\n@property --tw-rotate-x {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-rotate-y {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-rotate-z {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-skew-x {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-skew-y {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-border-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n\n@property --tw-font-weight {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ordinal {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-slashed-zero {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-figure {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-spacing {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-fraction {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-shadow-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n\n@property --tw-inset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-inset-shadow-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-inset-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n\n@property --tw-ring-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-inset-ring-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-inset-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-ring-inset {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ring-offset-width {\n  syntax: \"<length>\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-ring-offset-color {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: #fff;\n}\n\n@property --tw-ring-offset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-blur {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-brightness {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-contrast {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-grayscale {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-hue-rotate {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-invert {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-opacity {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-saturate {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-sepia {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-drop-shadow {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-drop-shadow-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-drop-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n\n@property --tw-drop-shadow-size {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-content {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: \"\";\n}\n\n@property --tw-translate-x {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-translate-y {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-translate-z {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-scale-x {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 1;\n}\n\n@property --tw-scale-y {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 1;\n}\n\n@property --tw-scale-z {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 1;\n}\n\n"
+    ],
+    "svgs": [
+      {
+        "background": "rgba(0, 0, 0, 0)",
+        "chunks": [
+          "<svg role=\"img\" aria-label=\"Interactive Chiaroscuro Shader and Rembrandt Lighting Simulation Canvas\" viewBox=\"0 0 652 342.3\" class=\"w-full h-auto block\"><defs><radialGradient id=\"bgGlow\" cx=\"30%\" cy=\"50%\" r=\"60%\"><stop offset=\"0%\" stop-color=\"#251f30\" stop-opacity=\"0.35\"></stop><stop offset=\"100%\" stop-color=\"#0a090d\" stop-opacity=\"1\"></stop></radialGradient><linearGradient id=\"skinBase\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#301f11\"></stop><stop offset=\"40%\" stop-color=\"#54381e\"></stop><stop offset=\"100%\" stop-color=\"#1a110a\"></stop></linearGradient><radialGradient id=\"keySpill\" cx=\"25%\" cy=\"38%\" r=\"45%\"><stop offset=\"0%\" stop-color=\"#f7dca9\" stop-opacity=\"0.765\"></stop><stop offset=\"50%\" stop-color=\"#cf9e53\" stop-opacity=\"0.34\"></stop><stop offset=\"100%\" stop-color=\"#54381e\" stop-opacity=\"0\"></stop></radialGradient><radialGradient id=\"triangleGlow\" cx=\"50%\" cy=\"50%\" r=\"50%\"><stop offset=\"0%\" stop-color=\"#fbe8c5\" stop-opacity=\"1\"></stop><stop offset=\"65%\" stop-color=\"#dfa95c\" stop-opacity=\"0.6\"></stop><stop offset=\"100%\" stop-color=\"#54381e\" stop-opacity=\"0\"></stop></radialGradient><linearGradient id=\"lightCone\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffeebf\" stop-opacity=\"0.25\"></stop><stop offset=\"100%\" stop-color=\"#ffeebf\" stop-opacity=\"0\"></stop></linearGradient></defs><rect width=\"652\" height=\"342.3\" fill=\"url(#bgGlow)\"></rect><line x1=\"339.04\" y1=\"17.115000000000002\" x2=\"339.04\" y2=\"325.185\" stroke=\"#2e2a38\" stroke-width=\"1\" stroke-dasharray=\"4 4\"></line><g transform=\"translate(13.040000000000001, 0)\"><path d=\"M 78.24 301.224 \n                   C 78.24 239.60999999999999, 97.8 205.38, 104.32000000000001 177.996 \n                   C 91.28000000000002 164.304, 91.28000000000002 136.92000000000002, 104.32000000000001 123.228\n                   C 97.8 75.306, 143.44 41.076, 208.64000000000001 41.076\n                   C 273.84 41.076, 299.92 85.575, 293.40000000000003 136.92000000000002\n                   C 299.92 157.458, 286.88 184.842, 273.84 191.68800000000002\n                   C 286.88 219.072, 299.92 253.302, 293.40000000000003 301.224 \n                   Z\" fill=\"#4a3725\" opacity=\"0.24\"></path><path id=\"portrait-silhouette\" d=\"M 78.24 301.224 \n                   C 78.24 239.60999999999999, 97.8 205.38, 104.32000000000001 177.996 \n                   C 91.28000000000002 164.304, 91.28000000000002 136.92000000000002, 104.32000000000001 123.228\n                   C 97.8 75.306, 143.44 41.076, 208.64000000000001 41.076\n                   C 273.84 41.076, 299.92 85.575, 293.40000000000003 136.92000000000002\n                   C 299.92 157.458, 286.88 184.842, 273.84 191.68800000000002\n                   C 286.88 219.072, 299.92 253.302, 293.40000000000003 301.224 \n                   Z\" fill=\"url(#skinBase)\"></path><path d=\"M 78.24 301.224 \n                     C 78.24 239.60999999999999, 97.8 205.38, 104.32000000000001 177.996 \n                     C 91.28000000000002 164.304, 91.28000000000002 136.92000000000002, 104.32000000000001 123.228\n                     C 97.8 75.306, 143.44 41.076, 189.07999999999998 41.076\n                     C 208.64000000000001 85.575, 195.6 154.035, 169.52 222.495\n                     C 143.44 266.994, 117.36 287.532, 91.28000000000002 301.224 \n                     Z\" fill=\"url(#keySpill)\" opacity=\"0.3076923076923077\"></path><g transform=\"\n                  translate(211.9, 143.766) \n                  scale(0.9, 1.05) \n                  rotate(0)\n                  translate(-211.9, -143.766)\n                \" opacity=\"0.7224999999999999\"><path d=\"M 195.6 130.074 \n                     L 228.2 140.343 \n                     L 202.12 164.304 \n                     Z\" fill=\"url(#triangleGlow)\"></path></g><path d=\"M 104.32000000000001 123.228 C 110.84 130.074, 110.84 143.766, 97.8 150.612\" fill=\"none\" stroke=\"#63482e\" stroke-width=\"1.5\" opacity=\"0.4\"></path><path d=\"M 163 41.076 Q 215.16 154.035, 156.48 301.224\" fill=\"none\" stroke=\"#0e0a07\" stroke-width=\"14\" opacity=\"0.5333333333333333\" style=\"filter: blur(8px);\"></path><text x=\"91.28000000000002\" y=\"280.686\" fill=\"#cf9e53\" font-size=\"12\" font-family=\"sans-serif\" opacity=\"0.8\">Rembrandt Triangle Active</text></g><g transform=\"translate(352.08000000000004, 0)\"><circle cx=\"130.4\" cy=\"171.15\" r=\"29.34\" fill=\"#262130\" stroke=\"#483f59\" stroke-width=\"1.5\"></circle><polygon points=\"\n                  101.06,165.15 \n                  84.76,171.15 \n                  101.06,177.15\n                \" fill=\"#dfa95c\"></polygon><text x=\"130.4\" y=\"177.996\" fill=\"#adafb8\" font-size=\"11\" text-anchor=\"middle\">Subject</text><rect x=\"32.6\" y=\"157.458\" width=\"26.080000000000002\" height=\"27.384\" rx=\"3\" fill=\"#1b1921\" stroke=\"#363242\"></rect><polygon points=\"58.68,164.304 71.72,171.15 58.68,177.996\" fill=\"#56595e\"></polygon><text x=\"45.64000000000001\" y=\"205.38\" fill=\"#797c90\" font-size=\"11\" text-anchor=\"middle\">Camera</text><g><path d=\"M 47.413948159946784 254.1360518400532 L 118.4 156.15 L 145.4 183.15 Z\" fill=\"url(#lightCone)\" opacity=\"0.595\" style=\"transform-origin: 47.4139px 254.136px; rotate: -45deg;\"></path><line x1=\"47.413948159946784\" y1=\"254.1360518400532\" x2=\"130.4\" y2=\"171.15\" stroke=\"#fbbc04\" stroke-width=\"1\" stroke-dasharray=\"3 3\" opacity=\"0.6\"></line><circle cx=\"47.413948159946784\" cy=\"254.1360518400532\" r=\"14\" fill=\"#fbbc04\" class=\"cursor-pointer transition-transform hover:scale-110\" style=\"filter: drop-shadow(rgba(251, 188, 4, 0.4) 0px 0px 6px);\"></circle><span class=\"material-icons\" style=\"display: none;\">lightbulb</span><text x=\"47.413948159946784\" y=\"258.1360518400532\" fill=\"#0a0a0a\" font-size=\"10\" font-weight=\"bold\" text-anchor=\"middle\">K</text><text x=\"47.413948159946784\" y=\"236.1360518400532\" fill=\"#ffeebf\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"medium\">Key Light (45° )</text></g><g opacity=\"0.8\"><line x1=\"50.486243693828214\" y1=\"104.09439655750023\" x2=\"130.4\" y2=\"171.15\" stroke=\"#336ef3\" stroke-width=\"1\" stroke-dasharray=\"3 3\" opacity=\"0.3\"></line><circle cx=\"50.486243693828214\" cy=\"104.09439655750023\" r=\"11\" fill=\"#336ef3\"></circle><text x=\"50.486243693828214\" y=\"108.09439655750023\" fill=\"#ffffff\" font-size=\"9\" text-anchor=\"middle\">F</text><text x=\"50.486243693828214\" y=\"124.09439655750023\" fill=\"#adafb8\" font-size=\"11\" text-anchor=\"middle\">Fill Light</text></g></g></svg>"
+        ],
+        "computedStyles": [
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "url(\"#bgGlow\")",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(46, 42, 56)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(74, 55, 37)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "0.24",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "url(\"#skinBase\")",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "url(\"#keySpill\")",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "0.307692",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "0.7225",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "url(\"#triangleGlow\")",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "0.4",
+            "stroke": "rgb(99, 72, 46)",
+            "strokeWidth": "1.5px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "none",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "0.533333",
+            "stroke": "rgb(14, 10, 7)",
+            "strokeWidth": "14px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(207, 158, 83)",
+            "fontFamily": "sans-serif",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "opacity": "0.8",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(38, 33, 48)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(72, 63, 89)",
+            "strokeWidth": "1.5px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(223, 169, 92)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(27, 25, 33)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "rgb(54, 50, 66)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(86, 89, 94)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(121, 124, 144)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "url(\"#lightCone\")",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "0.595",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "0.6",
+            "stroke": "rgb(251, 188, 4)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(251, 188, 4)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Material Icons\"",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(10, 10, 10)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(255, 238, 191)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "0.8",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(0, 0, 0)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "0.3",
+            "stroke": "rgb(51, 110, 243)",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(51, 110, 243)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(255, 255, 255)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "9px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          },
+          {
+            "color": "rgb(230, 232, 240)",
+            "fill": "rgb(173, 175, 184)",
+            "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+            "fontSize": "11px",
+            "fontWeight": "400",
+            "opacity": "1",
+            "stroke": "none",
+            "strokeWidth": "1px"
+          }
+        ]
+      }
+    ],
+    "text": "Chiaroscuro Master Study\nStudio Setup Setup\nRembrandt Triangle Active\nSubject\nCamera\nK\nKey Light (45° )\nF\nFill Light\nChiaroscuro Ratio\n5.0 : 1\nTriangle Status\nPerfect Form\nContrast Delta\n65%\nKey Light Angle\n45°\nKey Intensity\n85%\nFill Light Ratio\n20%\nHistorical Styles:\nClassic Rembrandt\nFrontal Chiaroscuro\nHigh-Contrast Split",
+    "response": 6
+  }
+]

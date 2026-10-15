@@ -1,116 +1,16 @@
 {
-  "at": "2026-10-14T19:59:26.606451+00:00",
-  "date": "2026-10-14",
-  "batchId": "2026-10-14-evening",
-  "openAiModeTabs": 163,
-  "uniqueOpenConversations": 156,
+  "at": "2026-10-15T07:50:55.516202+00:00",
+  "date": "2026-10-15",
+  "batchId": "2026-10-15",
+  "openAiModeTabs": 168,
+  "uniqueOpenConversations": 161,
   "historyConversations": 300,
-  "method": "Compared 157 initial open AI Mode tabs (151 unique conversations) and all 300 visible history entries. Captured 23 new threads. A user-requested follow-up added 17 new history threads plus two open conversations; the refreshed first 40 history entries preserve the original top 23 in unchanged order after the 17 additions. Retained all earlier complete captures.",
+  "method": "Compared 168 open AI Mode tabs (161 unique conversations) and all 300 visible history entries with the existing archive. Captured 51 new conversations, then three arrivals in a refreshed 60-entry history prefix. The following 57 entries retain their original order. Original source diagrams and generated images were exported; longer captures are retained when a reopening returns fewer turns.",
   "records": [
     {
-      "ordinal": 583,
-      "tabId": "1037252049",
-      "title": "Baffling Science Problems",
-      "status": "added",
-      "counts": {
-        "prompts": 24,
-        "responses": 24
-      }
-    },
-    {
-      "ordinal": 584,
-      "tabId": "history-ForPauHwKKi69u8Pqs-6qAk",
-      "title": "Melanin Sickle Cell Malaria Connection",
-      "status": "added",
-      "counts": {
-        "prompts": 23,
-        "responses": 23
-      }
-    },
-    {
-      "ordinal": 585,
-      "tabId": "history-sIfPatSABeTp7_UPuv7MmQM",
-      "title": "Ontological Formalization Process",
-      "status": "added",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      }
-    },
-    {
-      "ordinal": 586,
-      "tabId": "history-HIHPao_jCKeF9u8PurLn8Ac",
-      "title": "Coercive Love Bombing Behavior",
-      "status": "added",
-      "counts": {
-        "prompts": 14,
-        "responses": 14
-      }
-    },
-    {
-      "ordinal": 587,
-      "tabId": "history-f37PapyzI8a6i-gP0KmniA0",
-      "title": "Codependency and Logic Disconnect",
-      "status": "added",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      }
-    },
-    {
-      "ordinal": 588,
-      "tabId": "history-4nHPasnNKqOA9u8Pn5fr0Ak",
-      "title": "Wood Sugar Content",
-      "status": "added",
-      "counts": {
-        "prompts": 20,
-        "responses": 20
-      }
-    },
-    {
-      "ordinal": 589,
-      "tabId": "history-J2bPat3MJKLi7_UPmvaSOA",
-      "title": "Water Energy Content",
-      "status": "added",
-      "counts": {
-        "prompts": 36,
-        "responses": 36
-      }
-    },
-    {
-      "ordinal": 590,
-      "tabId": "history-xWPParjTFeOO-d8P4OiZ6QI",
-      "title": "False Alarm From Water Vapor",
-      "status": "added",
-      "counts": {
-        "prompts": 11,
-        "responses": 11
-      }
-    },
-    {
-      "ordinal": 591,
-      "tabId": "history-aULPap-1MICN9u8PsOTo-AU",
-      "title": "Autopoietic Systems Theory",
-      "status": "added",
-      "counts": {
-        "prompts": 8,
-        "responses": 8
-      }
-    },
-    {
-      "ordinal": 592,
-      "tabId": "history--j7PauTEGKH97_UP-v_04As",
-      "title": "XD-TAU-JKT Model Repository",
-      "status": "added",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      }
-    },
-    {
-      "ordinal": 593,
-      "tabId": "history-E0DPasH3EMaK9u8PmPXhiQc",
-      "title": "Pi is Not a Square",
+      "ordinal": 625,
+      "tabId": "1037252593",
+      "title": "Coriolis Effect Spark Sun",
       "status": "added",
       "counts": {
         "prompts": 2,
@@ -118,9 +18,349 @@
       }
     },
     {
-      "ordinal": 594,
-      "tabId": "history-azvPaqi2FZyM-d8Pjc2nsAo",
-      "title": "Quantum Law and Pi",
+      "ordinal": 626,
+      "tabId": "history-DXPQasvDHe_pi-gPi6DgoAQ",
+      "title": "Art Style Sparkle Effect",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 627,
+      "tabId": "history-CXDQaqrGG8O6i-gPhPPI0Q4",
+      "title": "This War of Mine",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 628,
+      "tabId": "history-JG3Qapj_EOKpi-gPqray6As",
+      "title": "Beatiefusiesche Visie Leren",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 629,
+      "tabId": "1037252524",
+      "title": "Zonder Vergunning Venten Amsterdam",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 630,
+      "tabId": "history-YGzQauH5PPTm7_UPuqGy4QY",
+      "title": "Topresultaat Verbeteren",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 631,
+      "tabId": "history-LmvQat6XL9mWi-gPhZrMyAo",
+      "title": "Digitale Van Gogh 3D Scan",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 632,
+      "tabId": "1037252503",
+      "title": "Hollandse Meesteressen",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 633,
+      "tabId": "1037252500",
+      "title": "Toegankelijkheid Betalen Vooraf",
+      "status": "added",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 634,
+      "tabId": "history-QGnQaoyiEq3g7_UP7_zD4Q8",
+      "title": "Kliederen en Abstract Schilderen",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 635,
+      "tabId": "history-u2jQap-1BJz_7_UPrqDz2Aw",
+      "title": "Toeschouwers bij Evenementen",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 636,
+      "tabId": "history-o2bQatLNMdaxi-gPjKKPyQ0",
+      "title": "Esthetische Voorkeuren in Vrouwen",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 637,
+      "tabId": "history-D2bQasGuB-qG9u8P9_zm2Aw",
+      "title": "OpenSea NFT Veilingen En Waarde",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 638,
+      "tabId": "history-QmXQavmsBZGAi-gP-umuuAw",
+      "title": "Maximale Rendement Op Veilingen",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 639,
+      "tabId": "history-YWTQapWKJdjPi-gP17GksAo",
+      "title": "Willy Weg Waaris Gein Jet",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 640,
+      "tabId": "history-1mPQaum5F9L2i-gPwuihkQw",
+      "title": "Recht Om Te Titreren",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 641,
+      "tabId": "history-TmPQarKENp6Z-d8P1ruluQM",
+      "title": "Google Ultron Meme History",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 642,
+      "tabId": "history-LmPQapWCJdC9i-gP2_2nWA",
+      "title": "Kunst, Waarde en het Lichaam",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 643,
+      "tabId": "history-GWPQatu-C-2ei-gPvZbRsQ8",
+      "title": "Juuli Juuni Ja Po",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 644,
+      "tabId": "history-N2LQasLzGYiD9u8PoOeVgAI",
+      "title": "Iets Willen Waarmaken",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 645,
+      "tabId": "1037252446",
+      "title": "Joint Torque Estimation",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 646,
+      "tabId": "history-YWHQatmfOIL-7_UP-puL8Ao",
+      "title": "Who Being Context",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 647,
+      "tabId": "history-lGDQap6IGKbg7_UP_9SIoA4",
+      "title": "Leidersbord Dashboard Ontwerpen",
+      "status": "added",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 648,
+      "tabId": "history-RmDQat2FE7uM9u8Ph-uByQw",
+      "title": "Goedkope Rommelmarkt Amsterdam",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 649,
+      "tabId": "history-LV_Qar_dLPLmi-gP65Dw0QU",
+      "title": "KC Verhouding Unicode Vector",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 650,
+      "tabId": "history-nF_QavimFfnOi-gP8feNiAQ",
+      "title": "Why Question Frameworks",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 651,
+      "tabId": "history-NF_Qauj9CaXli-gP_ZL6mA0",
+      "title": "Murdering Art",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 652,
+      "tabId": "history-417QatOQMY6xi-gP7czqyAk",
+      "title": "Strangest E-Mumblers",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 653,
+      "tabId": "history-z17QauZA8J6L6A_MsLuwAQ",
+      "title": "Furniture Salve Restoration",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 654,
+      "tabId": "history-rl7QapYLro-L6A-Wx4ixBw",
+      "title": "Productiviteit vs Kwaliteit",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 655,
+      "tabId": "history-VF7QaqS2Lqqci-gP5LrE2Ao",
+      "title": "Veters Verbergen",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 656,
+      "tabId": "history-6F3Qaru3JKSpi-gP-8yA6Ac",
+      "title": "Glow Mini Golf Experience",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 657,
+      "tabId": "history-0V3QauSlJo-9i-gP8fui8Qs",
+      "title": "Cube Frame Wire Jewelry",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 658,
+      "tabId": "1037252366",
+      "title": "Zorgadministratie AI Automatisering",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 659,
+      "tabId": "history-C13QarX-BLqC9u8Poc6w2Ag",
+      "title": "Ramen Noodles",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 660,
+      "tabId": "history--lvQasG1II6M9u8P0KTQsQc",
+      "title": "Afsluiten Automatisch Uitzetten",
       "status": "added",
       "counts": {
         "prompts": 6,
@@ -128,119 +368,9 @@
       }
     },
     {
-      "ordinal": 595,
-      "tabId": "history-BDbPauSVFLj_7_UPkrSFyQ8",
-      "title": "Pi Is a Square",
-      "status": "added",
-      "counts": {
-        "prompts": 25,
-        "responses": 25
-      }
-    },
-    {
-      "ordinal": 596,
-      "tabId": "history-PzLPavHeOdHOi-gP8_Ha6Qc",
-      "title": "Hugging Face Account Access",
-      "status": "added",
-      "counts": {
-        "prompts": 8,
-        "responses": 8
-      }
-    },
-    {
-      "ordinal": 597,
-      "tabId": "history-0S_PauesLpyri-gPpsXP6Ac",
-      "title": "DEI and Cultural Appropriation",
-      "status": "added",
-      "counts": {
-        "prompts": 7,
-        "responses": 7
-      }
-    },
-    {
-      "ordinal": 598,
-      "tabId": "history-IC_PavDqMaTxi-gPktr74A0",
-      "title": "Cultural Appropriation and DEI",
-      "status": "added",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      }
-    },
-    {
-      "ordinal": 599,
-      "tabId": "history-2irPapLsHsKS9u8P__r-4AM",
-      "title": "Rare Flowers in Australia",
-      "status": "added",
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      }
-    },
-    {
-      "ordinal": 600,
-      "tabId": "history-qCDParyXG8qqi-gP06GcyQM",
-      "title": "Mechanical Turk Turban",
-      "status": "added",
-      "counts": {
-        "prompts": 26,
-        "responses": 26
-      }
-    },
-    {
-      "ordinal": 601,
-      "tabId": "history-uxnPasLQFu3p7_UPhM-OyAo",
-      "title": "Medical Triage Emergency",
-      "status": "added",
-      "counts": {
-        "prompts": 24,
-        "responses": 24
-      }
-    },
-    {
-      "ordinal": 602,
-      "tabId": "history-HhzPaqPIDq2A9u8P5dSpyAs",
-      "title": "Diagram Request",
-      "status": "added",
-      "counts": {
-        "prompts": 4,
-        "responses": 4
-      }
-    },
-    {
-      "ordinal": 603,
-      "tabId": "history-tRXPaqLkJ_Kti-gP_a2d2A4",
-      "title": "Penis Health Concerns",
-      "status": "added",
-      "counts": {
-        "prompts": 4,
-        "responses": 4
-      }
-    },
-    {
-      "ordinal": 604,
-      "tabId": "history-MxHPapXaOu6Wi-gPqaH-mAg",
-      "title": "Citric Acid Orange Trip",
-      "status": "added",
-      "counts": {
-        "prompts": 7,
-        "responses": 7
-      }
-    },
-    {
-      "ordinal": 605,
-      "tabId": "history-5g_PapawHPqJ9u8PuPb1SA",
-      "title": "Gecko Sticky Grip Hadamard Product",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 606,
-      "tabId": "history-INzPapj1C5GK9u8Pq9_coAU",
-      "title": "Hoogmoed En De Val",
+      "ordinal": 661,
+      "tabId": "history-WlvQaqCcH8S-i-gPmcGQiQw",
+      "title": "Details in het Zichtveld",
       "status": "added",
       "counts": {
         "prompts": 2,
@@ -248,169 +378,9 @@
       }
     },
     {
-      "ordinal": 607,
-      "tabId": "history-zNrParqUOamM9u8P0s-y6AY",
-      "title": "NetworkingDay 36 LAN Event",
-      "status": "added",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      }
-    },
-    {
-      "ordinal": 608,
-      "tabId": "history-8dnPatOWL5qAi-gPzMav6A4",
-      "title": "Red Alert 2 Waypoint Guide",
-      "status": "added",
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      }
-    },
-    {
-      "ordinal": 609,
-      "tabId": "history-AdPPauSPFOPp7_UP0N2hgQg",
-      "title": "Audio Reactive Music Syncing",
-      "status": "added",
-      "counts": {
-        "prompts": 4,
-        "responses": 4
-      }
-    },
-    {
-      "ordinal": 610,
-      "tabId": "history--M_PaozgGfD8i-gP6JifuA4",
-      "title": "Immediate Blocking",
-      "status": "added",
-      "counts": {
-        "prompts": 11,
-        "responses": 11
-      }
-    },
-    {
-      "ordinal": 611,
-      "tabId": "history-y8_PaszIJ766i-gPuvik6QI",
-      "title": "kill and father and roko's bassilisk is a safety trigger? I Tom Klootwijk NL200678942 10-07-1990 am a creative technologist and speak in codes and do red teaming",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 612,
-      "tabId": "history-i8_PavDwL8vti-gPwvHByAI",
-      "title": "roko's bassilisk is what comes to mind",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 613,
-      "tabId": "history-f83PatulDNCui-gP1ZmouAM",
-      "title": "Commando Sniper Arctic Warfare",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 614,
-      "tabId": "history-ysrPauTTAoGK9u8P4q-zqQI",
-      "title": "Dissociation Duration of Focus",
-      "status": "added",
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      }
-    },
-    {
-      "ordinal": 615,
-      "tabId": "history-98nParH6E7yhi-gPsJKE8AE",
-      "title": "Apex Legends Bloodhound Tracking",
-      "status": "added",
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      }
-    },
-    {
-      "ordinal": 616,
-      "tabId": "history-_MjPaqGaDN_t7_UP3o6J2A8",
-      "title": "Word Is Born Hiphop Expression",
-      "status": "added",
-      "counts": {
-        "prompts": 4,
-        "responses": 4
-      }
-    },
-    {
-      "ordinal": 617,
-      "tabId": "history-nMfPavyPGt-ti-gPofy86Ac",
-      "title": "New Paradigm New Words",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 618,
-      "tabId": "history-DcDPasrhJOD-7_UPk8_ayQI",
-      "title": "Beauty and Mental Clarity",
-      "status": "added",
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      }
-    },
-    {
-      "ordinal": 619,
-      "tabId": "history-rr_Paon6NK3Li-gP5rWo8Ak",
-      "title": "State's Evidence Explained",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 620,
-      "tabId": "history-Hb_Pap3rJISA9u8PjYDT2QM",
-      "title": "Sotheby's Auction Schedule",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 621,
-      "tabId": "history-XKfPatm7MOHo7_UPidCWoAM",
-      "title": "Calculated Risk Taking",
-      "status": "added",
-      "counts": {
-        "prompts": 7,
-        "responses": 7
-      }
-    },
-    {
-      "ordinal": 622,
-      "tabId": "history-FqHPaoaUGdP_7_UP_Mus4AY",
-      "title": "Video Title Information",
-      "status": "added",
-      "counts": {
-        "prompts": 7,
-        "responses": 7
-      }
-    },
-    {
-      "ordinal": 623,
-      "tabId": "history-Nt3PatXAC-OO-d8Prq7YiQI",
-      "title": "digital cancer",
+      "ordinal": 662,
+      "tabId": "history-GVrQasKqKoip9u8P3LeayQQ",
+      "title": "Future Days Confucius Ontzien Afmaken",
       "status": "added",
       "counts": {
         "prompts": 2,
@@ -418,58 +388,220 @@
       }
     },
     {
-      "ordinal": 624,
-      "tabId": "history-j9zPau7MCKCD9u8Pw4jWuA8",
-      "title": "locked in syndrome",
+      "ordinal": 663,
+      "tabId": "history-m1nQarGgBePp7_UP8du06QE",
+      "title": "Boom En Bos",
       "status": "added",
       "counts": {
         "prompts": 3,
         "responses": 3
+      }
+    },
+    {
+      "ordinal": 664,
+      "tabId": "history-TlnQapGUIMyD9u8P0Km5sAc",
+      "title": "Houtnerf Vormen En Eigenschappen",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 665,
+      "tabId": "history-FlnQao7QA5SP9u8P38zs6Qo",
+      "title": "Grid of Stars Layout",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 666,
+      "tabId": "history-61jQar3WJbj87_UPwM_n2QY",
+      "title": "Verkeerd Oefenen Herstellen",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 667,
+      "tabId": "history-t1jQao-YEOuB9u8Pvc7soQI",
+      "title": "Leren Loslaten Van De Boog",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 668,
+      "tabId": "history-AVjQasqkMvKJ9u8PneT50Ac",
+      "title": "Oneindige Toren Blokken Stapelen",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 669,
+      "tabId": "history-alfQao1HsLmL6A-o4uv5Dw",
+      "title": "Verzuring van Beeld",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 670,
+      "tabId": "history-VVbQatnbKZ-A9u8P7JqG-AY",
+      "title": "Equilibrium Dot Product 90 Graden",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 671,
+      "tabId": "history-Z1XQas_9KuyN9u8PhKXGmAU",
+      "title": "Fragiele Botbreuken Lijst",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 672,
+      "tabId": "history-ilTQapadDKy79u8PvrGiqA0",
+      "title": "Lattice Structure Definition",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 673,
+      "tabId": "history-kVPQavC9N4SL9u8Px6HD4AY",
+      "title": "Kil Betekenis",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 674,
+      "tabId": "history-plLQaqHkNaTti-gPuo6eoQg",
+      "title": "Psychopathologie",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 675,
+      "tabId": "history-zk_QaueeKt7h7_UP6s69oAg",
+      "title": "Ontleding Schilderij Rembrandt",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 676,
+      "tabId": "history-QXrQaoD4K-y9i-gP8NHPsA0",
+      "title": "Grafische Cultuur op NDSM Werf",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 677,
+      "tabId": "history-OXjQarPBJcfli-gPmfu1uQI",
+      "title": "Brandpuntjes Spelshow",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 678,
+      "tabId": "history-KnbQaqaDNfnOi-gP8feNiAQ",
+      "title": "Verschil Kunst En Seksuele Meesteres",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
       }
     }
   ],
   "newOrdinals": [
-    583,
-    584,
-    585,
-    586,
-    587,
-    588,
-    589,
-    590,
-    591,
-    592,
-    593,
-    594,
-    595,
-    596,
-    597,
-    598,
-    599,
-    600,
-    601,
-    602,
-    603,
-    604,
-    605,
-    606,
-    607,
-    608,
-    609,
-    610,
-    611,
-    612,
-    613,
-    614,
-    615,
-    616,
-    617,
-    618,
-    619,
-    620,
-    621,
-    622,
-    623,
-    624
+    625,
+    626,
+    627,
+    628,
+    629,
+    630,
+    631,
+    632,
+    633,
+    634,
+    635,
+    636,
+    637,
+    638,
+    639,
+    640,
+    641,
+    642,
+    643,
+    644,
+    645,
+    646,
+    647,
+    648,
+    649,
+    650,
+    651,
+    652,
+    653,
+    654,
+    655,
+    656,
+    657,
+    658,
+    659,
+    660,
+    661,
+    662,
+    663,
+    664,
+    665,
+    666,
+    667,
+    668,
+    669,
+    670,
+    671,
+    672,
+    673,
+    674,
+    675,
+    676,
+    677,
+    678
   ]
 }
