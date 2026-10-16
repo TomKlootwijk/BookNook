@@ -1,11 +1,11 @@
 {
-  "exportDate": "2026-10-15",
-  "scopeCount": 713,
-  "capturedCount": 713,
-  "prompts": 3236,
-  "responses": 3236,
-  "mathRendered": 8175,
-  "embeddedImages": 7837,
+  "exportDate": "2026-10-16",
+  "scopeCount": 716,
+  "capturedCount": 716,
+  "prompts": 3278,
+  "responses": 3278,
+  "mathRendered": 8291,
+  "embeddedImages": 7862,
   "conversations": [
     {
       "ordinal": 1,
@@ -7787,11 +7787,11 @@
     {
       "ordinal": 708,
       "title": "after nuclear explosion there is an implosion because of vacuum",
-      "prompts": 12,
-      "responses": 12,
+      "prompts": 36,
+      "responses": 36,
       "html": "conversations/708-after-nuclear-explosion-there-is-an-implosion-because-of-vacuum.html",
       "markdown": "conversations/708-after-nuclear-explosion-there-is-an-implosion-because-of-vacuum.md",
-      "source": "https://www.google.com/search?q=after+nuclear+explosion+there+is+an+implosion+because+of+vacuum&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIxODQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpyNERNgGUvtzeXj2mIDU3e7pfKZK9Z3kVyhqFyDfXkWNVW0W5A9GuHkE6KGnjhVTlT9nrT1dX5G8k_wbhjK3mi7RnbSU0ZNpxuAC95MoZFdk6EG7S&aep=10&ntc=1&sxsrf=APpeQnuMQi9wYaeC0qbJFhvL5V9Rv0k_lg%3A1792097711477&mstk=AUtExfCP77fL1GKEDcXYqlENAXMZvvZn60sw5Y8tZLzTU_5IGBVXIIvrYaG-dEVWPTFACEvmYti8LV1xH5I1S143uync66HhELnrpWsdJFVbspy2F-4N_TBc78cqgwX2RkYOGuuDp0McDLqOCO-1PxgAoDq8hQJsmWZP6J_mYmfVAB6cUeC2IyOk0SBthSYabnbFUTfJavaFF3igQB2iZJJM0fptUoQJ5Ttlj5Pj37AjSaIOyuk-5d_YrKcAbANJzCBUfRjKnjT85gGGqaXkhUX8kJe0_OHFlSga9oPbHB6VthR7PD71bhJha0KtdqHtVCcHCg3JyyNIsAOXvQ&aioh=3&csuir=1&cs=1&mtid=rz3RasXnNZL97_UP_Y7q8AQ&lns_mode=cvst&udm=50",
+      "source": "https://www.google.com/search?q=after+nuclear+explosion+there+is+an+implosion+because+of+vacuum&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIxODQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpyNERNgGUvtzeXj2mIDU3e7pfKZK9Z3kVyhqFyDfXkWNVW0W5A9GuHkE6KGnjhVTlT9nrT1dX5G8k_wbhjK3mi7RnbSU0ZNpxuAC95MoZFdk6EG7S&aep=10&ntc=1&sxsrf=APpeQnuMQi9wYaeC0qbJFhvL5V9Rv0k_lg%3A1792097711477&mstk=AUtExfC0rfiAA5OBh0JZD_MUEce6I1GHHa4mc-R3caNhbOtjWjku3xpWtYxFpf6KaT_uxu8FHigK0BwcwoTkPAcPkXrtFmJOxHbYXVRu0EtYB1MmqoNwNrI3URSH7GToWJWDK1Dq4jtDYTmYhj2stJ68cQ2-2ius19lHfSeQuwwv6nJHP-SxMy9DFuOF4_u9Snx-S9wKC9izqobpW6EhVRXZXM5Ycd7DxuZWBJR2byn5D3aUuocrJN66sMyGAg8obKHYfUoC6-hTq65ukgjFfpNuRQTO2_Ve-oBFMvqc021t_DW53Q0e62GDasHWk2nGp9ecbmMNXfRwjcPO2g&aioh=3&csuir=1&cs=1&mtid=rz3RasXnNZL97_UP_Y7q8AQ&lns_mode=cvst&udm=50",
       "recoveredFromSavedUrl": false,
       "pdfPage": 3019
     },
@@ -7804,7 +7804,7 @@
       "markdown": "conversations/709-two-preparations.md",
       "source": "https://www.google.com/search?sca_esv=3c71a091e253e848&sxsrf=APpeQnuF8Fw0NixXzcGroNpU0zguwPUR8w%3A1792097366503&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahcKEwjAq9u99ryXAxUAAAAAHQAAAAAQLA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBSHXAmYAxcVw2SCoWWPoIOiTYAeAl1E5c-pzDYDfi8C9iQ7kjygStqQob9vjJ_SqHsBSfImaNOh_7t1kerd_ONmqdrOK4MO8ERI3mMVJWklNZmlDWp9iZU1cFHbCEBQLAHythYQyNBkSZUoKUpHQo8H7eM1KsYWxLsX5wEUzYfPAkaM4okzNK2gB1AE-JL6A-hP0fKFw5509E6whBcGj7ppxz8nBB5ZtFJ9nv3Tb_i2h20KO3_USOSCay5AUIprzQAWH6gF7NhC1WfgGKQM7gl7jsff5kEuIlvaHYNLDEAoOIPyoBZyjVpEpAlNc53SvT5FVOqThuqvg&mtid=WDzRaoL8Bfn77_UPyNyc8A4&csuir=1&aep=26&q=I+have+two+preperates",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3026
+      "pdfPage": 3034
     },
     {
       "ordinal": 710,
@@ -7815,7 +7815,7 @@
       "markdown": "conversations/710-24-7-online-streaming.md",
       "source": "https://www.google.com/search?q=24%2F7+online+streaming&client=ms-android-xiaomi-terr2-rso2&hs=sFUB&sca_esv=3c71a091e253e848&sxsrf=APpeQnvkIgaZel9qMpit73QpjNDFVHELxQ%3A1792093191142&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE6A5_9xraAmHsehE8ybQanlVjC0oR5HXQL7jPa2ohH6qaIiFq9t8pFDnCMMKlnILXyc4mx3J3r8--G4XLtg8m0gOFU-UhflbW7zBBq_uwKpBOZMixxKmhHQpYqQHinp03LFflXr4jf9qmpW50TSqcjyAgbGJ&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjmvr-w47yXAxWI1AIHHSMlAgQQ2J8OegQIEBAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBE2Q2B2wKeMXRATMXolfQJTZRyPXDhFZo_Mw7jYQ-qND0XuXC2Ct7FlaeQr2_7f65bpT9qKsT0i2QP14RXDIsAGeECveheG1FYBWomAMAOJiDRt-yDWCmgguT_iyKHsc7_fq5h6gBO_4nkV--V-pZS_l7xhx86tcU4LM6pSkAQLcZr4DSuYRd_HX9rn2Bd8AwS4g3_ABgwjVf2RWDd2Lm2A9aDaeTMBpOUfCt3HiiSsQxExg3K3DWNs3FIuaxb1bHjqTgNja6QoQ&csuir=1&mtid=CSzRaqDJCIDHi-gP9M2igA8&lns_mode=cvst&udm=50",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3031
+      "pdfPage": 3039
     },
     {
       "ordinal": 711,
@@ -7826,7 +7826,7 @@
       "markdown": "conversations/711-weide-ijssel.md",
       "source": "https://www.google.com/search?q=weide+ijssel&sca_esv=c33e463457e396b0&sxsrf=APpeQnsD0Japb_gndrsEmBqx_XIU8TKo_g%3A1792091977594&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpWFun_Hbf9lrDzcGOCzTXwLF8QrRYckTcchjYAyznaoWyVNutNj3vDs5z9k0_6hM1lzEV5TC-7hhOxbSchppD-z-9ZC8&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiBr-rt3ryXAxXY9gIHHSunLssQ2J8OegQIFxAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfDVsVMmqMFrlFGzuFyOS4jEZJDTL3nOyJfoF4-gsxXv8c2JbJdpjDyyydut6E2iekhvDNMAMMxdBPVyb8zOBWAWc94RVYlCFp0T5qWa_D3rrj_JRcxjw1-6Vc_IfYxor9KzfIH8PG6AYOVsChwEfL4AMQnplthwIya2Y40hFpnQMCosAgqj7wqTLeJefYv9K9q4IZB00PQ5CSIxB4CqaxFMOhc3sExw1J2USpy3aEua7LEfF0E0QM1WShK7R1ItNpqxsikmrQorgaVr_WIK3tbDrae-1v74FGOXVrMCfUpUXfvVhFPMuL-JTeVdjTPeRYt7nhvEhlc27A&csuir=1&mtid=TCfRapDgI9OOi-gP3-n76AQ&udm=50",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3078
+      "pdfPage": 3086
     },
     {
       "ordinal": 712,
@@ -7837,7 +7837,7 @@
       "markdown": "conversations/712-gibbs-free-energy-simulation.md",
       "source": "https://www.google.com/search?sca_esv=3c71a091e253e848&sxsrf=APpeQnuF8Fw0NixXzcGroNpU0zguwPUR8w%3A1792097366503&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahcKEwjAq9u99ryXAxUAAAAAHQAAAAAQLA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfDv8jUY0Y5dB2BbmCP_fd3KuS3Ga1L7G0DdJL0qvxXaODozSTt9gKPy2r5Bp_kiROFIgEQZZufPU08rO5FnZvdo-vcA0e0yIdh3-Mu6IoHT05WoeeBUyWN_lzajytIJXcyeNs3qocBBnIAgjWioNYFexnnTAoGP8WJ_YKxmSI1J4hdEicnfHo5qF28nPvH1vF8hrQ9rV2ZELSyMVpSH3KIQfTQ7bBzKOkzi8Pkvi0dqYB7lOwho_fgQYH3D-148UvY4kjzFEeVU34CuKA9UYX-jV5lI4valiB6E8LKb3uBIfJez90cfKvznFnwN2n0E13ksLeuWVYF4sA&mtid=xinRav-vJajbi-gP0cmxyAo&csuir=1&aep=26&q=Gibbs+Free+Energy+Simulation",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3094
+      "pdfPage": 3102
     },
     {
       "ordinal": 713,
@@ -7848,7 +7848,40 @@
       "markdown": "conversations/713-digital-enslavement.md",
       "source": "https://www.google.com/search?sca_esv=3c71a091e253e848&sxsrf=APpeQnuF8Fw0NixXzcGroNpU0zguwPUR8w%3A1792097366503&vsint=&ntc=1&cs=1&sa=X&ved=0CB8Q2_wOahcKEwjAq9u99ryXAxUAAAAAHQAAAAAQLA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfB5JNI_Z4A4oK405ZMXQ2Oj_4AiDnI-RrZNEer2tBwS7lpO-HK1HV_gWWE_lUox2_sz7zOvI4GPtOa5rsxtvzATkFLSJpnA98orhVqPRiY3sy4pVKl_rQt-JMcL-FQMt6DGIF-GkE3Hox1SJea4y_2Y82IIhe_kpDN1cM7fPWJvtZk8Fs9kIdGylp4Qn971VwufL2HnG_bpI-JDYWoIjS2HvPE0wA8j3KohV-pDCFAFGODGxCmvx2DRZCpHH1nbBQBKgO-8wd3i6Q&mtid=OiTRasOAN-L97_UPtpLKgA0&csuir=1&aep=26&q=digital+enslavement",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3096
+      "pdfPage": 3104
+    },
+    {
+      "ordinal": 714,
+      "title": "Trewel Virtual Reality",
+      "prompts": 9,
+      "responses": 9,
+      "html": "conversations/714-trewel-virtual-reality.html",
+      "markdown": "conversations/714-trewel-virtual-reality.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIxODQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQnuMQi9wYaeC0qbJFhvL5V9Rv0k_lg%3A1792097711477&cs=1&udm=50&atvm=2&ved=0CAEQ2_wOahcKEwjo4JyL3b2XAxUAAAAAHQAAAAAQJA&mstk=AUtExfCrCrVb_uUOn_tPUQciLYedV9RG9ijmquLEJotCVNGNMHa_NVSC4TUut2fXocsRRY44GKE4UYpUF0rTfFJM-R56j6fbHaCm7bjiKjEnrkamwqbfFOF248tMBzaB2JHX5-kPZSdAga7_12Ukz20i8XHR2mST88Pv0AzaZigIgvmMk7PGUkX91pPVcO8Oe1nw5QXHokdwIsMaAvHvr9dVzPn3TujP7jurk51tCrQp3BWspZn8PteATHHFxCCDc1LkVYIBr9PclwbMYef8kR5B70MRWqX2hCfIBZGgFUAJuRp1lkLHllo_wdhOzsArrB_6MD0RPt-giJA8aA&mtid=DanRarlUo-Dv9Q_cscHoCw&csuir=1&aep=26&q=trewel",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3113
+    },
+    {
+      "ordinal": 715,
+      "title": "Goedkoop Is Duurkoop",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/715-goedkoop-is-duurkoop.html",
+      "markdown": "conversations/715-goedkoop-is-duurkoop.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIxODQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQnuMQi9wYaeC0qbJFhvL5V9Rv0k_lg%3A1792097711477&cs=1&udm=50&atvm=2&ved=0CAcQ2_wOahcKEwjo4JyL3b2XAxUAAAAAHQAAAAAQJA&mstk=AUtExfAFjeENFXkx_2tffPYD3bGJnk3o4Cx1jrK5B20zzWKpaq5wf3FlxrPjwSRC7fQjKzACKoQNATDpJFRMxYAliYDJ09tK2kfpoScQh8HWlTOMIomy0fpOznA8bsQQqxKoO8ujG7e36c3BjZV3zxRFWB5NnF_CGTbx3ML6gmvgAk74td9t76YX-h1ZgucHJ9rGBLp87L_WwkDVG4l6v1hPuFq-rL5lalrrKoLKvrBw3mVSPC9brqrqicZkYphb9pYp3IKOEkc9oQ6VxtWvZ4QpyBe8tfSH5xnTozw58w8dxo1sGoeLks6Iaedv5i-rY1-jiZsMeJpvlePEXA&mtid=TafRasSeGoHKi-gPkKeH6Qw&csuir=1&aep=26&q=goedkoop+duurkoop",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3124
+    },
+    {
+      "ordinal": 716,
+      "title": "Accumulated Trauma and Emotion",
+      "prompts": 8,
+      "responses": 8,
+      "html": "conversations/716-accumulated-trauma-and-emotion.html",
+      "markdown": "conversations/716-accumulated-trauma-and-emotion.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIxODQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQnuMQi9wYaeC0qbJFhvL5V9Rv0k_lg%3A1792097711477&cs=1&udm=50&atvm=2&ved=0CBMQ2_wOahcKEwjo4JyL3b2XAxUAAAAAHQAAAAAQJA&mstk=AUtExfADSmnM3vLEh4Ed0dMddUc0efIXZzn6NzdVp1QfYUUfX5Yzp_Y7Mz0T3J_VIraggynqCuXPRcdv0cRWBTisjH283fG6_Eipmj1_KJB6i6cNb9ZnGi3WFJkAf6N-Lx49CI9OTBqRCCYhT1JtlR-2A1cwglA-zges6_qbpMpgyjZfaJKiRJS-IXqnZRzNgmv_A9ufWXR5kea-HtUDiIhpLPfJ13NJNAdmHJxjj_zilYEDfZGyIJu_gsgwIt9rSRwPUKo969Q93w6xxNIpUYAw2iJw2oFYJgNp82Oq9FwvSK0uf7HE_yr4RSyonOZNavhHryzz55P5WYIRhw&mtid=j0rRatXZAf2ki-gP4Nn70AI&csuir=1&aep=26&q=accumulated+trauma+and+a+single+experiencer+of+all+wars+all+emotions+all+human+negative+experiences+there+is+a+limit+right+to+a+single+person+experiencing+it+even+premonitions+included",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3125
     }
   ],
   "missing": [],
@@ -7864,7 +7897,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "All scoped conversation slots are archived. The additional 15 October J batch preserves 4 original vector diagrams. Animations are static snapshots with displayed settings retained. One embedded simulation displays a source error; two PDF attachment names are visible but their originals are not downloadable. Source error responses remain unchanged. All earlier source and media gaps remain recorded.",
+    "note": "All scoped conversation slots are archived. Batch A of 16 October adds three conversations and extends conversation 708 by 24 exchanges. No new embedded doodles or generated images were present. Two later response slots display Google source-error messages; those messages are retained. Previously archived attachment evidence and all earlier source and media gaps remain recorded.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -9913,137 +9946,131 @@
           "path": null
         }
       ]
+    },
+    "october16AMedia": {
+      "date": "2026-10-16-a",
+      "batchLabel": "A",
+      "newConversations": 3,
+      "newPairs": 42,
+      "sourceFigures": 0,
+      "vectorSnapshots": 0,
+      "canvasSnapshots": 0,
+      "generatedImages": [],
+      "sourceErrorResponses": [
+        {
+          "conversation": 708,
+          "response": 31,
+          "text": "Something went wrong and an AI response wasn't generated."
+        },
+        {
+          "conversation": 708,
+          "response": 35,
+          "text": "It looks like there's no response available for this search. Try asking something else."
+        }
+      ],
+      "blankResponses": [],
+      "updatedConversations": [
+        708
+      ],
+      "attachmentEvidence": "Original attachment names, availability notes and archived v1.5 PDF from conversation 708 retained; the fresh Google readback omitted those older upload chips."
     }
   },
   "latestUpdate": {
-    "at": "2026-10-15T21:17:00.114521+00:00",
-    "date": "2026-10-15",
-    "batchId": "2026-10-15-j",
-    "openAiModeTabs": 215,
-    "uniqueOpenConversations": 207,
+    "at": "2026-10-16T04:52:38.247666+00:00",
+    "date": "2026-10-16",
+    "batchId": "2026-10-16-a",
+    "openAiModeTabs": 186,
+    "uniqueOpenConversations": 179,
     "historyConversations": 300,
-    "method": "Compared 215 initial open AI Mode tabs and all 300 visible history entries with the archive; refreshed 188 open tabs and the recent history after the additional user request. Captured six new conversations and two later replies in conversation 679. Original SVGs were saved as static snapshots; source errors and unavailable attachment filenames are documented.",
+    "method": "Compared 186 initial open AI Mode tabs and all 300 visible history entries with the archive, then refreshed the visible tab inventory and history head. Captured three new conversations and 24 later exchanges in conversation 708. Verified the completed response controls and absence of embedded doodle frames or generated images in these additions. Previously archived attachment evidence is preserved.",
     "records": [
+      {
+        "ordinal": 714,
+        "tabId": "history-DanRarlUo-Dv9Q_cscHoCw",
+        "title": "Trewel Virtual Reality",
+        "status": "added",
+        "counts": {
+          "prompts": 9,
+          "responses": 9
+        }
+      },
+      {
+        "ordinal": 715,
+        "tabId": "history-TafRasSeGoHKi-gPkKeH6Qw",
+        "title": "Goedkoop Is Duurkoop",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 716,
+        "tabId": "history-j0rRatXZAf2ki-gP4Nn70AI",
+        "title": "Accumulated Trauma and Emotion",
+        "status": "added",
+        "counts": {
+          "prompts": 8,
+          "responses": 8
+        }
+      },
       {
         "ordinal": 708,
         "tabId": "history-rz3RasXnNZL97_UP_Y7q8AQ",
         "title": "Nuclear Explosion Dynamics",
-        "status": "added",
-        "counts": {
-          "prompts": 12,
-          "responses": 12
-        }
-      },
-      {
-        "ordinal": 709,
-        "tabId": "history-WDzRaoL8Bfn77_UPyNyc8A4",
-        "title": "Two Preparations",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 710,
-        "tabId": "history-CSzRaqDJCIDHi-gP9M2igA8",
-        "title": "24/7 Online Stream Setup",
-        "status": "added",
-        "counts": {
-          "prompts": 66,
-          "responses": 66
-        }
-      },
-      {
-        "ordinal": 711,
-        "tabId": "history-TCfRapDgI9OOi-gP3-n76AQ",
-        "title": "Weide Ijssel",
-        "status": "added",
-        "counts": {
-          "prompts": 12,
-          "responses": 12
-        }
-      },
-      {
-        "ordinal": 712,
-        "tabId": "history-xinRav-vJajbi-gP0cmxyAo",
-        "title": "Gibbs Free Energy Simulation",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 713,
-        "tabId": "history-OiTRasOAN-L97_UPtpLKgA0",
-        "title": "Digital Enslavement",
-        "status": "added",
-        "counts": {
-          "prompts": 5,
-          "responses": 5
-        }
-      },
-      {
-        "ordinal": 679,
-        "tabId": "history-PB3Rasb_G63l7_UPko6ewQE",
-        "title": "Streamlining Processes",
         "status": "updated",
         "previousCounts": {
-          "prompts": 20,
-          "responses": 20
+          "prompts": 12,
+          "responses": 12
         },
         "counts": {
-          "prompts": 22,
-          "responses": 22
+          "prompts": 36,
+          "responses": 36
         }
       }
     ],
     "newOrdinals": [
-      708,
-      709,
-      710,
-      711,
-      712,
-      713
+      714,
+      715,
+      716
     ]
   },
   "pdf": {
-    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-15.pdf",
-    "pages": 3104,
-    "bytes": 132190433,
-    "sha256": "e3685965fdfd8157f091812947dafc203cee6c5f41bb2e9a403945806c17bae2",
-    "promptMarkersVerified": 3236,
-    "responseMarkersVerified": 3236,
-    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the seven freshly rendered chapters; rebuilt index, bookmarks and continuous footers.",
+    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16.pdf",
+    "pages": 3131,
+    "bytes": 134036932,
+    "sha256": "e980edba45189134d66927dd06a736dab5bbe19b1fb283e6476ae868a0b9235e",
+    "promptMarkersVerified": 3278,
+    "responseMarkersVerified": 3278,
+    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the four freshly rendered chapters; rebuilt index, bookmarks and continuous footers.",
     "volumes": [
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-15-volume-01.pdf",
-        "bytes": 62049291,
-        "sha256": "f536644ac93a095fd3d94fd32727911d60b973fc7d3f7ce19f7d6075003c5e57",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-01.pdf",
+        "bytes": 62991404,
+        "sha256": "b3bdacb2cb324165f88dade4c3ddb37e24fe1c9def72de0fe3e29f248deb96d0",
         "firstPage": 1,
         "lastPage": 801
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-15-volume-02.pdf",
-        "bytes": 42204238,
-        "sha256": "5121096517fdc94d537c5bde29815fa57684819e7fa5f57eae187bd7404e92ec",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-02.pdf",
+        "bytes": 42491068,
+        "sha256": "7d2d3479d469ce79bdbfc55154acc233e29663cc32c1f8fb706d6807b66a335a",
         "firstPage": 802,
         "lastPage": 1605
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-15-volume-03.pdf",
-        "bytes": 57769926,
-        "sha256": "deea3b8de9f597fe0b0b9f59ae2d4e430f928d677d5ca5fc912f92c66a2eae69",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-03.pdf",
+        "bytes": 58056247,
+        "sha256": "42f1081079710926a0fcaafd0bd718c3d562f6c0d3b19b0730811561637f176f",
         "firstPage": 1606,
         "lastPage": 2407
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-15-volume-04.pdf",
-        "bytes": 46277440,
-        "sha256": "c1c922349d778878043c02588816d6c4db27672c8fc196b634d1d9d1d915008d",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-04.pdf",
+        "bytes": 47273075,
+        "sha256": "614e6f2f1d5260953314ebc1f834dece67d32b507476a41fcdad8731c073f8c7",
         "firstPage": 2408,
-        "lastPage": 3104
+        "lastPage": 3131
       }
     ]
   }

@@ -1,0 +1,30 @@
+{
+  "batchLabel": "A",
+  "historyEntries": 300,
+  "newConversations": 3,
+  "openTabs": 186,
+  "refreshedVisibleTabsIncludingCaptureTab": 187,
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "sourceErrorResponses": [
+    {
+      "conversation": 708,
+      "response": 31,
+      "text": "Something went wrong and an AI response wasn't generated."
+    },
+    {
+      "conversation": 708,
+      "response": 35,
+      "text": "It looks like there's no response available for this search. Try asking something else."
+    }
+  ],
+  "blankResponses": [],
+  "updatedConversations": [
+    {
+      "ordinal": 708,
+      "oldPairs": 12,
+      "newPairs": 36
+    }
+  ],
+  "newOriginalFigures": 0
+}

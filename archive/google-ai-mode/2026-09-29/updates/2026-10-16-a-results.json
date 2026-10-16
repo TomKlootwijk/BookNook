@@ -1,0 +1,60 @@
+{
+  "at": "2026-10-16T04:52:38.247666+00:00",
+  "date": "2026-10-16",
+  "batchId": "2026-10-16-a",
+  "openAiModeTabs": 186,
+  "uniqueOpenConversations": 179,
+  "historyConversations": 300,
+  "method": "Compared 186 initial open AI Mode tabs and all 300 visible history entries with the archive, then refreshed the visible tab inventory and history head. Captured three new conversations and 24 later exchanges in conversation 708. Verified the completed response controls and absence of embedded doodle frames or generated images in these additions. Previously archived attachment evidence is preserved.",
+  "records": [
+    {
+      "ordinal": 714,
+      "tabId": "history-DanRarlUo-Dv9Q_cscHoCw",
+      "title": "Trewel Virtual Reality",
+      "status": "added",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 715,
+      "tabId": "history-TafRasSeGoHKi-gPkKeH6Qw",
+      "title": "Goedkoop Is Duurkoop",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 716,
+      "tabId": "history-j0rRatXZAf2ki-gP4Nn70AI",
+      "title": "Accumulated Trauma and Emotion",
+      "status": "added",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 708,
+      "tabId": "history-rz3RasXnNZL97_UP_Y7q8AQ",
+      "title": "Nuclear Explosion Dynamics",
+      "status": "updated",
+      "previousCounts": {
+        "prompts": 12,
+        "responses": 12
+      },
+      "counts": {
+        "prompts": 36,
+        "responses": 36
+      }
+    }
+  ],
+  "newOrdinals": [
+    714,
+    715,
+    716
+  ]
+}

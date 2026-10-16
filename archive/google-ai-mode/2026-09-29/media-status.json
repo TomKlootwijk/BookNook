@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All scoped conversation slots are archived. The additional 15 October J batch preserves 4 original vector diagrams. Animations are static snapshots with displayed settings retained. One embedded simulation displays a source error; two PDF attachment names are visible but their originals are not downloadable. Source error responses remain unchanged. All earlier source and media gaps remain recorded.",
+  "note": "All scoped conversation slots are archived. Batch A of 16 October adds three conversations and extends conversation 708 by 24 exchanges. No new embedded doodles or generated images were present. Two later response slots display Google source-error messages; those messages are retained. Previously archived attachment evidence and all earlier source and media gaps remain recorded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -2057,5 +2057,32 @@
         "path": null
       }
     ]
+  },
+  "october16AMedia": {
+    "date": "2026-10-16-a",
+    "batchLabel": "A",
+    "newConversations": 3,
+    "newPairs": 42,
+    "sourceFigures": 0,
+    "vectorSnapshots": 0,
+    "canvasSnapshots": 0,
+    "generatedImages": [],
+    "sourceErrorResponses": [
+      {
+        "conversation": 708,
+        "response": 31,
+        "text": "Something went wrong and an AI response wasn't generated."
+      },
+      {
+        "conversation": 708,
+        "response": 35,
+        "text": "It looks like there's no response available for this search. Try asking something else."
+      }
+    ],
+    "blankResponses": [],
+    "updatedConversations": [
+      708
+    ],
+    "attachmentEvidence": "Original attachment names, availability notes and archived v1.5 PDF from conversation 708 retained; the fresh Google readback omitted those older upload chips."
   }
 }
