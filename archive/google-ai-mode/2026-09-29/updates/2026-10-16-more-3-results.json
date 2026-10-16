@@ -1,0 +1,46 @@
+{
+  "at": "2026-10-16T09:11:59.190736+00:00",
+  "date": "2026-10-16",
+  "batchId": "2026-10-16-more-3",
+  "openAiModeTabs": 193,
+  "uniqueOpenConversations": 186,
+  "historyConversations": 300,
+  "method": "Compared 193 open AI Mode tabs and all 300 visible history entries. Added Hat Man Hallucinations and Enbrel Treatment Information, plus two new Medical Preparations exchanges. Preserved the original graph, expanded Python block, interactive tracker snapshot and the full Whaletail PDF. The source-mentioned patent Markdown has no download; this source limitation is recorded.",
+  "records": [
+    {
+      "ordinal": 729,
+      "title": "Hat Man Hallucinations",
+      "status": "added",
+      "counts": {
+        "prompts": 14,
+        "responses": 14
+      }
+    },
+    {
+      "ordinal": 730,
+      "title": "Enbrel Treatment Information",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 726,
+      "title": "Medical Preparations",
+      "status": "updated",
+      "previousCounts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    }
+  ],
+  "newOrdinals": [
+    729,
+    730
+  ]
+}

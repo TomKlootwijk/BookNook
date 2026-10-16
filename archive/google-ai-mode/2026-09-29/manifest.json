@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-10-16",
-  "scopeCount": 728,
-  "capturedCount": 728,
-  "prompts": 3392,
-  "responses": 3392,
-  "mathRendered": 9363,
-  "embeddedImages": 8064,
+  "scopeCount": 730,
+  "capturedCount": 730,
+  "prompts": 3413,
+  "responses": 3413,
+  "mathRendered": 9497,
+  "embeddedImages": 8129,
   "conversations": [
     {
       "ordinal": 1,
@@ -7985,8 +7985,8 @@
     {
       "ordinal": 726,
       "title": "Medical Preparations",
-      "prompts": 6,
-      "responses": 6,
+      "prompts": 8,
+      "responses": 8,
       "html": "conversations/726-medical-preparations.html",
       "markdown": "conversations/726-medical-preparations.md",
       "source": "https://www.google.com/search?q=i+got+two+preparates&sca_esv=2a824d60bdc0ea43&sxsrf=APpeQnvTjXK4Kc_-BLsx6raiK_pTlZtwRA%3A1792137341232&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UfVcuk_CN5lZ7ooDDWHK2Mvzz3zSAVajbtoCgDcY4ClkqSY2KMHBVEZtzZXhvZhOAYOei-ZwZNbTP-zA17u6NI3tEs6cG6hn81aUxnDhSOjSjwakoJQVHh0SeQ8h1zJd7wJVl3n&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiCiPPsh76XAxX7gf0HHY2sGowQ2J8OegQIFBAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfCZlELOjc-oUSc1LNdJbw5bx5yVx4ZLI4PvDZxwlMXnsyr3tQDuCuCKS-uMx9FMGTbRaZmVWEgcMSY3Y7yOdPsWP-hvTcKvrjaDtn8iSpV4Qo826cIclcg07ZHZaQGNtaUlhtCA6HxYq3rrn0LB4nVSVaoKR0Nw3P3aUxQhR0sn9PgiV1Co54D95dFoNCLY2rm1w1gJJsiMKr6LcKAd7xDLx5d8e0wuaGGsimVnHoVyWEWNJs9KJgrIja_iyp_GLDKV-IH8MkmCgWjpLoKSlhDHOFWPeN2gW1dmCshcppVuFWo9KZorJEYgUD5_LnMa3yosWOa9itz1imob88nLoti6ylAD4WekwA&csuir=1&mtid=ftjRau-bL4T-7_UPkPa-4QM&lns_mode=cvst&udm=50",
@@ -8002,7 +8002,7 @@
       "markdown": "conversations/727-micron-technology-stock-analysis.md",
       "source": "https://www.google.com/search?sa=X&sca_esv=90fe058dfec7447b&nirf=militair+colonne&sxsrf=APpeQntE1SBbxrbSByVCr7YO69bdPdZT9Q%3A1792133982251&vsint=&ntc=1&cs=1&ved=0CAcQ2_wOahcKEwig6Ii4jb6XAxUAAAAAHQAAAAAQJA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBQ9gp2-_Z23Ds84JeNFjngYJYU1gj1WA2AFtPgzNHw0M66AZ0H4zUHcup2Cl4j6hlFTocLvlWS1RROlKJ3jqZnBwRB5tJHudS9RG3pVc6h7R5OCBtnWbY3VxGC9bCbIU9N5ua5Lgr-HWTsjo-M3SLMgr6FmfJjmFw&mtid=LdvRauy_LOv7i-gP84TcoAs&csuir=1&aep=26&q=a+T+is+MU",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3307
+      "pdfPage": 3309
     },
     {
       "ordinal": 728,
@@ -8013,7 +8013,29 @@
       "markdown": "conversations/728-micron-technology-stock-info.md",
       "source": "https://www.google.com/search?sa=X&sca_esv=90fe058dfec7447b&nirf=militair+colonne&sxsrf=APpeQntE1SBbxrbSByVCr7YO69bdPdZT9Q%3A1792133982251&vsint=&ntc=1&cs=1&ved=0CAEQ2_wOahcKEwig6Ii4jb6XAxUAAAAAHQAAAAAQJA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBYm4OYbxZnZH6RhSYCzNkD44UmnW-2tlsfHVVGzHQIvJP8ZX89gFGron5oRwDbR2l05gkdsNtfVEQdDQ-1QeNG4k7n7MjLxdwv-QFgRirsFHX6xhxwoc5dfzO3I_uTXxLP4_TCDF13xpzqNat-Qe26KMzfnDH-jtLXNic7p43Xna8qB-cn1GU_7ogtDgDeCH6e1L7GEp6A7dbffmPcjXj2oSNrxYdGE_FNv0KolfAbKEgwfvOxhvRIUbH8mdJ-lyko2_3dfnvqTDEley2HeGiLCjE2MVKbVIPpmmR4lhbmUqNFQRae_Z3JFdb7ZJdoSreWaRHZU202Ug&mtid=LNvRao33KOe2i-gPxaXdwQs&csuir=1&aep=26&q=a+T+is+MU",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3308
+      "pdfPage": 3310
+    },
+    {
+      "ordinal": 729,
+      "title": "Hat Man Hallucinations",
+      "prompts": 14,
+      "responses": 14,
+      "html": "conversations/729-hat-man-hallucinations.html",
+      "markdown": "conversations/729-hat-man-hallucinations.md",
+      "source": "https://www.google.com/search?q=antihistamine+hatman&client=ms-android-xiaomi-terr2-rso2&hs=DSUB&sca_esv=2a824d60bdc0ea43&sxsrf=APpeQnsgcL9PxXsAsZIfktotX6brHctrpg%3A1792139091446&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7vnQU6QWmnWBznGVLK1G8Rykll-s04_elOQbRleKreNqN6HKk20ZyZ-d8SXGwXAN8EIvObbF33JhfJkDoGbxHTj31od_&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjnwLuvjr6XAxXS_rsIHeGcK4AQ2J8OegQIEhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDsgP8rvPCTcUslrMKkcKKOD7LgSVl2BqMpYvhJoQwlZErtDa92Y5XjZ3X-Dtx1NkLYmSeZpM_v6ZvdRVt3Qk5Wor8IYDnRYize2GGm2SeUcVW-fs6emOd3pgh-7xaOYpLMAOxjfquT3QtHu9cQGAk7kH8EFtmUQhkHNbZQbyrexHXhAI076VQcv_Ptk4qEDRtfhKnipvpjjPegOugqsmirFHkLKJSr6Eh-BGKb0Xr45vOK0-vr8165Mu-JV27Yl8y8tlIljv_mXw&csuir=1&mtid=VN_RaujOMKvg7_UP_KDz8AE&udm=50&atvm=2",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3314
+    },
+    {
+      "ordinal": 730,
+      "title": "Enbrel Treatment Information",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/730-enbrel-treatment-information.html",
+      "markdown": "conversations/730-enbrel-treatment-information.md",
+      "source": "https://www.google.com/search?sa=X&sca_esv=90fe058dfec7447b&nirf=militair+colonne&sxsrf=APpeQntE1SBbxrbSByVCr7YO69bdPdZT9Q%3A1792133982251&vsint=&ntc=1&cs=1&ved=0CAcQ2_wOahcKEwjwiJb1l76XAxUAAAAAHQAAAAAQJA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCnbslZNYDBM_F2MesV8hiGdk_BNX0uLuKBI120XamhHnsV6PMz5jfUDEgHwe5apgZg1RQ1uCcX-OVnrvQKe_m0bztcNSmqvGig0KpwrHiGm5_mzcNNhUAx-UHxDSpQOitCUWq_QpRL2Q5ruWMvLl4ZUdOqVWj4ofyfihfSIbNLpVTVPT5XObxgkM_PytuexqfDrp-NYJP8_OwpM-b1pObQHWD5U5rh6BAucQzACb5NMMYbJtBvSc_ZkA_Q2rv6YftQuj8QzsGOxncT4zIz7qwUQUbeWXB0ju4aGLeiTvoQCAGGggBVflTHrmmy9mwxnSD208WhgPE13Q&mtid=y-XRapXnAvri7_UP-9vZ-AY&csuir=1&aep=26&q=embrel",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3346
     }
   ],
   "missing": [],
@@ -8029,7 +8051,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "All scoped conversation slots are archived. The latest 16 October batch adds six conversations and four Trewel dual-clock exchanges, retaining earlier branches. Five uploaded images, two original strain-gauge views, four referenced PDFs, one generated PDF and a generated Markdown report are preserved. Google names report.pdf without a download; its later report.md is archived. Chrome blocked the structural wear CSV; its link and status remain recorded. Earlier source and media gaps remain recorded.",
+    "note": "All scoped conversation slots are archived. The latest batch adds two conversations and two Medical Preparations exchanges. The original graph, expanded Python code, interactive tracker snapshot and full Whaletail PDF are preserved. Google names Reality_Gating_Patent_Specification.md without providing a download; that limitation and earlier source/media gaps remain recorded.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -10324,143 +10346,146 @@
         "filename": "structural_wear_tracking_matrix.csv",
         "reason": "Chrome ERR_BLOCKED_BY_CLIENT; no local copy found"
       }
+    },
+    "october16More3Media": {
+      "openTabs": 193,
+      "historyEntries": 300,
+      "newConversations": 2,
+      "newPairs": 21,
+      "updatedConversations": [
+        726
+      ],
+      "recentContinuationChecks": [
+        {
+          "ordinal": 724,
+          "observedPairs": 34,
+          "archivedPairs": 34,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 725,
+          "observedPairs": 12,
+          "archivedPairs": 12,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 714,
+          "observedPairs": 17,
+          "archivedPairs": 28,
+          "newPrompts": 0
+        }
+      ],
+      "vectorSnapshots": 1,
+      "attachments": [
+        {
+          "path": "attachments/Tom_Klootwijk_Architectural_Paradigm_v3_Whaletail.pdf",
+          "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\Tom_Klootwijk_Architectural_Paradigm_v3_Whaletail.pdf",
+          "bytes": 265455,
+          "sha256": "b0baeae4f3b00098f4ee8fa538badec3ef20665426adf24416792b1d0559ad50",
+          "pages": 38
+        }
+      ],
+      "sourceErrorResponses": [],
+      "blankResponses": [],
+      "unmatchedOpen": [],
+      "unmatchedHistory": [],
+      "missingGeneratedFile": {
+        "conversation": 729,
+        "response": 14,
+        "filename": "Reality_Gating_Patent_Specification.md",
+        "reason": "Named in the source without a download link; no matching local original found"
+      }
     }
   },
   "latestUpdate": {
-    "at": "2026-10-16T08:42:31.984550+00:00",
+    "at": "2026-10-16T09:11:59.190736+00:00",
     "date": "2026-10-16",
-    "batchId": "2026-10-16-more-2",
-    "openAiModeTabs": 192,
-    "uniqueOpenConversations": 185,
+    "batchId": "2026-10-16-more-3",
+    "openAiModeTabs": 193,
+    "uniqueOpenConversations": 186,
     "historyConversations": 300,
-    "method": "Compared 192 open AI Mode tabs and all 300 visible history entries; captured six new conversations and four new exchanges in the Trewel dual-clock branch. Preserved five uploaded images, both original strain-gauge views, four referenced PDFs, one generated PDF and a generated Markdown report. The source-mentioned report.pdf has no download; the supplied report.md is retained. Chrome blocked the generated structural wear CSV; its original link and status are preserved.",
+    "method": "Compared 193 open AI Mode tabs and all 300 visible history entries. Added Hat Man Hallucinations and Enbrel Treatment Information, plus two new Medical Preparations exchanges. Preserved the original graph, expanded Python block, interactive tracker snapshot and the full Whaletail PDF. The source-mentioned patent Markdown has no download; this source limitation is recorded.",
     "records": [
       {
-        "ordinal": 723,
-        "tabId": "history-i8PRaqW5D4ip9u8P8cTi6Qk",
-        "title": "Actor Similarities to Tyson",
+        "ordinal": 729,
+        "title": "Hat Man Hallucinations",
         "status": "added",
         "counts": {
-          "prompts": 4,
-          "responses": 4
+          "prompts": 14,
+          "responses": 14
         }
       },
       {
-        "ordinal": 724,
-        "tabId": "history-X8vRas7RLKON-d8PkuD2kAg",
-        "title": "Military Cologne",
+        "ordinal": 730,
+        "title": "Enbrel Treatment Information",
         "status": "added",
         "counts": {
-          "prompts": 34,
-          "responses": 34
-        }
-      },
-      {
-        "ordinal": 725,
-        "tabId": "history-itTRaoqIJvGN9u8PlPDCuAc",
-        "title": "Two Medical Preparations",
-        "status": "added",
-        "counts": {
-          "prompts": 12,
-          "responses": 12
+          "prompts": 5,
+          "responses": 5
         }
       },
       {
         "ordinal": 726,
-        "tabId": "history-ftjRau-bL4T-7_UPkPa-4QM",
         "title": "Medical Preparations",
-        "status": "added",
-        "counts": {
-          "prompts": 6,
-          "responses": 6
-        }
-      },
-      {
-        "ordinal": 727,
-        "tabId": "history-LdvRauy_LOv7i-gP84TcoAs",
-        "title": "Micron Technology Stock Analysis",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 728,
-        "tabId": "history-LNvRao33KOe2i-gPxaXdwQs",
-        "title": "Micron Technology Stock Info",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 714,
-        "title": "Trewel Virtual Reality",
         "status": "updated",
         "previousCounts": {
-          "prompts": 24,
-          "responses": 24
+          "prompts": 6,
+          "responses": 6
         },
         "counts": {
-          "prompts": 28,
-          "responses": 28
+          "prompts": 8,
+          "responses": 8
         }
       }
     ],
     "newOrdinals": [
-      723,
-      724,
-      725,
-      726,
-      727,
-      728
+      729,
+      730
     ]
   },
   "pdf": {
     "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16.pdf",
-    "pages": 3311,
-    "bytes": 142456546,
-    "sha256": "6696c3bef5b514fc71e9f976a119ca071562138b1581a1f91ce775ce22a73462",
-    "promptMarkersVerified": 3392,
-    "responseMarkersVerified": 3392,
-    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the seven freshly rendered chapters; rebuilt index, bookmarks and continuous footers.",
+    "pages": 3351,
+    "bytes": 144695814,
+    "sha256": "c93b63c89a7ee2673211d683acfc9dd1b5d71b5156f42392fc4db637f06d2a9c",
+    "promptMarkersVerified": 3413,
+    "responseMarkersVerified": 3413,
+    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the three freshly rendered chapters; rebuilt index, bookmarks and continuous footers.",
     "volumes": [
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-01.pdf",
-        "bytes": 66020611,
-        "sha256": "80910b3d8a8d57ce19455b250a3a5be4923f4219524209e1006d89380ad50b32",
+        "bytes": 66754833,
+        "sha256": "8a7e611529746a1375b457aaaf39c0e9fa1122b3b6557983745ca56a75fe32f4",
         "firstPage": 1,
         "lastPage": 800
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-02.pdf",
-        "bytes": 43387336,
-        "sha256": "8cf332fd73e83106aad98b19086b1edd7d55ec46bff96433676a9931ed3e810b",
+        "bytes": 43674879,
+        "sha256": "1bd336b8833c2563d6e821c34a1155c1e0af75a373115261929b4092c74ce63a",
         "firstPage": 801,
         "lastPage": 1606
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-03.pdf",
-        "bytes": 58915204,
-        "sha256": "20593844dd070566bfffe5522ea116e2c1cf1b1b9cd658cce3a66f447b2fba15",
+        "bytes": 59201523,
+        "sha256": "0a290812161616d7e16d653f47e0a26c56e67120e75e354517f49582c515dd09",
         "firstPage": 1607,
         "lastPage": 2408
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-04.pdf",
-        "bytes": 50603780,
-        "sha256": "13cd601353ef2e78c3b1c01d374ed75367ec4a9e0f6296b36b0833580c69cd7e",
+        "bytes": 50889737,
+        "sha256": "bb1712af3cc9f534aaeb4d1d784cf06661a41a8ce5a4c1357f6080b4a0cc9413",
         "firstPage": 2409,
         "lastPage": 3209
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-05.pdf",
-        "bytes": 2503581,
-        "sha256": "1f8537b997b74ff62d34ac726e43a89390d553ed1841bcbd9ffb254e54981eda",
+        "bytes": 3590966,
+        "sha256": "8519ae338fa04be3036184e74806fc78018e24e3f0c2da2ab22b8aeb89a9088f",
         "firstPage": 3210,
-        "lastPage": 3311
+        "lastPage": 3351
       }
     ]
   }

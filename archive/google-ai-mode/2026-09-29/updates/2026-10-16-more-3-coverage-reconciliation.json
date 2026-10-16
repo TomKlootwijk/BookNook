@@ -1,0 +1,49 @@
+{
+  "openTabs": 193,
+  "historyEntries": 300,
+  "newConversations": 2,
+  "newPairs": 21,
+  "updatedConversations": [
+    726
+  ],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 724,
+      "observedPairs": 34,
+      "archivedPairs": 34,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 725,
+      "observedPairs": 12,
+      "archivedPairs": 12,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 714,
+      "observedPairs": 17,
+      "archivedPairs": 28,
+      "newPrompts": 0
+    }
+  ],
+  "vectorSnapshots": 1,
+  "attachments": [
+    {
+      "path": "attachments/Tom_Klootwijk_Architectural_Paradigm_v3_Whaletail.pdf",
+      "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\Tom_Klootwijk_Architectural_Paradigm_v3_Whaletail.pdf",
+      "bytes": 265455,
+      "sha256": "b0baeae4f3b00098f4ee8fa538badec3ef20665426adf24416792b1d0559ad50",
+      "pages": 38
+    }
+  ],
+  "sourceErrorResponses": [],
+  "blankResponses": [],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "missingGeneratedFile": {
+    "conversation": 729,
+    "response": 14,
+    "filename": "Reality_Gating_Patent_Specification.md",
+    "reason": "Named in the source without a download link; no matching local original found"
+  }
+}

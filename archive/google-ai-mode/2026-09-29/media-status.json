@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All scoped conversation slots are archived. The latest 16 October batch adds six conversations and four Trewel dual-clock exchanges, retaining earlier branches. Five uploaded images, two original strain-gauge views, four referenced PDFs, one generated PDF and a generated Markdown report are preserved. Google names report.pdf without a download; its later report.md is archived. Chrome blocked the structural wear CSV; its link and status remain recorded. Earlier source and media gaps remain recorded.",
+  "note": "All scoped conversation slots are archived. The latest batch adds two conversations and two Medical Preparations exchanges. The original graph, expanded Python code, interactive tracker snapshot and full Whaletail PDF are preserved. Google names Reality_Gating_Patent_Specification.md without providing a download; that limitation and earlier source/media gaps remain recorded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -2302,6 +2302,55 @@
       "response": 30,
       "filename": "structural_wear_tracking_matrix.csv",
       "reason": "Chrome ERR_BLOCKED_BY_CLIENT; no local copy found"
+    }
+  },
+  "october16More3Media": {
+    "openTabs": 193,
+    "historyEntries": 300,
+    "newConversations": 2,
+    "newPairs": 21,
+    "updatedConversations": [
+      726
+    ],
+    "recentContinuationChecks": [
+      {
+        "ordinal": 724,
+        "observedPairs": 34,
+        "archivedPairs": 34,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 725,
+        "observedPairs": 12,
+        "archivedPairs": 12,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 714,
+        "observedPairs": 17,
+        "archivedPairs": 28,
+        "newPrompts": 0
+      }
+    ],
+    "vectorSnapshots": 1,
+    "attachments": [
+      {
+        "path": "attachments/Tom_Klootwijk_Architectural_Paradigm_v3_Whaletail.pdf",
+        "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\Tom_Klootwijk_Architectural_Paradigm_v3_Whaletail.pdf",
+        "bytes": 265455,
+        "sha256": "b0baeae4f3b00098f4ee8fa538badec3ef20665426adf24416792b1d0559ad50",
+        "pages": 38
+      }
+    ],
+    "sourceErrorResponses": [],
+    "blankResponses": [],
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "missingGeneratedFile": {
+      "conversation": 729,
+      "response": 14,
+      "filename": "Reality_Gating_Patent_Specification.md",
+      "reason": "Named in the source without a download link; no matching local original found"
     }
   }
 }

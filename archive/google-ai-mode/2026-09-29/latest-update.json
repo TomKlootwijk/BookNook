@@ -1,92 +1,46 @@
 {
-  "at": "2026-10-16T08:42:31.984550+00:00",
+  "at": "2026-10-16T09:11:59.190736+00:00",
   "date": "2026-10-16",
-  "batchId": "2026-10-16-more-2",
-  "openAiModeTabs": 192,
-  "uniqueOpenConversations": 185,
+  "batchId": "2026-10-16-more-3",
+  "openAiModeTabs": 193,
+  "uniqueOpenConversations": 186,
   "historyConversations": 300,
-  "method": "Compared 192 open AI Mode tabs and all 300 visible history entries; captured six new conversations and four new exchanges in the Trewel dual-clock branch. Preserved five uploaded images, both original strain-gauge views, four referenced PDFs, one generated PDF and a generated Markdown report. The source-mentioned report.pdf has no download; the supplied report.md is retained. Chrome blocked the generated structural wear CSV; its original link and status are preserved.",
+  "method": "Compared 193 open AI Mode tabs and all 300 visible history entries. Added Hat Man Hallucinations and Enbrel Treatment Information, plus two new Medical Preparations exchanges. Preserved the original graph, expanded Python block, interactive tracker snapshot and the full Whaletail PDF. The source-mentioned patent Markdown has no download; this source limitation is recorded.",
   "records": [
     {
-      "ordinal": 723,
-      "tabId": "history-i8PRaqW5D4ip9u8P8cTi6Qk",
-      "title": "Actor Similarities to Tyson",
+      "ordinal": 729,
+      "title": "Hat Man Hallucinations",
       "status": "added",
       "counts": {
-        "prompts": 4,
-        "responses": 4
+        "prompts": 14,
+        "responses": 14
       }
     },
     {
-      "ordinal": 724,
-      "tabId": "history-X8vRas7RLKON-d8PkuD2kAg",
-      "title": "Military Cologne",
+      "ordinal": 730,
+      "title": "Enbrel Treatment Information",
       "status": "added",
       "counts": {
-        "prompts": 34,
-        "responses": 34
-      }
-    },
-    {
-      "ordinal": 725,
-      "tabId": "history-itTRaoqIJvGN9u8PlPDCuAc",
-      "title": "Two Medical Preparations",
-      "status": "added",
-      "counts": {
-        "prompts": 12,
-        "responses": 12
+        "prompts": 5,
+        "responses": 5
       }
     },
     {
       "ordinal": 726,
-      "tabId": "history-ftjRau-bL4T-7_UPkPa-4QM",
       "title": "Medical Preparations",
-      "status": "added",
-      "counts": {
-        "prompts": 6,
-        "responses": 6
-      }
-    },
-    {
-      "ordinal": 727,
-      "tabId": "history-LdvRauy_LOv7i-gP84TcoAs",
-      "title": "Micron Technology Stock Analysis",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 728,
-      "tabId": "history-LNvRao33KOe2i-gPxaXdwQs",
-      "title": "Micron Technology Stock Info",
-      "status": "added",
-      "counts": {
-        "prompts": 4,
-        "responses": 4
-      }
-    },
-    {
-      "ordinal": 714,
-      "title": "Trewel Virtual Reality",
       "status": "updated",
       "previousCounts": {
-        "prompts": 24,
-        "responses": 24
+        "prompts": 6,
+        "responses": 6
       },
       "counts": {
-        "prompts": 28,
-        "responses": 28
+        "prompts": 8,
+        "responses": 8
       }
     }
   ],
   "newOrdinals": [
-    723,
-    724,
-    725,
-    726,
-    727,
-    728
+    729,
+    730
   ]
 }
