@@ -254,11 +254,20 @@ for d in records:
             if links:
                 body+='<div class="sources"><strong>Source links preserved from this response</strong><ol>'+''.join('<li><a href="'+esc(u)+'">'+esc(t or urlparse(u).netloc)+'</a><br><span class="sourceurl">'+esc(u)+'</span></li>' for u,t in links.items())+'</ol></div>'
                 md.append('### Source links\n\n'+'\n'.join('- ['+(t or urlparse(u).netloc).replace(']','\\]')+']('+u+')' for u,t in links.items())+'\n')
+        if item.get('archivedFiles') or item.get('wrapSourceUrls'):
+            # Long generated-file URLs must wrap instead of shrinking the page.
+            body = body.replace('class="sourceurl"', 'class="sourceurl" style="overflow-wrap:anywhere"')
+        for attachment in item.get('archivedFiles', []):
+            path = attachment['path']
+            assert path.startswith('attachments/') and (ROOT/path).is_file()
+            attachment_title = attachment.get('title', Path(path).name)
+            body += '<p class="meta">Archived attachment: <a href="'+esc(path)+'">'+esc(attachment_title)+'</a></p>'
+            md.append('Archived attachment: ['+attachment_title.replace(']', '\\]')+'](<'+path+'>)\n')
         chunks.append('<section class="turn"><div class="role">'+esc(label)+'</div>'+body+'</section>')
     head='<header class="chapterhead"><div class="eyebrow">Conversation '+str(n).zfill(2)+'</div><h1>'+esc(title)+'</h1><p class="meta">'+str(prompt_count)+' prompts · '+str(response_count)+' responses · Captured '+esc(d['capturedAt'])+'</p><p><a href="'+esc(d.get('originalUrl',d['url']))+'">Open the original Google AI Mode conversation</a></p></header>'
     chapter='<article class="chapter" id="conversation-'+str(n)+'">'+head+''.join(chunks)+'</article>'
-    write_aggregate(ROOT/'conversations'/(basename+'.html'), page(title,chapter).replace('src="assets/', 'src="../assets/'))
-    write_aggregate(ROOT/'conversations'/(basename+'.md'), '\n'.join(md).replace('](assets/', '](../assets/'))
+    write_aggregate(ROOT/'conversations'/(basename+'.html'), page(title,chapter).replace('src="assets/', 'src="../assets/').replace('href="attachments/', 'href="../attachments/'))
+    write_aggregate(ROOT/'conversations'/(basename+'.md'), '\n'.join(md).replace('](assets/', '](../assets/').replace('](<attachments/', '](<../attachments/'))
     chapters.append(chapter);all_md.append('\n'.join(md))
     toc.append('<li><a href="#conversation-'+str(n)+'">'+esc(title)+'</a><span class="meta"> — '+str(prompt_count)+' exchanges</span></li>')
     manifest.append({'ordinal':n,'title':title,'prompts':prompt_count,'responses':response_count,'html':'conversations/'+basename+'.html','markdown':'conversations/'+basename+'.md','source':d.get('originalUrl',d['url']),'recoveredFromSavedUrl':d.get('recoveredFromSavedUrl',False)})

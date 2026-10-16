@@ -1,0 +1,850 @@
+[
+  {
+    "background": "rgb(13, 15, 20)",
+    "computedStyles": [
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(34, 38, 48)"
+      },
+      {
+        "fill": "url(\"#canvas-grid\")",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(34, 38, 48)"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(26, 34, 51)"
+      },
+      {
+        "fill": "rgb(20, 26, 41)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "0.8",
+        "stroke": "rgb(58, 75, 110)"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "0.6",
+        "stroke": "none"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(0, 240, 255)"
+      },
+      {
+        "fill": "rgb(0, 240, 255)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(0, 240, 255)"
+      },
+      {
+        "fill": "rgb(0, 240, 255)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(0, 240, 255)"
+      },
+      {
+        "fill": "rgb(13, 15, 20)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(0, 240, 255)"
+      },
+      {
+        "fill": "rgb(0, 240, 255)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 0, 127)"
+      },
+      {
+        "fill": "rgb(13, 15, 20)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 0, 127)"
+      },
+      {
+        "fill": "rgb(255, 0, 127)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 183, 0)"
+      },
+      {
+        "fill": "rgb(13, 15, 20)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 183, 0)"
+      },
+      {
+        "fill": "rgb(255, 183, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(255, 255, 255)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(58, 75, 110)"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(79, 93, 117)"
+      },
+      {
+        "fill": "rgb(173, 175, 184)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(79, 93, 117)"
+      },
+      {
+        "fill": "rgb(173, 175, 184)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(86, 89, 94)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "0.85",
+        "stroke": "rgb(79, 110, 255)"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "0.1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(230, 232, 240)"
+      },
+      {
+        "fill": "rgb(51, 110, 243)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 255, 255)"
+      },
+      {
+        "fill": "rgb(255, 255, 255)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(255, 234, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 234, 0)"
+      },
+      {
+        "fill": "rgb(255, 234, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(52, 168, 83)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(52, 168, 83)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(52, 168, 83)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(52, 168, 83)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      }
+    ],
+    "styles": [
+      "\n/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */\n@layer properties {\n  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {\n    *, :before, :after, ::backdrop {\n      --tw-rotate-x: initial;\n      --tw-rotate-y: initial;\n      --tw-rotate-z: initial;\n      --tw-skew-x: initial;\n      --tw-skew-y: initial;\n      --tw-border-style: solid;\n      --tw-font-weight: initial;\n      --tw-ordinal: initial;\n      --tw-slashed-zero: initial;\n      --tw-numeric-figure: initial;\n      --tw-numeric-spacing: initial;\n      --tw-numeric-fraction: initial;\n      --tw-shadow: 0 0 #0000;\n      --tw-shadow-color: initial;\n      --tw-shadow-alpha: 100%;\n      --tw-inset-shadow: 0 0 #0000;\n      --tw-inset-shadow-color: initial;\n      --tw-inset-shadow-alpha: 100%;\n      --tw-ring-color: initial;\n      --tw-ring-shadow: 0 0 #0000;\n      --tw-inset-ring-color: initial;\n      --tw-inset-ring-shadow: 0 0 #0000;\n      --tw-ring-inset: initial;\n      --tw-ring-offset-width: 0px;\n      --tw-ring-offset-color: #fff;\n      --tw-ring-offset-shadow: 0 0 #0000;\n      --tw-outline-style: solid;\n      --tw-backdrop-blur: initial;\n      --tw-backdrop-brightness: initial;\n      --tw-backdrop-contrast: initial;\n      --tw-backdrop-grayscale: initial;\n      --tw-backdrop-hue-rotate: initial;\n      --tw-backdrop-invert: initial;\n      --tw-backdrop-opacity: initial;\n      --tw-backdrop-saturate: initial;\n      --tw-backdrop-sepia: initial;\n      --tw-content: \"\";\n      --tw-translate-x: 0;\n      --tw-translate-y: 0;\n      --tw-translate-z: 0;\n    }\n  }\n}\n\n@layer theme {\n  :root, :host {\n    --font-sans: \"Google Sans\", \"Roboto\", sans-serif;\n    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n    --color-slate-200: oklch(92.9% .013 255.508);\n    --color-slate-300: oklch(86.9% .022 252.894);\n    --color-white: #fff;\n    --spacing: .25rem;\n    --text-xs: .75rem;\n    --text-xs--line-height: calc(1 / .75);\n    --text-sm: .875rem;\n    --text-sm--line-height: calc(1.25 / .875);\n    --font-weight-normal: 400;\n    --font-weight-medium: 500;\n    --radius-lg: .5rem;\n    --animate-pulse: pulse 2s cubic-bezier(.4, 0, .6, 1) infinite;\n    --blur-xs: 4px;\n    --default-transition-duration: .15s;\n    --default-transition-timing-function: cubic-bezier(.31, .94, .34, 1);\n    --default-font-family: var(--font-sans);\n    --default-mono-font-family: var(--font-mono);\n    --color-primary: var(--primary, #336ef3);\n    --color-error: var(--brand-red, #ea4335);\n    --color-warning: var(--brand-yellow, #fbbc04);\n    --color-card: var(--surface-container-de-emphasis, #f7f8fa);\n    --color-border: var(--divider, #dcdfe5);\n    --color-muted: var(--surface-container, #f0f2f5);\n    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);\n    --color-foreground: var(--on-surface-default, #0a0a0a);\n  }\n}\n\n@layer base {\n  *, :after, :before, ::backdrop {\n    box-sizing: border-box;\n    border: 0 solid;\n    margin: 0;\n    padding: 0;\n  }\n\n  ::file-selector-button {\n    box-sizing: border-box;\n    border: 0 solid;\n    margin: 0;\n    padding: 0;\n  }\n\n  html, :host {\n    -webkit-text-size-adjust: 100%;\n    tab-size: 4;\n    line-height: 1.5;\n    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\");\n    font-feature-settings: var(--default-font-feature-settings, normal);\n    font-variation-settings: var(--default-font-variation-settings, normal);\n    -webkit-tap-highlight-color: transparent;\n  }\n\n  hr {\n    height: 0;\n    color: inherit;\n    border-top-width: 1px;\n  }\n\n  abbr:where([title]) {\n    -webkit-text-decoration: underline dotted;\n    text-decoration: underline dotted;\n  }\n\n  h1, h2, h3, h4, h5, h6 {\n    font-size: inherit;\n    font-weight: inherit;\n  }\n\n  a {\n    color: inherit;\n    -webkit-text-decoration: inherit;\n    -webkit-text-decoration: inherit;\n    -webkit-text-decoration: inherit;\n    text-decoration: inherit;\n  }\n\n  b, strong {\n    font-weight: bolder;\n  }\n\n  code, kbd, samp, pre {\n    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace);\n    font-feature-settings: var(--default-mono-font-feature-settings, normal);\n    font-variation-settings: var(--default-mono-font-variation-settings, normal);\n    font-size: 1em;\n  }\n\n  small {\n    font-size: 80%;\n  }\n\n  sub, sup {\n    vertical-align: baseline;\n    font-size: 75%;\n    line-height: 0;\n    position: relative;\n  }\n\n  sub {\n    bottom: -.25em;\n  }\n\n  sup {\n    top: -.5em;\n  }\n\n  table {\n    text-indent: 0;\n    border-color: inherit;\n    border-collapse: collapse;\n  }\n\n  :-moz-focusring {\n    outline: auto;\n  }\n\n  progress {\n    vertical-align: baseline;\n  }\n\n  summary {\n    display: list-item;\n  }\n\n  ol, ul, menu {\n    list-style: none;\n  }\n\n  img, svg, video, canvas, audio, iframe, embed, object {\n    vertical-align: middle;\n    display: block;\n  }\n\n  img, video {\n    max-width: 100%;\n    height: auto;\n  }\n\n  button, input, select, optgroup, textarea {\n    font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    opacity: 1;\n    background-color: #0000;\n    border-radius: 0;\n  }\n\n  ::file-selector-button {\n    font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    opacity: 1;\n    background-color: #0000;\n    border-radius: 0;\n  }\n\n  :where(select:is([multiple], [size])) optgroup {\n    font-weight: bolder;\n  }\n\n  :where(select:is([multiple], [size])) optgroup option {\n    padding-inline-start: 20px;\n  }\n\n  ::file-selector-button {\n    margin-inline-end: 4px;\n  }\n\n  ::placeholder {\n    opacity: 1;\n  }\n\n  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {\n    ::placeholder {\n      color: currentColor;\n    }\n\n    @supports (color: color-mix(in lab, red, red)) {\n      ::placeholder {\n        color: color-mix(in oklab, currentcolor 50%, transparent);\n      }\n    }\n  }\n\n  textarea {\n    resize: vertical;\n  }\n\n  ::-webkit-search-decoration {\n    -webkit-appearance: none;\n  }\n\n  ::-webkit-date-and-time-value {\n    min-height: 1lh;\n    text-align: inherit;\n  }\n\n  ::-webkit-datetime-edit {\n    display: inline-flex;\n  }\n\n  ::-webkit-datetime-edit-fields-wrapper {\n    padding: 0;\n  }\n\n  ::-webkit-datetime-edit {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-year-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-month-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-day-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-hour-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-minute-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-second-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-millisecond-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-meridiem-field {\n    padding-block: 0;\n  }\n\n  :-moz-ui-invalid {\n    box-shadow: none;\n  }\n\n  button, input:where([type=\"button\"], [type=\"reset\"], [type=\"submit\"]) {\n    appearance: button;\n  }\n\n  ::file-selector-button {\n    appearance: button;\n  }\n\n  ::-webkit-inner-spin-button {\n    height: auto;\n  }\n\n  ::-webkit-outer-spin-button {\n    height: auto;\n  }\n\n  [hidden]:where(:not([hidden=\"until-found\"])) {\n    display: none !important;\n  }\n}\n\n@layer components;\n\n@layer utilities {\n  .pointer-events-none {\n    pointer-events: none;\n  }\n\n  .visible {\n    visibility: visible;\n  }\n\n  .absolute {\n    position: absolute;\n  }\n\n  .relative {\n    position: relative;\n  }\n\n  .static {\n    position: static;\n  }\n\n  .top-3 {\n    top: calc(var(--spacing) * 3);\n  }\n\n  .bottom-3 {\n    bottom: calc(var(--spacing) * 3);\n  }\n\n  .left-4 {\n    left: calc(var(--spacing) * 4);\n  }\n\n  .left-5 {\n    left: calc(var(--spacing) * 5);\n  }\n\n  .-my-3 {\n    margin-block: calc(var(--spacing) * -3);\n  }\n\n  .mt-2 {\n    margin-top: calc(var(--spacing) * 2);\n  }\n\n  .block {\n    display: block;\n  }\n\n  .flex {\n    display: flex;\n  }\n\n  .grid {\n    display: grid;\n  }\n\n  .aspect-\\[2\\/1\\] {\n    aspect-ratio: 2;\n  }\n\n  .h-1 {\n    height: calc(var(--spacing) * 1);\n  }\n\n  .h-9 {\n    height: calc(var(--spacing) * 9);\n  }\n\n  .h-11 {\n    height: calc(var(--spacing) * 11);\n  }\n\n  .h-\\[18px\\] {\n    height: 18px;\n  }\n\n  .h-auto {\n    height: auto;\n  }\n\n  .h-full {\n    height: 100%;\n  }\n\n  .w-\\[8ch\\] {\n    width: 8ch;\n  }\n\n  .w-\\[18px\\] {\n    width: 18px;\n  }\n\n  .w-full {\n    width: 100%;\n  }\n\n  .min-w-0 {\n    min-width: calc(var(--spacing) * 0);\n  }\n\n  .flex-1 {\n    flex: 1;\n  }\n\n  .shrink-0 {\n    flex-shrink: 0;\n  }\n\n  .grow {\n    flex-grow: 1;\n  }\n\n  .transform {\n    transform: var(--tw-rotate-x, ) var(--tw-rotate-y, ) var(--tw-rotate-z, ) var(--tw-skew-x, ) var(--tw-skew-y, );\n  }\n\n  .animate-pulse {\n    animation: var(--animate-pulse);\n  }\n\n  .cursor-pointer {\n    cursor: pointer;\n  }\n\n  .touch-none {\n    touch-action: none;\n  }\n\n  .grid-cols-1 {\n    grid-template-columns: repeat(1, minmax(0, 1fr));\n  }\n\n  .flex-col {\n    flex-direction: column;\n  }\n\n  .items-center {\n    align-items: center;\n  }\n\n  .justify-center {\n    justify-content: center;\n  }\n\n  .gap-0\\.5 {\n    gap: calc(var(--spacing) * .5);\n  }\n\n  .gap-1 {\n    gap: calc(var(--spacing) * 1);\n  }\n\n  .gap-1\\.5 {\n    gap: calc(var(--spacing) * 1.5);\n  }\n\n  .gap-2 {\n    gap: calc(var(--spacing) * 2);\n  }\n\n  .gap-3 {\n    gap: calc(var(--spacing) * 3);\n  }\n\n  .gap-4 {\n    gap: calc(var(--spacing) * 4);\n  }\n\n  .gap-x-4 {\n    column-gap: calc(var(--spacing) * 4);\n  }\n\n  .gap-x-6 {\n    column-gap: calc(var(--spacing) * 6);\n  }\n\n  .gap-y-3\\.5 {\n    row-gap: calc(var(--spacing) * 3.5);\n  }\n\n  .truncate {\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    overflow: hidden;\n  }\n\n  .overflow-auto {\n    overflow: auto;\n  }\n\n  .overflow-hidden {\n    overflow: hidden;\n  }\n\n  .overflow-visible {\n    overflow: visible;\n  }\n\n  .rounded {\n    border-radius: .25rem;\n  }\n\n  .rounded-full {\n    border-radius: 3.40282e38px;\n  }\n\n  .rounded-lg {\n    border-radius: var(--radius-lg);\n  }\n\n  .border {\n    border-style: var(--tw-border-style);\n    border-width: 1px;\n  }\n\n  .border-b {\n    border-bottom-style: var(--tw-border-style);\n    border-bottom-width: 1px;\n  }\n\n  .border-none {\n    --tw-border-style: none;\n    border-style: none;\n  }\n\n  .border-border, .border-border\\/20 {\n    border-color: var(--color-border);\n  }\n\n  @supports (color: color-mix(in lab, red, red)) {\n    .border-border\\/20 {\n      border-color: color-mix(in oklab, var(--color-border) 20%, transparent);\n    }\n  }\n\n  .border-error\\/40 {\n    border-color: var(--color-error);\n  }\n\n  @supports (color: color-mix(in lab, red, red)) {\n    .border-error\\/40 {\n      border-color: color-mix(in oklab, var(--color-error) 40%, transparent);\n    }\n  }\n\n  .\\!bg-muted {\n    background-color: var(--color-muted) !important;\n  }\n\n  .bg-\\[\\#0d0f14\\] {\n    background-color: #0d0f14;\n  }\n\n  .bg-\\[\\#141a29\\]\\/80 {\n    background-color: oklab(21.9553% -.00154547 -.0309085 / .8);\n  }\n\n  .bg-card {\n    background-color: var(--color-card);\n  }\n\n  .bg-error\\/20 {\n    background-color: var(--color-error);\n  }\n\n  @supports (color: color-mix(in lab, red, red)) {\n    .bg-error\\/20 {\n      background-color: color-mix(in oklab, var(--color-error) 20%, transparent);\n    }\n  }\n\n  .bg-muted {\n    background-color: var(--color-muted);\n  }\n\n  .bg-primary {\n    background-color: var(--color-primary);\n  }\n\n  .p-1 {\n    padding: calc(var(--spacing) * 1);\n  }\n\n  .p-5 {\n    padding: calc(var(--spacing) * 5);\n  }\n\n  .px-2\\.5 {\n    padding-inline: calc(var(--spacing) * 2.5);\n  }\n\n  .px-3 {\n    padding-inline: calc(var(--spacing) * 3);\n  }\n\n  .px-5 {\n    padding-inline: calc(var(--spacing) * 5);\n  }\n\n  .py-1 {\n    padding-block: calc(var(--spacing) * 1);\n  }\n\n  .py-1\\.5 {\n    padding-block: calc(var(--spacing) * 1.5);\n  }\n\n  .py-3 {\n    padding-block: calc(var(--spacing) * 3);\n  }\n\n  .text-center {\n    text-align: center;\n  }\n\n  .text-right {\n    text-align: right;\n  }\n\n  .font-sans {\n    font-family: var(--font-sans);\n  }\n\n  .\\!text-xs {\n    font-size: var(--text-xs) !important;\n    line-height: var(--tw-leading, var(--text-xs--line-height)) !important;\n  }\n\n  .text-sm {\n    font-size: var(--text-sm);\n    line-height: var(--tw-leading, var(--text-sm--line-height));\n  }\n\n  .text-xs {\n    font-size: var(--text-xs);\n    line-height: var(--tw-leading, var(--text-xs--line-height));\n  }\n\n  .text-\\[10px\\] {\n    font-size: 10px;\n  }\n\n  .font-medium {\n    --tw-font-weight: var(--font-weight-medium);\n    font-weight: var(--font-weight-medium);\n  }\n\n  .font-normal {\n    --tw-font-weight: var(--font-weight-normal);\n    font-weight: var(--font-weight-normal);\n  }\n\n  .whitespace-nowrap {\n    white-space: nowrap;\n  }\n\n  .text-\\[\\#00f0ff\\] {\n    color: #00f0ff;\n  }\n\n  .text-\\[\\#ff007f\\] {\n    color: #ff007f;\n  }\n\n  .text-\\[\\#ffb700\\] {\n    color: #ffb700;\n  }\n\n  .text-error {\n    color: var(--color-error);\n  }\n\n  .text-foreground {\n    color: var(--color-foreground);\n  }\n\n  .text-muted-foreground {\n    color: var(--color-muted-foreground);\n  }\n\n  .text-slate-200 {\n    color: var(--color-slate-200);\n  }\n\n  .text-slate-300 {\n    color: var(--color-slate-300);\n  }\n\n  .text-warning {\n    color: var(--color-warning);\n  }\n\n  .tabular-nums {\n    --tw-numeric-spacing: tabular-nums;\n    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );\n  }\n\n  .shadow-none {\n    --tw-shadow: 0 0 #0000;\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n\n  .outline {\n    outline-style: var(--tw-outline-style);\n    outline-width: 1px;\n  }\n\n  .backdrop-blur-xs {\n    --tw-backdrop-blur: blur(var(--blur-xs));\n    -webkit-backdrop-filter: var(--tw-backdrop-blur, ) var(--tw-backdrop-brightness, ) var(--tw-backdrop-contrast, ) var(--tw-backdrop-grayscale, ) var(--tw-backdrop-hue-rotate, ) var(--tw-backdrop-invert, ) var(--tw-backdrop-opacity, ) var(--tw-backdrop-saturate, ) var(--tw-backdrop-sepia, );\n    backdrop-filter: var(--tw-backdrop-blur, ) var(--tw-backdrop-brightness, ) var(--tw-backdrop-contrast, ) var(--tw-backdrop-grayscale, ) var(--tw-backdrop-hue-rotate, ) var(--tw-backdrop-invert, ) var(--tw-backdrop-opacity, ) var(--tw-backdrop-saturate, ) var(--tw-backdrop-sepia, );\n  }\n\n  .transition-colors {\n    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to;\n    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));\n    transition-duration: var(--tw-duration, var(--default-transition-duration));\n  }\n\n  .select-none {\n    -webkit-user-select: none;\n    user-select: none;\n  }\n\n  .after\\:absolute:after {\n    content: var(--tw-content);\n    position: absolute;\n  }\n\n  .after\\:inset-x-0:after {\n    content: var(--tw-content);\n    inset-inline: calc(var(--spacing) * 0);\n  }\n\n  .after\\:-inset-y-2:after {\n    content: var(--tw-content);\n    inset-block: calc(var(--spacing) * -2);\n  }\n\n  .after\\:top-1\\/2:after {\n    content: var(--tw-content);\n    top: 50%;\n  }\n\n  .after\\:left-1\\/2:after {\n    content: var(--tw-content);\n    left: 50%;\n  }\n\n  .after\\:h-11:after {\n    content: var(--tw-content);\n    height: calc(var(--spacing) * 11);\n  }\n\n  .after\\:w-11:after {\n    content: var(--tw-content);\n    width: calc(var(--spacing) * 11);\n  }\n\n  .after\\:-translate-x-1\\/2:after {\n    content: var(--tw-content);\n    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);\n    translate: var(--tw-translate-x) var(--tw-translate-y);\n  }\n\n  .after\\:-translate-y-1\\/2:after {\n    content: var(--tw-content);\n    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);\n    translate: var(--tw-translate-x) var(--tw-translate-y);\n  }\n\n  .focus\\:outline-none:focus {\n    --tw-outline-style: none;\n    outline-style: none;\n  }\n\n  .focus-visible\\:ring-2:focus-visible {\n    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n\n  .focus-visible\\:ring-primary:focus-visible {\n    --tw-ring-color: var(--color-primary);\n  }\n\n  .data-\\[state\\=on\\]\\:bg-primary[data-state=\"on\"] {\n    background-color: var(--color-primary);\n  }\n\n  .data-\\[state\\=on\\]\\:text-white[data-state=\"on\"] {\n    color: var(--color-white);\n  }\n\n  @media (min-width: 40rem) {\n    .sm\\:grid-cols-3 {\n      grid-template-columns: repeat(3, minmax(0, 1fr));\n    }\n\n    .sm\\:gap-x-8 {\n      column-gap: calc(var(--spacing) * 8);\n    }\n  }\n\n  @media (min-width: 48rem) {\n    .md\\:gap-x-12 {\n      column-gap: calc(var(--spacing) * 12);\n    }\n  }\n}\n\n@media (prefers-color-scheme: dark) {\n  :root:not(.light) {\n    --color-primary: var(--primary, #336ef3);\n    --color-primary-hover: var(--primary-hover, #395fe1);\n    --color-error: var(--brand-red, #ea4335);\n    --color-warning: var(--brand-yellow, #fbbc04);\n    --color-success: var(--brand-green, #34a853);\n    --color-background: var(--surface-container-de-emphasis, #272930);\n    --color-card: var(--surface-container-de-emphasis, #272930);\n    --color-card-hover: var(--surface-container-high, #363840);\n    --color-border: var(--divider, #363840);\n    --color-input: var(--surface-container, #2c2e35);\n    --color-secondary: var(--surface-container-high, #363840);\n    --color-secondary-hover: var(--surface-container-highest, #42444d);\n    --color-accent: var(--surface-container-highest, #42444d);\n    --color-accent-foreground: var(--on-surface-default, #e6e8f0);\n    --color-muted: var(--surface-container, #2c2e35);\n    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);\n    --color-foreground: var(--on-surface-default, #e6e8f0);\n    --color-disabled: var(--surface-container, #2c2e35);\n    --color-disabled-foreground: var(--disabled-foreground, #797c90);\n  }\n}\n\n.dark {\n  --color-primary: var(--primary, #336ef3);\n  --color-primary-hover: var(--primary-hover, #395fe1);\n  --color-error: var(--brand-red, #ea4335);\n  --color-warning: var(--brand-yellow, #fbbc04);\n  --color-success: var(--brand-green, #34a853);\n  --color-background: var(--surface-container-de-emphasis, #272930);\n  --color-card: var(--surface-container-de-emphasis, #272930);\n  --color-card-hover: var(--surface-container-high, #363840);\n  --color-border: var(--divider, #363840);\n  --color-input: var(--surface-container, #2c2e35);\n  --color-secondary: var(--surface-container-high, #363840);\n  --color-secondary-hover: var(--surface-container-highest, #42444d);\n  --color-accent: var(--surface-container-highest, #42444d);\n  --color-accent-foreground: var(--on-surface-default, #e6e8f0);\n  --color-muted: var(--surface-container, #2c2e35);\n  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);\n  --color-foreground: var(--on-surface-default, #e6e8f0);\n  --color-disabled: var(--surface-container, #2c2e35);\n  --color-disabled-foreground: var(--disabled-foreground, #797c90);\n}\n\ninput[type=\"date\"]::-webkit-calendar-picker-indicator {\n  cursor: pointer;\n  opacity: .6;\n}\n\n@media (prefers-color-scheme: dark) {\n  :root:not(.light) input[type=\"date\"]::-webkit-calendar-picker-indicator {\n    filter: invert();\n    opacity: .7;\n  }\n}\n\n.dark input[type=\"date\"]::-webkit-calendar-picker-indicator {\n  filter: invert();\n  opacity: .7;\n}\n\n@property --tw-rotate-x {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-rotate-y {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-rotate-z {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-skew-x {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-skew-y {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-border-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n\n@property --tw-font-weight {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ordinal {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-slashed-zero {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-figure {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-spacing {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-fraction {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-shadow-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n\n@property --tw-inset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-inset-shadow-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-inset-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n\n@property --tw-ring-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-inset-ring-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-inset-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-ring-inset {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ring-offset-width {\n  syntax: \"<length>\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-ring-offset-color {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: #fff;\n}\n\n@property --tw-ring-offset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-outline-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n\n@property --tw-backdrop-blur {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-brightness {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-contrast {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-grayscale {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-hue-rotate {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-invert {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-opacity {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-saturate {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-sepia {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-content {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: \"\";\n}\n\n@property --tw-translate-x {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-translate-y {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-translate-z {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@keyframes pulse {\n  50% {\n    opacity: .5;\n  }\n}\n\n"
+    ],
+    "svg": "<svg viewBox=\"0 0 800 368\" role=\"img\" aria-label=\"Interactive strain gauge rosette configuration and Mohr's circle analysis telemetry screen\" class=\"w-full h-auto block\"><defs><pattern id=\"canvas-grid\" width=\"30\" height=\"30\" patternUnits=\"userSpaceOnUse\"><path d=\"M 30 0 L 0 0 0 30\" fill=\"none\" stroke=\"#222630\" stroke-width=\"1\"></path></pattern></defs><rect width=\"800\" height=\"368\" fill=\"url(#canvas-grid)\"></rect><line x1=\"400\" y1=\"20\" x2=\"400\" y2=\"348\" stroke=\"#222630\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"></line><rect x=\"113\" y=\"89\" width=\"190\" height=\"190\" fill=\"none\" stroke=\"#1a2233\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\"></rect><path d=\"M 108.8 100.2 \n                   L 298.8 77.8 \n                   L 307.2 267.8 \n                   L 117.2 290.2 Z\" fill=\"#141a29\" stroke=\"#3a4b6e\" stroke-width=\"2\" stroke-linejoin=\"round\" opacity=\"0.8\"></path><g opacity=\"0.6\"><path d=\"M 318 184 L 333 184\" stroke=\"#00f0ff\" stroke-width=\"2\" fill=\"none\"></path><polygon points=\"333,184 327,180 327,188\" fill=\"#00f0ff\"></polygon><path d=\"M 98 184 L 83 184\" stroke=\"#00f0ff\" stroke-width=\"2\" fill=\"none\"></path><polygon points=\"83,184 89,180 89,188\" fill=\"#00f0ff\"></polygon></g><g id=\"strain-rosette\" transform=\"translate(208, 184)\"><g id=\"gauge-a\"><line x1=\"0\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#00f0ff\" stroke-width=\"4.5\" stroke-linecap=\"round\"></line><circle cx=\"50\" cy=\"0\" r=\"4\" fill=\"#0d0f14\" stroke=\"#00f0ff\" stroke-width=\"2\"></circle><text x=\"58\" y=\"4\" fill=\"#00f0ff\" font-size=\"11\" class=\"font-medium\">A (0°)</text></g><g id=\"gauge-b-45\"><line x1=\"0\" y1=\"0\" x2=\"35.35\" y2=\"-35.35\" stroke=\"#ff007f\" stroke-width=\"4.5\" stroke-linecap=\"round\"></line><circle cx=\"35.35\" cy=\"-35.35\" r=\"4\" fill=\"#0d0f14\" stroke=\"#ff007f\" stroke-width=\"2\"></circle><text x=\"40\" y=\"-40\" fill=\"#ff007f\" font-size=\"11\" class=\"font-medium\">B (45°)</text></g><g id=\"gauge-c-90\"><line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"-50\" stroke=\"#ffb700\" stroke-width=\"4.5\" stroke-linecap=\"round\"></line><circle cx=\"0\" cy=\"-50\" r=\"4\" fill=\"#0d0f14\" stroke=\"#ffb700\" stroke-width=\"2\"></circle><text x=\"-16\" y=\"-58\" fill=\"#ffb700\" font-size=\"11\" class=\"font-medium\">C (90°)</text></g><circle cx=\"0\" cy=\"0\" r=\"6\" fill=\"#ffffff\" stroke=\"#3a4b6e\" stroke-width=\"2\"></circle></g><g id=\"mohrs-axes\"><line x1=\"452\" y1=\"184\" x2=\"732\" y2=\"184\" stroke=\"#4f5d75\" stroke-width=\"1.5\"></line><text x=\"737\" y=\"188\" fill=\"#adafb8\" font-size=\"11\" text-anchor=\"start\">ε</text><line x1=\"592\" y1=\"84\" x2=\"592\" y2=\"284\" stroke=\"#4f5d75\" stroke-width=\"1.5\"></line><text x=\"592\" y=\"76\" fill=\"#adafb8\" font-size=\"11\" text-anchor=\"middle\">γ/2</text><text x=\"584\" y=\"198\" fill=\"#56595e\" font-size=\"11\" text-anchor=\"end\">0</text></g><g id=\"mohrs-circle-elements\">const cxPixel = rightCenterX + calculations.epsAvg * circleScale; const rPixel = calculations.radius * circleScale;<circle cx=\"587.9272727272727\" cy=\"184\" r=\"31.016966831154825\" fill=\"none\" stroke=\"#4f6eff\" stroke-width=\"2\" opacity=\"0.85\"></circle><circle cx=\"587.9272727272727\" cy=\"184\" r=\"31.016966831154825\" fill=\"none\" opacity=\"0.1\"></circle><line x1=\"616.4363636363637\" y1=\"171.78181818181818\" x2=\"559.4181818181818\" y2=\"196.21818181818182\" stroke=\"#e6e8f0\" stroke-width=\"1.5\" stroke-dasharray=\"2 2\"></line><circle cx=\"616.4363636363637\" cy=\"171.78181818181818\" r=\"4\" fill=\"#336ef3\" stroke=\"#ffffff\" stroke-width=\"1\"></circle><text x=\"622.4363636363637\" y=\"165.78181818181818\" fill=\"#ffffff\" font-size=\"11\">X</text><circle cx=\"587.9272727272727\" cy=\"184\" r=\"3\" fill=\"#ffea00\"></circle><line x1=\"587.9272727272727\" y1=\"184\" x2=\"587.9272727272727\" y2=\"199\" stroke=\"#ffea00\" stroke-width=\"1\" stroke-dasharray=\"2 2\"></line><text x=\"587.9272727272727\" y=\"210\" fill=\"#ffea00\" font-size=\"11\" text-anchor=\"middle\">ε_avg</text><circle cx=\"618.9442395584275\" cy=\"184\" r=\"4.5\" fill=\"#34a853\"></circle><text x=\"618.9442395584275\" y=\"174\" fill=\"#34a853\" font-size=\"11\" text-anchor=\"middle\" class=\"font-medium\">ε₁</text><circle cx=\"556.910305896118\" cy=\"184\" r=\"4.5\" fill=\"#34a853\"></circle><text x=\"556.910305896118\" y=\"174\" fill=\"#34a853\" font-size=\"11\" text-anchor=\"middle\" class=\"font-medium\">ε₂</text></g></svg>",
+    "text": "Max Principal\n232 με\nMin Principal\n-302 με\nMax Shear\n533 με\nPrincipal Angle\n-11.6°\nA (0°)\nB (45°)\nC (90°)\nε\nγ/2\n0\nX\nε_avg\nε₁\nε₂\nGauge A\n210 με\nGauge B\n-140 με\nGauge C\n-280 με\nRosette Arrangement Geometry\nRectangular (q=0)\nDelta (q=1)\nNormal Strain εx\n210 με\nNormal Strain εy\n-280 με\nShear Strain γxy\n-210 με"
+  },
+  {
+    "background": "rgb(13, 15, 20)",
+    "computedStyles": [
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(34, 38, 48)"
+      },
+      {
+        "fill": "url(\"#canvas-grid\")",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(34, 38, 48)"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(26, 34, 51)"
+      },
+      {
+        "fill": "rgb(20, 26, 41)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "0.8",
+        "stroke": "rgb(58, 75, 110)"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "0.6",
+        "stroke": "none"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(0, 240, 255)"
+      },
+      {
+        "fill": "rgb(0, 240, 255)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(0, 240, 255)"
+      },
+      {
+        "fill": "rgb(0, 240, 255)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(0, 240, 255)"
+      },
+      {
+        "fill": "rgb(13, 15, 20)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(0, 240, 255)"
+      },
+      {
+        "fill": "rgb(0, 240, 255)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 0, 127)"
+      },
+      {
+        "fill": "rgb(13, 15, 20)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 0, 127)"
+      },
+      {
+        "fill": "rgb(255, 0, 127)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 183, 0)"
+      },
+      {
+        "fill": "rgb(13, 15, 20)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 183, 0)"
+      },
+      {
+        "fill": "rgb(255, 183, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(255, 255, 255)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(58, 75, 110)"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(79, 93, 117)"
+      },
+      {
+        "fill": "rgb(173, 175, 184)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(79, 93, 117)"
+      },
+      {
+        "fill": "rgb(173, 175, 184)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(86, 89, 94)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "0.85",
+        "stroke": "rgb(79, 110, 255)"
+      },
+      {
+        "fill": "none",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "0.1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(230, 232, 240)"
+      },
+      {
+        "fill": "rgb(51, 110, 243)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 255, 255)"
+      },
+      {
+        "fill": "rgb(255, 255, 255)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(255, 234, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(0, 0, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "rgb(255, 234, 0)"
+      },
+      {
+        "fill": "rgb(255, 234, 0)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(52, 168, 83)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(52, 168, 83)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(52, 168, 83)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      },
+      {
+        "fill": "rgb(52, 168, 83)",
+        "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "letterSpacing": "normal",
+        "opacity": "1",
+        "stroke": "none"
+      }
+    ],
+    "styles": [
+      "\n/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */\n@layer properties {\n  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {\n    *, :before, :after, ::backdrop {\n      --tw-rotate-x: initial;\n      --tw-rotate-y: initial;\n      --tw-rotate-z: initial;\n      --tw-skew-x: initial;\n      --tw-skew-y: initial;\n      --tw-border-style: solid;\n      --tw-font-weight: initial;\n      --tw-ordinal: initial;\n      --tw-slashed-zero: initial;\n      --tw-numeric-figure: initial;\n      --tw-numeric-spacing: initial;\n      --tw-numeric-fraction: initial;\n      --tw-shadow: 0 0 #0000;\n      --tw-shadow-color: initial;\n      --tw-shadow-alpha: 100%;\n      --tw-inset-shadow: 0 0 #0000;\n      --tw-inset-shadow-color: initial;\n      --tw-inset-shadow-alpha: 100%;\n      --tw-ring-color: initial;\n      --tw-ring-shadow: 0 0 #0000;\n      --tw-inset-ring-color: initial;\n      --tw-inset-ring-shadow: 0 0 #0000;\n      --tw-ring-inset: initial;\n      --tw-ring-offset-width: 0px;\n      --tw-ring-offset-color: #fff;\n      --tw-ring-offset-shadow: 0 0 #0000;\n      --tw-outline-style: solid;\n      --tw-backdrop-blur: initial;\n      --tw-backdrop-brightness: initial;\n      --tw-backdrop-contrast: initial;\n      --tw-backdrop-grayscale: initial;\n      --tw-backdrop-hue-rotate: initial;\n      --tw-backdrop-invert: initial;\n      --tw-backdrop-opacity: initial;\n      --tw-backdrop-saturate: initial;\n      --tw-backdrop-sepia: initial;\n      --tw-content: \"\";\n      --tw-translate-x: 0;\n      --tw-translate-y: 0;\n      --tw-translate-z: 0;\n    }\n  }\n}\n\n@layer theme {\n  :root, :host {\n    --font-sans: \"Google Sans\", \"Roboto\", sans-serif;\n    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n    --color-slate-200: oklch(92.9% .013 255.508);\n    --color-slate-300: oklch(86.9% .022 252.894);\n    --color-white: #fff;\n    --spacing: .25rem;\n    --text-xs: .75rem;\n    --text-xs--line-height: calc(1 / .75);\n    --text-sm: .875rem;\n    --text-sm--line-height: calc(1.25 / .875);\n    --font-weight-normal: 400;\n    --font-weight-medium: 500;\n    --radius-lg: .5rem;\n    --animate-pulse: pulse 2s cubic-bezier(.4, 0, .6, 1) infinite;\n    --blur-xs: 4px;\n    --default-transition-duration: .15s;\n    --default-transition-timing-function: cubic-bezier(.31, .94, .34, 1);\n    --default-font-family: var(--font-sans);\n    --default-mono-font-family: var(--font-mono);\n    --color-primary: var(--primary, #336ef3);\n    --color-error: var(--brand-red, #ea4335);\n    --color-warning: var(--brand-yellow, #fbbc04);\n    --color-card: var(--surface-container-de-emphasis, #f7f8fa);\n    --color-border: var(--divider, #dcdfe5);\n    --color-muted: var(--surface-container, #f0f2f5);\n    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);\n    --color-foreground: var(--on-surface-default, #0a0a0a);\n  }\n}\n\n@layer base {\n  *, :after, :before, ::backdrop {\n    box-sizing: border-box;\n    border: 0 solid;\n    margin: 0;\n    padding: 0;\n  }\n\n  ::file-selector-button {\n    box-sizing: border-box;\n    border: 0 solid;\n    margin: 0;\n    padding: 0;\n  }\n\n  html, :host {\n    -webkit-text-size-adjust: 100%;\n    tab-size: 4;\n    line-height: 1.5;\n    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\");\n    font-feature-settings: var(--default-font-feature-settings, normal);\n    font-variation-settings: var(--default-font-variation-settings, normal);\n    -webkit-tap-highlight-color: transparent;\n  }\n\n  hr {\n    height: 0;\n    color: inherit;\n    border-top-width: 1px;\n  }\n\n  abbr:where([title]) {\n    -webkit-text-decoration: underline dotted;\n    text-decoration: underline dotted;\n  }\n\n  h1, h2, h3, h4, h5, h6 {\n    font-size: inherit;\n    font-weight: inherit;\n  }\n\n  a {\n    color: inherit;\n    -webkit-text-decoration: inherit;\n    -webkit-text-decoration: inherit;\n    -webkit-text-decoration: inherit;\n    text-decoration: inherit;\n  }\n\n  b, strong {\n    font-weight: bolder;\n  }\n\n  code, kbd, samp, pre {\n    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace);\n    font-feature-settings: var(--default-mono-font-feature-settings, normal);\n    font-variation-settings: var(--default-mono-font-variation-settings, normal);\n    font-size: 1em;\n  }\n\n  small {\n    font-size: 80%;\n  }\n\n  sub, sup {\n    vertical-align: baseline;\n    font-size: 75%;\n    line-height: 0;\n    position: relative;\n  }\n\n  sub {\n    bottom: -.25em;\n  }\n\n  sup {\n    top: -.5em;\n  }\n\n  table {\n    text-indent: 0;\n    border-color: inherit;\n    border-collapse: collapse;\n  }\n\n  :-moz-focusring {\n    outline: auto;\n  }\n\n  progress {\n    vertical-align: baseline;\n  }\n\n  summary {\n    display: list-item;\n  }\n\n  ol, ul, menu {\n    list-style: none;\n  }\n\n  img, svg, video, canvas, audio, iframe, embed, object {\n    vertical-align: middle;\n    display: block;\n  }\n\n  img, video {\n    max-width: 100%;\n    height: auto;\n  }\n\n  button, input, select, optgroup, textarea {\n    font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    opacity: 1;\n    background-color: #0000;\n    border-radius: 0;\n  }\n\n  ::file-selector-button {\n    font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    opacity: 1;\n    background-color: #0000;\n    border-radius: 0;\n  }\n\n  :where(select:is([multiple], [size])) optgroup {\n    font-weight: bolder;\n  }\n\n  :where(select:is([multiple], [size])) optgroup option {\n    padding-inline-start: 20px;\n  }\n\n  ::file-selector-button {\n    margin-inline-end: 4px;\n  }\n\n  ::placeholder {\n    opacity: 1;\n  }\n\n  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {\n    ::placeholder {\n      color: currentColor;\n    }\n\n    @supports (color: color-mix(in lab, red, red)) {\n      ::placeholder {\n        color: color-mix(in oklab, currentcolor 50%, transparent);\n      }\n    }\n  }\n\n  textarea {\n    resize: vertical;\n  }\n\n  ::-webkit-search-decoration {\n    -webkit-appearance: none;\n  }\n\n  ::-webkit-date-and-time-value {\n    min-height: 1lh;\n    text-align: inherit;\n  }\n\n  ::-webkit-datetime-edit {\n    display: inline-flex;\n  }\n\n  ::-webkit-datetime-edit-fields-wrapper {\n    padding: 0;\n  }\n\n  ::-webkit-datetime-edit {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-year-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-month-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-day-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-hour-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-minute-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-second-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-millisecond-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-meridiem-field {\n    padding-block: 0;\n  }\n\n  :-moz-ui-invalid {\n    box-shadow: none;\n  }\n\n  button, input:where([type=\"button\"], [type=\"reset\"], [type=\"submit\"]) {\n    appearance: button;\n  }\n\n  ::file-selector-button {\n    appearance: button;\n  }\n\n  ::-webkit-inner-spin-button {\n    height: auto;\n  }\n\n  ::-webkit-outer-spin-button {\n    height: auto;\n  }\n\n  [hidden]:where(:not([hidden=\"until-found\"])) {\n    display: none !important;\n  }\n}\n\n@layer components;\n\n@layer utilities {\n  .pointer-events-none {\n    pointer-events: none;\n  }\n\n  .visible {\n    visibility: visible;\n  }\n\n  .absolute {\n    position: absolute;\n  }\n\n  .relative {\n    position: relative;\n  }\n\n  .static {\n    position: static;\n  }\n\n  .top-3 {\n    top: calc(var(--spacing) * 3);\n  }\n\n  .bottom-3 {\n    bottom: calc(var(--spacing) * 3);\n  }\n\n  .left-4 {\n    left: calc(var(--spacing) * 4);\n  }\n\n  .left-5 {\n    left: calc(var(--spacing) * 5);\n  }\n\n  .-my-3 {\n    margin-block: calc(var(--spacing) * -3);\n  }\n\n  .mt-2 {\n    margin-top: calc(var(--spacing) * 2);\n  }\n\n  .block {\n    display: block;\n  }\n\n  .flex {\n    display: flex;\n  }\n\n  .grid {\n    display: grid;\n  }\n\n  .aspect-\\[2\\/1\\] {\n    aspect-ratio: 2;\n  }\n\n  .h-1 {\n    height: calc(var(--spacing) * 1);\n  }\n\n  .h-9 {\n    height: calc(var(--spacing) * 9);\n  }\n\n  .h-11 {\n    height: calc(var(--spacing) * 11);\n  }\n\n  .h-\\[18px\\] {\n    height: 18px;\n  }\n\n  .h-auto {\n    height: auto;\n  }\n\n  .h-full {\n    height: 100%;\n  }\n\n  .w-\\[8ch\\] {\n    width: 8ch;\n  }\n\n  .w-\\[18px\\] {\n    width: 18px;\n  }\n\n  .w-full {\n    width: 100%;\n  }\n\n  .min-w-0 {\n    min-width: calc(var(--spacing) * 0);\n  }\n\n  .flex-1 {\n    flex: 1;\n  }\n\n  .shrink-0 {\n    flex-shrink: 0;\n  }\n\n  .grow {\n    flex-grow: 1;\n  }\n\n  .transform {\n    transform: var(--tw-rotate-x, ) var(--tw-rotate-y, ) var(--tw-rotate-z, ) var(--tw-skew-x, ) var(--tw-skew-y, );\n  }\n\n  .animate-pulse {\n    animation: var(--animate-pulse);\n  }\n\n  .cursor-pointer {\n    cursor: pointer;\n  }\n\n  .touch-none {\n    touch-action: none;\n  }\n\n  .grid-cols-1 {\n    grid-template-columns: repeat(1, minmax(0, 1fr));\n  }\n\n  .flex-col {\n    flex-direction: column;\n  }\n\n  .items-center {\n    align-items: center;\n  }\n\n  .justify-center {\n    justify-content: center;\n  }\n\n  .gap-0\\.5 {\n    gap: calc(var(--spacing) * .5);\n  }\n\n  .gap-1 {\n    gap: calc(var(--spacing) * 1);\n  }\n\n  .gap-1\\.5 {\n    gap: calc(var(--spacing) * 1.5);\n  }\n\n  .gap-2 {\n    gap: calc(var(--spacing) * 2);\n  }\n\n  .gap-3 {\n    gap: calc(var(--spacing) * 3);\n  }\n\n  .gap-4 {\n    gap: calc(var(--spacing) * 4);\n  }\n\n  .gap-x-4 {\n    column-gap: calc(var(--spacing) * 4);\n  }\n\n  .gap-x-6 {\n    column-gap: calc(var(--spacing) * 6);\n  }\n\n  .gap-y-3\\.5 {\n    row-gap: calc(var(--spacing) * 3.5);\n  }\n\n  .truncate {\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    overflow: hidden;\n  }\n\n  .overflow-auto {\n    overflow: auto;\n  }\n\n  .overflow-hidden {\n    overflow: hidden;\n  }\n\n  .overflow-visible {\n    overflow: visible;\n  }\n\n  .rounded {\n    border-radius: .25rem;\n  }\n\n  .rounded-full {\n    border-radius: 3.40282e38px;\n  }\n\n  .rounded-lg {\n    border-radius: var(--radius-lg);\n  }\n\n  .border {\n    border-style: var(--tw-border-style);\n    border-width: 1px;\n  }\n\n  .border-b {\n    border-bottom-style: var(--tw-border-style);\n    border-bottom-width: 1px;\n  }\n\n  .border-none {\n    --tw-border-style: none;\n    border-style: none;\n  }\n\n  .border-border, .border-border\\/20 {\n    border-color: var(--color-border);\n  }\n\n  @supports (color: color-mix(in lab, red, red)) {\n    .border-border\\/20 {\n      border-color: color-mix(in oklab, var(--color-border) 20%, transparent);\n    }\n  }\n\n  .border-error\\/40 {\n    border-color: var(--color-error);\n  }\n\n  @supports (color: color-mix(in lab, red, red)) {\n    .border-error\\/40 {\n      border-color: color-mix(in oklab, var(--color-error) 40%, transparent);\n    }\n  }\n\n  .\\!bg-muted {\n    background-color: var(--color-muted) !important;\n  }\n\n  .bg-\\[\\#0d0f14\\] {\n    background-color: #0d0f14;\n  }\n\n  .bg-\\[\\#141a29\\]\\/80 {\n    background-color: oklab(21.9553% -.00154547 -.0309085 / .8);\n  }\n\n  .bg-card {\n    background-color: var(--color-card);\n  }\n\n  .bg-error\\/20 {\n    background-color: var(--color-error);\n  }\n\n  @supports (color: color-mix(in lab, red, red)) {\n    .bg-error\\/20 {\n      background-color: color-mix(in oklab, var(--color-error) 20%, transparent);\n    }\n  }\n\n  .bg-muted {\n    background-color: var(--color-muted);\n  }\n\n  .bg-primary {\n    background-color: var(--color-primary);\n  }\n\n  .p-1 {\n    padding: calc(var(--spacing) * 1);\n  }\n\n  .p-5 {\n    padding: calc(var(--spacing) * 5);\n  }\n\n  .px-2\\.5 {\n    padding-inline: calc(var(--spacing) * 2.5);\n  }\n\n  .px-3 {\n    padding-inline: calc(var(--spacing) * 3);\n  }\n\n  .px-5 {\n    padding-inline: calc(var(--spacing) * 5);\n  }\n\n  .py-1 {\n    padding-block: calc(var(--spacing) * 1);\n  }\n\n  .py-1\\.5 {\n    padding-block: calc(var(--spacing) * 1.5);\n  }\n\n  .py-3 {\n    padding-block: calc(var(--spacing) * 3);\n  }\n\n  .text-center {\n    text-align: center;\n  }\n\n  .text-right {\n    text-align: right;\n  }\n\n  .font-sans {\n    font-family: var(--font-sans);\n  }\n\n  .\\!text-xs {\n    font-size: var(--text-xs) !important;\n    line-height: var(--tw-leading, var(--text-xs--line-height)) !important;\n  }\n\n  .text-sm {\n    font-size: var(--text-sm);\n    line-height: var(--tw-leading, var(--text-sm--line-height));\n  }\n\n  .text-xs {\n    font-size: var(--text-xs);\n    line-height: var(--tw-leading, var(--text-xs--line-height));\n  }\n\n  .text-\\[10px\\] {\n    font-size: 10px;\n  }\n\n  .font-medium {\n    --tw-font-weight: var(--font-weight-medium);\n    font-weight: var(--font-weight-medium);\n  }\n\n  .font-normal {\n    --tw-font-weight: var(--font-weight-normal);\n    font-weight: var(--font-weight-normal);\n  }\n\n  .whitespace-nowrap {\n    white-space: nowrap;\n  }\n\n  .text-\\[\\#00f0ff\\] {\n    color: #00f0ff;\n  }\n\n  .text-\\[\\#ff007f\\] {\n    color: #ff007f;\n  }\n\n  .text-\\[\\#ffb700\\] {\n    color: #ffb700;\n  }\n\n  .text-error {\n    color: var(--color-error);\n  }\n\n  .text-foreground {\n    color: var(--color-foreground);\n  }\n\n  .text-muted-foreground {\n    color: var(--color-muted-foreground);\n  }\n\n  .text-slate-200 {\n    color: var(--color-slate-200);\n  }\n\n  .text-slate-300 {\n    color: var(--color-slate-300);\n  }\n\n  .text-warning {\n    color: var(--color-warning);\n  }\n\n  .tabular-nums {\n    --tw-numeric-spacing: tabular-nums;\n    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );\n  }\n\n  .shadow-none {\n    --tw-shadow: 0 0 #0000;\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n\n  .outline {\n    outline-style: var(--tw-outline-style);\n    outline-width: 1px;\n  }\n\n  .backdrop-blur-xs {\n    --tw-backdrop-blur: blur(var(--blur-xs));\n    -webkit-backdrop-filter: var(--tw-backdrop-blur, ) var(--tw-backdrop-brightness, ) var(--tw-backdrop-contrast, ) var(--tw-backdrop-grayscale, ) var(--tw-backdrop-hue-rotate, ) var(--tw-backdrop-invert, ) var(--tw-backdrop-opacity, ) var(--tw-backdrop-saturate, ) var(--tw-backdrop-sepia, );\n    backdrop-filter: var(--tw-backdrop-blur, ) var(--tw-backdrop-brightness, ) var(--tw-backdrop-contrast, ) var(--tw-backdrop-grayscale, ) var(--tw-backdrop-hue-rotate, ) var(--tw-backdrop-invert, ) var(--tw-backdrop-opacity, ) var(--tw-backdrop-saturate, ) var(--tw-backdrop-sepia, );\n  }\n\n  .transition-colors {\n    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to;\n    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));\n    transition-duration: var(--tw-duration, var(--default-transition-duration));\n  }\n\n  .select-none {\n    -webkit-user-select: none;\n    user-select: none;\n  }\n\n  .after\\:absolute:after {\n    content: var(--tw-content);\n    position: absolute;\n  }\n\n  .after\\:inset-x-0:after {\n    content: var(--tw-content);\n    inset-inline: calc(var(--spacing) * 0);\n  }\n\n  .after\\:-inset-y-2:after {\n    content: var(--tw-content);\n    inset-block: calc(var(--spacing) * -2);\n  }\n\n  .after\\:top-1\\/2:after {\n    content: var(--tw-content);\n    top: 50%;\n  }\n\n  .after\\:left-1\\/2:after {\n    content: var(--tw-content);\n    left: 50%;\n  }\n\n  .after\\:h-11:after {\n    content: var(--tw-content);\n    height: calc(var(--spacing) * 11);\n  }\n\n  .after\\:w-11:after {\n    content: var(--tw-content);\n    width: calc(var(--spacing) * 11);\n  }\n\n  .after\\:-translate-x-1\\/2:after {\n    content: var(--tw-content);\n    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);\n    translate: var(--tw-translate-x) var(--tw-translate-y);\n  }\n\n  .after\\:-translate-y-1\\/2:after {\n    content: var(--tw-content);\n    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);\n    translate: var(--tw-translate-x) var(--tw-translate-y);\n  }\n\n  .focus\\:outline-none:focus {\n    --tw-outline-style: none;\n    outline-style: none;\n  }\n\n  .focus-visible\\:ring-2:focus-visible {\n    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n\n  .focus-visible\\:ring-primary:focus-visible {\n    --tw-ring-color: var(--color-primary);\n  }\n\n  .data-\\[state\\=on\\]\\:bg-primary[data-state=\"on\"] {\n    background-color: var(--color-primary);\n  }\n\n  .data-\\[state\\=on\\]\\:text-white[data-state=\"on\"] {\n    color: var(--color-white);\n  }\n\n  @media (min-width: 40rem) {\n    .sm\\:grid-cols-3 {\n      grid-template-columns: repeat(3, minmax(0, 1fr));\n    }\n\n    .sm\\:gap-x-8 {\n      column-gap: calc(var(--spacing) * 8);\n    }\n  }\n\n  @media (min-width: 48rem) {\n    .md\\:gap-x-12 {\n      column-gap: calc(var(--spacing) * 12);\n    }\n  }\n}\n\n@media (prefers-color-scheme: dark) {\n  :root:not(.light) {\n    --color-primary: var(--primary, #336ef3);\n    --color-primary-hover: var(--primary-hover, #395fe1);\n    --color-error: var(--brand-red, #ea4335);\n    --color-warning: var(--brand-yellow, #fbbc04);\n    --color-success: var(--brand-green, #34a853);\n    --color-background: var(--surface-container-de-emphasis, #272930);\n    --color-card: var(--surface-container-de-emphasis, #272930);\n    --color-card-hover: var(--surface-container-high, #363840);\n    --color-border: var(--divider, #363840);\n    --color-input: var(--surface-container, #2c2e35);\n    --color-secondary: var(--surface-container-high, #363840);\n    --color-secondary-hover: var(--surface-container-highest, #42444d);\n    --color-accent: var(--surface-container-highest, #42444d);\n    --color-accent-foreground: var(--on-surface-default, #e6e8f0);\n    --color-muted: var(--surface-container, #2c2e35);\n    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);\n    --color-foreground: var(--on-surface-default, #e6e8f0);\n    --color-disabled: var(--surface-container, #2c2e35);\n    --color-disabled-foreground: var(--disabled-foreground, #797c90);\n  }\n}\n\n.dark {\n  --color-primary: var(--primary, #336ef3);\n  --color-primary-hover: var(--primary-hover, #395fe1);\n  --color-error: var(--brand-red, #ea4335);\n  --color-warning: var(--brand-yellow, #fbbc04);\n  --color-success: var(--brand-green, #34a853);\n  --color-background: var(--surface-container-de-emphasis, #272930);\n  --color-card: var(--surface-container-de-emphasis, #272930);\n  --color-card-hover: var(--surface-container-high, #363840);\n  --color-border: var(--divider, #363840);\n  --color-input: var(--surface-container, #2c2e35);\n  --color-secondary: var(--surface-container-high, #363840);\n  --color-secondary-hover: var(--surface-container-highest, #42444d);\n  --color-accent: var(--surface-container-highest, #42444d);\n  --color-accent-foreground: var(--on-surface-default, #e6e8f0);\n  --color-muted: var(--surface-container, #2c2e35);\n  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);\n  --color-foreground: var(--on-surface-default, #e6e8f0);\n  --color-disabled: var(--surface-container, #2c2e35);\n  --color-disabled-foreground: var(--disabled-foreground, #797c90);\n}\n\ninput[type=\"date\"]::-webkit-calendar-picker-indicator {\n  cursor: pointer;\n  opacity: .6;\n}\n\n@media (prefers-color-scheme: dark) {\n  :root:not(.light) input[type=\"date\"]::-webkit-calendar-picker-indicator {\n    filter: invert();\n    opacity: .7;\n  }\n}\n\n.dark input[type=\"date\"]::-webkit-calendar-picker-indicator {\n  filter: invert();\n  opacity: .7;\n}\n\n@property --tw-rotate-x {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-rotate-y {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-rotate-z {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-skew-x {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-skew-y {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-border-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n\n@property --tw-font-weight {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ordinal {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-slashed-zero {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-figure {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-spacing {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-fraction {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-shadow-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n\n@property --tw-inset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-inset-shadow-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-inset-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n\n@property --tw-ring-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-inset-ring-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-inset-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-ring-inset {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ring-offset-width {\n  syntax: \"<length>\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-ring-offset-color {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: #fff;\n}\n\n@property --tw-ring-offset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-outline-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n\n@property --tw-backdrop-blur {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-brightness {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-contrast {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-grayscale {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-hue-rotate {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-invert {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-opacity {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-saturate {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-backdrop-sepia {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-content {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: \"\";\n}\n\n@property --tw-translate-x {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-translate-y {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-translate-z {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@keyframes pulse {\n  50% {\n    opacity: .5;\n  }\n}\n\n"
+    ],
+    "svg": "<svg viewBox=\"0 0 800 368\" role=\"img\" aria-label=\"Interactive strain gauge rosette configuration and Mohr's circle analysis telemetry screen\" class=\"w-full h-auto block\"><defs><pattern id=\"canvas-grid\" width=\"30\" height=\"30\" patternUnits=\"userSpaceOnUse\"><path d=\"M 30 0 L 0 0 0 30\" fill=\"none\" stroke=\"#222630\" stroke-width=\"1\"></path></pattern></defs><rect width=\"800\" height=\"368\" fill=\"url(#canvas-grid)\"></rect><line x1=\"400\" y1=\"20\" x2=\"400\" y2=\"348\" stroke=\"#222630\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"></line><rect x=\"113\" y=\"89\" width=\"190\" height=\"190\" fill=\"none\" stroke=\"#1a2233\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\"></rect><path d=\"M 108.8 100.2 \n                   L 298.8 77.8 \n                   L 307.2 267.8 \n                   L 117.2 290.2 Z\" fill=\"#141a29\" stroke=\"#3a4b6e\" stroke-width=\"2\" stroke-linejoin=\"round\" opacity=\"0.8\"></path><g opacity=\"0.6\"><path d=\"M 318 184 L 333 184\" stroke=\"#00f0ff\" stroke-width=\"2\" fill=\"none\"></path><polygon points=\"333,184 327,180 327,188\" fill=\"#00f0ff\"></polygon><path d=\"M 98 184 L 83 184\" stroke=\"#00f0ff\" stroke-width=\"2\" fill=\"none\"></path><polygon points=\"83,184 89,180 89,188\" fill=\"#00f0ff\"></polygon></g><g id=\"strain-rosette\" transform=\"translate(208, 184)\"><g id=\"gauge-a\"><line x1=\"0\" y1=\"0\" x2=\"50\" y2=\"0\" stroke=\"#00f0ff\" stroke-width=\"4.5\" stroke-linecap=\"round\"></line><circle cx=\"50\" cy=\"0\" r=\"4\" fill=\"#0d0f14\" stroke=\"#00f0ff\" stroke-width=\"2\"></circle><text x=\"58\" y=\"4\" fill=\"#00f0ff\" font-size=\"11\" class=\"font-medium\">A (0°)</text></g><g id=\"gauge-b-60\"><line x1=\"0\" y1=\"0\" x2=\"25\" y2=\"-43.3\" stroke=\"#ff007f\" stroke-width=\"4.5\" stroke-linecap=\"round\"></line><circle cx=\"25\" cy=\"-43.3\" r=\"4\" fill=\"#0d0f14\" stroke=\"#ff007f\" stroke-width=\"2\"></circle><text x=\"28\" y=\"-48\" fill=\"#ff007f\" font-size=\"11\" class=\"font-medium\">B (60°)</text></g><g id=\"gauge-c-120\"><line x1=\"0\" y1=\"0\" x2=\"-25\" y2=\"-43.3\" stroke=\"#ffb700\" stroke-width=\"4.5\" stroke-linecap=\"round\"></line><circle cx=\"-25\" cy=\"-43.3\" r=\"4\" fill=\"#0d0f14\" stroke=\"#ffb700\" stroke-width=\"2\"></circle><text x=\"-58\" y=\"-48\" fill=\"#ffb700\" font-size=\"11\" class=\"font-medium\">C (120°)</text></g><circle cx=\"0\" cy=\"0\" r=\"6\" fill=\"#ffffff\" stroke=\"#3a4b6e\" stroke-width=\"2\"></circle></g><g id=\"mohrs-axes\"><line x1=\"452\" y1=\"184\" x2=\"732\" y2=\"184\" stroke=\"#4f5d75\" stroke-width=\"1.5\"></line><text x=\"737\" y=\"188\" fill=\"#adafb8\" font-size=\"11\" text-anchor=\"start\">ε</text><line x1=\"592\" y1=\"84\" x2=\"592\" y2=\"284\" stroke=\"#4f5d75\" stroke-width=\"1.5\"></line><text x=\"592\" y=\"76\" fill=\"#adafb8\" font-size=\"11\" text-anchor=\"middle\">γ/2</text><text x=\"584\" y=\"198\" fill=\"#56595e\" font-size=\"11\" text-anchor=\"end\">0</text></g><g id=\"mohrs-circle-elements\">const cxPixel = rightCenterX + calculations.epsAvg * circleScale; const rPixel = calculations.radius * circleScale;<circle cx=\"587.9272727272727\" cy=\"184\" r=\"31.016966831154825\" fill=\"none\" stroke=\"#4f6eff\" stroke-width=\"2\" opacity=\"0.85\"></circle><circle cx=\"587.9272727272727\" cy=\"184\" r=\"31.016966831154825\" fill=\"none\" opacity=\"0.1\"></circle><line x1=\"616.4363636363637\" y1=\"171.78181818181818\" x2=\"559.4181818181818\" y2=\"196.21818181818182\" stroke=\"#e6e8f0\" stroke-width=\"1.5\" stroke-dasharray=\"2 2\"></line><circle cx=\"616.4363636363637\" cy=\"171.78181818181818\" r=\"4\" fill=\"#336ef3\" stroke=\"#ffffff\" stroke-width=\"1\"></circle><text x=\"622.4363636363637\" y=\"165.78181818181818\" fill=\"#ffffff\" font-size=\"11\">X</text><circle cx=\"587.9272727272727\" cy=\"184\" r=\"3\" fill=\"#ffea00\"></circle><line x1=\"587.9272727272727\" y1=\"184\" x2=\"587.9272727272727\" y2=\"199\" stroke=\"#ffea00\" stroke-width=\"1\" stroke-dasharray=\"2 2\"></line><text x=\"587.9272727272727\" y=\"210\" fill=\"#ffea00\" font-size=\"11\" text-anchor=\"middle\">ε_avg</text><circle cx=\"618.9442395584275\" cy=\"184\" r=\"4.5\" fill=\"#34a853\"></circle><text x=\"618.9442395584275\" y=\"174\" fill=\"#34a853\" font-size=\"11\" text-anchor=\"middle\" class=\"font-medium\">ε₁</text><circle cx=\"556.910305896118\" cy=\"184\" r=\"4.5\" fill=\"#34a853\"></circle><text x=\"556.910305896118\" y=\"174\" fill=\"#34a853\" font-size=\"11\" text-anchor=\"middle\" class=\"font-medium\">ε₂</text></g></svg>",
+    "text": "Max Principal\n232 με\nMin Principal\n-302 με\nMax Shear\n533 με\nPrincipal Angle\n-11.6°\nA (0°)\nB (60°)\nC (120°)\nε\nγ/2\n0\nX\nε_avg\nε₁\nε₂\nGauge A\n210 με\nGauge B\n-248 με\nGauge C\n-67 με\nRosette Arrangement Geometry\nRectangular (q=0)\nDelta (q=1)\nNormal Strain εx\n210 με\nNormal Strain εy\n-280 με\nShear Strain γxy\n-210 με"
+  }
+]

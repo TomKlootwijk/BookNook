@@ -1,38 +1,92 @@
 {
-  "at": "2026-10-16T06:17:11.646303+00:00",
+  "at": "2026-10-16T08:42:31.984550+00:00",
   "date": "2026-10-16",
-  "batchId": "2026-10-16-more",
-  "openAiModeTabs": 189,
-  "uniqueOpenConversations": 182,
+  "batchId": "2026-10-16-more-2",
+  "openAiModeTabs": 192,
+  "uniqueOpenConversations": 185,
   "historyConversations": 300,
-  "method": "Compared 189 open AI Mode tabs and all 300 visible history entries with the archive. Captured White Dove Peace Signal and five unique exchanges across two Trewel continuations. Retained all earlier branches and the displayed uploaded photograph, documenting the blocked larger image URL.",
+  "method": "Compared 192 open AI Mode tabs and all 300 visible history entries; captured six new conversations and four new exchanges in the Trewel dual-clock branch. Preserved five uploaded images, both original strain-gauge views, four referenced PDFs, one generated PDF and a generated Markdown report. The source-mentioned report.pdf has no download; the supplied report.md is retained. Chrome blocked the generated structural wear CSV; its original link and status are preserved.",
   "records": [
     {
-      "ordinal": 722,
-      "tabId": "history-X77RarO6FtWL9u8Puuqz0AY",
-      "title": "White Dove Peace Signal",
+      "ordinal": 723,
+      "tabId": "history-i8PRaqW5D4ip9u8P8cTi6Qk",
+      "title": "Actor Similarities to Tyson",
       "status": "added",
       "counts": {
-        "prompts": 2,
-        "responses": 2
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 724,
+      "tabId": "history-X8vRas7RLKON-d8PkuD2kAg",
+      "title": "Military Cologne",
+      "status": "added",
+      "counts": {
+        "prompts": 34,
+        "responses": 34
+      }
+    },
+    {
+      "ordinal": 725,
+      "tabId": "history-itTRaoqIJvGN9u8PlPDCuAc",
+      "title": "Two Medical Preparations",
+      "status": "added",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      }
+    },
+    {
+      "ordinal": 726,
+      "tabId": "history-ftjRau-bL4T-7_UPkPa-4QM",
+      "title": "Medical Preparations",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 727,
+      "tabId": "history-LdvRauy_LOv7i-gP84TcoAs",
+      "title": "Micron Technology Stock Analysis",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 728,
+      "tabId": "history-LNvRao33KOe2i-gPxaXdwQs",
+      "title": "Micron Technology Stock Info",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
       }
     },
     {
       "ordinal": 714,
-      "tabId": "history-DanRarlUo-Dv9Q_cscHoCw",
       "title": "Trewel Virtual Reality",
       "status": "updated",
       "previousCounts": {
-        "prompts": 19,
-        "responses": 19
-      },
-      "counts": {
         "prompts": 24,
         "responses": 24
+      },
+      "counts": {
+        "prompts": 28,
+        "responses": 28
       }
     }
   ],
   "newOrdinals": [
-    722
+    723,
+    724,
+    725,
+    726,
+    727,
+    728
   ]
 }

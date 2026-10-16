@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All scoped conversation slots are archived. The 16 October latest update adds White Dove Peace Signal and five unique exchanges across two Trewel continuations, preserving all earlier branches. One uploaded photograph is saved at its displayed 449 x 1000 resolution; Chrome blocked the separate larger image URL. No new blank or error responses were found. Earlier source and media gaps remain recorded.",
+  "note": "All scoped conversation slots are archived. The latest 16 October batch adds six conversations and four Trewel dual-clock exchanges, retaining earlier branches. Five uploaded images, two original strain-gauge views, four referenced PDFs, one generated PDF and a generated Markdown report are preserved. Google names report.pdf without a download; its later report.md is archived. Chrome blocked the structural wear CSV; its link and status remain recorded. Earlier source and media gaps remain recorded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -2206,6 +2206,102 @@
         ],
         "raw": "revisions/2026-10-16-more-714-picture-branch.json"
       }
+    }
+  },
+  "october16More2Media": {
+    "openTabs": 192,
+    "historyEntries": 300,
+    "newConversations": 6,
+    "newPairs": 65,
+    "updatedConversations": [
+      714
+    ],
+    "uploadedImages": 5,
+    "vectorSnapshots": 2,
+    "attachments": [
+      {
+        "path": "attachments/militair-cologne.pdf",
+        "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\militair-cologne.pdf",
+        "pages": 74,
+        "bytes": 1170791,
+        "sha256": "e9014004f79a5f59d4bfdaf27676cd75d6f26fdcd3d6e6bbe9dd00c76785f44c"
+      },
+      {
+        "path": "attachments/Tom_Klootwijk_Architectural_Paradigm_v2_Pi_Clock.pdf",
+        "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\Tom_Klootwijk_Architectural_Paradigm_v2_Pi_Clock.pdf",
+        "pages": 34,
+        "bytes": 425967,
+        "sha256": "687bc20c54f8242e2d9a00755d35f169196ca8c1ab752e85752fd68462ca2298"
+      },
+      {
+        "path": "attachments/wait I got 2 preparaats.pdf",
+        "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\wait I got 2 preparaats.pdf",
+        "pages": 15,
+        "bytes": 203432,
+        "sha256": "3a5f902a537c76d476870f5e1c70c8f151ecab12d3060bb0bbfd4533328a341a"
+      },
+      {
+        "path": "attachments/Tom_Klootwijk_Architectural_Paradigm.pdf",
+        "source": "C:\\Users\\ietsm\\Downloads\\Tom_Klootwijk_Architectural_Paradigm.pdf",
+        "pages": 22,
+        "bytes": 204487,
+        "sha256": "cac1d40197afa564ad01d44cd428793a6946a5619a92a645e5fc5b9728a3ddbd"
+      },
+      {
+        "path": "attachments/714-dual-clock-report-2026-10-16.md",
+        "source": "Google AI Mode generated download, source exchange 17 of Trewel",
+        "bytes": 5755,
+        "sha256": "23226ce3086bbc168819ccc0cbb14eefb8796d6aad0d0df557636cbfb81ea8f0"
+      },
+      {
+        "path": "attachments/tactical_chemical_exposure_matrix.pdf",
+        "source": "Google AI Mode generated download, Military Cologne response 7",
+        "pages": 2,
+        "bytes": 5113,
+        "sha256": "62616b54e2e3e4828cfa7a1c0cdac47a4ab73b21e6f850dc338ba4915ad808b4"
+      }
+    ],
+    "sourceErrorResponses": [],
+    "blankResponses": [],
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "missingGeneratedPdf": {
+      "conversation": 714,
+      "response": 27,
+      "filename": "report.pdf",
+      "replacement": "attachments/714-dual-clock-report-2026-10-16.md"
+    },
+    "branchAudit": {
+      "sharedArchiveExchanges": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "archiveExchanges": [
+        25,
+        28
+      ],
+      "sourceExchanges": [
+        14,
+        17
+      ],
+      "raw": "revisions/2026-10-16-more-2-714-source.json"
+    },
+    "blockedCsv": {
+      "conversation": 724,
+      "response": 30,
+      "filename": "structural_wear_tracking_matrix.csv",
+      "reason": "Chrome ERR_BLOCKED_BY_CLIENT; no local copy found"
     }
   }
 }
