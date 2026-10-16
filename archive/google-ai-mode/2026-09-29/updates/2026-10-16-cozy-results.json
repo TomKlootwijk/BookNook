@@ -1,0 +1,83 @@
+{
+  "at": "2026-10-16T05:56:09.943016+00:00",
+  "date": "2026-10-16",
+  "batchId": "2026-10-16-cozy",
+  "openAiModeTabs": 187,
+  "uniqueOpenConversations": 180,
+  "historyConversations": 300,
+  "method": "Compared 187 initially open AI Mode tabs and all 300 visible history entries with the archive. A follow-up refresh checked 190 visible tabs and all 300 history entries. Captured five new conversations and ten new exchanges across alternate continuations of conversation 714. Preserved all branches with explicit notes, five original charts, and two paused original simulation snapshots. A second follow-up retained three later exchanges on the latest continuation and rechecked all 300 visible history entries.",
+  "records": [
+    {
+      "ordinal": 717,
+      "tabId": "history-uLfRaq-9FO-K-d8PxLjA6QI",
+      "title": "Tom Nook Steals Wives",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 718,
+      "tabId": "history-N7HRasWoOfP97_UPqoCfwQ4",
+      "title": "Lead Times for Event Structures",
+      "status": "added",
+      "counts": {
+        "prompts": 24,
+        "responses": 24
+      }
+    },
+    {
+      "ordinal": 719,
+      "tabId": "history-fbTRaro1o4753w-ViJLwCA",
+      "title": "Gasket Valve 5-Star Topology",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 720,
+      "tabId": "history-0a_RauqMDsrvi-gP36PMuAo",
+      "title": "Existential Cosmic Game",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 721,
+      "tabId": "history-tqvRarqCKOH97_UPiombmA8",
+      "title": "Founder Hunder Context",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 714,
+      "tabId": "history-DanRarlUo-Dv9Q_cscHoCw",
+      "title": "Trewel Virtual Reality",
+      "status": "updated",
+      "previousCounts": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "counts": {
+        "prompts": 19,
+        "responses": 19
+      }
+    }
+  ],
+  "newOrdinals": [
+    717,
+    718,
+    719,
+    720,
+    721
+  ],
+  "followupVisibleTabs": 190
+}

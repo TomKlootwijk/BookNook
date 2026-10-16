@@ -223,6 +223,9 @@ for d in records:
         if item['role']=='user':
             prompt_count+=1;label=f'Prompt {prompt_count} · You';txt=item['text'];txt=txt.removeprefix('You said: ')
             body='<div class="prompt">'+esc(txt)+'</div>'; md.append(f'## Prompt {prompt_count} — You\n\n{txt}\n')
+            for note in item.get('branchNotes', []):
+                body = '<p class="notice">'+esc(note)+'</p>'+body
+                md.insert(len(md)-1, 'Archive branch note: '+note+'\n')
             for note in item.get('attachmentNotes', []):
                 body += '<p class="meta">'+esc(note)+'</p>'
                 md.append('Attachment availability: '+note+'\n')

@@ -1,0 +1,72 @@
+{
+  "batchLabel": "cozy",
+  "historyEntries": 300,
+  "newConversations": 5,
+  "openTabs": 187,
+  "refreshedVisibleTabs": 189,
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "sourceErrorResponses": [],
+  "blankResponses": [],
+  "updatedConversations": [
+    {
+      "ordinal": 714,
+      "oldPairs": 9,
+      "newArchivePairs": 19,
+      "currentSourcePairs": 12,
+      "branchAudit": {
+        "sharedExchanges": 4,
+        "previousBranchArchiveExchanges": [
+          5,
+          9
+        ],
+        "currentBranchArchiveExchanges": [
+          10,
+          12
+        ],
+        "currentBranchSourceExchanges": [
+          5,
+          7
+        ],
+        "currentBranchRaw": "revisions/2026-10-16-cozy-714-current-branch.json",
+        "latestContinuation": {
+          "sharedSourceExchanges": [
+            1,
+            5
+          ],
+          "sharedArchiveExchanges": [
+            1,
+            2,
+            3,
+            4,
+            10
+          ],
+          "previousContinuationArchiveExchanges": [
+            11,
+            12
+          ],
+          "latestArchiveExchanges": [
+            13,
+            19
+          ],
+          "latestSourceExchanges": [
+            6,
+            12
+          ],
+          "raw": "revisions/2026-10-16-cozy-714-latest-branch-extended.json"
+        }
+      }
+    }
+  ],
+  "sourceFigures": 7,
+  "referencedTabs": [
+    {
+      "conversation": 718,
+      "prompt": 14,
+      "referencedConversation": 719,
+      "type": "shared_browser_tab"
+    }
+  ],
+  "followupVisibleTabs": 190,
+  "followupHistoryEntries": 300
+}

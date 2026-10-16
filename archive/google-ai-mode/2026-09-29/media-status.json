@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All scoped conversation slots are archived. Batch A of 16 October adds three conversations and extends conversation 708 by 24 exchanges. No new embedded doodles or generated images were present. Two later response slots display Google source-error messages; those messages are retained. Previously archived attachment evidence and all earlier source and media gaps remain recorded.",
+  "note": "All scoped conversation slots are archived. The 16 October cozy batch adds five conversations and ten unique exchanges across alternate continuations of conversation 714. All branches are explicitly marked and retained. Seven original vector figures are retained, including two animations paused using their original controls. No new blank or error responses were found. All earlier source and media gaps remain recorded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -2084,5 +2084,27 @@
       708
     ],
     "attachmentEvidence": "Original attachment names, availability notes and archived v1.5 PDF from conversation 708 retained; the fresh Google readback omitted those older upload chips."
+  },
+  "october16CozyMedia": {
+    "date": "2026-10-16-cozy",
+    "newConversations": 5,
+    "newPairs": 42,
+    "sourceFigures": 7,
+    "vectorSnapshots": 7,
+    "canvasSnapshots": 0,
+    "generatedImages": [],
+    "sourceErrorResponses": [],
+    "blankResponses": [],
+    "updatedConversations": [
+      714
+    ],
+    "referencedTabs": [
+      {
+        "conversation": 718,
+        "prompt": 14,
+        "referencedConversation": 719,
+        "type": "shared_browser_tab"
+      }
+    ]
   }
 }

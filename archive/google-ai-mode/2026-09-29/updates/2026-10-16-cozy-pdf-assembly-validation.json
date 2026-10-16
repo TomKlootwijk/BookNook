@@ -1,0 +1,42 @@
+{
+  "pages": 3182,
+  "frontPages": 23,
+  "indexPage": 1,
+  "unchangedBodyPages": 3097,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "714": {
+      "pages": 28,
+      "prompts": 19,
+      "responses": 19
+    },
+    "717": {
+      "pages": 1,
+      "prompts": 1,
+      "responses": 1
+    },
+    "718": {
+      "pages": 24,
+      "prompts": 24,
+      "responses": 24
+    },
+    "719": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "720": {
+      "pages": 5,
+      "prompts": 4,
+      "responses": 4
+    },
+    "721": {
+      "pages": 2,
+      "prompts": 2,
+      "responses": 2
+    }
+  },
+  "internalIndexLinks": 771,
+  "prompts": 3320,
+  "responses": 3320
+}
