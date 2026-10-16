@@ -1,0 +1,22 @@
+{
+  "openTabs": 200,
+  "historyEntries": 300,
+  "newConversations": 1,
+  "newPairs": 4,
+  "updatedConversations": [],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 738,
+      "observedPairs": 9,
+      "archivedPairs": 9,
+      "newPrompts": 0
+    }
+  ],
+  "attachments": [],
+  "sourceErrorResponses": [],
+  "blankResponses": [],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "additionalDoodles": 0
+}

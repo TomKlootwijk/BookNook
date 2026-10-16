@@ -1,0 +1,556 @@
+{
+  "background": "rgb(11, 15, 25)",
+  "canvases": 0,
+  "computedStyles": [
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(0, 0, 0)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(0, 0, 0)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "rgb(30, 41, 59)",
+      "strokeWidth": "1.5px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "url(\"#goldGradient\")",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(255, 255, 255)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgba(20, 184, 166, 0.08)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "rgb(45, 226, 205)",
+      "strokeWidth": "1.5px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgba(244, 63, 94, 0.08)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "rgb(252, 165, 165)",
+      "strokeWidth": "1.5px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "none",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "rgb(20, 184, 166)",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "none",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "rgb(244, 63, 94)",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(20, 184, 166)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(244, 63, 94)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(0, 0, 0)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(0, 0, 0)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(0, 0, 0)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    },
+    {
+      "color": "rgb(230, 232, 240)",
+      "fill": "rgb(0, 0, 0)",
+      "fontFamily": "\"Google Sans\", Roboto, sans-serif",
+      "fontSize": "16px",
+      "stroke": "none",
+      "strokeWidth": "1px"
+    }
+  ],
+  "html": "\n  \n  <div id=\"root\"><div class=\"w-full bg-card text-foreground select-none overflow-hidden font-sans\"><div class=\"relative w-full overflow-hidden border-b border-border bg-[#0b0f19]\"><div class=\"absolute bg-[#070b14]/70 text-slate-100 rounded-full px-2.5 py-0.5 text-xs font-medium pointer-events-none -translate-x-1/2 whitespace-nowrap\" style=\"left: 32.4%; top: 37.7301%;\">Cluster T</div><div class=\"absolute bg-[#070b14]/70 text-slate-100 rounded-full px-2.5 py-0.5 text-xs font-medium pointer-events-none -translate-x-1/2 whitespace-nowrap\" style=\"left: 67.6%; top: 37.7301%;\">Cluster J</div><svg role=\"img\" aria-label=\"Geometric convergence model illustrating data clusters T and J merging into a single point\" viewBox=\"0 0 652 366.75\" class=\"w-full h-auto block\"><line x1=\"182.56000000000003\" y1=\"183.375\" x2=\"469.44\" y2=\"183.375\" stroke=\"#1e293b\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"></line><circle cx=\"326\" cy=\"183.375\" r=\"15.6\" fill=\"url(#goldGradient)\" opacity=\"0.24\"></circle><circle cx=\"326\" cy=\"183.375\" r=\"4\" fill=\"#ffffff\"></circle><path d=\"M200.698,171.921C197.962,168.216,192.541,161.375,193.183,161.648C193.824,161.922,200.528,169.31,202.818,170.49C205.108,171.67,202.984,166.643,203.895,165.85C204.807,165.058,208.755,168.5,213.511,169.58C218.266,170.66,223.829,169.377,227.667,167.851C231.505,166.324,233.619,164.554,233.673,164.804C233.726,165.054,231.719,167.325,228.893,170.214C226.067,173.102,222.421,176.608,222.615,177.626C222.81,178.644,226.845,177.174,227.829,177.443C228.814,177.713,226.748,179.722,224.947,182.058C223.147,184.395,221.613,187.06,221.43,188.888C221.247,190.715,222.416,191.706,222.001,195.212C221.586,198.718,219.587,204.741,216.651,206.336C213.715,207.932,209.843,205.101,206.899,206.388C203.955,207.675,201.94,213.081,201.528,213.645C201.116,214.21,202.307,209.934,202.5,208.309C202.694,206.683,201.89,207.708,202.562,205.289C203.234,202.87,205.382,197.008,203.508,197.282C201.634,197.556,195.737,203.965,195.073,204.226C194.409,204.487,198.977,198.599,200.183,194.874C201.388,191.149,199.231,189.587,197.037,188.989C194.843,188.391,192.613,188.758,192.854,188.241C193.095,187.725,195.807,186.326,193.402,186.062C190.997,185.797,183.474,186.667,182,186.74C180.526,186.813,185.101,186.089,188.809,185.416C192.517,184.742,195.358,184.12,197.669,182.686C199.979,181.253,201.759,179.009,202.649,177.886C203.539,176.764,203.539,176.764,203.513,176.48C203.487,176.195,203.435,175.627,200.698,171.921\" fill=\"rgba(20, 184, 166, 0.08)\" stroke=\"#2de2cd\" stroke-width=\"1.5\" opacity=\"0.84\"></path><path d=\"M427.244,172.691C426.991,166.928,428.725,157.604,432.01,154.364C435.295,151.124,440.131,153.969,442.871,154.732C445.611,155.495,446.255,154.176,447.49,155.376C448.726,156.576,450.552,160.294,450.326,164.428C450.101,168.563,447.822,173.113,449.542,172.807C451.261,172.501,456.979,167.34,458.951,167.216C460.924,167.093,459.153,172.008,458.085,175.318C457.017,178.628,456.652,180.334,462.178,182.002C467.704,183.671,479.121,185.301,479.897,185.964C480.673,186.626,470.809,186.319,466.18,187.719C461.551,189.119,462.157,192.225,461.092,194.413C460.026,196.601,457.289,197.871,454.49,196.9C451.692,195.929,448.832,192.718,448.946,195.385C449.061,198.052,452.149,206.596,450.519,207.72C448.889,208.844,442.54,202.548,438.501,199.813C434.461,197.078,432.731,197.905,431.382,198.341C430.034,198.777,429.068,198.822,425.623,200.369C422.177,201.916,416.254,204.965,417.183,203.27C418.111,201.575,425.892,195.137,428.325,192.444C430.757,189.751,427.84,190.803,426.3,191.128C424.76,191.453,424.596,191.051,424.29,190.858C423.985,190.664,423.538,190.68,422.844,190.867C422.15,191.054,421.208,191.411,421.289,191.019C421.369,190.627,422.471,189.487,424.288,188.247C426.105,187.007,428.636,185.668,428.291,185.114C427.945,184.561,424.723,184.793,424.857,184.548C424.992,184.304,428.483,183.583,430.229,183.222C431.974,182.861,431.974,182.861,430.855,181.76C429.735,180.658,427.496,178.455,427.244,172.691\" fill=\"rgba(244, 63, 94, 0.08)\" stroke=\"#fca5a5\" stroke-width=\"1.5\" opacity=\"0.84\"></path><path d=\"M 182.56000000000003 183.375 Q 254.28000000000003 203.375 211.24800000000002 183.375\" fill=\"none\" stroke=\"#14b8a6\" stroke-width=\"1\" stroke-dasharray=\"3 3\" opacity=\"0.4\"></path><path d=\"M 469.44 183.375 Q 397.72 163.375 440.752 183.375\" fill=\"none\" stroke=\"#f43f5e\" stroke-width=\"1\" stroke-dasharray=\"3 3\" opacity=\"0.4\"></path><circle cx=\"187.12000438369105\" cy=\"154.5335578746896\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"224.68156629539524\" cy=\"181.7306519828731\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"197.07405404445956\" cy=\"188.02470112160248\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"229.71263106056733\" cy=\"169.5962660353462\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"212.70316017517453\" cy=\"171.9424143873114\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"205.96995950784793\" cy=\"202.27034479922833\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"198.5195684520882\" cy=\"184.92687345588112\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"220.0783539793321\" cy=\"189.724751771827\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"175.95172201453332\" cy=\"187.53760806544315\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"203.4980047852941\" cy=\"205.6587851281678\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"207.23237116357697\" cy=\"176.69787720052966\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"199.92452503313962\" cy=\"218.48562886449403\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"201.08578293164476\" cy=\"208.73248033907086\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"189.84047311414753\" cy=\"210.37474667263825\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"203.53893982542056\" cy=\"176.7642946058459\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"203.54537923118357\" cy=\"192.71134357482194\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"235.73296045377305\" cy=\"162.78293400627223\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"217.58823307942504\" cy=\"210.76310549999883\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"189.6753204784344\" cy=\"185.36513069617092\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"200.85935419918124\" cy=\"161.61532497120302\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"230.88001332780735\" cy=\"175.70356813868426\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"207.5301439261715\" cy=\"191.1460367179527\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"190.3821245905158\" cy=\"189.1240012518735\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"218.77450768645693\" cy=\"180.11359603269662\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"198.1994092337632\" cy=\"183.49715059554387\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"229.3914176162531\" cy=\"168.09492847481206\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"203.38268958975706\" cy=\"175.05774763146536\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"223.58424442253454\" cy=\"192.69605157299227\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"430.45841489012656\" cy=\"148.27969483844242\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"428.10122931360235\" cy=\"198.86761008629398\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"424.4316909619289\" cy=\"190.64828762789634\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"431.97416996138656\" cy=\"182.86140990941087\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"420.26707143677567\" cy=\"191.7682882195535\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"455.23697270876403\" cy=\"215.14089694703787\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"460.9446610012047\" cy=\"186.01283149830397\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"456.2873162794174\" cy=\"182.04004830511744\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"452.378804676935\" cy=\"164.0122007431294\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"410.33003942888905\" cy=\"208.0134599230657\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"424.923533835047\" cy=\"191.85595682910434\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"436.19184141952076\" cy=\"196.25104394642852\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"423.5736198327899\" cy=\"188.3457537053407\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"431.1673018156489\" cy=\"184.3289769199718\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"457.3815180383854\" cy=\"176.9226196699643\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"421.50055650324094\" cy=\"185.02482318992486\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"444.96734390155444\" cy=\"156.8129551105955\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"445.972288570291\" cy=\"189.50742312058745\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"423.0911233462687\" cy=\"190.69623300546198\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"462.7637281235577\" cy=\"195.33103826886673\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"490.53721804780776\" cy=\"186.9321791686469\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"431.0001372428242\" cy=\"198.73205014394006\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"454.551742065149\" cy=\"199.1404088545065\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"425.2572154425938\" cy=\"176.25144702124177\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"433.67369856505604\" cy=\"188.69845958491277\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"445.54392701074164\" cy=\"177.6632686397503\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"446.8990548728415\" cy=\"152.85823775779664\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"462.6958255500843\" cy=\"162.17763985196706\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><defs><radialGradient id=\"goldGradient\" cx=\"50%\" cy=\"50%\" r=\"50%\"><stop offset=\"0%\" stop-color=\"#eab308\" stop-opacity=\"1\"></stop><stop offset=\"100%\" stop-color=\"#eab308\" stop-opacity=\"0\"></stop></radialGradient></defs></svg></div><div class=\"flex items-center justify-center gap-x-4 sm:gap-x-12 border-b border-border px-5 py-3 shrink-0\"><div class=\"flex flex-col items-center gap-0.5 min-w-0 flex-1\"><span class=\"text-xs text-muted-foreground font-medium truncate text-center w-full\">Proximity</span><span class=\"text-sm font-medium text-foreground tabular-nums truncate text-center w-full\">229.5 px</span></div><div class=\"flex flex-col items-center gap-0.5 min-w-0 flex-1\"><span class=\"text-xs text-muted-foreground font-medium truncate text-center w-full\">Convergence</span><span class=\"text-sm font-medium text-foreground tabular-nums truncate text-center w-full\">20%</span></div><div class=\"flex flex-col items-center gap-0.5 min-w-0 flex-1\"><span class=\"text-xs text-muted-foreground font-medium truncate text-center w-full\">Overlap Matrix</span><span class=\"text-sm font-medium text-foreground tabular-nums truncate text-center w-full\">20.0%</span></div></div><div class=\"p-5 flex flex-col gap-4\"><div class=\"flex flex-col gap-1.5\"><label class=\"text-sm font-medium text-muted-foreground\">Inspiration level</label><div class=\"flex items-center gap-3 w-full\"><span dir=\"ltr\" data-orientation=\"horizontal\" aria-disabled=\"false\" class=\"relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3\" aria-label=\"Inspiration Level slider\" style=\"--radix-slider-thumb-transform: translateX(-50%);\"><span data-orientation=\"horizontal\" class=\"relative grow rounded-full h-1 !bg-muted\"><span data-orientation=\"horizontal\" class=\"absolute h-full bg-primary rounded-full\" style=\"left: 0%; right: 80%;\"></span></span><span style=\"transform: var(--radix-slider-thumb-transform); position: absolute; left: calc(20% + 5.4px);\"><span role=\"slider\" aria-label=\"Inspiration parameter handle\" aria-valuemin=\"0\" aria-valuemax=\"1\" aria-orientation=\"horizontal\" data-orientation=\"horizontal\" tabindex=\"0\" class=\"block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11\" data-radix-collection-item=\"\" aria-valuenow=\"0.2\" style=\"\"></span></span></span><span class=\"text-sm font-medium text-foreground tabular-nums text-right shrink-0 whitespace-nowrap w-[7ch]\">0.20</span></div></div><div class=\"flex flex-col gap-1.5\"><label class=\"text-sm font-medium text-muted-foreground\">Cluster variance</label><div class=\"flex items-center gap-3 w-full\"><span dir=\"ltr\" data-orientation=\"horizontal\" aria-disabled=\"false\" class=\"relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3\" aria-label=\"Cluster variance noise slider\" style=\"--radix-slider-thumb-transform: translateX(-50%);\"><span data-orientation=\"horizontal\" class=\"relative grow rounded-full h-1 !bg-muted\"><span data-orientation=\"horizontal\" class=\"absolute h-full bg-primary rounded-full\" style=\"left: 0%; right: 66.6667%;\"></span></span><span style=\"transform: var(--radix-slider-thumb-transform); position: absolute; left: calc(33.3333% + 3px);\"><span role=\"slider\" aria-label=\"Variance parameter handle\" aria-valuemin=\"0.1\" aria-valuemax=\"1\" aria-orientation=\"horizontal\" data-orientation=\"horizontal\" tabindex=\"0\" class=\"block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11\" data-radix-collection-item=\"\" aria-valuenow=\"0.4\" style=\"\"></span></span></span><span class=\"text-sm font-medium text-foreground tabular-nums text-right shrink-0 whitespace-nowrap w-[7ch]\">0.40</span></div></div></div></div></div>",
+  "styles": [
+    "\n/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */\n@layer properties {\n  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {\n    *, :before, :after, ::backdrop {\n      --tw-translate-x: 0;\n      --tw-translate-y: 0;\n      --tw-translate-z: 0;\n      --tw-border-style: solid;\n      --tw-font-weight: initial;\n      --tw-ordinal: initial;\n      --tw-slashed-zero: initial;\n      --tw-numeric-figure: initial;\n      --tw-numeric-spacing: initial;\n      --tw-numeric-fraction: initial;\n      --tw-shadow: 0 0 #0000;\n      --tw-shadow-color: initial;\n      --tw-shadow-alpha: 100%;\n      --tw-inset-shadow: 0 0 #0000;\n      --tw-inset-shadow-color: initial;\n      --tw-inset-shadow-alpha: 100%;\n      --tw-ring-color: initial;\n      --tw-ring-shadow: 0 0 #0000;\n      --tw-inset-ring-color: initial;\n      --tw-inset-ring-shadow: 0 0 #0000;\n      --tw-ring-inset: initial;\n      --tw-ring-offset-width: 0px;\n      --tw-ring-offset-color: #fff;\n      --tw-ring-offset-shadow: 0 0 #0000;\n      --tw-content: \"\";\n    }\n  }\n}\n\n@layer theme {\n  :root, :host {\n    --font-sans: \"Google Sans\", \"Roboto\", sans-serif;\n    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n    --color-emerald-400: oklch(76.5% .177 163.223);\n    --color-emerald-500: oklch(69.6% .17 162.48);\n    --color-slate-100: oklch(96.8% .007 247.896);\n    --spacing: .25rem;\n    --text-xs: .75rem;\n    --text-xs--line-height: calc(1 / .75);\n    --text-sm: .875rem;\n    --text-sm--line-height: calc(1.25 / .875);\n    --font-weight-medium: 500;\n    --radius-lg: .5rem;\n    --aspect-video: 16 / 9;\n    --default-font-family: var(--font-sans);\n    --default-mono-font-family: var(--font-mono);\n    --color-primary: var(--primary, #336ef3);\n    --color-error: var(--brand-red, #ea4335);\n    --color-card: var(--surface-container-de-emphasis, #f7f8fa);\n    --color-border: var(--divider, #dcdfe5);\n    --color-muted: var(--surface-container, #f0f2f5);\n    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);\n    --color-foreground: var(--on-surface-default, #0a0a0a);\n  }\n}\n\n@layer base {\n  *, :after, :before, ::backdrop {\n    box-sizing: border-box;\n    border: 0 solid;\n    margin: 0;\n    padding: 0;\n  }\n\n  ::file-selector-button {\n    box-sizing: border-box;\n    border: 0 solid;\n    margin: 0;\n    padding: 0;\n  }\n\n  html, :host {\n    -webkit-text-size-adjust: 100%;\n    tab-size: 4;\n    line-height: 1.5;\n    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\");\n    font-feature-settings: var(--default-font-feature-settings, normal);\n    font-variation-settings: var(--default-font-variation-settings, normal);\n    -webkit-tap-highlight-color: transparent;\n  }\n\n  hr {\n    height: 0;\n    color: inherit;\n    border-top-width: 1px;\n  }\n\n  abbr:where([title]) {\n    -webkit-text-decoration: underline dotted;\n    text-decoration: underline dotted;\n  }\n\n  h1, h2, h3, h4, h5, h6 {\n    font-size: inherit;\n    font-weight: inherit;\n  }\n\n  a {\n    color: inherit;\n    -webkit-text-decoration: inherit;\n    -webkit-text-decoration: inherit;\n    -webkit-text-decoration: inherit;\n    text-decoration: inherit;\n  }\n\n  b, strong {\n    font-weight: bolder;\n  }\n\n  code, kbd, samp, pre {\n    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace);\n    font-feature-settings: var(--default-mono-font-feature-settings, normal);\n    font-variation-settings: var(--default-mono-font-variation-settings, normal);\n    font-size: 1em;\n  }\n\n  small {\n    font-size: 80%;\n  }\n\n  sub, sup {\n    vertical-align: baseline;\n    font-size: 75%;\n    line-height: 0;\n    position: relative;\n  }\n\n  sub {\n    bottom: -.25em;\n  }\n\n  sup {\n    top: -.5em;\n  }\n\n  table {\n    text-indent: 0;\n    border-color: inherit;\n    border-collapse: collapse;\n  }\n\n  :-moz-focusring {\n    outline: auto;\n  }\n\n  progress {\n    vertical-align: baseline;\n  }\n\n  summary {\n    display: list-item;\n  }\n\n  ol, ul, menu {\n    list-style: none;\n  }\n\n  img, svg, video, canvas, audio, iframe, embed, object {\n    vertical-align: middle;\n    display: block;\n  }\n\n  img, video {\n    max-width: 100%;\n    height: auto;\n  }\n\n  button, input, select, optgroup, textarea {\n    font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    opacity: 1;\n    background-color: #0000;\n    border-radius: 0;\n  }\n\n  ::file-selector-button {\n    font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    opacity: 1;\n    background-color: #0000;\n    border-radius: 0;\n  }\n\n  :where(select:is([multiple], [size])) optgroup {\n    font-weight: bolder;\n  }\n\n  :where(select:is([multiple], [size])) optgroup option {\n    padding-inline-start: 20px;\n  }\n\n  ::file-selector-button {\n    margin-inline-end: 4px;\n  }\n\n  ::placeholder {\n    opacity: 1;\n  }\n\n  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {\n    ::placeholder {\n      color: currentColor;\n    }\n\n    @supports (color: color-mix(in lab, red, red)) {\n      ::placeholder {\n        color: color-mix(in oklab, currentcolor 50%, transparent);\n      }\n    }\n  }\n\n  textarea {\n    resize: vertical;\n  }\n\n  ::-webkit-search-decoration {\n    -webkit-appearance: none;\n  }\n\n  ::-webkit-date-and-time-value {\n    min-height: 1lh;\n    text-align: inherit;\n  }\n\n  ::-webkit-datetime-edit {\n    display: inline-flex;\n  }\n\n  ::-webkit-datetime-edit-fields-wrapper {\n    padding: 0;\n  }\n\n  ::-webkit-datetime-edit {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-year-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-month-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-day-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-hour-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-minute-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-second-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-millisecond-field {\n    padding-block: 0;\n  }\n\n  ::-webkit-datetime-edit-meridiem-field {\n    padding-block: 0;\n  }\n\n  :-moz-ui-invalid {\n    box-shadow: none;\n  }\n\n  button, input:where([type=\"button\"], [type=\"reset\"], [type=\"submit\"]) {\n    appearance: button;\n  }\n\n  ::file-selector-button {\n    appearance: button;\n  }\n\n  ::-webkit-inner-spin-button {\n    height: auto;\n  }\n\n  ::-webkit-outer-spin-button {\n    height: auto;\n  }\n\n  [hidden]:where(:not([hidden=\"until-found\"])) {\n    display: none !important;\n  }\n}\n\n@layer components;\n\n@layer utilities {\n  .pointer-events-none {\n    pointer-events: none;\n  }\n\n  .absolute {\n    position: absolute;\n  }\n\n  .relative {\n    position: relative;\n  }\n\n  .static {\n    position: static;\n  }\n\n  .-my-3 {\n    margin-block: calc(var(--spacing) * -3);\n  }\n\n  .mt-2 {\n    margin-top: calc(var(--spacing) * 2);\n  }\n\n  .block {\n    display: block;\n  }\n\n  .flex {\n    display: flex;\n  }\n\n  .grid {\n    display: grid;\n  }\n\n  .aspect-video {\n    aspect-ratio: var(--aspect-video);\n  }\n\n  .h-1 {\n    height: calc(var(--spacing) * 1);\n  }\n\n  .h-11 {\n    height: calc(var(--spacing) * 11);\n  }\n\n  .h-\\[18px\\] {\n    height: 18px;\n  }\n\n  .h-auto {\n    height: auto;\n  }\n\n  .h-full {\n    height: 100%;\n  }\n\n  .w-\\[7ch\\] {\n    width: 7ch;\n  }\n\n  .w-\\[18px\\] {\n    width: 18px;\n  }\n\n  .w-full {\n    width: 100%;\n  }\n\n  .min-w-0 {\n    min-width: calc(var(--spacing) * 0);\n  }\n\n  .flex-1 {\n    flex: 1;\n  }\n\n  .shrink-0 {\n    flex-shrink: 0;\n  }\n\n  .grow {\n    flex-grow: 1;\n  }\n\n  .-translate-x-1\\/2 {\n    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);\n    translate: var(--tw-translate-x) var(--tw-translate-y);\n  }\n\n  .cursor-pointer {\n    cursor: pointer;\n  }\n\n  .touch-none {\n    touch-action: none;\n  }\n\n  .flex-col {\n    flex-direction: column;\n  }\n\n  .items-center {\n    align-items: center;\n  }\n\n  .justify-center {\n    justify-content: center;\n  }\n\n  .gap-0\\.5 {\n    gap: calc(var(--spacing) * .5);\n  }\n\n  .gap-1\\.5 {\n    gap: calc(var(--spacing) * 1.5);\n  }\n\n  .gap-3 {\n    gap: calc(var(--spacing) * 3);\n  }\n\n  .gap-4 {\n    gap: calc(var(--spacing) * 4);\n  }\n\n  .gap-x-4 {\n    column-gap: calc(var(--spacing) * 4);\n  }\n\n  .truncate {\n    text-overflow: ellipsis;\n    white-space: nowrap;\n    overflow: hidden;\n  }\n\n  .overflow-auto {\n    overflow: auto;\n  }\n\n  .overflow-hidden {\n    overflow: hidden;\n  }\n\n  .rounded-full {\n    border-radius: 3.40282e38px;\n  }\n\n  .rounded-lg {\n    border-radius: var(--radius-lg);\n  }\n\n  .border {\n    border-style: var(--tw-border-style);\n    border-width: 1px;\n  }\n\n  .border-b {\n    border-bottom-style: var(--tw-border-style);\n    border-bottom-width: 1px;\n  }\n\n  .border-none {\n    --tw-border-style: none;\n    border-style: none;\n  }\n\n  .border-border {\n    border-color: var(--color-border);\n  }\n\n  .border-emerald-500\\/20 {\n    border-color: #00bb7f33;\n  }\n\n  @supports (color: color-mix(in lab, red, red)) {\n    .border-emerald-500\\/20 {\n      border-color: color-mix(in oklab, var(--color-emerald-500) 20%, transparent);\n    }\n  }\n\n  .\\!bg-muted {\n    background-color: var(--color-muted) !important;\n  }\n\n  .bg-\\[\\#0b0f19\\] {\n    background-color: #0b0f19;\n  }\n\n  .bg-\\[\\#070b14\\]\\/60 {\n    background-color: oklab(14.9994% -.00205025 -.0207038 / .6);\n  }\n\n  .bg-\\[\\#070b14\\]\\/70 {\n    background-color: oklab(14.9994% -.00205025 -.0207038 / .7);\n  }\n\n  .bg-\\[\\#070b14\\]\\/80 {\n    background-color: oklab(14.9994% -.00205025 -.0207038 / .8);\n  }\n\n  .bg-card {\n    background-color: var(--color-card);\n  }\n\n  .bg-primary {\n    background-color: var(--color-primary);\n  }\n\n  .p-5 {\n    padding: calc(var(--spacing) * 5);\n  }\n\n  .px-2\\.5 {\n    padding-inline: calc(var(--spacing) * 2.5);\n  }\n\n  .px-3 {\n    padding-inline: calc(var(--spacing) * 3);\n  }\n\n  .px-5 {\n    padding-inline: calc(var(--spacing) * 5);\n  }\n\n  .py-0\\.5 {\n    padding-block: calc(var(--spacing) * .5);\n  }\n\n  .py-3 {\n    padding-block: calc(var(--spacing) * 3);\n  }\n\n  .text-center {\n    text-align: center;\n  }\n\n  .text-right {\n    text-align: right;\n  }\n\n  .font-sans {\n    font-family: var(--font-sans);\n  }\n\n  .text-sm {\n    font-size: var(--text-sm);\n    line-height: var(--tw-leading, var(--text-sm--line-height));\n  }\n\n  .text-xs {\n    font-size: var(--text-xs);\n    line-height: var(--tw-leading, var(--text-xs--line-height));\n  }\n\n  .font-medium {\n    --tw-font-weight: var(--font-weight-medium);\n    font-weight: var(--font-weight-medium);\n  }\n\n  .whitespace-nowrap {\n    white-space: nowrap;\n  }\n\n  .text-emerald-400 {\n    color: var(--color-emerald-400);\n  }\n\n  .text-error {\n    color: var(--color-error);\n  }\n\n  .text-foreground {\n    color: var(--color-foreground);\n  }\n\n  .text-muted-foreground {\n    color: var(--color-muted-foreground);\n  }\n\n  .text-slate-100 {\n    color: var(--color-slate-100);\n  }\n\n  .tabular-nums {\n    --tw-numeric-spacing: tabular-nums;\n    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );\n  }\n\n  .shadow-none {\n    --tw-shadow: 0 0 #0000;\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n\n  .select-none {\n    -webkit-user-select: none;\n    user-select: none;\n  }\n\n  .after\\:absolute:after {\n    content: var(--tw-content);\n    position: absolute;\n  }\n\n  .after\\:top-1\\/2:after {\n    content: var(--tw-content);\n    top: 50%;\n  }\n\n  .after\\:left-1\\/2:after {\n    content: var(--tw-content);\n    left: 50%;\n  }\n\n  .after\\:h-11:after {\n    content: var(--tw-content);\n    height: calc(var(--spacing) * 11);\n  }\n\n  .after\\:w-11:after {\n    content: var(--tw-content);\n    width: calc(var(--spacing) * 11);\n  }\n\n  .after\\:-translate-x-1\\/2:after {\n    content: var(--tw-content);\n    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);\n    translate: var(--tw-translate-x) var(--tw-translate-y);\n  }\n\n  .after\\:-translate-y-1\\/2:after {\n    content: var(--tw-content);\n    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);\n    translate: var(--tw-translate-x) var(--tw-translate-y);\n  }\n\n  .focus\\:outline-none:focus {\n    --tw-outline-style: none;\n    outline-style: none;\n  }\n\n  .focus-visible\\:ring-2:focus-visible {\n    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n\n  .focus-visible\\:ring-primary:focus-visible {\n    --tw-ring-color: var(--color-primary);\n  }\n\n  @media (min-width: 40rem) {\n    .sm\\:gap-x-12 {\n      column-gap: calc(var(--spacing) * 12);\n    }\n  }\n}\n\n@media (prefers-color-scheme: dark) {\n  :root:not(.light) {\n    --color-primary: var(--primary, #336ef3);\n    --color-primary-hover: var(--primary-hover, #395fe1);\n    --color-error: var(--brand-red, #ea4335);\n    --color-warning: var(--brand-yellow, #fbbc04);\n    --color-success: var(--brand-green, #34a853);\n    --color-background: var(--surface-container-de-emphasis, #272930);\n    --color-card: var(--surface-container-de-emphasis, #272930);\n    --color-card-hover: var(--surface-container-high, #363840);\n    --color-border: var(--divider, #363840);\n    --color-input: var(--surface-container, #2c2e35);\n    --color-secondary: var(--surface-container-high, #363840);\n    --color-secondary-hover: var(--surface-container-highest, #42444d);\n    --color-accent: var(--surface-container-highest, #42444d);\n    --color-accent-foreground: var(--on-surface-default, #e6e8f0);\n    --color-muted: var(--surface-container, #2c2e35);\n    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);\n    --color-foreground: var(--on-surface-default, #e6e8f0);\n    --color-disabled: var(--surface-container, #2c2e35);\n    --color-disabled-foreground: var(--disabled-foreground, #797c90);\n  }\n}\n\n.dark {\n  --color-primary: var(--primary, #336ef3);\n  --color-primary-hover: var(--primary-hover, #395fe1);\n  --color-error: var(--brand-red, #ea4335);\n  --color-warning: var(--brand-yellow, #fbbc04);\n  --color-success: var(--brand-green, #34a853);\n  --color-background: var(--surface-container-de-emphasis, #272930);\n  --color-card: var(--surface-container-de-emphasis, #272930);\n  --color-card-hover: var(--surface-container-high, #363840);\n  --color-border: var(--divider, #363840);\n  --color-input: var(--surface-container, #2c2e35);\n  --color-secondary: var(--surface-container-high, #363840);\n  --color-secondary-hover: var(--surface-container-highest, #42444d);\n  --color-accent: var(--surface-container-highest, #42444d);\n  --color-accent-foreground: var(--on-surface-default, #e6e8f0);\n  --color-muted: var(--surface-container, #2c2e35);\n  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);\n  --color-foreground: var(--on-surface-default, #e6e8f0);\n  --color-disabled: var(--surface-container, #2c2e35);\n  --color-disabled-foreground: var(--disabled-foreground, #797c90);\n}\n\ninput[type=\"date\"]::-webkit-calendar-picker-indicator {\n  cursor: pointer;\n  opacity: .6;\n}\n\n@media (prefers-color-scheme: dark) {\n  :root:not(.light) input[type=\"date\"]::-webkit-calendar-picker-indicator {\n    filter: invert();\n    opacity: .7;\n  }\n}\n\n.dark input[type=\"date\"]::-webkit-calendar-picker-indicator {\n  filter: invert();\n  opacity: .7;\n}\n\n@property --tw-translate-x {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-translate-y {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-translate-z {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-border-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n\n@property --tw-font-weight {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ordinal {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-slashed-zero {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-figure {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-spacing {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-numeric-fraction {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-shadow-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n\n@property --tw-inset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-inset-shadow-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-inset-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n\n@property --tw-ring-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-inset-ring-color {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-inset-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-ring-inset {\n  syntax: \"*\";\n  inherits: false\n}\n\n@property --tw-ring-offset-width {\n  syntax: \"<length>\";\n  inherits: false;\n  initial-value: 0;\n}\n\n@property --tw-ring-offset-color {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: #fff;\n}\n\n@property --tw-ring-offset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n\n@property --tw-content {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: \"\";\n}\n\n"
+  ],
+  "svg": "<svg role=\"img\" aria-label=\"Geometric convergence model illustrating data clusters T and J merging into a single point\" viewBox=\"0 0 652 366.75\" class=\"w-full h-auto block\"><line x1=\"182.56000000000003\" y1=\"183.375\" x2=\"469.44\" y2=\"183.375\" stroke=\"#1e293b\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"></line><circle cx=\"326\" cy=\"183.375\" r=\"15.6\" fill=\"url(#goldGradient)\" opacity=\"0.24\"></circle><circle cx=\"326\" cy=\"183.375\" r=\"4\" fill=\"#ffffff\"></circle><path d=\"M200.698,171.921C197.962,168.216,192.541,161.375,193.183,161.648C193.824,161.922,200.528,169.31,202.818,170.49C205.108,171.67,202.984,166.643,203.895,165.85C204.807,165.058,208.755,168.5,213.511,169.58C218.266,170.66,223.829,169.377,227.667,167.851C231.505,166.324,233.619,164.554,233.673,164.804C233.726,165.054,231.719,167.325,228.893,170.214C226.067,173.102,222.421,176.608,222.615,177.626C222.81,178.644,226.845,177.174,227.829,177.443C228.814,177.713,226.748,179.722,224.947,182.058C223.147,184.395,221.613,187.06,221.43,188.888C221.247,190.715,222.416,191.706,222.001,195.212C221.586,198.718,219.587,204.741,216.651,206.336C213.715,207.932,209.843,205.101,206.899,206.388C203.955,207.675,201.94,213.081,201.528,213.645C201.116,214.21,202.307,209.934,202.5,208.309C202.694,206.683,201.89,207.708,202.562,205.289C203.234,202.87,205.382,197.008,203.508,197.282C201.634,197.556,195.737,203.965,195.073,204.226C194.409,204.487,198.977,198.599,200.183,194.874C201.388,191.149,199.231,189.587,197.037,188.989C194.843,188.391,192.613,188.758,192.854,188.241C193.095,187.725,195.807,186.326,193.402,186.062C190.997,185.797,183.474,186.667,182,186.74C180.526,186.813,185.101,186.089,188.809,185.416C192.517,184.742,195.358,184.12,197.669,182.686C199.979,181.253,201.759,179.009,202.649,177.886C203.539,176.764,203.539,176.764,203.513,176.48C203.487,176.195,203.435,175.627,200.698,171.921\" fill=\"rgba(20, 184, 166, 0.08)\" stroke=\"#2de2cd\" stroke-width=\"1.5\" opacity=\"0.84\"></path><path d=\"M427.244,172.691C426.991,166.928,428.725,157.604,432.01,154.364C435.295,151.124,440.131,153.969,442.871,154.732C445.611,155.495,446.255,154.176,447.49,155.376C448.726,156.576,450.552,160.294,450.326,164.428C450.101,168.563,447.822,173.113,449.542,172.807C451.261,172.501,456.979,167.34,458.951,167.216C460.924,167.093,459.153,172.008,458.085,175.318C457.017,178.628,456.652,180.334,462.178,182.002C467.704,183.671,479.121,185.301,479.897,185.964C480.673,186.626,470.809,186.319,466.18,187.719C461.551,189.119,462.157,192.225,461.092,194.413C460.026,196.601,457.289,197.871,454.49,196.9C451.692,195.929,448.832,192.718,448.946,195.385C449.061,198.052,452.149,206.596,450.519,207.72C448.889,208.844,442.54,202.548,438.501,199.813C434.461,197.078,432.731,197.905,431.382,198.341C430.034,198.777,429.068,198.822,425.623,200.369C422.177,201.916,416.254,204.965,417.183,203.27C418.111,201.575,425.892,195.137,428.325,192.444C430.757,189.751,427.84,190.803,426.3,191.128C424.76,191.453,424.596,191.051,424.29,190.858C423.985,190.664,423.538,190.68,422.844,190.867C422.15,191.054,421.208,191.411,421.289,191.019C421.369,190.627,422.471,189.487,424.288,188.247C426.105,187.007,428.636,185.668,428.291,185.114C427.945,184.561,424.723,184.793,424.857,184.548C424.992,184.304,428.483,183.583,430.229,183.222C431.974,182.861,431.974,182.861,430.855,181.76C429.735,180.658,427.496,178.455,427.244,172.691\" fill=\"rgba(244, 63, 94, 0.08)\" stroke=\"#fca5a5\" stroke-width=\"1.5\" opacity=\"0.84\"></path><path d=\"M 182.56000000000003 183.375 Q 254.28000000000003 203.375 211.24800000000002 183.375\" fill=\"none\" stroke=\"#14b8a6\" stroke-width=\"1\" stroke-dasharray=\"3 3\" opacity=\"0.4\"></path><path d=\"M 469.44 183.375 Q 397.72 163.375 440.752 183.375\" fill=\"none\" stroke=\"#f43f5e\" stroke-width=\"1\" stroke-dasharray=\"3 3\" opacity=\"0.4\"></path><circle cx=\"187.12000438369105\" cy=\"154.5335578746896\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"224.68156629539524\" cy=\"181.7306519828731\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"197.07405404445956\" cy=\"188.02470112160248\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"229.71263106056733\" cy=\"169.5962660353462\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"212.70316017517453\" cy=\"171.9424143873114\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"205.96995950784793\" cy=\"202.27034479922833\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"198.5195684520882\" cy=\"184.92687345588112\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"220.0783539793321\" cy=\"189.724751771827\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"175.95172201453332\" cy=\"187.53760806544315\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"203.4980047852941\" cy=\"205.6587851281678\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"207.23237116357697\" cy=\"176.69787720052966\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"199.92452503313962\" cy=\"218.48562886449403\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"201.08578293164476\" cy=\"208.73248033907086\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"189.84047311414753\" cy=\"210.37474667263825\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"203.53893982542056\" cy=\"176.7642946058459\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"203.54537923118357\" cy=\"192.71134357482194\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"235.73296045377305\" cy=\"162.78293400627223\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"217.58823307942504\" cy=\"210.76310549999883\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"189.6753204784344\" cy=\"185.36513069617092\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"200.85935419918124\" cy=\"161.61532497120302\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"230.88001332780735\" cy=\"175.70356813868426\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"207.5301439261715\" cy=\"191.1460367179527\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"190.3821245905158\" cy=\"189.1240012518735\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"218.77450768645693\" cy=\"180.11359603269662\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"198.1994092337632\" cy=\"183.49715059554387\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"229.3914176162531\" cy=\"168.09492847481206\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"203.38268958975706\" cy=\"175.05774763146536\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"223.58424442253454\" cy=\"192.69605157299227\" r=\"3.3\" fill=\"#14b8a6\" opacity=\"0.8099999999999999\"></circle><circle cx=\"430.45841489012656\" cy=\"148.27969483844242\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"428.10122931360235\" cy=\"198.86761008629398\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"424.4316909619289\" cy=\"190.64828762789634\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"431.97416996138656\" cy=\"182.86140990941087\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"420.26707143677567\" cy=\"191.7682882195535\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"455.23697270876403\" cy=\"215.14089694703787\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"460.9446610012047\" cy=\"186.01283149830397\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"456.2873162794174\" cy=\"182.04004830511744\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"452.378804676935\" cy=\"164.0122007431294\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"410.33003942888905\" cy=\"208.0134599230657\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"424.923533835047\" cy=\"191.85595682910434\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"436.19184141952076\" cy=\"196.25104394642852\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"423.5736198327899\" cy=\"188.3457537053407\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"431.1673018156489\" cy=\"184.3289769199718\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"457.3815180383854\" cy=\"176.9226196699643\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"421.50055650324094\" cy=\"185.02482318992486\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"444.96734390155444\" cy=\"156.8129551105955\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"445.972288570291\" cy=\"189.50742312058745\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"423.0911233462687\" cy=\"190.69623300546198\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"462.7637281235577\" cy=\"195.33103826886673\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"490.53721804780776\" cy=\"186.9321791686469\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"431.0001372428242\" cy=\"198.73205014394006\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"454.551742065149\" cy=\"199.1404088545065\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"425.2572154425938\" cy=\"176.25144702124177\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"433.67369856505604\" cy=\"188.69845958491277\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"445.54392701074164\" cy=\"177.6632686397503\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"446.8990548728415\" cy=\"152.85823775779664\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><circle cx=\"462.6958255500843\" cy=\"162.17763985196706\" r=\"3.3\" fill=\"#f43f5e\" opacity=\"0.8099999999999999\"></circle><defs><radialGradient id=\"goldGradient\" cx=\"50%\" cy=\"50%\" r=\"50%\"><stop offset=\"0%\" stop-color=\"#eab308\" stop-opacity=\"1\"></stop><stop offset=\"100%\" stop-color=\"#eab308\" stop-opacity=\"0\"></stop></radialGradient></defs></svg>",
+  "text": "Cluster T\nCluster J\nProximity\n229.5 px\nConvergence\n20%\nOverlap Matrix\n20.0%\nInspiration level\n0.20\nCluster variance\n0.40"
+}
