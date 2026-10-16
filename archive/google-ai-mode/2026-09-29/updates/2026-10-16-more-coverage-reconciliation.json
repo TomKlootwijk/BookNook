@@ -1,0 +1,101 @@
+{
+  "newConversations": 1,
+  "newPairs": 7,
+  "updatedConversations": [
+    {
+      "ordinal": 714,
+      "previousPairs": 19,
+      "newPairs": 24
+    }
+  ],
+  "openTabs": 189,
+  "historyEntries": 300,
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "uploadedImage": {
+    "conversation": 714,
+    "prompt": 21,
+    "sourcePrompt": 10,
+    "width": 449,
+    "height": 1000,
+    "largerImageWidth": 460,
+    "largerImageHeight": 1024,
+    "largerImageUnavailable": "Chrome ERR_BLOCKED_BY_CLIENT",
+    "sha256": "d65562b54bb6fa767dc947dc1c45d5f9eb39a1f48ab37b52e6f1b6b419c7a943"
+  },
+  "referencedTabConversation": 722,
+  "sourceErrorResponses": [],
+  "blankResponses": [],
+  "branchAudit": {
+    "sharedExchanges": 4,
+    "previousBranchArchiveExchanges": [
+      5,
+      9
+    ],
+    "currentBranchArchiveExchanges": [
+      10,
+      12
+    ],
+    "currentBranchSourceExchanges": [
+      5,
+      7
+    ],
+    "currentBranchRaw": "revisions/2026-10-16-cozy-714-current-branch.json",
+    "latestContinuation": {
+      "sharedSourceExchanges": [
+        1,
+        5
+      ],
+      "sharedArchiveExchanges": [
+        1,
+        2,
+        3,
+        4,
+        10
+      ],
+      "previousContinuationArchiveExchanges": [
+        11,
+        12
+      ],
+      "latestArchiveExchanges": [
+        13,
+        20
+      ],
+      "latestSourceExchanges": [
+        6,
+        13
+      ],
+      "raw": "revisions/2026-10-16-more-714-thermal-branch.json"
+    },
+    "photographContinuation": {
+      "sharedSourceExchanges": [
+        1,
+        9
+      ],
+      "sharedArchiveExchanges": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        13,
+        14,
+        15,
+        16
+      ],
+      "priorArchiveContinuation": [
+        17,
+        20
+      ],
+      "archiveExchanges": [
+        21,
+        24
+      ],
+      "sourceExchanges": [
+        10,
+        13
+      ],
+      "raw": "revisions/2026-10-16-more-714-picture-branch.json"
+    }
+  }
+}

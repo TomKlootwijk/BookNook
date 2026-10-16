@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-10-16",
-  "scopeCount": 721,
-  "capturedCount": 721,
-  "prompts": 3320,
-  "responses": 3320,
-  "mathRendered": 8576,
-  "embeddedImages": 7974,
+  "scopeCount": 722,
+  "capturedCount": 722,
+  "prompts": 3327,
+  "responses": 3327,
+  "mathRendered": 8621,
+  "embeddedImages": 7994,
   "conversations": [
     {
       "ordinal": 1,
@@ -7853,8 +7853,8 @@
     {
       "ordinal": 714,
       "title": "Trewel Virtual Reality",
-      "prompts": 19,
-      "responses": 19,
+      "prompts": 24,
+      "responses": 24,
       "html": "conversations/714-trewel-virtual-reality.html",
       "markdown": "conversations/714-trewel-virtual-reality.md",
       "source": "https://www.google.com/search?sca_esv=487308b4cea01bf4&sxsrf=APpeQnurMm_rD4D6WY6rejODwIHxC3a4FQ%3A1792127285400&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwigwvXw672XAxUAAAAAHQAAAAAQTA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfD1bxccjzyt5IZnBLCR3dM7RzhiZCRCwMZbpupIsCYX9_cfmF9fW2dcKqkVd5FqjkDgGKI5M7gWCm9ufTVCaENrnBmGNf1C9Lebw9YTTUizdSHu4fvl00cSpvfmioG7GAgGNB5m1AZl5-3uTZAZ_aVDjhlUMj8W42XBkAYyrxQFcyKLCXZvCiJGNfESIWcRBG-bHzn2KrjNXHt8bciQplCJlV5N9941aE8KQHr6MZ-Gu2BeAf0NaxjqQPQ6aVl4nsLfoyL02kLAvcaLSU_65sjgS3FMYfUfBunp5YFesG1bVN951EHOKOFxF5NDlfz30-3eevfDLI06ZQ&mtid=DanRarlUo-Dv9Q_cscHoCw&csuir=1&aep=26&q=trewel",
@@ -7870,7 +7870,7 @@
       "markdown": "conversations/715-goedkoop-is-duurkoop.md",
       "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIxODQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQnuMQi9wYaeC0qbJFhvL5V9Rv0k_lg%3A1792097711477&cs=1&udm=50&atvm=2&ved=0CAcQ2_wOahcKEwjo4JyL3b2XAxUAAAAAHQAAAAAQJA&mstk=AUtExfAFjeENFXkx_2tffPYD3bGJnk3o4Cx1jrK5B20zzWKpaq5wf3FlxrPjwSRC7fQjKzACKoQNATDpJFRMxYAliYDJ09tK2kfpoScQh8HWlTOMIomy0fpOznA8bsQQqxKoO8ujG7e36c3BjZV3zxRFWB5NnF_CGTbx3ML6gmvgAk74td9t76YX-h1ZgucHJ9rGBLp87L_WwkDVG4l6v1hPuFq-rL5lalrrKoLKvrBw3mVSPC9brqrqicZkYphb9pYp3IKOEkc9oQ6VxtWvZ4QpyBe8tfSH5xnTozw58w8dxo1sGoeLks6Iaedv5i-rY1-jiZsMeJpvlePEXA&mtid=TafRasSeGoHKi-gPkKeH6Qw&csuir=1&aep=26&q=goedkoop+duurkoop",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3141
+      "pdfPage": 3150
     },
     {
       "ordinal": 716,
@@ -7881,7 +7881,7 @@
       "markdown": "conversations/716-accumulated-trauma-and-emotion.md",
       "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIxODQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQnuMQi9wYaeC0qbJFhvL5V9Rv0k_lg%3A1792097711477&cs=1&udm=50&atvm=2&ved=0CBMQ2_wOahcKEwjo4JyL3b2XAxUAAAAAHQAAAAAQJA&mstk=AUtExfADSmnM3vLEh4Ed0dMddUc0efIXZzn6NzdVp1QfYUUfX5Yzp_Y7Mz0T3J_VIraggynqCuXPRcdv0cRWBTisjH283fG6_Eipmj1_KJB6i6cNb9ZnGi3WFJkAf6N-Lx49CI9OTBqRCCYhT1JtlR-2A1cwglA-zges6_qbpMpgyjZfaJKiRJS-IXqnZRzNgmv_A9ufWXR5kea-HtUDiIhpLPfJ13NJNAdmHJxjj_zilYEDfZGyIJu_gsgwIt9rSRwPUKo969Q93w6xxNIpUYAw2iJw2oFYJgNp82Oq9FwvSK0uf7HE_yr4RSyonOZNavhHryzz55P5WYIRhw&mtid=j0rRatXZAf2ki-gP4Nn70AI&csuir=1&aep=26&q=accumulated+trauma+and+a+single+experiencer+of+all+wars+all+emotions+all+human+negative+experiences+there+is+a+limit+right+to+a+single+person+experiencing+it+even+premonitions+included",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3142
+      "pdfPage": 3151
     },
     {
       "ordinal": 717,
@@ -7892,7 +7892,7 @@
       "markdown": "conversations/717-tom-nook-steals-wives.md",
       "source": "https://www.google.com/search?sca_esv=487308b4cea01bf4&sxsrf=APpeQnurMm_rD4D6WY6rejODwIHxC3a4FQ%3A1792127285400&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwiYoKHP6L2XAxUAAAAAHQAAAAAQGg&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCs-cWa-C6-9cHVPU3BvIJj-JKMBMQlUXLSCt_oytpkz2ZqomzYOmHI6Gqzm72ZVwn_Cu16WFoP-WiYv2zbGWJMg4ZPXmcsxCBtQLal4ClrzLb2j_uhIKqrxFqaKQz1mXChNdv886dP3jLPy18UraV7GPlH32TBg_kA6k9AfbtCQZtICdZlX8Z4JteajW8Q_s3hhHxBbpmbW-j4lBlYfWTqk6K6M6bh3dLTB2VYcUcdwRITD3ndjTbkH_KdQsWX5FlalGHE2Ed_6JESdpOOhd9zXXsKArq3kJJMRFid4JJcNEvxiVM3xG2rcMEspQUtkZ_HeGBO2OUivw&mtid=uLfRaq-9FO-K-d8PxLjA6QI&csuir=1&aep=26&q=tom+nook+stole+wives",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3149
+      "pdfPage": 3158
     },
     {
       "ordinal": 718,
@@ -7903,7 +7903,7 @@
       "markdown": "conversations/718-lead-times-for-event-structures.md",
       "source": "https://www.google.com/search?sca_esv=487308b4cea01bf4&sxsrf=APpeQnurMm_rD4D6WY6rejODwIHxC3a4FQ%3A1792127285400&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahcKEwiYoKHP6L2XAxUAAAAAHQAAAAAQGg&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBLu-pR2w_7hUmeeOiRwyhsa21ogaGSPSncl7HD9-QnqAhGRn0N9c2xkR9IcJifudhcrshyaOPnwukYT3bu2Hyfs7g8_USQIIP0iS6dU5kdgyDTtZIr4bAOrn06ZjJLHvdpaFT3l_at6Ea7UYhtpXkxIe7SFHSHa-pYYNpHHE9rB8UB-wH1HMIBNiE0PJoHoCvbjqV9jiG2AsC6VY9rtlBwer69rhHIt_ZYZEERRqNEupIN_XUhc4r8lI7N3d6V8_SEJleB3dQtFZtIRM9wJr-d18X1_VtMMvPLy7o6jm38nQqFYE2jjJBJ7SE7IRZcy6cRhh4ri7J73Q&mtid=N7HRasWoOfP97_UPqoCfwQ4&csuir=1&aep=26&q=lead+times+for+logistical+topological+substrate+stands+carnaval+tent+apex+bellcurve+cornerstone+capstone+architectural+cathedral+octagone",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3150
+      "pdfPage": 3159
     },
     {
       "ordinal": 719,
@@ -7914,7 +7914,7 @@
       "markdown": "conversations/719-gasket-valve-5-star-topology.md",
       "source": "https://www.google.com/search?sca_esv=487308b4cea01bf4&sxsrf=APpeQnurMm_rD4D6WY6rejODwIHxC3a4FQ%3A1792127285400&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahcKEwiYoKHP6L2XAxUAAAAAHQAAAAAQGg&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfDXzw-Myucj-ytPprqQt4AuePmzmkqsRadgKNa1a40lZ6ScSqI1lJu1i0gfobHBXTlclGtGz3cRC26F_8nvlT5qIh29D5m5M_OOseidwVkpLvUzV-WpW8h34oUqlP2PQxFa-KXmSFlutYfdYzKkkWU0ou1j4lhKk1_UWC_myY0se4iPHY434t1JX4GZoZAvMJzoB2U6shVNVBi9methZkpkLS8VnSLwewiom3rCtA5NmuvtoxOdhVHyQDALFCrUQBkiNbsmAJa2A0nUmmHQyhInZn3nn0lxpJ5pCrrh52lZo-NEe8KbYSwlMGlY5Tf3k8ggymQV_2prkg&mtid=fbTRaro1o4753w-ViJLwCA&csuir=1&aep=26&q=Gasket+valve+5+star+topology+mechanics",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3174
+      "pdfPage": 3183
     },
     {
       "ordinal": 720,
@@ -7925,7 +7925,7 @@
       "markdown": "conversations/720-existential-cosmic-game.md",
       "source": "https://www.google.com/search?sca_esv=487308b4cea01bf4&sxsrf=APpeQnurMm_rD4D6WY6rejODwIHxC3a4FQ%3A1792127285400&vsint=&ntc=1&cs=1&sa=X&ved=0CBMQ2_wOahcKEwiYoKHP6L2XAxUAAAAAHQAAAAAQGg&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfC_qfKPNbMRBHuG5sKzw3ldoNaUNBa6GBZJoc2VhC47QAGvdwfKnNHNu-a5YJ2wkWlbvfrqDrBAge7DRhvYItt6LfyWn-Pg0m6jbTA-UCoQv_hosQs4r97dqnx5yNdyO599F7jzpgIyO1g7sppqtm3nzPklrsMvpXryZ_WFqwcpQdvqFLnrKMorfHp8xcDRiQwkUdP6Yic2-8ZwSz4Y7kHp2aaWEHYtcIc2oYiN7HPnfTY6hwwi-JAvV_vjjPThWnhS3XHW0sShoIJL8Jr7dOgpmjOH5ogM1n1Xi4p-xWQU9VYh9cmFVCR_hIXTOENKuwPdjYIDkjRvVA&mtid=0a_RauqMDsrvi-gP36PMuAo&csuir=1&aep=26&q=a+game+where+everyone+wins+every+second+of+the+day%2C+but+the+apex+is+the+convergence+point+the+one+focal+point+the+cornerpoint+where+cornerstone+singular+apex+point+is+infinitesimally+unobtainable",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3176
+      "pdfPage": 3185
     },
     {
       "ordinal": 721,
@@ -7936,7 +7936,18 @@
       "markdown": "conversations/721-founder-hunder-context.md",
       "source": "https://www.google.com/search?sca_esv=487308b4cea01bf4&sxsrf=APpeQnurMm_rD4D6WY6rejODwIHxC3a4FQ%3A1792127285400&vsint=&ntc=1&cs=1&sa=X&ved=0CB8Q2_wOahcKEwiYoKHP6L2XAxUAAAAAHQAAAAAQGg&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfD7HRNcLrIieSTEwYFx0ZZkweo5hV16AVFLBMMDjJYtXQO7qEVo40p7eH3mAELZmThCf1R4stTKGcO7C3rPA8UKcvZPJvAc1RfOIzpBDkHYXWf3BAn0crQ0MN6G0UKP0zd_XrQ5g3kabAdXiyCwsxP2q1AKbxL13PDRCN1JkDWpds2ixpGiuL3u6WQ1SUx8RUBZF6vDqwtTnpWZ5hYixixP_lC3SfeTqVEq49pAJ4mGoL_njsBp9cWe3wgT64-YLzVuG-c6q5QkMQmEQ0MwubssOMoqyZ5awoWpXOOYNhGG5H7tE-BGe8u8ZzFptgk12j7OWtnn8w07vQ&mtid=tqvRarqCKOH97_UPiombmA8&csuir=1&aep=26&q=founder+hounders",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3181
+      "pdfPage": 3190
+    },
+    {
+      "ordinal": 722,
+      "title": "White Dove Peace Signal",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/722-white-dove-peace-signal.html",
+      "markdown": "conversations/722-white-dove-peace-signal.md",
+      "source": "https://www.google.com/search?q=white+dove+peace+signal&client=ms-android-xiaomi-terr2-rso2&hs=xPUB&sca_esv=90fe058dfec7447b&sxsrf=APpeQnuIblvuku8MdkRmu8ngiehOQq0Dog%3A1792130654155&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwi1raD47r2XAxUdhv0HHUk1HGsQ2J8OegQIEBAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDOAZfll1dRKKwM66W5cbfKpQNZZBP35BraHcEei6hJ8rrJkA6H0fzmJX663cIX5gdDAzbrgXiDEyyWuyf3fuaCFoB6B7k_8vTGTA2_LXIK8fNBM8s7q7jG3d84Fx8LSG6Lt4_rCqzECmQW_Z3O4LSLtYy46YB_LX2NnKuZepRRhzZBg92Bq5lSNtOk7hMbVyvFSTl9H2meHEjwg1PgBJEIKXXzgIXwTjHJoQg2IqznXdwkF1sHK6GBkzWb0vrQjSEUflPc5QRnAA&csuir=1&mtid=X77RarO6FtWL9u8Puuqz0AY&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3192
     }
   ],
   "missing": [],
@@ -7952,7 +7963,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "All scoped conversation slots are archived. The 16 October cozy batch adds five conversations and ten unique exchanges across alternate continuations of conversation 714. All branches are explicitly marked and retained. Seven original vector figures are retained, including two animations paused using their original controls. No new blank or error responses were found. All earlier source and media gaps remain recorded.",
+    "note": "All scoped conversation slots are archived. The 16 October latest update adds White Dove Peace Signal and five unique exchanges across two Trewel continuations, preserving all earlier branches. One uploaded photograph is saved at its displayed 449 x 1000 resolution; Chrome blocked the separate larger image URL. No new blank or error responses were found. Earlier source and media gaps remain recorded.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -10050,61 +10061,122 @@
           "type": "shared_browser_tab"
         }
       ]
+    },
+    "october16MoreMedia": {
+      "newConversations": 1,
+      "newPairs": 7,
+      "updatedConversations": [
+        {
+          "ordinal": 714,
+          "previousPairs": 19,
+          "newPairs": 24
+        }
+      ],
+      "openTabs": 189,
+      "historyEntries": 300,
+      "unmatchedOpen": [],
+      "unmatchedHistory": [],
+      "uploadedImage": {
+        "conversation": 714,
+        "prompt": 21,
+        "sourcePrompt": 10,
+        "width": 449,
+        "height": 1000,
+        "largerImageWidth": 460,
+        "largerImageHeight": 1024,
+        "largerImageUnavailable": "Chrome ERR_BLOCKED_BY_CLIENT",
+        "sha256": "d65562b54bb6fa767dc947dc1c45d5f9eb39a1f48ab37b52e6f1b6b419c7a943"
+      },
+      "referencedTabConversation": 722,
+      "sourceErrorResponses": [],
+      "blankResponses": [],
+      "branchAudit": {
+        "sharedExchanges": 4,
+        "previousBranchArchiveExchanges": [
+          5,
+          9
+        ],
+        "currentBranchArchiveExchanges": [
+          10,
+          12
+        ],
+        "currentBranchSourceExchanges": [
+          5,
+          7
+        ],
+        "currentBranchRaw": "revisions/2026-10-16-cozy-714-current-branch.json",
+        "latestContinuation": {
+          "sharedSourceExchanges": [
+            1,
+            5
+          ],
+          "sharedArchiveExchanges": [
+            1,
+            2,
+            3,
+            4,
+            10
+          ],
+          "previousContinuationArchiveExchanges": [
+            11,
+            12
+          ],
+          "latestArchiveExchanges": [
+            13,
+            20
+          ],
+          "latestSourceExchanges": [
+            6,
+            13
+          ],
+          "raw": "revisions/2026-10-16-more-714-thermal-branch.json"
+        },
+        "photographContinuation": {
+          "sharedSourceExchanges": [
+            1,
+            9
+          ],
+          "sharedArchiveExchanges": [
+            1,
+            2,
+            3,
+            4,
+            10,
+            13,
+            14,
+            15,
+            16
+          ],
+          "priorArchiveContinuation": [
+            17,
+            20
+          ],
+          "archiveExchanges": [
+            21,
+            24
+          ],
+          "sourceExchanges": [
+            10,
+            13
+          ],
+          "raw": "revisions/2026-10-16-more-714-picture-branch.json"
+        }
+      }
     }
   },
   "latestUpdate": {
-    "at": "2026-10-16T05:56:09.943016+00:00",
+    "at": "2026-10-16T06:17:11.646303+00:00",
     "date": "2026-10-16",
-    "batchId": "2026-10-16-cozy",
-    "openAiModeTabs": 187,
-    "uniqueOpenConversations": 180,
+    "batchId": "2026-10-16-more",
+    "openAiModeTabs": 189,
+    "uniqueOpenConversations": 182,
     "historyConversations": 300,
-    "method": "Compared 187 initially open AI Mode tabs and all 300 visible history entries with the archive. A follow-up refresh checked 190 visible tabs and all 300 history entries. Captured five new conversations and ten new exchanges across alternate continuations of conversation 714. Preserved all branches with explicit notes, five original charts, and two paused original simulation snapshots. A second follow-up retained three later exchanges on the latest continuation and rechecked all 300 visible history entries.",
+    "method": "Compared 189 open AI Mode tabs and all 300 visible history entries with the archive. Captured White Dove Peace Signal and five unique exchanges across two Trewel continuations. Retained all earlier branches and the displayed uploaded photograph, documenting the blocked larger image URL.",
     "records": [
       {
-        "ordinal": 717,
-        "tabId": "history-uLfRaq-9FO-K-d8PxLjA6QI",
-        "title": "Tom Nook Steals Wives",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 718,
-        "tabId": "history-N7HRasWoOfP97_UPqoCfwQ4",
-        "title": "Lead Times for Event Structures",
-        "status": "added",
-        "counts": {
-          "prompts": 24,
-          "responses": 24
-        }
-      },
-      {
-        "ordinal": 719,
-        "tabId": "history-fbTRaro1o4753w-ViJLwCA",
-        "title": "Gasket Valve 5-Star Topology",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 720,
-        "tabId": "history-0a_RauqMDsrvi-gP36PMuAo",
-        "title": "Existential Cosmic Game",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 721,
-        "tabId": "history-tqvRarqCKOH97_UPiombmA8",
-        "title": "Founder Hunder Context",
+        "ordinal": 722,
+        "tabId": "history-X77RarO6FtWL9u8Puuqz0AY",
+        "title": "White Dove Peace Signal",
         "status": "added",
         "counts": {
           "prompts": 2,
@@ -10117,60 +10189,55 @@
         "title": "Trewel Virtual Reality",
         "status": "updated",
         "previousCounts": {
-          "prompts": 9,
-          "responses": 9
-        },
-        "counts": {
           "prompts": 19,
           "responses": 19
+        },
+        "counts": {
+          "prompts": 24,
+          "responses": 24
         }
       }
     ],
     "newOrdinals": [
-      717,
-      718,
-      719,
-      720,
-      721
-    ],
-    "followupVisibleTabs": 190
+      722
+    ]
   },
   "pdf": {
     "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16.pdf",
-    "pages": 3182,
-    "bytes": 137506758,
-    "sha256": "e6b4992f87cf5d9c20b9e172c33d5e9f1438d94506b9839077c1a23141ab7a29",
-    "promptMarkersVerified": 3320,
-    "responseMarkersVerified": 3320,
-    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the six freshly rendered chapters; rebuilt index, bookmarks and continuous footers.",
+    "pages": 3198,
+    "bytes": 139042257,
+    "sha256": "828f196b97608379c1ef76e7b224b9614fbca208b20994cfdd2b09499570d718",
+    "promptMarkersVerified": 3327,
+    "responseMarkersVerified": 3327,
+    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the two freshly rendered chapters; rebuilt index, bookmarks and continuous footers.",
     "volumes": [
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-01.pdf",
-        "bytes": 64215119,
-        "sha256": "fac31ed48301a70f226d0a86606f4a8de06746c27bf1e6447db2918c5a1fbfe2",
+        "bytes": 64873283,
+        "sha256": "3b8e511e659deb48dcb7e13ce439835559340fe006ddcd34ef89fa49e1b483ea",
         "firstPage": 1,
         "lastPage": 801
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-02.pdf",
-        "bytes": 42777898,
-        "sha256": "36d029e66403a63cf31e903b82d4d6a5c58424d761a07290b1a534d7d34b29a0",
+        "bytes": 43064728,
+        "sha256": "ff6ca2226d2e8baa5a2981c97235349d4f917c4d18bb47455b125e151702fa6c",
         "firstPage": 802,
         "lastPage": 1605
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-03.pdf",
-        "bytes": 58342565,
-        "sha256": "0258d16e5b313e44e67d679ef3846eb5aa84b9309925a9c5a85279ac6cd62572",
+        "bytes": 58628885,
+        "sha256": "27387eebb9d243d5322752a402a66841ce0b68e45d713dd4fabffccae6e9f755",
         "firstPage": 1606,
         "lastPage": 2407
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-04.pdf",
-        "bytes": 49891516,
-        "sha256": "aceb45fee866e2d8f2c3135cd2fedd3d9ba0d7b4c738866f2b7b3325c0de87c5",
+        "bytes": 50565088,
+        "sha256": "ff780f6fe8622175a55e00b7c51824f1075225dd583d93afb7c478bb4e83386d",
         "firstPage": 2408,
-        "lastPage": 3182
+        "lastPage": 3198
       }
     ]
   }
