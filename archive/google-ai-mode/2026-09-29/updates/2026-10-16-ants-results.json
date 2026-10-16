@@ -1,0 +1,76 @@
+{
+  "at": "2026-10-16T10:26:13.408004+00:00",
+  "date": "2026-10-16",
+  "batchId": "2026-10-16-ants",
+  "openAiModeTabs": 197,
+  "uniqueOpenConversations": 189,
+  "historyConversations": 300,
+  "method": "Compared 197 open AI Mode tabs and all 300 visible history entries. Added five conversations plus two Hat Man Hallucinations exchanges. Preserved source images and prior graph/code/widget content, linked original PDFs, and archived the new complete Cross Modal PDF. Included the latest Nietzsche follow-up visible at capture time.",
+  "records": [
+    {
+      "ordinal": 731,
+      "title": "Statische Elektriciteit Dekens",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 732,
+      "title": "CE-Markering",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 733,
+      "title": "Autonomous Drone Systems",
+      "status": "added",
+      "counts": {
+        "prompts": 20,
+        "responses": 20
+      }
+    },
+    {
+      "ordinal": 734,
+      "title": "Ecological Variations Of Genus",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 735,
+      "title": "Nietzsche Philosophy Nihilism And Fatalism",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 729,
+      "title": "Hat Man Hallucinations",
+      "status": "updated",
+      "previousCounts": {
+        "prompts": 14,
+        "responses": 14
+      },
+      "counts": {
+        "prompts": 16,
+        "responses": 16
+      }
+    }
+  ],
+  "newOrdinals": [
+    731,
+    732,
+    733,
+    734,
+    735
+  ]
+}

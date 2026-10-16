@@ -266,6 +266,10 @@ for d in records:
         chunks.append('<section class="turn"><div class="role">'+esc(label)+'</div>'+body+'</section>')
     head='<header class="chapterhead"><div class="eyebrow">Conversation '+str(n).zfill(2)+'</div><h1>'+esc(title)+'</h1><p class="meta">'+str(prompt_count)+' prompts · '+str(response_count)+' responses · Captured '+esc(d['capturedAt'])+'</p><p><a href="'+esc(d.get('originalUrl',d['url']))+'">Open the original Google AI Mode conversation</a></p></header>'
     chapter='<article class="chapter" id="conversation-'+str(n)+'">'+head+''.join(chunks)+'</article>'
+    if any(item.get('wrapSourceUrls') for item in d['items']):
+        # Apply the chapter flag to every source URL so one long citation cannot
+        # force Chrome to shrink an otherwise readable chapter when printing.
+        chapter=re.sub(r'class="sourceurl"(?! style=)', 'class="sourceurl" style="overflow-wrap:anywhere"', chapter)
     write_aggregate(ROOT/'conversations'/(basename+'.html'), page(title,chapter).replace('src="assets/', 'src="../assets/').replace('href="attachments/', 'href="../attachments/'))
     write_aggregate(ROOT/'conversations'/(basename+'.md'), '\n'.join(md).replace('](assets/', '](../assets/').replace('](<attachments/', '](<../attachments/'))
     chapters.append(chapter);all_md.append('\n'.join(md))

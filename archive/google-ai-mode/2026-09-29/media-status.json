@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "All scoped conversation slots are archived. The latest batch adds two conversations and two Medical Preparations exchanges. The original graph, expanded Python code, interactive tracker snapshot and full Whaletail PDF are preserved. Google names Reality_Gating_Patent_Specification.md without providing a download; that limitation and earlier source/media gaps remain recorded.",
+  "note": "All scoped conversation slots are archived. The ants batch adds five conversations and two Hat Man Hallucinations exchanges, with original ecological/drone images and the complete Cross Modal PDF. Prior graph, code, widget and attachment data are retained. All previously recorded source/media gaps remain documented.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -2352,5 +2352,40 @@
       "filename": "Reality_Gating_Patent_Specification.md",
       "reason": "Named in the source without a download link; no matching local original found"
     }
+  },
+  "october16AntsMedia": {
+    "openTabs": 197,
+    "historyEntries": 300,
+    "newConversations": 5,
+    "newPairs": 37,
+    "updatedConversations": [
+      729
+    ],
+    "recentContinuationChecks": [
+      {
+        "ordinal": 726,
+        "observedPairs": 8,
+        "archivedPairs": 8,
+        "newPrompts": 0
+      }
+    ],
+    "attachments": [
+      {
+        "path": "attachments/Tom_Klootwijk_Architectural_Paradigm_v4_Cross_Modal.pdf",
+        "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\Tom_Klootwijk_Architectural_Paradigm_v4_Cross_Modal.pdf",
+        "bytes": 456207,
+        "sha256": "0db7f89c65b93842addf89535a8c0b86e9562ea098c82e37ea7580eaa6a492a3",
+        "pages": 38
+      }
+    ],
+    "sourceErrorResponses": [],
+    "blankResponses": [],
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "preservedPriorMedia": true,
+    "originalEmbeddedImageGroups": [
+      733,
+      734
+    ]
   }
 }

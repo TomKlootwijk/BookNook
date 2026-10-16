@@ -1,0 +1,35 @@
+{
+  "openTabs": 197,
+  "historyEntries": 300,
+  "newConversations": 5,
+  "newPairs": 37,
+  "updatedConversations": [
+    729
+  ],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 726,
+      "observedPairs": 8,
+      "archivedPairs": 8,
+      "newPrompts": 0
+    }
+  ],
+  "attachments": [
+    {
+      "path": "attachments/Tom_Klootwijk_Architectural_Paradigm_v4_Cross_Modal.pdf",
+      "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\Tom_Klootwijk_Architectural_Paradigm_v4_Cross_Modal.pdf",
+      "bytes": 456207,
+      "sha256": "0db7f89c65b93842addf89535a8c0b86e9562ea098c82e37ea7580eaa6a492a3",
+      "pages": 38
+    }
+  ],
+  "sourceErrorResponses": [],
+  "blankResponses": [],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "originalEmbeddedImageGroups": [
+    733,
+    734
+  ]
+}

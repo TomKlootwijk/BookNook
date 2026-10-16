@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-10-16",
-  "scopeCount": 730,
-  "capturedCount": 730,
-  "prompts": 3413,
-  "responses": 3413,
-  "mathRendered": 9497,
-  "embeddedImages": 8129,
+  "scopeCount": 735,
+  "capturedCount": 735,
+  "prompts": 3450,
+  "responses": 3450,
+  "mathRendered": 9799,
+  "embeddedImages": 8196,
   "conversations": [
     {
       "ordinal": 1,
@@ -8018,8 +8018,8 @@
     {
       "ordinal": 729,
       "title": "Hat Man Hallucinations",
-      "prompts": 14,
-      "responses": 14,
+      "prompts": 16,
+      "responses": 16,
       "html": "conversations/729-hat-man-hallucinations.html",
       "markdown": "conversations/729-hat-man-hallucinations.md",
       "source": "https://www.google.com/search?q=antihistamine+hatman&client=ms-android-xiaomi-terr2-rso2&hs=DSUB&sca_esv=2a824d60bdc0ea43&sxsrf=APpeQnsgcL9PxXsAsZIfktotX6brHctrpg%3A1792139091446&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7vnQU6QWmnWBznGVLK1G8Rykll-s04_elOQbRleKreNqN6HKk20ZyZ-d8SXGwXAN8EIvObbF33JhfJkDoGbxHTj31od_&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjnwLuvjr6XAxXS_rsIHeGcK4AQ2J8OegQIEhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDsgP8rvPCTcUslrMKkcKKOD7LgSVl2BqMpYvhJoQwlZErtDa92Y5XjZ3X-Dtx1NkLYmSeZpM_v6ZvdRVt3Qk5Wor8IYDnRYize2GGm2SeUcVW-fs6emOd3pgh-7xaOYpLMAOxjfquT3QtHu9cQGAk7kH8EFtmUQhkHNbZQbyrexHXhAI076VQcv_Ptk4qEDRtfhKnipvpjjPegOugqsmirFHkLKJSr6Eh-BGKb0Xr45vOK0-vr8165Mu-JV27Yl8y8tlIljv_mXw&csuir=1&mtid=VN_RaujOMKvg7_UP_KDz8AE&udm=50&atvm=2",
@@ -8035,7 +8035,62 @@
       "markdown": "conversations/730-enbrel-treatment-information.md",
       "source": "https://www.google.com/search?sa=X&sca_esv=90fe058dfec7447b&nirf=militair+colonne&sxsrf=APpeQntE1SBbxrbSByVCr7YO69bdPdZT9Q%3A1792133982251&vsint=&ntc=1&cs=1&ved=0CAcQ2_wOahcKEwjwiJb1l76XAxUAAAAAHQAAAAAQJA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCnbslZNYDBM_F2MesV8hiGdk_BNX0uLuKBI120XamhHnsV6PMz5jfUDEgHwe5apgZg1RQ1uCcX-OVnrvQKe_m0bztcNSmqvGig0KpwrHiGm5_mzcNNhUAx-UHxDSpQOitCUWq_QpRL2Q5ruWMvLl4ZUdOqVWj4ofyfihfSIbNLpVTVPT5XObxgkM_PytuexqfDrp-NYJP8_OwpM-b1pObQHWD5U5rh6BAucQzACb5NMMYbJtBvSc_ZkA_Q2rv6YftQuj8QzsGOxncT4zIz7qwUQUbeWXB0ju4aGLeiTvoQCAGGggBVflTHrmmy9mwxnSD208WhgPE13Q&mtid=y-XRapXnAvri7_UP-9vZ-AY&csuir=1&aep=26&q=embrel",
       "recoveredFromSavedUrl": false,
-      "pdfPage": 3346
+      "pdfPage": 3342
+    },
+    {
+      "ordinal": 731,
+      "title": "Statische Elektriciteit Dekens",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/731-statische-elektriciteit-dekens.html",
+      "markdown": "conversations/731-statische-elektriciteit-dekens.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwNDAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQnuzRpaJJTbg-DYnfhc4NPosSq58-A%3A1792145998162&cs=1&udm=50&atvm=2&ved=0CB8Q2_wOahcKEwjAprmZqL6XAxUAAAAAHQAAAAAQNw&mstk=AUtExfBmQy_I4zTOYx0IpOu5byyC_bZBEECHbMquyFCDNq359w1SGRgPxWPmK8i3xjBerT83hCQm5Dp-8KP6lUgui-Rl1_THMbtkW49D8gm3rowoRDaDE5ICszoQmtYJAr6xijvatewCzoToL497ykfO0tyrYH9MztreoLHKHTyJEJTEj32cajM2YwsIPznUtoyunFsL4AiIqsaeHk5GJDfs4HoqM-NHpsmYXbBHcWDx7xOnr6erjacF-FK6rWhxb12vGWyYYNa7c0kdRyt6uTiuMM2DpSGvCNcZsqrL4TUHCOcRlfl2ymT08g1jnBhLdPzlmqsZCOnRHmihaw&mtid=9OvRatPiGI_ni-gPwfqByQk&csuir=1&aep=26&q=knettertjes+synthetische+deken+druk",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3348
+    },
+    {
+      "ordinal": 732,
+      "title": "CE-Markering",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/732-ce-markering.html",
+      "markdown": "conversations/732-ce-markering.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwNDAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQnuzRpaJJTbg-DYnfhc4NPosSq58-A%3A1792145998162&cs=1&udm=50&atvm=2&ved=0CBkQ2_wOahcKEwjAprmZqL6XAxUAAAAAHQAAAAAQNw&mstk=AUtExfBq7_uhEo5araUbVBxXz_ypha7-ZqM7Os3GDmJSw7U-xYoemzlxtX414H5lQ3dM2Bd2oppfmiITtbIBnWnGBkSQrff3JGpnZyhD3MymH_Q0GFknuf-9wBeCg_LlsrpBpCUgvVK4VRsGzFHKJYhU8YWuRVJBoX4dSbwbnWUtkEt5iyEe81dN3MdJUfoiAu8Nx9V3d7wMIWdcD32Va1Nr9l9-spXIA8vjYWscyv6gCgQfH-U0djABTObVAjcmOHpesppEBf5bLK-vA8UaR5y_enfTE0MgrW6hGSk8BtyYr_sIESyQc4beJeT3ZlbPNGSk0yMXTEZBGDwqZA&mtid=F-_Rav6iILuK9u8PtZbZ2Qg&csuir=1&aep=26&q=ce+keurmerk+TO",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3354
+    },
+    {
+      "ordinal": 733,
+      "title": "Autonomous Drone Systems",
+      "prompts": 20,
+      "responses": 20,
+      "html": "conversations/733-autonomous-drone-systems.html",
+      "markdown": "conversations/733-autonomous-drone-systems.md",
+      "source": "https://www.google.com/search?q=autonomous+drone&sca_esv=c45cc90a65ac929a&sxsrf=APpeQnvnvY66Q7Ryo9t95BdaJSdNYQuHkA%3A1792142871315&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpD5WmxHV9GQVdPkL5dutr9Tsk9Psqv8-BeuxQCSKzxuGpkDeZ8iXI-CcjRzWQgvHa7UDv7gTcjy-XfyZymi1rYZAPBLe-_W1YsnfcpDzTRDqEt_20&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiXwuy5nL6XAxXLgf0HHSBYHoIQ2J8OegQIEhAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfBvpCnP3z2wurMTmFwk2RMwW5wVJ6K9s6kDdqTx4T53hV0J_Vr-fTiRmVw98KV84CTaRxLt1TbujEG3qqJviOgBna9h6oK0eQLDJFabXLEHknBo5u2xq2NWyQMrzcwGPTjDxNPVcB_AZAphsR7v5xQzAURXNbb07A3fn20ASZ5vOSf2xkFASxKt8sIlOU9hH-PmgTSq0vV9zaDlwCay0q_Wb0H4b3cmqqMthamVUOMyprWmEnfBF05rJLAbmwDV3ssJFTQf8um0IH163a9fUypNOJv5LqtqIvO6etAploKyWx_FOf2oU6_H3N8Llf0QHSi4_cyx_Zwt1A&csuir=1&mtid=Ge7RaryHDezb7_UP_fa5gAg&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3357
+    },
+    {
+      "ordinal": 734,
+      "title": "Ecological Variations Of Genus",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/734-ecological-variations-of-genus.html",
+      "markdown": "conversations/734-ecological-variations-of-genus.md",
+      "source": "https://www.google.com/search?q=ecological+variations+of+genus+in+the+amsterdam+area&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE5MTM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz150YHLBZQrC7jm5_C-J-0f2Q2-5NUPD-TCpE8QyvxVIQ0CkdxfEAAqsZqW0D68D58P2afldorgANWKJGEiDXfIEJFp9eDzfr7CE0Ez67Lb-dbR5IJNrKdTr3Nj7fUU0R12K95Y&aep=10&ntc=1&sxsrf=APpeQnuRRCQ3MF57vdRkPSPv98X4ueAfdQ%3A1792145867669&mstk=AUtExfAvbJkyq8cMbJv55RY3mVvaYe5XBu4Qbbx2zCuoF7SiRe_NKH5hxeN_jUp8jr2lTaz-EfyAITDsWoOuC_J_wA7ZFAz1Y15ngFzUcIyvgZd1SPCkpoyUgf05LsIb2MeQs4iA7qXQxyvQ_wU0Abvy6Lxy-G5-hncyahRXOV17R8GKdvqLOnKP81kN0yIgKbBDcNV1OUFEm5PVie6fSFSr2Rbfuz4t9bQgUOBmPOTCX1OB16wcOCyYspA8_J3URfUvvodqdMyJwvKzG4KEQ_D0yofuzMRMqFd-9jaKMx5MeJGUUJC5UwyJprIekIhkwxxTa0qUabejyYUNHg&aioh=3&csuir=1&cs=1&udm=50&mtid=zPnRaov4Boemi-gPp6OHoQU#sv=CBwSlggKugQStwQK9wNBSmlUNHRLSm41WDlON3Vjdlk4ZXYzT0hNMGlPZkg5RVVHR3Fzb1EwWG81eWZsLVFxSzJROGE4MlU1RlhNZ3ZhVEl4QU9PN1BOckZSenhaSjM4clY2UkpBSHdabzM1RjRaLTl4cjlETVBZQnZkdWN1V3lLWGFQVERicEZHTnFDMVVidjhnbS1wd2QzRWVERWhfbVctaHNQcmNTdzlDbkUwT05PaUNSWS16a0FNT1pzRy1RZGpXS3kzRFNRZEVIemxEUGQ0NEVTR3dkRXRlV090eTJ5X3pIc0RIaHpwanJ4dUFpQzFTWTN1ZW1VQ29Ic1poM1ZSYzlGLXlFSjVTQ3FhMWFVRVowSzZJNXJTSjE0YjNHdUlDd0Fna1RDeDhPb2dmTkhGVC0zOVpGVmRjS0dEa3NieVdHalBjRXhmRE9BUmhxUWt6R18yamZLajFfNFQ1SHZzLWFycFVWZmtGMzNLQnVwRkhBcVRLRTN5SUdid3B3V2EtdkRTMkUxRzN5Y0pWLUtYWHVwOXpqTnFnazR4ZS1aZFpLX243Qkt1NnVFempERHhiU3dXc0tjdlBpV0c1ODZLZ0RVQUlEZ2RCU1pTSlNBX2psMEp3MGxVamp5UDR2UnBSM0RvS3R4M1ZOV1R3ZUdaV0dzVUxqNFdyeHh5SmZjUlM2QRIXOWZuUmF0S3VNOS16LWQ4UHRwZjhzQVEaIkFEc3I5ZlM5ZjdpaG1lN19DZjRlOHQ2dERwaWV0RkpkOFESBDc4NTQaATMiCQoEc251aRIBMSIOCgFxEglOaXR6c2NoaWEiEwoFa2dtaWQSCi9tLzA0cTN0OWYi2wIKBG1zdGsS0gJBVXRFeGZBdmJKa3lxOGNNYkp2NTVSWTNtVnZhWWU1WEJ1NFFiYngyekN1b0Y3U2lSZV9OS0g1aHhlTl9qVXA4anIybFRhei1FZnlBSVREc1dvT3VDX0pfd0E3WkZBejFZMTVuZ0Z6VWNJeXZnWmQxU1BDa3BveVVnZjA1THNJYjJNZVFzNGlBN3FYUXh5dlFfd1UwQWJ2eTZMeHktRzUtaG5jeWFoUlhPVjE3UjhHS2R2cUxPbktQODFrTjB5SWdLYkJEY05WMU9VRkVtNVBWaWU2ZlNGU3IyUmJmdXo0dDliUWdVT0JtUE9UQ1gxT0IxNndjT0N5WXNwQThfSjNVUmZVdnZvZHFkTXlKd3ZLekc0S0VRX0QweW9mdXpNUk1xRmQtOWphS014NU1lSkdVVUpDNVV3eUpwcklla0loa3d4eFRhMHFVYWJlanlZVU5IZyIICgJobBICZW4iBwoDdWRtEgAiHAoGY2xpZW50EhJ2aXNlLWVudGl0eS12aWV3ZXIiDQoGc291cmNlEgNhaW0oARhFIMKn4r8I",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3389
+    },
+    {
+      "ordinal": 735,
+      "title": "Nietzsche Philosophy Nihilism And Fatalism",
+      "prompts": 6,
+      "responses": 6,
+      "html": "conversations/735-nietzsche-philosophy-nihilism-and-fatalism.html",
+      "markdown": "conversations/735-nietzsche-philosophy-nihilism-and-fatalism.md",
+      "source": "https://www.google.com/search?q=nietzsche+was+a+nihilist+and+fatalist&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwNDAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7vnQU6QWmnWBznGVLK1G8Rykll-s04_elOQbRleKreNqN6HKk20ZyZ-d8SXGwXAN8EIvObbF33JhfJkDoGbxHTj31od_&aep=10&ntc=1&sxsrf=APpeQnuzRpaJJTbg-DYnfhc4NPosSq58-A%3A1792145998162&mstk=AUtExfAQm2JAd8bwHe2suBL8VPuCf1hfYCkrTcVpZOiAwL3GIj0zv_1WysAWhVqX380IUGtCyWFaedEAfzMiYF6x2XW_UYrUp6ySXWY6paLEqgt---sKbkOkP26-USosARmQBGRC7Hij1C4b81Ma9H-JA3caSdhg5UEwr9AZdqPDn8bTDFmThQVT_rb4uTPNqtBs5v2srxdKT11NW2PkNDmISqfFFjcz_Aj6J8ySdmjmcm8wCwEsThzLQDWrEsj2qvKmX8CvyAHzT0xh7olE-VrVjK7g2h04TIuRiggnFIwsNuqeWHyrcVp2sp-S16dE_q6qrJ_kLBjl3m4Uwg&aioh=3&csuir=1&cs=1&mtid=TvrRav63KdHi7_UPk9D3kAc&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3399
     }
   ],
   "missing": [],
@@ -8051,7 +8106,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "All scoped conversation slots are archived. The latest batch adds two conversations and two Medical Preparations exchanges. The original graph, expanded Python code, interactive tracker snapshot and full Whaletail PDF are preserved. Google names Reality_Gating_Patent_Specification.md without providing a download; that limitation and earlier source/media gaps remain recorded.",
+    "note": "All scoped conversation slots are archived. The ants batch adds five conversations and two Hat Man Hallucinations exchanges, with original ecological/drone images and the complete Cross Modal PDF. Prior graph, code, widget and attachment data are retained. All previously recorded source/media gaps remain documented.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -10395,29 +10450,55 @@
         "filename": "Reality_Gating_Patent_Specification.md",
         "reason": "Named in the source without a download link; no matching local original found"
       }
+    },
+    "october16AntsMedia": {
+      "openTabs": 197,
+      "historyEntries": 300,
+      "newConversations": 5,
+      "newPairs": 37,
+      "updatedConversations": [
+        729
+      ],
+      "recentContinuationChecks": [
+        {
+          "ordinal": 726,
+          "observedPairs": 8,
+          "archivedPairs": 8,
+          "newPrompts": 0
+        }
+      ],
+      "attachments": [
+        {
+          "path": "attachments/Tom_Klootwijk_Architectural_Paradigm_v4_Cross_Modal.pdf",
+          "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\Tom_Klootwijk_Architectural_Paradigm_v4_Cross_Modal.pdf",
+          "bytes": 456207,
+          "sha256": "0db7f89c65b93842addf89535a8c0b86e9562ea098c82e37ea7580eaa6a492a3",
+          "pages": 38
+        }
+      ],
+      "sourceErrorResponses": [],
+      "blankResponses": [],
+      "unmatchedOpen": [],
+      "unmatchedHistory": [],
+      "preservedPriorMedia": true,
+      "originalEmbeddedImageGroups": [
+        733,
+        734
+      ]
     }
   },
   "latestUpdate": {
-    "at": "2026-10-16T09:11:59.190736+00:00",
+    "at": "2026-10-16T10:26:13.408004+00:00",
     "date": "2026-10-16",
-    "batchId": "2026-10-16-more-3",
-    "openAiModeTabs": 193,
-    "uniqueOpenConversations": 186,
+    "batchId": "2026-10-16-ants",
+    "openAiModeTabs": 197,
+    "uniqueOpenConversations": 189,
     "historyConversations": 300,
-    "method": "Compared 193 open AI Mode tabs and all 300 visible history entries. Added Hat Man Hallucinations and Enbrel Treatment Information, plus two new Medical Preparations exchanges. Preserved the original graph, expanded Python block, interactive tracker snapshot and the full Whaletail PDF. The source-mentioned patent Markdown has no download; this source limitation is recorded.",
+    "method": "Compared 197 open AI Mode tabs and all 300 visible history entries. Added five conversations plus two Hat Man Hallucinations exchanges. Preserved source images and prior graph/code/widget content, linked original PDFs, and archived the new complete Cross Modal PDF. Included the latest Nietzsche follow-up visible at capture time.",
     "records": [
       {
-        "ordinal": 729,
-        "title": "Hat Man Hallucinations",
-        "status": "added",
-        "counts": {
-          "prompts": 14,
-          "responses": 14
-        }
-      },
-      {
-        "ordinal": 730,
-        "title": "Enbrel Treatment Information",
+        "ordinal": 731,
+        "title": "Statische Elektriciteit Dekens",
         "status": "added",
         "counts": {
           "prompts": 5,
@@ -10425,67 +10506,106 @@
         }
       },
       {
-        "ordinal": 726,
-        "title": "Medical Preparations",
-        "status": "updated",
-        "previousCounts": {
+        "ordinal": 732,
+        "title": "CE-Markering",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 733,
+        "title": "Autonomous Drone Systems",
+        "status": "added",
+        "counts": {
+          "prompts": 20,
+          "responses": 20
+        }
+      },
+      {
+        "ordinal": 734,
+        "title": "Ecological Variations Of Genus",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 735,
+        "title": "Nietzsche Philosophy Nihilism And Fatalism",
+        "status": "added",
+        "counts": {
           "prompts": 6,
           "responses": 6
+        }
+      },
+      {
+        "ordinal": 729,
+        "title": "Hat Man Hallucinations",
+        "status": "updated",
+        "previousCounts": {
+          "prompts": 14,
+          "responses": 14
         },
         "counts": {
-          "prompts": 8,
-          "responses": 8
+          "prompts": 16,
+          "responses": 16
         }
       }
     ],
     "newOrdinals": [
-      729,
-      730
+      731,
+      732,
+      733,
+      734,
+      735
     ]
   },
   "pdf": {
     "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16.pdf",
-    "pages": 3351,
-    "bytes": 144695814,
-    "sha256": "c93b63c89a7ee2673211d683acfc9dd1b5d71b5156f42392fc4db637f06d2a9c",
-    "promptMarkersVerified": 3413,
-    "responseMarkersVerified": 3413,
-    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the three freshly rendered chapters; rebuilt index, bookmarks and continuous footers.",
+    "pages": 3403,
+    "bytes": 147585205,
+    "sha256": "290701588c0812fcc5579dd92213595f8b8cfd3a7e02e0f8801aded4299f6c9b",
+    "promptMarkersVerified": 3450,
+    "responseMarkersVerified": 3450,
+    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the six freshly rendered chapters; rebuilt index, bookmarks and continuous footers.",
     "volumes": [
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-01.pdf",
-        "bytes": 66754833,
-        "sha256": "8a7e611529746a1375b457aaaf39c0e9fa1122b3b6557983745ca56a75fe32f4",
+        "bytes": 67850770,
+        "sha256": "f0c3de92ec0473b92cb1f8aecc0ac56dbd7e1cd0931e7d4f004e3c22aace39a0",
         "firstPage": 1,
         "lastPage": 800
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-02.pdf",
-        "bytes": 43674879,
-        "sha256": "1bd336b8833c2563d6e821c34a1155c1e0af75a373115261929b4092c74ce63a",
+        "bytes": 43962422,
+        "sha256": "5e6e63703eec4beba9cb30f454308ea2e3dabe61df6906f4aab340e2f0508a99",
         "firstPage": 801,
         "lastPage": 1606
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-03.pdf",
-        "bytes": 59201523,
-        "sha256": "0a290812161616d7e16d653f47e0a26c56e67120e75e354517f49582c515dd09",
+        "bytes": 59487843,
+        "sha256": "03c72a5f43d63028cd21b50dea9a0dc22dcc4f1d48d0fb9471f6259c4611b909",
         "firstPage": 1607,
         "lastPage": 2408
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-04.pdf",
-        "bytes": 50889737,
-        "sha256": "bb1712af3cc9f534aaeb4d1d784cf06661a41a8ce5a4c1357f6080b4a0cc9413",
+        "bytes": 51175695,
+        "sha256": "fc3ce355e7ca0d5b56e57def389a5090a983641728964ee0a2d232b32e75c503",
         "firstPage": 2409,
         "lastPage": 3209
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-16-volume-05.pdf",
-        "bytes": 3590966,
-        "sha256": "8519ae338fa04be3036184e74806fc78018e24e3f0c2da2ab22b8aeb89a9088f",
+        "bytes": 5326924,
+        "sha256": "72d4f71276eb21632231210cfef308c8069fc2f595e9ab81d402b3628e8503f2",
         "firstPage": 3210,
-        "lastPage": 3351
+        "lastPage": 3403
       }
     ]
   }
