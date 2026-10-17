@@ -151,7 +151,13 @@ def clean_message(item, ordinal, index):
             x.replace_with(soup.new_string(' '))
             continue
         try:
-            m = BeautifulSoup(convert(tex), 'html.parser')
+            # A leading bracket in a matrix cell is content, not row spacing.
+            # An empty group disambiguates it without changing the source LaTeX.
+            render_tex = item.get('mathRenderOverrides', {}).get(tex, tex)
+            # The converter flattens gathered rows; matrix preserves their layout.
+            render_tex = render_tex.replace(r'\begin{gathered}', r'\begin{matrix}').replace(r'\end{gathered}', r'\end{matrix}')
+            render_tex = render_tex.replace(r'\begin{matrix}[', r'\begin{matrix}{}[')
+            m = BeautifulSoup(convert(render_tex), 'html.parser')
             wrap = soup.new_tag('span', attrs={'class':'equation'+(' block' if block else ''),'title':tex})
             wrap.append(m)
             x.replace_with(wrap)

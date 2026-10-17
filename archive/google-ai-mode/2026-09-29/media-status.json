@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "The latest 17 October update adds one conversation and five exchanges. Earlier source errors, media gaps, all verified captures, attachments, and the special Captain of industry GTM title are retained.",
+  "note": "Latest update: nineteen conversations, 102 visible prompt texts and 103 responses. Google omits the prompt before response 3 in conversation 772, and displays three no-response messages in conversations 768 and 779. These source gaps are preserved. Three graphs, five reference images and three new original PDF attachments are included. Earlier source gaps, media and Captain of industry GTM remain preserved.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -2844,5 +2844,316 @@
     "unmatchedHistory": [],
     "preservedPriorMedia": true,
     "graphs": []
+  },
+  "october17More5Media": {
+    "openTabs": 227,
+    "historyEntries": 301,
+    "initialVisibleHistoryEntries": 300,
+    "laterHistoryEntries": [
+      {
+        "aria": "Pokemon Gameboy Release Japan, 1 of 300",
+        "threadId": "AW3Tap_1FseC9u8P3dyYqQk",
+        "title": "Pokemon Gameboy Release Japan"
+      },
+      {
+        "aria": "Vuilverbranding in de buurt Limmen, 2 of 300",
+        "threadId": "s2jTaqK7Gdu4i-gP_OnD8Q4",
+        "title": "Vuilverbranding in de buurt Limmen"
+      },
+      {
+        "aria": "Navalny Novichok Putin Investigation, 3 of 300",
+        "threadId": "52PTaryIF5vq7_UP4-f4wAg",
+        "title": "Navalny Novichok Putin Investigation"
+      },
+      {
+        "aria": "Hagelslag Flubber Film, 4 of 300",
+        "threadId": "wmLTauDjG4ap9u8PkpTn8Qg",
+        "title": "Hagelslag Flubber Film"
+      },
+      {
+        "aria": "Dooftstom Oostindisch Doof, 5 of 300",
+        "threadId": "CFjTavbfF_zn7_UPm8_9oAY",
+        "title": "Dooftstom Oostindisch Doof"
+      },
+      {
+        "aria": "Egg Caviar Cellulose Extraction, 6 of 300",
+        "threadId": "2lbTas3tHIuN9u8PvZC36QM",
+        "title": "Egg Caviar Cellulose Extraction"
+      },
+      {
+        "aria": "Architectural Formalization Paradigms, 7 of 300",
+        "threadId": "g1TTapSvL9-M9u8P_ZHSwAw",
+        "title": "Architectural Formalization Paradigms"
+      },
+      {
+        "aria": "5-HTP Serotonin Dosage, 8 of 300",
+        "threadId": "U0zTaqQygIr27w-k-bHJDw",
+        "title": "5-HTP Serotonin Dosage"
+      },
+      {
+        "aria": "Iodine Neon Brain MRI, 9 of 300",
+        "threadId": "ylHTatrqB_Cci-gP6OSkkAs",
+        "title": "Iodine Neon Brain MRI"
+      },
+      {
+        "aria": "Micron vs Mu Meter, 10 of 300",
+        "threadId": "t1DTatKoDrKMi-gPtsTFqA4",
+        "title": "Micron vs Mu Meter"
+      }
+    ],
+    "newConversations": 19,
+    "newPrompts": 102,
+    "newResponses": 103,
+    "updatedConversations": [],
+    "recentContinuationChecks": [
+      {
+        "ordinal": 163,
+        "observedPairs": 4,
+        "archivedPairs": 4,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 560,
+        "observedPairs": 13,
+        "archivedPairs": 13,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 658,
+        "observedPairs": 2,
+        "archivedPairs": 2,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 698,
+        "observedPairs": 3,
+        "archivedPairs": 3,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 701,
+        "observedPairs": 3,
+        "archivedPairs": 3,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 760,
+        "observedPairs": 5,
+        "archivedPairs": 5,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 762,
+        "observedPairs": 1,
+        "archivedPairs": 1,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 763,
+        "observedPairs": 4,
+        "archivedPairs": 4,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 764,
+        "observedPairs": 2,
+        "archivedPairs": 2,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 765,
+        "observedPairs": 5,
+        "archivedPairs": 5,
+        "newPrompts": 0
+      }
+    ],
+    "attachments": [
+      {
+        "title": "tardation re.pdf",
+        "path": "attachments/tardation re.pdf",
+        "pages": 9,
+        "sha256": "129772d5eafa209a28d20983b4ddbb6a0ee2930d3d7c93e404cd033ff002e520"
+      },
+      {
+        "title": "Skip to main contentAccessibility help.pdf",
+        "path": "attachments/Skip to main contentAccessibility help.pdf",
+        "pages": 12,
+        "sha256": "0b3df3ed729ec1fe33a20b81717d3cf4f52f09fbcd167c1d087366ed7c8e77cb"
+      },
+      {
+        "title": "5htp re.pdf",
+        "path": "attachments/5htp re.pdf",
+        "pages": 12,
+        "sha256": "53bf89e789fc236a9d903af44877986ae71c28a5afafed7daaf58e6858220c53"
+      }
+    ],
+    "sourceErrorResponses": [
+      {
+        "conversation": 768,
+        "response": 9,
+        "text": "It looks like there's no response available for this search. Try asking something else."
+      },
+      {
+        "conversation": 768,
+        "response": 10,
+        "text": "It looks like there's no response available for this search. Try asking something else."
+      },
+      {
+        "conversation": 779,
+        "response": 3,
+        "text": "It looks like there's no response available for this search. Try asking something else."
+      }
+    ],
+    "missingSourcePromptTexts": [
+      {
+        "conversation": 772,
+        "response": 3
+      }
+    ],
+    "deduplicatedPromptHeadings": [
+      {
+        "conversation": 768,
+        "duplicateHeadings": 2,
+        "reason": "Two prompts appear both as ordinary text and as shared-tab accessibility headings; identical prompt text retained once, with tab-attachment labels."
+      }
+    ],
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "preservedPriorMedia": true,
+    "graphs": [
+      {
+        "conversation": 766,
+        "response": 1,
+        "alt": "Graph image",
+        "width": 1124,
+        "height": 656,
+        "captureHash": "e690ee4b0ad3e9162be575cd4a1b7ee56b5285000c6c3fef4913cb873a919e15"
+      },
+      {
+        "conversation": 766,
+        "response": 4,
+        "alt": "Graph image",
+        "width": 1232,
+        "height": 763,
+        "captureHash": "97ee2dfd15b714c6f0e0029f2f6b9e77a72bb6235b0c637c7f96c9cd6141f4d4"
+      },
+      {
+        "conversation": 770,
+        "response": 5,
+        "alt": "Graph image",
+        "width": 1360,
+        "height": 659,
+        "captureHash": "7ae7c7d40ef80983c54aeedf10bb19b31f59f75c4c73f21fb5d40cc5e9bd85b3"
+      }
+    ],
+    "referenceImages": [
+      {
+        "conversation": 767,
+        "response": 1,
+        "alt": "Projecten - 3D Maquettes",
+        "width": 180,
+        "height": 148,
+        "captureHash": "6c1f949168c133f5ee18e810a4fcf2621df94ea5c2d3550ea401e5070cb6a382"
+      },
+      {
+        "conversation": 770,
+        "response": 1,
+        "alt": "When a <b>chameleon</b> passes away, its <b>skin</b> can continue to <b>change</b> ...",
+        "width": 494,
+        "height": 618,
+        "captureHash": "0c38204e4fa4ea1dbc96e3020e6197487b75d6cf83f8a18c5707a6335e182eda"
+      },
+      {
+        "conversation": 770,
+        "response": 1,
+        "alt": "Artificial <b>chameleon skin</b> that controls spectral radiation ...",
+        "width": 619,
+        "height": 493,
+        "captureHash": "73be479a0fb6185daaf50963316977a2121d6909455c22f0da6656bb4c10b368"
+      },
+      {
+        "conversation": 770,
+        "response": 1,
+        "alt": "What Do <b>Color</b>-<b>Changing</b> Lizards Have to Do with Nanotechnology ...",
+        "width": 521,
+        "height": 389,
+        "captureHash": "eea3cad55f9dd638e95349be51d81c92c75ea85dfa464502ed498a550f926408"
+      },
+      {
+        "conversation": 770,
+        "response": 1,
+        "alt": "The secret to <b>chameleon color change</b>: Tiny crystals | Science | AAAS",
+        "width": 640,
+        "height": 480,
+        "captureHash": "746e42289c37de796da291f2e0c0d2aafd487a766d7265095c5e0a3bcf9d9465"
+      }
+    ],
+    "unsentDraftExcludedAtInitialCapture": true,
+    "laterSubmittedPokemonReplyCaptured": true,
+    "followupChecks": [
+      {
+        "conversation": 770,
+        "counts": {
+          "prompts": 13,
+          "responses": 13
+        }
+      },
+      {
+        "conversation": 774,
+        "counts": {
+          "prompts": 14,
+          "responses": 14
+        }
+      },
+      {
+        "conversation": 777,
+        "counts": {
+          "prompts": 7,
+          "responses": 7
+        }
+      },
+      {
+        "conversation": 778,
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "conversation": 779,
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      },
+      {
+        "conversation": 780,
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      },
+      {
+        "conversation": 781,
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "conversation": 782,
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      },
+      {
+        "conversation": 784,
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      }
+    ]
   }
 }

@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-10-17",
-  "scopeCount": 765,
-  "capturedCount": 765,
-  "prompts": 3605,
-  "responses": 3605,
-  "mathRendered": 10325,
-  "embeddedImages": 8488,
+  "scopeCount": 784,
+  "capturedCount": 784,
+  "prompts": 3707,
+  "responses": 3708,
+  "mathRendered": 10980,
+  "embeddedImages": 8661,
   "conversations": [
     {
       "ordinal": 1,
@@ -8421,6 +8421,215 @@
       "source": "https://www.google.com/search?q=regie+behang+aanraken+jitske+koenders+sexuoloog+regiebehandelaar+staartje+bunny+playboy+mansion+voor+de+vip+high+facteams+microsoft&sca_esv=2f4e5f7f4d538f07&sxsrf=APpeQntx35Jl5sjMkpa1pupfzokwvUS92A%3A1792213723128&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp2wsvV6_K3w3Wo0nEMktSDxVcYaEsDuni6FLRQluAoFVaqLOviKMqowj8-co7Dste5nN7SV65YEtqFBe42OQ9nqv-I7ho&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwipidCypMCXAxWGhf0HHWmTI00Q2J8OegQIEhAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfDv3BL-LeBDKb1fxKvCRFpIlI-r5Pyc_O_A1RHl2mFcuWPg2ZYPTBdnmddnOejoIZrUouiRX-ySSlpfJk3rKzFps4bSnIOgIM45aBFrWXZwLIqb0kukIG3kFnxmyi9FkfbqPKDYC4sYPZ0gS8lzucQPmImJHi5tjn3EKRH1a6-JlxdkuEanoonRLkDhdO4z22s0yoIlKYmOVhD7sN4oUGWng-CM3dSmIom1RWc0ewsrmJAIA_mLsAF0tiIO6iAb3wT1FKfu9TtEZqyp3pGVjOuC3yz04KoBZD8yuPOLofE8lBNhORdX2FkHf5YQ2CVd9nIhN22nS2uT5Q&csuir=1&mtid=3ALTauiFOfWA9u8P_oGLmQ4&udm=50",
       "recoveredFromSavedUrl": false,
       "pdfPage": 3610
+    },
+    {
+      "ordinal": 766,
+      "title": "Smart City Digital Triggers",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/766-smart-city-digital-triggers.html",
+      "markdown": "conversations/766-smart-city-digital-triggers.md",
+      "source": "https://www.google.com/search?sca_esv=8b817fadbfcf6ab7&sxsrf=APpeQnuM940BmsT_P4YLHXnWDbu4b35vBA%3A1792238563076&vsint=&ntc=1&cs=1&sa=X&ved=0CCsQ2_wOahgKEwiI5_SGicGXAxUAAAAAHQAAAAAQmwE&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCSh9bM3tQzdp2sIovSF42UnFawl_hL4S9jLKySuArsqazwwlnhF1_d9k_qMDMXEPL_XiSLE-A5oIggJ1XbLusiphLH2eZ2pxbPzilH2t-2wUkS3hoOt_BlqykhR3Nk_ZgLxuqM4teL3_tm_NEaer-NtFY1I8u-fxCJCduyqF-pRMvN9BuNXpr-L3R9VLXxH2pYDwke4vDko45ZM_OVe4u8rgHycCzxXK8GxVb-3prGwX2j2XTEzeyjKdsmZ_tigFIhXwYmOxIaeTM&mtid=hAjTavfSGv-8i-gP7q7T0Qo&csuir=1&aep=26&q=fire+and+forget+systems+triggers+and+events+smart+city+blockchain+and+other+digital+triggers",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3616
+    },
+    {
+      "ordinal": 767,
+      "title": "Schaalmodel Architectuur 3D Volumetrisch",
+      "prompts": 8,
+      "responses": 8,
+      "html": "conversations/767-schaalmodel-architectuur-3d-volumetrisch.html",
+      "markdown": "conversations/767-schaalmodel-architectuur-3d-volumetrisch.md",
+      "source": "https://www.google.com/search?q=schaalmodel+architectuur+3D+volumetrisch&sca_esv=1aad5b4ddd582f13&biw=1707&bih=898&sxsrf=APpeQnt5NiLEzlNpi48IiAx8LBRAE1mQ6Q%3A1792216001712&ei=vAvTaovMLo7Ii-gPjInnsAo&uact=5&sclient=gws-wiz-serp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpPIDOr-Lw4-gOWkwYhx_xnBVbrpM-wvE6KJZYqmK4gSbCrwtoKsbTtbRC2igEGtLu0aonqAk9RAtQqwaQ77YVjVIzj_I&aep=10&ntc=1&mstk=AUtExfAr5Q_vXtkjJUq85b-gBy6JEukPs68NFAvlaptPHjuEwLfzAE98j_URgzVEgFtAf_fkaY9aLSNTSzQwmjSe3tiw409fgwj0WTsaJPYr7SRAoLEV8AutlnOfsEbuvNxNsC6A5iFNHJnLz_PNUZ9OAa4CqAaZ4ajk_dVHbdD6u6PVASYikJEmmV0krUJimCAK9iE3IxJTlzcBC-qbB70S-akh-455Npgkd05Ptk3NArWLX5BZCWMPrO5627qvgVAHvHaAliIRDKRt4YdMkP9r5j7mD_9w4JU9tKElRxVNp-IH0IefElSugD_NuFhuqhfKH94xYamp6GtyxA&aioh=3&csuir=1&cs=1&mtid=wgvTaqDAAuGOi-gP78q4mQI&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3626
+    },
+    {
+      "ordinal": 768,
+      "title": "Pornhub Crypto Privacy Coins",
+      "prompts": 16,
+      "responses": 16,
+      "html": "conversations/768-pornhub-crypto-privacy-coins.html",
+      "markdown": "conversations/768-pornhub-crypto-privacy-coins.md",
+      "source": "https://www.google.com/search?q=pornhub+accepts+crypto+privacy+coin&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwOTIzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ0Kuh3jfnRqiKzI7KrGsO-bHLKGXxP60AsAIKmX_LR6dMasLrlp8DT_rL6Uv4vYEVab_VWIvAi8ke1tCyZ05ZS1lANRqqOE730l4IJmhxP3PCN5MZwmG_oTd81G1DyB9raxJJiJjDcLDXQ6fHGyp1zJo5BBZ&aep=10&ntc=1&sxsrf=APpeQntc5wGleePCBwIOSfSaRmvoF6KRJA%3A1792223174538&mstk=AUtExfCNA7hRnhT7qxO04rGggWnLUzamIU0swilMAtNi9C1v0am2tVdo1odhpeTBkV9M4tksBU4HeH-ttXO9kqIrbO89bxZjZr-zBQDO098-cXtRYEDE51aWo9ofaUc8HrHd1cOxrCzpmiZ_j2KglvZ0x7oNI0pKKUFmQjE7xMY2p7IV1p-TEf_vo_W3Dj0PdNqdzUQFaCxmvYCdZrSq_ZJRva-MxA6Du0ZQNU1EAtagKZUzPyy_zvyw8aeMr2EizcRqyw9K9E8aWJWQAfwG_wFPrPPvogeUHqHf7YOWp1c5MLzi4hWWjyMjmJe-PcVKcWtd6NSth02egGbaFw&aioh=3&csuir=1&cs=1&mtid=xyfTaoSGB7WA9u8P2Ke-sA0&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3637
+    },
+    {
+      "ordinal": 769,
+      "title": "Wheel of Fortune Concepts",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/769-wheel-of-fortune-concepts.html",
+      "markdown": "conversations/769-wheel-of-fortune-concepts.md",
+      "source": "https://www.google.com/search?q=spoke+and+hub+wheel+of+fortune+fair+is+use+RAI+corona+IDT+IPD+VR+PROGRAMMING+INTERFACE+CONTROL+PANEL+JUSTICE+METEN&sca_esv=b44813206f2e754d&sxsrf=APpeQnuYxyM5BNZUTc9lepotuLDovFBYxg%3A1792229514452&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz150YHLBZQrC7jm5_C-J-0f2Q2-5NUPD-TCpE8QyvxVIV0d5c2DoZICef8EYwclZhqqmJrRUZ8z7d1hDj_9Tq_QiLlxLxMsVMB5VhxfqU5d76oul39lM2baX3cQg_Fo_24Jhd8N&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwik9sGc38CXAxVxhv0HHTaFFRkQ2J8OegQIExAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfCdWRiY754hDre0xZvcQJU1ANwB0blMmg6jC-CxKMb6iiA157bAIm_Im80DospFBvnk4ekffbnV2SeHQx0uEFY4k8Na4lier7I-pTz4jB9ilfUDvhW3uJQXp4vdLr-kldDbU7B336w35Nsi9RSkb4X9zmQz_D8VbUDh9WEgZWs7Vc24-Uzln-vWvdyMnRz0qMjbhCvEPIt6gk5DZMRfBSEsTHJldtB5riQwmg29N5YVH3u9aAJYfsTUzGH8cjenSsKT2SxFrcVZgvDamsWnsbN5168vIaaU_hQ7xvYHvcQx_lUaTLUF4lLaghiZyLvqacOuvEdbQFq3XQ&csuir=1&mtid=jEDTavKCHKjt7_UP5sf04Qg&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3664
+    },
+    {
+      "ordinal": 770,
+      "title": "Chameleon Skin Color Dyeing",
+      "prompts": 13,
+      "responses": 13,
+      "html": "conversations/770-chameleon-skin-color-dyeing.html",
+      "markdown": "conversations/770-chameleon-skin-color-dyeing.md",
+      "source": "https://www.google.com/search?q=dyeing+changing+color+chameleon+skins&sca_esv=b44813206f2e754d&sxsrf=APpeQntGj0nyRyUD7TvYvX6vtvcbD9GiXQ%3A1792230608353&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UfVcuk_CN5lZ7ooDDWHK2Mvzz3zSAVajbtoCgDcY4ClkqSY2KMHBVEZtzZXhvZhOAYOei-ZwZNbTP-zA17u6NI3tEs6cG6hn81aUxnDhSOjSjwakoJQVHh0SeQ8h1zJd7wJVl3n&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiDkJCm48CXAxU6hP0HHQZiKlYQ2J8OegQIFxAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfBM9AaIxpf9qoAnFmBVYBNr_ZROIXfesPRaB244MjONSpKNOLB7aCU2e58Nxq1owmJZ_Ka-OErp6KilP8TuvEWpBt9ZL24AAAr9c0tqe1shYF8Er1g6UVp8syFC5WVJFaMdhUvPsY8NJLCug94RxlcjVER-TsIqvjbwauNP9FeYycROk8APMiLAE6YQ5CN1TrqxcVKvJIC1lWfdXaqe8SwVadIXOueiC7EvtjYGcdz6ILuKFP3GMBZthunr0wYjUTE9_B7UBiCX_ku8SRe66cCGD6NdRHiWiLJuG47zyR9lqsfmKPQeiCyts8vLXhTNt5AXDF3gnKWRVg&csuir=1&mtid=00TTap6ZB7-A9u8P1eSO-QQ&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3669
+    },
+    {
+      "ordinal": 771,
+      "title": "Retardation Definition",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/771-retardation-definition.html",
+      "markdown": "conversations/771-retardation-definition.md",
+      "source": "https://www.google.com/search?sca_esv=8b817fadbfcf6ab7&sxsrf=APpeQnuM940BmsT_P4YLHXnWDbu4b35vBA%3A1792238563076&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahgKEwiI5_SGicGXAxUAAAAAHQAAAAAQmwE&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfAJ4qt1L_lShBl8iEgAHSshr54ebS4fIU82m0kQoi8CCecarUq_w5oTaYwZGGgqQgw-rouTlWkSg2Xku3LpeA3oHGGN83LCQWInIiLLAYRa-BmIBDTdckFL0VFOTgbWAk8tRTbVsJRZ0rhG8xPcQDEKbuz_7ac2NUsmiIlydrEa42gO4Fd3TWgVUL36ADPZYvSvqyAfpUXpU-vFzavQ8zd_3OOgF44KytBVX9ZGuORsqDC2cxyEYyWjBajhH_4uIe3F8pjgK7CAsoU-uO8S7x-Ca-3Ns0JsGe8ukzrD8fcPP7GfYHo1fQZkGgEzBjneJUU1PWpfI-siBw&mtid=fEjTatLzOJ-Xi-gPvayV-A0&csuir=1&aep=26&q=tardation+re",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3693
+    },
+    {
+      "ordinal": 772,
+      "title": "Time Travel Logic",
+      "prompts": 2,
+      "responses": 3,
+      "html": "conversations/772-time-travel-logic.html",
+      "markdown": "conversations/772-time-travel-logic.md",
+      "source": "https://www.google.com/search?sca_esv=8b817fadbfcf6ab7&sxsrf=APpeQnuM940BmsT_P4YLHXnWDbu4b35vBA%3A1792238563076&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahgKEwiI5_SGicGXAxUAAAAAHQAAAAAQmwE&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCYWMaAzBCO4qf3wC3ZR4kTojrGp4Im7VaL4wyeNmzSZccTv2KznlyLbKZQprrb6IrrGLBV-jptZSttIf3J05PqxwjCSRV8rxyvLs8NT7k2RDMFTPSYySBIokkPXM2t2s_l7Ma-duwrbMsYNhcNcU-z-HTLtJrAwy-SCSswhy6ptT5YPlF7j5W0v6ARsR1HlDhZ-mZHnV91lMYVi7YDc3gq4p5bQN3lpwHkbIhs1yHbbOjWAeyRBrFAUZScpO-3DuzRlI6PbDfY9wqSSPLaDx-Q6EHTQhqL0xN8P2O8D57-LijYFap1glUExXA-yJecrzL4pQ_SCoWo-w&mtid=zknTatW8HemK9u8PlPXp0Ak&csuir=1&aep=26&q=using+pawns+people+in+time+spatiotemporally+chronologically+logica",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3700
+    },
+    {
+      "ordinal": 773,
+      "title": "Glycolipid Biocompatibility and Biochemistry",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/773-glycolipid-biocompatibility-and-biochemistry.html",
+      "markdown": "conversations/773-glycolipid-biocompatibility-and-biochemistry.md",
+      "source": "https://www.google.com/search?sca_esv=8b817fadbfcf6ab7&sxsrf=APpeQnuM940BmsT_P4YLHXnWDbu4b35vBA%3A1792238563076&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwiI5_SGicGXAxUAAAAAHQAAAAAQmwE&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfAiqIH6Kjxr0rXY2cGYIfqhcz8DFtkM4-_gSf9SDo6J5e7LPOnR5LVAM-cGWaTueYVNMyIcv_sFQJQM2uzKKlioWcUBsfYWcFTMww_EgESLfQyQz8QrQFSvpyiuYKsRVX3NAc-2zOJf-l_AyznY-2fWNZIP49f4ZCRsqS4IVfit4ZNFEAkeIm1dHOh8BK2ndSdRRv3164kXmFjM5_Sru-Jeiu7fmMAW6g87Hm03pDH5KW4fFwyoJINw0v6QUsYSswFT5JCZCSJ62eKkqfs_pZeJNGNs2GJjIlDXYzWLfD-JU-k5qb01F8EEO05RcRLuGfUhPAzVyZwXKA&mtid=ik3TatHbNqOM-d8Py4WA4QI&csuir=1&aep=26&q=lipid+bilayer+hydrophobic+flashfreeze+inverse+logarithmic+biomechanical+biochemistry+where+activation+carbohydrate+reacts+with+preparaat+1+%28lipid%29+preperaat+2+carbohydrate",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3704
+    },
+    {
+      "ordinal": 774,
+      "title": "Non-verbal Hyper Attention Clockspeed",
+      "prompts": 14,
+      "responses": 14,
+      "html": "conversations/774-non-verbal-hyper-attention-clockspeed.html",
+      "markdown": "conversations/774-non-verbal-hyper-attention-clockspeed.md",
+      "source": "https://www.google.com/search?q=non-verbal+hyper+attention+%28deficit+is+clockspeed%3F%29&sca_esv=e0bc80531487d1a4&sxsrf=APpeQntFZ-Q45jsPv0mSRni2Ok8fksY_AQ%3A1792232121517&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjoztT36MCXAxU0gf0HHX9lIG4Q2J8OegQIFhAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfB3SEPGdroNHyJeEHOlr2aPwBgAgym9-tnRUx_2jZqzhyRLP-fcUjTtE_wZyjfVaFcIPJEoH18W1uhXYbzjG_EYlP2xn5Hj5WhwCSakXLu9ZXzL6TADm5vPVOIS1sbA8BlFLVu3cr8-R86EeX_9pv4_011mR0JFw10pgWUEg6nV1mXhyZssu-kFqqdVWrayjr2qhDeEWkhhMhAyj5JBkTQ888eX-i92Tu_wGvoYtVLYFZIvb9wJhQHYyCHWxN-z81ifA3AgtH4ec0QqWwg5-c_c83LmPLcItiAi7gAG-rnmHEHswpYVbrhta5brr0jsAl8g69-TKijICZsrWj64aLJcb_Zv_QJnkxpjuXPYBFU-NuCijs9zjfjDBY9iQVq131pQXFmC9wd8&csuir=1&mtid=vUrTao6LE8uA9u8Pv46I-AQ&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3705
+    },
+    {
+      "ordinal": 775,
+      "title": "Micron vs Mu Meter",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/775-micron-vs-mu-meter.html",
+      "markdown": "conversations/775-micron-vs-mu-meter.md",
+      "source": "https://www.google.com/search?sca_esv=8b817fadbfcf6ab7&sxsrf=APpeQnuM940BmsT_P4YLHXnWDbu4b35vBA%3A1792238563076&vsint=&ntc=1&cs=1&sa=X&ved=0CDEQ2_wOahgKEwiI5_SGicGXAxUAAAAAHQAAAAAQjAE&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCZp7QQCN3s75K0vLmgSaY5m0kEufpjDsfyHgIGN-L2oCLNgmsfj4VwJCuMpfBOG9I5hNtURHnx8hj_0tZ10Yolo_8W_WlsvafKPZnQJ1kgbqCG7IKnB466uz4jJy2OXs2rmFP3Y551CvO_WLZyh0pssNB9Q5Jv9NqCliLdivqeQAPwuE8QCrQDVaGQXrdnkldOuHcRQnBw0OARadENDnKP8vI5_jaDIlO0S3pk7g3UQ9NzEcNZOPUCZWg8cUt6q03Ovu4WHYO4s-00Bh7sTzmiMXyBYrAUm1KSHRPNI_3CwzywY8zyNhFnwzI_Rd5XYvGy_lMBv5QgUw&mtid=t1DTatKoDrKMi-gPtsTFqA4&csuir=1&aep=26&q=what+is+larger+a+mu+meter+or+micron",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3733
+    },
+    {
+      "ordinal": 776,
+      "title": "Iodine Neon Brain MRI",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/776-iodine-neon-brain-mri.html",
+      "markdown": "conversations/776-iodine-neon-brain-mri.md",
+      "source": "https://www.google.com/search?sca_esv=8b817fadbfcf6ab7&sxsrf=APpeQnuM940BmsT_P4YLHXnWDbu4b35vBA%3A1792238563076&vsint=&ntc=1&cs=1&sa=X&ved=0CCsQ2_wOahgKEwiI5_SGicGXAxUAAAAAHQAAAAAQjAE&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfDQaNrWjbKQz3fFEQbKm1JZYzeVM4v39EdM3VvYcwr8kduiXLEMMB1jBHv0T8YMYFFd3PCb70ok52-sjVYT0PtwVzqo-cuAGg_GZQYmedN4VfxPJtU7Z4A71FH4l87qTE0bwCe594LEERSYS440-foSWx3cg_7fg0ins7caxTukwmRvsIhjLIqHy5tmePvv0ejKAJ2ZF7gJUp6wK3ASngI0V6HGZdbY3JzEc3Iy54hTUcCWSyAHZ4T94BIYi9-Ys-2ikGmV5vhwt09alAKHvybkztGNugu4WCbHhUMZ4cKYqaT1BxcEs7djvjocjAnMQC_AwXihN8C1pA&mtid=ylHTatrqB_Cci-gP6OSkkAs&csuir=1&aep=26&q=iodine+brain+neon+glow+mri",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3738
+    },
+    {
+      "ordinal": 777,
+      "title": "5-HTP Serotonin Dosage",
+      "prompts": 7,
+      "responses": 7,
+      "html": "conversations/777-5-htp-serotonin-dosage.html",
+      "markdown": "conversations/777-5-htp-serotonin-dosage.md",
+      "source": "https://www.google.com/search?q=5htp+re-uptake+serotonine%3F+in+small+doses&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIwMzc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&aep=10&ntc=1&sxsrf=APpeQnv_HVp_YE_beNuhfea6vJN-qjZUQA%3A1792232530490&mstk=AUtExfA2Mz4DUGSWJ-Z0IgdOJ7drlR3gDr1z8I6awJ7IgOEuhCJJRLrrbfM4A1jm7zuIaLBIoMdPx77um-6uLzzwz4NERwgeTiTwdlIasYqnlyzbQOEVTlhlGjmyxiF9RJia4WSFRQh2-wSGMECS_QLXoN3ehuOhUMkNqYr2vxqogr7o7GTZRkg3i20wA42hiU2TpBO91bAuIEOdFz9M6s5vxTV2Vm3rkMgfWl5nB-oAj6mMaHXp8yKDP4OOLo6JflTmAAJmIE2bneXJuS6yfFrdNKgKpp66k82FYNu75Q3m4t7xadzq_yeVKL1OcLTQjGbTavPVx2yqpybjXg&aioh=3&csuir=1&cs=1&mtid=U0zTaqQygIr27w-k-bHJDw&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3740
+    },
+    {
+      "ordinal": 778,
+      "title": "Architectural Formalization Paradigms",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/778-architectural-formalization-paradigms.html",
+      "markdown": "conversations/778-architectural-formalization-paradigms.md",
+      "source": "https://www.google.com/search?q=wait+I+got+this+paradigm+architectural+formalization&sca_esv=d584134743309490&sxsrf=APpeQnu-8TDTabxTT2U6vuyrpqbSfk66CA%3A1792234622345&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjS-pKg8sCXAxXti_0HHUwcGpAQ2J8OegQIFRAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfBPzQdiVdJwgYK7dEnOOhgimBIMohWkkKNdOd756EUR_NY5fyy3FA3JPenPORh_jiR8_4pFEtbWVdSM3Zl_CqSrsWXAQzlLOgXCltGJ-0XkZGgIbOhYiHZZJv52oD38OYNJuRPJsA8BZHxaLQxFHMYm4TEbGTP1zwg0xY_f0J3h1V5ayr8r00wiPB8Hwa0HMiX_w_bz1c50sn9VYwTfrw6NSwzVbkAO80QQYN3sfKQfJqJUFsShqqBEMVw4qzySGN5C0TmPNSCvhRTyN2QxcpxhtCm5Y0PJXPKS7eHn4PBFlRF_3m4HsGBndb217VzzFWtTbc6oKqzJ4A&csuir=1&mtid=g1TTapSvL9-M9u8P_ZHSwAw&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3749
+    },
+    {
+      "ordinal": 779,
+      "title": "Egg Caviar Cellulose Extraction",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/779-egg-caviar-cellulose-extraction.html",
+      "markdown": "conversations/779-egg-caviar-cellulose-extraction.md",
+      "source": "https://www.google.com/search?q=what+happens+when+you+gewoonXpress+eggs+caviaar+indrukt+cellulose&sca_esv=d584134743309490&sxsrf=APpeQnuXzV6Qnjt94rmDwsb8zjzJp1czSw%3A1792235224604&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLzR4RIindJxFrmQWQ1WCYgKdh4SxzhRaOVvt3n87StoAMoDgDvBnjZ4Njf4yAaLs3QhOmFAyDpw9_i3qcRrE3hq_HfYRuhUIW2IGakVmpMJ6tRNQeh__uTkxGdva2OaNUe00HhT&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiM96m_9MCXAxWF_7sIHcYLJisQ2J8OegQIFhAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfAZdyATe69AldUVCrpXsG8-KOrw5YmR_YQNkSYqHRDhiHAgQM5tEOWelpGO0fI_Tcqf-dWwgRRB5nL8kylS8hqLMY_XE8-bhjZoxnivfszOHN_sGmEaueGB1OB0DaR4gD79v_9rYM1aUooWjCXC0sR2pTS-ccRnC9YAdZbrrR0e6E-vCAbH4uxgsrYRUkrkDclvUjb3Sa0o_Z41MChB6zXMyKkCaHFaZcnyJ_TwRnJ-D7uQxMhvq5j1ivtMX7voT_XPHJFPJWMZ_v4_BzTS_sulj5mJjowJDBqpnYQzkkeXZApfVZw-TrRP51eXpzP32ALVFc4q8sVBuw&csuir=1&mtid=2lbTas3tHIuN9u8PvZC36QM&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3753
+    },
+    {
+      "ordinal": 780,
+      "title": "Dooftstom Oostindisch Doof",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/780-dooftstom-oostindisch-doof.html",
+      "markdown": "conversations/780-dooftstom-oostindisch-doof.md",
+      "source": "https://www.google.com/search?q=dooftstom+oostindisch+doof+mol+horen+zien+zwijgen&sca_esv=d584134743309490&sxsrf=APpeQnslkcXfQvxiq3lEWHRhqko_6dFWJQ%3A1792235525670&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwi51fHO9cCXAxVTiP0HHdJAIJoQ2J8OegQIEhAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfAXGPXQYTJ9GVx2yY9L2_uxS3CEOQlrR64m_tqGnDLyhR7ZDjd9ao1XmH5eXohOeYCyg8mZPGC_1KXlNuWpJf2yxs2gL14ta9x4jjU2ad1HhMSD0Pz5jrCg16uy_2a_m_IV-36tx0_aXM6rkgiSLMxjT18x0ipvdUZHeG0T0D1iqhavOwCg3WMpfQ3znkafk0PFBSASk4EV8XQxx2GmfmAij2XGUmuaKfSjoBVZKskEF2QT6q2ZLMv15rwl7Clu_Dx3RXs5n1iNAlFTkFlVd0iGpQXPmON47Xz4gY8tCneMY-_2Ew4JbEpbGN2OI1j4m5ot6qA2dEjs3A&csuir=1&mtid=CFjTavbfF_zn7_UPm8_9oAY&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3758
+    },
+    {
+      "ordinal": 781,
+      "title": "Hagelslag Flubber Film",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/781-hagelslag-flubber-film.html",
+      "markdown": "conversations/781-hagelslag-flubber-film.md",
+      "source": "https://www.google.com/search?q=flubber+the+blubber+film+hagelslag+krommenie+rosarium+%28atrium%29+albert+heijn+zaandam+ahold+hoofdkantoor+hagelslag+%28pellets+en+slaan%2C+verbrijzelen%29+maar+als+film+promotie+ditto+idempotent+pokemon+go+%28global+offensive%29+cloning+splicen+sequencing+maar+je+kon+soms+een+groene+flubber+the+blubber+in+een+pak+hagelslag+vinden&sca_esv=8b817fadbfcf6ab7&sxsrf=APpeQnu4tL8vHhPKBy_1rpevKAM9wSLhIw%3A1792238272242&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4LpKPoHZrc4HVz9uOAATjT2qg_Rql5gWox94Mqsmjocq_FkbWPI9WEsNrQ5MUDTb8NgwRA8UpUlJfvsOV2-1C7qIubjbFvl_uASLSVSmHD2EO16KNoAAXvey2Dat8xwn-j8LVVE&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjK_Mbs_8CXAxW4h_0HHdzIBHMQ2J8OegQIExAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfCaW9mfpeuPXta3Hf3yOApP8MZTPdXgYVsskg56pgbZBOdQfawY8WImTFCpPzW-csTHDZ4o0AAzvMWe96Sb-_ugYWe17lDKNBU5wqgkv-bbs1HSj5bVt9a9Wg4zAShYdKjQxMLsO0IJsgF_8-YGdNIoDJB3X6oMJ4A44Fofjb9a96jrGB2-nx3vunIyY1DteMHSqdGP-bvjp8XUoiFhxh6ZpNOClybNXuQbx14OgLq-Dtxk1rXyPzkkm3Y_ZXD4uHmCf-NcqM5Fo50f3bnwNjI-bVofgnhjkuyfadhiQkF9-ivEm90lixKvSRLdV9ss9rxYbiA0C2_7ww&csuir=1&mtid=wmLTauDjG4ap9u8PkpTn8Qg&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3762
+    },
+    {
+      "ordinal": 782,
+      "title": "Navalny Novichok Putin Investigation",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/782-navalny-novichok-putin-investigation.html",
+      "markdown": "conversations/782-navalny-novichok-putin-investigation.md",
+      "source": "https://www.google.com/search?q=navalny+novichok+putin%3F+of+put+out%3F&sca_esv=8b817fadbfcf6ab7&sxsrf=APpeQnuM940BmsT_P4YLHXnWDbu4b35vBA%3A1792238563076&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ0Kuh3jfnRqiKzI7KrGsO-bHLKGXxP60AsAIKmX_LR6dMasLrlp8DT_rL6Uv4vYEVab_VWIvAi8ke1tCyZ05ZS1lANRqqOE730l4IJmhxP3PCN5MZwmG_oTd81G1DyB9raxJJiJjDcLDXQ6fHGyp1zJo5BBZ&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjhmp73gMGXAxXj_7sIHS6HO_kQ2J8OegQIFBAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfBqxSy9v7Hhiq_kyE9PmPFYveCSbCyB436eBKdcddskuPrVti0ZMk1va1kBksO5chzT1clzUZbxU45TD2-t6LpzdagIMbY-YQVmVqhcYMIVGpWd-g6g_ie15dXDTPw_kl1KuwR4IQwukzN7wZ9OqF9YDh30c0iQt0_y1nSG_DIFty3OwmlixuLIQ5LGI5X2anPbxF0oFCNzeDOLJsdaNUDoLUSyvWJ4sGlsPdT0A8CPn-zCzvrez1D2cKqjiwNg7zEDvNfZ3Q6ZCo8N-kL9N9l_F1Z6ISZyQn6YjGmLr3lHHRuI4ac-djsYNq4PHb2MwPNxMKErQ4Rdxw&csuir=1&mtid=52PTaryIF5vq7_UP4-f4wAg&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3765
+    },
+    {
+      "ordinal": 783,
+      "title": "Vuilverbranding in de buurt Limmen",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/783-vuilverbranding-in-de-buurt-limmen.html",
+      "markdown": "conversations/783-vuilverbranding-in-de-buurt-limmen.md",
+      "source": "https://www.google.com/search?sca_esv=8b817fadbfcf6ab7&sxsrf=APpeQnuM940BmsT_P4YLHXnWDbu4b35vBA%3A1792238563076&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwiI5_SGicGXAxUAAAAAHQAAAAAQjAE&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfChk4tVefD5OZxX7m-sK-NIL_xLljomoMszMRBC9XkmoaREyfvi0J_UsK0aXZfbS5CE_-Hn61sfheM-KkJIN6IMBkhQkmPCBc3lBzVSqTVDLLsaGHcF2CIDRNxK4IJsW1o6NPMl8FaFlZHjoVJ-PAxQ_X5tZAKhk3wvlW2mBVawrE6P2coWDKv8s_txEL6k7QGpspoFPuomPaUT4rAKuvSoQUa0OUh8TehOj-hwZwxvJfpBnwoetZ6A7ZeReXkmQ_nH0ZbQs4yz56PM_sIf0xnnBTTGDpE0-aT3PwevI4iict9ZqZZi5ipZ-hcXumQyqwwmgigBQp77kQ&mtid=s2jTaqK7Gdu4i-gP_OnD8Q4&csuir=1&aep=26&q=limmen+vuilverbranding+ergens+in+de+buurt+daar+industrieel",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3772
+    },
+    {
+      "ordinal": 784,
+      "title": "Pokemon Gameboy Release Japan",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/784-pokemon-gameboy-release-japan.html",
+      "markdown": "conversations/784-pokemon-gameboy-release-japan.md",
+      "source": "https://www.google.com/search?q=pokemon+gameboy+release+date+japan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTIyOTc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQzcgMAXI6mDl4aLs1WJDXE8SVTb-uBcPPJClt96u4kmaAd0zdegKOGWODv8jfocdFnEGTuEz6lA-7h7f4_weKq95WmR4tcg07ahdPg9_5_YrKfxMf31we5Mi-7aLO--KHfioejVahkepAWphQgxFXuyn4aJ8&aep=10&ntc=1&sxsrf=APpeQnuWF9RnQXCO-J0jVZ2etx3Sxl_nGg%3A1792240896918&mstk=AUtExfAfZNPS3bHd_r4hkICiaKQxUC-UT8c0JDvyrP7g0hihLjEdJyoMIHWK0iWwE39BiZwTuyKibjBtdoil9S2x798tCu6sBZNNSzxm5x9SXlSzvxG6rYyqX907B8Zbh_r4UMZ9o7-BUEu44qhLc5t2IfR40nx5ZqVZtZLVH2TliQyeT5FPWcFdjADGvXJYIeqtwieliNwnu72NG0kYIRT2x72DJqyihBgJDPsCWH3pUKGrJbO6zH6xSwuu1uVDvUgDKo7Bdj2r5clrL7nTV8GjABDkdkqUfthRW3LqlTQoHornr07aSCaxMPHrNYswMk3uumtnZvZDtk0TDatlYG4sMPe4QB0Mmaps4Q&aioh=3&csuir=1&cs=1&udm=50&mtid=AW3Tap_1FseC9u8P3dyYqQk",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3773
     }
   ],
   "missing": [],
@@ -8436,7 +8645,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "The latest 17 October update adds one conversation and five exchanges. Earlier source errors, media gaps, all verified captures, attachments, and the special Captain of industry GTM title are retained.",
+    "note": "Latest update: nineteen conversations, 102 visible prompt texts and 103 responses. Google omits the prompt before response 3 in conversation 772, and displays three no-response messages in conversations 768 and 779. These source gaps are preserved. Three graphs, five reference images and three new original PDF attachments are included. Earlier source gaps, media and Captain of industry GTM remain preserved.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -11272,74 +11481,567 @@
       "unmatchedHistory": [],
       "preservedPriorMedia": true,
       "graphs": []
+    },
+    "october17More5Media": {
+      "openTabs": 227,
+      "historyEntries": 301,
+      "initialVisibleHistoryEntries": 300,
+      "laterHistoryEntries": [
+        {
+          "aria": "Pokemon Gameboy Release Japan, 1 of 300",
+          "threadId": "AW3Tap_1FseC9u8P3dyYqQk",
+          "title": "Pokemon Gameboy Release Japan"
+        },
+        {
+          "aria": "Vuilverbranding in de buurt Limmen, 2 of 300",
+          "threadId": "s2jTaqK7Gdu4i-gP_OnD8Q4",
+          "title": "Vuilverbranding in de buurt Limmen"
+        },
+        {
+          "aria": "Navalny Novichok Putin Investigation, 3 of 300",
+          "threadId": "52PTaryIF5vq7_UP4-f4wAg",
+          "title": "Navalny Novichok Putin Investigation"
+        },
+        {
+          "aria": "Hagelslag Flubber Film, 4 of 300",
+          "threadId": "wmLTauDjG4ap9u8PkpTn8Qg",
+          "title": "Hagelslag Flubber Film"
+        },
+        {
+          "aria": "Dooftstom Oostindisch Doof, 5 of 300",
+          "threadId": "CFjTavbfF_zn7_UPm8_9oAY",
+          "title": "Dooftstom Oostindisch Doof"
+        },
+        {
+          "aria": "Egg Caviar Cellulose Extraction, 6 of 300",
+          "threadId": "2lbTas3tHIuN9u8PvZC36QM",
+          "title": "Egg Caviar Cellulose Extraction"
+        },
+        {
+          "aria": "Architectural Formalization Paradigms, 7 of 300",
+          "threadId": "g1TTapSvL9-M9u8P_ZHSwAw",
+          "title": "Architectural Formalization Paradigms"
+        },
+        {
+          "aria": "5-HTP Serotonin Dosage, 8 of 300",
+          "threadId": "U0zTaqQygIr27w-k-bHJDw",
+          "title": "5-HTP Serotonin Dosage"
+        },
+        {
+          "aria": "Iodine Neon Brain MRI, 9 of 300",
+          "threadId": "ylHTatrqB_Cci-gP6OSkkAs",
+          "title": "Iodine Neon Brain MRI"
+        },
+        {
+          "aria": "Micron vs Mu Meter, 10 of 300",
+          "threadId": "t1DTatKoDrKMi-gPtsTFqA4",
+          "title": "Micron vs Mu Meter"
+        }
+      ],
+      "newConversations": 19,
+      "newPrompts": 102,
+      "newResponses": 103,
+      "updatedConversations": [],
+      "recentContinuationChecks": [
+        {
+          "ordinal": 163,
+          "observedPairs": 4,
+          "archivedPairs": 4,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 560,
+          "observedPairs": 13,
+          "archivedPairs": 13,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 658,
+          "observedPairs": 2,
+          "archivedPairs": 2,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 698,
+          "observedPairs": 3,
+          "archivedPairs": 3,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 701,
+          "observedPairs": 3,
+          "archivedPairs": 3,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 760,
+          "observedPairs": 5,
+          "archivedPairs": 5,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 762,
+          "observedPairs": 1,
+          "archivedPairs": 1,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 763,
+          "observedPairs": 4,
+          "archivedPairs": 4,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 764,
+          "observedPairs": 2,
+          "archivedPairs": 2,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 765,
+          "observedPairs": 5,
+          "archivedPairs": 5,
+          "newPrompts": 0
+        }
+      ],
+      "attachments": [
+        {
+          "title": "tardation re.pdf",
+          "path": "attachments/tardation re.pdf",
+          "pages": 9,
+          "sha256": "129772d5eafa209a28d20983b4ddbb6a0ee2930d3d7c93e404cd033ff002e520"
+        },
+        {
+          "title": "Skip to main contentAccessibility help.pdf",
+          "path": "attachments/Skip to main contentAccessibility help.pdf",
+          "pages": 12,
+          "sha256": "0b3df3ed729ec1fe33a20b81717d3cf4f52f09fbcd167c1d087366ed7c8e77cb"
+        },
+        {
+          "title": "5htp re.pdf",
+          "path": "attachments/5htp re.pdf",
+          "pages": 12,
+          "sha256": "53bf89e789fc236a9d903af44877986ae71c28a5afafed7daaf58e6858220c53"
+        }
+      ],
+      "sourceErrorResponses": [
+        {
+          "conversation": 768,
+          "response": 9,
+          "text": "It looks like there's no response available for this search. Try asking something else."
+        },
+        {
+          "conversation": 768,
+          "response": 10,
+          "text": "It looks like there's no response available for this search. Try asking something else."
+        },
+        {
+          "conversation": 779,
+          "response": 3,
+          "text": "It looks like there's no response available for this search. Try asking something else."
+        }
+      ],
+      "missingSourcePromptTexts": [
+        {
+          "conversation": 772,
+          "response": 3
+        }
+      ],
+      "deduplicatedPromptHeadings": [
+        {
+          "conversation": 768,
+          "duplicateHeadings": 2,
+          "reason": "Two prompts appear both as ordinary text and as shared-tab accessibility headings; identical prompt text retained once, with tab-attachment labels."
+        }
+      ],
+      "unmatchedOpen": [],
+      "unmatchedHistory": [],
+      "preservedPriorMedia": true,
+      "graphs": [
+        {
+          "conversation": 766,
+          "response": 1,
+          "alt": "Graph image",
+          "width": 1124,
+          "height": 656,
+          "captureHash": "e690ee4b0ad3e9162be575cd4a1b7ee56b5285000c6c3fef4913cb873a919e15"
+        },
+        {
+          "conversation": 766,
+          "response": 4,
+          "alt": "Graph image",
+          "width": 1232,
+          "height": 763,
+          "captureHash": "97ee2dfd15b714c6f0e0029f2f6b9e77a72bb6235b0c637c7f96c9cd6141f4d4"
+        },
+        {
+          "conversation": 770,
+          "response": 5,
+          "alt": "Graph image",
+          "width": 1360,
+          "height": 659,
+          "captureHash": "7ae7c7d40ef80983c54aeedf10bb19b31f59f75c4c73f21fb5d40cc5e9bd85b3"
+        }
+      ],
+      "referenceImages": [
+        {
+          "conversation": 767,
+          "response": 1,
+          "alt": "Projecten - 3D Maquettes",
+          "width": 180,
+          "height": 148,
+          "captureHash": "6c1f949168c133f5ee18e810a4fcf2621df94ea5c2d3550ea401e5070cb6a382"
+        },
+        {
+          "conversation": 770,
+          "response": 1,
+          "alt": "When a <b>chameleon</b> passes away, its <b>skin</b> can continue to <b>change</b> ...",
+          "width": 494,
+          "height": 618,
+          "captureHash": "0c38204e4fa4ea1dbc96e3020e6197487b75d6cf83f8a18c5707a6335e182eda"
+        },
+        {
+          "conversation": 770,
+          "response": 1,
+          "alt": "Artificial <b>chameleon skin</b> that controls spectral radiation ...",
+          "width": 619,
+          "height": 493,
+          "captureHash": "73be479a0fb6185daaf50963316977a2121d6909455c22f0da6656bb4c10b368"
+        },
+        {
+          "conversation": 770,
+          "response": 1,
+          "alt": "What Do <b>Color</b>-<b>Changing</b> Lizards Have to Do with Nanotechnology ...",
+          "width": 521,
+          "height": 389,
+          "captureHash": "eea3cad55f9dd638e95349be51d81c92c75ea85dfa464502ed498a550f926408"
+        },
+        {
+          "conversation": 770,
+          "response": 1,
+          "alt": "The secret to <b>chameleon color change</b>: Tiny crystals | Science | AAAS",
+          "width": 640,
+          "height": 480,
+          "captureHash": "746e42289c37de796da291f2e0c0d2aafd487a766d7265095c5e0a3bcf9d9465"
+        }
+      ],
+      "unsentDraftExcludedAtInitialCapture": true,
+      "laterSubmittedPokemonReplyCaptured": true,
+      "followupChecks": [
+        {
+          "conversation": 770,
+          "counts": {
+            "prompts": 13,
+            "responses": 13
+          }
+        },
+        {
+          "conversation": 774,
+          "counts": {
+            "prompts": 14,
+            "responses": 14
+          }
+        },
+        {
+          "conversation": 777,
+          "counts": {
+            "prompts": 7,
+            "responses": 7
+          }
+        },
+        {
+          "conversation": 778,
+          "counts": {
+            "prompts": 3,
+            "responses": 3
+          }
+        },
+        {
+          "conversation": 779,
+          "counts": {
+            "prompts": 5,
+            "responses": 5
+          }
+        },
+        {
+          "conversation": 780,
+          "counts": {
+            "prompts": 5,
+            "responses": 5
+          }
+        },
+        {
+          "conversation": 781,
+          "counts": {
+            "prompts": 2,
+            "responses": 2
+          }
+        },
+        {
+          "conversation": 782,
+          "counts": {
+            "prompts": 5,
+            "responses": 5
+          }
+        },
+        {
+          "conversation": 784,
+          "counts": {
+            "prompts": 3,
+            "responses": 3
+          }
+        }
+      ]
     }
   },
   "latestUpdate": {
-    "at": "2026-10-17T05:26:40.353166+00:00",
+    "at": "2026-10-17T12:47:00.613923+00:00",
     "date": "2026-10-17",
-    "batchId": "2026-10-17-more-4",
-    "openAiModeTabs": 213,
-    "uniqueOpenConversations": 203,
-    "historyConversations": 300,
-    "method": "Compared 213 open AI Mode tabs and all 300 visible history entries. Added Regiebehandelaar Jitske Koenders Bunny (five exchanges). Ten recent/reopened archived conversations matched their saved prompts. No new diagrams or uploaded attachments were visible.",
+    "batchId": "2026-10-17-more-5",
+    "openAiModeTabs": 227,
+    "uniqueOpenConversations": 216,
+    "historyConversations": 301,
+    "method": "Compared 227 open AI Mode tabs, a full 300-entry visible history sweep, and the later Pokemon entry (301 distinct history entries observed). Added 19 conversations with 102 visible prompt texts and 103 responses. Ten recent archived threads were unchanged. Preserved three graphs, five reference images, three new original PDF attachments and one previously archived PDF. Two duplicate prompt headings were collapsed with originals retained. Three Google error responses and one blank source prompt are explicitly documented. An unsent draft was initially excluded; after the user submitted it and requested another update, its prompt and response were captured.",
     "records": [
       {
-        "ordinal": 765,
-        "title": "Regiebehandelaar Jitske Koenders Bunny",
+        "ordinal": 766,
+        "title": "Smart City Digital Triggers",
+        "status": "added",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        }
+      },
+      {
+        "ordinal": 767,
+        "title": "Schaalmodel Architectuur 3D Volumetrisch",
+        "status": "added",
+        "counts": {
+          "prompts": 8,
+          "responses": 8
+        }
+      },
+      {
+        "ordinal": 768,
+        "title": "Pornhub Crypto Privacy Coins",
+        "status": "added",
+        "counts": {
+          "prompts": 16,
+          "responses": 16
+        }
+      },
+      {
+        "ordinal": 769,
+        "title": "Wheel of Fortune Concepts",
+        "status": "added",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 770,
+        "title": "Chameleon Skin Color Dyeing",
+        "status": "added",
+        "counts": {
+          "prompts": 13,
+          "responses": 13
+        }
+      },
+      {
+        "ordinal": 771,
+        "title": "Retardation Definition",
         "status": "added",
         "counts": {
           "prompts": 5,
           "responses": 5
         }
+      },
+      {
+        "ordinal": 772,
+        "title": "Time Travel Logic",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 773,
+        "title": "Glycolipid Biocompatibility and Biochemistry",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 774,
+        "title": "Non-verbal Hyper Attention Clockspeed",
+        "status": "added",
+        "counts": {
+          "prompts": 14,
+          "responses": 14
+        }
+      },
+      {
+        "ordinal": 775,
+        "title": "Micron vs Mu Meter",
+        "status": "added",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 776,
+        "title": "Iodine Neon Brain MRI",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 777,
+        "title": "5-HTP Serotonin Dosage",
+        "status": "added",
+        "counts": {
+          "prompts": 7,
+          "responses": 7
+        }
+      },
+      {
+        "ordinal": 778,
+        "title": "Architectural Formalization Paradigms",
+        "status": "added",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 779,
+        "title": "Egg Caviar Cellulose Extraction",
+        "status": "added",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      },
+      {
+        "ordinal": 780,
+        "title": "Dooftstom Oostindisch Doof",
+        "status": "added",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      },
+      {
+        "ordinal": 781,
+        "title": "Hagelslag Flubber Film",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 782,
+        "title": "Navalny Novichok Putin Investigation",
+        "status": "added",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      },
+      {
+        "ordinal": 783,
+        "title": "Vuilverbranding in de buurt Limmen",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 784,
+        "title": "Pokemon Gameboy Release Japan",
+        "status": "added",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
       }
     ],
     "newOrdinals": [
-      765
-    ]
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778,
+      779,
+      780,
+      781,
+      782,
+      783,
+      784
+    ],
+    "followupRequested": true,
+    "followupCapturedAt": "2026-10-17T12:53:45.658Z"
   },
   "pdf": {
     "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17.pdf",
-    "pages": 3615,
-    "bytes": 164348371,
-    "sha256": "e1c6482b1fe50f966ee429628046461c6fdfbc062a173eb5d166c82dbd6ac9d3",
-    "promptMarkersVerified": 3605,
-    "responseMarkersVerified": 3605,
-    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the newly rendered chapter; rebuilt index, bookmarks and continuous footers.",
+    "pages": 3775,
+    "bytes": 171788083,
+    "sha256": "87755411f5142dfd4993608e26b97332e19830daaf1d50f6ddf1d4e5fd4ccb36",
+    "promptMarkersVerified": 3707,
+    "responseMarkersVerified": 3708,
+    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the nineteen newly rendered chapters; rebuilt index, bookmarks and continuous footers.",
     "volumes": [
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-01.pdf",
-        "bytes": 74902655,
-        "sha256": "63043f08f6cb478be77102befaad009ec737e37fec20850ec107b933e0ba585b",
+        "bytes": 77746292,
+        "sha256": "bac236c33096e01fe67dd2ebbd9f545e888b757b5908c3714fde78a300182234",
         "firstPage": 1,
         "lastPage": 801
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-02.pdf",
-        "bytes": 45687704,
-        "sha256": "f795fa134e90adcc42d81d31ad8114ec9fb341fa60565c8f93ebe14b2a595530",
+        "bytes": 45975248,
+        "sha256": "f389fbe1883a4d26ee645a06362021e11ab2798b6ddf1878188c111d5fdd0445",
         "firstPage": 802,
         "lastPage": 1607
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-03.pdf",
-        "bytes": 61205739,
-        "sha256": "74d5472923bd5c55f13e045e046743206646c4e379a1a2aa1b076744a6e7f0b9",
+        "bytes": 61492054,
+        "sha256": "77305671d183d0669722e9b032a899a9ffd5f503274e99afa891b1ee3210affd",
         "firstPage": 1608,
         "lastPage": 2409
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-04.pdf",
-        "bytes": 52891500,
-        "sha256": "32316d84d2059ee8ee27dc53e1a52dc80530f6e01c6816ef189c13ccaf92d21c",
+        "bytes": 53177457,
+        "sha256": "b1f4c0e6e8f5d60d08cc8dc9fc829fef45c325b25209c48155f79e44a4828342",
         "firstPage": 2410,
         "lastPage": 3210
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-05.pdf",
-        "bytes": 15147429,
-        "sha256": "477d5c29ac1fe30712f8aa83f318bf0e28279f8ad08dfcdf64ef0a4c72266606",
+        "bytes": 21416856,
+        "sha256": "b01310d133b69ffc741e744f4cd4e0ba768bebf8f4757560d24bf8dd59da3a86",
         "firstPage": 3211,
-        "lastPage": 3615
+        "lastPage": 3775
       }
     ]
   }

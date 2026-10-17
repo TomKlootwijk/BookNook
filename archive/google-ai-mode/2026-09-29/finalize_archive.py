@@ -21,7 +21,7 @@ assert prompts==manifest['prompts'],(prompts,manifest['prompts'])
 assert responses==manifest['responses'],(responses,manifest['responses'])
 assert not manifest['issues'],manifest['issues']
 writer=PdfWriter();writer.clone_document_from_reader(reader)
-writer.add_metadata({'/Title':'BookNook - Google AI Mode Conversations & Doodles - '+export_date,'/Author':'BookNook personal archive','/Subject':f"{manifest['capturedCount']} of {manifest['scopeCount']} scoped conversations; {prompts} prompt/response pairs"})
+writer.add_metadata({'/Title':'BookNook - Google AI Mode Conversations & Doodles - '+export_date,'/Author':'BookNook personal archive','/Subject':f"{manifest['capturedCount']} of {manifest['scopeCount']} scoped conversations; {prompts} prompts and {responses} responses"})
 writer.add_outline_item('Archive coverage',0)
 index_page=next(i for i,t in enumerate(texts) if 'Conversation index' in t)
 writer.add_outline_item('Conversation index',index_page)
@@ -97,7 +97,7 @@ if pdf_parts:pdf_links='- Complete PDF in volumes: '+', '.join('[Volume '+str(i+
     +archive_links+
     '- [Capture manifest](archive/google-ai-mode/2026-09-29/manifest.json)\n\n'
     'Coverage: '+str(manifest['capturedCount'])+' of '+str(manifest['scopeCount'])+' conversations in the cumulative archive, '
-    +str(prompts)+' prompt/response pairs. '+str(len(manifest['missing']))+' missing conversations are recorded in the manifest and PDF.\n\n'
+    +str(prompts)+' prompts and '+str(responses)+' responses. '+str(len(manifest['missing']))+' missing conversations are recorded in the manifest and PDF.\n\n'
     +'The PDF and [media status](archive/google-ai-mode/2026-09-29/media-status.json) identify source gaps. '+manifest.get('mediaStatus',{}).get('note','')+'\n', encoding='utf-8')
 
 print(json.dumps({'pdfPages':len(reader.pages),'pdfBytes':pdf.stat().st_size,'verifiedPrompts':prompts,'verifiedResponses':responses,'bookmarks':len(manifest['conversations'])+2,'zipBytes':zip_path.stat().st_size,'chapterPages':starts},indent=2))

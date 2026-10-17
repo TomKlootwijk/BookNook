@@ -1,23 +1,205 @@
 {
-  "at": "2026-10-17T05:26:40.353166+00:00",
+  "at": "2026-10-17T12:47:00.613923+00:00",
   "date": "2026-10-17",
-  "batchId": "2026-10-17-more-4",
-  "openAiModeTabs": 213,
-  "uniqueOpenConversations": 203,
-  "historyConversations": 300,
-  "method": "Compared 213 open AI Mode tabs and all 300 visible history entries. Added Regiebehandelaar Jitske Koenders Bunny (five exchanges). Ten recent/reopened archived conversations matched their saved prompts. No new diagrams or uploaded attachments were visible.",
+  "batchId": "2026-10-17-more-5",
+  "openAiModeTabs": 227,
+  "uniqueOpenConversations": 216,
+  "historyConversations": 301,
+  "method": "Compared 227 open AI Mode tabs, a full 300-entry visible history sweep, and the later Pokemon entry (301 distinct history entries observed). Added 19 conversations with 102 visible prompt texts and 103 responses. Ten recent archived threads were unchanged. Preserved three graphs, five reference images, three new original PDF attachments and one previously archived PDF. Two duplicate prompt headings were collapsed with originals retained. Three Google error responses and one blank source prompt are explicitly documented. An unsent draft was initially excluded; after the user submitted it and requested another update, its prompt and response were captured.",
   "records": [
     {
-      "ordinal": 765,
-      "title": "Regiebehandelaar Jitske Koenders Bunny",
+      "ordinal": 766,
+      "title": "Smart City Digital Triggers",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 767,
+      "title": "Schaalmodel Architectuur 3D Volumetrisch",
+      "status": "added",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 768,
+      "title": "Pornhub Crypto Privacy Coins",
+      "status": "added",
+      "counts": {
+        "prompts": 16,
+        "responses": 16
+      }
+    },
+    {
+      "ordinal": 769,
+      "title": "Wheel of Fortune Concepts",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 770,
+      "title": "Chameleon Skin Color Dyeing",
+      "status": "added",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      }
+    },
+    {
+      "ordinal": 771,
+      "title": "Retardation Definition",
       "status": "added",
       "counts": {
         "prompts": 5,
         "responses": 5
       }
+    },
+    {
+      "ordinal": 772,
+      "title": "Time Travel Logic",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 773,
+      "title": "Glycolipid Biocompatibility and Biochemistry",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 774,
+      "title": "Non-verbal Hyper Attention Clockspeed",
+      "status": "added",
+      "counts": {
+        "prompts": 14,
+        "responses": 14
+      }
+    },
+    {
+      "ordinal": 775,
+      "title": "Micron vs Mu Meter",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 776,
+      "title": "Iodine Neon Brain MRI",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 777,
+      "title": "5-HTP Serotonin Dosage",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 778,
+      "title": "Architectural Formalization Paradigms",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 779,
+      "title": "Egg Caviar Cellulose Extraction",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 780,
+      "title": "Dooftstom Oostindisch Doof",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 781,
+      "title": "Hagelslag Flubber Film",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 782,
+      "title": "Navalny Novichok Putin Investigation",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 783,
+      "title": "Vuilverbranding in de buurt Limmen",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 784,
+      "title": "Pokemon Gameboy Release Japan",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
     }
   ],
   "newOrdinals": [
-    765
-  ]
+    766,
+    767,
+    768,
+    769,
+    770,
+    771,
+    772,
+    773,
+    774,
+    775,
+    776,
+    777,
+    778,
+    779,
+    780,
+    781,
+    782,
+    783,
+    784
+  ],
+  "followupRequested": true,
+  "followupCapturedAt": "2026-10-17T12:53:45.658Z"
 }
