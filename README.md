@@ -8,6 +8,6 @@ Google AI Mode archive updated 2026-10-17.
 - Portable archive volumes (extract all into one directory): [Part 1](output/BookNook-Google-AI-Mode-2026-10-17-part-01.zip), [Part 2](output/BookNook-Google-AI-Mode-2026-10-17-part-02.zip), [Part 3](output/BookNook-Google-AI-Mode-2026-10-17-part-03.zip), [Part 4](output/BookNook-Google-AI-Mode-2026-10-17-part-04.zip), [Part 5](output/BookNook-Google-AI-Mode-2026-10-17-part-05.zip), [Part 6](output/BookNook-Google-AI-Mode-2026-10-17-part-06.zip), [Part 7](output/BookNook-Google-AI-Mode-2026-10-17-part-07.zip).
 - [Capture manifest](archive/google-ai-mode/2026-09-29/manifest.json)
 
-Coverage: 764 of 764 conversations in the cumulative archive, 3600 prompt/response pairs. 0 missing conversations are recorded in the manifest and PDF.
+Coverage: 765 of 765 conversations in the cumulative archive, 3605 prompt/response pairs. 0 missing conversations are recorded in the manifest and PDF.
 
-The PDF and [media status](archive/google-ai-mode/2026-09-29/media-status.json) identify source gaps. The latest 17 October update adds two conversations and six exchanges. Google displayed no response available in conversation 763, response 3; that source message is preserved. Earlier source errors, media gaps, all verified captures, attachments, and the special Captain of industry GTM title are retained.
+The PDF and [media status](archive/google-ai-mode/2026-09-29/media-status.json) identify source gaps. The latest 17 October update adds one conversation and five exchanges. Earlier source errors, media gaps, all verified captures, attachments, and the special Captain of industry GTM title are retained.

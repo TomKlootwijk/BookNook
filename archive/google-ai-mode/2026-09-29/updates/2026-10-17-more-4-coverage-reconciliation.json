@@ -1,0 +1,76 @@
+{
+  "openTabs": 213,
+  "historyEntries": 300,
+  "newConversations": 1,
+  "newPairs": 5,
+  "updatedConversations": [],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 163,
+      "observedPairs": 4,
+      "archivedPairs": 4,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 560,
+      "observedPairs": 13,
+      "archivedPairs": 13,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 698,
+      "observedPairs": 3,
+      "archivedPairs": 3,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 701,
+      "observedPairs": 3,
+      "archivedPairs": 3,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 758,
+      "observedPairs": 2,
+      "archivedPairs": 2,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 759,
+      "observedPairs": 1,
+      "archivedPairs": 1,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 760,
+      "observedPairs": 5,
+      "archivedPairs": 5,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 762,
+      "observedPairs": 1,
+      "archivedPairs": 1,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 763,
+      "observedPairs": 4,
+      "archivedPairs": 4,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 764,
+      "observedPairs": 2,
+      "archivedPairs": 2,
+      "newPrompts": 0
+    }
+  ],
+  "attachments": [],
+  "sourceErrorResponses": [],
+  "blankResponses": [],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "graphs": []
+}

@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-17T05:26:40.353166+00:00",
+  "date": "2026-10-17",
+  "batchId": "2026-10-17-more-4",
+  "openAiModeTabs": 213,
+  "uniqueOpenConversations": 203,
+  "historyConversations": 300,
+  "method": "Compared 213 open AI Mode tabs and all 300 visible history entries. Added Regiebehandelaar Jitske Koenders Bunny (five exchanges). Ten recent/reopened archived conversations matched their saved prompts. No new diagrams or uploaded attachments were visible.",
+  "records": [
+    {
+      "ordinal": 765,
+      "title": "Regiebehandelaar Jitske Koenders Bunny",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    }
+  ],
+  "newOrdinals": [
+    765
+  ]
+}

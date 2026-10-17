@@ -1,33 +1,23 @@
 {
-  "at": "2026-10-17T04:48:37.258370+00:00",
+  "at": "2026-10-17T05:26:40.353166+00:00",
   "date": "2026-10-17",
-  "batchId": "2026-10-17-more-3",
-  "openAiModeTabs": 211,
+  "batchId": "2026-10-17-more-4",
+  "openAiModeTabs": 213,
   "uniqueOpenConversations": 203,
   "historyConversations": 300,
-  "method": "Compared 211 open AI Mode tabs and all 300 visible history entries. Added Jeff Dunham Achmed the Dead and Poker Tells High Stakes (six exchanges). Ten recent/reopened archived conversations matched their saved prompts. Google displayed no response available in conversation 763, response 3; the original message is preserved. No new diagrams or uploaded attachments were visible.",
+  "method": "Compared 213 open AI Mode tabs and all 300 visible history entries. Added Regiebehandelaar Jitske Koenders Bunny (five exchanges). Ten recent/reopened archived conversations matched their saved prompts. No new diagrams or uploaded attachments were visible.",
   "records": [
     {
-      "ordinal": 763,
-      "title": "Jeff Dunham Achmed the Dead",
+      "ordinal": 765,
+      "title": "Regiebehandelaar Jitske Koenders Bunny",
       "status": "added",
       "counts": {
-        "prompts": 4,
-        "responses": 4
-      }
-    },
-    {
-      "ordinal": 764,
-      "title": "Poker Tells High Stakes",
-      "status": "added",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
+        "prompts": 5,
+        "responses": 5
       }
     }
   ],
   "newOrdinals": [
-    763,
-    764
+    765
   ]
 }

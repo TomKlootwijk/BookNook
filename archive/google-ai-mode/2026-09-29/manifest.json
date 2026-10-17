@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-10-17",
-  "scopeCount": 764,
-  "capturedCount": 764,
-  "prompts": 3600,
-  "responses": 3600,
+  "scopeCount": 765,
+  "capturedCount": 765,
+  "prompts": 3605,
+  "responses": 3605,
   "mathRendered": 10325,
-  "embeddedImages": 8473,
+  "embeddedImages": 8488,
   "conversations": [
     {
       "ordinal": 1,
@@ -8410,6 +8410,17 @@
       "source": "https://www.google.com/search?q=poker+high+stakes+TELLS+physiological+and+face+expressions+and+manureisms+and+schisms+and+personality+traits&sca_esv=c3317ccdb9da3ca9&sxsrf=APpeQnuu1zL2gBmGsEG3e9qSIgDdiaZx7A%3A1792211981920&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwi-l630ncCXAxV4gv0HHamnHdgQ2J8OegQIFBAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfDBLNRvzDqjIAZ36NZz76biOueUooDCaZAZGbVNJLqNRfj7M0HAFRVvWfam6RWmTZ5o9FESLwU7ke1IHSQX1kDOwYjaf37DOzF6tX_clDN4WloZ9TZskKYGkvTDlwquqKknLzPSyuyVpAen4Ha_JlvUPpERIXR_MhSFnl6j6cQUReoqI8f6cxRY_EEIEFN6K5x__GlGX2wnlH47go8aaXdkLG3vkjcrdhhHKGN9dA3WtRKxgiKN6emxMhKg-RaQTuVZgB5rZBZf9iNK07-PrLOiZ7WonIUhbG3y_T_hWvv73kMpmEKOExiknaKggNkhB-1InD7x2_LT5w&csuir=1&mtid=E_zSarf4IIqP9u8PyKz68A0&udm=50",
       "recoveredFromSavedUrl": false,
       "pdfPage": 3604
+    },
+    {
+      "ordinal": 765,
+      "title": "Regiebehandelaar Jitske Koenders Bunny",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/765-regiebehandelaar-jitske-koenders-bunny.html",
+      "markdown": "conversations/765-regiebehandelaar-jitske-koenders-bunny.md",
+      "source": "https://www.google.com/search?q=regie+behang+aanraken+jitske+koenders+sexuoloog+regiebehandelaar+staartje+bunny+playboy+mansion+voor+de+vip+high+facteams+microsoft&sca_esv=2f4e5f7f4d538f07&sxsrf=APpeQntx35Jl5sjMkpa1pupfzokwvUS92A%3A1792213723128&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp2wsvV6_K3w3Wo0nEMktSDxVcYaEsDuni6FLRQluAoFVaqLOviKMqowj8-co7Dste5nN7SV65YEtqFBe42OQ9nqv-I7ho&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwipidCypMCXAxWGhf0HHWmTI00Q2J8OegQIEhAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfDv3BL-LeBDKb1fxKvCRFpIlI-r5Pyc_O_A1RHl2mFcuWPg2ZYPTBdnmddnOejoIZrUouiRX-ySSlpfJk3rKzFps4bSnIOgIM45aBFrWXZwLIqb0kukIG3kFnxmyi9FkfbqPKDYC4sYPZ0gS8lzucQPmImJHi5tjn3EKRH1a6-JlxdkuEanoonRLkDhdO4z22s0yoIlKYmOVhD7sN4oUGWng-CM3dSmIom1RWc0ewsrmJAIA_mLsAF0tiIO6iAb3wT1FKfu9TtEZqyp3pGVjOuC3yz04KoBZD8yuPOLofE8lBNhORdX2FkHf5YQ2CVd9nIhN22nS2uT5Q&csuir=1&mtid=3ALTauiFOfWA9u8P_oGLmQ4&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3610
     }
   ],
   "missing": [],
@@ -8425,7 +8436,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "The latest 17 October update adds two conversations and six exchanges. Google displayed no response available in conversation 763, response 3; that source message is preserved. Earlier source errors, media gaps, all verified captures, attachments, and the special Captain of industry GTM title are retained.",
+    "note": "The latest 17 October update adds one conversation and five exchanges. Earlier source errors, media gaps, all verified captures, attachments, and the special Captain of industry GTM title are retained.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -11185,84 +11196,150 @@
       "unmatchedHistory": [],
       "preservedPriorMedia": true,
       "graphs": []
+    },
+    "october17More4Media": {
+      "openTabs": 213,
+      "historyEntries": 300,
+      "newConversations": 1,
+      "newPairs": 5,
+      "updatedConversations": [],
+      "recentContinuationChecks": [
+        {
+          "ordinal": 163,
+          "observedPairs": 4,
+          "archivedPairs": 4,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 560,
+          "observedPairs": 13,
+          "archivedPairs": 13,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 698,
+          "observedPairs": 3,
+          "archivedPairs": 3,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 701,
+          "observedPairs": 3,
+          "archivedPairs": 3,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 758,
+          "observedPairs": 2,
+          "archivedPairs": 2,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 759,
+          "observedPairs": 1,
+          "archivedPairs": 1,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 760,
+          "observedPairs": 5,
+          "archivedPairs": 5,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 762,
+          "observedPairs": 1,
+          "archivedPairs": 1,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 763,
+          "observedPairs": 4,
+          "archivedPairs": 4,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 764,
+          "observedPairs": 2,
+          "archivedPairs": 2,
+          "newPrompts": 0
+        }
+      ],
+      "attachments": [],
+      "sourceErrorResponses": [],
+      "blankResponses": [],
+      "unmatchedOpen": [],
+      "unmatchedHistory": [],
+      "preservedPriorMedia": true,
+      "graphs": []
     }
   },
   "latestUpdate": {
-    "at": "2026-10-17T04:48:37.258370+00:00",
+    "at": "2026-10-17T05:26:40.353166+00:00",
     "date": "2026-10-17",
-    "batchId": "2026-10-17-more-3",
-    "openAiModeTabs": 211,
+    "batchId": "2026-10-17-more-4",
+    "openAiModeTabs": 213,
     "uniqueOpenConversations": 203,
     "historyConversations": 300,
-    "method": "Compared 211 open AI Mode tabs and all 300 visible history entries. Added Jeff Dunham Achmed the Dead and Poker Tells High Stakes (six exchanges). Ten recent/reopened archived conversations matched their saved prompts. Google displayed no response available in conversation 763, response 3; the original message is preserved. No new diagrams or uploaded attachments were visible.",
+    "method": "Compared 213 open AI Mode tabs and all 300 visible history entries. Added Regiebehandelaar Jitske Koenders Bunny (five exchanges). Ten recent/reopened archived conversations matched their saved prompts. No new diagrams or uploaded attachments were visible.",
     "records": [
       {
-        "ordinal": 763,
-        "title": "Jeff Dunham Achmed the Dead",
+        "ordinal": 765,
+        "title": "Regiebehandelaar Jitske Koenders Bunny",
         "status": "added",
         "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 764,
-        "title": "Poker Tells High Stakes",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
+          "prompts": 5,
+          "responses": 5
         }
       }
     ],
     "newOrdinals": [
-      763,
-      764
+      765
     ]
   },
   "pdf": {
     "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17.pdf",
-    "pages": 3609,
-    "bytes": 162396866,
-    "sha256": "9bc196691ecefb3906a1edce55586348c4466fd09cd2e3f81e490aadb25b0b8f",
-    "promptMarkersVerified": 3600,
-    "responseMarkersVerified": 3600,
-    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the two newly rendered chapters; rebuilt index, bookmarks and continuous footers.",
+    "pages": 3615,
+    "bytes": 164348371,
+    "sha256": "e1c6482b1fe50f966ee429628046461c6fdfbc062a173eb5d166c82dbd6ac9d3",
+    "promptMarkersVerified": 3605,
+    "responseMarkersVerified": 3605,
+    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the newly rendered chapter; rebuilt index, bookmarks and continuous footers.",
     "volumes": [
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-01.pdf",
-        "bytes": 74246270,
-        "sha256": "37d750455baed212430c5675c39b5d85cc2bab51e905b086d4319aa0c198e4f8",
+        "bytes": 74902655,
+        "sha256": "63043f08f6cb478be77102befaad009ec737e37fec20850ec107b933e0ba585b",
         "firstPage": 1,
         "lastPage": 801
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-02.pdf",
-        "bytes": 45400160,
-        "sha256": "c7ff9da0cec530b956d57423afa2862dc944bcf02cd8789a24b1c91145ee69d0",
+        "bytes": 45687704,
+        "sha256": "f795fa134e90adcc42d81d31ad8114ec9fb341fa60565c8f93ebe14b2a595530",
         "firstPage": 802,
         "lastPage": 1607
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-03.pdf",
-        "bytes": 60919425,
-        "sha256": "dbe0d3dd40913171ef37704137777a8e312eb76b69b0bdb9224c3bf7ab7f494d",
+        "bytes": 61205739,
+        "sha256": "74d5472923bd5c55f13e045e046743206646c4e379a1a2aa1b076744a6e7f0b9",
         "firstPage": 1608,
         "lastPage": 2409
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-04.pdf",
-        "bytes": 52605543,
-        "sha256": "c3cfcd1508a1a479f79ab652f9ad693745f0cf1a889964388dd55de789805e9c",
+        "bytes": 52891500,
+        "sha256": "32316d84d2059ee8ee27dc53e1a52dc80530f6e01c6816ef189c13ccaf92d21c",
         "firstPage": 2410,
         "lastPage": 3210
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-05.pdf",
-        "bytes": 14349205,
-        "sha256": "d42f0e564dfa916c8d433da709f654a904b33ad8f7eabdb6f112e0c3b02c1d05",
+        "bytes": 15147429,
+        "sha256": "477d5c29ac1fe30712f8aa83f318bf0e28279f8ad08dfcdf64ef0a4c72266606",
         "firstPage": 3211,
-        "lastPage": 3609
+        "lastPage": 3615
       }
     ]
   }
