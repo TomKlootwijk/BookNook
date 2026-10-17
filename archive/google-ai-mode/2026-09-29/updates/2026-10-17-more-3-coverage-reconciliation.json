@@ -1,0 +1,82 @@
+{
+  "openTabs": 211,
+  "historyEntries": 300,
+  "newConversations": 2,
+  "newPairs": 6,
+  "updatedConversations": [],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 163,
+      "observedPairs": 4,
+      "archivedPairs": 4,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 560,
+      "observedPairs": 13,
+      "archivedPairs": 13,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 658,
+      "observedPairs": 2,
+      "archivedPairs": 2,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 698,
+      "observedPairs": 3,
+      "archivedPairs": 3,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 701,
+      "observedPairs": 3,
+      "archivedPairs": 3,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 751,
+      "observedPairs": 18,
+      "archivedPairs": 18,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 758,
+      "observedPairs": 2,
+      "archivedPairs": 2,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 760,
+      "observedPairs": 5,
+      "archivedPairs": 5,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 761,
+      "observedPairs": 1,
+      "archivedPairs": 1,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 762,
+      "observedPairs": 1,
+      "archivedPairs": 1,
+      "newPrompts": 0
+    }
+  ],
+  "attachments": [],
+  "sourceErrorResponses": [
+    {
+      "conversation": 763,
+      "response": 3,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+    }
+  ],
+  "blankResponses": [],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "graphs": []
+}

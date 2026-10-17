@@ -1,45 +1,33 @@
 {
-  "at": "2026-10-17T04:00:07.436034+00:00",
+  "at": "2026-10-17T04:48:37.258370+00:00",
   "date": "2026-10-17",
-  "batchId": "2026-10-17-more-2",
-  "openAiModeTabs": 210,
-  "uniqueOpenConversations": 200,
+  "batchId": "2026-10-17-more-3",
+  "openAiModeTabs": 211,
+  "uniqueOpenConversations": 203,
   "historyConversations": 300,
-  "method": "Compared 210 open AI Mode tabs and all 300 visible history entries. Added Soberist Dan Brown Inferno and one continuation to Ragnarok Pre-renewal And Half-life (two new exchanges). Rechecked 9 other recent/reopened conversations; their prompts match the archived copies. All previous source captures and media remain preserved. A later user-requested special addition was captured from the newly opened Philips conversation and archived under the requested title Captain of industry GTM. Twenty latest history entries were rechecked; original Google title and capture provenance are retained.",
+  "method": "Compared 211 open AI Mode tabs and all 300 visible history entries. Added Jeff Dunham Achmed the Dead and Poker Tells High Stakes (six exchanges). Ten recent/reopened archived conversations matched their saved prompts. Google displayed no response available in conversation 763, response 3; the original message is preserved. No new diagrams or uploaded attachments were visible.",
   "records": [
     {
-      "ordinal": 760,
-      "title": "Ragnarok Pre-renewal And Half-life",
-      "status": "updated",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      },
-      "newPairs": 1
-    },
-    {
-      "ordinal": 761,
-      "title": "Soberist Dan Brown Inferno",
+      "ordinal": 763,
+      "title": "Jeff Dunham Achmed the Dead",
       "status": "added",
       "counts": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "newPairs": 1
+        "prompts": 4,
+        "responses": 4
+      }
     },
     {
-      "ordinal": 762,
-      "title": "Captain of industry GTM",
+      "ordinal": 764,
+      "title": "Poker Tells High Stakes",
       "status": "added",
       "counts": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "newPairs": 1
+        "prompts": 2,
+        "responses": 2
+      }
     }
   ],
   "newOrdinals": [
-    761,
-    762
+    763,
+    764
   ]
 }

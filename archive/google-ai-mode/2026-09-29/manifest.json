@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-10-17",
-  "scopeCount": 762,
-  "capturedCount": 762,
-  "prompts": 3594,
-  "responses": 3594,
+  "scopeCount": 764,
+  "capturedCount": 764,
+  "prompts": 3600,
+  "responses": 3600,
   "mathRendered": 10325,
-  "embeddedImages": 8452,
+  "embeddedImages": 8473,
   "conversations": [
     {
       "ordinal": 1,
@@ -8388,6 +8388,28 @@
       "source": "https://www.google.com/search?q=corona+virus+rond+dezelfde+tijd+dat+het+uitbrak+ging+royal+phillips+over+op+biometrische+smart+data+producten&sca_esv=c3317ccdb9da3ca9&sxsrf=APpeQnsNhNNwmENACNU3ZxR3xfMunfvc-w%3A1792209309609&udm=50&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ0v47xyHFPGZ_Txw2Q9uMRA_BxLp1tNHLXR6djHGi36aA82ySGHCccKhXm-9lAsXJRIQVbB4d3ua7gGXN3fbD5i6DD-NFI_7rOJk4Qxq7ATHGRVQxjc3dKVNVvUlgtioiiysF4o&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwizoIz6k8CXAxVQgv0HHbxkNwYQ2J8OegQIEhAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfA0JWCZeH0oyclCBOEoFFZs8WpXPe738dnO0aOrf0_Oefcf5dJxh8MRKT0nZjvvxUTZvK4n-40-QRMEhHAkEqNfzkJeueBYctywq8OxzWh6PPpvvifOP0TnwO2CI8Q86s3LuW_XoEk9zPARscki4prZSFvfHgFNpovPImnpCIzYcFSu_tzb3iMTPP96p4n-qhx6I0DTxuB59x0O2u9P48rQwkFRIDaEEAZ2WSe-x0mKSpKC4cPbyLuIVHpBVpMtN2IjTwhZn-utWPr1l4sD01l-VHh8N0c0V6bvekzlgQQJTG-m7iCLsKldRivetbdrwFu-6c4v2RPWbQ&csuir=1&mtid=n_HSaojlEqWC9u8P7-zgkAI",
       "recoveredFromSavedUrl": false,
       "pdfPage": 3598
+    },
+    {
+      "ordinal": 763,
+      "title": "Jeff Dunham Achmed the Dead",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/763-jeff-dunham-achmed-the-dead.html",
+      "markdown": "conversations/763-jeff-dunham-achmed-the-dead.md",
+      "source": "https://www.google.com/search?q=jeff+dunham+achmed+the+dead+terrorist+ventriloquist+vocoder+PLN+INR+%28ruimtevaart+VR+interface+ASA+%28na+SA%29%29+larynx+lab+O+rand+T+aan&sca_esv=c3317ccdb9da3ca9&sxsrf=APpeQns7CFadzhUKyoAeIxuDDd3KNF5k5A%3A1792211090978&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwi-ssLLmsCXAxUMhv0HHcJIOxkQ2J8OegQIFhAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfAK9mGeVUYCoXoeTUkVsTC9emn84GTQmNrHZb3FPAplE4Dcg0gmKfxUioRwP_G4gTi1xtd0QBsa4sTDNUirhrox_8Z6zhDzww1MoW40BY72bku6jzs3oFZjFbS0dfgwxN4wVHlGxgIbrOCFNl1Atvw-iyMc0CIf85hrYskuvOuzJe2_gqnF0FlFFmTGjryBPBjpYzKXUBqTB3d1OAfSvZ7zU1EQxGTM-_kmMK-BFg75U6Z4X_fn5ff-AcW1vTNM9AdY7svAYfGTc6d-S3CVLl_h1facyvwqJz1TpmPckF2veGIbmBqS3QCdY8YECFItlhytU2jlyoxCWQ&csuir=1&mtid=0vjSas_-Nr3qi-gP4p_S4AI&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3600
+    },
+    {
+      "ordinal": 764,
+      "title": "Poker Tells High Stakes",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/764-poker-tells-high-stakes.html",
+      "markdown": "conversations/764-poker-tells-high-stakes.md",
+      "source": "https://www.google.com/search?q=poker+high+stakes+TELLS+physiological+and+face+expressions+and+manureisms+and+schisms+and+personality+traits&sca_esv=c3317ccdb9da3ca9&sxsrf=APpeQnuu1zL2gBmGsEG3e9qSIgDdiaZx7A%3A1792211981920&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzxI1gxDxLun-GtPKavu3kE6dTvtimD_9oi6BCfI-FjR-rw06fcxybvUkzqLTFjSuewStPl7szXa9TwDoW1yJuhw9NArqerVonRndf0c2SnTHfxwIXDcyqObE2ciSHvgjfwe4DZ&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwi-l630ncCXAxV4gv0HHamnHdgQ2J8OegQIFBAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfDBLNRvzDqjIAZ36NZz76biOueUooDCaZAZGbVNJLqNRfj7M0HAFRVvWfam6RWmTZ5o9FESLwU7ke1IHSQX1kDOwYjaf37DOzF6tX_clDN4WloZ9TZskKYGkvTDlwquqKknLzPSyuyVpAen4Ha_JlvUPpERIXR_MhSFnl6j6cQUReoqI8f6cxRY_EEIEFN6K5x__GlGX2wnlH47go8aaXdkLG3vkjcrdhhHKGN9dA3WtRKxgiKN6emxMhKg-RaQTuVZgB5rZBZf9iNK07-PrLOiZ7WonIUhbG3y_T_hWvv73kMpmEKOExiknaKggNkhB-1InD7x2_LT5w&csuir=1&mtid=E_zSarf4IIqP9u8PyKz68A0&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3604
     }
   ],
   "missing": [],
@@ -8403,7 +8425,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "The latest 17 October update adds two new conversations and one continuation (three exchanges), including the user-titled Captain of industry GTM. Previous source errors and media gaps remain documented; all previously verified captures and media are retained.",
+    "note": "The latest 17 October update adds two conversations and six exchanges. Google displayed no response available in conversation 763, response 3; that source message is preserved. Earlier source errors, media gaps, all verified captures, attachments, and the special Captain of industry GTM title are retained.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -11081,96 +11103,166 @@
         "originalGoogleTitle": "Philips Smart Biometrics Data",
         "historyFollowupEntries": 20
       }
+    },
+    "october17More3Media": {
+      "openTabs": 211,
+      "historyEntries": 300,
+      "newConversations": 2,
+      "newPairs": 6,
+      "updatedConversations": [],
+      "recentContinuationChecks": [
+        {
+          "ordinal": 163,
+          "observedPairs": 4,
+          "archivedPairs": 4,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 560,
+          "observedPairs": 13,
+          "archivedPairs": 13,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 658,
+          "observedPairs": 2,
+          "archivedPairs": 2,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 698,
+          "observedPairs": 3,
+          "archivedPairs": 3,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 701,
+          "observedPairs": 3,
+          "archivedPairs": 3,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 751,
+          "observedPairs": 18,
+          "archivedPairs": 18,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 758,
+          "observedPairs": 2,
+          "archivedPairs": 2,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 760,
+          "observedPairs": 5,
+          "archivedPairs": 5,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 761,
+          "observedPairs": 1,
+          "archivedPairs": 1,
+          "newPrompts": 0
+        },
+        {
+          "ordinal": 762,
+          "observedPairs": 1,
+          "archivedPairs": 1,
+          "newPrompts": 0
+        }
+      ],
+      "attachments": [],
+      "sourceErrorResponses": [
+        {
+          "conversation": 763,
+          "response": 3,
+          "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+        }
+      ],
+      "blankResponses": [],
+      "unmatchedOpen": [],
+      "unmatchedHistory": [],
+      "preservedPriorMedia": true,
+      "graphs": []
     }
   },
   "latestUpdate": {
-    "at": "2026-10-17T04:00:07.436034+00:00",
+    "at": "2026-10-17T04:48:37.258370+00:00",
     "date": "2026-10-17",
-    "batchId": "2026-10-17-more-2",
-    "openAiModeTabs": 210,
-    "uniqueOpenConversations": 200,
+    "batchId": "2026-10-17-more-3",
+    "openAiModeTabs": 211,
+    "uniqueOpenConversations": 203,
     "historyConversations": 300,
-    "method": "Compared 210 open AI Mode tabs and all 300 visible history entries. Added Soberist Dan Brown Inferno and one continuation to Ragnarok Pre-renewal And Half-life (two new exchanges). Rechecked 9 other recent/reopened conversations; their prompts match the archived copies. All previous source captures and media remain preserved. A later user-requested special addition was captured from the newly opened Philips conversation and archived under the requested title Captain of industry GTM. Twenty latest history entries were rechecked; original Google title and capture provenance are retained.",
+    "method": "Compared 211 open AI Mode tabs and all 300 visible history entries. Added Jeff Dunham Achmed the Dead and Poker Tells High Stakes (six exchanges). Ten recent/reopened archived conversations matched their saved prompts. Google displayed no response available in conversation 763, response 3; the original message is preserved. No new diagrams or uploaded attachments were visible.",
     "records": [
       {
-        "ordinal": 760,
-        "title": "Ragnarok Pre-renewal And Half-life",
-        "status": "updated",
-        "counts": {
-          "prompts": 5,
-          "responses": 5
-        },
-        "newPairs": 1
-      },
-      {
-        "ordinal": 761,
-        "title": "Soberist Dan Brown Inferno",
+        "ordinal": 763,
+        "title": "Jeff Dunham Achmed the Dead",
         "status": "added",
         "counts": {
-          "prompts": 1,
-          "responses": 1
-        },
-        "newPairs": 1
+          "prompts": 4,
+          "responses": 4
+        }
       },
       {
-        "ordinal": 762,
-        "title": "Captain of industry GTM",
+        "ordinal": 764,
+        "title": "Poker Tells High Stakes",
         "status": "added",
         "counts": {
-          "prompts": 1,
-          "responses": 1
-        },
-        "newPairs": 1
+          "prompts": 2,
+          "responses": 2
+        }
       }
     ],
     "newOrdinals": [
-      761,
-      762
+      763,
+      764
     ]
   },
   "pdf": {
     "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17.pdf",
-    "pages": 3599,
-    "bytes": 160565027,
-    "sha256": "43972c85ec93c0562711ecfb751fcc91cd3743246659ed1d4462531e64aaf363",
-    "promptMarkersVerified": 3594,
-    "responseMarkersVerified": 3594,
-    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the three newly rendered chapters; rebuilt index, bookmarks and continuous footers.",
+    "pages": 3609,
+    "bytes": 162396866,
+    "sha256": "9bc196691ecefb3906a1edce55586348c4466fd09cd2e3f81e490aadb25b0b8f",
+    "promptMarkersVerified": 3600,
+    "responseMarkersVerified": 3600,
+    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the two newly rendered chapters; rebuilt index, bookmarks and continuous footers.",
     "volumes": [
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-01.pdf",
-        "bytes": 73322258,
-        "sha256": "25e56f8d9715d0c53434460ffa8472a475932e41544e484b1c56347ffc16ae14",
+        "bytes": 74246270,
+        "sha256": "37d750455baed212430c5675c39b5d85cc2bab51e905b086d4319aa0c198e4f8",
         "firstPage": 1,
         "lastPage": 801
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-02.pdf",
-        "bytes": 45112595,
-        "sha256": "366ac4df0b0944f48ccf2be55f86e4810ee7c1ddfe36270bc0c181dc38bb9f82",
+        "bytes": 45400160,
+        "sha256": "c7ff9da0cec530b956d57423afa2862dc944bcf02cd8789a24b1c91145ee69d0",
         "firstPage": 802,
         "lastPage": 1607
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-03.pdf",
-        "bytes": 60633110,
-        "sha256": "b4dd0e288d38bf5f656c5919ce473527b70bd82b74da821b1da01d2af88e2a08",
+        "bytes": 60919425,
+        "sha256": "dbe0d3dd40913171ef37704137777a8e312eb76b69b0bdb9224c3bf7ab7f494d",
         "firstPage": 1608,
         "lastPage": 2409
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-04.pdf",
-        "bytes": 52319586,
-        "sha256": "d8aabce297840198f284bd8199c93524fe8935e4acc4cfe0e1a92c976bea726f",
+        "bytes": 52605543,
+        "sha256": "c3cfcd1508a1a479f79ab652f9ad693745f0cf1a889964388dd55de789805e9c",
         "firstPage": 2410,
         "lastPage": 3210
       },
       {
         "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-17-volume-05.pdf",
-        "bytes": 13669750,
-        "sha256": "ff33f668c5c676dd5b3c2a55b999665d3e41ae8a30530856a357542675f5985e",
+        "bytes": 14349205,
+        "sha256": "d42f0e564dfa916c8d433da709f654a904b33ad8f7eabdb6f112e0c3b02c1d05",
         "firstPage": 3211,
-        "lastPage": 3599
+        "lastPage": 3609
       }
     ]
   }

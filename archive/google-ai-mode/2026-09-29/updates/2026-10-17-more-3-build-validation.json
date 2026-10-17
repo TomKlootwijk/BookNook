@@ -1,0 +1,11 @@
+{
+  "conversations": 764,
+  "pairs": 3600,
+  "conversionIssues": 0,
+  "unchangedEarlierChapters": 762,
+  "addedChapters": [
+    763,
+    764
+  ],
+  "incrementalBuildUsesCanonicalConverter": true
+}
