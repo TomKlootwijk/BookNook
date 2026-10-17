@@ -26,8 +26,9 @@ latest_update = json.loads((ROOT / 'latest-update.json').read_text(encoding='utf
 bundled_assets = json.loads((ROOT / 'bundled-assets.json').read_text(encoding='utf-8')) if (ROOT / 'bundled-assets.json').exists() else {}
 export_date = (latest_update or {}).get('date', (latest_update or {}).get('at', '2026-09-29')[:10])
 date_label = date.fromisoformat(export_date).strftime('%d %B %Y').lstrip('0')
-records = sorted([json.loads(p.read_text(encoding='utf-8')) for p in (ROOT / 'raw').glob('*.json') if p.stem.isdigit()], key=lambda d: d['ordinal'])
-captured = {d['ordinal'] for d in records}
+raw_paths = sorted((p for p in (ROOT / 'raw').glob('*.json') if p.stem.isdigit()), key=lambda p: int(p.stem))
+records = []
+captured = {int(p.stem) for p in raw_paths}
 update_status = {r['ordinal']: r for r in (latest_update or {}).get('records', [])}
 missing = [dict(ordinal=i+1, title=t['title'].removesuffix(' - Google Search'), url=t['url'], reason='The conversation could not be loaded for capture.' if i+1 in update_status else 'The original tab was unreadable during the earlier export.') for i,t in enumerate(scope['tabs']) if i+1 not in captured]
 issues = []
@@ -212,7 +213,9 @@ def clean_message(item, ordinal, index):
     return str(soup)
 
 chapters=[]; toc=[]; manifest=[]; all_md=[]
-for d in records:
+for raw_path in raw_paths:
+    d = json.loads(raw_path.read_text(encoding='utf-8'))
+    records.append({'ordinal': d['ordinal'], 'counts': d['counts']})
     n=d['ordinal'];title=d['title'].removesuffix(' - Google Search')
     if len(title)>250:title=title[:220].rsplit(' ',1)[0]+'…'
     slug=re.sub(r'[^a-z0-9]+','-',title.lower()).strip('-')[:80] or 'conversation'
@@ -270,6 +273,10 @@ for d in records:
         # Apply the chapter flag to every source URL so one long citation cannot
         # force Chrome to shrink an otherwise readable chapter when printing.
         chapter=re.sub(r'class="sourceurl"(?! style=)', 'class="sourceurl" style="overflow-wrap:anywhere"', chapter)
+    if any(item.get('wrapLongNumbers') for item in d['items']):
+        # Printed integers may contain thousands of unbroken digits. Let the
+        # prose wrap while retaining every digit at the normal reading size.
+        chapter=chapter.replace('<article class="chapter"', '<article style="overflow-wrap:anywhere" class="chapter"', 1)
     write_aggregate(ROOT/'conversations'/(basename+'.html'), page(title,chapter).replace('src="assets/', 'src="../assets/').replace('href="attachments/', 'href="../attachments/'))
     write_aggregate(ROOT/'conversations'/(basename+'.md'), '\n'.join(md).replace('](assets/', '](../assets/').replace('](<attachments/', '](<../attachments/'))
     chapters.append(chapter);all_md.append('\n'.join(md))

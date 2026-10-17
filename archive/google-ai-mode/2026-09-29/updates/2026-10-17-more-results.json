@@ -1,0 +1,213 @@
+{
+  "at": "2026-10-17T03:13:59.284004+00:00",
+  "date": "2026-10-17",
+  "batchId": "2026-10-17-more",
+  "openAiModeTabs": 211,
+  "uniqueOpenConversations": 200,
+  "historyConversations": 300,
+  "method": "Compared 211 open AI Mode tabs and all 300 visible history entries. Added all 20 unknown conversations with 93 exchanges. Preserved the original embedded graph, original Rijksmuseum map and three complete original uploaded PDFs, and linked the existing v1.5 specification. Nine recent/reopened archived threads matched their saved prompts. Optional older Hat Man recheck did not load; its previously verified content remains intact.",
+  "records": [
+    {
+      "ordinal": 741,
+      "title": "November 1, 2014 Events",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 742,
+      "title": "Map of Rijksmuseum Entrance",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 743,
+      "title": "Paleis Het Loo Kapel",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 744,
+      "title": "Blokbatterij Lipids Helium Whippets Voltaren",
+      "status": "added",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 745,
+      "title": "Kyd Poc Cop Out",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 746,
+      "title": "Motivatie bij Consequenties en Zekerheid",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 747,
+      "title": "Daniel Johnston Plane Crash",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 748,
+      "title": "Heat Pack Science Principles",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 749,
+      "title": "Neighbours Light Art Festival",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 750,
+      "title": "Statistical Deviation and Hop Cascade",
+      "status": "added",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      }
+    },
+    {
+      "ordinal": 751,
+      "title": "Human Body Atom Count",
+      "status": "added",
+      "counts": {
+        "prompts": 18,
+        "responses": 18
+      }
+    },
+    {
+      "ordinal": 752,
+      "title": "Royal Pedigree",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 753,
+      "title": "Burdened Gift",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 754,
+      "title": "Lying In Wake Meaning",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 755,
+      "title": "Grandfather Paradox",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 756,
+      "title": "Flash Freeze Inverse Chirality",
+      "status": "added",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 757,
+      "title": "White Dwarf Warhammer 40k",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 758,
+      "title": "Ragnarok Online Botting Nostalgie",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 759,
+      "title": "Final Fantasy Crystal Chronicles",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 760,
+      "title": "Ragnarok Pre-renewal And Half-life",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    }
+  ],
+  "newOrdinals": [
+    741,
+    742,
+    743,
+    744,
+    745,
+    746,
+    747,
+    748,
+    749,
+    750,
+    751,
+    752,
+    753,
+    754,
+    755,
+    756,
+    757,
+    758,
+    759,
+    760
+  ]
+}

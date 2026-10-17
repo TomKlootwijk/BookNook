@@ -1,0 +1,108 @@
+{
+  "openTabs": 211,
+  "initialOpenTabs": 208,
+  "historyEntries": 300,
+  "newConversations": 20,
+  "newPairs": 93,
+  "updatedConversations": [],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 163,
+      "observedPairs": 4,
+      "archivedPairs": 4,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 734,
+      "observedPairs": 2,
+      "archivedPairs": 2,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 735,
+      "observedPairs": 20,
+      "archivedPairs": 20,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 736,
+      "observedPairs": 4,
+      "archivedPairs": 4,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 737,
+      "observedPairs": 9,
+      "archivedPairs": 9,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 738,
+      "observedPairs": 9,
+      "archivedPairs": 9,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 739,
+      "observedPairs": 8,
+      "archivedPairs": 8,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 740,
+      "observedPairs": 4,
+      "archivedPairs": 4,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 733,
+      "observedPairs": 20,
+      "archivedPairs": 20,
+      "newPrompts": 0
+    }
+  ],
+  "optionalOlderChecksUnavailable": [
+    729
+  ],
+  "attachments": [
+    {
+      "path": "attachments/derivation deviation std transmitted and hopping and causal cascade total number.pdf",
+      "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\derivation deviation std transmitted and hopping and causal cascade total number.pdf",
+      "bytes": 227694,
+      "sha256": "5b08e63a5de393b3d2610232e67f1bbd63c8834be093191303e7412182ffa6a6",
+      "pages": 19
+    },
+    {
+      "path": "attachments/1697-geometrically-kinematic-calculus-LUT.pdf",
+      "source": "C:\\Users\\ietsm\\Downloads\\1697-geometrically-kinematic-calculus-LUT.pdf",
+      "bytes": 434275,
+      "sha256": "6d5885ce7cad3d66ab81d6be7c8b6cabe2edf39d04117b75dd5a7398d89a723b",
+      "pages": 16
+    },
+    {
+      "path": "attachments/flash-freeze-inverse-logarithmically-flips-chirality-in-convection.pdf",
+      "source": "C:\\TOMWERKPLEKTORENTJE\\QRCODECASHENDOKOESVLOES\\flash-freeze-inverse-logarithmically-flips-chirality-in-convection.pdf",
+      "bytes": 255801,
+      "sha256": "c4e87201f35d947ddc96e24a34f00c8bc19d94d97fb31a947104d35044247db9",
+      "pages": 17
+    }
+  ],
+  "sourceErrorResponses": [],
+  "blankResponses": [],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "graphs": [
+    {
+      "conversation": 744,
+      "response": 5
+    }
+  ],
+  "map": {
+    "path": "assets/742-map.png",
+    "sha256": "6509aee8e7fc3dd7e77da215e79660c8718768c95405eddbbc3ef9d2152a59bc",
+    "source": "https://www.google.com/maps/vt/data=GOucj8bG3sKGwRl40-5i8yjtI45tdF8lexK3pCA_-JgsbSX5h1j9UZdXM_-VN41KV1yeb5QCEfd4jQnlDFgZxgBe7UMG07ojb0M4WpbbamKexNI-ypbhTJAbMY9TFt0aVxYV4tviaNrvEhBwzCKEAFO53R25Ofp5apEVAyMUUcBCbeynCBJkVlXs7uGNwaJHMP9jRdfVzRpFlLbFkWK9KPeLDjt2qtUHDTT_uE21JkOqUWmQWO5Nw5YDRmyjWpZMcoIWDQFuIilhoSizTO2OvGsyiGrTc2GKSPy38PNvp8U-ww",
+    "attribution": "Map data ©2026 Google",
+    "terms": "https://www.google.com/intl/en-NL/help/terms_maps/"
+  }
+}
