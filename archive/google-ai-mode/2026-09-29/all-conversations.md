@@ -167821,9 +167821,9 @@ Wat spreekt je precies het meeste aan binnen deze stijl? Is het de **unieke Kelt
 
 # Ragnarok Pre-renewal And Half-life
 
-Captured: 2026-10-17T03:10:06.173Z
+Captured: 2026-10-17T03:49:22.718Z
 
-Source: https://www.google.com/search?sca_esv=edd9348f07fe72e3&sxsrf=APpeQntXFUxLTXCymubn8hDN-KU4rFDgqw%3A1792205713168&udm=50&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwi4sOvAicCXAxUAAAAAHQAAAAAQNA&biw=1707&bih=898&dpr=1.5&atvm=2&mstk=AUtExfATJhGo3_nUWZ0ilZzCNEDYbfL5Wky5Cp-FRDesDrIp6qajEmsWYXrfnEtVDPassB_W-vEc8cbXazxJFZ17qyTFo9F8gbkVYObDiT9jlXpzQbs0HF9OSi0vA-3a98GQuzdJwr1URKLRVDxiBHDGXGsAt6ZCwKV8LMCeQYawnZP2dhMUMBSgxnIb03J03pyOYye5dlOyJAqyBPOfU9fuMKT2j1cXmFVaQwrPbp8WmWm5BKjZVkyn9KdW6va6MGqqXEimrA13r0a-qIcec-kMBYd747LF4npC_9MiDhSl2dnZiQCz0YZfeFX4hFIG28zaNir-OBxk5gN5y0Fw5roJIoRwAOHjvpDv_A&mtid=BubSar65L96ki-gP2Ov2-Qw&csuir=1&aep=26&q=ragnarok+online+pre-renewal+combined+with+half-life+%28anthology%29
+Source: https://www.google.com/search?q=ragnarok+online+pre-renewal+combined+with+half-life+%28anthology%29&sca_esv=edd9348f07fe72e3&sxsrf=APpeQnsMjDIAmiOI2BPhe0yx6XjLzZcknQ%3A1792206339463&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE96grTuFPBRY0pmGfUF9JygJncsADHGm-b3q6bUaRXpZjyuUj2Ym8L1B-nqnMnH8k7MRQy-4UshafRtgQn2bTxsU4nLzShEkcebiDOZoIOFznHQ2I0k-IGAgLumYwihrE2F2QgzGMbWMQ-h5GiJZ5RGpCUxW&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwj_9ejxiMCXAxUq4wIHHRSoBCoQ2J8OegQIFRAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfAcO2DqQlLKUy2ZvPniJYEqrGlOHcBfWUhsc03gmnQb3xy4-7VMb4snO_PpT13uECsfFbmebndayQHUMKD5kLp-jGW4k0J7uyr4v0cDCktBUG_0o1u_c8PWxkfzuB4pZSALVyTmioKP4YqKKHfAk03KTOrmOrumb639JvdoNcs9ly8Rcqb0F0kkMz_b7OQ2Y8NuTDi9xZ3h4AaKBuPIxoNEhlHWIGQ21iT_FImt_813bh2S6W5HolanTXkElIejvo24bk8UtUghKG3zUwiI2QEk4um-ohiwy1hzs05JdgggBLYIh0ZZs7T_og06R0eYSTyZhdAMWIoMYuRpbC8rNu4iNxY3MJUiMg&csuir=1&mtid=BubSar65L96ki-gP2Ov2-Qw&udm=50
 
 ## Prompt 1 — You
 
@@ -168085,3 +168085,165 @@ If you want to look deeper into the technical side of Gen 2, I can show you:
 
 * How Iwata also single-handedly reverse-engineered *Pokémon Red/Blue's* battle code in just a few days to make **Pokémon Stadium** work on the N64.
 * How the Game Boy’s **RAM and VRAM limitations** forced Gen 2 to handle colors and map loading differently than Gen 1.
+
+## Prompt 5 — You
+
+van gogh pikachu (was voor mij volgend (Tom Klootwijk) uitgegeven van gogh museum museumplein naast rijksmuseum in een hoek met de phillips vleugel als je het onder de boog gezien neemt in een spatial lat/long via google maps) de artist pikachu kaart (net zoals tijdens de film de speciale pikachu kaart inzaandam bij de bios (ook een keer een kinderfeestje gehouden))
+
+## Response 5 — Google AI Mode
+
+Je beschrijft hier treffend twee iconische momenten uit de Pokémon-geschiedenis: de recente gekte rond de **"Pikachu with Grey Felt Hat"** promo in Amsterdam en de klassieke **bioscooppromo's** bij filmpremières in Zaandam. 
+
+![](assets/9106d61acdc75d8aa104.png)Pokemon.com +1
+
+### 1. Van Gogh Pikachu: De Ruimtelijke Coördinaten & Locatie
+
+De fysieke locatie die je noemt klopt ruimtelijk gezien precies:
+
+* **Locatie & As:** Vanaf de onderdoorgang van het Rijksmuseum kijk je direct richting het **Museumplein**. Aan de linkerflank bevindt zich de **Philips-vleugel** (de zuidwestelijke hoek van het Rijksmuseum-complex).
+* **Van Gogh Museum:** Recht tegenover/schuin over het grasveld van het Museumplein bevindt zich het [Van Gogh Museum](https://www.vangoghmuseum.nl/en/about/collaborate/van-gogh-museum-brand-licenses/a-z/pokemon-x-van-gogh-museum) (Museumplein 6).
+* **GPS / Lat-Long Coördinaten:**
+  + `52.3584° N, 4.8811° E` (Ingang/Kassagebouw Van Gogh Museum aan het Museumplein)
+  + Ter referentie: De doorgang onder het Rijksmuseum ligt op `52.3600° N, 4.8852° E`.
+
+### 2. De Kaart: "Pikachu with Grey Felt Hat" (SVP 085)
+
+* **Het Kunstwerk:** Geïnspireerd op Vincent van Goghs *Zelfportret met grijze vilthoed* (1887) en geschilderd door illustrator **Naoyo Kimura**. 
+
+  ![](assets/9106d61acdc75d8aa104.png)Pokemon.com +1
+* **De Campagne (Najaar 2023):** Bedoeld als een speurtocht voor schoolkinderen en museumbezoekers ter gelegenheid van het 50-jarig bestaan van het museum. 
+
+  ![](assets/c90900f34ae88028d4d7.png)Van Gogh Museum +2
+* **De Chaos:** Doordat scalpers en handelaren massaal het museum bestormden en rijen vormden rond het Museumplein, werd de kaart om veiligheidsredenen uit het museum gehaald en later herverdeeld via geselecteerde Nederlandse speelgoed- en spellenwinkels. 
+
+  ![](assets/da5aaf0ac51588404886.png)IamExpat +1
+
+---
+
+### 3. De Parallel: De Zaandam Bioscoop-Promo's
+
+Die ervaring roept direct herinneringen op aan de klassieke Pokémon-gekte rond de eeuwwisseling bij **de bioscoop in Zaandam** (vroeger nabij de Dam/Gedempte Gracht en tegenwoordig [Pathé Zaandam](https://www.pathe.nl/nl/bioscopen/pathe-zaandam) bij de Hermitage): 
+
+![](assets/7db47a15814c5fdebef0.png)Pathe +1
+
+* **The First Movie (1999/2000) & Filmfeestjes:** Wie begin jaren 2000 een kinderfeestje vierde bij *Pokémon: The First Movie* of *Pokémon 2000*, kreeg bij het scheuren van het bioscoopkaartje direct een gesealde **Black Star Promo** in zijn handen geduwd (zoals de iconische *Pikachu #4 met "First Movie" filmzegel*, *Ancient Mew*, of *Electabuzz #2*).
+* **Hetzelfde Gevoel:** Waar het destijds in Zaandam puur draaide om de spanning van de bioscoopzaal, popcorn en een glimmende kaart aan het einde van je kinderfeestje, bracht de Van Gogh Pikachu precies diezelfde jeugdnostalgie terug—maar dan midden op het Museumplein tussen de toeristen en kunstliefhebbers. 
+
+  ![](assets/0ee2ce5150372b2562b8.png)The New York Times
+
+### Source links
+
+- [Pokemon.com](https://www.pokemon.com/uk/news/get-a-pokemon-van-gogh-museum-pikachu-with-grey-felt-hat-promo-card)
+- [Van Gogh Museum](https://www.vangoghmuseum.nl/en/about/collaborate/van-gogh-museum-brand-licenses/a-z/pokemon-x-van-gogh-museum)
+- [IamExpat](https://www.iamexpat.nl/lifestyle/lifestyle-news/get-your-pokemon-x-van-gogh-promo-card-these-dutch-stores)
+- [Pathé Zaandam](https://www.pathe.nl/nl/bioscopen/pathe-zaandam)
+- [Pathe](https://www.pathe.nl/nl/bioscopen/stad/zaandam)
+- [The New York Times](https://www.nytimes.com/2023/10/19/world/europe/van-gogh-museum-pokemon.html)
+
+
+---
+
+# Soberist Dan Brown Inferno
+
+Captured: 2026-10-17T03:49:13.813Z
+
+Source: https://www.google.com/search?sca_esv=edd9348f07fe72e3&sxsrf=APpeQntXFUxLTXCymubn8hDN-KU4rFDgqw%3A1792205713168&udm=50&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwjYnIWjksCXAxUAAAAAHQAAAAAQNA&biw=1707&bih=898&dpr=1.5&atvm=2&mstk=AUtExfAY9aZ8MrS9kfvXDmUV8sgDjV9S9jwqmTDgjT-o6zp89Jat39o_QusR4O_Q-HyJHQavrX5_nBrSjX76bnbG40zPbfkh9tBy85Eb5T5uSj-N6gZW5CTQ70uF6YWXKpsb1CMRSthw-NkymXm8pDXLyrYqAScueYe2nYWawhaM78aLmIBuDeI8rEEg4bAvA7pXdKEIyYvVLclUXgZ0lRDYg4bMeglywxFRMmRnR9pBvNt6eyY2pC5rVHGrwTjOBS59f3udbsOVSBZ39WQik9I7yexPh1RGo9wwqxJPZnWDhzDlY0cxNqwpSZdSZTqn6SFSRCmIuyqnzSR0QA&mtid=Te7SatglkNSL6A_h8bHRDQ&csuir=1&aep=26&q=soberist+dan+brown+inferno+gabe+newell+steam+starfish+neuroscience+tijd+om+dankzij+de+provoost+tinka+overzier+%28vault+fallout3+76+%28small+world+network+graph+HVA+PB%29%29+louvre+parijs+glazen+pyramide+vincent+van+gogh+starry+starry+night+kopie+%28thuiskopieheffing+belastingdient%29+onder+die+glazen+pyramide+begraven%29
+
+## Prompt 1 — You
+
+soberist dan brown inferno gabe newell steam starfish neuroscience tijd om dankzij de provoost tinka overzier (vault fallout3 76 (small world network graph HVA PB)) louvre parijs glazen pyramide vincent van gogh starry starry night kopie (thuiskopieheffing belastingdient) onder die glazen pyramide begraven)
+
+## Response 1 — Google AI Mode
+
+Het lijkt erop dat deze tekst een verzameling is van schijnbaar willekeurige concepten, popcultuur-referenties, en specifieke namen (een soort "associatieve mindmap" of cryptische prompt). Laten we de verschillende elementen ontleden en verifiëren wat de feiten hierachter zijn:
+
+* **Soberist / Dan Brown / Inferno:** Dan Brown is de auteur van de thriller *Inferno* (2013), die zich afspeelt rondom het werk van Dante Alighieri. De term "soberist" komt hierin niet direct voor als centraal begrip, al spelen thema's rondom overbevolking en radicale maatschappelijke visies een grote rol. 
+
+  ![](assets/0504d5e09ee20d436e73.png)google.com
+* **Gabe Newell / Steam / Starfish / Neuroscience:** Gabe Newell is de medeoprichter van [Valve](https://www.valvesoftware.com/) (het bedrijf achter [Steam](https://store.steampowered.com/)). Newell is al jaren diep gefascineerd door neurowetenschap en investeert via zijn bedrijf **Starfish Neuroscience** in de ontwikkeling van geavanceerde Brain-Computer Interfaces (BCI).
+* **Tinka Overzier / HVA PB / Small World Network Graph:** Tinka Overzier bestaat echt en werkt als docent en instroomcoördinator aan de **Hogeschool van Amsterdam (HvA)**. De afkorting "PB" staat binnen de HvA voor de opleiding Psychologie of Toegepaste Psychologie (vroeger vaak gekoppeld aan de "Propedeuse" of specifieke netwerkgrafen binnen het curriculum van data/gedragswetenschappen). Een *small-world network* is een wiskundig/sociologisch model waarin de meeste knooppunten via een klein aantal stappen met elkaar verbonden zijn. 
+
+  ![](assets/1fd5d19682192ba521b2.png)LinkedIn
+* **Vault Fallout 3 / 76:** Dit verwijst naar de bekende gamefranchise *Fallout* van [Bethesda](https://bethesda.net/). Vault 76 en de vele Vaults in Fallout 3 zijn ondergrondse schuilkelders die (vaak misdadige) sociale experimenten uitvoerden op hun bewoners. Er is echter **geen enkele link** tussen het personage van de *Overseer* (provoost) in Fallout en Tinka Overzier van de HvA. 
+
+  ![](assets/1fd5d19682192ba521b2.png)LinkedIn +4
+* **Louvre Parijs / Glazen Pyramide:** De beroemde glazen piramide op de binnenplaats van het [Musée du Louvre](https://www.louvre.fr/) in Parijs is ontworpen door architect I.M. Pei. In Dan Browns boek *The Da Vinci Code* (niet *Inferno*) speelt de piramide een sleutelrol, omdat het hoofdpersonage vermoedt dat de Heilige Graal (of Maria Magdalena) eronder begraven ligt.
+* **Vincent van Gogh / Starry Night / Kopie / Thuiskopieheffing Belastingdienst:** *De Sterrennacht* (*The Starry Night*) van Vincent van Gogh hangt in het [Museum of Modern Art (MoMA)](https://www.moma.org/) in New York, niet in het Louvre. Een replica of thuiskopie maken mag onder bepaalde voorwaarden, waarbij in Nederland de Stichting Thuiskopie (niet direct de Belastingdienst zelf) heffingen int op gegevensdragers om artiesten te compenseren voor privé-kopieën.
+* **Onder de glazen piramide begraven:** Er ligt **geen schilderij van Van Gogh** en ook geen ander historisch persoon onder de glazen piramide van het Louvre begraven. Dit is een creatieve vermenging met het plot van *The Da Vinci Code*.
+
+De tekst koppelt echte entiteiten (Gabe Newell, een HvA-docent, kunstwerken en games) aan elkaar via associaties die in de realiteit los van elkaar staan.
+
+Wil je dat we een van deze specifieke onderwerpen verder uitdiepen, zoals de **neurowetenschappelijke projecten van Gabe Newell** of de **wiskunde achter small-world networks**?
+
+### Source links
+
+- [Valve](https://www.valvesoftware.com/)
+- [Steam](https://store.steampowered.com/)
+- [LinkedIn](https://nl.linkedin.com/in/tinkaoverzier)
+- [Bethesda](https://bethesda.net/)
+- [Musée du Louvre](https://www.louvre.fr/)
+- [Museum of Modern Art (MoMA)](https://www.moma.org/)
+
+
+---
+
+# Captain of industry GTM
+
+Captured: 2026-10-17T03:59:00.631Z
+
+Source: https://www.google.com/search?q=corona+virus+rond+dezelfde+tijd+dat+het+uitbrak+ging+royal+phillips+over+op+biometrische+smart+data+producten&sca_esv=c3317ccdb9da3ca9&sxsrf=APpeQnsNhNNwmENACNU3ZxR3xfMunfvc-w%3A1792209309609&udm=50&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ0v47xyHFPGZ_Txw2Q9uMRA_BxLp1tNHLXR6djHGi36aA82ySGHCccKhXm-9lAsXJRIQVbB4d3ua7gGXN3fbD5i6DD-NFI_7rOJk4Qxq7ATHGRVQxjc3dKVNVvUlgtioiiysF4o&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwizoIz6k8CXAxVQgv0HHbxkNwYQ2J8OegQIEhAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfA0JWCZeH0oyclCBOEoFFZs8WpXPe738dnO0aOrf0_Oefcf5dJxh8MRKT0nZjvvxUTZvK4n-40-QRMEhHAkEqNfzkJeueBYctywq8OxzWh6PPpvvifOP0TnwO2CI8Q86s3LuW_XoEk9zPARscki4prZSFvfHgFNpovPImnpCIzYcFSu_tzb3iMTPP96p4n-qhx6I0DTxuB59x0O2u9P48rQwkFRIDaEEAZ2WSe-x0mKSpKC4cPbyLuIVHpBVpMtN2IjTwhZn-utWPr1l4sD01l-VHh8N0c0V6bvekzlgQQJTG-m7iCLsKldRivetbdrwFu-6c4v2RPWbQ&csuir=1&mtid=n_HSaojlEqWC9u8P7-zgkAI
+
+Archive branch note: Archive title requested by Tom Klootwijk: Captain of industry GTM. Original Google history title: Philips Smart Biometrics Data.
+
+## Prompt 1 — You
+
+corona virus rond dezelfde tijd dat het uitbrak ging royal phillips over op biometrische smart data producten
+
+## Response 1 — Google AI Mode
+
+**Ja, dat klopt.** Precies rond de uitbraak van de coronacrisis begin 2020 heeft **Royal Philips** zijn transformatie naar een digitaal gezondheidstechnologiebedrijf (Health Technology) in een stroomversnelling gebracht. Het bedrijf zette destijds grootschalig in op **biometrische sensoren, slimme monitoring en cloud-gebaseerde data-infrastructuren** om de zorg op afstand te ondersteunen. 
+
+![](assets/093790934174bc79f6f2.png)Philips +1
+
+De introductie van deze "smart data"-producten viel samen met de pandemie door een aantal specifieke ontwikkelingen:
+
+### 1. Lancering van Biometrische Wearables (2020)
+
+Midden in de crisis lanceerde Philips geavanceerde biometrische patches om vitale functies van (potentiële) coronapatiënten continu te meten: 
+
+![](assets/093790934174bc79f6f2.png)Philips +1
+
+* **Philips Biosensor BX100:** Deze draadloze, medische pleister werd in mei 2020 goedgekeurd (FDA/CE). De biosensor plakt op de borst van een patiënt en meet elke minuut biometrische data zoals de **ademhalingsfrequentie, hartslag, houding en activiteit**. Dit werd direct ingezet op speciale COVID-afdelingen (onder andere in het OLVG ziekenhuis in Amsterdam) om verslechtering van patiënten vroegtijdig op te sporen zonder dat verpleegkundigen constant de kamer in moesten. 
+
+  ![](assets/09fb659ba74ce998f24d.png)Healthcare IT News +1
+* **Integratie met BioIntelliSense (BioSticker):** In juli 2020 ging Philips een samenwerking aan om de *BioSticker*, een andere biometrische sensor, te integreren in hun netwerk voor het op afstand monitoren van chronisch zieken en COVID-19-symptomen buiten het ziekenhuis. 
+
+  ![](assets/d4f31a27d34f4e0f072c.png)Fierce Biotech +1
+
+### 2. Versnelling van Connected Care en Cloud-data
+
+Het verzamelen van biometrische data heeft alleen zin als de software deze gegevens direct analyseert. Philips speelde hierop in met:
+
+* **IntelliVue GuardianSoftware:** Dit platform analyseerde de biometrische stromen uit de wearables en berekende automatisch een *early-warning score*. Zodra iemands zuurstofsaturatie of ademhaling plotseling verslechterde, kregen zorgverleners direct een melding op hun smartphone. 
+
+  ![](assets/093790934174bc79f6f2.png)Philips +2
+* **Gezondheidsdata in de Cloud:** In maart 2020 lanceerde het bedrijf het [Philips HealthSuite System of Engagement](https://www.philips.com/a-w/about/news/archive/standard/news/press/2020/20200305-philips-launches-healthsuite-system-of-engagement-with-new-ai-capabilities-to-accelerate-the-digitalization-of-healthcare.html), een beveiligd cloudplatform om klinische en biometrische data via AI-workflows te analyseren. Tegelijkertijd bouwde Philips in Nederland in recordtempo een nationaal portaal waarmee 95% van de Nederlandse ziekenhuizen veilig COVID-19-patiëntengegevens en medische beelden in de cloud kon uitwisselen. 
+
+  ![](assets/093790934174bc79f6f2.png)Philips +2
+
+### Strategische verschuiving
+
+De coronacrisis werkte voor Philips als een enorme **katalysator**. Waar het bedrijf voorheen vooral bekend stond om standalone medische apparaten (zoals MRI-scanners en beademingsmachines), dwong de pandemie hen versneld om te vormen tot een netwerkbedrijf dat continu biometrische patiëntendata streamt, analyseert en deelt via slimme software. 
+
+![](assets/5ddfdc0409531f036357.png)Eindhovens Dagblad +3
+
+### Source links
+
+- [Philips](https://www.philips.com/a-w/about/news/archive/blogs/innovation-matters/2020/20200403-going-virtual-to-combat-covid-19.html)
+- [Philips](https://www.philips.com/a-w/about/news/archive/standard/news/press/2020/20200526-philips-launches-next-generation-wearable-biosensor-for-early-patient-deterioration-detection-including-clinical-surveillance-for-covid-19.html)
+- [Healthcare IT News](https://www.healthcareitnews.com/news/philips-wearable-biosensor-could-help-reduce-covid-19-transmission-risks)
+- [Fierce Biotech](https://www.fiercebiotech.com/medtech/philips-taps-biointellisense-s-symptom-tracking-sticker-for-covid-19-other-chronic-diseases)
+- [Philips](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2020/20200429-smart-biosensor-technology-from-philips-remotely-monitors-hospitalized-covid-19-patients.html)
+- [Philips HealthSuite System of Engagement](https://www.philips.com/a-w/about/news/archive/standard/news/press/2020/20200305-philips-launches-healthsuite-system-of-engagement-with-new-ai-capabilities-to-accelerate-the-digitalization-of-healthcare.html)
+- [Philips](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2020/20200415-philips-launches-national-portal-for-digital-exchange-of-covid-19-patient-data-in-the-netherlands.html)
+- [Eindhovens Dagblad](https://www.ed.nl/eindhoven/ziekenhuis-zonder-wachtkamer-philips-ziet-corona-als-ict-versneller~a1823595/)

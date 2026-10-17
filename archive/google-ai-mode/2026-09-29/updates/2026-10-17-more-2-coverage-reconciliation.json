@@ -1,0 +1,78 @@
+{
+  "openTabs": 210,
+  "historyEntries": 300,
+  "newConversations": 2,
+  "newPairs": 3,
+  "updatedConversations": [
+    760
+  ],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 163,
+      "observedPairs": 4,
+      "archivedPairs": 4,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 737,
+      "observedPairs": 9,
+      "archivedPairs": 9,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 748,
+      "observedPairs": 5,
+      "archivedPairs": 5,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 750,
+      "observedPairs": 13,
+      "archivedPairs": 13,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 751,
+      "observedPairs": 18,
+      "archivedPairs": 18,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 756,
+      "observedPairs": 10,
+      "archivedPairs": 10,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 757,
+      "observedPairs": 2,
+      "archivedPairs": 2,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 758,
+      "observedPairs": 2,
+      "archivedPairs": 2,
+      "newPrompts": 0
+    },
+    {
+      "ordinal": 759,
+      "observedPairs": 1,
+      "archivedPairs": 1,
+      "newPrompts": 0
+    }
+  ],
+  "attachments": [],
+  "sourceErrorResponses": [],
+  "blankResponses": [],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "graphs": [],
+  "lateAddition": {
+    "ordinal": 762,
+    "title": "Captain of industry GTM",
+    "originalGoogleTitle": "Philips Smart Biometrics Data",
+    "historyFollowupEntries": 20
+  }
+}

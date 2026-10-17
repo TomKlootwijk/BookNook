@@ -1,8 +1,8 @@
 # Ragnarok Pre-renewal And Half-life
 
-Captured: 2026-10-17T03:10:06.173Z
+Captured: 2026-10-17T03:49:22.718Z
 
-Source: https://www.google.com/search?sca_esv=edd9348f07fe72e3&sxsrf=APpeQntXFUxLTXCymubn8hDN-KU4rFDgqw%3A1792205713168&udm=50&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwi4sOvAicCXAxUAAAAAHQAAAAAQNA&biw=1707&bih=898&dpr=1.5&atvm=2&mstk=AUtExfATJhGo3_nUWZ0ilZzCNEDYbfL5Wky5Cp-FRDesDrIp6qajEmsWYXrfnEtVDPassB_W-vEc8cbXazxJFZ17qyTFo9F8gbkVYObDiT9jlXpzQbs0HF9OSi0vA-3a98GQuzdJwr1URKLRVDxiBHDGXGsAt6ZCwKV8LMCeQYawnZP2dhMUMBSgxnIb03J03pyOYye5dlOyJAqyBPOfU9fuMKT2j1cXmFVaQwrPbp8WmWm5BKjZVkyn9KdW6va6MGqqXEimrA13r0a-qIcec-kMBYd747LF4npC_9MiDhSl2dnZiQCz0YZfeFX4hFIG28zaNir-OBxk5gN5y0Fw5roJIoRwAOHjvpDv_A&mtid=BubSar65L96ki-gP2Ov2-Qw&csuir=1&aep=26&q=ragnarok+online+pre-renewal+combined+with+half-life+%28anthology%29
+Source: https://www.google.com/search?q=ragnarok+online+pre-renewal+combined+with+half-life+%28anthology%29&sca_esv=edd9348f07fe72e3&sxsrf=APpeQnsMjDIAmiOI2BPhe0yx6XjLzZcknQ%3A1792206339463&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE96grTuFPBRY0pmGfUF9JygJncsADHGm-b3q6bUaRXpZjyuUj2Ym8L1B-nqnMnH8k7MRQy-4UshafRtgQn2bTxsU4nLzShEkcebiDOZoIOFznHQ2I0k-IGAgLumYwihrE2F2QgzGMbWMQ-h5GiJZ5RGpCUxW&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwj_9ejxiMCXAxUq4wIHHRSoBCoQ2J8OegQIFRAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfAcO2DqQlLKUy2ZvPniJYEqrGlOHcBfWUhsc03gmnQb3xy4-7VMb4snO_PpT13uECsfFbmebndayQHUMKD5kLp-jGW4k0J7uyr4v0cDCktBUG_0o1u_c8PWxkfzuB4pZSALVyTmioKP4YqKKHfAk03KTOrmOrumb639JvdoNcs9ly8Rcqb0F0kkMz_b7OQ2Y8NuTDi9xZ3h4AaKBuPIxoNEhlHWIGQ21iT_FImt_813bh2S6W5HolanTXkElIejvo24bk8UtUghKG3zUwiI2QEk4um-ohiwy1hzs05JdgggBLYIh0ZZs7T_og06R0eYSTyZhdAMWIoMYuRpbC8rNu4iNxY3MJUiMg&csuir=1&mtid=BubSar65L96ki-gP2Ov2-Qw&udm=50
 
 ## Prompt 1 — You
 
@@ -264,3 +264,57 @@ If you want to look deeper into the technical side of Gen 2, I can show you:
 
 * How Iwata also single-handedly reverse-engineered *Pokémon Red/Blue's* battle code in just a few days to make **Pokémon Stadium** work on the N64.
 * How the Game Boy’s **RAM and VRAM limitations** forced Gen 2 to handle colors and map loading differently than Gen 1.
+
+## Prompt 5 — You
+
+van gogh pikachu (was voor mij volgend (Tom Klootwijk) uitgegeven van gogh museum museumplein naast rijksmuseum in een hoek met de phillips vleugel als je het onder de boog gezien neemt in een spatial lat/long via google maps) de artist pikachu kaart (net zoals tijdens de film de speciale pikachu kaart inzaandam bij de bios (ook een keer een kinderfeestje gehouden))
+
+## Response 5 — Google AI Mode
+
+Je beschrijft hier treffend twee iconische momenten uit de Pokémon-geschiedenis: de recente gekte rond de **"Pikachu with Grey Felt Hat"** promo in Amsterdam en de klassieke **bioscooppromo's** bij filmpremières in Zaandam. 
+
+![](../assets/9106d61acdc75d8aa104.png)Pokemon.com +1
+
+### 1. Van Gogh Pikachu: De Ruimtelijke Coördinaten & Locatie
+
+De fysieke locatie die je noemt klopt ruimtelijk gezien precies:
+
+* **Locatie & As:** Vanaf de onderdoorgang van het Rijksmuseum kijk je direct richting het **Museumplein**. Aan de linkerflank bevindt zich de **Philips-vleugel** (de zuidwestelijke hoek van het Rijksmuseum-complex).
+* **Van Gogh Museum:** Recht tegenover/schuin over het grasveld van het Museumplein bevindt zich het [Van Gogh Museum](https://www.vangoghmuseum.nl/en/about/collaborate/van-gogh-museum-brand-licenses/a-z/pokemon-x-van-gogh-museum) (Museumplein 6).
+* **GPS / Lat-Long Coördinaten:**
+  + `52.3584° N, 4.8811° E` (Ingang/Kassagebouw Van Gogh Museum aan het Museumplein)
+  + Ter referentie: De doorgang onder het Rijksmuseum ligt op `52.3600° N, 4.8852° E`.
+
+### 2. De Kaart: "Pikachu with Grey Felt Hat" (SVP 085)
+
+* **Het Kunstwerk:** Geïnspireerd op Vincent van Goghs *Zelfportret met grijze vilthoed* (1887) en geschilderd door illustrator **Naoyo Kimura**. 
+
+  ![](../assets/9106d61acdc75d8aa104.png)Pokemon.com +1
+* **De Campagne (Najaar 2023):** Bedoeld als een speurtocht voor schoolkinderen en museumbezoekers ter gelegenheid van het 50-jarig bestaan van het museum. 
+
+  ![](../assets/c90900f34ae88028d4d7.png)Van Gogh Museum +2
+* **De Chaos:** Doordat scalpers en handelaren massaal het museum bestormden en rijen vormden rond het Museumplein, werd de kaart om veiligheidsredenen uit het museum gehaald en later herverdeeld via geselecteerde Nederlandse speelgoed- en spellenwinkels. 
+
+  ![](../assets/da5aaf0ac51588404886.png)IamExpat +1
+
+---
+
+### 3. De Parallel: De Zaandam Bioscoop-Promo's
+
+Die ervaring roept direct herinneringen op aan de klassieke Pokémon-gekte rond de eeuwwisseling bij **de bioscoop in Zaandam** (vroeger nabij de Dam/Gedempte Gracht en tegenwoordig [Pathé Zaandam](https://www.pathe.nl/nl/bioscopen/pathe-zaandam) bij de Hermitage): 
+
+![](../assets/7db47a15814c5fdebef0.png)Pathe +1
+
+* **The First Movie (1999/2000) & Filmfeestjes:** Wie begin jaren 2000 een kinderfeestje vierde bij *Pokémon: The First Movie* of *Pokémon 2000*, kreeg bij het scheuren van het bioscoopkaartje direct een gesealde **Black Star Promo** in zijn handen geduwd (zoals de iconische *Pikachu #4 met "First Movie" filmzegel*, *Ancient Mew*, of *Electabuzz #2*).
+* **Hetzelfde Gevoel:** Waar het destijds in Zaandam puur draaide om de spanning van de bioscoopzaal, popcorn en een glimmende kaart aan het einde van je kinderfeestje, bracht de Van Gogh Pikachu precies diezelfde jeugdnostalgie terug—maar dan midden op het Museumplein tussen de toeristen en kunstliefhebbers. 
+
+  ![](../assets/0ee2ce5150372b2562b8.png)The New York Times
+
+### Source links
+
+- [Pokemon.com](https://www.pokemon.com/uk/news/get-a-pokemon-van-gogh-museum-pikachu-with-grey-felt-hat-promo-card)
+- [Van Gogh Museum](https://www.vangoghmuseum.nl/en/about/collaborate/van-gogh-museum-brand-licenses/a-z/pokemon-x-van-gogh-museum)
+- [IamExpat](https://www.iamexpat.nl/lifestyle/lifestyle-news/get-your-pokemon-x-van-gogh-promo-card-these-dutch-stores)
+- [Pathé Zaandam](https://www.pathe.nl/nl/bioscopen/pathe-zaandam)
+- [Pathe](https://www.pathe.nl/nl/bioscopen/stad/zaandam)
+- [The New York Times](https://www.nytimes.com/2023/10/19/world/europe/van-gogh-museum-pokemon.html)

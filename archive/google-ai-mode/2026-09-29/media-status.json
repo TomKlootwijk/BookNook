@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "The 17 October batch adds twenty conversations, 93 exchanges, an original embedded graph, the original Rijksmuseum map and three original uploaded PDFs. The existing v1.5 specification is linked where uploaded. All earlier source errors and media gaps remain documented; optional older Hat Man recheck was unavailable and its prior verified captures are retained.",
+  "note": "The latest 17 October update adds two new conversations and one continuation (three exchanges), including the user-titled Captain of industry GTM. Previous source errors and media gaps remain documented; all previously verified captures and media are retained.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -2607,6 +2607,84 @@
       "source": "https://www.google.com/maps/vt/data=GOucj8bG3sKGwRl40-5i8yjtI45tdF8lexK3pCA_-JgsbSX5h1j9UZdXM_-VN41KV1yeb5QCEfd4jQnlDFgZxgBe7UMG07ojb0M4WpbbamKexNI-ypbhTJAbMY9TFt0aVxYV4tviaNrvEhBwzCKEAFO53R25Ofp5apEVAyMUUcBCbeynCBJkVlXs7uGNwaJHMP9jRdfVzRpFlLbFkWK9KPeLDjt2qtUHDTT_uE21JkOqUWmQWO5Nw5YDRmyjWpZMcoIWDQFuIilhoSizTO2OvGsyiGrTc2GKSPy38PNvp8U-ww",
       "attribution": "Map data ©2026 Google",
       "terms": "https://www.google.com/intl/en-NL/help/terms_maps/"
+    }
+  },
+  "october17More2Media": {
+    "openTabs": 210,
+    "historyEntries": 300,
+    "newConversations": 2,
+    "newPairs": 3,
+    "updatedConversations": [
+      760
+    ],
+    "recentContinuationChecks": [
+      {
+        "ordinal": 163,
+        "observedPairs": 4,
+        "archivedPairs": 4,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 737,
+        "observedPairs": 9,
+        "archivedPairs": 9,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 748,
+        "observedPairs": 5,
+        "archivedPairs": 5,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 750,
+        "observedPairs": 13,
+        "archivedPairs": 13,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 751,
+        "observedPairs": 18,
+        "archivedPairs": 18,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 756,
+        "observedPairs": 10,
+        "archivedPairs": 10,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 757,
+        "observedPairs": 2,
+        "archivedPairs": 2,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 758,
+        "observedPairs": 2,
+        "archivedPairs": 2,
+        "newPrompts": 0
+      },
+      {
+        "ordinal": 759,
+        "observedPairs": 1,
+        "archivedPairs": 1,
+        "newPrompts": 0
+      }
+    ],
+    "attachments": [],
+    "sourceErrorResponses": [],
+    "blankResponses": [],
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "preservedPriorMedia": true,
+    "graphs": [],
+    "lateAddition": {
+      "ordinal": 762,
+      "title": "Captain of industry GTM",
+      "originalGoogleTitle": "Philips Smart Biometrics Data",
+      "historyFollowupEntries": 20
     }
   }
 }

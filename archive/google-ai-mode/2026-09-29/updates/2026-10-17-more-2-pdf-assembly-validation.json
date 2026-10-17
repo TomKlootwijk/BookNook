@@ -1,0 +1,28 @@
+{
+  "pages": 3599,
+  "frontPages": 25,
+  "indexPage": 1,
+  "unchangedBodyPages": 3560,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "760": {
+      "pages": 10,
+      "prompts": 5,
+      "responses": 5
+    },
+    "761": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "762": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    }
+  },
+  "internalIndexLinks": 812,
+  "prompts": 3594,
+  "responses": 3594,
+  "memoryRecovery": "The complete writer output passed independent streaming verification after the original in-memory readback ran out of memory."
+}

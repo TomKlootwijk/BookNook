@@ -1,0 +1,15 @@
+{
+  "conversations": 762,
+  "pairs": 3594,
+  "conversionIssues": 0,
+  "unchangedEarlierChapters": 759,
+  "changedExistingChapters": [
+    760
+  ],
+  "addedChapters": [
+    761,
+    762
+  ],
+  "sourceImagesPreserved": true,
+  "incrementalBuildUsesCanonicalConverter": true
+}
