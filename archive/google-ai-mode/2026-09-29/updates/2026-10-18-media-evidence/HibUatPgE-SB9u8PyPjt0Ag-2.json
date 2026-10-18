@@ -1,0 +1,6 @@
+{
+  "canvases": 0,
+  "html": "<body class=\"\">\n  \n  <div id=\"root\"><div class=\"p-5 text-center text-error bg-card\"><p class=\"text-sm font-medium\">Something went wrong inside the simulation.</p></div></div></body>",
+  "svgs": [],
+  "text": "Something went wrong inside the simulation."
+}

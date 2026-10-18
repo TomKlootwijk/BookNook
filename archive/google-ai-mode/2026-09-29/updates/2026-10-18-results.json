@@ -1,0 +1,543 @@
+{
+  "at": "2026-10-18T12:00:49.499144+00:00",
+  "date": "2026-10-18",
+  "batchId": "2026-10-18",
+  "openAiModeTabs": 251,
+  "uniqueOpenConversations": 238,
+  "historyConversations": 300,
+  "method": "Compared 251 open AI Mode tabs and a full 300-entry visible history sweep. Added 53 conversations with 404 visible prompts and 405 responses. Eleven recent archived threads were checked; previously preserved prompt text was retained when Google omitted it in the new view. Preserved eight vector charts, twelve static interactive doodles, five generated images, a map and two new original PDFs. Eight unavailable uploaded image previews, two simulation errors and one blank source prompt are documented. Unsent drafts and a regenerated search page are excluded.",
+  "records": [
+    {
+      "ordinal": 785,
+      "title": "SHA-256 Dubbele Hash",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 786,
+      "title": "Awkspewroo IDF Streamer",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 787,
+      "title": "Popcorn Lung Disposable Vapes",
+      "status": "added",
+      "counts": {
+        "prompts": 27,
+        "responses": 27
+      }
+    },
+    {
+      "ordinal": 788,
+      "title": "Rebirthing Therapy Pressure Funnels",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 789,
+      "title": "Jitske en Tom Aanpak",
+      "status": "added",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 790,
+      "title": "Ion Satellite Cannon Myths",
+      "status": "added",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      }
+    },
+    {
+      "ordinal": 791,
+      "title": "Deepest Satellite",
+      "status": "added",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      }
+    },
+    {
+      "ordinal": 792,
+      "title": "Wildest Hypothetical Ideas",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 793,
+      "title": "Malignant Growth Cell Derivation",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 794,
+      "title": "Pig Butchering Scam Entrapment",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 795,
+      "title": "Collimated Double Laminated Configuration",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 796,
+      "title": "Monomer Bond Under 2 Microns",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 797,
+      "title": "Spongiosis Skin Fluid Buildup",
+      "status": "added",
+      "counts": {
+        "prompts": 18,
+        "responses": 18
+      }
+    },
+    {
+      "ordinal": 798,
+      "title": "Excimer and Eczema Biomechanics",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 799,
+      "title": "Bio-chemische en Biomechanische Confectie",
+      "status": "added",
+      "counts": {
+        "prompts": 24,
+        "responses": 24
+      }
+    },
+    {
+      "ordinal": 800,
+      "title": "Pareto Principle Social Dynamics",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 801,
+      "title": "Scikkikorschki Files Context",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 802,
+      "title": "Missing Beats in Beat Saber",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 803,
+      "title": "Grandfather Paradox Prism Biomechnical",
+      "status": "added",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      }
+    },
+    {
+      "ordinal": 804,
+      "title": "Paradigm Model or Framework",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 805,
+      "title": "Severe Pitting Edema",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 806,
+      "title": "Bullet Ant Biochemistry",
+      "status": "added",
+      "counts": {
+        "prompts": 20,
+        "responses": 20
+      }
+    },
+    {
+      "ordinal": 807,
+      "title": "Stemvork U-vormige Constructie",
+      "status": "added",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 808,
+      "title": "Edema vs Hemolysis Analogy",
+      "status": "added",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 809,
+      "title": "Lost Sheep Care",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 810,
+      "title": "Point Carre Homeland",
+      "status": "added",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 811,
+      "title": "Minecraft Schematic Building",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 812,
+      "title": "GWB USA",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 813,
+      "title": "Minecraft Schematic Build",
+      "status": "added",
+      "counts": {
+        "prompts": 10,
+        "responses": 11
+      }
+    },
+    {
+      "ordinal": 814,
+      "title": "Collective Payment Requirements",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 815,
+      "title": "Tension Right",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 816,
+      "title": "Deconstruct Visual Scene Mechanics",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 817,
+      "title": "Why I Hate Other Art Styles",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 818,
+      "title": "WebGPU Cross Platform Mobile",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 819,
+      "title": "Hockey Puck Sensors",
+      "status": "added",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      }
+    },
+    {
+      "ordinal": 820,
+      "title": "Ordering Burgers Online vs Dining",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 821,
+      "title": "Banana Cavendish Formula",
+      "status": "added",
+      "counts": {
+        "prompts": 22,
+        "responses": 22
+      }
+    },
+    {
+      "ordinal": 822,
+      "title": "Technology",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 823,
+      "title": "Biofilm Lipiden En Koolhydraten",
+      "status": "added",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      }
+    },
+    {
+      "ordinal": 824,
+      "title": "Capillary Blood Vessels",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 825,
+      "title": "Coagulated Blood Injury Identification",
+      "status": "added",
+      "counts": {
+        "prompts": 14,
+        "responses": 14
+      }
+    },
+    {
+      "ordinal": 826,
+      "title": "Got It Lyrics",
+      "status": "added",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      }
+    },
+    {
+      "ordinal": 827,
+      "title": "Jan En Alleman",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 828,
+      "title": "Advection vs Defection Meaning",
+      "status": "added",
+      "counts": {
+        "prompts": 21,
+        "responses": 21
+      }
+    },
+    {
+      "ordinal": 829,
+      "title": "Zoekopdracht Lokale Activiteiten B&B",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 830,
+      "title": "IJburg Temperature Now",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 831,
+      "title": "Hoofdweg Het Kalf Zaandam",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 832,
+      "title": "Gaussian Splatting in Maps",
+      "status": "added",
+      "counts": {
+        "prompts": 18,
+        "responses": 18
+      }
+    },
+    {
+      "ordinal": 833,
+      "title": "As a civilization scales across space, it must drop standard synchronous frames and transition into an asynchronous, state-based join-semilattice construction ( ) where replicas merge deterministically independent of delivery order and clock drift.",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 834,
+      "title": "Type X Civilizations",
+      "status": "added",
+      "counts": {
+        "prompts": 23,
+        "responses": 23
+      }
+    },
+    {
+      "ordinal": 835,
+      "title": "Current Civilization Type",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 836,
+      "title": "Electric Cyan and Pink HDR",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 837,
+      "title": "Oom Oswald Boekplot",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    }
+  ],
+  "newOrdinals": [
+    785,
+    786,
+    787,
+    788,
+    789,
+    790,
+    791,
+    792,
+    793,
+    794,
+    795,
+    796,
+    797,
+    798,
+    799,
+    800,
+    801,
+    802,
+    803,
+    804,
+    805,
+    806,
+    807,
+    808,
+    809,
+    810,
+    811,
+    812,
+    813,
+    814,
+    815,
+    816,
+    817,
+    818,
+    819,
+    820,
+    821,
+    822,
+    823,
+    824,
+    825,
+    826,
+    827,
+    828,
+    829,
+    830,
+    831,
+    832,
+    833,
+    834,
+    835,
+    836,
+    837
+  ]
+}

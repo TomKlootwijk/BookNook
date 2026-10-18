@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Latest update: nineteen conversations, 102 visible prompt texts and 103 responses. Google omits the prompt before response 3 in conversation 772, and displays three no-response messages in conversations 768 and 779. These source gaps are preserved. Three graphs, five reference images and three new original PDF attachments are included. Earlier source gaps, media and Captain of industry GTM remain preserved.",
+  "note": "Compared 251 open AI Mode tabs and a full 300-entry visible history sweep. Added 53 conversations with 404 visible prompts and 405 responses. Eleven recent archived threads were checked; previously preserved prompt text was retained when Google omitted it in the new view. Preserved eight vector charts, twelve static interactive doodles, five generated images, a map and two new original PDFs. Eight unavailable uploaded image previews, two simulation errors and one blank source prompt are documented. Unsent drafts and a regenerated search page are excluded. Earlier source gaps, media and Captain of industry GTM remain preserved.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -3155,5 +3155,323 @@
         }
       }
     ]
+  },
+  "october18Media": {
+    "openTabs": 251,
+    "historyEntries": 300,
+    "newConversations": 53,
+    "newPrompts": 404,
+    "newResponses": 405,
+    "updatedConversations": [],
+    "recentContinuationChecks": [
+      {
+        "ordinal": 767,
+        "observedPrompts": 8,
+        "archivedPrompts": 8,
+        "responses": 8,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 775,
+        "observedPrompts": 3,
+        "archivedPrompts": 3,
+        "responses": 3,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 776,
+        "observedPrompts": 2,
+        "archivedPrompts": 2,
+        "responses": 2,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 777,
+        "observedPrompts": 7,
+        "archivedPrompts": 7,
+        "responses": 7,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 778,
+        "observedPrompts": 3,
+        "archivedPrompts": 3,
+        "responses": 3,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 779,
+        "observedPrompts": 4,
+        "archivedPrompts": 5,
+        "responses": 5,
+        "newPrompts": 0,
+        "retainedPriorPromptText": true
+      },
+      {
+        "ordinal": 780,
+        "observedPrompts": 5,
+        "archivedPrompts": 5,
+        "responses": 5,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 781,
+        "observedPrompts": 2,
+        "archivedPrompts": 2,
+        "responses": 2,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 782,
+        "observedPrompts": 5,
+        "archivedPrompts": 5,
+        "responses": 5,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 783,
+        "observedPrompts": 1,
+        "archivedPrompts": 1,
+        "responses": 1,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 784,
+        "observedPrompts": 3,
+        "archivedPrompts": 3,
+        "responses": 3,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      }
+    ],
+    "attachments": [
+      {
+        "title": "advection means defection.pdf",
+        "path": "attachments/advection means defection.pdf",
+        "pages": 61,
+        "sha256": "720894d5cd82bbf34825f30e6cf0ccf6ebe8728af9f3c40ee1bb33b398afd957"
+      },
+      {
+        "title": "convectie patroon kokend water bubbels biofilm preparaat 1 lipids preparaat 2 carbohydrates tau tau mu mu.pdf",
+        "path": "attachments/convectie patroon kokend water bubbels biofilm preparaat 1 lipids preparaat 2 carbohydrates tau tau mu mu.pdf",
+        "pages": 25,
+        "sha256": "c9efbeb612ff213f598154df53172f758a0c94495237a8c51619a507a9c0b7cb"
+      }
+    ],
+    "sourceErrorResponses": [
+      {
+        "conversation": 828,
+        "response": 6,
+        "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+      }
+    ],
+    "sourceGaps": [
+      {
+        "conversation": 813,
+        "response": 2,
+        "type": "blank_source_prompt"
+      },
+      {
+        "conversation": 813,
+        "response": 5,
+        "type": "simulation_error",
+        "evidence": "updates/2026-10-18-media-evidence/HibUatPgE-SB9u8PyPjt0Ag-1.json"
+      },
+      {
+        "conversation": 813,
+        "response": 6,
+        "type": "simulation_error",
+        "evidence": "updates/2026-10-18-media-evidence/HibUatPgE-SB9u8PyPjt0Ag-2.json"
+      }
+    ],
+    "unavailableUploadedImages": [
+      {
+        "conversation": 815,
+        "prompt": 2,
+        "item": 3
+      },
+      {
+        "conversation": 823,
+        "prompt": 8,
+        "item": 15
+      },
+      {
+        "conversation": 823,
+        "prompt": 9,
+        "item": 17
+      },
+      {
+        "conversation": 827,
+        "prompt": 3,
+        "item": 5
+      },
+      {
+        "conversation": 832,
+        "prompt": 5,
+        "item": 9
+      },
+      {
+        "conversation": 832,
+        "prompt": 6,
+        "item": 11
+      },
+      {
+        "conversation": 834,
+        "prompt": 18,
+        "item": 35
+      },
+      {
+        "conversation": 834,
+        "prompt": 20,
+        "item": 39
+      }
+    ],
+    "media": [
+      {
+        "conversation": 787,
+        "response": 6,
+        "kind": "vector_chart",
+        "path": "assets/y6rTasaYEKGXi-gPsO-y4Qc-1.svg"
+      },
+      {
+        "conversation": 787,
+        "response": 18,
+        "kind": "static_interactive_capture",
+        "path": "assets/y6rTasaYEKGXi-gPsO-y4Qc-2.png"
+      },
+      {
+        "conversation": 797,
+        "response": 8,
+        "kind": "vector_chart",
+        "path": "assets/cszTaqu4KoKqi-gPzvSWoQk-1.svg"
+      },
+      {
+        "conversation": 797,
+        "response": 9,
+        "kind": "vector_chart",
+        "path": "assets/cszTaqu4KoKqi-gPzvSWoQk-2.svg"
+      },
+      {
+        "conversation": 799,
+        "response": 1,
+        "kind": "static_interactive_capture",
+        "path": "assets/HpHTauWPB92gi-gP37nG0Qc-1.png"
+      },
+      {
+        "conversation": 799,
+        "response": 2,
+        "kind": "static_interactive_capture",
+        "path": "assets/HpHTauWPB92gi-gP37nG0Qc-2.png"
+      },
+      {
+        "conversation": 799,
+        "response": 3,
+        "kind": "static_interactive_capture",
+        "path": "assets/HpHTauWPB92gi-gP37nG0Qc-3.png"
+      },
+      {
+        "conversation": 799,
+        "response": 4,
+        "kind": "static_interactive_capture",
+        "path": "assets/HpHTauWPB92gi-gP37nG0Qc-4.png"
+      },
+      {
+        "conversation": 799,
+        "response": 5,
+        "kind": "static_interactive_capture",
+        "path": "assets/HpHTauWPB92gi-gP37nG0Qc-5.png"
+      },
+      {
+        "conversation": 803,
+        "response": 5,
+        "kind": "static_interactive_capture",
+        "path": "assets/vw_Uat-zI8CC9u8PgePgqAE-1.png"
+      },
+      {
+        "conversation": 803,
+        "response": 6,
+        "kind": "static_interactive_capture",
+        "path": "assets/vw_Uat-zI8CC9u8PgePgqAE-2.png"
+      },
+      {
+        "conversation": 803,
+        "response": 9,
+        "kind": "static_interactive_capture",
+        "path": "assets/vw_Uat-zI8CC9u8PgePgqAE-3.png"
+      },
+      {
+        "conversation": 803,
+        "response": 10,
+        "kind": "static_interactive_capture",
+        "path": "assets/vw_Uat-zI8CC9u8PgePgqAE-4.png"
+      },
+      {
+        "conversation": 808,
+        "response": 2,
+        "kind": "vector_chart",
+        "path": "assets/KBXUasrjO_C9i-gP6eSdwAs-1.svg"
+      },
+      {
+        "conversation": 810,
+        "response": 2,
+        "kind": "vector_chart",
+        "path": "assets/xCHUasOiCL-I9u8Pre2boQQ-1.svg"
+      },
+      {
+        "conversation": 811,
+        "response": 3,
+        "kind": "static_interactive_capture",
+        "path": "assets/aCTUavXiL-Wxi-gPhYzZgA0-1.png"
+      },
+      {
+        "conversation": 819,
+        "response": 8,
+        "kind": "vector_chart",
+        "path": "assets/GzTUaqvsOfyri-gPztKhuAQ-1.svg"
+      },
+      {
+        "conversation": 819,
+        "response": 10,
+        "kind": "vector_chart",
+        "path": "assets/GzTUaqvsOfyri-gPztKhuAQ-2.svg"
+      },
+      {
+        "conversation": 823,
+        "response": 1,
+        "kind": "vector_chart",
+        "path": "assets/jF3UapqMAcH-7_UP6by0yQc-1.svg"
+      },
+      {
+        "conversation": 829,
+        "response": 2,
+        "kind": "map",
+        "path": "assets/829-map.png"
+      },
+      {
+        "conversation": 834,
+        "response": 20,
+        "kind": "static_interactive_capture",
+        "path": "assets/T5LUarPsNIX_7_UPxpeY2QI-1.png"
+      }
+    ],
+    "generatedImages": 5,
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true,
+    "excludedRegeneratedThread": {
+      "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+      "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+      "actualThread": "jLHUaq_LNons7_UPirfomA8"
+    }
   }
 }

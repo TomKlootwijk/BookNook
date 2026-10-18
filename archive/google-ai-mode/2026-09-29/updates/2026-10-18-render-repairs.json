@@ -1,0 +1,27 @@
+[
+  {
+    "conversation": 789,
+    "message": 6,
+    "source": "\\^{T}^{\\dag }",
+    "display": "\\hat{T}^{\\dagger}",
+    "reason": "Match the source-rendered hatted T dagger; original malformed LaTeX is retained."
+  },
+  {
+    "conversations": [
+      826,
+      834
+    ],
+    "reason": "Wrap three long arrow chains and a two-case explanation onto multiple equation rows, retaining the original LaTeX."
+  },
+  {
+    "conversation": 787,
+    "reason": "Paginate the original 550 x 7550 SVG into eleven consecutive vector viewports with 20-pixel overlap. Preserve original SVG and all labels."
+  },
+  {
+    "conversation": 834,
+    "reason": "Wrap the long biological-to-AI arrow chain over multiple equation rows; original LaTeX retained."
+  },
+  {
+    "reason": "Increase conversation-index list padding to 42 pixels so three-digit ordinal markers are fully visible."
+  }
+]

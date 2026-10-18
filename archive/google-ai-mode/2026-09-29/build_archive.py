@@ -54,7 +54,7 @@ img{max-width:100%;max-height:220mm;object-fit:contain;height:auto;break-inside:
 math{font-family:"Cambria Math",serif;font-size:1.04em} .equation{display:inline-block;vertical-align:middle;max-width:100%}.equation.block{display:block;margin:12px 0;text-align:center;break-inside:avoid}.math-fallback{font:9pt Consolas;white-space:pre-wrap}
 .sources{font-size:8.5pt;margin-top:18px;padding-top:7px;border-top:1px dotted #c6d1cb}.sources li{margin:4px 0}.sourceurl{font-size:8pt;color:#526b65}mark{background:#edf3da;color:inherit}
 .citation-inline,.citation-inline div{display:inline;font-size:8pt;color:#64756d}.content img.source-icon{width:14px;height:14px;margin:0 3px;vertical-align:middle}
-.toc li{margin:7px 0;break-inside:avoid}.toc a{color:#174b40}.notice{background:#f5f3e9;border-left:3px solid #aaa174;padding:12px}.pagebreak{break-before:page}.content div{max-width:100%}hr{border:0;border-top:1px solid #d2dbd6;margin:16px 0}
+.toc{padding-left:42px}.toc li{margin:7px 0;break-inside:avoid}.toc a{color:#174b40}.notice{background:#f5f3e9;border-left:3px solid #aaa174;padding:12px}.pagebreak{break-before:page}.content div{max-width:100%}hr{border:0;border-top:1px solid #d2dbd6;margin:16px 0}
 @media print { main{max-width:none;margin:0;padding:0}.screenonly{display:none}a{text-decoration:none}.cover{padding-top:20mm} }
 '''
 CSS = CSS.replace('29 Sep 2026', date.fromisoformat(export_date).strftime('%d %b %Y').lstrip('0'))
