@@ -1,0 +1,208 @@
+{
+  "pages": 4724,
+  "frontPages": 28,
+  "indexPage": 1,
+  "unchangedBodyPages": 4337,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "838": {
+      "pages": 5,
+      "prompts": 4,
+      "responses": 4
+    },
+    "839": {
+      "pages": 36,
+      "prompts": 15,
+      "responses": 15
+    },
+    "840": {
+      "pages": 12,
+      "prompts": 10,
+      "responses": 10
+    },
+    "841": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "842": {
+      "pages": 31,
+      "prompts": 27,
+      "responses": 27
+    },
+    "843": {
+      "pages": 6,
+      "prompts": 8,
+      "responses": 8
+    },
+    "844": {
+      "pages": 3,
+      "prompts": 3,
+      "responses": 3
+    },
+    "845": {
+      "pages": 3,
+      "prompts": 2,
+      "responses": 2
+    },
+    "846": {
+      "pages": 4,
+      "prompts": 5,
+      "responses": 5
+    },
+    "847": {
+      "pages": 4,
+      "prompts": 4,
+      "responses": 4
+    },
+    "848": {
+      "pages": 7,
+      "prompts": 9,
+      "responses": 9
+    },
+    "849": {
+      "pages": 10,
+      "prompts": 3,
+      "responses": 3
+    },
+    "850": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "851": {
+      "pages": 7,
+      "prompts": 7,
+      "responses": 7
+    },
+    "852": {
+      "pages": 3,
+      "prompts": 4,
+      "responses": 4
+    },
+    "853": {
+      "pages": 3,
+      "prompts": 2,
+      "responses": 2
+    },
+    "854": {
+      "pages": 5,
+      "prompts": 4,
+      "responses": 4
+    },
+    "855": {
+      "pages": 9,
+      "prompts": 11,
+      "responses": 11
+    },
+    "856": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "857": {
+      "pages": 31,
+      "prompts": 18,
+      "responses": 18
+    },
+    "858": {
+      "pages": 5,
+      "prompts": 3,
+      "responses": 3
+    },
+    "859": {
+      "pages": 14,
+      "prompts": 13,
+      "responses": 13
+    },
+    "860": {
+      "pages": 7,
+      "prompts": 10,
+      "responses": 10
+    },
+    "861": {
+      "pages": 3,
+      "prompts": 3,
+      "responses": 3
+    },
+    "862": {
+      "pages": 9,
+      "prompts": 6,
+      "responses": 6
+    },
+    "863": {
+      "pages": 9,
+      "prompts": 6,
+      "responses": 6
+    },
+    "864": {
+      "pages": 3,
+      "prompts": 3,
+      "responses": 3
+    },
+    "865": {
+      "pages": 4,
+      "prompts": 2,
+      "responses": 2
+    },
+    "866": {
+      "pages": 6,
+      "prompts": 7,
+      "responses": 7
+    },
+    "867": {
+      "pages": 4,
+      "prompts": 5,
+      "responses": 5
+    },
+    "868": {
+      "pages": 18,
+      "prompts": 15,
+      "responses": 15
+    },
+    "869": {
+      "pages": 7,
+      "prompts": 8,
+      "responses": 8
+    },
+    "870": {
+      "pages": 34,
+      "prompts": 31,
+      "responses": 31
+    },
+    "871": {
+      "pages": 15,
+      "prompts": 13,
+      "responses": 13
+    },
+    "872": {
+      "pages": 13,
+      "prompts": 10,
+      "responses": 10
+    },
+    "873": {
+      "pages": 4,
+      "prompts": 5,
+      "responses": 5
+    },
+    "874": {
+      "pages": 3,
+      "prompts": 2,
+      "responses": 2
+    },
+    "875": {
+      "pages": 13,
+      "prompts": 12,
+      "responses": 12
+    },
+    "876": {
+      "pages": 3,
+      "prompts": 3,
+      "responses": 3
+    }
+  },
+  "internalIndexLinks": 934,
+  "prompts": 4407,
+  "responses": 4409,
+  "streamingReadbackVerified": true
+}

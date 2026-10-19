@@ -1,0 +1,32 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "pause",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Sawtooth",
+      "type": "button",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Pulse",
+      "type": "button",
+      "value": ""
+    }
+  ],
+  "htmlLength": 21284,
+  "svgCount": 1,
+  "text": "pause\nModulator Input\nLarynx Voice\n120 Hz Base\nCarrier Source\nSaw Synth\nHarmonics OK\n10-Band Analysis & Parallel Synthesis Filters Matrix\n150\n300\n450\n600\n900\n1.3k\n1.8k\n2.5k\n3.5k\n5.0k\nBPF Analysis Envelopes\nCarrier Synthesis Filters\nVocoded Audio Output Matrix\nVoice Analysis\n20.0%\nDominant Band\n150 Hz\nSynthesis Output\n24.0 dB\nModulator Larynx Pitch\n120 Hz\nSynth Wave Brightness\n70%\nCarrier Synth Waveform\nSawtooth\nPulse",
+  "bounds": {
+    "height": 500,
+    "width": 652,
+    "x": 398.78125,
+    "y": 170.6666717529297
+  }
+}

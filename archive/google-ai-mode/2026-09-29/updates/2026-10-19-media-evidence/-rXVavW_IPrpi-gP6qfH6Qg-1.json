@@ -1,0 +1,32 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "tag": "INPUT",
+      "text": "",
+      "type": "text",
+      "value": "249876002"
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "type": "date",
+      "value": "1990-07-10"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Ontcijferen",
+      "type": "submit",
+      "value": ""
+    }
+  ],
+  "htmlLength": 3103,
+  "svgCount": 1,
+  "text": "SYSTEEM VERGRENDELD — VOER DE DECODERCODE IN\nREF: 10-07-1990\nSTATUS: GEBLOKKEERD\nCode invoeren\nSleutel Datum\nVoer de exacte code in om de geheime database te ontgrendelen.\nOntcijferen",
+  "bounds": {
+    "height": 493,
+    "width": 652,
+    "x": 295.78125,
+    "y": 174.6666717529297
+  }
+}

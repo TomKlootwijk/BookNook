@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Compared 251 open AI Mode tabs and a full 300-entry visible history sweep. Added 53 conversations with 404 visible prompts and 405 responses. Eleven recent archived threads were checked; previously preserved prompt text was retained when Google omitted it in the new view. Preserved eight vector charts, twelve static interactive doodles, five generated images, a map and two new original PDFs. Eight unavailable uploaded image previews, two simulation errors and one blank source prompt are documented. Unsent drafts and a regenerated search page are excluded. Earlier source gaps, media and Captain of industry GTM remain preserved.",
+  "note": "Compared 266 open AI Mode tabs and a refreshed 300-entry visible history sweep. Added 39 conversations with 296 prompts and 296 responses. Six recently opened archived threads have no new replies. Preserved two original vector charts and six interactive doodles as static vectors, with displayed labels, controls and visual evidence. Two uploaded references link to the previously archived XD-TAU v1.5 PDF. Source code remains text; unavailable sandbox download claims are marked. Unsent drafts and the previously identified regenerated Banana search are excluded. Earlier source gaps, media and Captain of industry GTM remain preserved.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -3473,5 +3473,131 @@
       "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
       "actualThread": "jLHUaq_LNons7_UPirfomA8"
     }
+  },
+  "october19Media": {
+    "openTabs": 266,
+    "historyEntries": 300,
+    "newConversations": 39,
+    "newPrompts": 296,
+    "newResponses": 296,
+    "updatedConversations": [],
+    "recentContinuationChecks": [
+      {
+        "ordinal": 823,
+        "observedPrompts": 12,
+        "archivedPrompts": 12,
+        "responses": 12,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 825,
+        "observedPrompts": 14,
+        "archivedPrompts": 14,
+        "responses": 14,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 826,
+        "observedPrompts": 13,
+        "archivedPrompts": 13,
+        "responses": 13,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 828,
+        "observedPrompts": 21,
+        "archivedPrompts": 21,
+        "responses": 21,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 834,
+        "observedPrompts": 23,
+        "archivedPrompts": 23,
+        "responses": 23,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      },
+      {
+        "ordinal": 837,
+        "observedPrompts": 5,
+        "archivedPrompts": 5,
+        "responses": 5,
+        "newPrompts": 0,
+        "retainedPriorPromptText": false
+      }
+    ],
+    "attachments": [],
+    "sourceErrorResponses": [
+      {
+        "conversation": 843,
+        "response": 1,
+        "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+      }
+    ],
+    "sourceGaps": [],
+    "unavailableUploadedImages": [],
+    "media": [
+      {
+        "conversation": 839,
+        "response": 8,
+        "kind": "vector_chart",
+        "path": "assets/vebUatL9Brv_7_UPis_agAE-1.svg"
+      },
+      {
+        "conversation": 855,
+        "response": 7,
+        "kind": "static_interactive_vector",
+        "path": "assets/-rXVavW_IPrpi-gP6qfH6Qg-1.svg"
+      },
+      {
+        "conversation": 855,
+        "response": 8,
+        "kind": "static_interactive_vector",
+        "path": "assets/-rXVavW_IPrpi-gP6qfH6Qg-2.svg"
+      },
+      {
+        "conversation": 859,
+        "response": 5,
+        "kind": "static_interactive_vector",
+        "path": "assets/h9zVar6uF-uai-gPi4z1yAQ-1.svg"
+      },
+      {
+        "conversation": 859,
+        "response": 13,
+        "kind": "static_interactive_vector",
+        "path": "assets/h9zVar6uF-uai-gPi4z1yAQ-2.svg"
+      },
+      {
+        "conversation": 862,
+        "response": 3,
+        "kind": "static_interactive_vector",
+        "path": "assets/C-rVaqn4CeXoi-gPt7LXwAY-1.svg"
+      },
+      {
+        "conversation": 866,
+        "response": 2,
+        "kind": "static_interactive_vector",
+        "path": "assets/mf_VapH3F_WP9u8Py_3jiAU-1.svg"
+      },
+      {
+        "conversation": 868,
+        "response": 7,
+        "kind": "vector_chart",
+        "path": "assets/XQTWatm5CsuN9u8P2crg4Ak-1.svg"
+      }
+    ],
+    "generatedImages": 0,
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true,
+    "excludedRegeneratedThreads": [
+      "jLHUaq_LNons7_UPirfomA8"
+    ]
   }
 }

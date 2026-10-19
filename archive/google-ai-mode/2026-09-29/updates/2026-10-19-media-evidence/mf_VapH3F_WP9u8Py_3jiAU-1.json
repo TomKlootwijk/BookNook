@@ -1,0 +1,32 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "Q33NY Decoder",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Impact Physics",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "type": "text",
+      "value": "Q33NY"
+    }
+  ],
+  "htmlLength": 7133,
+  "svgCount": 1,
+  "text": "Q33NY Decoder\nImpact Physics\nDebunking the viral 2001 hoax\nQ\n3\n3\nN\nY\n* Fact Check: Neither flight on 9/11 (AA11 or UA175) used registration or tail number \"Q33NY\".\nHOAX ANALYSIS SIMULATOR\nInput Len\n5 chars\nHoax Validity\n0.00% False\nTrue Flight\nAA11 / UA175\nCharacter Sequence Decoder (Try entering 'Q33NY' or custom sequences)\nMyth-Busting Summary: The infamous \"Q33NY\" claims that entering this flight number in Wingdings shows an airplane hitting twin tower symbols followed by a skull crossbones. However, neither plane involved in the September 11 attacks had this tail or flight designation. The sequence was deliberately fabricated to exploit character mapping configurations after the event.",
+  "bounds": {
+    "height": 649,
+    "width": 652,
+    "x": 398.78125,
+    "y": 96.66667175292967
+  }
+}

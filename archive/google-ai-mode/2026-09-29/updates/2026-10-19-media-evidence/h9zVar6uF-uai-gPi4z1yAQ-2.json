@@ -1,0 +1,38 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "pause",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "tag": "SELECT",
+      "text": "All Processing Planes\nAlpha Core\nBeta Routing\nGamma Crypt\nDelta Sync\nTau Storage",
+      "type": "select-one",
+      "value": "all"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Lock Cycles",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "download",
+      "type": "submit",
+      "value": ""
+    }
+  ],
+  "htmlLength": 11357,
+  "svgCount": 1,
+  "text": "Alpha Core\nBeta Routing\nGamma Crypt\nDelta Sync\nTau Storage\npause\nNode A\nNode B\nNode C\nNode D\nNode E\nTOPOLOGY ARCH\n⚡ STREAM ASYNC\nSTREAM INGEST\n375 pkt/s\nTOTAL ROUTED\n1420\nBUS LATENCY\n11.8 ms\nIngest Rate\n30%\nPlane Vector Filter\nAll Processing Planes\nexpand_more\nAll Processing Planes\nAlpha Core\nBeta Routing\nGamma Crypt\nDelta Sync\nTau Storage\nLock Cycles\ndownload",
+  "bounds": {
+    "height": 573,
+    "width": 652,
+    "x": 398.78125,
+    "y": 134.21875
+  }
+}
