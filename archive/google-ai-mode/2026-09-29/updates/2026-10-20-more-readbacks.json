@@ -1,0 +1,122 @@
+[
+  {
+    "id": "-jnXaoCKEZryi-gP2q3X8Qc",
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "exactText": true
+  },
+  {
+    "id": "Y0LXauRByon53w_cuO6ZDQ",
+    "counts": {
+      "prompts": 18,
+      "responses": 18
+    },
+    "exactText": true
+  },
+  {
+    "id": "EGXXaqSzDtuN9u8Pz9ThgQ4",
+    "counts": {
+      "prompts": 10,
+      "responses": 10
+    },
+    "exactText": true
+  },
+  {
+    "id": "X2jXatfXLd6Wi-gPhcSrkQk",
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "exactText": true
+  },
+  {
+    "id": "GWzXarmPG6X_7_UPkfetsQE",
+    "counts": {
+      "prompts": 22,
+      "responses": 22
+    },
+    "exactText": true
+  },
+  {
+    "id": "dXLXaujQFvWA9u8Pic2GqQs",
+    "counts": {
+      "prompts": 13,
+      "responses": 13
+    },
+    "exactText": true
+  },
+  {
+    "id": "CRjXaqu8Hauei-gP88yTiQI",
+    "counts": {
+      "prompts": 24,
+      "responses": 24
+    },
+    "exactText": true
+  },
+  {
+    "id": "rh_Xav7NLOPqi-gPsZPXsQc",
+    "counts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "exactText": true
+  },
+  {
+    "id": "XCHXas6JE6397_UPqoLVsA4",
+    "counts": {
+      "prompts": 6,
+      "responses": 6
+    },
+    "exactText": true
+  },
+  {
+    "id": "ICTXavmOKdiE9u8PpsHjuAg",
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "exactText": true
+  },
+  {
+    "id": "mCXXar_fC6C8i-gP-OnC2Q4",
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "exactText": false
+  },
+  {
+    "id": "USjXasLyJuTBi-gP36-hIQ",
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "exactText": false
+  },
+  {
+    "id": "xCrXau_sI766i-gP9YCCyQo",
+    "counts": {
+      "prompts": 8,
+      "responses": 8
+    },
+    "exactText": true
+  },
+  {
+    "id": "6y_XaoeWKOn-7_UPq4alqAQ",
+    "counts": {
+      "prompts": 18,
+      "responses": 18
+    },
+    "exactText": true
+  },
+  {
+    "id": "vn3Xavn0C7rm7_UP-sDj4Q8",
+    "counts": {
+      "prompts": 7,
+      "responses": 7
+    },
+    "exactText": false
+  }
+]

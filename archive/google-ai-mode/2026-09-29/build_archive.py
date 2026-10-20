@@ -117,7 +117,7 @@ def clean_message(item, ordinal, index):
     # Live maps use short-lived blob tiles. Preserve a read-only raster capture
     # of the rendered map, including its attribution, for offline documents.
     for region in list(soup.select('[role="region"][aria-label^="Map of"]')):
-        map_capture = ROOT / 'assets' / f'{ordinal:02d}-map.png'
+        map_capture = ROOT / item.get('mapCapturePath', f'assets/{ordinal:02d}-map.png')
         if not map_capture.exists() and ordinal == 101:
             map_capture = ROOT / 'assets' / '101-map-source-2.png'
         if map_capture.exists():

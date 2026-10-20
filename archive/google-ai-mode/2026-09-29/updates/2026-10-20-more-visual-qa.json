@@ -1,0 +1,18 @@
+{
+  "reviewedAt": "2026-10-20T15:47:06.583623+00:00",
+  "newPagesRendered": 283,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 15,
+  "headingMinimumPt": 20,
+  "layoutFix": "Wrapped long formula in conversation 925; original LaTeX preserved.",
+  "sourceGaps": [
+    "One missing uploaded image",
+    "One blank source visualizer",
+    "One original empty plotting area"
+  ],
+  "result": "passed",
+  "formulaFinalRenderSha256": "8d5cae452f5fc2568fe10d7d1135b6ca62ec1fe5d61f3635285f33db0b0bc81a",
+  "finalFormulaRenderReviewed": true,
+  "videoReferenceRestoredAndReviewed": true,
+  "chapter926Sha256": "df4497d68a4c37c356b980bc589e5419b219f0ffb356a918ed7e8e50a0a1044b"
+}

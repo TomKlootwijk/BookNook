@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Compared 287 open AI Mode tabs, a refreshed 300-entry visible history sweep and one subsequently opened conversation. Added 35 conversations with 190 prompts and 191 responses. All new transcripts were read back after loading. Six recent archived threads have no new replies. Preserved thirteen generated images, three original vector charts, nine interactive doodles as static vectors, a map, the original local specification PDF and 4 downloadable source documents. One unavailable uploaded image and an extra response without a visible prompt are marked. Unavailable generated-file claims remain text. Unsent drafts and the previously identified regenerated Banana search are excluded. Earlier source gaps, media and Captain of industry GTM remain preserved.",
+  "note": "Compared 79 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added fifteen conversations with 147 prompts and 147 responses. Every new transcript was read back; the readback recovered four initially unloaded exchanges. Five recent archived conversations have no new replies. Preserved three generated images, three original vector charts, two interactive doodles as static vector snapshots, two original map images and the locally recovered original uploaded video. One unavailable uploaded reference image and one blank interactive visualizer are explicitly marked. Prior archive content and media remain preserved. Earlier source gaps and Captain of industry GTM remain preserved. The first original chart contains an empty plotting area, preserved as observed.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -3819,5 +3819,154 @@
     "excludedRegeneratedThreads": [
       "jLHUaq_LNons7_UPirfomA8"
     ]
+  },
+  "october20MoreMedia": {
+    "openTabsInitial": 79,
+    "openTabs": 99,
+    "historyEntries": 300,
+    "newConversations": 15,
+    "newPrompts": 147,
+    "newResponses": 147,
+    "updatedConversations": [],
+    "recentContinuationChecks": [
+      {
+        "ordinal": 775,
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "newPrompts": 0,
+        "newResponses": 0
+      },
+      {
+        "ordinal": 846,
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "newPrompts": 0,
+        "newResponses": 0
+      },
+      {
+        "ordinal": 908,
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "newPrompts": 0,
+        "newResponses": 0
+      },
+      {
+        "ordinal": 907,
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "newPrompts": 0,
+        "newResponses": 0
+      },
+      {
+        "ordinal": 906,
+        "counts": {
+          "prompts": 7,
+          "responses": 7
+        },
+        "newPrompts": 0,
+        "newResponses": 0
+      }
+    ],
+    "attachments": [
+      {
+        "title": "WhatsApp Video 2026-10-20 at 16.46.14.mp4",
+        "path": "attachments/WhatsApp Video 2026-10-20 at 16.46.14.mp4",
+        "bytes": 13431656,
+        "sha256": "d08b8c53cee90ad27496f13fa2d487ee0ca52b21c78818d3de14bd30c3de9ff0",
+        "provenance": "Local original matching the exact uploaded video filename. No claim is made that filename or filesystem timestamps prove events described by the source response."
+      }
+    ],
+    "sourceErrorResponses": [
+      {
+        "conversation": 921,
+        "response": 13,
+        "text": "It looks like there's no response available for this search. Try asking something else."
+      },
+      {
+        "conversation": 925,
+        "response": 10,
+        "text": "Something went wrong and an AI response wasn't generated."
+      }
+    ],
+    "sourceGaps": [
+      {
+        "conversation": 917,
+        "response": 4,
+        "note": "Source visualizer gap: this embedded interactive visualizer remains blank in Google after reopening and bringing it into view. Its frame URL and source response are preserved, but no unseen diagram has been reconstructed.",
+        "sourceFrame": {
+          "src": "https://4wotphf1hvnhgigeceib04urostca1du7x0a911fkctneqkflr-h998661601.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+          "title": "Security content container",
+          "uuid": "27eea9b3-60fd-4a5f-bf63-8fb8bad871cf"
+        }
+      },
+      {
+        "conversation": 923,
+        "prompt": 3,
+        "note": "Source image gap: Google displays a missing-image placeholder for this uploaded reference. Its original pixels are unavailable in the saved conversation. The complete prompt and all three generated images are preserved."
+      },
+      {
+        "conversation": 912,
+        "response": 2,
+        "note": "Source chart gap: the original Kinematic Calculus Profile chart displays an empty plotting area. Its observed vector image is preserved exactly; no missing curves or labels have been invented."
+      }
+    ],
+    "media": [
+      {
+        "conversation": 912,
+        "response": 2,
+        "kind": "vector_chart",
+        "path": "assets/CRjXaqu8Hauei-gP88yTiQI-1.svg"
+      },
+      {
+        "conversation": 912,
+        "response": 3,
+        "kind": "vector_chart",
+        "path": "assets/CRjXaqu8Hauei-gP88yTiQI-2.svg"
+      },
+      {
+        "conversation": 919,
+        "response": 6,
+        "kind": "static_interactive_vector",
+        "path": "assets/6y_XaoeWKOn-7_UPq4alqAQ-1.svg"
+      },
+      {
+        "conversation": 919,
+        "response": 10,
+        "kind": "static_interactive_vector",
+        "path": "assets/6y_XaoeWKOn-7_UPq4alqAQ-2.svg"
+      },
+      {
+        "conversation": 919,
+        "response": 17,
+        "kind": "vector_chart",
+        "path": "assets/6y_XaoeWKOn-7_UPq4alqAQ-3.svg"
+      },
+      {
+        "conversation": 922,
+        "response": 3,
+        "kind": "original_map_image",
+        "path": "assets/2026-10-20-more-e35b0b3f0d797e380ff0.png"
+      },
+      {
+        "conversation": 922,
+        "response": 9,
+        "kind": "original_map_image",
+        "path": "assets/2026-10-20-more-2851868683c56aab4522.png"
+      }
+    ],
+    "generatedImages": 3,
+    "maps": 2,
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true
   }
 }

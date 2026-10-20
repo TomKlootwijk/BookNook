@@ -1,0 +1,13 @@
+{
+  "text": "",
+  "svg": [],
+  "canvases": 0,
+  "unavailable": true,
+  "reason": "The source iframe remains blank after loading, reopening and bringing it into view. Its nested frame did not expose a rendered body.",
+  "sourceFrame": {
+    "src": "https://4wotphf1hvnhgigeceib04urostca1du7x0a911fkctneqkflr-h998661601.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+    "title": "Security content container",
+    "uuid": "27eea9b3-60fd-4a5f-bf63-8fb8bad871cf"
+  },
+  "capturedAt": "2026-10-20T15:40:05.358Z"
+}

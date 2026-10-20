@@ -1,0 +1,162 @@
+{
+  "at": "2026-10-20T15:40:24.302106+00:00",
+  "date": "2026-10-20",
+  "batchId": "2026-10-20-more",
+  "openAiModeTabs": 99,
+  "historyConversations": 300,
+  "method": "Compared 79 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added fifteen conversations with 147 prompts and 147 responses. Every new transcript was read back; the readback recovered four initially unloaded exchanges. Five recent archived conversations have no new replies. Preserved three generated images, three original vector charts, two interactive doodles as static vector snapshots, two original map images and the locally recovered original uploaded video. One unavailable uploaded reference image and one blank interactive visualizer are explicitly marked. Prior archive content and media remain preserved. The first original chart contains an empty plotting area, also explicitly marked.",
+  "records": [
+    {
+      "ordinal": 912,
+      "title": "Opportunity Cost Affordances",
+      "status": "added",
+      "counts": {
+        "prompts": 24,
+        "responses": 24
+      }
+    },
+    {
+      "ordinal": 913,
+      "title": "Autonomous Dead Reckoning Drones",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 914,
+      "title": "Deterministic Architectural Paradigm",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 915,
+      "title": "Chrono Spatiotemporal Hysteresis",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 916,
+      "title": "Atomic and Chemical Clock Comparison",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 917,
+      "title": "Idea Discussion",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 918,
+      "title": "Hypercube Tron Concepts",
+      "status": "added",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 919,
+      "title": "Stemvork Cilinder Ponskaarten Systeem",
+      "status": "added",
+      "counts": {
+        "prompts": 18,
+        "responses": 18
+      }
+    },
+    {
+      "ordinal": 920,
+      "title": "Possible Animal Senses",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 921,
+      "title": "Unbreakable Cryptographic Cipher",
+      "status": "added",
+      "counts": {
+        "prompts": 18,
+        "responses": 18
+      }
+    },
+    {
+      "ordinal": 922,
+      "title": "Biochemical Shadow Interactions",
+      "status": "added",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 923,
+      "title": "3 Point Knot Design",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 924,
+      "title": "Maggots on Flesh",
+      "status": "added",
+      "counts": {
+        "prompts": 22,
+        "responses": 22
+      }
+    },
+    {
+      "ordinal": 925,
+      "title": "Troop Transport During World War II",
+      "status": "added",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      }
+    },
+    {
+      "ordinal": 926,
+      "title": "Huisvlieg Onderscheiden",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    }
+  ],
+  "newOrdinals": [
+    912,
+    913,
+    914,
+    915,
+    916,
+    917,
+    918,
+    919,
+    920,
+    921,
+    922,
+    923,
+    924,
+    925,
+    926
+  ]
+}
