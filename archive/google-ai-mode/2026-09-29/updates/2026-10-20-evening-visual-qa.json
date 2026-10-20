@@ -1,0 +1,57 @@
+{
+  "reviewedAt": "2026-10-20T20:33:55.699305+00:00",
+  "newPagesRendered": 43,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 3,
+  "headingMinimumPt": 20,
+  "highResolutionReview": [
+    "front-cover.png",
+    "page-5520.png"
+  ],
+  "sourceGaps": [],
+  "originalErrorResponsesPreserved": [
+    {
+      "conversation": 932,
+      "response": 9
+    }
+  ],
+  "chapters": [
+    {
+      "conversation": 927,
+      "pages": 2,
+      "sha256": "08f973ed029186679c2499e5bfb5828b7a3cd4d65228690a8c6598e1acc3bdbc",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 928,
+      "pages": 11,
+      "sha256": "5ba369a0b2e123d01cbe855d2a20e34f7fdd2b5323e4cb0300b4ca7335d12c03",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 929,
+      "pages": 6,
+      "sha256": "f49f31856389360b74fdde37471ec9f0949235c96f0ac1576c7e0f6dd2050b08",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 930,
+      "pages": 6,
+      "sha256": "dacf58184e1b9365605ab80f20d5a4fea72ac31e777590dd04a4b0e61d3b0362",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 931,
+      "pages": 4,
+      "sha256": "a56588d6dfd534cb11175db1a3aa67b72baa8d1a5943a51fc6bb1ef386159083",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 932,
+      "pages": 14,
+      "sha256": "b21922fd3e4e3f1586fe88bb3501a16bc550f6a7be48c66415d6a64721b45be8",
+      "maxHeadingPt": 20.999999125
+    }
+  ],
+  "result": "passed"
+}

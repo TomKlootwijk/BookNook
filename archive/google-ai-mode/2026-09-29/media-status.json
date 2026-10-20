@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Compared 79 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added fifteen conversations with 147 prompts and 147 responses. Every new transcript was read back; the readback recovered four initially unloaded exchanges. Five recent archived conversations have no new replies. Preserved three generated images, three original vector charts, two interactive doodles as static vector snapshots, two original map images and the locally recovered original uploaded video. One unavailable uploaded reference image and one blank interactive visualizer are explicitly marked. Prior archive content and media remain preserved. Earlier source gaps and Captain of industry GTM remain preserved. The first original chart contains an empty plotting area, preserved as observed.",
+  "note": "Compared 84 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added six conversations with 29 prompts and 29 responses, including one closed conversation recovered from history. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Embedded source images are preserved; this batch contains no interactive frames or uploaded attachments. Prior source media, source gaps, original video and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -3968,5 +3968,85 @@
     "unmatchedHistory": [],
     "preservedPriorMedia": true,
     "unsentDraftExcluded": true
+  },
+  "october20EveningMedia": {
+    "openTabsInitial": 84,
+    "openTabs": 93,
+    "historyEntries": 300,
+    "newConversations": 6,
+    "newPrompts": 29,
+    "newResponses": 29,
+    "updatedConversations": [],
+    "recentContinuationChecks": [
+      {
+        "ordinal": 926,
+        "counts": {
+          "prompts": 7,
+          "responses": 7
+        },
+        "prior": {
+          "prompts": 7,
+          "responses": 7
+        },
+        "samePrompts": true
+      },
+      {
+        "ordinal": 923,
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "prior": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "samePrompts": true
+      },
+      {
+        "ordinal": 925,
+        "counts": {
+          "prompts": 13,
+          "responses": 13
+        },
+        "prior": {
+          "prompts": 13,
+          "responses": 13
+        },
+        "samePrompts": true
+      },
+      {
+        "ordinal": 924,
+        "counts": {
+          "prompts": 22,
+          "responses": 22
+        },
+        "prior": {
+          "prompts": 22,
+          "responses": 22
+        },
+        "samePrompts": true
+      }
+    ],
+    "attachments": [],
+    "sourceErrorResponses": [
+      {
+        "conversation": 932,
+        "response": 9,
+        "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+      }
+    ],
+    "sourceGaps": [],
+    "media": [],
+    "generatedImages": 0,
+    "maps": 0,
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true,
+    "excludedRegeneratedThread": {
+      "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+      "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+      "actualThread": "jLHUaq_LNons7_UPirfomA8"
+    }
   }
 }

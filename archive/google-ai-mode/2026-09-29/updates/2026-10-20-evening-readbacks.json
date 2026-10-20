@@ -1,0 +1,68 @@
+[
+  {
+    "threadId": "X8nXasSBE-SR9u8P2KyImQY",
+    "counts": {
+      "prompts": 10,
+      "responses": 10
+    },
+    "previousCounts": {
+      "prompts": 10,
+      "responses": 10
+    }
+  },
+  {
+    "threadId": "-8XXao71GcWB9u8P64Wz0QY",
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "previousCounts": {
+      "prompts": 2,
+      "responses": 2
+    }
+  },
+  {
+    "threadId": "XcTXavesHdaH9u8PsuHNsA4",
+    "counts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "previousCounts": {
+      "prompts": 3,
+      "responses": 3
+    }
+  },
+  {
+    "threadId": "Q77XarWoGoLKi-gPw93O8AI",
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "previousCounts": {
+      "prompts": 2,
+      "responses": 2
+    }
+  },
+  {
+    "threadId": "M5HXauOmAtyO-d8P47OgkAk",
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "previousCounts": {
+      "prompts": 1,
+      "responses": 1
+    }
+  },
+  {
+    "threadId": "nbTXatnLMPGM9u8PiIePiAo",
+    "counts": {
+      "prompts": 11,
+      "responses": 11
+    },
+    "previousCounts": {
+      "prompts": 11,
+      "responses": 11
+    }
+  }
+]
