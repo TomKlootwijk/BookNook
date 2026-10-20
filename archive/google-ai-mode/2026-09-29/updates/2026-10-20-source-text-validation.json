@@ -1,0 +1,287 @@
+{
+  "newTranscriptTextExact": true,
+  "newConversations": 35,
+  "sourceReadbacks": 35,
+  "records": [
+    {
+      "conversation": 877,
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 878,
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 879,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 880,
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 881,
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 882,
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 883,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 884,
+      "counts": {
+        "prompts": 17,
+        "responses": 17
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 885,
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 886,
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 887,
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 888,
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 889,
+      "counts": {
+        "prompts": 15,
+        "responses": 15
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 890,
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 891,
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 892,
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 893,
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 894,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 895,
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 896,
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 897,
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 898,
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 899,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 900,
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 901,
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 902,
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 903,
+      "counts": {
+        "prompts": 11,
+        "responses": 12
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 904,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 905,
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 906,
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 907,
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 908,
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 909,
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 910,
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "textExact": true
+    },
+    {
+      "conversation": 911,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "textExact": true
+    }
+  ]
+}

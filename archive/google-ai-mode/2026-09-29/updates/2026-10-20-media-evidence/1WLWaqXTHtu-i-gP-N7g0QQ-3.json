@@ -1,0 +1,27 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "text": "pause",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "4 Quadrant Matrix\n6 Hexagonal Radial\n8 Octagonal Cluster\n12 High Density Sectors",
+      "type": "select-one",
+      "value": "6"
+    },
+    {
+      "text": "Organic",
+      "type": "button",
+      "value": ""
+    },
+    {
+      "text": "Synthetic",
+      "type": "button",
+      "value": ""
+    }
+  ],
+  "svgCount": 1,
+  "text": "pause\nBIOMETRIC VITALS DETECTED\nHEART RATE\n65 BPM\nACTION POINTS (AP)\n116/120\nCORTISOL INDUCTION\n16.0 ng/mL\nFOVEATION PROFILE\nSCAN TYPE\nBIO-ORGANIC\nSECTOR SEGMENTS\n6 ZONE MATRIX\nGAZE BIAS OFFSET\nX:34 Y:-28\nEYE_TRK // FOCUS\nCRANIUM\n93%\n35AP\nCORE MATRIX\n95%\n25AP\nL-ACTUATOR\n68%\n30AP\nR-ACTUATOR\n81%\n30AP\nPROPULSION\n53%\n40AP\nSYSTEM: VATS_V3.0 // FOVEATION STATUS: STABLE\nSYNC MATRIX\n95%\nCRIT CHARGE\n9%\nGAZE RESOLUTION\n236.0 samples/deg\nStress Factor (Heart Rate)\n65 BPM\nKaleidoscope Mesh Density\n6 Sector Segments\nexpand_more\n4 Quadrant Matrix\n6 Hexagonal Radial\n8 Octagonal Cluster\n12 High Density Sectors\nV.A.T.S Target Scanner Profile\nOrganic\nSynthetic"
+}

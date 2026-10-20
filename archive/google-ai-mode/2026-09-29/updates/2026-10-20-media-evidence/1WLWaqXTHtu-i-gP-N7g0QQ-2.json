@@ -1,0 +1,22 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "text": "pause",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "Logarithmic Bubble",
+      "type": "button",
+      "value": ""
+    },
+    {
+      "text": "Linear Field",
+      "type": "button",
+      "value": ""
+    }
+  ],
+  "svgCount": 1,
+  "text": "pause\nAURA SPATIAL AFFORDANCE FIELD\nLogarithmic Proportional Compression\nVital Layer\nTactical Layer\nStrategic Bounds\nfavorite\nBiometrics\nhearing\nComms Link\nradar\nProximity Radar\nfront_hand\nGesture Feed\nthermostat\nEnvironment Flux\nlanguage\nQuantum Net\nsecurity\nThreat Matrix\nActive Focus\nNone (Scan System)\nTelemetry Sig\n--\nAura Compression\nLog (1.5x)\nAura Layout Projection\nLogarithmic Bubble\nLinear Field\nCursor Proximity Sensitivity\n1.5x\nAura Field Scale Bounds\n100%"
+}

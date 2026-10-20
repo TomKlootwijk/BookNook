@@ -1,0 +1,12 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "text": "pause",
+      "type": "submit",
+      "value": ""
+    }
+  ],
+  "svgCount": 1,
+  "text": "pause\nhome\nHome System\nrocket_launch\nQuantum Drive\nradar\nSensor Array\npsychology\nNeural Network\ngrid_view\nInventory Grid\nhub\nComms Relay\nbolt\nPower Grid\nsettings\nSystem Config\nFocus Vector\n326.0, 183.4\nActive Affordance\nHome System\nPeak Distortion\n1.20x\nLogarithmic Curve Intensity\n3.5\nAir Bubble Size (px)\n100px"
+}

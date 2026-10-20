@@ -1,0 +1,42 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "text": "pause",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "■ DISCONNECT HOST",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "■ UNLATCH SEED",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "🔓 RESET TARGET FILTER",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "🧹 CLEAR TERMINAL LOG",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "",
+      "type": "text",
+      "value": ""
+    },
+    {
+      "text": "EXECUTE",
+      "type": "submit",
+      "value": ""
+    }
+  ],
+  "svgCount": 1,
+  "text": "pause\n01001\n0x0\n01001\n0xd\n10110\n0x1a\n10110\n0x27\n01001\n0x34\n10110\n0x41\n10110\n0x4e\n01001\n0x5b\n01001\n0x68\n01001\n0x75\n01001\n0x82\n10110\n0x8f\nGENESIS: TOM KLOOTWIJK\nSHA256: NL200678942\n♀ AES:85\nSOC:78\n♀ AES:71\nSOC:90\n♀ AES:94\nSOC:87\n♀ AES:89\nSOC:77\n♀ AES:84\nSOC:91\n♀ AES:76\nSOC:97\n♀ AES:74\nSOC:71\n♀ AES:92\nSOC:79\n♀ AES:78\nSOC:78\n♀ AES:90\nSOC:75\nLatched Targets\nFemale Nodes\nOther Nodes\nSECURE SHELL MATRIX CONNECTED\nHOST NODE\nT. Klootwijk\nSEED INTEGRITY\nSHA256 LOCKED\nLATCHED NODES\n10 / 10 HVT\n[11:46:22]\nGENESIS CORE SYSTEM ONLINE\n[11:46:23]\n>\ninit_genesis --host=\"Tom Klootwijk\"\n[11:46:23]\nHost set to Tom Klootwijk. Genesis block spawned.\n[11:46:24]\n>\nbind_sha256_seed --id=\"NL200678942\"\n[11:46:24]\nCryptographic biometric signatures latched to seed.\n[11:46:25]\n>\nset_hvt_filter --gender=\"female\" --metric=\"aesthetics_social\"\n[11:46:25]\nHigh Value Target (HVT) criteria uploaded. Monitoring nodes...\n■ DISCONNECT HOST\n■ UNLATCH SEED\n🔓 RESET TARGET FILTER\n🧹 CLEAR TERMINAL LOG\n>\nEXECUTE"
+}

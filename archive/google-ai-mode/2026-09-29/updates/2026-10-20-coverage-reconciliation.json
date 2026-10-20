@@ -1,0 +1,220 @@
+{
+  "openTabs": 287,
+  "historyEntries": 300,
+  "additionalHistoryEntries": 1,
+  "newConversations": 35,
+  "newPrompts": 190,
+  "newResponses": 191,
+  "updatedConversations": [],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 871,
+      "observedPrompts": 13,
+      "archivedPrompts": 13,
+      "responses": 13,
+      "newPrompts": 0,
+      "retainedPriorPromptText": false
+    },
+    {
+      "ordinal": 872,
+      "observedPrompts": 10,
+      "archivedPrompts": 10,
+      "responses": 10,
+      "newPrompts": 0,
+      "retainedPriorPromptText": false
+    },
+    {
+      "ordinal": 873,
+      "observedPrompts": 5,
+      "archivedPrompts": 5,
+      "responses": 5,
+      "newPrompts": 0,
+      "retainedPriorPromptText": false
+    },
+    {
+      "ordinal": 874,
+      "observedPrompts": 2,
+      "archivedPrompts": 2,
+      "responses": 2,
+      "newPrompts": 0,
+      "retainedPriorPromptText": false
+    },
+    {
+      "ordinal": 875,
+      "observedPrompts": 12,
+      "archivedPrompts": 12,
+      "responses": 12,
+      "newPrompts": 0,
+      "retainedPriorPromptText": false
+    },
+    {
+      "ordinal": 876,
+      "observedPrompts": 3,
+      "archivedPrompts": 3,
+      "responses": 3,
+      "newPrompts": 0,
+      "retainedPriorPromptText": false
+    }
+  ],
+  "attachments": [
+    {
+      "title": "TOWNSENDCAPSTONECORNER_Specification.pdf",
+      "path": "attachments/TOWNSENDCAPSTONECORNER_Specification.pdf",
+      "sourcePath": "C:\\TOMWERKPLEKTORENTJE\\KUNSTVOORGELDHOEREN\\TOWNSENDCAPSTONECORNER_Specification.pdf",
+      "sha256": "9eb82967d10b3df7b655bbda86d0adf6021428fa42b1f1750734b82efa3aad14",
+      "pages": 80,
+      "provenance": "Local original matching the uploaded filename; first-page title verified."
+    },
+    {
+      "title": "patent_specification.md",
+      "path": "attachments/patent_specification.md",
+      "sourceUrl": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6NDE3MzcwZTg0NmU2NGU1NTowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlM2NkYjdhOTNhZhACGAEiDXRleHQvbWFya2Rvd24qF3BhdGVudF9zcGVjaWZpY2F0aW9uLm1k",
+      "conversation": 895,
+      "sha256": "e017c0001979d1bed8f7ab876c01d9ffba9dd84ac76b0da6ae7d3d78530a94b0",
+      "provenance": "Downloaded through the original Google conversation link."
+    },
+    {
+      "title": "system_architecture_manifest.md",
+      "path": "attachments/system_architecture_manifest.md",
+      "sourceUrl": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6YzYyZDhjMDFiYTkwZDgxNTowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlM2NhMjMxMTgzZhACGAEiDXRleHQvbWFya2Rvd24qH3N5c3RlbV9hcmNoaXRlY3R1cmVfbWFuaWZlc3QubWQ=",
+      "conversation": 892,
+      "sha256": "c6e842702836b86780b8b9f9b5bc58901f2388b280c0c2a3499bd0eb468fe838",
+      "provenance": "Downloaded through the original Google conversation link."
+    },
+    {
+      "title": "Miffy_Museum_Pass_Tom_Klootwijk.pdf",
+      "path": "attachments/Miffy_Museum_Pass_Tom_Klootwijk.pdf",
+      "sourceUrl": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6OWNhMmYzMTM5Y2VlYjcwOTowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlMzYyZDFkM2EwZhACGAEiD2FwcGxpY2F0aW9uL3BkZiojTWlmZnlfTXVzZXVtX1Bhc3NfVG9tX0tsb290d2lqay5wZGY=",
+      "conversation": 882,
+      "sha256": "175e009ffe1d1281616b776678df139d82bef01c31ec335c49dc69ef90b0365b",
+      "provenance": "Downloaded through the original Google conversation link."
+    },
+    {
+      "title": "Tom_Klootwijk_Protocol_Specification-v2.pdf",
+      "path": "attachments/Tom_Klootwijk_Protocol_Specification-v2.pdf",
+      "sourceUrl": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6NDNmZDYwOTJmOWI5ZGVkYzowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlM2RmODQyZTg4ZhACGAEiD2FwcGxpY2F0aW9uL3BkZiorVG9tX0tsb290d2lqa19Qcm90b2NvbF9TcGVjaWZpY2F0aW9uLXYyLnBkZg==",
+      "conversation": 903,
+      "sha256": "3d991ab377c55eb6147e99315009e1c5f8d2cabefbaa9ab14d88fcba4c0675e1",
+      "provenance": "Downloaded through the original Google conversation link."
+    }
+  ],
+  "sourceErrorResponses": [
+    {
+      "conversation": 878,
+      "response": 3,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+    },
+    {
+      "conversation": 884,
+      "response": 8,
+      "text": "Something went wrong and an AI response wasn't generated."
+    },
+    {
+      "conversation": 884,
+      "response": 16,
+      "text": "Something went wrong and an AI response wasn't generated."
+    },
+    {
+      "conversation": 895,
+      "response": 3,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+    }
+  ],
+  "sourceGaps": [
+    {
+      "conversation": 903,
+      "response": 2,
+      "note": "Source gap: Google displays this additional response without a separate visible prompt. Both responses and every visible prompt are preserved in their source order; no missing prompt has been invented."
+    }
+  ],
+  "unavailableUploadedImages": [
+    {
+      "conversation": 884,
+      "prompt": 3,
+      "note": "Source image gap: Google shows a missing-image placeholder for this uploaded signature image. Its pixels are not available in the saved conversation; the complete prompt and later generated images are preserved."
+    }
+  ],
+  "media": [
+    {
+      "conversation": 879,
+      "response": 3,
+      "kind": "static_interactive_vector",
+      "path": "assets/u1XWatf-LPb_7_UPzceYoAw-1.svg"
+    },
+    {
+      "conversation": 879,
+      "response": 4,
+      "kind": "static_interactive_vector",
+      "path": "assets/u1XWatf-LPb_7_UPzceYoAw-2.svg"
+    },
+    {
+      "conversation": 881,
+      "response": 1,
+      "kind": "static_interactive_vector",
+      "path": "assets/1WLWaqXTHtu-i-gP-N7g0QQ-1.svg"
+    },
+    {
+      "conversation": 881,
+      "response": 2,
+      "kind": "static_interactive_vector",
+      "path": "assets/1WLWaqXTHtu-i-gP-N7g0QQ-2.svg"
+    },
+    {
+      "conversation": 881,
+      "response": 3,
+      "kind": "static_interactive_vector",
+      "path": "assets/1WLWaqXTHtu-i-gP-N7g0QQ-3.svg"
+    },
+    {
+      "conversation": 881,
+      "response": 4,
+      "kind": "static_interactive_vector",
+      "path": "assets/1WLWaqXTHtu-i-gP-N7g0QQ-4.svg"
+    },
+    {
+      "conversation": 881,
+      "response": 7,
+      "kind": "static_interactive_vector",
+      "path": "assets/1WLWaqXTHtu-i-gP-N7g0QQ-5.svg"
+    },
+    {
+      "conversation": 881,
+      "response": 9,
+      "kind": "static_interactive_vector",
+      "path": "assets/1WLWaqXTHtu-i-gP-N7g0QQ-6.svg"
+    },
+    {
+      "conversation": 897,
+      "response": 3,
+      "kind": "vector_chart",
+      "path": "assets/Nd3WaoWIC7yO9u8P_biegAY-1.svg"
+    },
+    {
+      "conversation": 897,
+      "response": 4,
+      "kind": "vector_chart",
+      "path": "assets/Nd3WaoWIC7yO9u8P_biegAY-2.svg"
+    },
+    {
+      "conversation": 902,
+      "response": 2,
+      "kind": "vector_chart",
+      "path": "assets/9erWaoHPBcvp7_UPwZyP6A4-1.svg"
+    },
+    {
+      "conversation": 906,
+      "response": 7,
+      "kind": "static_interactive_vector",
+      "path": "assets/E_PWar_KN_S79u8Pz-iZaA-1.svg"
+    }
+  ],
+  "generatedImages": 13,
+  "maps": 1,
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true,
+  "excludedRegeneratedThreads": [
+    "jLHUaq_LNons7_UPirfomA8"
+  ]
+}

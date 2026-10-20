@@ -1,0 +1,27 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "text": "pause",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "Orbital Grid Map",
+      "type": "button",
+      "value": ""
+    },
+    {
+      "text": "Telemetry Matrices",
+      "type": "button",
+      "value": ""
+    },
+    {
+      "text": "",
+      "type": "range",
+      "value": "1.2"
+    }
+  ],
+  "svgCount": 1,
+  "text": "pause\nActive Link\nSignal Degradation\nOffline Node\nSF_BAY_TACTICAL_GRID\nV-01 (100%)\nV-02\nV-03\nV-04\nV-05\nGRID SYNC RATE\n40.0%\nLINKED NODES\n2 / 5\nTHREAT FACTOR\n60.0%\nCommander Tactical Viewport\nOrbital Grid Map\nTelemetry Matrices\nNeural Overdrive Coupling Sync Gain\nx1.2\nFOCUS POINT LINK: V-01\nACTIVE\nCallsign Unit\nInterceptor Prime\nPossession Lock\n100%\nQuantum Possession Priority Leaderboard\n01\nspeed\nInterceptor Prime\nSIG: 100%\n100%\n02\nradar\nFalcon Recon Alpha\nSIG: 100%\n100%\n03\nshield\nEnforcer Heavy 09\nSIG: 10%\n0%\n04\nradar\nGrid Sweeper Echo\nSIG: 10%\n0%\n05\ndns\nMobile Node Lambda\nSIG: 0%\n0%"
+}

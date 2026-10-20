@@ -1,0 +1,363 @@
+{
+  "at": "2026-10-20T05:51:10.568381+00:00",
+  "date": "2026-10-20",
+  "batchId": "2026-10-20",
+  "openAiModeTabs": 287,
+  "uniqueOpenConversations": 277,
+  "historyConversations": 300,
+  "method": "Compared 287 open AI Mode tabs, a refreshed 300-entry visible history sweep and one subsequently opened conversation. Added 35 conversations with 190 prompts and 191 responses. All new transcripts were read back after loading. Six recent archived threads have no new replies. Preserved thirteen generated images, three original vector charts, nine interactive doodles as static vectors, a map, the original local specification PDF and 4 downloadable source documents. One unavailable uploaded image and an extra response without a visible prompt are marked. Unavailable generated-file claims remain text. Unsent drafts and the previously identified regenerated Banana search are excluded.",
+  "records": [
+    {
+      "ordinal": 877,
+      "title": "Grand Theft Auto Wasted Message",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 878,
+      "title": "DIY Pig Mask Butchering",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 879,
+      "title": "Left 4 Dead AI Director",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 880,
+      "title": "Rick and Morty App Request",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 881,
+      "title": "Radial VR UI Affordances",
+      "status": "added",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      }
+    },
+    {
+      "ordinal": 882,
+      "title": "B-2 Stealth Bomber",
+      "status": "added",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      }
+    },
+    {
+      "ordinal": 883,
+      "title": "Pokemon Card Collection Concept",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 884,
+      "title": "Lower Case Phi Symbol",
+      "status": "added",
+      "counts": {
+        "prompts": 17,
+        "responses": 17
+      }
+    },
+    {
+      "ordinal": 885,
+      "title": "Bathory Clock Tower Guide",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 886,
+      "title": "Acid Demonstration Reagent List",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 887,
+      "title": "Inca Human Sacrifice",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 888,
+      "title": "Witte Duifstraat 21 Krommenie",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 889,
+      "title": "Hamiltonian Physics and Fluids",
+      "status": "added",
+      "counts": {
+        "prompts": 15,
+        "responses": 15
+      }
+    },
+    {
+      "ordinal": 890,
+      "title": "Generics Explained",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 891,
+      "title": "Coriolis Effect Motto",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 892,
+      "title": "Controlled Demolition Methods",
+      "status": "added",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      }
+    },
+    {
+      "ordinal": 893,
+      "title": "Double Hadamard Product Biochemistry",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 894,
+      "title": "Flux Resin Sugar Catalyst",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 895,
+      "title": "Double Hadamard Products 3D Builders",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 896,
+      "title": "Uroboros Symbol Meaning",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 897,
+      "title": "Preservation and Value Letting Go",
+      "status": "added",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 898,
+      "title": "Hibernating Sleeper Agent Nerves",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 899,
+      "title": "Double Hadamard Product 3D Builder",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 900,
+      "title": "Townsend Protocol Blacklist",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 901,
+      "title": "Architectural Paradigm Mapping",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 902,
+      "title": "Linear Rectangle Images",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 903,
+      "title": "Paradigm Image Carousel",
+      "status": "added",
+      "counts": {
+        "prompts": 11,
+        "responses": 12
+      }
+    },
+    {
+      "ordinal": 904,
+      "title": "Desolator C&C Units",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 905,
+      "title": "Mog Meaning and Usage",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 906,
+      "title": "Satisfying Hiss Sound",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 907,
+      "title": "Warhammer 40k Models 3D Printing",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 908,
+      "title": "Grafting Plant Propagation",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 909,
+      "title": "Personal Aesthetics",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 910,
+      "title": "Personally Pleasing Aesthetics",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 911,
+      "title": "Bekokstoven Betekenis En Gebruik",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    }
+  ],
+  "newOrdinals": [
+    877,
+    878,
+    879,
+    880,
+    881,
+    882,
+    883,
+    884,
+    885,
+    886,
+    887,
+    888,
+    889,
+    890,
+    891,
+    892,
+    893,
+    894,
+    895,
+    896,
+    897,
+    898,
+    899,
+    900,
+    901,
+    902,
+    903,
+    904,
+    905,
+    906,
+    907,
+    908,
+    909,
+    910,
+    911
+  ]
+}

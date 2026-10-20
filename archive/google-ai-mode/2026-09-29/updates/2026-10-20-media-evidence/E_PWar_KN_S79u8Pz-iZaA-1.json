@@ -1,0 +1,12 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "text": "pause",
+      "type": "submit",
+      "value": ""
+    }
+  ],
+  "svgCount": 1,
+  "text": "pause\nTOWNSEND CAPSTONE CORNER\nParadigm Applied Science Model\nSubject Ref: Tom Klootwijk (NL200678942)\nCLOCK CONC. A\n0.823\nCLOCK CONC. B\n0.243\nLATTICE STAB.\n81.7%\nClock Frequency\n1.2 Hz\nLattice Coupling\n60%\nBreath Modulation\n0.40"
+}

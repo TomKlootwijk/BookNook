@@ -1,6 +1,6 @@
 # BookNook Google AI Mode archive
 
-Updated 19 October 2026.
+Updated 20 October 2026.
 
 - Open `index.html` to browse individual HTML and Markdown transcripts.
 - `book.html` is the complete typeset source for the combined PDF.

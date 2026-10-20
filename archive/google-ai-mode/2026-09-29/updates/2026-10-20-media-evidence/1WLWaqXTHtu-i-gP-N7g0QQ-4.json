@@ -1,0 +1,17 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "text": "pause",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "Ironbow (Standard)\nWhite Hot\nRainbow Spectrometer",
+      "type": "select-one",
+      "value": "ironbow"
+    }
+  ],
+  "svgCount": 1,
+  "text": "pause\nHV-ALPHA [45% SIG]\nSTRUC-BETA [11% SIG]\nDRONE-OMEGA [80% SIG]\nLATCH: e70dc0784eaf1e5048e94ace7c4771cf...\nSYS: SCANNING\nFOCAL TEMP\n1115.6°C\nLOCK PROGRESS\n0%\nLATCH STATUS\nSYNCING\nThermal Palette\nIronbow (Standard)\nIronbow (Standard)\nWhite Hot\nRainbow Spectrometer\nexpand_more\nFocal Laser Power\n75%"
+}

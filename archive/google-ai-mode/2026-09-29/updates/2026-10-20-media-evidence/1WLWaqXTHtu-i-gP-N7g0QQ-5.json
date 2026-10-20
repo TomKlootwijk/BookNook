@@ -1,0 +1,22 @@
+{
+  "canvasCount": 0,
+  "controls": [
+    {
+      "text": "pause",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "Deploy Ferrofluid Beacon",
+      "type": "submit",
+      "value": ""
+    },
+    {
+      "text": "Reset Terminal",
+      "type": "submit",
+      "value": ""
+    }
+  ],
+  "svgCount": 1,
+  "text": "Tactical Ingress Zone\nMiasmatic Ferrofluid Spikes\nOperator Signal\npause\nTACTICAL HILL ZONE\nOPERATOR\nHFT CRYPTO NODE\n0000cf4af68f86fa4fc2ed0de2cf4af6\nZone Entry Required\nCapture Progress\n0.0%\nHFT Blocks\n0\nProximity Status\n37m Range\nHFT Mining Clock Rate\n50 MHz\nDeploy Ferrofluid Beacon\nReset Terminal"
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-20",
+  "status": "passed",
+  "newConversations": 35,
+  "newPages": 488,
+  "combinedPages": 5213,
+  "unchangedBodyPagesVerified": 4696,
+  "contactSheetsInspected": 25,
+  "contactSheetPattern": "tmp/pdfs/2026-10-20/new-contact-01.png through new-contact-25.png",
+  "correctedChapter": {
+    "ordinal": 894,
+    "pages": 6,
+    "reason": "A wide formula reduced the chapter scale. A rendering override preserves the original notation and avoids reducing the chapter heading below its intended size.",
+    "headingFontSize": 21,
+    "reviewedAfterCorrection": true,
+    "originalLatexRetained": true
+  },
+  "fullSizeSamplesInspected": [
+    "front-cover-01.png",
+    "front-last-index-29.png",
+    "fixed-894-2.png",
+    "fixed-894-5.png",
+    "page-4763.png",
+    "page-4988.png",
+    "page-5025.png",
+    "page-5085.png",
+    "tmp/intake-2026-10-20/910-page2.png"
+  ],
+  "notes": [
+    "All new pages were inspected in contact sheets; representative formula, chart, doodle, table, cover, index and image-gallery pages were inspected at full size.",
+    "Original interactive doodles are static vector snapshots in the PDF. Original SVG, source markup, displayed labels and controls are retained in the archive.",
+    "Original source errors, unavailable media and the extra response without a separately visible prompt are explicitly recorded; no missing content was fabricated.",
+    "The long chapter 910 is an image gallery; its 106 pages are intentional."
+  ]
+}
