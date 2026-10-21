@@ -1,14 +1,77 @@
 {
-  "at": "2026-10-20T20:31:23.022473+00:00",
-  "date": "2026-10-20",
-  "batchId": "2026-10-20-evening",
-  "openAiModeTabs": 93,
+  "at": "2026-10-21T16:31:53.141694+00:00",
+  "date": "2026-10-21",
+  "batchId": "2026-10-21",
+  "openAiModeTabs": 108,
   "historyConversations": 300,
-  "method": "Compared 84 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added six conversations with 29 prompts and 29 responses, including one closed conversation recovered from history. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Embedded source images are preserved; this batch contains no interactive frames or uploaded attachments. Prior source media, source gaps, original video and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
+  "method": "Compared 88 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added eighteen conversations with 160 prompts and 160 responses, including fourteen closed conversations recovered from history. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Preserved three original vector charts, three interactive doodles as static vectors and four canvas doodles as original rendered snapshots, plus embedded response images. One unavailable uploaded reference image is explicitly marked. The already archived v1.5 specification is linked to its new uploaded-file reference. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
   "records": [
     {
-      "ordinal": 927,
-      "title": "SS Anne Pokémon Blue Red White",
+      "ordinal": 933,
+      "title": "VPN Handshake And Filter",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 934,
+      "title": "Tender Meat Rendering",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 935,
+      "title": "Kariņš Accused Hamas Human Shields",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 936,
+      "title": "Resignation Designation HVT",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 937,
+      "title": "Spectral Rainbow Quad Arch",
+      "status": "added",
+      "counts": {
+        "prompts": 38,
+        "responses": 38
+      }
+    },
+    {
+      "ordinal": 938,
+      "title": "Asymmetrisch Multiplayer Streaming Spel",
+      "status": "added",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 939,
+      "title": "Post Hoc Justification",
+      "status": "added",
+      "counts": {
+        "prompts": 16,
+        "responses": 16
+      }
+    },
+    {
+      "ordinal": 940,
+      "title": "Hiding in Plain Sight Livestream",
       "status": "added",
       "counts": {
         "prompts": 1,
@@ -16,26 +79,26 @@
       }
     },
     {
-      "ordinal": 928,
-      "title": "Lying In Wait Leviathan",
+      "ordinal": 941,
+      "title": "The Virgin Suicides",
       "status": "added",
       "counts": {
-        "prompts": 11,
-        "responses": 11
+        "prompts": 1,
+        "responses": 1
       }
     },
     {
-      "ordinal": 929,
-      "title": "Theater of the Futures",
+      "ordinal": 942,
+      "title": "Hiding Complex Recursive Code Types",
       "status": "added",
       "counts": {
-        "prompts": 2,
-        "responses": 2
+        "prompts": 24,
+        "responses": 24
       }
     },
     {
-      "ordinal": 930,
-      "title": "Rhythm Cadence Beat Windows Feedback",
+      "ordinal": 943,
+      "title": "Omelette du Fromage Dexter's Laboratory",
       "status": "added",
       "counts": {
         "prompts": 3,
@@ -43,30 +106,87 @@
       }
     },
     {
-      "ordinal": 931,
-      "title": "Wi-Fi Handshake Process",
+      "ordinal": 944,
+      "title": "wincester hansie 2e anekkey de key 63 amlm kutje",
       "status": "added",
       "counts": {
-        "prompts": 2,
-        "responses": 2
+        "prompts": 6,
+        "responses": 6
       }
     },
     {
-      "ordinal": 932,
-      "title": "Pacific Rim AI Control",
+      "ordinal": 945,
+      "title": "Air-gapping Cyber Security Strategy",
       "status": "added",
       "counts": {
-        "prompts": 10,
-        "responses": 10
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 946,
+      "title": "Ballast Bij Hijskranen",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 947,
+      "title": "Hijskraan Hijsen En Ballast",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 948,
+      "title": "Cilinder vs Bol Vruchtbaarheid",
+      "status": "added",
+      "counts": {
+        "prompts": 24,
+        "responses": 24
+      }
+    },
+    {
+      "ordinal": 949,
+      "title": "Vuurwerk Matje Dominoday",
+      "status": "added",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 950,
+      "title": "40k Geformaliseerd Beleid",
+      "status": "added",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
       }
     }
   ],
   "newOrdinals": [
-    927,
-    928,
-    929,
-    930,
-    931,
-    932
+    933,
+    934,
+    935,
+    936,
+    937,
+    938,
+    939,
+    940,
+    941,
+    942,
+    943,
+    944,
+    945,
+    946,
+    947,
+    948,
+    949,
+    950
   ]
 }

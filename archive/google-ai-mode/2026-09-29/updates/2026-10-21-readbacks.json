@@ -1,0 +1,236 @@
+[
+  {
+    "index": 4,
+    "threadId": "01HYavXKM-LWi-gPw7HJ0AQ",
+    "previousCounts": {
+      "prompts": 38,
+      "responses": 38
+    },
+    "counts": {
+      "prompts": 38,
+      "responses": 38
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 5,
+    "threadId": "3XDYavL5B66L9u8PpoeGyA0",
+    "previousCounts": {
+      "prompts": 9,
+      "responses": 9
+    },
+    "counts": {
+      "prompts": 9,
+      "responses": 9
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 6,
+    "threadId": "gWbYauv0MZrqi-gP1Lqh4QE",
+    "previousCounts": {
+      "prompts": 16,
+      "responses": 16
+    },
+    "counts": {
+      "prompts": 16,
+      "responses": 16
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 7,
+    "threadId": "eXPYapWBPamM9u8P5vavmA0",
+    "previousCounts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 8,
+    "threadId": "XpTYavrJNMr_7_UPv5KZyAE",
+    "previousCounts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 9,
+    "threadId": "AIbYav7PM7uF9u8PkZrcyAc",
+    "previousCounts": {
+      "prompts": 24,
+      "responses": 24
+    },
+    "counts": {
+      "prompts": 24,
+      "responses": 24
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 10,
+    "threadId": "WarYapvsPJn97_UPzaDwoQ0",
+    "previousCounts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "counts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 11,
+    "threadId": "G7DYauvGCob-7_UP1-yriQM",
+    "previousCounts": {
+      "prompts": 6,
+      "responses": 6
+    },
+    "counts": {
+      "prompts": 6,
+      "responses": 6
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 12,
+    "threadId": "KsTYauDOKZmL9u8P3LmKwAE",
+    "previousCounts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "counts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 13,
+    "threadId": "3c7YaqXNBYSli-gP58jV4Aw",
+    "previousCounts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 14,
+    "threadId": "Ms_YaqS_Mfuji-gPlqyskAE",
+    "previousCounts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 15,
+    "threadId": "m8_YavSZB9aH9u8Ps4uH4As",
+    "previousCounts": {
+      "prompts": 24,
+      "responses": 24
+    },
+    "counts": {
+      "prompts": 24,
+      "responses": 24
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 16,
+    "threadId": "1tzYar25F6jg7_UPqpeFqAY",
+    "previousCounts": {
+      "prompts": 9,
+      "responses": 9
+    },
+    "counts": {
+      "prompts": 9,
+      "responses": 9
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 17,
+    "threadId": "od_YauraFsqI9u8P0rzMkQ4",
+    "previousCounts": {
+      "prompts": 13,
+      "responses": 13
+    },
+    "counts": {
+      "prompts": 13,
+      "responses": 13
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 0,
+    "threadId": "kUbYaobiGbDHi-gPne3p2As",
+    "previousCounts": {
+      "prompts": 5,
+      "responses": 5
+    },
+    "counts": {
+      "prompts": 5,
+      "responses": 5
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 1,
+    "threadId": "k0jYatCZNPfyi-gPm6vS2Q0",
+    "previousCounts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 2,
+    "threadId": "LEzYaubPN4rmi-gPvJflmQU",
+    "previousCounts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "samePrompts": true
+  },
+  {
+    "index": 3,
+    "threadId": "qEzYaoGkLfnr7_UP7ZOtgAo",
+    "previousCounts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "samePrompts": true
+  }
+]

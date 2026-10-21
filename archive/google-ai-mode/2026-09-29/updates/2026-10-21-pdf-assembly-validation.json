@@ -1,0 +1,103 @@
+{
+  "pages": 5821,
+  "frontPages": 30,
+  "indexPage": 1,
+  "unchangedBodyPages": 5510,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "933": {
+      "pages": 8,
+      "prompts": 5,
+      "responses": 5
+    },
+    "934": {
+      "pages": 3,
+      "prompts": 2,
+      "responses": 2
+    },
+    "935": {
+      "pages": 2,
+      "prompts": 2,
+      "responses": 2
+    },
+    "936": {
+      "pages": 3,
+      "prompts": 2,
+      "responses": 2
+    },
+    "937": {
+      "pages": 56,
+      "prompts": 38,
+      "responses": 38
+    },
+    "938": {
+      "pages": 15,
+      "prompts": 9,
+      "responses": 9
+    },
+    "939": {
+      "pages": 31,
+      "prompts": 16,
+      "responses": 16
+    },
+    "940": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "941": {
+      "pages": 6,
+      "prompts": 1,
+      "responses": 1
+    },
+    "942": {
+      "pages": 56,
+      "prompts": 24,
+      "responses": 24
+    },
+    "943": {
+      "pages": 6,
+      "prompts": 3,
+      "responses": 3
+    },
+    "944": {
+      "pages": 4,
+      "prompts": 6,
+      "responses": 6
+    },
+    "945": {
+      "pages": 5,
+      "prompts": 3,
+      "responses": 3
+    },
+    "946": {
+      "pages": 1,
+      "prompts": 1,
+      "responses": 1
+    },
+    "947": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "948": {
+      "pages": 41,
+      "prompts": 24,
+      "responses": 24
+    },
+    "949": {
+      "pages": 19,
+      "prompts": 9,
+      "responses": 9
+    },
+    "950": {
+      "pages": 21,
+      "prompts": 13,
+      "responses": 13
+    }
+  },
+  "internalIndexLinks": 1008,
+  "prompts": 4933,
+  "responses": 4936,
+  "streamingReadbackVerified": true
+}

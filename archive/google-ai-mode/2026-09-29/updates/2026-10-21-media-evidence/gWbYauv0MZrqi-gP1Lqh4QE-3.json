@@ -1,0 +1,15 @@
+{
+  "canvases": 1,
+  "frames": [],
+  "images": [],
+  "styles": "\n      html, body {\n        height: 100%;\n        width: 100%;\n        margin: 0;\n        overflow: hidden;\n        font-family: 'Google Sans', Roboto, Arial, sans-serif;\n      }\n      body {\n        background-color: #272930;\n        color: #ADAFB8;\n        border-radius: 16px;\n      }\n      .chart-container-wrapper {\n        display: flex;\n        flex-direction: column;\n        height: 100%;\n        width: 100%;\n        box-sizing: border-box;\n      }\n      .chart-header {\n        white-space: pre-wrap;\n        word-break: break-word;\n        display: none;\n        padding: 16px 16px 0 16px;\n        flex-shrink: 0;\n        font-size: 16px;\n        font-weight: bold;\n        color: #E8E8E8;\n        font-family: 'Google Sans', Roboto, Arial, sans-serif;\n      }\n      #chart-container {\n        \n        flex-grow: 1;\n        min-height: 0;\n        \n        position: relative;\n        padding: 8px 16px 16px 16px;\n        box-sizing: border-box;\n      }\n      canvas {\n        width: 100% !important;\n        height: 100% !important;\n      }\n    ",
+  "svg": [],
+  "text": "Prismatic Infiltration Spectrum: Systemic Decay (Protocol: ROSIE_PRISM)",
+  "sourceFrame": {
+    "src": "https://0mhaoor5ushqj41oj34qzebxtfwwp0am0reel850b6jw8v6333-h998661601.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+    "title": "Generative widget",
+    "uuid": ""
+  },
+  "canvasFile": "gWbYauv0MZrqi-gP1Lqh4QE-3.png",
+  "captureMethod": "Original rendered screenshot, cropped to the visible widget; full contextual screenshot retained."
+}

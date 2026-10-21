@@ -1,0 +1,152 @@
+{
+  "reviewedAt": "2026-10-21T16:36:20.475815+00:00",
+  "newPagesRendered": 281,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 15,
+  "headingMinimumPt": 20,
+  "highResolutionReview": [
+    "front-cover.png",
+    "page-5732.png",
+    "page-5808.png"
+  ],
+  "sourceGaps": [
+    {
+      "conversation": 937,
+      "prompt": 4,
+      "note": "Source image gap: Google displays a missing-image placeholder for this uploaded reference. Its original pixels are unavailable in the saved conversation. The complete prompt and all available response artwork are preserved."
+    }
+  ],
+  "originalErrorResponsesPreserved": [
+    {
+      "conversation": 937,
+      "response": 18,
+      "text": "It looks like there's no response available for this search. Try asking something else."
+    },
+    {
+      "conversation": 937,
+      "response": 34,
+      "text": "Something went wrong and an AI response wasn't generated."
+    },
+    {
+      "conversation": 944,
+      "response": 1,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+    },
+    {
+      "conversation": 944,
+      "response": 5,
+      "text": "It looks like there's no response available for this search. Try asking something else."
+    }
+  ],
+  "chapters": [
+    {
+      "conversation": 933,
+      "pages": 8,
+      "sha256": "eee02adb1a6176247f02a5becc2338e060ba4a0f17275c9cda05fa239ce22a5c",
+      "maxHeadingPt": 20.689826785923845
+    },
+    {
+      "conversation": 934,
+      "pages": 3,
+      "sha256": "a75516cb77f7da2fe8873eacdcb0d9d088306967272e0b2ac1ee36f945336d24",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 935,
+      "pages": 2,
+      "sha256": "855723140acfc247050dc3dee849042cc638192296dad54de9160be19c1b655b",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 936,
+      "pages": 3,
+      "sha256": "76593e15f8e05d3e332d4f629ce0f143f20a94ad2ae4ca413457acd38f9d727e",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 937,
+      "pages": 56,
+      "sha256": "293517cc8925dfac5cccd4a4d4b63a194448bdd02c829b23bd5939a3af073bef",
+      "maxHeadingPt": 20.689826785923845
+    },
+    {
+      "conversation": 938,
+      "pages": 15,
+      "sha256": "3443b41a7759930f67e76bb46afcbb076be73c1811d2db9071abe1ea992a8dab",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 939,
+      "pages": 31,
+      "sha256": "8d17ebd0db2d14d54c54c1f78a22c09af82c77ec225ec7bdfd44472e91b01e82",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 940,
+      "pages": 2,
+      "sha256": "6efa32c4f4ce4a0036355e39ff792715e9808d656b05506b7ab007a67e6cc286",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 941,
+      "pages": 6,
+      "sha256": "b6acdd218ee5346506da36905321812bd0c9ad093378eeec8b80d3cb849f4d68",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 942,
+      "pages": 56,
+      "sha256": "2d541a184480aaf6d6f90561526f9e441169369a58a99413c3d8ef72a9136ff0",
+      "maxHeadingPt": 20.999505877020553
+    },
+    {
+      "conversation": 943,
+      "pages": 6,
+      "sha256": "8eeaf5557f0b0cda69f7148ef9eae33557e28356f29fd9e7137f80066b1fa264",
+      "maxHeadingPt": 20.689826785923845
+    },
+    {
+      "conversation": 944,
+      "pages": 4,
+      "sha256": "24e6c60a3f93bcc6a691462fd9bd6f09c21cc7eccf9f2fe88bfd5e888215130d",
+      "maxHeadingPt": 20.689347649943812
+    },
+    {
+      "conversation": 945,
+      "pages": 5,
+      "sha256": "10b21c964a77d52aaedf34c08588cd9e7d2afc72c854a7d84f967887c9b6cc2f",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 946,
+      "pages": 1,
+      "sha256": "2eee075ee375f8a87020c0d074ddd5e921f8c30a5ed9eb59426471614b1f5fb2",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 947,
+      "pages": 2,
+      "sha256": "e04a0377b5b8458465ca970848ec57393c47dc5677662f8c9a89b85a409d66d4",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 948,
+      "pages": 41,
+      "sha256": "ff37cdc9e89b8a7a7d4b08d27f3e10c6c2377ef4bc4446d923e0156631af0cfc",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 949,
+      "pages": 19,
+      "sha256": "b6422e98ce839d329bea86edb4c9a865605be326ec393f6124fc0bcbe711e6fa",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 950,
+      "pages": 21,
+      "sha256": "e56444778ba0007822933a2b635a304be63b8b64325c084e4acb31a6b1d8e1a9",
+      "maxHeadingPt": 20.999999125
+    }
+  ],
+  "result": "passed"
+}

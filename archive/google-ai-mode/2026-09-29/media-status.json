@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Compared 84 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added six conversations with 29 prompts and 29 responses, including one closed conversation recovered from history. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Embedded source images are preserved; this batch contains no interactive frames or uploaded attachments. Prior source media, source gaps, original video and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
+  "note": "Compared 88 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added eighteen conversations with 160 prompts and 160 responses, including fourteen closed conversations recovered from history. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Preserved three original vector charts, three interactive doodles as static vectors and four canvas doodles as original rendered snapshots, plus embedded response images. One unavailable uploaded reference image is explicitly marked. The already archived v1.5 specification is linked to its new uploaded-file reference. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -4039,6 +4039,175 @@
     "media": [],
     "generatedImages": 0,
     "maps": 0,
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true,
+    "excludedRegeneratedThread": {
+      "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+      "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+      "actualThread": "jLHUaq_LNons7_UPirfomA8"
+    }
+  },
+  "october21Media": {
+    "openTabsInitial": 88,
+    "openTabs": 108,
+    "historyEntries": 300,
+    "newConversations": 18,
+    "newPrompts": 160,
+    "newResponses": 160,
+    "updatedConversations": [],
+    "recentContinuationChecks": [
+      {
+        "ordinal": 932,
+        "counts": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "prior": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "samePrompts": true
+      },
+      {
+        "ordinal": 931,
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "prior": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "samePrompts": true
+      },
+      {
+        "ordinal": 930,
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "prior": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "samePrompts": true
+      },
+      {
+        "ordinal": 929,
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "prior": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "samePrompts": true
+      }
+    ],
+    "attachments": [
+      {
+        "title": "Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf",
+        "path": "attachments/Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf",
+        "bytes": 5295716,
+        "sha256": "8dfae654435c035beefc3f9770cf6f51b55c0cef968071900142e4cf9b1cf0fd",
+        "alreadyArchived": true,
+        "provenance": "Existing archived author-repository original matching the uploaded filename; its prior provenance remains preserved."
+      }
+    ],
+    "sourceErrorResponses": [
+      {
+        "conversation": 937,
+        "response": 18,
+        "text": "It looks like there's no response available for this search. Try asking something else."
+      },
+      {
+        "conversation": 937,
+        "response": 34,
+        "text": "Something went wrong and an AI response wasn't generated."
+      },
+      {
+        "conversation": 944,
+        "response": 1,
+        "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+      },
+      {
+        "conversation": 944,
+        "response": 5,
+        "text": "It looks like there's no response available for this search. Try asking something else."
+      }
+    ],
+    "sourceGaps": [
+      {
+        "conversation": 937,
+        "prompt": 4,
+        "note": "Source image gap: Google displays a missing-image placeholder for this uploaded reference. Its original pixels are unavailable in the saved conversation. The complete prompt and all available response artwork are preserved."
+      }
+    ],
+    "media": [
+      {
+        "conversation": 937,
+        "response": 2,
+        "kind": "vector_chart",
+        "path": "assets/01HYavXKM-LWi-gPw7HJ0AQ-1.svg"
+      },
+      {
+        "conversation": 937,
+        "response": 3,
+        "kind": "vector_chart",
+        "path": "assets/01HYavXKM-LWi-gPw7HJ0AQ-2.svg"
+      },
+      {
+        "conversation": 939,
+        "response": 10,
+        "kind": "vector_chart",
+        "path": "assets/gWbYauv0MZrqi-gP1Lqh4QE-1.svg"
+      },
+      {
+        "conversation": 939,
+        "response": 16,
+        "kind": "static_interactive_vector",
+        "path": "assets/gWbYauv0MZrqi-gP1Lqh4QE-2.svg"
+      },
+      {
+        "conversation": 939,
+        "response": 16,
+        "kind": "static_canvas_snapshot",
+        "path": "assets/gWbYauv0MZrqi-gP1Lqh4QE-3.png"
+      },
+      {
+        "conversation": 944,
+        "response": 6,
+        "kind": "static_interactive_vector",
+        "path": "assets/G7DYauvGCob-7_UP1-yriQM-1.svg"
+      },
+      {
+        "conversation": 948,
+        "response": 4,
+        "kind": "static_interactive_vector",
+        "path": "assets/m8_YavSZB9aH9u8Ps4uH4As-1.svg"
+      },
+      {
+        "conversation": 949,
+        "response": 4,
+        "kind": "static_canvas_snapshot",
+        "path": "assets/1tzYar25F6jg7_UPqpeFqAY-1.png"
+      },
+      {
+        "conversation": 949,
+        "response": 5,
+        "kind": "static_canvas_snapshot",
+        "path": "assets/1tzYar25F6jg7_UPqpeFqAY-2.png"
+      },
+      {
+        "conversation": 950,
+        "response": 6,
+        "kind": "static_canvas_snapshot",
+        "path": "assets/od_YauraFsqI9u8P0rzMkQ4-1.png"
+      }
+    ],
     "unmatchedOpen": [],
     "unmatchedHistory": [],
     "preservedPriorMedia": true,

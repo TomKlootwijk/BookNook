@@ -1,11 +1,11 @@
 {
-  "exportDate": "2026-10-20-evening",
-  "scopeCount": 932,
-  "capturedCount": 932,
-  "prompts": 4773,
-  "responses": 4776,
-  "mathRendered": 15371,
-  "embeddedImages": 11193,
+  "exportDate": "2026-10-21",
+  "scopeCount": 950,
+  "capturedCount": 950,
+  "prompts": 4933,
+  "responses": 4936,
+  "mathRendered": 16288,
+  "embeddedImages": 11370,
   "conversations": [
     {
       "ordinal": 1,
@@ -10258,6 +10258,204 @@
       "source": "https://www.google.com/search?q=pacific+rim+eif0s+fox+AI+popul+AIR+OVER+THE+kaiju+mech+control&sca_esv=34651f0857a3a838&sxsrf=APpeQnuw4iZKNo7oIY6rbwyb73Gt_CERoA%3A1792526685334&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UfVcuk_CN5lZ7ooDDWHK2Mvzz3zSAVajbtoCgDcY4ClkqSY2KMHBVEZtzZXhvZhOAYOei-ZwZNbTP-zA17u6NI3tEs6cG6hn81aUxnDhSOjSjwakoJQVHh0SeQ8h1zJd7wJVl3n&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiBldGissmXAxXi_7sIHRiFFugQ2J8OegQIFBAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfCNjNeD8mCFYhOv2P8YOgmlcSEHis66FDgv78OdA6xU9lSlPX9Z-575jAZ1c1FN2AztwoysMY2U_-1z6ZznhKan6obHWqMPcBSguhJ6WTg9h74RFzi58vD_HmfyUyuqB6bQbSYfZ-yzZezuACXyq0gw8i-NAihIdaJ8FFhWuzaFijQVQ8DMOSu4Pxq-GgUARy9U_9TtdYuuG-1puV2ZYiB_8Pnj7qnPi6VYRl3MpwgjdTLGWJuv4Rxd2IlcM6BQ8ZnYC2mrc_dX8oBW3i8mKpS_gNqjYH1uvBAYxrPvE4fxUIvB0SRE80PknzhppSItTPSenIQ54OOi-w&csuir=1&mtid=X8nXasSBE-SR9u8P2KyImQY&udm=50&atvm=1",
       "recoveredFromSavedUrl": false,
       "pdfPage": 5527
+    },
+    {
+      "ordinal": 933,
+      "title": "VPN Handshake And Filter",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/933-vpn-handshake-and-filter.html",
+      "markdown": "conversations/933-vpn-handshake-and-filter.md",
+      "source": "https://www.google.com/search?q=vpn+handshake+2.4ghz+5ghz+filter+pruning+affordances+individu+regenboog+depravities&sca_esv=882e2611175d5c4b&sxsrf=APpeQnurAyFfIgmGOzD2HjYjLpjo51cFUQ%3A1792558735413&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBJP_8s1JrXgV7_edZdNiJisLCUzXkik5RMqtveKIdmxaGb48YyjJXOAFu1Y71e_zdrUwIHsAyKs8JTsW98igcleJcWl-hkwfo_sPceqCpU09yBzR4&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiW7KbVqcqXAxV-6wIHHaM9GloQ2J8OegQIEhAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfBOY8J1n7SfoGMvayXaI2uMesknO2uMIXt0R4kA6G_hZmwDag7AC2WrA2u372qTQ1ZQZ1IWtP9h49-gNb6uRdEx487LWrK0FCHYkV0NURKc6GXUlR5MFbtp8yoPhIjlrkYR-lStCG6z4UdneBGi1UGhWDb8sMGh3cdNSXKei6uumLVSZ3Y-ZAhfXamVXrc7G98ih0TiwpBWx5lu7xVS6c8SKsc-B6GNLLF_-V3HA6OFRoV8qJdepm1tTHpfmyeILhuWo0wGUNMYpRzzxVOhaQ9h_Ghz1Zg9Sako4SR6_YHCJmfg8nQpFsMZJxcCba_2Qqxbb4efFdffYQ&csuir=1&mtid=kUbYaobiGbDHi-gPne3p2As&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5541
+    },
+    {
+      "ordinal": 934,
+      "title": "Tender Meat Rendering",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/934-tender-meat-rendering.html",
+      "markdown": "conversations/934-tender-meat-rendering.md",
+      "source": "https://www.google.com/search?q=tender+render+meat&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEINjAzM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&aep=10&ntc=1&sxsrf=APpeQnsHAELwD3JWiL5hIOIStiHClFdpXA%3A1792559251512&mstk=AUtExfAZ4tBHH_Efwg4a1lCrt7U5dNHrbFI7CM9MFFc3uR1GnFgWypbIgXfcRWY88a0VwhfArREs0HXZzhsdLq0xdgbVtrzRRSdjatOkfaexNxx2DsTQZoHmzo9tzzXNCn3JegtYbO0duk2WeoSvp6JWxinNozpdI1xfeFfBtO_Ndmh-eobsCCKc91rCUiVssVN5jnUaSf2MdQQk826MNtmPxLXIRFlrx2St8H4xgLQIAZPGekIKrw2Xp4PxxNqOYos44gYq3IYQVA9UJlAIaSrCFZpWnFm-v9Io4KQ7G6f3sXkcRznrg5lN-dyKecQmq2AYiB-cNTgUKmmPvQ&aioh=3&csuir=1&cs=1&udm=50&mtid=k0jYatCZNPfyi-gPm6vS2Q0",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5549
+    },
+    {
+      "ordinal": 935,
+      "title": "Kariņš Accused Hamas Human Shields",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/935-kari-accused-hamas-human-shields.html",
+      "markdown": "conversations/935-kari-accused-hamas-human-shields.md",
+      "source": "https://www.google.com/search?q=Kari%C5%86%C5%A1+accused+Hamas+of+using+Palestinian+civilians+as+human+shields&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEwMDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cY2oODYyTyZk24Xz37_7FQ0Kuh3jfnRqiKzI7KrGsO-bHLKGXxP60AsAIKmX_LR6dMasLrlp8DT_rL6Uv4vYEVab_VWIvAi8ke1tCyZ05ZS1lANRqqOE730l4IJmhxP3PCN5MZwmG_oTd81G1DyB9raxJJiJjDcLDXQ6fHGyp1zJo5BBZ&aep=10&ntc=1&sxsrf=APpeQnuqct-jOO44PzFud4H84R9tXIZJsg%3A1792560172603&mstk=AUtExfDb4B-Nd1XWTUiZIJsdDylhEf9DdIqa48Lv4fughFoFha_boL92sxUhuRzHYSja5hTW_bJCNfu97hGzRKx7DwCw7UpcmM9zFI2x48Jfa6uf4PCgkPHTkebOuXjOXK_l1k5uXQ6BUeRa86CVlrOPe-oWZ57K07E41EBz0zmfY0xgnbeziuP9ASfnH7RB6Z06POwcp0tb_ml2RSMN8R08ZibCPUk6hR1qjZ8lpX7YkleLI4ip0KfD0J0tpzb1MTiB9tu2gLnpb6HH_2S4FFFYDneLyNLESJgMRUzz-ngXkIwZMWMkqbPGVOIbYWK3TlNGsAfd-jzClhy2OA&aioh=3&csuir=1&cs=1&udm=50&mtid=LEzYaubPN4rmi-gPvJflmQU",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5552
+    },
+    {
+      "ordinal": 936,
+      "title": "Resignation Designation HVT",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/936-resignation-designation-hvt.html",
+      "markdown": "conversations/936-resignation-designation-hvt.md",
+      "source": "https://www.google.com/search?q=Resignation+designation+HVT&sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832QGGMdFXpDyzkQgEdtB8w9w-GD6PIjvNPpUnrx3WoOVIInBEEy-eiFZv8B5rS4maeNBTNEIYkmKln-7huzj-TXue8mdiyYhX_M0R-MHuvxP1hAzpjv3lXBUhBZ-RzPLp87fhsY17KJTnNE7zE4bXxikeomB6&aep=10&ntc=1&mstk=AUtExfC2bECfY8LwrMRi72V_cAbm7UddtE9xw0EijAWpf-GerHUR69hl_mELF-FIreIfByVZDzCeKG5KkP2_C4GDWGKt8WEW7EJMffR2MqS0u52Hx0iGdsKjbBW_YrelMqHpTqkXr7Pl8TISG493cQVS3rOeGMGMww6JJ8bHmU9tj1jMJ3HGRduQooWUOTVQniLgn1ZgHZTODoh-ubdeoyMgZw_vkbB1wA-_cAv2WkyFRbyUAOogwgXHwXxuPf3JmQHvf2qfCFkDnSnpqAMMtA-05aeaAO2OJbZptAQr_3OhvPZPMdeGRP9L2b4a8RTwvkGe6_bZ7ITpwLL5QA&aioh=3&csuir=1&cs=1&udm=50&mtid=qEzYaoGkLfnr7_UP7ZOtgAo",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5554
+    },
+    {
+      "ordinal": 937,
+      "title": "Spectral Rainbow Quad Arch",
+      "prompts": 38,
+      "responses": 38,
+      "html": "conversations/937-spectral-rainbow-quad-arch.html",
+      "markdown": "conversations/937-spectral-rainbow-quad-arch.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&mstk=AUtExfDC72wd7YgIwDL8mg31A5cWst5pa5pIKF26_w7OygQ4NA97tJAdlCcm04_405htFRuLEQ1nieFg-EVHSlLKFvJnNGWTCQMKoq6mUB3JIKVtpYY6el04N_Ogz9Qi7S-rS7vxADhjiQEMgOkot5SDOTiSLCM-MqI7RwVz-rO_BRvw4U3yrdpDxWMnl5vwk5Xb2kLBRvPox_wLwoh3-KJ1s1TR0oY0m0H8zvH-rLfs7qcukGTPfPod0FDMd7ltqf8bPZTuudlunxodWVnGEV51zTDhvGgdVwzNA7As25sDoyMiM8hbnTLMD2K9869M1M5bajKLunAMZmgi5Q&mtid=01HYavXKM-LWi-gPw7HJ0AQ&csuir=1&aep=26&q=spectral+rainbow+%F0%9F%8C%88+quad+arch+frequency+bands+2.5ghz+5ghz+bluetooth+diff+CSG+synthesizer+spiderweb+topoloogij+%27T&ved=0CBMQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQTQ",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5557
+    },
+    {
+      "ordinal": 938,
+      "title": "Asymmetrisch Multiplayer Streaming Spel",
+      "prompts": 9,
+      "responses": 9,
+      "html": "conversations/938-asymmetrisch-multiplayer-streaming-spel.html",
+      "markdown": "conversations/938-asymmetrisch-multiplayer-streaming-spel.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CA0Q2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQTQ&mstk=AUtExfDQ0NXA4YC7NEcaErahj8SarTjDrm3Fz0XUfpZ3L22M_wdrsRo4IyT1hbd9SmEaKahkn1lEjQeFSrf1FvPdQyh4zl0SbxJs5QEyGfFuT_XpaQcV04IZER3twUxsXGR4rtsxAJFAqpjaLY_ojy1zLvrjiV0H7IxMlfmVhFshoWNxO27Kyiz4hAxqoCL5Q0Ogip1aJru43F29PBtUtFs0pBqs8jQtgC3Iu9asciLgD4L7cm7s7pHcb6li0EJjgUqydromJprSldByog&mtid=3XDYavL5B66L9u8PpoeGyA0&csuir=1&aep=26&q=asymmetrisch+ad+hoc+multiplayer+streaming+manipulatie+spel+lichaam+mensen+undercover",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5613
+    },
+    {
+      "ordinal": 939,
+      "title": "Post Hoc Justification",
+      "prompts": 16,
+      "responses": 16,
+      "html": "conversations/939-post-hoc-justification.html",
+      "markdown": "conversations/939-post-hoc-justification.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CAcQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQTQ&mstk=AUtExfAAyk7jlfc-Ja8yQuNmlLaCYnAAols14JBUHOlFLi5d59NrBc5Ey9A2GiZANA0QnH4chciBSU5Lshd0oFS595WC8lQUOxKuFwvLOGYPVRU1ENPRJ6ZZX7LogQninqZVClPljoQ3l2sIjta-AERcYfT_ifz0p3_htg2k-nQPK5ZXJK5KU44miwk4gJp5ZfK2zOqT5HEZ-MHpg0lwFV91QMb_7SnUkr_KR7VRB6jOj_IuO6R4celgX4aJzLtSswN1LG-oWqpgqkzMDUQlZqkRSAbUpAO2Mz8ovYT3oV10oBbILISoGVzX3tSiiI5Bz-bEBpWqyp4IOgn1L10&mtid=gWbYauv0MZrqi-gP1Lqh4QE&csuir=1&aep=26&q=post+hawk+justification",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5628
+    },
+    {
+      "ordinal": 940,
+      "title": "Hiding in Plain Sight Livestream",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/940-hiding-in-plain-sight-livestream.html",
+      "markdown": "conversations/940-hiding-in-plain-sight-livestream.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CAEQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQTQ&mstk=AUtExfB3YY6xJKjMeVeMfh_93TVxt_OUZl-LTr3lJ8E_J0YocDj2cGNgjSL4hcBlxYSy7hbNuEkc_uGwAJAlXowQi4ZYxb6K2WQPhdn5254Mi1XfylU-7NJ0gBYF1PALWzjHbgLG2WJdbnv4KrOK9eDZ1iRI2YCjBj1uJ4nhFtthbCS0emBzcQKi90GR_RQOas8BN8COIZnu4joTtC8rtPhI9f67Wr78d3XEdylvgwjIPuLrNjHPnowcIbq9Z0aAn0bdZDu6k9PUv6lNTUrXBEkN6kc2tW-s_jPKkSvtn81VhOJpHmlf0CaWjtZsz0Sh8x3lCaH0Dx6JUx_O7w&mtid=eXPYapWBPamM9u8P5vavmA0&csuir=1&aep=26&q=hiding+in+plane+sight+livestream+24%2F7%2F365",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5659
+    },
+    {
+      "ordinal": 941,
+      "title": "The Virgin Suicides",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/941-the-virgin-suicides.html",
+      "markdown": "conversations/941-the-virgin-suicides.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CDcQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQRA&mstk=AUtExfAJoB-t4KgyNfPhsz4j3CW_YSEioexnlbu26wfN2sDDyk7BMCI3oxCAzgJ6XDMdq9aJazBRZS5WuobnYWF8ZDCWht2tWuE59WAamtiLy41eEa0vX20IruwRfxXUSDRphCiZ0AMjUVN86IFg4yS9wXWjOdcdilFGDGsWvaQxTcPRxtxMV5SvvJ1bU5KJdqDtV-J05mtbl_gQIl1Oq2FTEIkyUF30J0rPfDCUn_W_dW94r2we5FJcmvRSUgt3hcMKxhGXsBiS-pacqq8mFZgx1aaA2jKKZ6D41dkDyiQOFCXyNwY6Eip627Xfzg9LLNwkHaa8kewXOYuy7A&mtid=XpTYavrJNMr_7_UPv5KZyAE&csuir=1&aep=26&q=virgin+suicide",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5661
+    },
+    {
+      "ordinal": 942,
+      "title": "Hiding Complex Recursive Code Types",
+      "prompts": 24,
+      "responses": 24,
+      "html": "conversations/942-hiding-complex-recursive-code-types.html",
+      "markdown": "conversations/942-hiding-complex-recursive-code-types.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CDEQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQRA&mstk=AUtExfCUEg0BfpgXhFFFcqtmAMHPAFum7LKUKwIpPbGztngiiq8fZ2W2xO2Ciw8I4FL2lIafdSbjadoA8MpZuMujTsBmsxBDvmabyEzmxBz-Nzz9gGTJ_5ddXLy6m1ntRJA_W-jb6fbolbHgx2KXgS51HBdoen8DInuL0u1_X3lXsqfudq_qB-jWJyI9L634ucA1M0isvFR911Ol_QNjR8G_EK6Una-O9Cj-EGjQN1E5TPTvCkNkFxA6DGhuz-9-919w20WROO-ZBoRW8fGVoGEyrMYiixW6l22QDQlANoA-xAL1m8zw110jzmoiC5LtY4FwpU9gza5UXSY9nQ&mtid=AIbYav7PM7uF9u8PkZrcyAc&csuir=1&aep=26&q=hiding+autopoietic+self-referential+polymorphic+self-reconfiguring+time+based+atomic+and+chemical+clock+in+any+known+file+type+%28self+executable+or+manually%29",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5667
+    },
+    {
+      "ordinal": 943,
+      "title": "Omelette du Fromage Dexter's Laboratory",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/943-omelette-du-fromage-dexter-s-laboratory.html",
+      "markdown": "conversations/943-omelette-du-fromage-dexter-s-laboratory.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CCsQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQRA&mstk=AUtExfDtEjmD4xzECAVy9A1h8vI-82LtP9rTGOKcMKnGb0F761SMbuGfOAHK4INjk5pmvRNkJxjJqW1cf3bhgUdnkxGgD6iA79-NTLaq0JCPKfL-o5MH7A4X8tTvpz-DAFuOiaTyMwKBO_d2HoRxn9aTY_c0vqznbRpUlZnTsKG01rStJV2LVCL71WpaqUjxyIqtWEfY7RDZf272ERcz9_rfoIe5Sc5-7KUSARKX2CamyeEuDPMK4XnsKNu7C5oczNYbyI6t4xICmdarXw&mtid=WarYapvsPJn97_UPzaDwoQ0&csuir=1&aep=26&q=omelette+du+fromage+dexters+laboratory",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5723
+    },
+    {
+      "ordinal": 944,
+      "title": "wincester hansie 2e anekkey de key 63 amlm kutje",
+      "prompts": 6,
+      "responses": 6,
+      "html": "conversations/944-wincester-hansie-2e-anekkey-de-key-63-amlm-kutje.html",
+      "markdown": "conversations/944-wincester-hansie-2e-anekkey-de-key-63-amlm-kutje.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CCUQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQRA&mstk=AUtExfBHBltVjcgJISFlBebpxHDjS8cgQiF63vj1W2Nc_8pZUyv8vq9la7hdH3Yg6ACYFocaYUTWoIar-SytGA1y2WENpb6fMSMQmC4wG2zeA0SUqMdjgByatuxO5BjrkWDOZpB7fIn8IVEqDK7Cs3s00G3C1gFg0y31EEaROL4oAxisSLepIAm2hB6EXETT0sG_zYDXUbRS-yjhBovKmALLMx6ncn06o0X2YbtlxlsEubQoHNGsYmEhgn3kG7IWO6jq37bCHnAs19f-NrY5Nxj-iPa378QZjQ2Y8SM7WiMeNog7bOuXXgvJ0nDxMizRjmI6FzLLVFTmNcdTyWvNxULY6gEaLVSTU405ZA&mtid=G7DYauvGCob-7_UP1-yriQM&csuir=1&aep=26&q=wincester+hansie+2e+anekkey+de+key+63+amlm+kutje",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5729
+    },
+    {
+      "ordinal": 945,
+      "title": "Air-gapping Cyber Security Strategy",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/945-air-gapping-cyber-security-strategy.html",
+      "markdown": "conversations/945-air-gapping-cyber-security-strategy.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CB8Q2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQRA&mstk=AUtExfB6kYpCHawiRflauu4HS_I8mnrfwrxeqzM_y9cJhc6vcHoCP2vG4_-x_ghGFdFMeCh_8WYzcvJdn80zmMsdIa160qRY6uiXnELuxrHAMhPx3qFojlxZXVYo6lOpJC2zQUluayQX4QrB2PMggalf10OZIVRXCZ-uM1SKy_Y4vrQfZ5XbHStHKf0oSlpQ-EypNtI2dOrYR_dppcO1cCm7sn3bpC2rHE-8yGatUskJ8mj36_5NwOM2MX-YTNEEy7V5kT8ZfUb_C4KPCM1BkhJLNPgs8EsbYzDvEYrrpyLmtaEbjXU8dh5_xTcwTb0Gf4GhFjUdgUCx933UPA&mtid=KsTYauDOKZmL9u8P3LmKwAE&csuir=1&aep=26&q=off+airgapped+the+air",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5733
+    },
+    {
+      "ordinal": 946,
+      "title": "Ballast Bij Hijskranen",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/946-ballast-bij-hijskranen.html",
+      "markdown": "conversations/946-ballast-bij-hijskranen.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CBkQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQRA&mstk=AUtExfA20MnTWdoeNaZa4ByjM6t6bNornL9uliyIg2BUfJOpk6V-CKGrZ26n2dSAAYto8r1SNPaCJnTMGlhRQcEcSknBOWZb96BmN1vFfFqK_qWtQOK9M37APM2lhbfIZx15GGf_o-zjBI54vKWTkGHPjyv1QQaYjF8nNFI&mtid=3c7YaqXNBYSli-gP58jV4Aw&csuir=1&aep=26&q=waarom+is+ballast+nodig+bij+een+hijskraan+om+tau+tau+op+te+tillen+dus+balast+mu+mu",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5738
+    },
+    {
+      "ordinal": 947,
+      "title": "Hijskraan Hijsen En Ballast",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/947-hijskraan-hijsen-en-ballast.html",
+      "markdown": "conversations/947-hijskraan-hijsen-en-ballast.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CBMQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQRA&mstk=AUtExfDYb1ZNxJswMQetRmENnHsF6dwP2a5_Lxjj7x0NXAvbLPFt1oK7IGFHFHmv-5s0F8RmX9UxWpU1NDwFrH-X3_2S1v4ZYTNMWSiDx2nHcBCdsEatEZagJZMqCCDvYsBuS6jt8mpgEHActUJsbaDYXXMd7w9yqUdt7GtDV4jHLztVUIop7N8D8XkAF1Mtk84pb7IvjnVrvlt1Lq45bhcojaILGrHlSa6dg6iQDs4ofe_QRqVmYG36shLsgwunf7yzX_XGl36sbAbkgH5szUee7Mnvs87RevRHSnfAJRAkwMDDGXksXzHH2pPR6UsFRCxJ5SqRH0Ru_qGy3A&mtid=Ms_YaqS_Mfuji-gPlqyskAE&csuir=1&aep=26&q=iets+met+een+hijskraan+optillen+en+als+het+boven+is+het+ballast+laten+gaan+doet...",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5739
+    },
+    {
+      "ordinal": 948,
+      "title": "Cilinder vs Bol Vruchtbaarheid",
+      "prompts": 24,
+      "responses": 24,
+      "html": "conversations/948-cilinder-vs-bol-vruchtbaarheid.html",
+      "markdown": "conversations/948-cilinder-vs-bol-vruchtbaarheid.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CA0Q2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQRA&mstk=AUtExfBG8Sjmu-vP_tP0DSRIalqwdwYAObgcweK5ErPLn7ayBxNIymd343fg1lpsJu6QqIM_T9-qQqR0uqTl5M_HkWDGBQV_fFfSoqOBb-eTTzxVT9_L1bQTt0dvA6GpsHpRQs24ZbYLqB8ODB_6XAfzFEH8MNIyJTnih7U9CNqGZY9FrZosszy7G3ql0SJTHhHe3uZOwaTDeJX95VfeitjAwaqA4DxRYwP6dmYuU7x4PL6mUYuEaS8ECJjnEgjiXCkxzXJcunrefuARPwM-tIsBymgiK79teFijDgFYWcVNcTUZDvy1Uthjzg45ENHgBiAEQYXs_zHXaPBE5w&mtid=m8_YavSZB9aH9u8Ps4uH4As&csuir=1&aep=26&q=cylinder+beter+dan+sphere+voor+kunstmatige+baarmoeder+want+waterpas+luchtdicht+door+zwaartekracht+beweegt+het+linear",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5741
+    },
+    {
+      "ordinal": 949,
+      "title": "Vuurwerk Matje Dominoday",
+      "prompts": 9,
+      "responses": 9,
+      "html": "conversations/949-vuurwerk-matje-dominoday.html",
+      "markdown": "conversations/949-vuurwerk-matje-dominoday.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CAcQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQRA&mstk=AUtExfDgujMse4fE-MBPHYaqdfRxehR4kyEUgWSjsqm1uMEpPgX4O6xOoQyFg0qtdCoGE7420j0gMs716aptlkJ6PifuiN9MQaIKkU9P7OqnQWX09GiWkvSosnak1xfDt9IbhLVpQAH3BP5oAJLIDSmGF6fwv1zt3Cb9HndcMnRhLI3mh6X9S4-_VVhMja6L8vDL3-0sp7n9AP-vWw8ARTg8e04hUwc9EnZ5BBXmMxoi-JGtar0gSwvcpZR-GuMlgoXE5NgEqRpTcyS79g&mtid=1tzYar25F6jg7_UPqpeFqAY&csuir=1&aep=26&q=vuurwerk+matje+dominoday+mus+https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dcylinder%2Bbeter%2Bdan%2Bsphere%2Bvoor%2Bkunstmatige%2Bbaarmoeder%2Bwant%2Bwaterpas%2Bluchtdicht%2Bdoor%2Bzwaartekracht%2Bbeweegt%2Bhet%2Blinear%26client%3Dms-android-xiaomi-terr2-rso2%26hs%3DSQWB%26sca_esv%3Da3f5dec736f5e351%26sxsrf%3DAPpeQnuwCp5ekIgARHTIIs3Y51_1UWf2Zw%253A1792593817791%26source%3Dchrome.ob%26fbs%3DABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE%26vsint%3D%26aep%3D1%26ntc%3D1%26cs%3D1%26sa%3DX%26ved%3D2ahUKEwiMlPGtrMuXAxX6h_0HHQnDGPwQ2J8OegQIEhAE%26biw%3D375%26bih%3D691%26dpr%3D3.25%26mstk%3DAUtExfCAEuE3hErBFwFX92YJxkXGswuhvGpeV6d3SeD-RgC80y_J_L5VNfgq461TaOgMVPD7Dn4NepvgLVPrquxuj472D4iJsPFa9BvsVgpKMXTVVOpFsrNjtiMkxj6Pba528W8-CrJi2SB7Xlp6MaXe3UNaNeduoQWrTxGAFuifJUqIA3wQMWaK7iO9xguTrXERctZk8_lt05XFc7InU7rfL3oq4kUFW_mUqraN1LLAoPJOxm0zJJJYzNcbCoUp8s-NAinXvl4RNLJcXgeCrS4Wpp-8o_WvjhHAFOc8cI8mqgVf7qjVus9qBpAWtJ2nZwANEDmOTZoL1IWFHw%26csuir%3D1%26mtid%3Dm8_YavSZB9aH9u8Ps4uH4As%26lns_mode%3Dcvst%26udm%3D50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5782
+    },
+    {
+      "ordinal": 950,
+      "title": "40k Geformaliseerd Beleid",
+      "prompts": 13,
+      "responses": 13,
+      "html": "conversations/950-40k-geformaliseerd-beleid.html",
+      "markdown": "conversations/950-40k-geformaliseerd-beleid.md",
+      "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CAEQ2_wOahcKEwi4vtKXwsuXAxUAAAAAHQAAAAAQRA&mstk=AUtExfAr94WPJeilasKJ6GaUmb-b2eA15GwmeSPYblqj_zdT8GSSKx_yZIFsb0tsz1gNR21wgRc7BCX1vVapq1H6wvge71w0h2ynq_Nl5zn5uJ7k-Apv0YPkX64gfJCsWSGDiji0gR-aJpK2EooSdZtR4CyrUditTuL4AXvDxfdpKNHfJhklxkgYktAHguWwPRzxXVYS5TWfjRJa9fLUBqtpYfNEmF7Kkng9pO_iTurdTjYfVYzeDgk2Tmz7L-ufJRQe6XMd4cLnwrBdXxg2LtM0HEgQThUAErGtD_E9uk1Uf8SL1daajvrEXNfLLbu_aiz0fWsmDdsy3wdXSw&mtid=od_YauraFsqI9u8P0rzMkQ4&csuir=1&aep=26&q=wa+wh+40k+exact+geformaliseerd",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 5801
     }
   ],
   "missing": [],
@@ -10273,7 +10471,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "Compared 84 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added six conversations with 29 prompts and 29 responses, including one closed conversation recovered from history. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Embedded source images are preserved; this batch contains no interactive frames or uploaded attachments. Prior source media, source gaps, original video and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
+    "note": "Compared 88 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added eighteen conversations with 160 prompts and 160 responses, including fourteen closed conversations recovered from history. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Preserved three original vector charts, three interactive doodles as static vectors and four canvas doodles as original rendered snapshots, plus embedded response images. One unavailable uploaded reference image is explicitly marked. The already archived v1.5 specification is linked to its new uploaded-file reference. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -14313,19 +14511,251 @@
         "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
         "actualThread": "jLHUaq_LNons7_UPirfomA8"
       }
+    },
+    "october21Media": {
+      "openTabsInitial": 88,
+      "openTabs": 108,
+      "historyEntries": 300,
+      "newConversations": 18,
+      "newPrompts": 160,
+      "newResponses": 160,
+      "updatedConversations": [],
+      "recentContinuationChecks": [
+        {
+          "ordinal": 932,
+          "counts": {
+            "prompts": 10,
+            "responses": 10
+          },
+          "prior": {
+            "prompts": 10,
+            "responses": 10
+          },
+          "samePrompts": true
+        },
+        {
+          "ordinal": 931,
+          "counts": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "prior": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "samePrompts": true
+        },
+        {
+          "ordinal": 930,
+          "counts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "prior": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "samePrompts": true
+        },
+        {
+          "ordinal": 929,
+          "counts": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "prior": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "samePrompts": true
+        }
+      ],
+      "attachments": [
+        {
+          "title": "Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf",
+          "path": "attachments/Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf",
+          "bytes": 5295716,
+          "sha256": "8dfae654435c035beefc3f9770cf6f51b55c0cef968071900142e4cf9b1cf0fd",
+          "alreadyArchived": true,
+          "provenance": "Existing archived author-repository original matching the uploaded filename; its prior provenance remains preserved."
+        }
+      ],
+      "sourceErrorResponses": [
+        {
+          "conversation": 937,
+          "response": 18,
+          "text": "It looks like there's no response available for this search. Try asking something else."
+        },
+        {
+          "conversation": 937,
+          "response": 34,
+          "text": "Something went wrong and an AI response wasn't generated."
+        },
+        {
+          "conversation": 944,
+          "response": 1,
+          "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+        },
+        {
+          "conversation": 944,
+          "response": 5,
+          "text": "It looks like there's no response available for this search. Try asking something else."
+        }
+      ],
+      "sourceGaps": [
+        {
+          "conversation": 937,
+          "prompt": 4,
+          "note": "Source image gap: Google displays a missing-image placeholder for this uploaded reference. Its original pixels are unavailable in the saved conversation. The complete prompt and all available response artwork are preserved."
+        }
+      ],
+      "media": [
+        {
+          "conversation": 937,
+          "response": 2,
+          "kind": "vector_chart",
+          "path": "assets/01HYavXKM-LWi-gPw7HJ0AQ-1.svg"
+        },
+        {
+          "conversation": 937,
+          "response": 3,
+          "kind": "vector_chart",
+          "path": "assets/01HYavXKM-LWi-gPw7HJ0AQ-2.svg"
+        },
+        {
+          "conversation": 939,
+          "response": 10,
+          "kind": "vector_chart",
+          "path": "assets/gWbYauv0MZrqi-gP1Lqh4QE-1.svg"
+        },
+        {
+          "conversation": 939,
+          "response": 16,
+          "kind": "static_interactive_vector",
+          "path": "assets/gWbYauv0MZrqi-gP1Lqh4QE-2.svg"
+        },
+        {
+          "conversation": 939,
+          "response": 16,
+          "kind": "static_canvas_snapshot",
+          "path": "assets/gWbYauv0MZrqi-gP1Lqh4QE-3.png"
+        },
+        {
+          "conversation": 944,
+          "response": 6,
+          "kind": "static_interactive_vector",
+          "path": "assets/G7DYauvGCob-7_UP1-yriQM-1.svg"
+        },
+        {
+          "conversation": 948,
+          "response": 4,
+          "kind": "static_interactive_vector",
+          "path": "assets/m8_YavSZB9aH9u8Ps4uH4As-1.svg"
+        },
+        {
+          "conversation": 949,
+          "response": 4,
+          "kind": "static_canvas_snapshot",
+          "path": "assets/1tzYar25F6jg7_UPqpeFqAY-1.png"
+        },
+        {
+          "conversation": 949,
+          "response": 5,
+          "kind": "static_canvas_snapshot",
+          "path": "assets/1tzYar25F6jg7_UPqpeFqAY-2.png"
+        },
+        {
+          "conversation": 950,
+          "response": 6,
+          "kind": "static_canvas_snapshot",
+          "path": "assets/od_YauraFsqI9u8P0rzMkQ4-1.png"
+        }
+      ],
+      "unmatchedOpen": [],
+      "unmatchedHistory": [],
+      "preservedPriorMedia": true,
+      "unsentDraftExcluded": true,
+      "excludedRegeneratedThread": {
+        "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+        "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+        "actualThread": "jLHUaq_LNons7_UPirfomA8"
+      }
     }
   },
   "latestUpdate": {
-    "at": "2026-10-20T20:31:23.022473+00:00",
-    "date": "2026-10-20",
-    "batchId": "2026-10-20-evening",
-    "openAiModeTabs": 93,
+    "at": "2026-10-21T16:31:53.141694+00:00",
+    "date": "2026-10-21",
+    "batchId": "2026-10-21",
+    "openAiModeTabs": 108,
     "historyConversations": 300,
-    "method": "Compared 84 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added six conversations with 29 prompts and 29 responses, including one closed conversation recovered from history. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Embedded source images are preserved; this batch contains no interactive frames or uploaded attachments. Prior source media, source gaps, original video and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
+    "method": "Compared 88 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added eighteen conversations with 160 prompts and 160 responses, including fourteen closed conversations recovered from history. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Preserved three original vector charts, three interactive doodles as static vectors and four canvas doodles as original rendered snapshots, plus embedded response images. One unavailable uploaded reference image is explicitly marked. The already archived v1.5 specification is linked to its new uploaded-file reference. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
     "records": [
       {
-        "ordinal": 927,
-        "title": "SS Anne Pokémon Blue Red White",
+        "ordinal": 933,
+        "title": "VPN Handshake And Filter",
+        "status": "added",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      },
+      {
+        "ordinal": 934,
+        "title": "Tender Meat Rendering",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 935,
+        "title": "Kariņš Accused Hamas Human Shields",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 936,
+        "title": "Resignation Designation HVT",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 937,
+        "title": "Spectral Rainbow Quad Arch",
+        "status": "added",
+        "counts": {
+          "prompts": 38,
+          "responses": 38
+        }
+      },
+      {
+        "ordinal": 938,
+        "title": "Asymmetrisch Multiplayer Streaming Spel",
+        "status": "added",
+        "counts": {
+          "prompts": 9,
+          "responses": 9
+        }
+      },
+      {
+        "ordinal": 939,
+        "title": "Post Hoc Justification",
+        "status": "added",
+        "counts": {
+          "prompts": 16,
+          "responses": 16
+        }
+      },
+      {
+        "ordinal": 940,
+        "title": "Hiding in Plain Sight Livestream",
         "status": "added",
         "counts": {
           "prompts": 1,
@@ -14333,26 +14763,26 @@
         }
       },
       {
-        "ordinal": 928,
-        "title": "Lying In Wait Leviathan",
+        "ordinal": 941,
+        "title": "The Virgin Suicides",
         "status": "added",
         "counts": {
-          "prompts": 11,
-          "responses": 11
+          "prompts": 1,
+          "responses": 1
         }
       },
       {
-        "ordinal": 929,
-        "title": "Theater of the Futures",
+        "ordinal": 942,
+        "title": "Hiding Complex Recursive Code Types",
         "status": "added",
         "counts": {
-          "prompts": 2,
-          "responses": 2
+          "prompts": 24,
+          "responses": 24
         }
       },
       {
-        "ordinal": 930,
-        "title": "Rhythm Cadence Beat Windows Feedback",
+        "ordinal": 943,
+        "title": "Omelette du Fromage Dexter's Laboratory",
         "status": "added",
         "counts": {
           "prompts": 3,
@@ -14360,90 +14790,161 @@
         }
       },
       {
-        "ordinal": 931,
-        "title": "Wi-Fi Handshake Process",
+        "ordinal": 944,
+        "title": "wincester hansie 2e anekkey de key 63 amlm kutje",
         "status": "added",
         "counts": {
-          "prompts": 2,
-          "responses": 2
+          "prompts": 6,
+          "responses": 6
         }
       },
       {
-        "ordinal": 932,
-        "title": "Pacific Rim AI Control",
+        "ordinal": 945,
+        "title": "Air-gapping Cyber Security Strategy",
         "status": "added",
         "counts": {
-          "prompts": 10,
-          "responses": 10
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 946,
+        "title": "Ballast Bij Hijskranen",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 947,
+        "title": "Hijskraan Hijsen En Ballast",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 948,
+        "title": "Cilinder vs Bol Vruchtbaarheid",
+        "status": "added",
+        "counts": {
+          "prompts": 24,
+          "responses": 24
+        }
+      },
+      {
+        "ordinal": 949,
+        "title": "Vuurwerk Matje Dominoday",
+        "status": "added",
+        "counts": {
+          "prompts": 9,
+          "responses": 9
+        }
+      },
+      {
+        "ordinal": 950,
+        "title": "40k Geformaliseerd Beleid",
+        "status": "added",
+        "counts": {
+          "prompts": 13,
+          "responses": 13
         }
       }
     ],
     "newOrdinals": [
-      927,
-      928,
-      929,
-      930,
-      931,
-      932
+      933,
+      934,
+      935,
+      936,
+      937,
+      938,
+      939,
+      940,
+      941,
+      942,
+      943,
+      944,
+      945,
+      946,
+      947,
+      948,
+      949,
+      950
     ]
   },
   "pdf": {
-    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-20-evening.pdf",
-    "pages": 5540,
-    "bytes": 272399700,
-    "sha256": "780f0b15e838e38d66afaca117709ee09e275d85a17e156dd459c7de022965ff",
-    "promptMarkersVerified": 4773,
-    "responseMarkersVerified": 4776,
-    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the six newly rendered chapters; rebuilt index, bookmarks and continuous footers.",
+    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-21.pdf",
+    "pages": 5821,
+    "bytes": 284771695,
+    "sha256": "7d5a6ec7ca6a86e195e70a3d4424fb0e6910b55823a4f74c7738026ebcdeb210",
+    "promptMarkersVerified": 4933,
+    "responseMarkersVerified": 4936,
+    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in eighteen newly rendered chapters; rebuilt index, bookmarks and continuous footers. Chapter-aligned volumes use a 700-page target to stay below repository limits.",
     "volumes": [
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-20-evening-volume-01.pdf",
-        "bytes": 102396627,
-        "sha256": "fbdc1507649dadfd306079d428388e6bb73b015276ee71f9a0f6cb1a1e058e89",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-21-volume-01.pdf",
+        "bytes": 103245980,
+        "sha256": "c13698f030f1f56fbf3c7c3e119049322407255667ba48f8944fbc477a7ae949",
         "firstPage": 1,
-        "lastPage": 804
+        "lastPage": 705
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-20-evening-volume-02.pdf",
-        "bytes": 47243006,
-        "sha256": "ec7721e6c600d0b2590299dd90a7d7dac3f3a69ca85dbc0a56f8f857a8c596d2",
-        "firstPage": 805,
-        "lastPage": 1604
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-21-volume-02.pdf",
+        "bytes": 42329661,
+        "sha256": "30ab42ced163ccd241b6c3a89613fcd52b1c3ca695d775becd923f1891976ef4",
+        "firstPage": 706,
+        "lastPage": 1405
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-20-evening-volume-03.pdf",
-        "bytes": 62708241,
-        "sha256": "9fbc3f35fcf23e80d5a653ecdeb78367c9483e43455ba508a07a28fb7a9aff74",
-        "firstPage": 1605,
-        "lastPage": 2404
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-21-volume-03.pdf",
+        "bytes": 57458777,
+        "sha256": "01f980e53e759c218d21ec246f4286e30855601c3f15c9e808b80c4aca8bb0f1",
+        "firstPage": 1406,
+        "lastPage": 2121
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-20-evening-volume-04.pdf",
-        "bytes": 54727184,
-        "sha256": "46fce292ae06962f4c908e8e1abef1722626936eda362f91e1af1cafbad03e94",
-        "firstPage": 2405,
-        "lastPage": 3208
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-21-volume-04.pdf",
+        "bytes": 51405420,
+        "sha256": "7d70b639df4e88d83ed7827d25a450d4b36a5956ce7411b7f6b14d9340451077",
+        "firstPage": 2122,
+        "lastPage": 2822
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-20-evening-volume-05.pdf",
-        "bytes": 36283708,
-        "sha256": "503fa2a2a3970e24d2e96426ea9714fcd262002bf0f9502ee3395d4e1fa7ae20",
-        "firstPage": 3209,
-        "lastPage": 4008
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-21-volume-05.pdf",
+        "bytes": 43350535,
+        "sha256": "d4f4846dd3c28afe9e2950b2462045e746fcb3acec6a2a9c8f5ffbbd6d618708",
+        "firstPage": 2823,
+        "lastPage": 3526
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-20-evening-volume-06.pdf",
-        "bytes": 41304527,
-        "sha256": "1923d20cd2be012f3c9fd4b80a079a7aa40c2d1291872bc9ebc1e6ca20d7ae33",
-        "firstPage": 4009,
-        "lastPage": 4821
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-21-volume-06.pdf",
+        "bytes": 36183283,
+        "sha256": "71d8c7f0660e5a987886390dcb8463b4565f3821654ce204ab105796ca91f5f1",
+        "firstPage": 3527,
+        "lastPage": 4237
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-20-evening-volume-07.pdf",
-        "bytes": 38760861,
-        "sha256": "85097a9af7e87009306178f4d5cba33b3e1b6df1d9c25599a0154670fbcb6045",
-        "firstPage": 4822,
-        "lastPage": 5540
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-21-volume-07.pdf",
+        "bytes": 38178741,
+        "sha256": "0c7d5db965332c4a9a498aa60fe31caa543583a5c1e20e0fdbfa035af45ca968",
+        "firstPage": 4238,
+        "lastPage": 4937
+      },
+      {
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-21-volume-08.pdf",
+        "bytes": 37070580,
+        "sha256": "ba0e6b3837fc11762cda7f486fecacc90e4081ea0adcfe7b6c0cbc0a83af0821",
+        "firstPage": 4938,
+        "lastPage": 5658
+      },
+      {
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-21-volume-09.pdf",
+        "bytes": 4111419,
+        "sha256": "a3f9e7ed65f6800031865d2f73241ee50aa845a458da3e268bad6357d097d742",
+        "firstPage": 5659,
+        "lastPage": 5821
       }
     ]
   }
