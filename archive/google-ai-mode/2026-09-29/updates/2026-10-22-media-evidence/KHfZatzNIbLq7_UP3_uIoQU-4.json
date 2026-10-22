@@ -1,0 +1,14 @@
+{
+  "canvas": [
+    {
+      "height": 511,
+      "width": 930
+    }
+  ],
+  "nested": [],
+  "styles": "\n      html, body {\n        height: 100%;\n        width: 100%;\n        margin: 0;\n        overflow: hidden;\n        font-family: 'Google Sans', Roboto, Arial, sans-serif;\n      }\n      body {\n        background-color: #272930;\n        color: #ADAFB8;\n        border-radius: 16px;\n      }\n      .chart-container-wrapper {\n        display: flex;\n        flex-direction: column;\n        height: 100%;\n        width: 100%;\n        box-sizing: border-box;\n      }\n      .chart-header {\n        white-space: pre-wrap;\n        word-break: break-word;\n        display: none;\n        padding: 16px 16px 0 16px;\n        flex-shrink: 0;\n        font-size: 16px;\n        font-weight: bold;\n        color: #E8E8E8;\n        font-family: 'Google Sans', Roboto, Arial, sans-serif;\n      }\n      #chart-container {\n        \n        flex-grow: 1;\n        min-height: 0;\n        \n        position: relative;\n        padding: 8px 16px 16px 16px;\n        box-sizing: border-box;\n      }\n      canvas {\n        width: 100% !important;\n        height: 100% !important;\n      }\n    ",
+  "svg": [],
+  "text": "0:1 Geometrically Perfect Triangle Phase Split",
+  "canvasFile": "KHfZatzNIbLq7_UP3_uIoQU-4.png",
+  "captureMethod": "Original rendered screenshot, cropped to the visible widget; full contextual screenshot retained."
+}

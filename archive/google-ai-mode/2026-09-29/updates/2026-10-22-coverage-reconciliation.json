@@ -1,0 +1,181 @@
+{
+  "openTabsInitial": 102,
+  "openTabs": 106,
+  "historyEntries": 300,
+  "historyRefreshEntries": 10,
+  "newConversations": 22,
+  "newPrompts": 104,
+  "newResponses": 104,
+  "updatedConversations": [],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 950,
+      "threadId": "od_YauraFsqI9u8P0rzMkQ4",
+      "title": "40k Geformaliseerd Beleid",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      },
+      "prior": {
+        "prompts": 13,
+        "responses": 13
+      },
+      "samePrompts": true,
+      "note": "Prompt wording unchanged; Google now shows You said instead of the earlier You sent attachment prefix. The archived original attachment and provenance are retained."
+    },
+    {
+      "ordinal": 949,
+      "threadId": "1tzYar25F6jg7_UPqpeFqAY",
+      "title": "Vuurwerk Matje Dominoday",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "prior": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 948,
+      "threadId": "m8_YavSZB9aH9u8Ps4uH4As",
+      "title": "Cilinder vs Bol Vruchtbaarheid",
+      "counts": {
+        "prompts": 24,
+        "responses": 24
+      },
+      "prior": {
+        "prompts": 24,
+        "responses": 24
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 947,
+      "threadId": "Ms_YaqS_Mfuji-gPlqyskAE",
+      "title": "Hijskraan Hijsen En Ballast",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "prior": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "samePrompts": true
+    }
+  ],
+  "attachments": [
+    {
+      "title": "Original uploaded reference image - Quadratic Scaling of Time",
+      "path": "assets/2026-10-22-024a84ba48ad44713f78.jpg",
+      "bytes": 74701,
+      "sha256": "024a84ba48ad44713f7893cfb9b7e34041053b6a3da2a901386060b11e2db362",
+      "provenance": "Original image exported from the visible Google conversation using its observed page asset."
+    }
+  ],
+  "sourceErrorResponses": [],
+  "sourceGaps": [],
+  "media": [
+    {
+      "conversation": 956,
+      "response": 2,
+      "kind": "vector_chart",
+      "path": "assets/Of7YaqipG_G79u8Pr7q9gAo-1.svg"
+    },
+    {
+      "conversation": 956,
+      "response": 3,
+      "kind": "vector_chart",
+      "path": "assets/Of7YaqipG_G79u8Pr7q9gAo-2.svg"
+    },
+    {
+      "conversation": 956,
+      "response": 8,
+      "kind": "vector_chart",
+      "path": "assets/Of7YaqipG_G79u8Pr7q9gAo-3.svg"
+    },
+    {
+      "conversation": 959,
+      "response": 7,
+      "kind": "vector_chart",
+      "path": "assets/OCbZatf4FOKJ9u8Pk-qGiQ8-1.svg"
+    },
+    {
+      "conversation": 959,
+      "response": 8,
+      "kind": "vector_chart",
+      "path": "assets/OCbZatf4FOKJ9u8Pk-qGiQ8-2.svg"
+    },
+    {
+      "conversation": 959,
+      "response": 9,
+      "kind": "vector_chart",
+      "path": "assets/OCbZatf4FOKJ9u8Pk-qGiQ8-3.svg"
+    },
+    {
+      "conversation": 959,
+      "response": 10,
+      "kind": "vector_chart",
+      "path": "assets/OCbZatf4FOKJ9u8Pk-qGiQ8-4.svg"
+    },
+    {
+      "conversation": 959,
+      "response": 13,
+      "kind": "vector_chart",
+      "path": "assets/OCbZatf4FOKJ9u8Pk-qGiQ8-5.svg"
+    },
+    {
+      "conversation": 959,
+      "response": 14,
+      "kind": "static_canvas_snapshot",
+      "path": "assets/OCbZatf4FOKJ9u8Pk-qGiQ8-6.png"
+    },
+    {
+      "conversation": 961,
+      "response": 3,
+      "kind": "vector_chart",
+      "path": "assets/KHfZatzNIbLq7_UP3_uIoQU-1.svg"
+    },
+    {
+      "conversation": 961,
+      "response": 5,
+      "kind": "vector_chart",
+      "path": "assets/KHfZatzNIbLq7_UP3_uIoQU-2.svg"
+    },
+    {
+      "conversation": 961,
+      "response": 15,
+      "kind": "vector_chart",
+      "path": "assets/KHfZatzNIbLq7_UP3_uIoQU-3.svg"
+    },
+    {
+      "conversation": 961,
+      "response": 20,
+      "kind": "static_canvas_snapshot",
+      "path": "assets/KHfZatzNIbLq7_UP3_uIoQU-4.png"
+    },
+    {
+      "conversation": 966,
+      "response": 6,
+      "kind": "vector_chart",
+      "path": "assets/X4XZav_wEPS69u8P2_eNmAE-1.svg"
+    },
+    {
+      "conversation": 968,
+      "response": 4,
+      "kind": "static_interactive_vector",
+      "path": "assets/6IrZauPQDo-G9u8P7_GXkQ0-1.svg"
+    }
+  ],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true,
+  "excludedRegeneratedThread": {
+    "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+    "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+    "actualThread": "jLHUaq_LNons7_UPirfomA8"
+  }
+}

@@ -1,77 +1,14 @@
 {
-  "at": "2026-10-21T16:31:53.141694+00:00",
-  "date": "2026-10-21",
-  "batchId": "2026-10-21",
-  "openAiModeTabs": 108,
+  "at": "2026-10-22T04:46:58.260722+00:00",
+  "date": "2026-10-22",
+  "batchId": "2026-10-22",
+  "openAiModeTabs": 106,
   "historyConversations": 300,
-  "method": "Compared 88 initially open AI Mode tabs, all 300 visible history entries and a refreshed open-tab inventory. Added eighteen conversations with 160 prompts and 160 responses, including fourteen closed conversations recovered from history. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Preserved three original vector charts, three interactive doodles as static vectors and four canvas doodles as original rendered snapshots, plus embedded response images. One unavailable uploaded reference image is explicitly marked. The already archived v1.5 specification is linked to its new uploaded-file reference. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
+  "method": "Compared 102 initially open AI Mode tabs and all 300 visible history entries, followed by a refreshed open-tab inventory and the latest history entries. Added 22 conversations with 104 prompts and 104 responses, including three conversations created during the scan. Every new transcript was read back. Four recent archived conversations have no added prompts or responses; the earlier original attachment is preserved where Google now omits its upload label. Preserved twelve original vector charts, one interactive doodle as static vectors and two canvas doodles as original rendered snapshots, plus embedded response images and one recovered original uploaded reference image. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
   "records": [
     {
-      "ordinal": 933,
-      "title": "VPN Handshake And Filter",
-      "status": "added",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      }
-    },
-    {
-      "ordinal": 934,
-      "title": "Tender Meat Rendering",
-      "status": "added",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      }
-    },
-    {
-      "ordinal": 935,
-      "title": "Kariņš Accused Hamas Human Shields",
-      "status": "added",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      }
-    },
-    {
-      "ordinal": 936,
-      "title": "Resignation Designation HVT",
-      "status": "added",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      }
-    },
-    {
-      "ordinal": 937,
-      "title": "Spectral Rainbow Quad Arch",
-      "status": "added",
-      "counts": {
-        "prompts": 38,
-        "responses": 38
-      }
-    },
-    {
-      "ordinal": 938,
-      "title": "Asymmetrisch Multiplayer Streaming Spel",
-      "status": "added",
-      "counts": {
-        "prompts": 9,
-        "responses": 9
-      }
-    },
-    {
-      "ordinal": 939,
-      "title": "Post Hoc Justification",
-      "status": "added",
-      "counts": {
-        "prompts": 16,
-        "responses": 16
-      }
-    },
-    {
-      "ordinal": 940,
-      "title": "Hiding in Plain Sight Livestream",
+      "ordinal": 951,
+      "title": "Economische Waarde van Mensen",
       "status": "added",
       "counts": {
         "prompts": 1,
@@ -79,8 +16,17 @@
       }
     },
     {
-      "ordinal": 941,
-      "title": "The Virgin Suicides",
+      "ordinal": 952,
+      "title": "Blauw Bloed van Hagedissen",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 953,
+      "title": "Clarke and Dawe Kids skit",
       "status": "added",
       "counts": {
         "prompts": 1,
@@ -88,17 +34,8 @@
       }
     },
     {
-      "ordinal": 942,
-      "title": "Hiding Complex Recursive Code Types",
-      "status": "added",
-      "counts": {
-        "prompts": 24,
-        "responses": 24
-      }
-    },
-    {
-      "ordinal": 943,
-      "title": "Omelette du Fromage Dexter's Laboratory",
+      "ordinal": 954,
+      "title": "Clarke and Dawe Sketch",
       "status": "added",
       "counts": {
         "prompts": 3,
@@ -106,8 +43,35 @@
       }
     },
     {
-      "ordinal": 944,
-      "title": "wincester hansie 2e anekkey de key 63 amlm kutje",
+      "ordinal": 955,
+      "title": "Varg Vikernes Euronymous Stabbing Claim",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 956,
+      "title": "OpenAI Logo Comparison",
+      "status": "added",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      }
+    },
+    {
+      "ordinal": 957,
+      "title": "Mens als Autonome Robot",
+      "status": "added",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 958,
+      "title": "Dramatiseren Beren Sexuoloog Lyme",
       "status": "added",
       "counts": {
         "prompts": 6,
@@ -115,78 +79,154 @@
       }
     },
     {
-      "ordinal": 945,
-      "title": "Air-gapping Cyber Security Strategy",
+      "ordinal": 959,
+      "title": "Flummig (Adjektiv)",
+      "status": "added",
+      "counts": {
+        "prompts": 17,
+        "responses": 17
+      }
+    },
+    {
+      "ordinal": 960,
+      "title": "Pareto Principle and Poison Pill",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 961,
+      "title": "Axiom And Expert System",
+      "status": "added",
+      "counts": {
+        "prompts": 21,
+        "responses": 21
+      }
+    },
+    {
+      "ordinal": 962,
+      "title": "Spheres and Cubed Dimensions",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 963,
+      "title": "Square-Cube Law for Spheres",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 964,
+      "title": "5050 Hindsight 2020",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 965,
+      "title": "Soa Preventie Middelen Ggd",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 966,
+      "title": "Neptunuslaan 119 Lat Long",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 967,
+      "title": "Kane Regenesis Concept",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 968,
+      "title": "Quadratic Scaling of Time",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 969,
+      "title": "Microsoft Database Information",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 970,
+      "title": "Grift and Graft Botany",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 971,
+      "title": "Sweden Immigrant Tipping Point",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 972,
+      "title": "0 Sum Game Theory Foresight",
       "status": "added",
       "counts": {
         "prompts": 3,
         "responses": 3
       }
-    },
-    {
-      "ordinal": 946,
-      "title": "Ballast Bij Hijskranen",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 947,
-      "title": "Hijskraan Hijsen En Ballast",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 948,
-      "title": "Cilinder vs Bol Vruchtbaarheid",
-      "status": "added",
-      "counts": {
-        "prompts": 24,
-        "responses": 24
-      }
-    },
-    {
-      "ordinal": 949,
-      "title": "Vuurwerk Matje Dominoday",
-      "status": "added",
-      "counts": {
-        "prompts": 9,
-        "responses": 9
-      }
-    },
-    {
-      "ordinal": 950,
-      "title": "40k Geformaliseerd Beleid",
-      "status": "added",
-      "counts": {
-        "prompts": 13,
-        "responses": 13
-      }
     }
   ],
   "newOrdinals": [
-    933,
-    934,
-    935,
-    936,
-    937,
-    938,
-    939,
-    940,
-    941,
-    942,
-    943,
-    944,
-    945,
-    946,
-    947,
-    948,
-    949,
-    950
+    951,
+    952,
+    953,
+    954,
+    955,
+    956,
+    957,
+    958,
+    959,
+    960,
+    961,
+    962,
+    963,
+    964,
+    965,
+    966,
+    967,
+    968,
+    969,
+    970,
+    971,
+    972
   ]
 }

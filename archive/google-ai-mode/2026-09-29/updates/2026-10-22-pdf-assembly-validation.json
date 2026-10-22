@@ -1,0 +1,123 @@
+{
+  "pages": 6004,
+  "frontPages": 31,
+  "indexPage": 1,
+  "unchangedBodyPages": 5791,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "951": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "952": {
+      "pages": 2,
+      "prompts": 2,
+      "responses": 2
+    },
+    "953": {
+      "pages": 1,
+      "prompts": 1,
+      "responses": 1
+    },
+    "954": {
+      "pages": 2,
+      "prompts": 3,
+      "responses": 3
+    },
+    "955": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "956": {
+      "pages": 18,
+      "prompts": 11,
+      "responses": 11
+    },
+    "957": {
+      "pages": 13,
+      "prompts": 10,
+      "responses": 10
+    },
+    "958": {
+      "pages": 13,
+      "prompts": 6,
+      "responses": 6
+    },
+    "959": {
+      "pages": 50,
+      "prompts": 17,
+      "responses": 17
+    },
+    "960": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "961": {
+      "pages": 38,
+      "prompts": 21,
+      "responses": 21
+    },
+    "962": {
+      "pages": 6,
+      "prompts": 4,
+      "responses": 4
+    },
+    "963": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "964": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "965": {
+      "pages": 7,
+      "prompts": 6,
+      "responses": 6
+    },
+    "966": {
+      "pages": 6,
+      "prompts": 6,
+      "responses": 6
+    },
+    "967": {
+      "pages": 2,
+      "prompts": 2,
+      "responses": 2
+    },
+    "968": {
+      "pages": 5,
+      "prompts": 4,
+      "responses": 4
+    },
+    "969": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "970": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "971": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "972": {
+      "pages": 3,
+      "prompts": 3,
+      "responses": 3
+    }
+  },
+  "internalIndexLinks": 1030,
+  "prompts": 5037,
+  "responses": 5040,
+  "streamingReadbackVerified": true
+}
