@@ -1,0 +1,144 @@
+{
+  "openTabsInitial": 108,
+  "openTabs": 109,
+  "historyEntries": 300,
+  "historyRefreshEntries": 10,
+  "newConversations": 9,
+  "newPrompts": 73,
+  "newResponses": 73,
+  "updatedConversations": [],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 972,
+      "title": "0 Sum Game Theory Foresight",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "prior": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 971,
+      "title": "Sweden Immigrant Tipping Point",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "prior": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 970,
+      "title": "Grift and Graft Botany",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "prior": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 969,
+      "title": "Microsoft Database Information",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "prior": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "samePrompts": true
+    }
+  ],
+  "attachments": [],
+  "sourceErrorResponses": [],
+  "sourceGaps": [],
+  "media": [
+    {
+      "conversation": 974,
+      "response": 4,
+      "kind": "vector_chart",
+      "path": "assets/y6bZau27E7b87_UPjYvU6QY-1.svg"
+    },
+    {
+      "conversation": 974,
+      "response": 6,
+      "kind": "vector_chart",
+      "path": "assets/y6bZau27E7b87_UPjYvU6QY-2.svg"
+    },
+    {
+      "conversation": 974,
+      "response": 9,
+      "kind": "vector_chart",
+      "path": "assets/y6bZau27E7b87_UPjYvU6QY-3.svg"
+    },
+    {
+      "conversation": 980,
+      "response": 2,
+      "kind": "vector_chart",
+      "path": "assets/07rZavfWDLjj7_UPhouAwAw-1.svg"
+    },
+    {
+      "conversation": 980,
+      "response": 7,
+      "kind": "vector_chart",
+      "path": "assets/07rZavfWDLjj7_UPhouAwAw-2.svg"
+    },
+    {
+      "conversation": 980,
+      "response": 11,
+      "kind": "vector_chart",
+      "path": "assets/07rZavfWDLjj7_UPhouAwAw-3.svg"
+    },
+    {
+      "conversation": 980,
+      "response": 13,
+      "kind": "vector_chart",
+      "path": "assets/07rZavfWDLjj7_UPhouAwAw-4.svg"
+    },
+    {
+      "conversation": 980,
+      "response": 14,
+      "kind": "vector_chart",
+      "path": "assets/07rZavfWDLjj7_UPhouAwAw-5.svg"
+    },
+    {
+      "conversation": 980,
+      "response": 15,
+      "kind": "vector_chart",
+      "path": "assets/07rZavfWDLjj7_UPhouAwAw-6.svg"
+    },
+    {
+      "conversation": 980,
+      "response": 16,
+      "kind": "static_interactive_vector",
+      "path": "assets/07rZavfWDLjj7_UPhouAwAw-7.svg"
+    },
+    {
+      "conversation": 981,
+      "response": 6,
+      "kind": "vector_chart",
+      "path": "assets/6N3Zav3HMsmYi-gPvNiboQk-1.svg"
+    }
+  ],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true,
+  "excludedRegeneratedThread": {
+    "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+    "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+    "actualThread": "jLHUaq_LNons7_UPirfomA8"
+  }
+}

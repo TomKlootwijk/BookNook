@@ -1,0 +1,77 @@
+{
+  "reviewedAt": "2026-10-22T12:32:11.575085+00:00",
+  "newPagesRendered": 153,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 8,
+  "headingMinimumPt": 20,
+  "highResolutionReview": [
+    "front-cover.png",
+    "page-6020.png",
+    "page-6089.png",
+    "page-6107.png",
+    "page-6110.png",
+    "page-6117.png",
+    "page-6120.png",
+    "page-6155.png"
+  ],
+  "recoveredFullLengthSvgCount": 5,
+  "sourceGaps": [],
+  "originalErrorResponsesPreserved": [],
+  "chapters": [
+    {
+      "conversation": 973,
+      "pages": 2,
+      "sha256": "a6275d47365ba79a44d4b241c9f445a712f8b76a3a9ce86f842a74a910604a0c",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 974,
+      "pages": 15,
+      "sha256": "df14d038e0e06ddaa7c05d60cebab45ff772a7e1e629b1b0eef3118048b0740f",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 975,
+      "pages": 15,
+      "sha256": "dcfc93425f27ab0b627bdecac1f73090e998a7469131f5756ead57b06c604d7c",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 976,
+      "pages": 20,
+      "sha256": "2d566139f2e25eaff91ec42c8dce03f7c1975ac6f8aff265e025615bf744193e",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 977,
+      "pages": 7,
+      "sha256": "e6ae864df103c049ee9ba1b78c4abf475785a5f6af7ba6567da32c8b3d84a531",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 978,
+      "pages": 2,
+      "sha256": "18cad5b806032da3551914fddedef3f15e8cf3f87b21cfc420cf68b1a2f12c9a",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 979,
+      "pages": 8,
+      "sha256": "730a8cbe59eb5a09cb92c48c9f785113d4fee0bc9536e8b2daca1734df6e893d",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 980,
+      "pages": 59,
+      "sha256": "80397f055be270e070e3594911e4a024a78e2b93b04d8cc4a830b7c55711ae23",
+      "maxHeadingPt": 20.689826785923845
+    },
+    {
+      "conversation": 981,
+      "pages": 25,
+      "sha256": "7a786580ab50fadbbd37a6a10ecfe1bb094a70f86d58dcd1d6f1eb89f9a6bc4d",
+      "maxHeadingPt": 20.999999125
+    }
+  ],
+  "result": "passed"
+}

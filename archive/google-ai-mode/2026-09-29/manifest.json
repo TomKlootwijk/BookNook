@@ -1,11 +1,11 @@
 {
-  "exportDate": "2026-10-22",
-  "scopeCount": 972,
-  "capturedCount": 972,
-  "prompts": 5037,
-  "responses": 5040,
-  "mathRendered": 16802,
-  "embeddedImages": 11557,
+  "exportDate": "2026-10-22-more",
+  "scopeCount": 981,
+  "capturedCount": 981,
+  "prompts": 5110,
+  "responses": 5113,
+  "mathRendered": 17079,
+  "embeddedImages": 11767,
   "conversations": [
     {
       "ordinal": 1,
@@ -10698,6 +10698,105 @@
       "source": "https://www.google.com/search?sca_esv=882e2611175d5c4b&sxsrf=APpeQns72gG-R7hI16PfGAc3u3BCPaV0gA%3A1792560296472&ei=o0zYasnQM8SM9u8P8bP7oAw&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&ntc=1&cs=1&udm=50&atvm=2&ved=0CAEQ2_wOahcKEwiA_q-b6MyXAxUAAAAAHQAAAAAQNg&mstk=AUtExfA5k_uQw_nU-4K2pyITI0Gs1IiayjAS7eDxTYSYXDFKKN87Z8kNFv2UppTDT58gDeSr-2UG2p__b2PzJAm6knjDEgkmC3iw2Z9EVcUra9i4y_Ca3OJSGpbPFzmMkf9ugnxQol-cH2eDe8USe6DNOjmM8ReClQFxCxOqSB-YUUK15zlaxdPR8VezFO-gb6CoewIL6y9Z8LpVHCFBy33rsIzK-ZRJJCk5F6h1a26kIIyOVrpg187W7g0Nb0vYrbWlxmSm_oh-CnN8C1-6G63QheCl4uNaAfZNRQhZ4C3U0f9x0vrxHgDbxuhFUBwAdiHkVCt6s1IHifSTbw&mtid=m5PZavS3LsjIi-gPu_aDuAs&csuir=1&aep=26&q=0+sum+game+theory+foresight+specialist+en+ik+hindsight+hindenburg+game+technology+game+design+en+creatieve+technologist",
       "recoveredFromSavedUrl": false,
       "pdfPage": 6002
+    },
+    {
+      "ordinal": 973,
+      "title": "Knop Topologische Geometrische Switch",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/973-knop-topologische-geometrische-switch.html",
+      "markdown": "conversations/973-knop-topologische-geometrische-switch.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=10BW&sca_esv=07633221db169b35&sxsrf=APpeQntuaRtRzD00AqwBFI6YSldhi9AeDw%3A1792653057586&vsint=&ntc=1&cs=1&sa=X&ved=0CDEQ2_wOahcKEwj4_LLFzM2XAxUAAAAAHQAAAAAQGg&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfABcDV_deWIpyailS-ZyU3FN9bWINf_ZkxU7TXmbCO_l9tea44Lhzwhxy9FDulzD9L-jbQ6EO6LTPGhFxLfHvISPKEbw6t5-MGjzPHxOM4BFePrZOpop9QuRHD2ZR35OtQTRLq7SFT7ho_8NjZxrLp26_XdxsgrQUa8nh1a-e8KdTGXX3QIhDoobg2iPZApTnH7zpAvqFwOpl2rmiYA21E8pEc_n5f3pj8PirEXfyMwhSk6r0DqM3DBgfUPf5ewpP-GUJpqJOmXSDt7QOW5xFbZK1A8ItNdviAgEdEh3n-QwG4NnhZNWZKTbiYWMWv6K6i_QmtOTrjxmg&mtid=PJ7ZaquxJ6vsi-gP8onMsAg&csuir=1&aep=26&q=y+knoop+topologisch+geometrisch+switch",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6005
+    },
+    {
+      "ordinal": 974,
+      "title": "Bernoulli Principle Application",
+      "prompts": 10,
+      "responses": 10,
+      "html": "conversations/974-bernoulli-principle-application.html",
+      "markdown": "conversations/974-bernoulli-principle-application.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=10BW&sca_esv=07633221db169b35&sxsrf=APpeQntuaRtRzD00AqwBFI6YSldhi9AeDw%3A1792653057586&vsint=&ntc=1&cs=1&sa=X&ved=0CCsQ2_wOahcKEwj4_LLFzM2XAxUAAAAAHQAAAAAQGg&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfBypWNZTyoP7kzE3xfoCnfNHzgX9h_03VfRJoAboZz_0q-bnUlFdri0o26xGsGAW0gvFmSMairHEIDVH27Uxy_OEmN59v42aFBAx99hnn2ykTCnLN_FT-Loj5-h2wY_Sy6nO9J2OMJXyXnpjlphqpLrhm2m5BpJz3lGasYjSXtAurHXa819dzedfZiqBIDZYx19yHH_iM1s-eGOMJLaoYCbNgVaGbjpdfUu-Aj8FhBW77Tqi9Bhl2gaCKWBDsfvcgw-7UQJ2GgzYQ&mtid=y6bZau27E7b87_UPjYvU6QY&csuir=1&aep=26&q=bernoulli+principle+apply+two+points",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6007
+    },
+    {
+      "ordinal": 975,
+      "title": "3D Printed Choke",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/975-3d-printed-choke.html",
+      "markdown": "conversations/975-3d-printed-choke.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=10BW&sca_esv=07633221db169b35&sxsrf=APpeQntuaRtRzD00AqwBFI6YSldhi9AeDw%3A1792653057586&vsint=&ntc=1&cs=1&sa=X&ved=0CCUQ2_wOahcKEwj4_LLFzM2XAxUAAAAAHQAAAAAQGg&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfB-ap6dJ3OfFNxi3dmiTqMGKFXxjqepehju-MUEeBZn-CqLKGTuf6vzPK6sgNmkwScNbc0_bBm9xAi_oX7Bk2T_hZdQ9ZtalM9O-iWS3JZRqenW074C51aNgm16Tc0NAOxXUEnljzB-CAzT2AjtE3gLqqRtDxG3hurvfld7rjaLssUT7jc78-2LGp-oefUwnaAwgvf41cVLjAUfvrqvRDdZO6CZqJWyht3zXxgTtiGByxTCWH1an5MvLhgTADFLfjFvqUUrvQJAcg&mtid=RqrZauSJEa3Li-gPxZiUkQ4&csuir=1&aep=26&q=3D+printed+choke",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6022
+    },
+    {
+      "ordinal": 976,
+      "title": "DJI Tello and Mavic Air",
+      "prompts": 10,
+      "responses": 10,
+      "html": "conversations/976-dji-tello-and-mavic-air.html",
+      "markdown": "conversations/976-dji-tello-and-mavic-air.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=10BW&sca_esv=07633221db169b35&sxsrf=APpeQntuaRtRzD00AqwBFI6YSldhi9AeDw%3A1792653057586&vsint=&ntc=1&cs=1&sa=X&ved=0CB8Q2_wOahcKEwj4_LLFzM2XAxUAAAAAHQAAAAAQGg&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfDK7CLpfjDwTJMraFKyyEU-h9Ww03FJ1vXjmrtBGz0dEd8JvZkGLLh8E1KAPP7YWF3sBw2OLjV_RucUXH-D2Zw_E7eN6ICM6tAtvXvnlPVWpxiSxPD0CEFQFdpYEHGGsA86-K1QctCxeXfR8oBnZdoSDDWB437N_wF9fOE2qStfXZFpJVS59LvYtQ3ubfj_hcgZKQ4MF_aQPIpXoC6M9naBAMKPzOeFbVAPlZOHDAQ4fjbU0r9Z4ke7qVJM2HtwLs5Y8ebuaE3UOg&mtid=ArfZapWSJcaG9u8P_v-RiQQ&csuir=1&aep=26&q=master+capstone+cornerstone+project+DJI+tello+drone+mavic+air+2+penitentiary+industry+usa+tau+tau+mu+mu",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6037
+    },
+    {
+      "ordinal": 977,
+      "title": "Brain-Computer Interface Project Name",
+      "prompts": 7,
+      "responses": 7,
+      "html": "conversations/977-brain-computer-interface-project-name.html",
+      "markdown": "conversations/977-brain-computer-interface-project-name.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=10BW&sca_esv=07633221db169b35&sxsrf=APpeQntuaRtRzD00AqwBFI6YSldhi9AeDw%3A1792653057586&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahcKEwj4_LLFzM2XAxUAAAAAHQAAAAAQGg&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfCYd0kTUQPyuBGT7Lrcpq08bwZPRoNy2V_EfV5qdJDVq6pxCZJ6OEyBOtpNJA5b6hUQOf8ZyNJhruzwkTunUHNdXcrQgvVgX5iWCWTJ5H6vZavxII-T_xmmBLsSjWWgEGRw8aSkZNVh4xqjGlNsv8t_kkzEu9XUsvy2OGHRn59HcC7qd-nwSmCyEWlY7SPRGbe8Zq3IYOef9PbX2npym4T9Tb3GczAfB3FvsAcO7TkMWHI-PCzNMrqrAe9H-FOF8FVkGO8UN8bmG2QLv8N_ZkRToDJjnoFl_3JCt71IAT8uZfDK89FIX2i97D_FSFl42w2LhPVPHX-Ugg&mtid=QcPZap_NPOPp7_UPr_bqqAo&csuir=1&aep=26&q=gdc+value+bci+hci+project+name",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6057
+    },
+    {
+      "ordinal": 978,
+      "title": "Literature and Surreal References",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/978-literature-and-surreal-references.html",
+      "markdown": "conversations/978-literature-and-surreal-references.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=10BW&sca_esv=07633221db169b35&sxsrf=APpeQntuaRtRzD00AqwBFI6YSldhi9AeDw%3A1792653057586&vsint=&ntc=1&cs=1&sa=X&ved=0CBMQ2_wOahcKEwj4_LLFzM2XAxUAAAAAHQAAAAAQGg&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfCiEWDWkuhVoMdSV2wWZrRGH6_pLYrIlNS1YGe9436wpzfL7YOBdhD2fO0wpmVo841XlQXpMa6NtJbux7GlgMFl8hwgs_1ydfkNOVFqy9mEC9OyCowPtXFLXU54xzTGWnfnlkNyZcJZKOiQFgimhk-H_iyBa8yBSjtuFaZqpGjTj3yqYlLAKPFr_s-CJQ8oPeS4Ll14WgngpIarjGWQflPipTXRY9o3HNOpeabkGyI9MVSRfbNc6D7MyQ_ZuDTPZ9ULNo91YEqniRVv3YquXaHXYsYqK-TVW5fG8rIh9NC4utr4rH8CRuZIx0-7YaWESbtf42TqTlB0RA&mtid=esbZaov-CPf_7_UPsOmXoQU&csuir=1&aep=26&q=there+is+nothing+of+value+in+the+middle+middle+east+I+ran+you+walker+johnny+murakami+kafka+on+the+shore+EGGBURG",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6064
+    },
+    {
+      "ordinal": 979,
+      "title": "Countess Elizabeth Báthory",
+      "prompts": 6,
+      "responses": 6,
+      "html": "conversations/979-countess-elizabeth-b-thory.html",
+      "markdown": "conversations/979-countess-elizabeth-b-thory.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=10BW&sca_esv=07633221db169b35&sxsrf=APpeQntuaRtRzD00AqwBFI6YSldhi9AeDw%3A1792653057586&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahcKEwj4_LLFzM2XAxUAAAAAHQAAAAAQGg&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfAvPnB_5rKmv2YJ9tTKMRsSCbS_yQZFXvFNVkZzZGLjQnydbGHCtL_XYLrwOeWBHLFCWQwcRJ5DJgG1K-iUMrHZUMumz-5QBMCyUJ9VCFtYTv4ONQ5GMb_GsYKpzYx4bLFs4bNY-J6uIF3hL3JiEzoBYvtL1pA0xbXkCwEKkHD8FHI4CzImKmAv482-9j2yRykwwg5ROlttJLPy0MHEi7W8dvFmWmVsLrC0LKuTvtadsWAYBIL0HyoZRaMtGPvQYhQkE0ZWGuq3rg&mtid=gcrZasalAaGE9u8PzdWAqAM&csuir=1&aep=26&q=countess+bathory",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6066
+    },
+    {
+      "ordinal": 980,
+      "title": "Tello vs Mavic Drone Projects",
+      "prompts": 21,
+      "responses": 21,
+      "html": "conversations/980-tello-vs-mavic-drone-projects.html",
+      "markdown": "conversations/980-tello-vs-mavic-drone-projects.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=10BW&sca_esv=07633221db169b35&sxsrf=APpeQntuaRtRzD00AqwBFI6YSldhi9AeDw%3A1792653057586&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahcKEwj4_LLFzM2XAxUAAAAAHQAAAAAQGg&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfAIeuJDHisfIQns_wc1Edii2omsEVKRGHjHzdYUGdLzojFDU51UqSxbkWGgypaiuUYHadZk6G_7rm2I-4SfmurlFoEqOwuohKN8RvCVCz2AVPbNHDqj7C3wXwvRQvWG_NWzzDiqyfr5BgZWZm998B6-qsPNsSJEGGMjEZvUpMWBxOKHc2l_kWf0nx9-QncNl1-To8UmX9_1-83mrH02ZIL4EUH46KLiIH9nfoI9PXY6FJccn348KX8J-au5kuDTjHnUQJGvVFPjLA&mtid=07rZavfWDLjj7_UPhouAwAw&csuir=1&aep=26&q=master+capstone+cornerstone+project+DJI+tello+drone+mavic+air+2+penitentiary+industry+usa+tau+tau+mu+mu",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6074
+    },
+    {
+      "ordinal": 981,
+      "title": "Reverse Psychology Beatrix Kiddo",
+      "prompts": 14,
+      "responses": 14,
+      "html": "conversations/981-reverse-psychology-beatrix-kiddo.html",
+      "markdown": "conversations/981-reverse-psychology-beatrix-kiddo.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=10BW&sca_esv=07633221db169b35&sxsrf=APpeQntuaRtRzD00AqwBFI6YSldhi9AeDw%3A1792653057586&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwj4_LLFzM2XAxUAAAAAHQAAAAAQGg&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfAlmJlYqYpbpykm8xDNj8kh2_j-wTIB0bSe40f6tE5gssA8B4GUnFV5vgMFmNi1fbA_QZsNuasjaVeNRkf2eNJSIyIjCHbdjEmFUbG0b3zLDKknmOj2s2Z1BJn7oaEccTxO2113aTZe4u7fDoOs7GTS63GBrluFGtqkul_1l4d3Jbg20-z2jZ0T3KM3wnhlk4OOSiArnDw3HJtaBHgxgVZnyZlVc8x-HM44BqbIpeYQxM4WxT1Z5j7-STc1VZ3Jr3T4yb-dmSn50iz-vgNASC955fJ7_GhRvIjXCiV9eRR53lcw0j_WdPbM1ISW3YNw3V-BElR3E2hgKw&mtid=6N3Zav3HMsmYi-gPvNiboQk&csuir=1&aep=26&q=reverse+psychological+beatrix",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6133
     }
   ],
   "missing": [],
@@ -10713,7 +10812,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "Compared 102 initially open AI Mode tabs and all 300 visible history entries, followed by a refreshed open-tab inventory and the latest history entries. Added 22 conversations with 104 prompts and 104 responses, including three conversations created during the scan. Every new transcript was read back. Four recent archived conversations have no added prompts or responses; the earlier original attachment is preserved where Google now omits its upload label. Preserved twelve original vector charts, one interactive doodle as static vectors and two canvas doodles as original rendered snapshots, plus embedded response images and one recovered original uploaded reference image. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
+    "note": "Compared 108 initially open AI Mode tabs and all 300 visible history entries, followed by a refreshed open-tab inventory and the latest history entries. Added nine conversations with 73 prompts and 73 responses. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Preserved ten original vector charts and one interactive doodle as static vectors, plus embedded response images. Two shared-tab references are retained. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -15103,19 +15202,163 @@
         "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
         "actualThread": "jLHUaq_LNons7_UPirfomA8"
       }
+    },
+    "october22MoreMedia": {
+      "openTabsInitial": 108,
+      "openTabs": 109,
+      "historyEntries": 300,
+      "historyRefreshEntries": 10,
+      "newConversations": 9,
+      "newPrompts": 73,
+      "newResponses": 73,
+      "updatedConversations": [],
+      "recentContinuationChecks": [
+        {
+          "ordinal": 972,
+          "title": "0 Sum Game Theory Foresight",
+          "counts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "prior": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "samePrompts": true
+        },
+        {
+          "ordinal": 971,
+          "title": "Sweden Immigrant Tipping Point",
+          "counts": {
+            "prompts": 1,
+            "responses": 1
+          },
+          "prior": {
+            "prompts": 1,
+            "responses": 1
+          },
+          "samePrompts": true
+        },
+        {
+          "ordinal": 970,
+          "title": "Grift and Graft Botany",
+          "counts": {
+            "prompts": 1,
+            "responses": 1
+          },
+          "prior": {
+            "prompts": 1,
+            "responses": 1
+          },
+          "samePrompts": true
+        },
+        {
+          "ordinal": 969,
+          "title": "Microsoft Database Information",
+          "counts": {
+            "prompts": 1,
+            "responses": 1
+          },
+          "prior": {
+            "prompts": 1,
+            "responses": 1
+          },
+          "samePrompts": true
+        }
+      ],
+      "attachments": [],
+      "sourceErrorResponses": [],
+      "sourceGaps": [],
+      "media": [
+        {
+          "conversation": 974,
+          "response": 4,
+          "kind": "vector_chart",
+          "path": "assets/y6bZau27E7b87_UPjYvU6QY-1.svg"
+        },
+        {
+          "conversation": 974,
+          "response": 6,
+          "kind": "vector_chart",
+          "path": "assets/y6bZau27E7b87_UPjYvU6QY-2.svg"
+        },
+        {
+          "conversation": 974,
+          "response": 9,
+          "kind": "vector_chart",
+          "path": "assets/y6bZau27E7b87_UPjYvU6QY-3.svg"
+        },
+        {
+          "conversation": 980,
+          "response": 2,
+          "kind": "vector_chart",
+          "path": "assets/07rZavfWDLjj7_UPhouAwAw-1.svg"
+        },
+        {
+          "conversation": 980,
+          "response": 7,
+          "kind": "vector_chart",
+          "path": "assets/07rZavfWDLjj7_UPhouAwAw-2.svg"
+        },
+        {
+          "conversation": 980,
+          "response": 11,
+          "kind": "vector_chart",
+          "path": "assets/07rZavfWDLjj7_UPhouAwAw-3.svg"
+        },
+        {
+          "conversation": 980,
+          "response": 13,
+          "kind": "vector_chart",
+          "path": "assets/07rZavfWDLjj7_UPhouAwAw-4.svg"
+        },
+        {
+          "conversation": 980,
+          "response": 14,
+          "kind": "vector_chart",
+          "path": "assets/07rZavfWDLjj7_UPhouAwAw-5.svg"
+        },
+        {
+          "conversation": 980,
+          "response": 15,
+          "kind": "vector_chart",
+          "path": "assets/07rZavfWDLjj7_UPhouAwAw-6.svg"
+        },
+        {
+          "conversation": 980,
+          "response": 16,
+          "kind": "static_interactive_vector",
+          "path": "assets/07rZavfWDLjj7_UPhouAwAw-7.svg"
+        },
+        {
+          "conversation": 981,
+          "response": 6,
+          "kind": "vector_chart",
+          "path": "assets/6N3Zav3HMsmYi-gPvNiboQk-1.svg"
+        }
+      ],
+      "unmatchedOpen": [],
+      "unmatchedHistory": [],
+      "preservedPriorMedia": true,
+      "unsentDraftExcluded": true,
+      "excludedRegeneratedThread": {
+        "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+        "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+        "actualThread": "jLHUaq_LNons7_UPirfomA8"
+      }
     }
   },
   "latestUpdate": {
-    "at": "2026-10-22T04:46:58.260722+00:00",
+    "at": "2026-10-22T12:30:07.168341+00:00",
     "date": "2026-10-22",
-    "batchId": "2026-10-22",
-    "openAiModeTabs": 106,
+    "batchId": "2026-10-22-more",
+    "openAiModeTabs": 109,
     "historyConversations": 300,
-    "method": "Compared 102 initially open AI Mode tabs and all 300 visible history entries, followed by a refreshed open-tab inventory and the latest history entries. Added 22 conversations with 104 prompts and 104 responses, including three conversations created during the scan. Every new transcript was read back. Four recent archived conversations have no added prompts or responses; the earlier original attachment is preserved where Google now omits its upload label. Preserved twelve original vector charts, one interactive doodle as static vectors and two canvas doodles as original rendered snapshots, plus embedded response images and one recovered original uploaded reference image. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
+    "method": "Compared 108 initially open AI Mode tabs and all 300 visible history entries, followed by a refreshed open-tab inventory and the latest history entries. Added nine conversations with 73 prompts and 73 responses. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Preserved ten original vector charts and one interactive doodle as static vectors, plus embedded response images. Two shared-tab references are retained. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
     "records": [
       {
-        "ordinal": 951,
-        "title": "Economische Waarde van Mensen",
+        "ordinal": 973,
+        "title": "Knop Topologische Geometrische Switch",
         "status": "added",
         "counts": {
           "prompts": 1,
@@ -15123,53 +15366,8 @@
         }
       },
       {
-        "ordinal": 952,
-        "title": "Blauw Bloed van Hagedissen",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 953,
-        "title": "Clarke and Dawe Kids skit",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 954,
-        "title": "Clarke and Dawe Sketch",
-        "status": "added",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        }
-      },
-      {
-        "ordinal": 955,
-        "title": "Varg Vikernes Euronymous Stabbing Claim",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 956,
-        "title": "OpenAI Logo Comparison",
-        "status": "added",
-        "counts": {
-          "prompts": 11,
-          "responses": 11
-        }
-      },
-      {
-        "ordinal": 957,
-        "title": "Mens als Autonome Robot",
+        "ordinal": 974,
+        "title": "Bernoulli Principle Application",
         "status": "added",
         "counts": {
           "prompts": 10,
@@ -15177,89 +15375,8 @@
         }
       },
       {
-        "ordinal": 958,
-        "title": "Dramatiseren Beren Sexuoloog Lyme",
-        "status": "added",
-        "counts": {
-          "prompts": 6,
-          "responses": 6
-        }
-      },
-      {
-        "ordinal": 959,
-        "title": "Flummig (Adjektiv)",
-        "status": "added",
-        "counts": {
-          "prompts": 17,
-          "responses": 17
-        }
-      },
-      {
-        "ordinal": 960,
-        "title": "Pareto Principle and Poison Pill",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 961,
-        "title": "Axiom And Expert System",
-        "status": "added",
-        "counts": {
-          "prompts": 21,
-          "responses": 21
-        }
-      },
-      {
-        "ordinal": 962,
-        "title": "Spheres and Cubed Dimensions",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 963,
-        "title": "Square-Cube Law for Spheres",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 964,
-        "title": "5050 Hindsight 2020",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 965,
-        "title": "Soa Preventie Middelen Ggd",
-        "status": "added",
-        "counts": {
-          "prompts": 6,
-          "responses": 6
-        }
-      },
-      {
-        "ordinal": 966,
-        "title": "Neptunuslaan 119 Lat Long",
-        "status": "added",
-        "counts": {
-          "prompts": 6,
-          "responses": 6
-        }
-      },
-      {
-        "ordinal": 967,
-        "title": "Kane Regenesis Concept",
+        "ordinal": 975,
+        "title": "3D Printed Choke",
         "status": "added",
         "counts": {
           "prompts": 2,
@@ -15267,154 +15384,164 @@
         }
       },
       {
-        "ordinal": 968,
-        "title": "Quadratic Scaling of Time",
+        "ordinal": 976,
+        "title": "DJI Tello and Mavic Air",
         "status": "added",
         "counts": {
-          "prompts": 4,
-          "responses": 4
+          "prompts": 10,
+          "responses": 10
         }
       },
       {
-        "ordinal": 969,
-        "title": "Microsoft Database Information",
+        "ordinal": 977,
+        "title": "Brain-Computer Interface Project Name",
         "status": "added",
         "counts": {
-          "prompts": 1,
-          "responses": 1
+          "prompts": 7,
+          "responses": 7
         }
       },
       {
-        "ordinal": 970,
-        "title": "Grift and Graft Botany",
+        "ordinal": 978,
+        "title": "Literature and Surreal References",
         "status": "added",
         "counts": {
-          "prompts": 1,
-          "responses": 1
+          "prompts": 2,
+          "responses": 2
         }
       },
       {
-        "ordinal": 971,
-        "title": "Sweden Immigrant Tipping Point",
+        "ordinal": 979,
+        "title": "Countess Elizabeth Báthory",
         "status": "added",
         "counts": {
-          "prompts": 1,
-          "responses": 1
+          "prompts": 6,
+          "responses": 6
         }
       },
       {
-        "ordinal": 972,
-        "title": "0 Sum Game Theory Foresight",
+        "ordinal": 980,
+        "title": "Tello vs Mavic Drone Projects",
         "status": "added",
         "counts": {
-          "prompts": 3,
-          "responses": 3
+          "prompts": 21,
+          "responses": 21
+        }
+      },
+      {
+        "ordinal": 981,
+        "title": "Reverse Psychology Beatrix Kiddo",
+        "status": "added",
+        "counts": {
+          "prompts": 14,
+          "responses": 14
         }
       }
     ],
     "newOrdinals": [
-      951,
-      952,
-      953,
-      954,
-      955,
-      956,
-      957,
-      958,
-      959,
-      960,
-      961,
-      962,
-      963,
-      964,
-      965,
-      966,
-      967,
-      968,
-      969,
-      970,
-      971,
-      972
+      973,
+      974,
+      975,
+      976,
+      977,
+      978,
+      979,
+      980,
+      981
     ]
   },
   "pdf": {
-    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22.pdf",
-    "pages": 6004,
-    "bytes": 294023909,
-    "sha256": "7d3a5b1c509fd0e6109cd06caf49d061376857eff330e8d119b45c6862a59ada",
-    "promptMarkersVerified": 5037,
-    "responseMarkersVerified": 5040,
-    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the twenty-two newly rendered chapters; rebuilt index, bookmarks and continuous footers.",
+    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more.pdf",
+    "pages": 6157,
+    "bytes": 300536116,
+    "sha256": "b30020621106a05184119479049a798646bf2155ba5a2d4ce4bdfc0025ba14b8",
+    "promptMarkersVerified": 5110,
+    "responseMarkersVerified": 5113,
+    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the nine newly rendered chapters; rebuilt index, bookmarks and continuous footers.",
     "volumes": [
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-volume-01.pdf",
-        "bytes": 104696814,
-        "sha256": "1804aaf1f972a7827b47b0ced39e719d98cef4de5a4275bf72374b919701d6ce",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-01.pdf",
+        "bytes": 103550263,
+        "sha256": "ad90891e8917d5ec222dd9b8d6b73770d1ef317869263266738781d159169520",
         "firstPage": 1,
-        "lastPage": 650
+        "lastPage": 562
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-volume-02.pdf",
-        "bytes": 38741043,
-        "sha256": "9f0a2991f65d701227891a80689cd9f0ec225ff1caf92ba4d282d0857c2c349b",
-        "firstPage": 651,
-        "lastPage": 1306
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-02.pdf",
+        "bytes": 34737697,
+        "sha256": "cb58a233d1c7cb31d084670d51edc34f265bd9825c6c6a826b08b94ce284fd08",
+        "firstPage": 563,
+        "lastPage": 1113
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-volume-03.pdf",
-        "bytes": 47711642,
-        "sha256": "2374a3331a8eda292c022e533c0479e5857fbec9804e86a27d8b41e870038392",
-        "firstPage": 1307,
-        "lastPage": 1958
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-03.pdf",
+        "bytes": 38853549,
+        "sha256": "775f70915984c481f33071e545cc6314fc5d5c9b3dcb665128ef0cef74e67c9f",
+        "firstPage": 1114,
+        "lastPage": 1664
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-volume-04.pdf",
-        "bytes": 52446328,
-        "sha256": "e04f3d556b5b8dd70379692a4f720bc17ab26adf789424ef6e7bb4d8c93494a7",
-        "firstPage": 1959,
-        "lastPage": 2610
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-04.pdf",
+        "bytes": 51737503,
+        "sha256": "ae50a6bf9b630fc8f1859292990f6b2f50d6ea99c7c904dcc8a63e5f019c7aa3",
+        "firstPage": 1665,
+        "lastPage": 2222
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-volume-05.pdf",
-        "bytes": 49730800,
-        "sha256": "70e2c62c208f335251e520ca1b05e4f35306556df12cd4a584f70dfef86afa96",
-        "firstPage": 2611,
-        "lastPage": 3297
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-05.pdf",
+        "bytes": 44919656,
+        "sha256": "c0fde1bd9bfc1295b787eeee740a4ad05ba6c762e9ab9492ab5347c2fbb8afe4",
+        "firstPage": 2223,
+        "lastPage": 2773
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-volume-06.pdf",
-        "bytes": 30358805,
-        "sha256": "469b8ef9925a12d959012d9c970467fcb03a367adc6d78057d21503822dd182a",
-        "firstPage": 3298,
-        "lastPage": 3975
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-06.pdf",
+        "bytes": 39590682,
+        "sha256": "efcef70f424dbd88070add05774d418033e43d14e1d1cdbfcf840a2bd846c617",
+        "firstPage": 2774,
+        "lastPage": 3348
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-volume-07.pdf",
-        "bytes": 33724704,
-        "sha256": "cdc8c2f43fe182532a503e688480566e9178b1a4f723cdaf43ea21d9cd4cbfba",
-        "firstPage": 3976,
-        "lastPage": 4635
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-07.pdf",
+        "bytes": 25992817,
+        "sha256": "f1e1f8945b815225312d3a2cd28df8090c34f4e633f265699e042dc854224adc",
+        "firstPage": 3349,
+        "lastPage": 3901
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-volume-08.pdf",
-        "bytes": 37047929,
-        "sha256": "52cf336f1724fb03e8e9bce1b4606c878a194708340d7093a2a411d73ec68a6c",
-        "firstPage": 4636,
-        "lastPage": 5287
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-08.pdf",
+        "bytes": 28195468,
+        "sha256": "9abf1df0c795f8cbbadd1fda9c3987430b535568aa4d3ac6700f56827a8d5944",
+        "firstPage": 3902,
+        "lastPage": 4454
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-volume-09.pdf",
-        "bytes": 30010179,
-        "sha256": "0bcb151fe43374d108cdbc22f89ad2bf5d8180e08c63a0800c85956cb0065bd2",
-        "firstPage": 5288,
-        "lastPage": 5965
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-09.pdf",
+        "bytes": 31670409,
+        "sha256": "72e68ef8b0da31d5a2c142ff15137d08211bc937cff8a939e88e9f28529742e0",
+        "firstPage": 4455,
+        "lastPage": 5005
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-volume-10.pdf",
-        "bytes": 1793606,
-        "sha256": "b1735ca50c661a0a490a2cb4f357699a42cd6c929bc5b03417fceb7a4336d63e",
-        "firstPage": 5966,
-        "lastPage": 6004
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-10.pdf",
+        "bytes": 29845434,
+        "sha256": "efb2d7f3c044c2cf511af7a679783b5dffc52201659ff6cfaca2ec1ded6ebf7b",
+        "firstPage": 5006,
+        "lastPage": 5557
+      },
+      {
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-11.pdf",
+        "bytes": 20135027,
+        "sha256": "1ace6b5fb7c66c81d1b8b1d4794a6f7c0e9204c30c862ac476a47e6b31566d7f",
+        "firstPage": 5558,
+        "lastPage": 6132
+      },
+      {
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-22-more-volume-12.pdf",
+        "bytes": 504678,
+        "sha256": "5ed7e331432cc6d164dec77782fd266d61d655968dee96ceeac23bfc5c6ee40a",
+        "firstPage": 6133,
+        "lastPage": 6157
       }
     ]
   }

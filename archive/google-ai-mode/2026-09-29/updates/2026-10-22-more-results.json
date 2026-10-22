@@ -1,0 +1,102 @@
+{
+  "at": "2026-10-22T12:30:07.168341+00:00",
+  "date": "2026-10-22",
+  "batchId": "2026-10-22-more",
+  "openAiModeTabs": 109,
+  "historyConversations": 300,
+  "method": "Compared 108 initially open AI Mode tabs and all 300 visible history entries, followed by a refreshed open-tab inventory and the latest history entries. Added nine conversations with 73 prompts and 73 responses. Every new transcript was read back. Four recent archived conversations have no added prompts or responses. Preserved ten original vector charts and one interactive doodle as static vectors, plus embedded response images. Two shared-tab references are retained. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The previously identified accidentally regenerated Banana Cavendish thread remains excluded.",
+  "records": [
+    {
+      "ordinal": 973,
+      "title": "Knop Topologische Geometrische Switch",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 974,
+      "title": "Bernoulli Principle Application",
+      "status": "added",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 975,
+      "title": "3D Printed Choke",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 976,
+      "title": "DJI Tello and Mavic Air",
+      "status": "added",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 977,
+      "title": "Brain-Computer Interface Project Name",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 978,
+      "title": "Literature and Surreal References",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 979,
+      "title": "Countess Elizabeth Báthory",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 980,
+      "title": "Tello vs Mavic Drone Projects",
+      "status": "added",
+      "counts": {
+        "prompts": 21,
+        "responses": 21
+      }
+    },
+    {
+      "ordinal": 981,
+      "title": "Reverse Psychology Beatrix Kiddo",
+      "status": "added",
+      "counts": {
+        "prompts": 14,
+        "responses": 14
+      }
+    }
+  ],
+  "newOrdinals": [
+    973,
+    974,
+    975,
+    976,
+    977,
+    978,
+    979,
+    980,
+    981
+  ]
+}
