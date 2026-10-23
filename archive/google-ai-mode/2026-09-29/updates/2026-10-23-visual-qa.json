@@ -1,0 +1,221 @@
+{
+  "reviewedAt": "2026-10-23T09:04:40.253608+00:00",
+  "newPagesRendered": 267,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 14,
+  "headingMinimumPt": 20,
+  "highResolutionReview": [
+    "front-cover.png",
+    "page-6235.png",
+    "page-6256.png",
+    "page-6271.png",
+    "page-6281.png",
+    "page-6379.png",
+    "page-6403.png",
+    "final-last-page.png"
+  ],
+  "sourceGaps": [
+    {
+      "conversation": 1006,
+      "prompt": 1,
+      "kind": "missing_image_in_copied_branch",
+      "note": "This copied conversation retains an image-upload label, but its image is absent from the current page. The matching original branch and image are preserved in conversation 1005."
+    },
+    {
+      "conversation": 1006,
+      "prompt": 2,
+      "kind": "unavailable_shared_input",
+      "note": "Google displays File unavailable for this shared input. The visible prompt and response are preserved; the unavailable file has not been reconstructed."
+    }
+  ],
+  "originalErrorResponsesPreserved": [],
+  "chapters": [
+    {
+      "conversation": 982,
+      "pages": 15,
+      "sha256": "a1279264ae7698396ecea3bb4860d2b06691b09b6030f0bbda8cd63399143a53",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 983,
+      "pages": 13,
+      "sha256": "94e4be9694b5b0e6fef8deee1b3ac8276471b590e375537c7907701dbde80dc4",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 984,
+      "pages": 7,
+      "sha256": "d20a0ef853444ed50bd75a3242fbcba320e25c9f9b9f061322a62040be3d1706",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 985,
+      "pages": 10,
+      "sha256": "fcd928a2628aa4f5a56198cb482c4acff224e317051b11c82736408486950813",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 986,
+      "pages": 13,
+      "sha256": "7cf238cd15e9073cd2b3ac4d94dbdd6d6603ae9b47274834d29f8953baace652",
+      "maxHeadingPt": 20.026937117544254
+    },
+    {
+      "conversation": 987,
+      "pages": 24,
+      "sha256": "191ed2be578fbc6dce07ac32d1eb9653388517b39843fbb31d88e00397eecfbb",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 988,
+      "pages": 5,
+      "sha256": "3095c553c46cd89dd87b5268aed2b8844f83f120f36741d093f0cf5517ba944a",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 989,
+      "pages": 3,
+      "sha256": "863175ead02ef35836c1ae380ed1b102767a1f948428348fed428d98a8cb35c2",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 990,
+      "pages": 8,
+      "sha256": "4bf60ff6d335234e81cd07fd491068286c721d7ac40841cc51a22fbf8418a2f6",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 991,
+      "pages": 2,
+      "sha256": "df7d7835d6ed23d81793cdd5fb86134a0d51a87c7ca9be707a47162c0fb73b80",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 992,
+      "pages": 2,
+      "sha256": "613ef7484bd58000f1e449f0193a28a6e52a19a497d84b7b4f828f734b84274d",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 993,
+      "pages": 11,
+      "sha256": "ef1b478ba95e146ad04543c16226557a0807e49f7788689c887fe86573f3b723",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 994,
+      "pages": 52,
+      "sha256": "3a14b3493182c3babbef72a0f1f9dc0f76f5ee3cdc76b7514f1850e33664dcb4",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 995,
+      "pages": 9,
+      "sha256": "b6dae9c3340b2db114bcdb8446394ca04e5ef3c5323eea049a2c404fcec3ff49",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 996,
+      "pages": 2,
+      "sha256": "019ae4addf0a026d37d88e8a775ae5c58d0071d2ab7b761761719177fd8fa3ee",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 997,
+      "pages": 1,
+      "sha256": "932e742cb1c309eea8db699499f9568704934c2c1eca2cb22ba986e3597f5a9a",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 998,
+      "pages": 2,
+      "sha256": "13d9c2ab4a587880c37e126b5450cee6b91b67fccada710e63a84bfa90d613a5",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 999,
+      "pages": 7,
+      "sha256": "04749f182d6bd06d545eac87a560cad1d95eca43ff51655a1445c3b155f04241",
+      "maxHeadingPt": 20.689826785923845
+    },
+    {
+      "conversation": 1000,
+      "pages": 2,
+      "sha256": "856b8900159d86c4eb3c689a81f85a6e9c473a173484b4896ac822592cbf775b",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1001,
+      "pages": 2,
+      "sha256": "b69f2688ccdaf26be1cd6ebe85804ed0786e7b39ffc92dbcc8b0f06070334d15",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1002,
+      "pages": 11,
+      "sha256": "f8990d04e068c111be5d6cf0157575c9b936326f76b818e93e3e41f0f97cea58",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1003,
+      "pages": 6,
+      "sha256": "50ebaf956cecca894b53df91666ef31e003a1e38f5e397db5ab0dae629a4cd15",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1004,
+      "pages": 13,
+      "sha256": "29474a18186dc0671ee95f3439f8ce20cfb4cda40f08a99a3b884278f467c494",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1005,
+      "pages": 13,
+      "sha256": "1694a9ba8738c3ec019fa6310a533511f9d4d6dfc51dda9f0b6d64d6e963b61a",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1006,
+      "pages": 15,
+      "sha256": "9eec4c09d32c78f16e0e7ee354c8cc3b3c069bbb2115f6a8f0747785414b458c",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1007,
+      "pages": 5,
+      "sha256": "5b4b89313a3e43bcafb6e214c50ee01c70740cd7240c2dc68266045cb29e9ff9",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1008,
+      "pages": 2,
+      "sha256": "a5eda651dc6c17d922ef2ea4256417078dc8442e4900eb17d5528d893d4ad877",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1009,
+      "pages": 4,
+      "sha256": "3fec2b67addaf76a495d372e8fedf243c0456c94aa3a2a58b2ad9bad2ce4288d",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1010,
+      "pages": 4,
+      "sha256": "ff26027a28e16eab2140537024088ef2db6d9fdc4e748d12409dbeef3a9c12c3",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1011,
+      "pages": 2,
+      "sha256": "f01888c0200f80e27572db3e3f9e5011e8e21f26315939e488d49e69d37af317",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1012,
+      "pages": 2,
+      "sha256": "8fe201e4c2c51e8949fde0d4eebd762f841382dcff71f46ce456f37f5935f9f8",
+      "maxHeadingPt": 20.999999125
+    }
+  ],
+  "result": "passed"
+}

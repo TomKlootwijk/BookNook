@@ -1,6 +1,7 @@
 from pathlib import Path
 from pypdf import PdfReader, PdfWriter
-import hashlib, json, re, zipfile
+from pypdf.generic import NameObject, DictionaryObject, ArrayObject, TextStringObject, NumberObject, BooleanObject
+import bisect, hashlib, json, re, zipfile
 
 root=Path(__file__).resolve().parent
 workspace=root.parents[2]
@@ -40,6 +41,25 @@ if pdf.stat().st_size > 95*1024*1024:
         start=starts[c['ordinal']]
         if start-boundaries[-1]>=800: boundaries.append(start)
     boundaries.append(len(reader.pages))
+    # Keep cross-volume index links without importing every linked chapter
+    # into the first volume. The combined PDF retains internal destinations.
+    page_ids={page.indirect_reference.idnum:n for n,page in enumerate(reader.pages)}
+    volume_index_links=0
+    for page in reader.pages[:starts[1]]:
+        for ref in page.get('/Annots',[]):
+            annotation=ref.get_object()
+            if not annotation.get('/Dest'):continue
+            target=page_ids[annotation['/Dest'][0].idnum]
+            destination_volume=bisect.bisect_right(boundaries,target)-1
+            annotation.pop('/Dest')
+            annotation[NameObject('/A')]=DictionaryObject({
+                NameObject('/S'):NameObject('/GoToR'),
+                NameObject('/F'):TextStringObject(filename+f'-volume-{destination_volume+1:02d}.pdf'),
+                NameObject('/D'):ArrayObject([NumberObject(target-boundaries[destination_volume]),NameObject('/Fit')]),
+                NameObject('/NewWindow'):BooleanObject(False),
+            })
+            volume_index_links+=1
+    manifest['pdf']['volumeIndexRemoteLinks']=volume_index_links
     for i,(start,end) in enumerate(zip(boundaries,boundaries[1:]),1):
         volume=PdfWriter()
         for page in reader.pages[start:end]:volume.add_page(page)

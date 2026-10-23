@@ -1,0 +1,322 @@
+{
+  "at": "2026-10-23T08:57:44.337556+00:00",
+  "date": "2026-10-23",
+  "batchId": "2026-10-23",
+  "openAiModeTabs": 95,
+  "historyConversations": 300,
+  "method": "Compared 91 initially open AI Mode tabs and all 300 visible history entries, followed by refreshed tabs and the latest history entries. Added 31 conversations with 156 prompts and 156 responses. All new transcripts were read back; four recent archived conversations have no additional exchanges. Preserved six vector charts, two original canvas snapshots, one original generated image and one uploaded image. The duplicate open pizza tab was reconciled with its history conversation. Two unavailable inputs in the copied pizza branch are explicitly recorded. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The accidentally regenerated Banana Cavendish thread remains excluded.",
+  "records": [
+    {
+      "ordinal": 982,
+      "title": "Bomen Transplanteren",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 983,
+      "title": "Mandela and Gandhi Comparison",
+      "status": "added",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 984,
+      "title": "Dubai Porta Potty vs Chocolate",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 985,
+      "title": "Callgirl Kwaliteiten En Wensen",
+      "status": "added",
+      "counts": {
+        "prompts": 17,
+        "responses": 17
+      }
+    },
+    {
+      "ordinal": 986,
+      "title": "Hardest Unsolved Science Problems",
+      "status": "added",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 987,
+      "title": "Biomechanical and Biochemical Preparations",
+      "status": "added",
+      "counts": {
+        "prompts": 15,
+        "responses": 15
+      }
+    },
+    {
+      "ordinal": 988,
+      "title": "The Accountant Movie",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 989,
+      "title": "Leading Someone On",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 990,
+      "title": "Fresnel Shader Shockwave Transparent",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 991,
+      "title": "Voetbalfluitje",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 992,
+      "title": "SIM Swap to eSIM Migration",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 993,
+      "title": "Carbon Copy Letter Tracing",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 994,
+      "title": "Voetbal Biomechanisch Biochemische Klokken",
+      "status": "added",
+      "counts": {
+        "prompts": 26,
+        "responses": 26
+      }
+    },
+    {
+      "ordinal": 995,
+      "title": "Kikvorsmannen Korps Mariniers",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 996,
+      "title": "Assad and Syrian Peshmerga",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 997,
+      "title": "Triple Fang Viper Switch",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 998,
+      "title": "Abraham Offer van Zijn Zoon",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 999,
+      "title": "Rammstein Schiphol Tower",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 1000,
+      "title": "Spectre AI Logic and Themes",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 1001,
+      "title": "Duskwood Non-interactive || UU ZZP",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 1002,
+      "title": "Miltank in Pokémon Gold",
+      "status": "added",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 1003,
+      "title": "Stalactieten En Stalagmieten Grotten",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 1004,
+      "title": "Kinderfeestje Pizza En Elite",
+      "status": "added",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 1005,
+      "title": "Dr. Oetker Vegan Pizza",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 1006,
+      "title": "5 jaar dan, maar ff serieus het was B",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 1007,
+      "title": "Martijn Belangenvereniging Estimaten",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 1008,
+      "title": "Kinderliedje Koe En Hek",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 1009,
+      "title": "BioStabil Marketing Campagne",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 1010,
+      "title": "Verkeerde Agenda Dubbel Boeken",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 1011,
+      "title": "Instant Maizena In Soep",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 1012,
+      "title": "Een Mus in Het Park",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    }
+  ],
+  "newOrdinals": [
+    982,
+    983,
+    984,
+    985,
+    986,
+    987,
+    988,
+    989,
+    990,
+    991,
+    992,
+    993,
+    994,
+    995,
+    996,
+    997,
+    998,
+    999,
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012
+  ]
+}

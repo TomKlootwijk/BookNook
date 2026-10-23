@@ -1,0 +1,160 @@
+{
+  "openTabsInitial": 91,
+  "openTabs": 95,
+  "historyEntries": 300,
+  "historyRefreshEntries": 10,
+  "newConversations": 31,
+  "newPrompts": 156,
+  "newResponses": 156,
+  "updatedConversations": [],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 981,
+      "threadId": "6N3Zav3HMsmYi-gPvNiboQk",
+      "prior": {
+        "prompts": 14,
+        "responses": 14
+      },
+      "counts": {
+        "prompts": 14,
+        "responses": 14
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 980,
+      "threadId": "07rZavfWDLjj7_UPhouAwAw",
+      "prior": {
+        "prompts": 21,
+        "responses": 21
+      },
+      "counts": {
+        "prompts": 21,
+        "responses": 21
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 979,
+      "threadId": "gcrZasalAaGE9u8PzdWAqAM",
+      "prior": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 978,
+      "threadId": "esbZaov-CPf_7_UPsOmXoQU",
+      "prior": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "samePrompts": true
+    }
+  ],
+  "attachments": [
+    {
+      "conversation": 1005,
+      "path": "attachments/2026-10-23-pizza-original.jpg",
+      "kind": "original_uploaded_image",
+      "sha256": "e9b9e45411cea3869b3b051cb3cbc77bbde283e959d67f8245ba024d767e2eb2"
+    }
+  ],
+  "sourceErrorResponses": [],
+  "sourceGaps": [
+    {
+      "conversation": 1006,
+      "prompt": 1,
+      "kind": "missing_image_in_copied_branch",
+      "note": "This copied conversation retains an image-upload label, but its image is absent from the current page. The matching original branch and image are preserved in conversation 1005."
+    },
+    {
+      "conversation": 1006,
+      "prompt": 2,
+      "kind": "unavailable_shared_input",
+      "note": "Google displays File unavailable for this shared input. The visible prompt and response are preserved; the unavailable file has not been reconstructed."
+    }
+  ],
+  "media": [
+    {
+      "conversation": 988,
+      "response": 4,
+      "kind": "vector_chart",
+      "path": "assets/um_aasLwG9qdi-gP9ezwmQs-1.svg"
+    },
+    {
+      "conversation": 990,
+      "response": 2,
+      "kind": "canvas_snapshot",
+      "path": "assets/D5TaaqzMKuvWi-gP9qPO0AU-1.png"
+    },
+    {
+      "conversation": 993,
+      "response": 3,
+      "kind": "vector_chart",
+      "path": "assets/w-Daaqe8OLrni-gPgLLQgQI-1.svg"
+    },
+    {
+      "conversation": 993,
+      "response": 5,
+      "kind": "vector_chart",
+      "path": "assets/w-Daaqe8OLrni-gPgLLQgQI-2.svg"
+    },
+    {
+      "conversation": 993,
+      "response": 7,
+      "kind": "canvas_snapshot",
+      "path": "assets/w-Daaqe8OLrni-gPgLLQgQI-3.png"
+    },
+    {
+      "conversation": 994,
+      "response": 5,
+      "kind": "vector_chart",
+      "path": "assets/7djaavXdIu7h7_UP6t7hmQ8-1.svg"
+    },
+    {
+      "conversation": 994,
+      "response": 7,
+      "kind": "vector_chart",
+      "path": "assets/7djaavXdIu7h7_UP6t7hmQ8-2.svg"
+    },
+    {
+      "conversation": 994,
+      "response": 13,
+      "kind": "vector_chart",
+      "path": "assets/7djaavXdIu7h7_UP6t7hmQ8-3.svg"
+    },
+    {
+      "conversation": 999,
+      "kind": "original_generated_image",
+      "path": "assets/2026-10-23-rammstein-original.jpg"
+    }
+  ],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true,
+  "aliases": [
+    {
+      "threadId": "JxrbaqKZIJDl7_UP1t2JIQ",
+      "canonicalThreadId": "MRrbatzEB9qB9u8Pzam8sQg",
+      "ordinal": 1006,
+      "reason": "Open tab has exactly the same prompts and response text as the history conversation.",
+      "url": "https://www.google.com/search?q=%2B&csuir=1&aep=34&kgs=8c0413ce3c650e5c&shem=agpl%2Caiolsbe%2Casdpe%2Casple%2Cepsd1%2Cesd2e%2Crimspwouoe%2Csdpie&shndl=37&shmd=H4sIAAAAAAAA_-P6wchl6RcaEuSpEOzsH-SqEObopxDgGRXlqBDuGKzg6hoUHKLgpODvpuCso2CmZ6qQlZhYpJCempOakppnL2WTUVJSUGylr19eXq6XXlySWJKZrJecn6tfnJpYlJyhW1CUn5uvn5iZG1-ckViUGl-SUZqblJeYmaNXkJeuJATTnZ6fn56TqpeYqa_FUNHA38C4g-MUYzwuszNzE9NTi_WTihLzUjLz0qG60-PTixJTMlPzSvQNKzDE4oH681ISi1LiDc0MUgpA1gMA5W-jGvsAAAA&shmds=v1_ARwrE20HZ-hwx6lVe0mJ69pArjnRACZgyWH9GqD-Ow6ZwRKJqA&source=sh%2Fx%2Faim%2Fm1%2F1&mtid=MRrbatzEB9qB9u8Pzam8sQg&elids=CKCIqtrcuP--NhADGAEiEFEdWH74z1c38jMaZr4TVbYyggEiAnJhKClCdAoubGZlLWR1bW15OmIwZDlmZTIzLWZhNzQtNGVlMS04YzEwLTBiY2NjMGYwZDY2YRJCCkAvYm5zL3JhL2JvcmcvcmEvYm5zL2xlbnMtZnJvbnRlbmQtYXBpL3Byb2QubGVucy1mcm9udGVuZC1hcGkvMTY2WgQKAnJhOJeaqb3bz5cDSABQAGClg7qYgoa12ih4AIABAQ%2CCO2qxaG9saLR6wEQARgBIhAi1bJnHUTXgffoEg0hfz6BMoIBIgJyYSgpQnQKLmxmZS1kdW1teTpiMGQ5ZmUyMy1mYTc0LTRlZTEtOGMxMC0wYmNjYzBmMGQ2NmESQgpAL2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzE2NloECgJyYTjM48_Q28-XA0gBUARg2ZKR5b6XiL-SAXgBgAEB&mstk=AUtExfDEHkrig9J0Cck2VmgB7jpoG7ur3Q1XoYi3uLJPlTWRXCJq7olIQB2EAPR4s9qpuGSxJUrm4wKEn7K2cV19PPnLwk4rgEwkh781MlecEhLJKSU9RG38YjmkB46auZm5_bL-vlTyMuWJhG19e0tjS-q-zFKBKuB7jpsrrC3RfDI3vnZp_kVcaSlzGmdrmK4-CTNfTgcElD0Ij9EV8NJT2XssNmgXs-lC0lHlm6a69ce-GVj8UhNieT2MawPNm-OVrmkTH29V3FG7sGGMjCUixYOitn9anF_imupSPsBMmbD7Apu1_PpxrgBLl5zh6xIlP5A-xBy6cdTGPg&udm=50"
+    }
+  ],
+  "excludedRegeneratedThread": {
+    "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+    "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+    "actualThread": "jLHUaq_LNons7_UPirfomA8"
+  }
+}
