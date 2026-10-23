@@ -1,0 +1,52 @@
+{
+  "reviewedAt": "2026-10-23T11:44:49.065371+00:00",
+  "newPagesRendered": 37,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 2,
+  "headingMinimumPt": 20,
+  "highResolutionReview": [
+    "front-01.png",
+    "page-6430.png",
+    "page-6455.png",
+    "page-6462.png",
+    "page-6465.png",
+    "final-6430.png",
+    "final-6466.png"
+  ],
+  "sourceGaps": [
+    {
+      "conversation": 1016,
+      "response": 4,
+      "kind": "google_partial_document_context",
+      "note": "Google states that only part of the uploaded document was used for this response; the full visible response and available original PDFs are preserved."
+    }
+  ],
+  "originalErrorResponsesPreserved": [
+    {
+      "conversation": 1015,
+      "response": 16,
+      "text": "Something went wrong and an AI response wasn't generated."
+    }
+  ],
+  "chapters": [
+    {
+      "conversation": 1014,
+      "pages": 2,
+      "sha256": "9c75d523cdda47929fc140bede1cf21764d68f58437b73f26b6636da1734b97e",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1015,
+      "pages": 30,
+      "sha256": "83c437393f26c17c862d68255a174780191ff1475fc85ee4ee1171025cf83743",
+      "maxHeadingPt": 20.999505877020553
+    },
+    {
+      "conversation": 1016,
+      "pages": 5,
+      "sha256": "3142f9233d9406cf572d12c2f92c4086230b9f7cb2ecf6ee3069a91fa885243c",
+      "maxHeadingPt": 20.999999125
+    }
+  ],
+  "result": "passed"
+}

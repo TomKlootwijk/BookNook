@@ -1,0 +1,41 @@
+[
+  {
+    "threadId": "dDzbatOoCKW79u8PxI2n2Qg",
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "previousCounts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "BjXbaqLLCpG69u8Pk9Wz2Ag",
+    "counts": {
+      "prompts": 18,
+      "responses": 18
+    },
+    "previousCounts": {
+      "prompts": 18,
+      "responses": 18
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "WTbbaoHbOrqii-gP-O2pGQ",
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "previousCounts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "openTabsInitial": 95,
+  "openTabs": 97,
+  "historyEntries": 300,
+  "historyRefreshEntries": 10,
+  "newConversations": 3,
+  "newPrompts": 24,
+  "newResponses": 24,
+  "updatedConversations": [],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 1013,
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "prior": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 1012,
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "prior": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 1011,
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "prior": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 1010,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "prior": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "samePrompts": true
+    }
+  ],
+  "attachments": [
+    {
+      "conversation": 1016,
+      "prompt": 2,
+      "path": "attachments/duiven diabetes pootjes amsterdam in totaal.pdf",
+      "kind": "original_uploaded_pdf",
+      "reused": false,
+      "sourcePath": "C:\\TOMWERKPLEKTORENTJE\\KUNSTVOORGELDHOEREN\\duiven diabetes pootjes amsterdam in totaal.pdf",
+      "sha256": "38d005d2c3fb872aaf6c8f5890b3e7ff0e4f57768e97701fd8c9dd0a791fd747"
+    },
+    {
+      "conversation": 1016,
+      "response": 2,
+      "path": "attachments/2026-10-23-latest-xd_tau_clean_matrix.md",
+      "kind": "original_generated_markdown",
+      "reused": false,
+      "sha256": "28e96956c89096e676ce19464c0fe3746298a395fc026cdfe6e4484fa678833f",
+      "sourceUrl": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6NGZmZDViZDQwNzY0ZWYzYzowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlN2ZjOGY2ODA3ZhACGAEiDXRleHQvbWFya2Rvd24qFnhkX3RhdV9jbGVhbl9tYXRyaXgubWQ="
+    },
+    {
+      "conversation": 1016,
+      "prompt": 4,
+      "path": "attachments/Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf",
+      "kind": "previously_archived_pdf_matching_upload_filename",
+      "reused": true,
+      "sha256": "8dfae654435c035beefc3f9770cf6f51b55c0cef968071900142e4cf9b1cf0fd"
+    }
+  ],
+  "sourceErrorResponses": [
+    {
+      "conversation": 1015,
+      "response": 16,
+      "text": "Something went wrong and an AI response wasn't generated."
+    }
+  ],
+  "sourceGaps": [
+    {
+      "conversation": 1016,
+      "response": 4,
+      "kind": "google_partial_document_context",
+      "note": "Google states that only part of the uploaded document was used for this response; the full visible response and available original PDFs are preserved."
+    }
+  ],
+  "media": [],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true,
+  "aliases": [],
+  "excludedRegeneratedThread": {
+    "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+    "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+    "actualThread": "jLHUaq_LNons7_UPirfomA8"
+  }
+}
