@@ -1,9 +1,9 @@
 {
-  "exportDate": "2026-10-23-evening",
-  "scopeCount": 1028,
-  "capturedCount": 1028,
-  "prompts": 5335,
-  "responses": 5338,
+  "exportDate": "2026-10-23-one",
+  "scopeCount": 1029,
+  "capturedCount": 1029,
+  "prompts": 5337,
+  "responses": 5340,
   "mathRendered": 17601,
   "embeddedImages": 12263,
   "conversations": [
@@ -11314,6 +11314,17 @@
       "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExNzcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQntXrI8Ofez3aT_Uiu8eVb0lliVSKg%3A1792783837624&cs=1&udm=50&atvm=2&ved=0CAcQ2_wOahgKEwiY7MOC9dCXAxUAAAAAHQAAAAAQqAE&mstk=AUtExfAuxZ0qAZ49b76xcI8y_XH2v88J-u-pkqVznMowRCgr6d4jq2gOJAtBWsFfDwHL5UUr-I9rzZqpFwBuhmU0CsT6eR0xDWcM2LnMiPeoGvN416TdqKnG_cgCkCedP4SRFC57tIRhWEUYFJ0zXN-HbrYgCTSF-ZcloHUjOqe1DV8fV-NIbgQE4hWsvCcHf-5yPxfR04gtbWmkE8kJu0b-wt00kKZCtmIL3yeVq-tay4--OBWOenSio1Emyr4Zv7r7N3oFYlOuA3uMdzs2bN-FFbayzAhOLkOy49ETX2zVXoYy4iQN-Ol-tgd2eZDL9YOxtBiMEypYAiAyow&mtid=iGLbatqgIrSL9u8P25ni0Ac&csuir=1&aep=26&q=een+verblijf+is+voor+dieren+en+een+woning+voor+een+mens%2C+exacte+definitie+ontologisch+zelfs",
       "recoveredFromSavedUrl": false,
       "pdfPage": 6507
+    },
+    {
+      "ordinal": 1029,
+      "title": "Microseconden Van 6,5 Jaar",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/1029-microseconden-van-6-5-jaar.html",
+      "markdown": "conversations/1029-microseconden-van-6-5-jaar.md",
+      "source": "https://www.google.com/search?q=microsecondes+6.5+jaar+in+uitgeschreven+tijd&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE2MDIxajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&aep=10&ntc=1&sxsrf=APpeQnvc83uG_1gXbMFKt2Ys2Fr7TFjhKg%3A1792789856324&mstk=AUtExfAutuGliOuGEFhICHqL6IkgcuzY_79A7SVnWiyWy8aBuLb95LJiCzb1yihwPCleqxlJ38ujRa25sDt2dWwSnC8bFXp_upzg-A14tVCa7K9nN7LAhqslqpHmICJO6Zl7DO9qSva6yZS5lVfwoBO_Ko7GM5w3VoJpXFTyXx1iku9OTBl7qSAkCM73gjqpbuUqQJeAX4YS0i8fSEIk3EOVjwxLGDTqecPrWydFaUtVRp-1OWYHTifsCuqLozQXTyNT5FRHJxVEtskE2xUcLljT9jv2_zmbUWUCwSHSmyZslHV6CwrcmrcvqIV66jzPIdXm73v26-piWA85yQ&aioh=3&csuir=1&cs=1&udm=50&mtid=YM3baqLQJJPY7_UP1Z7kuQI",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6511
     }
   ],
   "missing": [],
@@ -11329,7 +11340,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "Compared 107 initially open AI Mode tabs and all 300 visible AI Mode history entries, then refreshed open tabs. Added twelve conversations with 43 prompts and 43 responses. All twelve transcripts were read back; two only differ in rendered source badges. Preserved the two original SDF chart SVGs and their displayed labels. The twelve new threads occupy the newest history positions; older archive content, original attachments, source gaps and Captain of industry GTM remain preserved. A supplementary attempt to reload the most recent older document thread returned no body; its previously verified archive is retained. Unsent drafts and the accidentally regenerated Banana Cavendish thread remain excluded.",
+    "note": "The user requested exactly one additional conversation. Compared 108 open AI Mode tabs with the 1028-conversation baseline and identified one new thread, also verified as the newest visible history entry. Added Microseconden Van 6,5 Jaar as one conversation with two prompts and two responses. Expanded and preserved the original Python calculation, then read back both complete exchanges. No new embedded diagrams or attachments were present. Existing archive content, original attachments, source gaps and Captain of industry GTM remain preserved.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -16430,254 +16441,172 @@
         "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
         "actualThread": "jLHUaq_LNons7_UPirfomA8"
       }
+    },
+    "october23OneMedia": {
+      "requestedAdditionalConversations": 1,
+      "openTabs": 108,
+      "historyEntriesChecked": 10,
+      "newConversations": 1,
+      "newPrompts": 2,
+      "newResponses": 2,
+      "updatedConversations": [],
+      "readback": {
+        "threadId": "YM3baqLQJJPY7_UP1Z7kuQI",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "samePrompts": true,
+        "sameResponses": true,
+        "frames": 0,
+        "canvases": 0
+      },
+      "expandedCodeBlocks": 1,
+      "attachments": [],
+      "sourceErrorResponses": [],
+      "sourceGaps": [],
+      "media": [],
+      "unmatchedOpen": [],
+      "preservedPriorMedia": true,
+      "unsentDraftExcluded": true
     }
   },
   "latestUpdate": {
-    "at": "2026-10-23T21:11:53.024168+00:00",
+    "at": "2026-10-23T21:35:39.583736+00:00",
     "date": "2026-10-23",
-    "batchId": "2026-10-23-evening",
-    "openAiModeTabs": 107,
-    "historyConversations": 300,
-    "method": "Compared 107 initially open AI Mode tabs and all 300 visible AI Mode history entries, then refreshed open tabs. Added twelve conversations with 43 prompts and 43 responses. All twelve transcripts were read back; two only differ in rendered source badges. Preserved the two original SDF chart SVGs and their displayed labels. The twelve new threads occupy the newest history positions; older archive content, original attachments, source gaps and Captain of industry GTM remain preserved. A supplementary attempt to reload the most recent older document thread returned no body; its previously verified archive is retained. Unsent drafts and the accidentally regenerated Banana Cavendish thread remain excluded.",
+    "batchId": "2026-10-23-one",
+    "openAiModeTabs": 108,
+    "historyConversations": 10,
+    "method": "The user requested exactly one additional conversation. Compared 108 open AI Mode tabs with the 1028-conversation baseline and identified one new thread, also verified as the newest visible history entry. Added Microseconden Van 6,5 Jaar as one conversation with two prompts and two responses. Expanded and preserved the original Python calculation, then read back both complete exchanges. No new embedded diagrams or attachments were present. Existing archive content, original attachments, source gaps and Captain of industry GTM remain preserved.",
     "records": [
       {
-        "ordinal": 1017,
-        "title": "Wilde Dier Afrikaans Gewond",
-        "status": "added",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        }
-      },
-      {
-        "ordinal": 1018,
-        "title": "Boeren in Afrika Gewelddadige Aanvallen",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 1019,
-        "title": "Koring Van Die Kaf",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 1020,
-        "title": "Apartheid in Zuid-Afrika",
-        "status": "added",
-        "counts": {
-          "prompts": 11,
-          "responses": 11
-        }
-      },
-      {
-        "ordinal": 1021,
-        "title": "Afrikaans Ekke Meaning",
+        "ordinal": 1029,
+        "title": "Microseconden Van 6,5 Jaar",
         "status": "added",
         "counts": {
           "prompts": 2,
           "responses": 2
-        }
-      },
-      {
-        "ordinal": 1022,
-        "title": "Vivi Afrikaans Translation",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 1023,
-        "title": "Regen En Vrouw",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 1024,
-        "title": "Afrikaans Slaap Woorden",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 1025,
-        "title": "Afrikaans Lake Translation",
-        "status": "added",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        }
-      },
-      {
-        "ordinal": 1026,
-        "title": "Afrikaans Plank Betekenis",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 1027,
-        "title": "Afrikaans en Nederlands Uitspraak",
-        "status": "added",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        }
-      },
-      {
-        "ordinal": 1028,
-        "title": "Woning vs Verblijf Definitie",
-        "status": "added",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
         }
       }
     ],
     "newOrdinals": [
-      1017,
-      1018,
-      1019,
-      1020,
-      1021,
-      1022,
-      1023,
-      1024,
-      1025,
-      1026,
-      1027,
-      1028
+      1029
     ]
   },
   "pdf": {
-    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening.pdf",
-    "pages": 6510,
-    "bytes": 279036962,
-    "sha256": "5159f2bc1044cad196447421484eda75605b504fe779708d558cc94f98e711ff",
-    "promptMarkersVerified": 5335,
-    "responseMarkersVerified": 5338,
+    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one.pdf",
+    "pages": 6512,
+    "bytes": 279125625,
+    "sha256": "cff842bbcb679bfebdbea2a57cd2fd7896bdf3b91806c0e6a858e8969ae9564f",
+    "promptMarkersVerified": 5337,
+    "responseMarkersVerified": 5340,
     "validationMethod": "Native PDF assembly preserves all prior body content streams byte-for-byte. New chapter markers and rendered pages are checked. Footer overlays are added only when page positions change.",
-    "volumeIndexRemoteLinks": 1086,
+    "volumeIndexRemoteLinks": 1087,
     "volumes": [
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-01.pdf",
-        "bytes": 21746686,
-        "sha256": "95bc6e2f686196e8be367fb96595e802ae456ddfdbedd437f7613642d3e7f72b",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-01.pdf",
+        "bytes": 21747180,
+        "sha256": "14894e5173ca1e53a4c5b5b0e1fae5c1702f5507e79e48018cfcc53fb5d4d061",
         "firstPage": 1,
         "lastPage": 453
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-02.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-02.pdf",
         "bytes": 21838080,
-        "sha256": "6515e6f0faab09d9759247e5d95ecf32bf7f61af7251462a5373cc5aea6cef74",
+        "sha256": "702b9064bc66c8e661150d061facc7a92b4581066cf7288a04ba6a19447dec57",
         "firstPage": 454,
         "lastPage": 907
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-03.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-03.pdf",
         "bytes": 25801365,
-        "sha256": "2d4839764e385d41972bad156a1ec3dd6954d0c44a203f6cbdcfda992986fa12",
+        "sha256": "c94c6f6fbcbe8efc6944515481fd9f8683456b968114e57484df2d336aee541c",
         "firstPage": 908,
         "lastPage": 1365
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-04.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-04.pdf",
         "bytes": 27274037,
-        "sha256": "d080bbf8bad0bccd65425791999bae49855977bfce350e913906a38f7f6dc1af",
+        "sha256": "813b8e5e716f5b139924470ec5eebb3253f774c885e58b02208d115f16947ea6",
         "firstPage": 1366,
         "lastPage": 1815
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-05.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-05.pdf",
         "bytes": 34981252,
-        "sha256": "29a19859e356d11b7e0cc281b6dff3e2271bb786d02adb24c4c22f242242894d",
+        "sha256": "378f4fa7acde63f90e4b0fd25a7723866df6680eed48070de786a2f9ccdd7976",
         "firstPage": 1816,
         "lastPage": 2268
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-06.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-06.pdf",
         "bytes": 32964330,
-        "sha256": "0a38a49cfe57f7cd2cfca2a81eebc2d5a2c65ce3359b6e20618863852c8ad7f0",
+        "sha256": "48670a6c56acf7a031ac90013b1c4876844e22ca71b30b8be8fc10215bf6b853",
         "firstPage": 2269,
         "lastPage": 2736
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-07.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-07.pdf",
         "bytes": 26486118,
-        "sha256": "265413731ad4cad2e03fa5c96a6c34c4bff6a90da4fce4032b51e79908dcbedf",
+        "sha256": "09e0ac5a751dcf81ce8be92a8af2028c6ba9afa4267196a1f2eba7f1cc985b38",
         "firstPage": 2737,
         "lastPage": 3186
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-08.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-08.pdf",
         "bytes": 17507844,
-        "sha256": "cf60a0cf3accfc26cd7a9e49d9d65ca2fc2f8689171b1e215b3fa913e97022ec",
+        "sha256": "0c049e603dfbbc59947bcc35e5a5da1f1c778d0706095ef531e42a35baecfdba",
         "firstPage": 3187,
         "lastPage": 3643
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-09.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-09.pdf",
         "bytes": 19407324,
-        "sha256": "d5d0b604c44686e5aa5e8ff99fe87f4d69f1a71f87cc78ec74b19286fff55686",
+        "sha256": "2a1cc4300cd50449ddcd31c99b018dc411f184e55d6472feb02b2f054ad62da6",
         "firstPage": 3644,
         "lastPage": 4102
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-10.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-10.pdf",
         "bytes": 17859918,
-        "sha256": "670d57f104081aeedbce1ad7604d30543e1c86ca6cd6896ddbcb633dd4a86e4b",
+        "sha256": "242cd3cda24db61483ed62aab1eefb0aa578486d5722af3ff7f6df8af40be7b6",
         "firstPage": 4103,
         "lastPage": 4554
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-11.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-11.pdf",
         "bytes": 24840392,
-        "sha256": "02d0bcc73b09e382370d396b034db346e72e6b045a68a36141caa7989763a446",
+        "sha256": "855dfb3e02a786b9c97c0db083da2d71bbfafe109614f0fe4d0c327177d7b3ee",
         "firstPage": 4555,
         "lastPage": 5006
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-12.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-12.pdf",
         "bytes": 21972058,
-        "sha256": "ff567fa0ecf415872956cef38b53903180f5de78839083f4f5afec233e4d0d0b",
+        "sha256": "4648684d25b6675cd247c176b94d7fdde370f3fa108d282656cb679c1f210861",
         "firstPage": 5007,
         "lastPage": 5470
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-13.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-13.pdf",
         "bytes": 15849882,
-        "sha256": "2de9dbbba63f70fffda3c8bbf7c38e8c47dc109587c3afdee3d6a221eae2c3e3",
+        "sha256": "349400b98c49157648277ef85f3511f0d0861b3e05835272ec10ba8bcf723f01",
         "firstPage": 5471,
         "lastPage": 5926
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-14.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-14.pdf",
         "bytes": 14346676,
-        "sha256": "98c5d7fe542c3641944282125631d0a1cd815c139f3b726cfe457689f5bcabba",
+        "sha256": "8848e64a80e9f9834a895422523e15c57fe4fb37094060ec20fa74edd78194d7",
         "firstPage": 5927,
         "lastPage": 6378
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-15.pdf",
-        "bytes": 4683811,
-        "sha256": "2dccbb93794766f59001ac76c77111b475d226f7e4f0df4d7848c33011d570b9",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-one-volume-15.pdf",
+        "bytes": 4772041,
+        "sha256": "493a23bf5ee9567382ea6e9759b80c2248ada18c86343de7e04255098e80b3b7",
         "firstPage": 6379,
-        "lastPage": 6510
+        "lastPage": 6512
       }
     ]
   }

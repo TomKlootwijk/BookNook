@@ -1,0 +1,28 @@
+{
+  "requestedAdditionalConversations": 1,
+  "openTabs": 108,
+  "historyEntriesChecked": 10,
+  "newConversations": 1,
+  "newPrompts": 2,
+  "newResponses": 2,
+  "updatedConversations": [],
+  "readback": {
+    "threadId": "YM3baqLQJJPY7_UP1Z7kuQI",
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "samePrompts": true,
+    "sameResponses": true,
+    "frames": 0,
+    "canvases": 0
+  },
+  "expandedCodeBlocks": 1,
+  "attachments": [],
+  "sourceErrorResponses": [],
+  "sourceGaps": [],
+  "media": [],
+  "unmatchedOpen": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true
+}

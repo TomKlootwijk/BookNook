@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Compared 107 initially open AI Mode tabs and all 300 visible AI Mode history entries, then refreshed open tabs. Added twelve conversations with 43 prompts and 43 responses. All twelve transcripts were read back; two only differ in rendered source badges. Preserved the two original SDF chart SVGs and their displayed labels. The twelve new threads occupy the newest history positions; older archive content, original attachments, source gaps and Captain of industry GTM remain preserved. A supplementary attempt to reload the most recent older document thread returned no body; its previously verified archive is retained. Unsent drafts and the accidentally regenerated Banana Cavendish thread remain excluded.",
+  "note": "The user requested exactly one additional conversation. Compared 108 open AI Mode tabs with the 1028-conversation baseline and identified one new thread, also verified as the newest visible history entry. Added Microseconden Van 6,5 Jaar as one conversation with two prompts and two responses. Expanded and preserved the original Python calculation, then read back both complete exchanges. No new embedded diagrams or attachments were present. Existing archive content, original attachments, source gaps and Captain of industry GTM remain preserved.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -5109,5 +5109,33 @@
       "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
       "actualThread": "jLHUaq_LNons7_UPirfomA8"
     }
+  },
+  "october23OneMedia": {
+    "requestedAdditionalConversations": 1,
+    "openTabs": 108,
+    "historyEntriesChecked": 10,
+    "newConversations": 1,
+    "newPrompts": 2,
+    "newResponses": 2,
+    "updatedConversations": [],
+    "readback": {
+      "threadId": "YM3baqLQJJPY7_UP1Z7kuQI",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "frames": 0,
+      "canvases": 0
+    },
+    "expandedCodeBlocks": 1,
+    "attachments": [],
+    "sourceErrorResponses": [],
+    "sourceGaps": [],
+    "media": [],
+    "unmatchedOpen": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true
   }
 }

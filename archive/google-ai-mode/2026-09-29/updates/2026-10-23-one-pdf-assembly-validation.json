@@ -1,0 +1,22 @@
+{
+  "pages": 6512,
+  "frontPages": 32,
+  "indexPage": 1,
+  "unchangedBodyPages": 6478,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "1029": {
+      "pages": 2,
+      "prompts": 2,
+      "responses": 2
+    }
+  },
+  "internalIndexLinks": 1087,
+  "prompts": 5337,
+  "responses": 5340,
+  "streamingReadbackVerified": true,
+  "nativePdfAssembly": true,
+  "priorFrontPages": 32,
+  "priorPageOffset": 0,
+  "originalBodyStreamsVerifiedAfterSave": true
+}
