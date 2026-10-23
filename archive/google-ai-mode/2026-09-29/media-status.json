@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Compared 95 initially open AI Mode tabs and all 300 visible history entries, followed by refreshed tabs and the latest history entries. Added three conversations with 24 prompts and 24 responses. All new transcripts were read back; four recent archived conversations have no additional exchanges. Preserved the original 39-page uploaded pigeon PDF and the original downloadable Markdown file; linked the previously archived v1.5 specification matching its upload label. Google reports a partial-document context limitation in one response. No new interactive doodles were present. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The accidentally regenerated Banana Cavendish thread remains excluded.",
+  "note": "Compared 107 initially open AI Mode tabs and all 300 visible AI Mode history entries, then refreshed open tabs. Added twelve conversations with 43 prompts and 43 responses. All twelve transcripts were read back; two only differ in rendered source badges. Preserved the two original SDF chart SVGs and their displayed labels. The twelve new threads occupy the newest history positions; older archive content, original attachments, source gaps and Captain of industry GTM remain preserved. A supplementary attempt to reload the most recent older document thread returned no body; its previously verified archive is retained. Unsent drafts and the accidentally regenerated Banana Cavendish thread remain excluded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -4884,6 +4884,225 @@
     "unmatchedHistory": [],
     "preservedPriorMedia": true,
     "unsentDraftExcluded": true,
+    "aliases": [],
+    "excludedRegeneratedThread": {
+      "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+      "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+      "actualThread": "jLHUaq_LNons7_UPirfomA8"
+    }
+  },
+  "october23EveningMedia": {
+    "openTabsInitial": 107,
+    "openTabs": 107,
+    "historyEntries": 300,
+    "newConversations": 12,
+    "newPrompts": 43,
+    "newResponses": 43,
+    "updatedConversations": [],
+    "readbacks": [
+      {
+        "threadId": "xLfbarfJKfmQi-gPo6m2gAQ",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "previousCounts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "samePrompts": true,
+        "sameResponses": true
+      },
+      {
+        "threadId": "MLPbap2VONCL9u8PoLGg-Qk",
+        "counts": {
+          "prompts": 11,
+          "responses": 11
+        },
+        "previousCounts": {
+          "prompts": 11,
+          "responses": 11
+        },
+        "samePrompts": true,
+        "sameResponses": true
+      },
+      {
+        "threadId": "XrLbapyDHs387_UP5pKj6AU",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "previousCounts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "samePrompts": true,
+        "sameResponses": true
+      },
+      {
+        "threadId": "w7HbatPOMZ3ri-gPgNmhmAg",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "previousCounts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "samePrompts": true,
+        "sameResponses": true
+      },
+      {
+        "threadId": "V7DbatOZE4eM9u8PuIvd2AM",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "previousCounts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "samePrompts": true,
+        "sameResponses": true
+      },
+      {
+        "threadId": "DK7bar-SL5W3i-gPuZKtgAs",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "previousCounts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "samePrompts": true,
+        "sameResponses": true
+      },
+      {
+        "threadId": "56zbarSBF-rZ7_UPltLgsQo",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "previousCounts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "samePrompts": true,
+        "sameResponses": true
+      },
+      {
+        "threadId": "hKzbapz9CZGI9u8Pxdql6QY",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "previousCounts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "samePrompts": true,
+        "sameResponses": true
+      },
+      {
+        "threadId": "Oanbavn-Nazp7_UP3pXiqQY",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "previousCounts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "samePrompts": true,
+        "sameResponses": true
+      },
+      {
+        "threadId": "iGLbatqgIrSL9u8P25ni0Ac",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "previousCounts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "samePrompts": true,
+        "sameResponses": true
+      },
+      {
+        "threadId": "3rXbapSrBMaT9u8PkdvHyAY",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "previousCounts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "samePrompts": true,
+        "sameResponses": false,
+        "sameResponseProse": true,
+        "displayOnlyDifferences": [
+          [
+            " ·AgriView",
+            ""
+          ]
+        ]
+      },
+      {
+        "threadId": "CLXbavC4EZTgi-gPwbX-oAc",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "previousCounts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "samePrompts": true,
+        "sameResponses": false,
+        "sameResponseProse": true,
+        "displayOnlyDifferences": [
+          [
+            "·VivA Afrikaans ",
+            ""
+          ],
+          [
+            "·VivA Afrikaans ",
+            ""
+          ]
+        ]
+      }
+    ],
+    "attachments": [],
+    "sourceErrorResponses": [],
+    "sourceGaps": [],
+    "media": [
+      {
+        "conversation": 1020,
+        "response": 3,
+        "path": "assets/1020-response-03-sdf.svg",
+        "caption": "2D Circle Signed Distance Field (SDF) Contours (original source SVG)",
+        "displayedText": "2D Circle Signed Distance Field (SDF) Contours\n−10\n−8\n−6\n−4\n−2\n0\n2\n4\n6\n8\n10\nX\n−10\n−8\n−6\n−4\n−2\n0\n2\n4\n6\n8\n10\nY\nInside: SDF = -5\nOutside: SDF = +3",
+        "sourceUrl": "https://27fk6igtesv2bq2a8gf6fhwv6u4f0i0s6sx2kuc47fru6hgc3z-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      },
+      {
+        "conversation": 1020,
+        "response": 10,
+        "path": "assets/1020-response-10-sdf.svg",
+        "caption": "Signed Distance Field (SDF) 1D Slice (original source SVG)",
+        "displayedText": "Signed Distance Field (SDF) 1D Slice\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\nPosition (x)\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\nSDF Value f(x)\nBoundary (SDF = 0)",
+        "sourceUrl": "https://4zzah214boj5nuoqaipimd8nqio6ld6z8f98swd9hlv2o3157z-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      }
+    ],
+    "unmatchedOpen": [],
+    "unmatchedHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true,
+    "continuationRecheckLimitations": [
+      "Most recent previously archived document thread returned no body on supplementary reload; prior verified content retained."
+    ],
     "aliases": [],
     "excludedRegeneratedThread": {
       "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",

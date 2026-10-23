@@ -1,0 +1,77 @@
+{
+  "pages": 6510,
+  "frontPages": 32,
+  "indexPage": 1,
+  "unchangedBodyPages": 6434,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "1017": {
+      "pages": 4,
+      "prompts": 3,
+      "responses": 3
+    },
+    "1018": {
+      "pages": 7,
+      "prompts": 4,
+      "responses": 4
+    },
+    "1019": {
+      "pages": 3,
+      "prompts": 4,
+      "responses": 4
+    },
+    "1020": {
+      "pages": 9,
+      "prompts": 11,
+      "responses": 11
+    },
+    "1021": {
+      "pages": 2,
+      "prompts": 2,
+      "responses": 2
+    },
+    "1022": {
+      "pages": 2,
+      "prompts": 2,
+      "responses": 2
+    },
+    "1023": {
+      "pages": 2,
+      "prompts": 2,
+      "responses": 2
+    },
+    "1024": {
+      "pages": 2,
+      "prompts": 4,
+      "responses": 4
+    },
+    "1025": {
+      "pages": 2,
+      "prompts": 3,
+      "responses": 3
+    },
+    "1026": {
+      "pages": 2,
+      "prompts": 2,
+      "responses": 2
+    },
+    "1027": {
+      "pages": 5,
+      "prompts": 3,
+      "responses": 3
+    },
+    "1028": {
+      "pages": 4,
+      "prompts": 3,
+      "responses": 3
+    }
+  },
+  "internalIndexLinks": 1086,
+  "prompts": 5335,
+  "responses": 5338,
+  "streamingReadbackVerified": true,
+  "nativePdfAssembly": true,
+  "priorFrontPages": 32,
+  "priorPageOffset": 0,
+  "originalBodyStreamsVerifiedAfterSave": true
+}

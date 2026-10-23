@@ -1,11 +1,11 @@
 {
-  "exportDate": "2026-10-23-latest",
-  "scopeCount": 1016,
-  "capturedCount": 1016,
-  "prompts": 5292,
-  "responses": 5295,
-  "mathRendered": 17581,
-  "embeddedImages": 12160,
+  "exportDate": "2026-10-23-evening",
+  "scopeCount": 1028,
+  "capturedCount": 1028,
+  "prompts": 5335,
+  "responses": 5338,
+  "mathRendered": 17601,
+  "embeddedImages": 12263,
   "conversations": [
     {
       "ordinal": 1,
@@ -11182,6 +11182,138 @@
       "source": "https://www.google.com/search?q=ik+heb+een+document&sca_esv=893914484a7407f0&sxsrf=APpeQnsMS4v5rNTmMvpXaWGcpXxmp01OTw%3A1792752754084&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwi13864_M-XAxU0gP0HHdSAKWEQ2J8OegQIFBAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfAAhTSz5nGSLiYZKANVFvEBxtnOys6AfjPMdgi_yYzjSox6dQlAVAI9tgDl1JnXeuy67N9ad0aD5lNJsg7XsAyhbge9c6lIwsuWezmR2mQLtYxd0VF18blmsxUPVjTlHD53Eg4YjJhFUul-jV7F0IU-yAHAo9edqBf9fCM8t8ObIc0UpZQ-yIBke7UTHraVeSdag8MfhSzacfnU1QynO3R8LXqjW68A4WWWLfRDGMOLrKurWrTOWOu_T0mBAhLxpLyDh5k8qg2sdV2qvfjCDsfSOwd-aaAf8TT41tX5UnZzGQgQ4yag_F61rkP9P48ouiNJWolzmPWFiQ&csuir=1&mtid=dDzbatOoCKW79u8PxI2n2Qg&lns_mode=cvst&udm=50",
       "recoveredFromSavedUrl": false,
       "pdfPage": 6462
+    },
+    {
+      "ordinal": 1017,
+      "title": "Wilde Dier Afrikaans Gewond",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/1017-wilde-dier-afrikaans-gewond.html",
+      "markdown": "conversations/1017-wilde-dier-afrikaans-gewond.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExNzcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQntXrI8Ofez3aT_Uiu8eVb0lliVSKg%3A1792783837624&cs=1&udm=50&atvm=2&mstk=AUtExfAas8DtpUi1tyXNsQvXS7YELEF8witxU42FtzH_lVdG1C_JhGAlxGXsHHxAmj8T5I03g66imXhFYDJ3Zzzke_8t_--Wp3-8v2AT3Ls4ndacYlbBGqCxD5ShMsX9csJR9Uh4oGXJoQ8L54OpDmugvuzTC_XCFsG-zkjY1IOjVi8umtdF3fw__32AY66NLbcFm9FENQWS8u6d8QEKS4JOSrJxztrxY0OUX_pDRknF89F3IxSI7r1atl7HpXIRjD7BMdw6dxBUEw277A&mtid=xLfbarfJKfmQi-gPo6m2gAQ&csuir=1&aep=26&q=wilde+dier+afrikaans+gewont&ved=0CAEQ2_wOahcKEwiY7MOC9dCXAxUAAAAAHQAAAAAQOw",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6467
+    },
+    {
+      "ordinal": 1018,
+      "title": "Boeren in Afrika Gewelddadige Aanvallen",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/1018-boeren-in-afrika-gewelddadige-aanvallen.html",
+      "markdown": "conversations/1018-boeren-in-afrika-gewelddadige-aanvallen.md",
+      "source": "https://www.google.com/search?q=boeren+in+afrika+aangevallen+door+zwarte+en+onteigend&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExNzcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832e5ZAsz7MVJugwShKFiA5wD7dBjItCcEQf6BM4bW_XSgKVIMAvoLi2rCqi09RmLFMwmnRWVBD63huOx5jY_HcOKMGfh74O-4scdStMhhgr2jxPQzCRYjp3CWQuZtoOhdjzJKgTfaj13bdGwntqbDctiHMoAV&aep=10&ntc=1&sxsrf=APpeQntXrI8Ofez3aT_Uiu8eVb0lliVSKg%3A1792783837624&mstk=AUtExfCIR3G-QDgFmNFNvAjKgmec-MayV8-Z-MdXUc2qagF3vIXHBU48uE6iFWuRcZQunBdOPvPxNLZV_mcHy4Pwkq8OTem12kYAyp7ax1ns1LQJGEVgX8iuIHz8qpy5oG58Fo0fDB7l-AlFD5ZiHnoq7xRLdMA6sPLnKhm2fHmOKY7DfHZaQAmnadjcdsxVX7GedfYNrRGln3qHKC3mq_6cLqwftjhfcrtuIdPg-UM_3DoTGqlkdZs9hqCaafiXieWl5jSfWpZ4edzfVw&aioh=3&csuir=1&cs=1&mtid=3rXbapSrBMaT9u8PkdvHyAY&udm=50&atvm=1",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6471
+    },
+    {
+      "ordinal": 1019,
+      "title": "Koring Van Die Kaf",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/1019-koring-van-die-kaf.html",
+      "markdown": "conversations/1019-koring-van-die-kaf.md",
+      "source": "https://www.google.com/search?q=kaf+en+koren+scheide+afrikaans&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExNjc3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&aep=10&ntc=1&sxsrf=APpeQntw7CMYtr3Pz48_KhZnhnNRa_lcZw%3A1792783623945&mstk=AUtExfDunww19cRiBHpY830oVgQU8cOP7mSfRWV3XmIKmdeoFNL_33QhBDJmGeJxclgG1KdNoIj1g8HEm-fwRFqBhiQTqobPi5ekky8KPxfzyK5SpsJN6-kQJ2lVoKsYsx3hK6Y21EeaPJS4IZx-mLwSPz8ctFHA23xOvIW7bbFvlIbE2tJ5yZkWot_-pJEWSnVw4bDaQG8gAyOk6IesXnVMl6tRGsupsqkorFPP3laJvLEcmuM6QYVLYAo9hksur9KIkS9qycmHTApgqTrVRdGjXEOFMIlI3mCfdWi6O9D1yBNj19dxV087kFcIXtkuO6IrDe_fpQ4MIwKjiw&aioh=3&csuir=1&cs=1&mtid=CLXbavC4EZTgi-gPwbX-oAc&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6478
+    },
+    {
+      "ordinal": 1020,
+      "title": "Apartheid in Zuid-Afrika",
+      "prompts": 11,
+      "responses": 11,
+      "html": "conversations/1020-apartheid-in-zuid-afrika.html",
+      "markdown": "conversations/1020-apartheid-in-zuid-afrika.md",
+      "source": "https://www.google.com/search?q=wat+zit+er+tussen+de+apartheid+afrika&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE2NjM1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&aep=10&ntc=1&sxsrf=APpeQnti1aJ6EFnp37bcNrW_oimYcvedrQ%3A1792783152569&mstk=AUtExfBKmQszfOGa7N7KhEX8iZTYwqmMiPxbsmVV7YzehG-QeeKXuSPWz4qU27pNGkO3htrnID6ohxRBP4UCf9mOa1UFM435SgmYqrnuZrg_M_lEfoNFM41RMS8Ps5Oo6vh9qfSWO1HfSugtRT942PHT4zOOkzyyaQdV6OhCiGpQKY4LkFwNaqIB45kW7XDVcwWpeWoFePx26UfRHCsnruFmD632TZxrtUdvU0jXEX7nRlcB2VGMSHotRz4JBbBw4z21k8X68GdSn98MykNYNHk3sHuz9xLuvXlpXgSDCUuMyHF6DQqjCRvNGheG2mb8RWmJs9fSC0p3gb2bog&aioh=3&csuir=1&cs=1&mtid=MLPbap2VONCL9u8PoLGg-Qk&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6481
+    },
+    {
+      "ordinal": 1021,
+      "title": "Afrikaans Ekke Meaning",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/1021-afrikaans-ekke-meaning.html",
+      "markdown": "conversations/1021-afrikaans-ekke-meaning.md",
+      "source": "https://www.google.com/search?q=ekke+ek+afrikaans&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU2NjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&aep=10&ntc=1&sxsrf=APpeQnuGPdXl54iO5TVLvleY1vz2bO0aGg%3A1792782942116&mstk=AUtExfBir3WviMCJq1tlfIyIaUjr8AbmtFMN6D2GMLAyRQWEz4Y2F8kg6oi_-3PVHtO1xHzPPcTaE5fNa_Qt4xH6QTcC1-xpWLtW2AjB4cTe3WpNfjRyoSAjjiO15Xrmb10TJDKmLKt4lUBLH3tKw6HZ4gPXWIiQL54dIFgQfJ5dSSIYkk-G2eR7MczeFmlQP5R5bi2ut-wnjB4_qzr2YJ9mnmdstyX-AdWPizOplpAc0YEIg3rU7TpPFCYi-LyNhVotjhIEfalCeNyLapnf94KkJyYXAMj8aOOVDr48SKEjp2tE7LEJN5sINhc226iJGenyADzqa5R0Neix5w&aioh=3&csuir=1&cs=1&udm=50&mtid=XrLbapyDHs387_UP5pKj6AU",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6490
+    },
+    {
+      "ordinal": 1022,
+      "title": "Vivi Afrikaans Translation",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/1022-vivi-afrikaans-translation.html",
+      "markdown": "conversations/1022-vivi-afrikaans-translation.md",
+      "source": "https://www.google.com/search?q=vivi+afrikaans&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUyODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpWFun_Hbf9lrDzcGOCzTXwLF8QrRYckTcchjYAyznaoWyVNutNj3vDs5z9k0_6hM1lzEV5TC-7hhOxbSchppD-z-9ZC8&aep=10&ntc=1&sxsrf=APpeQnteGwB4vP9W6rRF5QEgr6P_9THiiA%3A1792782787497&mstk=AUtExfDfG2P0658tdsDAos4VQ0VGEW08HO3RwjNien9RuK-ZTq6cclaW_wjwMLfyp3ZYK0jySPD930I-3DwzhQYHCn7ZsX5c4S-lAFvQUqYtoj0QBYSGv5WZ7AEkjl_pYYqkLuChgFO-4dXFqzhPSNxf3ZEjjLIMH-ktpHhixqJSfmnfybemDsZu8ZUz_QJ2Vn2mIjKSnkadpFm8yUoYQkNZghvRxtGgfhDpUsJtRWgeqA-1BsYb8V8UqQze24thrNZaUj3BrZbL1n18E759BLR_sb7adDrGjY0cCI8iJN6TGIgyVGGDez3d1W-MtGzAPvFqr8K4BNAlVIirxw&aioh=3&csuir=1&cs=1&udm=50&mtid=w7HbatPOMZ3ri-gPgNmhmAg",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6492
+    },
+    {
+      "ordinal": 1023,
+      "title": "Regen En Vrouw",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/1023-regen-en-vrouw.html",
+      "markdown": "conversations/1023-regen-en-vrouw.md",
+      "source": "https://www.google.com/search?q=re%C3%ABn+ek+vrouw&sca_esv=443ec739187650ee&sxsrf=APpeQnsjREGLT_zMhHwRHFTrnQHLzy84Fw%3A1792782422983&ei=-a_bavvLC_WB9u8Py8KSiAs&biw=1707&bih=898&uact=5&sclient=gws-wiz-serp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&aep=10&ntc=1&mstk=AUtExfAIZC1cKtry637IpEE_BSeK96zrnep_PPLffLsnOdTlYYRNm1v1pJ1m5qrUlZ1rVp5SJiUEI_XBZhZCj1ADspH2vXjqxHkgSPCsnhUSWYJUvxwugK8Szjvso5AahmdX13RqlNAEMM7_IFFM4Rd0U9UdE2BHEuc6A9FH5bE6RKnKlluTyEQp3CfGln18NMz70ExJScc-TUkVJMAGthiB89EbArDVTUu3XtTFH5fwhAnTPtCUq29je_4orn0x061nV9esGPLSdArYpYgl8wejPemLX9MpvdhNJenfbSiWWmYpQXYHmKwMPTXf4XTeuonueNOka7dg-09dWQ&aioh=3&csuir=1&cs=1&udm=50&mtid=V7DbatOZE4eM9u8PuIvd2AM",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6494
+    },
+    {
+      "ordinal": 1024,
+      "title": "Afrikaans Slaap Woorden",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/1024-afrikaans-slaap-woorden.html",
+      "markdown": "conversations/1024-afrikaans-slaap-woorden.md",
+      "source": "https://www.google.com/search?q=slapen+in+afrikaans+is+slaap&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExMTMwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&aep=10&ntc=1&sxsrf=APpeQnsDrbju1hizb1FKb0zJI-lbJsT0zQ%3A1792781836425&mstk=AUtExfAhImLEYnEOnqw3ZMmzkZN-9Y61PdT0Ksg7bO6IkwtUqL1XBCbFIxkp0jdtFL96u8LNh76OyHs-PC_oUwF3CKuB3vdBgOU-7sUOF00oMGzfShHprEKXf8PaxF-mW_XdM-DTpcAIneMb4d8zxd2FfRA-m_xBM2SxPJQcG1cpAYwn1-iyraWdv0FGyb1DO73Mc8NjbK3vVfzfd1ho4PFZuE6zNaGS3ESTcdaiplPReDCd9nnZvavN_fyNLvWTpHxxfftnGPwwXSOvYe_YI7UAvbkl6mAVQhLJbHGWqPvXtr2c3Pa1jyMU6ZAOOqX7hyJgY0GuROM2m7YW_Q&aioh=3&csuir=1&cs=1&mtid=DK7bar-SL5W3i-gPuZKtgAs&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6496
+    },
+    {
+      "ordinal": 1025,
+      "title": "Afrikaans Lake Translation",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/1025-afrikaans-lake-translation.html",
+      "markdown": "conversations/1025-afrikaans-lake-translation.md",
+      "source": "https://www.google.com/search?q=lake+is+lakij+tog+afrikaans&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU3MjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&aep=10&ntc=1&sxsrf=APpeQnu7jiyVYfFEbkHREKDA667vNYktGw%3A1792781543026&mstk=AUtExfDc2YRnpm8XHi6k81TGD9QugONcASGOjjAtJ-XBYcXBgsjz3endW7Qp1UYoCF8OYWTOCKGK7xKHVg4X0B4_sMJzkxQ0h4-UtxBh-2JiIxNRzuisj_ujHue3h5qLTe75pxluztbjsW5tGC5Bk-OtxSnlYdeARWftc5PZJqPto57mgfMkUeh_YmjTLyNQOKULloWB8uCYXyFi0U_ek_8mS1_R3n6ZW9GmVDpElxfX8wLnnkFjhNeftNf2JY8nbxeFrH1BixnANfSfUXafl-5nvBevs6i76OdWHK9oNfyEMzdzxBPMdx3y7TTPVGOGnK71qZsJFY7-OnkPQA&aioh=3&csuir=1&cs=1&mtid=56zbarSBF-rZ7_UPltLgsQo&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6498
+    },
+    {
+      "ordinal": 1026,
+      "title": "Afrikaans Plank Betekenis",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/1026-afrikaans-plank-betekenis.html",
+      "markdown": "conversations/1026-afrikaans-plank-betekenis.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExNzcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQntXrI8Ofez3aT_Uiu8eVb0lliVSKg%3A1792783837624&cs=1&udm=50&atvm=2&ved=0CDcQ2_wOahcKEwiY7MOC9dCXAxUAAAAAHQAAAAAQOw&mstk=AUtExfADNmr5_A6j89VwZ-YCo_9af3SSNfTtF6bZm1Yb2Juv3gWfMywOlbf03p_RSewmjwkEoH7GWnyPGQpyxRhvuLlr3i6rKjHHsh3MLnkqQhidWMHHyy9gduBGpa2If1bVeATYkQzJ5AxHCvwCSpLX6RQan9TTtQ0ST32T6RA2mRmnoJtD7_DVTBHLkTjw0SFv9igzj9YFd459-a6L1CSdxWXwl1oTJAtciUrWG_4_D3LDOsO6SVy5je1oieEY6g7_fQVXGonxavUlQ6Z9NK_EUX7_16slEVgVRKMVbWVxo6omeARgNOJbgPZTxQcKuFp3OnHqLhKSkDQdBA&mtid=hKzbapz9CZGI9u8Pxdql6QY&csuir=1&aep=26&q=afrikaans+plank+is+gewoon+plank+tog",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6500
+    },
+    {
+      "ordinal": 1027,
+      "title": "Afrikaans en Nederlands Uitspraak",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/1027-afrikaans-en-nederlands-uitspraak.html",
+      "markdown": "conversations/1027-afrikaans-en-nederlands-uitspraak.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExNzcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQntXrI8Ofez3aT_Uiu8eVb0lliVSKg%3A1792783837624&cs=1&udm=50&atvm=2&ved=0CAEQ2_wOahgKEwiY7MOC9dCXAxUAAAAAHQAAAAAQqAE&mstk=AUtExfCywxymcwBhXHyhyDv6fB8gvJZNgZvzFyiMn-n9oVeRskqQBQbBnUJjtEQKbEOHQw3z_0oNzOEAoXxSWbyQi-57cFKkG3C8YJuegDrhvfjPr2gw9vsS2PRaBz0bJT9u94BYp83yshEtiK2QjvthbbQmrPOwT5ql3OEqt3SuPU2XHxaBiHPNMCqBugcPxW7QDOa-yZZOx2Tx-pB4T28diTozFA-j_4ey49eZnEAY2fdg6_VDBiGHtgNl_CC9O5ZOgoYxRHpm10AVsg&mtid=Oanbavn-Nazp7_UP3pXiqQY&csuir=1&aep=26&q=afrikaans+nederlands+uitspraak",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6502
+    },
+    {
+      "ordinal": 1028,
+      "title": "Woning vs Verblijf Definitie",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/1028-woning-vs-verblijf-definitie.html",
+      "markdown": "conversations/1028-woning-vs-verblijf-definitie.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExNzcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=APpeQntXrI8Ofez3aT_Uiu8eVb0lliVSKg%3A1792783837624&cs=1&udm=50&atvm=2&ved=0CAcQ2_wOahgKEwiY7MOC9dCXAxUAAAAAHQAAAAAQqAE&mstk=AUtExfAuxZ0qAZ49b76xcI8y_XH2v88J-u-pkqVznMowRCgr6d4jq2gOJAtBWsFfDwHL5UUr-I9rzZqpFwBuhmU0CsT6eR0xDWcM2LnMiPeoGvN416TdqKnG_cgCkCedP4SRFC57tIRhWEUYFJ0zXN-HbrYgCTSF-ZcloHUjOqe1DV8fV-NIbgQE4hWsvCcHf-5yPxfR04gtbWmkE8kJu0b-wt00kKZCtmIL3yeVq-tay4--OBWOenSio1Emyr4Zv7r7N3oFYlOuA3uMdzs2bN-FFbayzAhOLkOy49ETX2zVXoYy4iQN-Ol-tgd2eZDL9YOxtBiMEypYAiAyow&mtid=iGLbatqgIrSL9u8P25ni0Ac&csuir=1&aep=26&q=een+verblijf+is+voor+dieren+en+een+woning+voor+een+mens%2C+exacte+definitie+ontologisch+zelfs",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6507
     }
   ],
   "missing": [],
@@ -11197,7 +11329,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "Compared 95 initially open AI Mode tabs and all 300 visible history entries, followed by refreshed tabs and the latest history entries. Added three conversations with 24 prompts and 24 responses. All new transcripts were read back; four recent archived conversations have no additional exchanges. Preserved the original 39-page uploaded pigeon PDF and the original downloadable Markdown file; linked the previously archived v1.5 specification matching its upload label. Google reports a partial-document context limitation in one response. No new interactive doodles were present. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The accidentally regenerated Banana Cavendish thread remains excluded.",
+    "note": "Compared 107 initially open AI Mode tabs and all 300 visible AI Mode history entries, then refreshed open tabs. Added twelve conversations with 43 prompts and 43 responses. All twelve transcripts were read back; two only differ in rendered source badges. Preserved the two original SDF chart SVGs and their displayed labels. The twelve new threads occupy the newest history positions; older archive content, original attachments, source gaps and Captain of industry GTM remain preserved. A supplementary attempt to reload the most recent older document thread returned no body; its previously verified archive is retained. Unsent drafts and the accidentally regenerated Banana Cavendish thread remain excluded.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -16079,19 +16211,274 @@
         "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
         "actualThread": "jLHUaq_LNons7_UPirfomA8"
       }
+    },
+    "october23EveningMedia": {
+      "openTabsInitial": 107,
+      "openTabs": 107,
+      "historyEntries": 300,
+      "newConversations": 12,
+      "newPrompts": 43,
+      "newResponses": 43,
+      "updatedConversations": [],
+      "readbacks": [
+        {
+          "threadId": "xLfbarfJKfmQi-gPo6m2gAQ",
+          "counts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "previousCounts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "samePrompts": true,
+          "sameResponses": true
+        },
+        {
+          "threadId": "MLPbap2VONCL9u8PoLGg-Qk",
+          "counts": {
+            "prompts": 11,
+            "responses": 11
+          },
+          "previousCounts": {
+            "prompts": 11,
+            "responses": 11
+          },
+          "samePrompts": true,
+          "sameResponses": true
+        },
+        {
+          "threadId": "XrLbapyDHs387_UP5pKj6AU",
+          "counts": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "previousCounts": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "samePrompts": true,
+          "sameResponses": true
+        },
+        {
+          "threadId": "w7HbatPOMZ3ri-gPgNmhmAg",
+          "counts": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "previousCounts": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "samePrompts": true,
+          "sameResponses": true
+        },
+        {
+          "threadId": "V7DbatOZE4eM9u8PuIvd2AM",
+          "counts": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "previousCounts": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "samePrompts": true,
+          "sameResponses": true
+        },
+        {
+          "threadId": "DK7bar-SL5W3i-gPuZKtgAs",
+          "counts": {
+            "prompts": 4,
+            "responses": 4
+          },
+          "previousCounts": {
+            "prompts": 4,
+            "responses": 4
+          },
+          "samePrompts": true,
+          "sameResponses": true
+        },
+        {
+          "threadId": "56zbarSBF-rZ7_UPltLgsQo",
+          "counts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "previousCounts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "samePrompts": true,
+          "sameResponses": true
+        },
+        {
+          "threadId": "hKzbapz9CZGI9u8Pxdql6QY",
+          "counts": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "previousCounts": {
+            "prompts": 2,
+            "responses": 2
+          },
+          "samePrompts": true,
+          "sameResponses": true
+        },
+        {
+          "threadId": "Oanbavn-Nazp7_UP3pXiqQY",
+          "counts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "previousCounts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "samePrompts": true,
+          "sameResponses": true
+        },
+        {
+          "threadId": "iGLbatqgIrSL9u8P25ni0Ac",
+          "counts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "previousCounts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "samePrompts": true,
+          "sameResponses": true
+        },
+        {
+          "threadId": "3rXbapSrBMaT9u8PkdvHyAY",
+          "counts": {
+            "prompts": 4,
+            "responses": 4
+          },
+          "previousCounts": {
+            "prompts": 4,
+            "responses": 4
+          },
+          "samePrompts": true,
+          "sameResponses": false,
+          "sameResponseProse": true,
+          "displayOnlyDifferences": [
+            [
+              " ·AgriView",
+              ""
+            ]
+          ]
+        },
+        {
+          "threadId": "CLXbavC4EZTgi-gPwbX-oAc",
+          "counts": {
+            "prompts": 4,
+            "responses": 4
+          },
+          "previousCounts": {
+            "prompts": 4,
+            "responses": 4
+          },
+          "samePrompts": true,
+          "sameResponses": false,
+          "sameResponseProse": true,
+          "displayOnlyDifferences": [
+            [
+              "·VivA Afrikaans ",
+              ""
+            ],
+            [
+              "·VivA Afrikaans ",
+              ""
+            ]
+          ]
+        }
+      ],
+      "attachments": [],
+      "sourceErrorResponses": [],
+      "sourceGaps": [],
+      "media": [
+        {
+          "conversation": 1020,
+          "response": 3,
+          "path": "assets/1020-response-03-sdf.svg",
+          "caption": "2D Circle Signed Distance Field (SDF) Contours (original source SVG)",
+          "displayedText": "2D Circle Signed Distance Field (SDF) Contours\n−10\n−8\n−6\n−4\n−2\n0\n2\n4\n6\n8\n10\nX\n−10\n−8\n−6\n−4\n−2\n0\n2\n4\n6\n8\n10\nY\nInside: SDF = -5\nOutside: SDF = +3",
+          "sourceUrl": "https://27fk6igtesv2bq2a8gf6fhwv6u4f0i0s6sx2kuc47fru6hgc3z-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+        },
+        {
+          "conversation": 1020,
+          "response": 10,
+          "path": "assets/1020-response-10-sdf.svg",
+          "caption": "Signed Distance Field (SDF) 1D Slice (original source SVG)",
+          "displayedText": "Signed Distance Field (SDF) 1D Slice\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\nPosition (x)\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\nSDF Value f(x)\nBoundary (SDF = 0)",
+          "sourceUrl": "https://4zzah214boj5nuoqaipimd8nqio6ld6z8f98swd9hlv2o3157z-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+        }
+      ],
+      "unmatchedOpen": [],
+      "unmatchedHistory": [],
+      "preservedPriorMedia": true,
+      "unsentDraftExcluded": true,
+      "continuationRecheckLimitations": [
+        "Most recent previously archived document thread returned no body on supplementary reload; prior verified content retained."
+      ],
+      "aliases": [],
+      "excludedRegeneratedThread": {
+        "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+        "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+        "actualThread": "jLHUaq_LNons7_UPirfomA8"
+      }
     }
   },
   "latestUpdate": {
-    "at": "2026-10-23T11:21:25.686583+00:00",
+    "at": "2026-10-23T21:11:53.024168+00:00",
     "date": "2026-10-23",
-    "batchId": "2026-10-23-latest",
-    "openAiModeTabs": 97,
+    "batchId": "2026-10-23-evening",
+    "openAiModeTabs": 107,
     "historyConversations": 300,
-    "method": "Compared 95 initially open AI Mode tabs and all 300 visible history entries, followed by refreshed tabs and the latest history entries. Added three conversations with 24 prompts and 24 responses. All new transcripts were read back; four recent archived conversations have no additional exchanges. Preserved the original 39-page uploaded pigeon PDF and the original downloadable Markdown file; linked the previously archived v1.5 specification matching its upload label. Google reports a partial-document context limitation in one response. No new interactive doodles were present. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The accidentally regenerated Banana Cavendish thread remains excluded.",
+    "method": "Compared 107 initially open AI Mode tabs and all 300 visible AI Mode history entries, then refreshed open tabs. Added twelve conversations with 43 prompts and 43 responses. All twelve transcripts were read back; two only differ in rendered source badges. Preserved the two original SDF chart SVGs and their displayed labels. The twelve new threads occupy the newest history positions; older archive content, original attachments, source gaps and Captain of industry GTM remain preserved. A supplementary attempt to reload the most recent older document thread returned no body; its previously verified archive is retained. Unsent drafts and the accidentally regenerated Banana Cavendish thread remain excluded.",
     "records": [
       {
-        "ordinal": 1014,
-        "title": "Sander Belt Pedofiel Contentie",
+        "ordinal": 1017,
+        "title": "Wilde Dier Afrikaans Gewond",
+        "status": "added",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 1018,
+        "title": "Boeren in Afrika Gewelddadige Aanvallen",
+        "status": "added",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        }
+      },
+      {
+        "ordinal": 1019,
+        "title": "Koring Van Die Kaf",
+        "status": "added",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        }
+      },
+      {
+        "ordinal": 1020,
+        "title": "Apartheid in Zuid-Afrika",
+        "status": "added",
+        "counts": {
+          "prompts": 11,
+          "responses": 11
+        }
+      },
+      {
+        "ordinal": 1021,
+        "title": "Afrikaans Ekke Meaning",
         "status": "added",
         "counts": {
           "prompts": 2,
@@ -16099,144 +16486,198 @@
         }
       },
       {
-        "ordinal": 1015,
-        "title": "Duiven Amsterdams Pootjes Diabetes",
+        "ordinal": 1022,
+        "title": "Vivi Afrikaans Translation",
         "status": "added",
         "counts": {
-          "prompts": 18,
-          "responses": 18
+          "prompts": 2,
+          "responses": 2
         }
       },
       {
-        "ordinal": 1016,
-        "title": "Document hulpvragen",
+        "ordinal": 1023,
+        "title": "Regen En Vrouw",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 1024,
+        "title": "Afrikaans Slaap Woorden",
         "status": "added",
         "counts": {
           "prompts": 4,
           "responses": 4
         }
+      },
+      {
+        "ordinal": 1025,
+        "title": "Afrikaans Lake Translation",
+        "status": "added",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 1026,
+        "title": "Afrikaans Plank Betekenis",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 1027,
+        "title": "Afrikaans en Nederlands Uitspraak",
+        "status": "added",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 1028,
+        "title": "Woning vs Verblijf Definitie",
+        "status": "added",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
       }
     ],
     "newOrdinals": [
-      1014,
-      1015,
-      1016
+      1017,
+      1018,
+      1019,
+      1020,
+      1021,
+      1022,
+      1023,
+      1024,
+      1025,
+      1026,
+      1027,
+      1028
     ]
   },
   "pdf": {
-    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest.pdf",
-    "pages": 6466,
-    "bytes": 277537115,
-    "sha256": "49e53bfc8b4627cf1e11468999dcfd36cc81a48dcbfa25e312619a41c80abb18",
-    "promptMarkersVerified": 5292,
-    "responseMarkersVerified": 5295,
-    "validationMethod": "Native PDF assembly preserves all 6397 prior body pages and their content streams byte-for-byte; all 37 new pages were scanned for markers and visually reviewed. Same-date prior footers retain their unchanged page positions.",
-    "volumeIndexRemoteLinks": 1074,
+    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening.pdf",
+    "pages": 6510,
+    "bytes": 279036962,
+    "sha256": "5159f2bc1044cad196447421484eda75605b504fe779708d558cc94f98e711ff",
+    "promptMarkersVerified": 5335,
+    "responseMarkersVerified": 5338,
+    "validationMethod": "Native PDF assembly preserves all prior body content streams byte-for-byte. New chapter markers and rendered pages are checked. Footer overlays are added only when page positions change.",
+    "volumeIndexRemoteLinks": 1086,
     "volumes": [
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-01.pdf",
-        "bytes": 21744957,
-        "sha256": "8a551db2d0a12851a5604c8ad218d5def2aa57ea8eb927c0b2a386458d19edd3",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-01.pdf",
+        "bytes": 21746686,
+        "sha256": "95bc6e2f686196e8be367fb96595e802ae456ddfdbedd437f7613642d3e7f72b",
         "firstPage": 1,
         "lastPage": 453
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-02.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-02.pdf",
         "bytes": 21838080,
-        "sha256": "43c6cf6908759eebb53b6b7ad4f2603b051da2827ea8a9998ba2661ef87d3019",
+        "sha256": "6515e6f0faab09d9759247e5d95ecf32bf7f61af7251462a5373cc5aea6cef74",
         "firstPage": 454,
         "lastPage": 907
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-03.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-03.pdf",
         "bytes": 25801365,
-        "sha256": "a6bea0e31c29e1e1c46c7f68cb0d7c3f517c4c25fc70d7f787f932a2bf1b9aa7",
+        "sha256": "2d4839764e385d41972bad156a1ec3dd6954d0c44a203f6cbdcfda992986fa12",
         "firstPage": 908,
         "lastPage": 1365
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-04.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-04.pdf",
         "bytes": 27274037,
-        "sha256": "69bc588c477a20f48dea513966d2eb8e54be12935b6795011a2a69a81eb0e238",
+        "sha256": "d080bbf8bad0bccd65425791999bae49855977bfce350e913906a38f7f6dc1af",
         "firstPage": 1366,
         "lastPage": 1815
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-05.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-05.pdf",
         "bytes": 34981252,
-        "sha256": "2ab263cd18c5b37c845f2823d049ebc7ee3667b9182e606119dc93ec0e6fb54e",
+        "sha256": "29a19859e356d11b7e0cc281b6dff3e2271bb786d02adb24c4c22f242242894d",
         "firstPage": 1816,
         "lastPage": 2268
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-06.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-06.pdf",
         "bytes": 32964330,
-        "sha256": "aef496be369634c741d74b57a60098e92c280a4f431d932c582c1d57441efe2e",
+        "sha256": "0a38a49cfe57f7cd2cfca2a81eebc2d5a2c65ce3359b6e20618863852c8ad7f0",
         "firstPage": 2269,
         "lastPage": 2736
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-07.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-07.pdf",
         "bytes": 26486118,
-        "sha256": "fb3c1657e20d4684599a340a6c47151db7c4a21bf82b5c168fc55ff907d065d1",
+        "sha256": "265413731ad4cad2e03fa5c96a6c34c4bff6a90da4fce4032b51e79908dcbedf",
         "firstPage": 2737,
         "lastPage": 3186
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-08.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-08.pdf",
         "bytes": 17507844,
-        "sha256": "6eedf25da31a90011cd4dfddf0fe9aefd33abb4582ecb6ee76b8c239c6d69f15",
+        "sha256": "cf60a0cf3accfc26cd7a9e49d9d65ca2fc2f8689171b1e215b3fa913e97022ec",
         "firstPage": 3187,
         "lastPage": 3643
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-09.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-09.pdf",
         "bytes": 19407324,
-        "sha256": "86b8387a9bfb1e5b5919844f5124a92c3d0359499c2c853ed93a57fb797a477f",
+        "sha256": "d5d0b604c44686e5aa5e8ff99fe87f4d69f1a71f87cc78ec74b19286fff55686",
         "firstPage": 3644,
         "lastPage": 4102
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-10.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-10.pdf",
         "bytes": 17859918,
-        "sha256": "a204bf78d7e2e6e3ad4240c7e7686a864e9df5acce428a82af06c53c44c09f69",
+        "sha256": "670d57f104081aeedbce1ad7604d30543e1c86ca6cd6896ddbcb633dd4a86e4b",
         "firstPage": 4103,
         "lastPage": 4554
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-11.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-11.pdf",
         "bytes": 24840392,
-        "sha256": "d2f568869ea464133b9d77f1e3cdf311e753929c419a72257b897a28f80d6918",
+        "sha256": "02d0bcc73b09e382370d396b034db346e72e6b045a68a36141caa7989763a446",
         "firstPage": 4555,
         "lastPage": 5006
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-12.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-12.pdf",
         "bytes": 21972058,
-        "sha256": "91c2900d02c4f0a6f2907b59e58dad3da053310b42a387f330479af57bf267f2",
+        "sha256": "ff567fa0ecf415872956cef38b53903180f5de78839083f4f5afec233e4d0d0b",
         "firstPage": 5007,
         "lastPage": 5470
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-13.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-13.pdf",
         "bytes": 15849882,
-        "sha256": "c30f3f013bc34b8fb350f774f738da8abde6d42c50919b166f48b06787ada547",
+        "sha256": "2de9dbbba63f70fffda3c8bbf7c38e8c47dc109587c3afdee3d6a221eae2c3e3",
         "firstPage": 5471,
         "lastPage": 5926
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-14.pdf",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-14.pdf",
         "bytes": 14346676,
-        "sha256": "bf800d17878700132fc4e1cf7ee5a9f69fb0c016e454ce43f5216dd1ec8e67c3",
+        "sha256": "98c5d7fe542c3641944282125631d0a1cd815c139f3b726cfe457689f5bcabba",
         "firstPage": 5927,
         "lastPage": 6378
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-latest-volume-15.pdf",
-        "bytes": 3183613,
-        "sha256": "5aa8230c6a02cf57e94ccbc24c4bb297d18549615c30364b68b580f73095d090",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-evening-volume-15.pdf",
+        "bytes": 4683811,
+        "sha256": "2dccbb93794766f59001ac76c77111b475d226f7e4f0df4d7848c33011d570b9",
         "firstPage": 6379,
-        "lastPage": 6466
+        "lastPage": 6510
       }
     ]
   }

@@ -1,0 +1,176 @@
+[
+  {
+    "threadId": "xLfbarfJKfmQi-gPo6m2gAQ",
+    "counts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "previousCounts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "MLPbap2VONCL9u8PoLGg-Qk",
+    "counts": {
+      "prompts": 11,
+      "responses": 11
+    },
+    "previousCounts": {
+      "prompts": 11,
+      "responses": 11
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "XrLbapyDHs387_UP5pKj6AU",
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "previousCounts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "w7HbatPOMZ3ri-gPgNmhmAg",
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "previousCounts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "V7DbatOZE4eM9u8PuIvd2AM",
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "previousCounts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "DK7bar-SL5W3i-gPuZKtgAs",
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "previousCounts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "56zbarSBF-rZ7_UPltLgsQo",
+    "counts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "previousCounts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "hKzbapz9CZGI9u8Pxdql6QY",
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "previousCounts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "Oanbavn-Nazp7_UP3pXiqQY",
+    "counts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "previousCounts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "iGLbatqgIrSL9u8P25ni0Ac",
+    "counts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "previousCounts": {
+      "prompts": 3,
+      "responses": 3
+    },
+    "samePrompts": true,
+    "sameResponses": true
+  },
+  {
+    "threadId": "3rXbapSrBMaT9u8PkdvHyAY",
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "previousCounts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "samePrompts": true,
+    "sameResponses": false,
+    "sameResponseProse": true,
+    "displayOnlyDifferences": [
+      [
+        " ·AgriView",
+        ""
+      ]
+    ]
+  },
+  {
+    "threadId": "CLXbavC4EZTgi-gPwbX-oAc",
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "previousCounts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "samePrompts": true,
+    "sameResponses": false,
+    "sameResponseProse": true,
+    "displayOnlyDifferences": [
+      [
+        "·VivA Afrikaans ",
+        ""
+      ],
+      [
+        "·VivA Afrikaans ",
+        ""
+      ]
+    ]
+  }
+]
