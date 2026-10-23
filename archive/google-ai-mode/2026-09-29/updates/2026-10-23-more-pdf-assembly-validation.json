@@ -1,0 +1,18 @@
+{
+  "pages": 6429,
+  "frontPages": 32,
+  "indexPage": 1,
+  "unchangedBodyPages": 6393,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "1013": {
+      "pages": 4,
+      "prompts": 2,
+      "responses": 2
+    }
+  },
+  "internalIndexLinks": 1071,
+  "prompts": 5268,
+  "responses": 5271,
+  "streamingReadbackVerified": true
+}

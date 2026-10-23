@@ -1,0 +1,74 @@
+{
+  "openTabsInitial": 93,
+  "openTabs": 94,
+  "historyEntries": 300,
+  "historyRefreshEntries": 10,
+  "newConversations": 1,
+  "newPrompts": 2,
+  "newResponses": 2,
+  "updatedConversations": [],
+  "recentContinuationChecks": [
+    {
+      "ordinal": 1012,
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "prior": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 1011,
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "prior": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 1010,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "prior": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "samePrompts": true
+    },
+    {
+      "ordinal": 1009,
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "prior": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "samePrompts": true
+    }
+  ],
+  "attachments": [],
+  "sourceErrorResponses": [],
+  "sourceGaps": [],
+  "media": [],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true,
+  "aliases": [],
+  "excludedRegeneratedThread": {
+    "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+    "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+    "actualThread": "jLHUaq_LNons7_UPirfomA8"
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "exportDate": "2026-10-23",
-  "scopeCount": 1012,
-  "capturedCount": 1012,
-  "prompts": 5266,
-  "responses": 5269,
+  "exportDate": "2026-10-23-more",
+  "scopeCount": 1013,
+  "capturedCount": 1013,
+  "prompts": 5268,
+  "responses": 5271,
   "mathRendered": 17485,
-  "embeddedImages": 12088,
+  "embeddedImages": 12099,
   "conversations": [
     {
       "ordinal": 1,
@@ -11138,6 +11138,17 @@
       "source": "https://www.google.com/search?sca_esv=e51692b16e08c951&sxsrf=APpeQnsXDPXph53QG9G5tIfTZ23t5PbXgw%3A1792744885290&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwiwxP6m4s-XAxUAAAAAHQAAAAAQJA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfAnccrDFvleo6clbV3l17LPNlnYHe4LyL3fsPjTLYVWyLfq2Jq0ffzyy-GCLbh30IzPtvMykv1S_WNrqtA0R-nl8Ym0b3YC0YsURfUz7Jz8to22pXalq5BOU9So5dpgGuU_3_GDMm0vEiRA5Qa0an4-02PSEQnPGYVBbryog4RgTI2NPYUJ5ypQUWpYBg53fJVNrBl-z1Adn51jDHHzNTJRZUt9zQcE-IjS_kzenrGaJI1HKgpyzdoT1MmbuYvyl6a978qoI251sMgbQibP02QXtTN8hwQz-BxOqQ4_0IGmSIEBEwi9IJkHJBOW8wz9KPVPZK6MIgBc4A&mtid=CyDbarTvBfeC9u8P1PSsqAc&csuir=1&aep=26&q=er+was+een+mus+in+het+verstopte+park",
       "recoveredFromSavedUrl": false,
       "pdfPage": 6424
+    },
+    {
+      "ordinal": 1013,
+      "title": "Overclocken Van De Hersenen",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/1013-overclocken-van-de-hersenen.html",
+      "markdown": "conversations/1013-overclocken-van-de-hersenen.md",
+      "source": "https://www.google.com/search?q=overclock+hersenen&sca_esv=33a1dc2b1b37aa83&sxsrf=APpeQnsvq93RH_Yv2XTlSJ8lnMbs7sR82g%3A1792746829681&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpWFun_Hbf9lrDzcGOCzTXwLF8QrRYckTcchjYAyznaoWyVNutNj3vDs5z9k0_6hM1lzEV5TC-7hhOxbSchppD-z-9ZC8&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiw69Gv5s-XAxXfif0HHbSgMrEQ2J8OegQIExAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfDiutCys1cfgF6XCX7rIisvQlwhQcUYne6kTFNvZ1hAt1ygmv3TSsPkn4-hJhsbNoja2IoMLiBtilVaR7qmkaCifuLsmiFVUM85A7zdgwLRW_VpaWKD2Y506aI12sblNfmf_aV9EAVVZ6HSuCkCtqYOTJZDarROSAuC4HULLx-LOsihfTUi9H4aO1iSM8_Sz_O3_2igJB8pw5apHZdxgXd_0bbf302Q5ohBtEGPwz47iuxSSgE1r5SupSy-BO82q5TFr_47WzOz2g&csuir=1&mtid=VCXbatT6H-Tr7_UPtarwiAI&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6426
     }
   ],
   "missing": [],
@@ -11153,7 +11164,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "Compared 91 initially open AI Mode tabs and all 300 visible history entries, followed by refreshed tabs and the latest history entries. Added 31 conversations with 156 prompts and 156 responses. All new transcripts were read back; four recent archived conversations have no additional exchanges. Preserved six vector charts, two original canvas snapshots, one original generated image and one uploaded image. The duplicate open pizza tab was reconciled with its history conversation. Two unavailable inputs in the copied pizza branch are explicitly recorded. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The accidentally regenerated Banana Cavendish thread remains excluded.",
+    "note": "Compared 93 initially open AI Mode tabs and all 300 visible history entries, followed by refreshed tabs and the latest history entries. Added one conversation with two prompts and two responses. Its complete transcript was read back; four recent archived conversations have no additional exchanges. No new interactive doodles or uploaded attachments were present. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The accidentally regenerated Banana Cavendish thread remains excluded.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -15847,445 +15858,219 @@
         "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
         "actualThread": "jLHUaq_LNons7_UPirfomA8"
       }
+    },
+    "october23MoreMedia": {
+      "openTabsInitial": 93,
+      "openTabs": 94,
+      "historyEntries": 300,
+      "historyRefreshEntries": 10,
+      "newConversations": 1,
+      "newPrompts": 2,
+      "newResponses": 2,
+      "updatedConversations": [],
+      "recentContinuationChecks": [
+        {
+          "ordinal": 1012,
+          "counts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "prior": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "samePrompts": true
+        },
+        {
+          "ordinal": 1011,
+          "counts": {
+            "prompts": 1,
+            "responses": 1
+          },
+          "prior": {
+            "prompts": 1,
+            "responses": 1
+          },
+          "samePrompts": true
+        },
+        {
+          "ordinal": 1010,
+          "counts": {
+            "prompts": 4,
+            "responses": 4
+          },
+          "prior": {
+            "prompts": 4,
+            "responses": 4
+          },
+          "samePrompts": true
+        },
+        {
+          "ordinal": 1009,
+          "counts": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "prior": {
+            "prompts": 3,
+            "responses": 3
+          },
+          "samePrompts": true
+        }
+      ],
+      "attachments": [],
+      "sourceErrorResponses": [],
+      "sourceGaps": [],
+      "media": [],
+      "unmatchedOpen": [],
+      "unmatchedHistory": [],
+      "preservedPriorMedia": true,
+      "unsentDraftExcluded": true,
+      "aliases": [],
+      "excludedRegeneratedThread": {
+        "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+        "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+        "actualThread": "jLHUaq_LNons7_UPirfomA8"
+      }
     }
   },
   "latestUpdate": {
-    "at": "2026-10-23T08:57:44.337556+00:00",
+    "at": "2026-10-23T09:58:01.292267+00:00",
     "date": "2026-10-23",
-    "batchId": "2026-10-23",
-    "openAiModeTabs": 95,
+    "batchId": "2026-10-23-more",
+    "openAiModeTabs": 94,
     "historyConversations": 300,
-    "method": "Compared 91 initially open AI Mode tabs and all 300 visible history entries, followed by refreshed tabs and the latest history entries. Added 31 conversations with 156 prompts and 156 responses. All new transcripts were read back; four recent archived conversations have no additional exchanges. Preserved six vector charts, two original canvas snapshots, one original generated image and one uploaded image. The duplicate open pizza tab was reconciled with its history conversation. Two unavailable inputs in the copied pizza branch are explicitly recorded. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The accidentally regenerated Banana Cavendish thread remains excluded.",
+    "method": "Compared 93 initially open AI Mode tabs and all 300 visible history entries, followed by refreshed tabs and the latest history entries. Added one conversation with two prompts and two responses. Its complete transcript was read back; four recent archived conversations have no additional exchanges. No new interactive doodles or uploaded attachments were present. Prior archive content, original attachments, source gaps and Captain of industry GTM remain preserved. The accidentally regenerated Banana Cavendish thread remains excluded.",
     "records": [
       {
-        "ordinal": 982,
-        "title": "Bomen Transplanteren",
-        "status": "added",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        }
-      },
-      {
-        "ordinal": 983,
-        "title": "Mandela and Gandhi Comparison",
-        "status": "added",
-        "counts": {
-          "prompts": 8,
-          "responses": 8
-        }
-      },
-      {
-        "ordinal": 984,
-        "title": "Dubai Porta Potty vs Chocolate",
-        "status": "added",
-        "counts": {
-          "prompts": 5,
-          "responses": 5
-        }
-      },
-      {
-        "ordinal": 985,
-        "title": "Callgirl Kwaliteiten En Wensen",
-        "status": "added",
-        "counts": {
-          "prompts": 17,
-          "responses": 17
-        }
-      },
-      {
-        "ordinal": 986,
-        "title": "Hardest Unsolved Science Problems",
-        "status": "added",
-        "counts": {
-          "prompts": 9,
-          "responses": 9
-        }
-      },
-      {
-        "ordinal": 987,
-        "title": "Biomechanical and Biochemical Preparations",
-        "status": "added",
-        "counts": {
-          "prompts": 15,
-          "responses": 15
-        }
-      },
-      {
-        "ordinal": 988,
-        "title": "The Accountant Movie",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 989,
-        "title": "Leading Someone On",
+        "ordinal": 1013,
+        "title": "Overclocken Van De Hersenen",
         "status": "added",
         "counts": {
           "prompts": 2,
           "responses": 2
-        }
-      },
-      {
-        "ordinal": 990,
-        "title": "Fresnel Shader Shockwave Transparent",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 991,
-        "title": "Voetbalfluitje",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 992,
-        "title": "SIM Swap to eSIM Migration",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 993,
-        "title": "Carbon Copy Letter Tracing",
-        "status": "added",
-        "counts": {
-          "prompts": 7,
-          "responses": 7
-        }
-      },
-      {
-        "ordinal": 994,
-        "title": "Voetbal Biomechanisch Biochemische Klokken",
-        "status": "added",
-        "counts": {
-          "prompts": 26,
-          "responses": 26
-        }
-      },
-      {
-        "ordinal": 995,
-        "title": "Kikvorsmannen Korps Mariniers",
-        "status": "added",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        }
-      },
-      {
-        "ordinal": 996,
-        "title": "Assad and Syrian Peshmerga",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 997,
-        "title": "Triple Fang Viper Switch",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 998,
-        "title": "Abraham Offer van Zijn Zoon",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 999,
-        "title": "Rammstein Schiphol Tower",
-        "status": "added",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        }
-      },
-      {
-        "ordinal": 1000,
-        "title": "Spectre AI Logic and Themes",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 1001,
-        "title": "Duskwood Non-interactive || UU ZZP",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 1002,
-        "title": "Miltank in Pokémon Gold",
-        "status": "added",
-        "counts": {
-          "prompts": 9,
-          "responses": 9
-        }
-      },
-      {
-        "ordinal": 1003,
-        "title": "Stalactieten En Stalagmieten Grotten",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 1004,
-        "title": "Kinderfeestje Pizza En Elite",
-        "status": "added",
-        "counts": {
-          "prompts": 10,
-          "responses": 10
-        }
-      },
-      {
-        "ordinal": 1005,
-        "title": "Dr. Oetker Vegan Pizza",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 1006,
-        "title": "5 jaar dan, maar ff serieus het was B",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 1007,
-        "title": "Martijn Belangenvereniging Estimaten",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 1008,
-        "title": "Kinderliedje Koe En Hek",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 1009,
-        "title": "BioStabil Marketing Campagne",
-        "status": "added",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        }
-      },
-      {
-        "ordinal": 1010,
-        "title": "Verkeerde Agenda Dubbel Boeken",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 1011,
-        "title": "Instant Maizena In Soep",
-        "status": "added",
-        "counts": {
-          "prompts": 1,
-          "responses": 1
-        }
-      },
-      {
-        "ordinal": 1012,
-        "title": "Een Mus in Het Park",
-        "status": "added",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
         }
       }
     ],
     "newOrdinals": [
-      982,
-      983,
-      984,
-      985,
-      986,
-      987,
-      988,
-      989,
-      990,
-      991,
-      992,
-      993,
-      994,
-      995,
-      996,
-      997,
-      998,
-      999,
-      1000,
-      1001,
-      1002,
-      1003,
-      1004,
-      1005,
-      1006,
-      1007,
-      1008,
-      1009,
-      1010,
-      1011,
-      1012
+      1013
     ]
   },
   "pdf": {
-    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23.pdf",
-    "pages": 6425,
-    "bytes": 315132118,
-    "sha256": "071958501852a5b183dcb6d3c49d641cc007cbd1d8d4a302ba267d5b90f313e1",
-    "promptMarkersVerified": 5266,
-    "responseMarkersVerified": 5269,
+    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more.pdf",
+    "pages": 6429,
+    "bytes": 317717731,
+    "sha256": "0fe6cdf7725d456f69d5be62d28766e5e5fd5de1e30be0f201f597bc52f26d70",
+    "promptMarkersVerified": 5268,
+    "responseMarkersVerified": 5271,
+    "validationMethod": "Verified unchanged body streams against the previously validated archive; fully scanned prompt/response markers in the one newly rendered chapters; rebuilt index, bookmarks and continuous footers.",
+    "volumeIndexRemoteLinks": 1071,
     "volumes": [
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-01.pdf",
-        "bytes": 30203687,
-        "sha256": "03bb95bc528c7fff1b1dfcbeac54db257fc4a223de4d5fed9eff1a532d21ca0a",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-01.pdf",
+        "bytes": 30362105,
+        "sha256": "534ead46798dfb7cd149ca9cf45cc6b56afdd4991dda0669904791f379c33ab0",
         "firstPage": 1,
         "lastPage": 453
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-02.pdf",
-        "bytes": 30602131,
-        "sha256": "fe91b7772de412a49581b03c18221389f88a8639cd12f54e3b47a8dd05cc5617",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-02.pdf",
+        "bytes": 30763758,
+        "sha256": "4260fba0f7b0e5628679a9d13cea650f8bf03c65c8210df3fda2441a2f2fdf7e",
         "firstPage": 454,
         "lastPage": 907
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-03.pdf",
-        "bytes": 34722549,
-        "sha256": "64b6e3b330b474fb2af088ce5d263491be1db6d6f0f1e1da73a2b6de30d2de66",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-03.pdf",
+        "bytes": 34885963,
+        "sha256": "29d06878935df9b733238a3096d094aae683c3b33c0eabbbbf52b5ee87f09c48",
         "firstPage": 908,
         "lastPage": 1365
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-04.pdf",
-        "bytes": 35458505,
-        "sha256": "a40fdf805b6ef40bdfeb48187011b9959275ee580fec15c81ee4d32dcc8227a5",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-04.pdf",
+        "bytes": 35619155,
+        "sha256": "ec9b9bb24b087721661f8cdebee56ffcb0b0335ac92667f67e1571272db0db2e",
         "firstPage": 1366,
         "lastPage": 1815
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-05.pdf",
-        "bytes": 44047645,
-        "sha256": "5658e2e356b72020e937cec4f0b2b69d3e89263326733834a5a0f4057a5a5a23",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-05.pdf",
+        "bytes": 44209366,
+        "sha256": "34853c8828b620eed1e6ab27c5260c9fe3ca5e733254936edfb6e22ee34298ff",
         "firstPage": 1816,
         "lastPage": 2268
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-06.pdf",
-        "bytes": 42130166,
-        "sha256": "5f8aeae62459291e54344f1835575b3de43c4881b4b49508c089b38b8092d1f5",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-06.pdf",
+        "bytes": 42297242,
+        "sha256": "30d59b0c2b48f83be896b92955f9b8447dcfca3b4e1011007e878a1e78499962",
         "firstPage": 2269,
         "lastPage": 2736
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-07.pdf",
-        "bytes": 35160633,
-        "sha256": "1d69cca54d71d551eacd72d3b1d8ccf81161b372f0d1d91374d3bc69d83acbbe",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-07.pdf",
+        "bytes": 35321283,
+        "sha256": "94254a2ccd8d6c4f8f8a95096901ce32449bcec033c28a9c90e650b2d947e0af",
         "firstPage": 2737,
         "lastPage": 3186
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-08.pdf",
-        "bytes": 20487728,
-        "sha256": "d1371a03ace917681122140c640eb60abfc3b7313abba9869d8f2d6031c0cd68",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-08.pdf",
+        "bytes": 20650878,
+        "sha256": "a3403d4538d21847f3b5dff991e0e2048c011630778125df0d621c7971f3e81d",
         "firstPage": 3187,
         "lastPage": 3643
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-09.pdf",
-        "bytes": 24655151,
-        "sha256": "49b2575efa5ca32079ce46f8745cde4b894a63f58ab5a98ad04f4a5bf85e84d6",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-09.pdf",
+        "bytes": 24819098,
+        "sha256": "a9a5520475e0504a0869f21937bc30a9dd224dda351485ab74b91f82700a5622",
         "firstPage": 3644,
         "lastPage": 4102
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-10.pdf",
-        "bytes": 19722773,
-        "sha256": "29bb2f81a2325d67db35a70cdc4446d93cde6c65fdf24333ef6eefb514f726fb",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-10.pdf",
+        "bytes": 19884174,
+        "sha256": "4f01a27de0aff341ca2835fdf37f3ee3a7d66e19b51d86dc17673a18d3033517",
         "firstPage": 4103,
         "lastPage": 4554
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-11.pdf",
-        "bytes": 28038212,
-        "sha256": "fa57034891d613387b5d226b4585da56de182474d5b10ef4dfa062d64cd4cb18",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-11.pdf",
+        "bytes": 28199641,
+        "sha256": "64b23907ecc6177176c6fdd9d75e30357647d3925a2b2e244398adb339bd4e6b",
         "firstPage": 4555,
         "lastPage": 5006
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-12.pdf",
-        "bytes": 23285283,
-        "sha256": "0375dbb360482ad4fffeb080579777e632f8f269871f4ea8a255e2b9eab79d11",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-12.pdf",
+        "bytes": 23451124,
+        "sha256": "b1562eae876d027754311a5b007d56cc81c3a51ef413c6c425606a12d5c15ee3",
         "firstPage": 5007,
         "lastPage": 5470
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-13.pdf",
-        "bytes": 20392279,
-        "sha256": "7e00ea3c466a6a9375ac6c1b5dd953b54fd8b94ac8d2debda652d6f4fc20ab83",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-13.pdf",
+        "bytes": 20555074,
+        "sha256": "bd37b15bddbe4fd7d05ed9daa2212979c1b05c1731f2ea6ff688d688f2ec7eb9",
         "firstPage": 5471,
         "lastPage": 5926
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-14.pdf",
-        "bytes": 17061881,
-        "sha256": "f1c530b7695395b36806ef77a9b3d2cb5fdb49012687441e2181812cb8316dd1",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-14.pdf",
+        "bytes": 17223316,
+        "sha256": "74dcf41800b23f2607eb2418cc2f09d6926095e44459b5a6f16e359de8be62d8",
         "firstPage": 5927,
         "lastPage": 6378
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-volume-15.pdf",
-        "bytes": 2483473,
-        "sha256": "60ff429411ea2339d977e8b739acbf9d715d190e16b1481e743da74ca801e62e",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-23-more-volume-15.pdf",
+        "bytes": 2776679,
+        "sha256": "7dbfafd39e79c608a9e6cf80b62999fa87a1711ce904f663ccede1b8567e7c26",
         "firstPage": 6379,
-        "lastPage": 6425
+        "lastPage": 6429
       }
-    ],
-    "validationMethod": "Unchanged source body streams verified against the prior archive; all 31 new chapters scanned for prompt and response markers; index, bookmarks and continuous footers verified. Volume index links resolve to the appropriate PDF volume and page.",
-    "volumeIndexRemoteLinks": 1070
+    ]
   }
 }
