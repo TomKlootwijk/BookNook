@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Compared 131 open AI Mode tabs and all 300 visible history entries. Captured thirty new conversations, then added Charles and Trump discovered in the final history refresh, for 31 new conversations with 169 prompts and 169 responses. All transcripts were read back. Expanded the Python calculation. Preserved 16 original SVG diagrams, six interactive widget HTML sources and static screenshots, two source photographs, a complete static map, and one original PDF attachment. One source PDF download is blocked and two source widgets do not render their 3D objects; these limitations are recorded with their links and available content. One adjacent duplicate accessibility heading was deduplicated. Earlier content, attachments, source gaps and Captain of industry GTM remain preserved. Unsent drafts and the previously excluded regenerated Banana Cavendish thread remain excluded.",
+  "note": "Compared all 133 open AI Mode tabs and the ten newest history entries against the previous archive. Added Beyond Good and Evil Gamecube and ARG Koeien Kosten Begroting (1061-1062), with 13 prompts and 13 responses. Both complete transcripts were read back. The previous boundary conversation, Charles and Trump (1060), was checked and remains unchanged. All six source photographs in the new conversations are embedded; there are no new interactive widgets, canvases, generated-file attachments or source access gaps. Earlier content, attachments, source gaps and Captain of industry GTM remain preserved. Unsent drafts remain excluded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -5929,5 +5929,51 @@
       "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
       "actualThread": "jLHUaq_LNons7_UPirfomA8"
     }
+  },
+  "october24MoreMedia": {
+    "openTabsInitial": 133,
+    "openTabs": 133,
+    "historyEntriesChecked": 10,
+    "historyTotalShown": 300,
+    "newConversations": 2,
+    "newPrompts": 13,
+    "newResponses": 13,
+    "updatedConversations": [],
+    "readbacks": [
+      {
+        "threadId": "88vcauzhGoqG9u8Pu4aWgQ8",
+        "counts": {
+          "prompts": 11,
+          "responses": 11
+        },
+        "sameText": true,
+        "images": 18,
+        "frames": 0
+      },
+      {
+        "threadId": "fsTcaoP-B766i-gPx6SoqAw",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameText": true,
+        "images": 10,
+        "frames": 0
+      }
+    ],
+    "priorBoundary": {
+      "ordinal": 1060,
+      "sameText": true,
+      "items": 12
+    },
+    "attachments": [],
+    "sourceErrorResponses": [],
+    "sourceGaps": [],
+    "media": [],
+    "embeddedPhotographs": 6,
+    "unmatchedOpen": [],
+    "unmatchedRecentHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true
   }
 }

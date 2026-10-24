@@ -1,0 +1,19 @@
+{
+  "batchId": "2026-10-24-more",
+  "result": "passed",
+  "pdfSha256": "b72dc33bf9836589781e95692145b2553f544759f0187fcc4e50440d09f90228",
+  "reviewedPages": [
+    1,
+    33,
+    6792,
+    6805,
+    6810
+  ],
+  "checks": [
+    "Cover totals and scope accurate",
+    "Index includes both new conversations",
+    "Source text and table readable",
+    "Page numbers and final footer correct",
+    "No clipping or overlapping content in samples"
+  ]
+}

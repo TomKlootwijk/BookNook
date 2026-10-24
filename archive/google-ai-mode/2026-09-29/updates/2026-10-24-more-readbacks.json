@@ -1,0 +1,22 @@
+[
+  {
+    "threadId": "88vcauzhGoqG9u8Pu4aWgQ8",
+    "counts": {
+      "prompts": 11,
+      "responses": 11
+    },
+    "sameText": true,
+    "images": 18,
+    "frames": 0
+  },
+  {
+    "threadId": "fsTcaoP-B766i-gPx6SoqAw",
+    "counts": {
+      "prompts": 2,
+      "responses": 2
+    },
+    "sameText": true,
+    "images": 10,
+    "frames": 0
+  }
+]

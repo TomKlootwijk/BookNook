@@ -1,0 +1,46 @@
+{
+  "openTabsInitial": 133,
+  "openTabs": 133,
+  "historyEntriesChecked": 10,
+  "historyTotalShown": 300,
+  "newConversations": 2,
+  "newPrompts": 13,
+  "newResponses": 13,
+  "updatedConversations": [],
+  "readbacks": [
+    {
+      "threadId": "88vcauzhGoqG9u8Pu4aWgQ8",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      },
+      "sameText": true,
+      "images": 18,
+      "frames": 0
+    },
+    {
+      "threadId": "fsTcaoP-B766i-gPx6SoqAw",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sameText": true,
+      "images": 10,
+      "frames": 0
+    }
+  ],
+  "priorBoundary": {
+    "ordinal": 1060,
+    "sameText": true,
+    "items": 12
+  },
+  "attachments": [],
+  "sourceErrorResponses": [],
+  "sourceGaps": [],
+  "media": [],
+  "embeddedPhotographs": 6,
+  "unmatchedOpen": [],
+  "unmatchedRecentHistory": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true
+}

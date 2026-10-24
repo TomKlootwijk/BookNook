@@ -1,0 +1,28 @@
+{
+  "pages": 6810,
+  "frontPages": 33,
+  "indexPage": 1,
+  "unchangedBodyPages": 6758,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "1061": {
+      "pages": 12,
+      "prompts": 11,
+      "responses": 11
+    },
+    "1062": {
+      "pages": 7,
+      "prompts": 2,
+      "responses": 2
+    }
+  },
+  "internalIndexLinks": 1120,
+  "prompts": 5519,
+  "responses": 5522,
+  "streamingReadbackVerified": true,
+  "nativePdfAssembly": true,
+  "priorFrontPages": 33,
+  "priorPageOffset": 0,
+  "priorFooterOverlay": true,
+  "originalBodyStreamsVerifiedAfterSave": true
+}
