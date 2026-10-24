@@ -1,0 +1,792 @@
+{
+  "openTabsInitial": 131,
+  "openTabs": 131,
+  "historyEntries": 300,
+  "newConversations": 31,
+  "newPrompts": 169,
+  "newResponses": 169,
+  "updatedConversations": [],
+  "readbacks": [
+    {
+      "threadId": "kJzcapqFAcHo7_UPw4f52AY",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "previousCounts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "jY_carnOIOGOi-gPjYCvyQ0",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "previousCounts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "IHjcaom0NtyJ9u8Pv47FwAw",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "previousCounts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "y3PcavymNaf0i-gP2beSsAE",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "previousCounts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "CG7cataIItSC9u8PzLez-QI",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "previousCounts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "XG3caurPHYWE9u8PvtCBgAk",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "previousCounts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "l2LcatA5-aaL6A-T2d35DA",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "previousCounts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "1l7cavnPHc2Ni-gPxuab2Qo",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "previousCounts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "L1bcaqYK5v_v9Q_HtdegDQ",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "previousCounts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "ND7cara9FMSdi-gPmeWYkAg",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "previousCounts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "6HncasyUJ87ji-gPtsuwwAU",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "previousCounts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "aIHcaqPNJJGdi-gP3JeCiQ0",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "previousCounts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "Pl7casTBBvaG9u8P6O6U6A8",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "previousCounts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "nZzcarjvF6bCi-gP07GBmA8",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "previousCounts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "u2bcar79BLSL9u8P7JeVqQw",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "previousCounts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "A5_caoCDBYrmi-gPwq-y2Qo",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "previousCounts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "1ZjcavCMHqeK9u8P9KSe2A4",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "previousCounts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "QZHcas2eM_TKi-gPw8eLkA4",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      },
+      "previousCounts": {
+        "prompts": 13,
+        "responses": 13
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "cYrcasPPI83Oi-gP57vm-QU",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "previousCounts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "7ozcaqugErmL9u8Pg-P7sAE",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "previousCounts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "xYXcarO6JMqP9u8PvM2s2Q4",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "previousCounts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "sX7caqCTLMusi-gPyb1C",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "previousCounts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "Tnzcap3CHpCO9u8P14_pgQQ",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "previousCounts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": [
+        "Show python code block"
+      ]
+    },
+    {
+      "threadId": "j27car2rBKrHi-gPuIXzqQI",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "previousCounts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "qGjcatyqJpPY7_UP58TMuAc",
+      "counts": {
+        "prompts": 8,
+        "responses": 7
+      },
+      "previousCounts": {
+        "prompts": 8,
+        "responses": 7
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "QmHcatuQG6yG9u8P0dWo8AI",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "previousCounts": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "nFncaoTfLM-P9u8P0rHeMA",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "previousCounts": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "SU_cav7UH-7_7_UPxaeg-QE",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "previousCounts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "SD_cao2pKJW3i-gPtf7RcA",
+      "counts": {
+        "prompts": 39,
+        "responses": 39
+      },
+      "previousCounts": {
+        "prompts": 39,
+        "responses": 39
+      },
+      "samePrompts": true,
+      "sameResponses": true,
+      "codeButtons": []
+    },
+    {
+      "threadId": "3aDcasnECJ_yi-gPzozUsAM",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "previousCounts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    },
+    {
+      "threadId": "aancasL-H8Cli-gPuNe-4Qg",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "previousCounts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "samePrompts": true,
+      "sameResponses": true
+    }
+  ],
+  "attachments": [
+    {
+      "conversation": 1039,
+      "response": 3,
+      "path": "attachments/1039-architectural-blueprint.pdf",
+      "title": "Architectural Blueprint - original PDF",
+      "sha256": "e935975e602d9ac32920d9c741c7738b04bfbf0dbe9a1fcb57f14cf848883b29",
+      "url": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6NmYxN2FkMTNhZDNmZTczNzowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlOTM3NmVjNWYxZhACGAEiD2FwcGxpY2F0aW9uL3BkZiobYXJjaGl0ZWN0dXJhbF9ibHVlcHJpbnQucGRm"
+    },
+    {
+      "conversation": 1039,
+      "response": 4,
+      "path": "attachments/1039-response-04-interactive-1.html",
+      "title": "Original interactive widget HTML",
+      "sha256": "b111036ae872826fc989c5370be9bbcea3355013ff864a79a0127871d6e73863"
+    },
+    {
+      "conversation": 1051,
+      "response": 8,
+      "path": "attachments/1051-response-08-interactive-2.html",
+      "title": "Original interactive widget HTML",
+      "sha256": "d42cd13e61e0600861ddb58bb883dbbc0c9144fdbe0d5f1331674b11ea3b4592"
+    },
+    {
+      "conversation": 1055,
+      "response": 5,
+      "path": "attachments/1055-response-05-interactive-3.html",
+      "title": "Original interactive widget HTML",
+      "sha256": "f86c5b374fa0ef71ee320d7fae74326970cdd255407e54fa5ad3241a77bb08a2"
+    },
+    {
+      "conversation": 1055,
+      "response": 6,
+      "path": "attachments/1055-response-06-interactive-4.html",
+      "title": "Original interactive widget HTML",
+      "sha256": "a5f46eda6a2baa7614f7f1730fbf3c151f912b9f2ef50e7996f1926f4c6c88d6"
+    },
+    {
+      "conversation": 1055,
+      "response": 7,
+      "path": "attachments/1055-response-07-interactive-5.html",
+      "title": "Original interactive widget HTML",
+      "sha256": "f2d2a92398d033badb2c2c2c4d2dce1a390bc63a5d9ea4dec4e9329d65e71056"
+    },
+    {
+      "conversation": 1055,
+      "response": 8,
+      "path": "attachments/1055-response-08-interactive-6.html",
+      "title": "Original interactive widget HTML",
+      "sha256": "a9a757418982be9f5dbb04b296575d163eaec48eb7900e72e1abd8e65faac7d9"
+    }
+  ],
+  "sourceErrorResponses": [],
+  "sourceGaps": [
+    {
+      "conversation": 1039,
+      "response": 5,
+      "type": "attachment",
+      "title": "Spatial Ui System Architecture PDF",
+      "reason": "The original download link returned Chrome ERR_BLOCKED_BY_CLIENT. The source link and complete surrounding response are retained."
+    },
+    {
+      "conversation": 1039,
+      "response": 4,
+      "type": "widget-render",
+      "reason": "The source stereo widget displayed its grid and controls but no 3D object, including after play/pause and reopening. Original HTML and a full static capture are retained."
+    },
+    {
+      "conversation": 1055,
+      "response": 8,
+      "type": "widget-render",
+      "reason": "The source SDF widget displayed its controls but no 3D object after play/pause. Original HTML and a full static capture are retained."
+    }
+  ],
+  "media": [
+    {
+      "threadId": "IHjcaom0NtyJ9u8Pv47FwAw",
+      "ordinal": 1044,
+      "response": 1,
+      "path": "assets/1044-response-01-diagram-1-1.svg",
+      "caption": "Grandfather Paradox: Figure-8 Knot Timeline (original source SVG)",
+      "displayedText": "Grandfather Paradox: Figure-8 Knot Timeline\nAn impossible, self-referential causal loop where the future flows directly back into the past\n−2.0\n−1.0\n0.0\n1.0\n2.0\n−1.5\n−0.5\n0.5\n1.5\nStructural Spatial Orientation\n−2.0\n−1.5\n−1.0\n−0.5\n0.0\n0.5\n1.0\n1.5\n2.0\nSymbolic Narrative Progression\nThe Patriarch / Ancestor (Past) (-1, 1)\nCrossover Point of Causal Inversion (0, 0)\nThe Descendant / Author (Future) (1, -1)",
+      "sourceUrl": "https://0oeec2r86ayjpza39zda8v5as01a45syr9dvvtk6tjm8p05n79-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "IHjcaom0NtyJ9u8Pv47FwAw",
+      "ordinal": 1044,
+      "response": 2,
+      "path": "assets/1044-response-02-diagram-2-1.svg",
+      "caption": "Inverse Logarithmic phi-prime Scaling of Time (original source SVG)",
+      "displayedText": "Inverse Logarithmic phi-prime Scaling of Time\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nLinear Absolute Time (t)\n0.0\n1.0\n2.0\n3.0\n0.5\n1.5\n2.5\nPerceived Scale of Causality (tau)\nphi-prime Crossover Threshold (0.618, 2.3)\nAsymptotic Causal Compression (5.0, 0.7)\nCausality Scale",
+      "sourceUrl": "https://68o0loczxrukh7kjir86pcecdjtfn7ftqfdurmfy0lbt8jjujn-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "IHjcaom0NtyJ9u8Pv47FwAw",
+      "ordinal": 1044,
+      "response": 3,
+      "path": "assets/1044-response-03-diagram-3-1.svg",
+      "caption": "Fractal Generational Scaling (original source SVG)",
+      "displayedText": "Fractal Generational Scaling\n0.0\n0.1\n0.2\n0.3\n0.4\n0.5\n0.6\n0.7\n0.8\n0.9\n1.0\nStructural Spatial Orientation\n0.0\n0.1\n0.2\n0.3\n0.4\n0.5\n0.6\n0.7\n0.8\n0.9\nGenerational Progression Scale\nGrandfather/Source\nFather\nDescendant",
+      "sourceUrl": "https://1l28tajfmboszw47cv2hlebqgyh3iaf2izmxq2q8lbt81bnbsx-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "nZzcarjvF6bCi-gP07GBmA8",
+      "ordinal": 1032,
+      "response": 3,
+      "path": "assets/1032-response-03-diagram-1-1.svg",
+      "caption": "Natural Pinhole Camera Effect (Camera Obscura) in a Forest (original source SVG)",
+      "displayedText": "Natural Pinhole Camera Effect (Camera Obscura) in a Forest\nSun\nPinhole Aperture\nInverted Image of the Sun (Crescent during Eclipse)\nDense Leaf Canopy\nForest Floor\nLight Rays\nSun",
+      "sourceUrl": "https://0zmzw8osf79z9nz3lxhw1jeyrvb42z2m2awja0prlch1aa4ee5-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "nZzcarjvF6bCi-gP07GBmA8",
+      "ordinal": 1032,
+      "response": 4,
+      "path": "assets/1032-response-04-diagram-2-1.svg",
+      "caption": "Biological Coordinate Transformation Model (original source SVG)",
+      "displayedText": "Biological Coordinate Transformation Model\nMatrix Operator Conversion\nLinear Cellular Sheet (Epidermis)\nBranching Network (Mycelial)\nCartesian Matrix Grid\nMatrix Operator Conversion\nPolar Network Grid",
+      "sourceUrl": "https://0f8wg2ex3xl63dthfhd7pjjt0lyjh21s4344bicg5qzn3ldr1o-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "QZHcas2eM_TKi-gPw8eLkA4",
+      "ordinal": 1035,
+      "response": 11,
+      "path": "assets/1035-response-11-diagram-1-1.svg",
+      "caption": "Coordinate-Free Structural Boundary Interface (Φ_λ Topology) (original source SVG)",
+      "displayedText": "Coordinate-Free Structural Boundary Interface (Φ_λ Topology)\n0.0\n0.1\n0.2\n0.3\n0.4\n0.5\n0.6\n0.7\n0.8\n0.9\n1.0\nInverse Logarithmic Decay Parameter (X)\n−2.0\n−1.5\n−1.0\n−0.5\n0.0\n0.5\n1.0\n1.5\n2.0\nSigned Impedance Metric (Z)\nCoordinate-Free Surface Boundary (Z=0)\nSigned Impedance Field (Z)",
+      "sourceUrl": "https://3fnrxtaj6q35n60e5873u1tz5odcv2zf4aya5cn6mh0rykr4qo-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "cYrcasPPI83Oi-gP57vm-QU",
+      "ordinal": 1038,
+      "response": 7,
+      "path": "assets/1038-response-07-diagram-1-1.svg",
+      "caption": "Bio-Mechanical Matrix Enclosure (BMME) Architecture (original source SVG)",
+      "displayedText": "Bio-Mechanical Matrix Enclosure (BMME) Architecture\nCryptographic validation sequence connecting digital seed tracking to optical protection constructs\nBIOCHEMICAL LAYER\nBIOMECHANICAL LAYER\n• Data Encryption (Seed Packing)\n• SHA-256 Footprint Hash Matrix\n• Chemical Ink Substrate Bonding\n• 14.29mm Physical Dual Lanes\n• Kinematic Hand-Guided Tracking\n• Holographic Protective Grid Overlay\nTAMPER-PROOF CRYPTOGRAPHIC CELL\nBiochemical Layer\nBiomechanical Layer\nCore Locking Junction\ntriangle-down\ntriangle-up\nCore Locking Junction",
+      "sourceUrl": "https://2xxdqfd3a84ku1xfxn0cremgmp0im07lnyphncal69pxn84g4b-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "xYXcarO6JMqP9u8PvM2s2Q4",
+      "ordinal": 1039,
+      "response": 2,
+      "path": "assets/1039-response-02-diagram-1-1.svg",
+      "caption": "Kinematic Calculus LUT Transition Stages (original source SVG)",
+      "displayedText": "Kinematic Calculus LUT Transition Stages\nInput Phase (0)\nTransformation Phase (1)\nConvergence Phase (2)\nOutput Verification (3)\nStructural Parameter State Progression\n0.0\n1.0\n2.0\n0.2\n0.4\n0.6\n0.8\n1.2\n1.4\n1.6\n1.8\n2.2\n2.4\nNormalized Kinematic Tensor Magnitude\nASA Multiplexer Core Threshold\nCrosshair Convergence Peak\nEigenvector Acceleration Vector\nRelativistic Clock Frequency Matrix",
+      "sourceUrl": "https://1580rllp9gxmdalpg4ou1pz5kbi3y7fo9drhkqt72825sloynk-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "xYXcarO6JMqP9u8PvM2s2Q4",
+      "ordinal": 1039,
+      "response": 3,
+      "path": "assets/1039-response-03-diagram-2-1.svg",
+      "caption": "Kinematic Calculus LUT Transition Stages (original source SVG)",
+      "displayedText": "Kinematic Calculus LUT Transition Stages\nInput Phase (0)\nTransformation Phase (1)\nConvergence Phase (2)\nOutput Verification (3)\nx\n0.0\n0.2\n0.4\n0.6\n0.8\n1.0\n1.2\n1.4\n1.6\n1.8\n2.0\n2.2\n2.4\nNormalized Kinematic Tensor Magnitudes\nASA Multiplexer Core Threshold\nCrosshair Convergence Peak\nEigenvector Acceleration Vector\nRelativistic Clock Frequency Matrix",
+      "sourceUrl": "https://2s4s8lc5l1jidx60disknn59p72tixl3s7xdmwvqibl4qgm87p-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "xYXcarO6JMqP9u8PvM2s2Q4",
+      "ordinal": 1039,
+      "response": 5,
+      "path": "assets/1039-response-05-diagram-4-1.svg",
+      "caption": "Kinematic Calculus LUT Transition Stages (original source SVG)",
+      "displayedText": "Kinematic Calculus LUT Transition Stages\nInput Phase (0)\nTransformation (1)\nConvergence (2)\nOutput Verify (3)\nStructural Parameter State Progression\n0.0\n0.2\n0.4\n0.6\n0.8\n1.0\n1.2\n1.4\n1.6\n1.8\n2.0\n2.2\n2.4\nNormalized Kinematic Tensor Magnitude\nCrosshair Convergence Peak\nASA Multiplexer Core Threshold\nEigenvector Acceleration Vector\nRelativistic Clock Frequency Matrix",
+      "sourceUrl": "https://4u1btxvnqjgik3y8zxel2zkhbzfybu9gi6bj7qyba6abrfxzlu-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "xYXcarO6JMqP9u8PvM2s2Q4",
+      "ordinal": 1039,
+      "response": 6,
+      "path": "assets/1039-response-06-diagram-5-1.svg",
+      "caption": "Dual-Clock System Synchronization Curves (original source SVG)",
+      "displayedText": "Dual-Clock System Synchronization Curves\n0\n5\n10\n15\n20\n25\n30\n35\n40\n45\n50\n55\n60\n65\n70\n75\n80\n85\n90\n95\n100\nTime Step Index (ms)\n0.0\n1.0\n2.0\n3.0\n0.5\n1.5\n2.5\nNormalized Frequency and Viscosity Amplitidues\nUnified Synchronization Core (Step 45, 2.4)\nAtomic Clock Reference Frequency\nChemical Fluid Reaction Rate\nMiasmatic Ferrofluid Viscosity Tensor (Mu Mu)",
+      "sourceUrl": "https://1ss2tslssubgqbm613l4bzkq3uszag2gw1uadava9tmgyjmy4j-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "QmHcatuQG6yG9u8P0dWo8AI",
+      "ordinal": 1051,
+      "response": 7,
+      "path": "assets/1051-response-07-diagram-1-1.svg",
+      "caption": "Dual-Path Hysteresis System Loop (original source SVG)",
+      "displayedText": "Dual-Path Hysteresis System Loop\n−10\n−8\n−6\n−4\n−2\n0\n2\n4\n6\n8\n10\nInput Voltage (V)\n−1.2\n−1.0\n−0.8\n−0.6\n−0.4\n−0.2\n0.0\n0.2\n0.4\n0.6\n0.8\n1.0\n1.2\nSystem State / Polarization\n►\n◄\nMark HVT (+8V)\nDischarge Threshold (-8V)\nrutteR-val Hysteresis Memory Loop\nLower Path (Upward)\nUpper Path (Downward)",
+      "sourceUrl": "https://5uftjfa43n0c3ehihbwawpi4rhqbid9z6vm6ytxcg79fcrovx8-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "nFncaoTfLM-P9u8P0rHeMA",
+      "ordinal": 1055,
+      "response": 4,
+      "path": "assets/1055-response-04-diagram-1-1.svg",
+      "caption": "FMCW Radar Chirp Signal Principle (original source SVG)",
+      "displayedText": "FMCW Radar Chirp Signal Principle\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\nTime (μs)\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\nFrequency (GHz)\nBeat Frequency (Δf)\nReceived Echo\nTransmitted Chirp",
+      "sourceUrl": "https://1cs5ayviryv2zqc7sa4fm5v8ps4dvrklo5d596da3vs033c7j9-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "SD_cao2pKJW3i-gPtf7RcA",
+      "ordinal": 1058,
+      "response": 11,
+      "path": "assets/1058-response-11-diagram-1-1.svg",
+      "caption": "Varifocal Lens Ray Trace & Multiplex Stereoscopic Split (original source SVG)",
+      "displayedText": "Varifocal Lens Ray Trace & Multiplex Stereoscopic Split\n−100\n−80\n−60\n−40\n−20\n0\n20\n40\n60\n80\n100\n120\n140\nOptical Axis Z-depth (mm)\n−80\n−60\n−40\n−20\n0\n20\n40\n60\n80\nLateral Beam Displacement (mm)\nFocal Point\nApex (0,0)\nUpper Screen (DS-1)\nPupil Aperture\nLower Screen (DS-2)",
+      "sourceUrl": "https://5pra9yssi48m1qunii7o6mb110ehzi5p46xm8kzk8o2cbr5a31-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "SD_cao2pKJW3i-gPtf7RcA",
+      "ordinal": 1058,
+      "response": 12,
+      "path": "assets/1058-response-12-diagram-2-1.svg",
+      "caption": "Phase Drift Error Optimization (original source SVG)",
+      "displayedText": "Phase Drift Error Optimization\n0\n5\n10\n15\n20\n25\n30\n35\n40\n45\n50\n55\n60\n65\n70\n75\n80\n85\n90\n95\n100\nTime Steps\n−20\n−10\n0\n−25\n−15\n−5\n5\nPhase Deviation (arbitrary units)\nPLL Corrected Alignment\nUncalibrated Chemical Drift",
+      "sourceUrl": "https://4eqbsq4t7peepth3a3zoc99l3o7gb4lsfx8d659gtiwrs0vufo-h998661601.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "xYXcarO6JMqP9u8PvM2s2Q4",
+      "ordinal": 1039,
+      "response": 4,
+      "path": "assets/1039-response-04-interactive-1.svg",
+      "caption": "Interactive source diagram (captured view; original HTML included)",
+      "displayedText": "LEFT EYE\nRIGHT EYE\nplay_arrow\nSpace Geometry\nCartesian\nWarp Factor\n0.25λ\nNoise State\n3.0 Hz\nCoordinate System Mix\n0.00\nDomain Warp Intensity\n0.25\nNeural Noise Frequency\n3.0",
+      "sourceUrl": "https://325q4z89ohk2u06hk4aliwgb27x6689k7op0haykkfoivr7o49-h998661601.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+      "htmlPath": "assets/1039-response-04-interactive-1.html",
+      "viewportPath": "assets/1039-response-04-interactive-1-viewport.jpg",
+      "screenshotRect": {
+        "height": 442,
+        "width": 652,
+        "x": 295.78125,
+        "y": 194.125
+      },
+      "captureVerified": true,
+      "archivedHtmlPath": "attachments/1039-response-04-interactive-1.html"
+    },
+    {
+      "threadId": "QmHcatuQG6yG9u8P0dWo8AI",
+      "ordinal": 1051,
+      "response": 8,
+      "path": "assets/1051-response-08-interactive-2.svg",
+      "caption": "Interactive source diagram (captured view; original HTML included)",
+      "displayedText": "play_arrow\n+M (Magnetization)\n-M\n+H (Field)\n-H\n1.0\n-1.0\n1.0\n-1.0\nSpatiotemporal Lattice Profiles\n60 Domains\nApplied Field (H)\nResponse (M)\nTom Klootwijk NL200678942\nDrive Field\n-0.82 Oe\nMagnetization\n0.07 emu\nHysteresis Loss\n0.31 J/m³\nMaximum Field Strength\n1.20\nMemory Lag Factor\n0.40\nExcitation Frequency\n1.0 Hz",
+      "sourceUrl": "https://325q4z89ohk2u06hk4aliwgb27x6689k7op0haykkfoivr7o49-h998661601.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+      "htmlPath": "assets/1051-response-08-interactive-2.html",
+      "viewportPath": "assets/1051-response-08-interactive-2-viewport.jpg",
+      "screenshotRect": {
+        "height": 488,
+        "width": 652,
+        "x": 295.78125,
+        "y": 115.125
+      },
+      "captureVerified": true,
+      "archivedHtmlPath": "attachments/1051-response-08-interactive-2.html"
+    },
+    {
+      "threadId": "nFncaoTfLM-P9u8P0rHeMA",
+      "ordinal": 1055,
+      "response": 5,
+      "path": "assets/1055-response-05-interactive-3.svg",
+      "caption": "Interactive source diagram (captured view; original HTML included)",
+      "displayedText": "play_arrow\n0m\n30m\n60m\n90m\n120m\nRange (Distance Axis)\n-50 m/s\n-25 m/s\n0 m/s\n+25 m/s\n+50 m/s\nVelocity (Doppler Shift)\nTarget Locked\nBeat Freq Fb\n17.33 MHz\nDoppler Shift\n7.70 kHz\nTime of Flight\n433.3 ns\nK-chirp-rate (Sweep Slope)\n40 MHz/μs\nTarget Range\n65 m\nTarget Velocity\n+15 m/s",
+      "sourceUrl": "https://325q4z89ohk2u06hk4aliwgb27x6689k7op0haykkfoivr7o49-h998661601.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+      "htmlPath": "assets/1055-response-05-interactive-3.html",
+      "viewportPath": "assets/1055-response-05-interactive-3-viewport.jpg",
+      "screenshotRect": {
+        "height": 537,
+        "width": 652,
+        "x": 295.78125,
+        "y": 136.0416717529297
+      },
+      "captureVerified": true,
+      "archivedHtmlPath": "attachments/1055-response-05-interactive-3.html"
+    },
+    {
+      "threadId": "nFncaoTfLM-P9u8P0rHeMA",
+      "ordinal": 1055,
+      "response": 6,
+      "path": "assets/1055-response-06-interactive-4.svg",
+      "caption": "Interactive source diagram (captured view; original HTML included)",
+      "displayedText": "Atomic Generator\nTau Phase (τ)\nMu Product (μ)\nLog-Grid Scale\nplay_arrow\nLANL-LOG-GRIDDER // SIM_STATUS: ACTIVE\n1D_ARROW_OF_TIME_CLOCK\nEntropy / Arrow of Time ➔\nAtomic Core\n45.96 GHz\n0.00x\n0.47x\n0.72x\n0.88x\n1.00x\nNon-Linear Chemical Clock Cascade\nInverse Logarithmic Metric Mesh Configuration (LANL Mode)\nMaster Time\n62.10s\nGrid Entropy\n96.0 J/K\nMesh Status\nCOUPLED\nAtomic Frequency Drive\n5.0x\nChemical Entropy Rate\n1.5x",
+      "sourceUrl": "https://325q4z89ohk2u06hk4aliwgb27x6689k7op0haykkfoivr7o49-h998661601.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+      "htmlPath": "assets/1055-response-06-interactive-4.html",
+      "viewportPath": "assets/1055-response-06-interactive-4-viewport.jpg",
+      "screenshotRect": {
+        "height": 557,
+        "width": 652,
+        "x": 295.78125,
+        "y": 126.375
+      },
+      "captureVerified": true,
+      "archivedHtmlPath": "attachments/1055-response-06-interactive-4.html"
+    },
+    {
+      "threadId": "nFncaoTfLM-P9u8P0rHeMA",
+      "ordinal": 1055,
+      "response": 7,
+      "path": "assets/1055-response-07-interactive-5.svg",
+      "caption": "Interactive source diagram (captured view; original HTML included)",
+      "displayedText": "play_arrow\n∇²Φ = H ⊙ H × (1 - λ)\nConvergence\n0.0%\nSymmetry Order\n4.00x\nOperator H ⊙ H\n0.000\nDouble Hadamard Blend Operator (λ)\n0.00\nVisualization Geometry\n3D Screw Head\nCross-Section Profile",
+      "sourceUrl": "https://325q4z89ohk2u06hk4aliwgb27x6689k7op0haykkfoivr7o49-h998661601.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+      "htmlPath": "assets/1055-response-07-interactive-5.html",
+      "viewportPath": "assets/1055-response-07-interactive-5-viewport.jpg",
+      "screenshotRect": {
+        "height": 580,
+        "width": 652,
+        "x": 295.78125,
+        "y": 114.45833587646484
+      },
+      "captureVerified": true,
+      "archivedHtmlPath": "attachments/1055-response-07-interactive-5.html"
+    },
+    {
+      "threadId": "nFncaoTfLM-P9u8P0rHeMA",
+      "ordinal": 1055,
+      "response": 8,
+      "path": "assets/1055-response-08-interactive-6.svg",
+      "caption": "Interactive source diagram (captured view; original HTML included)",
+      "displayedText": "SDF Sphere Model (r = 1.2)\nDrag space canvas to orbit & inspect field vectors\nplay_arrow\nGrid Topology\n9% Mixed\nMarching Steps\n4.2 steps\nConvergence\nΔ 0.012\nCoordinate Transform (Apex Slider)\nRaster\nPolar\n9%\nRaymarched SDF Primitive\nVolumetric Sphere\nexpand_more\nVolumetric Sphere\nApex Eigenvector Cone\nMatrix Crossroads Grid",
+      "sourceUrl": "https://325q4z89ohk2u06hk4aliwgb27x6689k7op0haykkfoivr7o49-h998661601.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+      "htmlPath": "assets/1055-response-08-interactive-6.html",
+      "viewportPath": "assets/1055-response-08-interactive-6-viewport.jpg",
+      "screenshotRect": {
+        "height": 570,
+        "width": 652,
+        "x": 295.78125,
+        "y": 163.95834350585938
+      },
+      "captureVerified": true,
+      "archivedHtmlPath": "attachments/1055-response-08-interactive-6.html"
+    },
+    {
+      "ordinal": 1060,
+      "threadId": "aancasL-H8Cli-gPuNe-4Qg",
+      "response": 3,
+      "path": "assets/1060-response-03-diagram-1.svg",
+      "caption": "Original diagram from Google AI Mode.",
+      "displayedText": "Composition Growth: 31 + phi^x\n0.0\n1.0\n2.0\n3.0\n4.0\n5.0\n0.5\n1.5\n2.5\n3.5\n4.5\nLog Exponent Modifier (x)\n30\n32\n34\n36\n38\n40\n42\n44\nTotal Parts\nx=0 Baseline (32.0)\nx=1 (32.62)\nTarget Value (42.09 parts)\nundefined\nComposition Growth"
+    }
+  ],
+  "unmatchedOpen": [],
+  "unmatchedHistory": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true,
+  "normalizations": [
+    {
+      "conversation": 1049,
+      "kind": "duplicate-prompt-heading",
+      "note": "One adjacent accessibility heading repeated the same visible user prompt and was deduplicated. Original intake capture remains in the local capture folder."
+    }
+  ],
+  "expandedPythonReadback": true,
+  "map": {
+    "conversation": 1058,
+    "response": 3,
+    "ephemeralTiles": 8,
+    "completeStaticMapPreserved": true
+  },
+  "aliases": [],
+  "excludedRegeneratedThread": {
+    "reason": "Simplifying the mobile source URL opened a different thread. This generated page is excluded from the source archive.",
+    "requestedThread": "xTnUarfPDNfAi-gPgJjEyA8",
+    "actualThread": "jLHUaq_LNons7_UPirfomA8"
+  }
+}

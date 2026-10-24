@@ -1,0 +1,233 @@
+{
+  "reviewedAt": "2026-10-24T13:14:32.675110+00:00",
+  "newPagesRendered": 278,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 14,
+  "headingMinimumPt": 20,
+  "highResolutionReview": [
+    6587,
+    6589,
+    6590,
+    6596,
+    6615,
+    6671,
+    6689,
+    6692,
+    6695,
+    6698,
+    6710,
+    6786,
+    6790
+  ],
+  "sourceGaps": [
+    {
+      "conversation": 1039,
+      "response": 5,
+      "type": "attachment",
+      "title": "Spatial Ui System Architecture PDF",
+      "reason": "The original download link returned Chrome ERR_BLOCKED_BY_CLIENT. The source link and complete surrounding response are retained."
+    },
+    {
+      "conversation": 1039,
+      "response": 4,
+      "type": "widget-render",
+      "reason": "The source stereo widget displayed its grid and controls but no 3D object, including after play/pause and reopening. Original HTML and a full static capture are retained."
+    },
+    {
+      "conversation": 1055,
+      "response": 8,
+      "type": "widget-render",
+      "reason": "The source SDF widget displayed its controls but no 3D object after play/pause. Original HTML and a full static capture are retained."
+    }
+  ],
+  "originalErrorResponsesPreserved": [],
+  "chapters": [
+    {
+      "conversation": 1030,
+      "pages": 13,
+      "sha256": "0ba3361409b9e09cca6ac7de859450044af6fcc58f12892259110a139624adec",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1031,
+      "pages": 6,
+      "sha256": "95a459b400949487eafa66cf8d9deca63af4b0c5e80b57d3e9f2f8f674df2f6c",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1032,
+      "pages": 6,
+      "sha256": "623de7ec8b0907525bc1ef082c712cbd01ce20ba7cc2522b54d368b446a56fb5",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1033,
+      "pages": 2,
+      "sha256": "86c9ce7f624e175b2b743f136a084bf1ae34e7c9a0e4be8adf2fba686557ab72",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1034,
+      "pages": 4,
+      "sha256": "5a17c2a2021ba6db67311910fa07a44cd3f8e42038006069a452ed2071028435",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1035,
+      "pages": 22,
+      "sha256": "1cfcff1d7d8cef438f97b118bb57ca15ff01d7c09bcdcd6c9b473a9bef061883",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1036,
+      "pages": 3,
+      "sha256": "4a78581e4a3b9f21dee0923ad1fbeb877d0c89fb21d799980c1c19165c058fd4",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1037,
+      "pages": 8,
+      "sha256": "3648f7e3dc91502b44c02b2e4abb070fb8a82d630e1c061888dfa86496143acc",
+      "maxHeadingPt": 20.999505877020553
+    },
+    {
+      "conversation": 1038,
+      "pages": 9,
+      "sha256": "01ef0a1fc3789b4a37e32eda004ae98dab6ebf72ce79652da1208a41c982a7a8",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1039,
+      "pages": 14,
+      "sha256": "49740d564294a9bb8508a0a2c3c59d67678e10b68f08c9941425860d50c23413",
+      "maxHeadingPt": 20.75074089538576
+    },
+    {
+      "conversation": 1040,
+      "pages": 9,
+      "sha256": "dfacbf0041fd884fb8b5fdce09c7360d3e35c02524e4f4bbc1268b87a8d11fa8",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1041,
+      "pages": 2,
+      "sha256": "e558325e8f40d1301fd59791e612c84d4b9d3473ee70bbb9582c495f31365435",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1042,
+      "pages": 6,
+      "sha256": "febf05760bffff66342f0772ffffc2bdf69b879381e5d326c1aac8224ebe8269",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1043,
+      "pages": 4,
+      "sha256": "048e406311d96b299f614254fb08ed0deb4be0ffc50e137aba32b61cb45da8b5",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1044,
+      "pages": 7,
+      "sha256": "8bda129f2b74961e77af5f36eac39a8a780c55a677431d9dc11cb879535d4833",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1045,
+      "pages": 1,
+      "sha256": "a2d644cdcff7e2b8f4a1f9d2ff9fb87e551505507dc8c4ae38b8cc15fcb38eb9",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1046,
+      "pages": 9,
+      "sha256": "04b883d2563e9977eaafd19b7a315d18e28d058fdac071689faac32595967bf4",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1047,
+      "pages": 2,
+      "sha256": "7f1485b138daea6732a43a16c7c16f92fbdb02a42d2d7f6f5fa171e22a9688c6",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1048,
+      "pages": 4,
+      "sha256": "c5c6b24c7e997f244999d33d21747714ef48c127e2670a1e759a9f879260d13d",
+      "maxHeadingPt": 20.733437568106734
+    },
+    {
+      "conversation": 1049,
+      "pages": 10,
+      "sha256": "afc412c30a9459a0a88172e6bebf1b888cad6a99b868320ef37918a6a70860d8",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1050,
+      "pages": 4,
+      "sha256": "360b90ef3c98193896457e3712be9f4e96c37e37878e97abb3a0e40e0ccfdef1",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1051,
+      "pages": 13,
+      "sha256": "dcc5b40f79be49968266239d8f478f958606601981d87d57ba40bebc40e95da1",
+      "maxHeadingPt": 20.75074089538576
+    },
+    {
+      "conversation": 1052,
+      "pages": 1,
+      "sha256": "72029d65b21b8d032f1a2a08922afa5ac2b47944737d31f0ef0845a0684c8794",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1053,
+      "pages": 5,
+      "sha256": "a1b47584bf7b0dc1e90aec6458b2e229bab3d6efc42d7a7d97a601a2070a9110",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1054,
+      "pages": 3,
+      "sha256": "565a486e1930b8ba0afbb4a4dba7408960386e86e9b23062446b634b956d24ea",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1055,
+      "pages": 19,
+      "sha256": "d659a9e9b09a33ca95c5b5d623f60822d981b843de40648eadfc61a912871283",
+      "maxHeadingPt": 20.75074089538576
+    },
+    {
+      "conversation": 1056,
+      "pages": 4,
+      "sha256": "c2ca261824d3b372eed4049a8ebe1a920d33307c279fa20e75e0925763f7030a",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1057,
+      "pages": 4,
+      "sha256": "5c18fb99e574bc529b29c65747ebc91b373f1485a822ba392407a65be49f9983",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1058,
+      "pages": 70,
+      "sha256": "4f58af4369db3ade0fab1017d8438e2b335ea9d8493a97c02e651b4c792eb598",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1059,
+      "pages": 4,
+      "sha256": "0501258131bb0d0fed4c06bebc44f9873c4ad395b05a7bfeab49344249cdad3d",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1060,
+      "pages": 10,
+      "sha256": "19f9629e6b5ce97595c28eda7c43bf23267b63a37d2a5d5e1d41681ad8fdb65d",
+      "maxHeadingPt": 20.999999125
+    }
+  ],
+  "result": "passed"
+}

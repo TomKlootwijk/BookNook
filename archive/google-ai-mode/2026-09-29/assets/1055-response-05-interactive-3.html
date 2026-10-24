@@ -1,0 +1,1416 @@
+<html lang="en-NL" dir="ltr"><head>
+      <meta data-sandbox-injected="" http-equiv="Content-Security-Policy" content="
+          default-src 'none';
+          base-uri 'none';
+          connect-src https://fonts.gstatic.com https://www.gstatic.com;
+          font-src https://fonts.gstatic.com data:;
+          form-action 'none';
+          
+          worker-src blob: https://*.scf.usercontent.goog;
+          img-src data: https://encrypted-tbn0.gstatic.com https://encrypted-tbn1.gstatic.com https://encrypted-tbn2.gstatic.com https://encrypted-tbn3.gstatic.com ;
+          media-src 'none';
+          object-src 'none';
+          script-src 'unsafe-inline' 'unsafe-eval' https://www.gstatic.com https://widgetlibs.static.usercontent.goog https://*.scf.usercontent.goog;
+          style-src 'unsafe-inline' 'unsafe-eval' https://fonts.googleapis.com https://www.gstatic.com/;">
+      <meta data-sandbox-injected="" charset="UTF-8">
+      <meta data-sandbox-injected="" name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="enable-onep-api" content="false"><script data-sandbox-injected="true">(function(){var g=Object.defineProperty,k=globalThis,l=function(a,b){if(b)a:{var c=k;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&g(c,a,{configurable:!0,writable:!0,value:b})}};l("Promise.withResolvers",function(a){return a?a:function(){var b,c;return{promise:new Promise(function(d,e){b=d;c=e}),resolve:b,reject:c}}});var m=function(a){return typeof a==="object"&&a!==null&&"kind"in a&&typeof a.kind==="string"&&("payload"in a||a.kind==="___CROSS_FRAME_HANDSHAKE___")},n=class{constructor(){this.j=new Map}i(a){var b=a.data;if(m(b)){let c=b.payload;if(b=this.j.get(b.kind))(a=a.ports&&a.ports.length>0?a.ports:void 0)?b(c,a):b(c)}}sendMessage(a,b,c){if(!this.port)throw Error("a");a={kind:String(a),payload:b||{}};c&&c.length>0?this.port.postMessage(a,c):this.port.postMessage(a)}},p=async function(a){var b=window.parent;
+return a.h?{}:new Promise(c=>{var d=e=>{e.source===b&&m(e.data)&&e.data.kind==="___CROSS_FRAME_HANDSHAKE___"&&(window.removeEventListener("message",d),a.port=e.ports[0],a.port.onmessage=a.i.bind(a),a.h=!0,c(e.data.payload||{}))};window.addEventListener("message",d)})},q=class extends n{constructor(){super(...arguments);this.h=!1}};if(typeof window!=="undefined"&&window.history){let a=window.history.replaceState.bind(window.history);window.history.replaceState=(c,d,e)=>{try{a(c,d,e)}catch{}};let b=window.history.pushState.bind(window.history);window.history.pushState=(c,d,e)=>{try{b(c,d,e)}catch{}}}
+if(typeof window!=="undefined"&&window.fetch){let a=window.fetch.bind(window);window.fetch=async(...b)=>{try{return await a(...b)}catch(c){b=b[0];b=typeof b==="string"?b:b&&typeof b==="object"&&"url"in b?String(b.url||""):String(b||"");if(b.includes("tracking")||b.includes("analytics")||b.includes("beacon"))return new Response(null,{status:204});throw c;}}}var {promise:r,resolve:t}=Promise.withResolvers(),{promise:u,resolve:v}=Promise.withResolvers(),w=!1;
+(async function(){var a=new q,b=await p(a);b&&b.enableSandboxToEditorSync&&(w=!!b.enableSandboxToEditorSync);if(b&&b.initialPayload){let c=b.initialPayload;window.initialPayload=c;window.setTimeout(()=>{window.dispatchEvent(new MessageEvent("message",{data:c}))},0)}t(a);(a=a.port)&&v(a)})();function x(a){r.then(b=>{b.sendMessage("ERROR",{error:a})})}window.onerror=(a,b,c,d,e)=>{x(e);return!0};
+window.onunhandledrejection=a=>{var b=String(a.reason||"");b.includes("Failed to fetch")||b.includes("Content Security Policy")||b.includes("replaceState")||x(Error(a.reason));a.preventDefault()};
+window.document.addEventListener("DOMContentLoaded",()=>{r.then(a=>{a.sendMessage("ISOLATE_READY",{});var b=window.document.querySelector("#resize-target")||window.document.body,c=NaN,d=NaN,e=!1;(new ResizeObserver(()=>{e||(e=!0,window.requestAnimationFrame(()=>{e=!1;var f=Math.ceil(b.scrollHeight),h=Math.ceil(b.scrollWidth);f===c&&h===d||f===0&&h===0||(c=f,d=h,a.sendMessage("RESIZE",{height:f,width:h}))}))})).observe(b);if(w){let f;(new MutationObserver(()=>{f&&window.clearTimeout(f);f=window.setTimeout(()=>
+{f=void 0;a.sendMessage("HTML_CHANGED",{html:"<!DOCTYPE html>\n"+window.document.documentElement.outerHTML})},500)})).observe(window.document.documentElement,{attributes:!0,childList:!0,subtree:!0,characterData:!0})}})});window.addEventListener("resizeRequest",()=>{r.then(a=>{var b=window.document.querySelector("#resize-target")||window.document.body,c=Math.ceil(b.scrollHeight);b=Math.ceil(b.scrollWidth);c===0&&b===0||a.sendMessage("MANUAL_RESIZE",{height:c,width:b})})});
+function y(a){var b=null;a instanceof Element?b=a:a&&a.nodeType===Node.TEXT_NODE&&(b=a.parentElement);if(!b)return null;for(a=b;a&&a!==window.document.body;){if(a.matches('a,button,input,textarea,select,option,details,summary,area,[jsaction],[data-jsaction],[role],[tabindex]:not([tabindex="-1"])'))return z(a);if(a instanceof HTMLElement&&a.isContentEditable)return z(a);a=a.parentElement}return null}
+function z(a){var b={tagName:a.tagName.toUpperCase(),attributes:{}},c=["role","jsaction","data-jsaction","tabindex"];for(let d of c)c=a.getAttribute(d),c!==null&&(b.attributes[d]=c);a instanceof HTMLElement&&a.isContentEditable&&(b.isContentEditable=!0);return b}window.addEventListener("click",a=>{var b=(a=a.target)?y(a):null;r.then(c=>{c.sendMessage("CLICK",{matchedNode:b})})},!0);
+window.addEventListener("request_window_open",a=>{var b=a.detail;r.then(c=>{c.sendMessage("REQUEST_WINDOW_OPEN",{url:b.url,hostname:b.hostname,target:b.target,features:b.features,skipConfirmation:b.skipConfirmation})})});window.sandboxConsoleLog=(a,b)=>{r.then(c=>{c.sendMessage("CONSOLE_LOG",{logLevel:a,message:b})})};if(document.querySelector('meta[name="enable-onep-api"]')?.getAttribute("content")==="true"){let a=!1;window.claimPortReady=()=>{if(a)return null;a=!0;return u}}window.logError=x;}).call(this);</script><script>(function(){function e(a){return["https://www.google.com/maps/","https://maps.google.com/","https://www.youtube.com/watch?v=","https://www.youtube.com/v/","https://youtu.be/"].some(b=>a.startsWith(b))}window.open=(a,b,c)=>{var d,g=!1;if(a)try{if(d=a instanceof URL?a.toString():String(a)){var n=(new URL(d,window.location.href)).hostname;g=e(d)}}catch(p){}window.dispatchEvent(new CustomEvent("request_window_open",{detail:{url:d,hostname:n,target:b,features:c,h:g}}));return null};var f,h,k;
+function l(a){a.button===0&&((f=a=(a.target instanceof Element?a.target:null)?.closest("a")??void 0)?(a=a.getBoundingClientRect(),h=a.left,k=a.top):k=h=void 0)}function m(){k=h=f=void 0}window.addEventListener("pointerdown",l,!0);window.addEventListener("mousedown",l,!0);window.addEventListener("pointercancel",m,!0);
+window.addEventListener("click",a=>{var b=(a.target instanceof Element?a.target:null)?.closest("a"),c=b?.getBoundingClientRect();c=a.detail>0&&b!=null&&f===b&&c!==void 0&&h!==void 0&&k!==void 0&&(Math.abs(c.left-h)>5||Math.abs(c.top-k)>5);m();if(b&&b.hasAttribute("href")){b=b.getAttribute("href")??"";var d=b.trim();if(!d.startsWith("#"))if(d=d.replace(/[\u0000-\u0020]+/g,""),d===""||/^javascript:/i.test(d))a.preventDefault();else if(c||a.defaultPrevented)a.preventDefault(),a.stopPropagation();else{c=
+!1;try{var g=(new URL(b,window.location.href)).hostname;c=e(b)}catch{}a.preventDefault();a.stopPropagation();window.dispatchEvent(new CustomEvent("request_window_open",{detail:{url:b,hostname:g,target:"_blank",h:c}}))}}},!0);}).call(this);</script><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><title>Generated Interactive Widget</title><script type="module" crossorigin="">
+import { jsx, jsxs } from 'https://widgetlibs.static.usercontent.goog/react/jsx-runtime-Dc9ViRTo.js';
+import React, { useState, useRef, useEffect } from 'https://widgetlibs.static.usercontent.goog/react-Dd1pKoqe.js';
+import ReactDOM from 'https://widgetlibs.static.usercontent.goog/react-dom/client-BTuQ-l8_.js';
+import * as Slider from 'https://widgetlibs.static.usercontent.goog/@radix-ui/react-slider-DXk-CvUR.js';
+import { ErrorBoundary } from 'https://widgetlibs.static.usercontent.goog/react-error-boundary-BY2GTZrN.js';
+
+true              &&(function polyfill() {
+	const relList = document.createElement("link").relList;
+	if (relList && relList.supports && relList.supports("modulepreload")) return;
+	for (const link of document.querySelectorAll("link[rel=\"modulepreload\"]")) processPreload(link);
+	new MutationObserver((mutations) => {
+		for (const mutation of mutations) {
+			if (mutation.type !== "childList") continue;
+			for (const node of mutation.addedNodes) if (node.tagName === "LINK" && node.rel === "modulepreload") processPreload(node);
+		}
+	}).observe(document, {
+		childList: true,
+		subtree: true
+	});
+	function getFetchOpts(link) {
+		const fetchOpts = {};
+		if (link.integrity) fetchOpts.integrity = link.integrity;
+		if (link.referrerPolicy) fetchOpts.referrerPolicy = link.referrerPolicy;
+		if (link.crossOrigin === "use-credentials") fetchOpts.credentials = "include";
+		else if (link.crossOrigin === "anonymous") fetchOpts.credentials = "omit";
+		else fetchOpts.credentials = "same-origin";
+		return fetchOpts;
+	}
+	function processPreload(link) {
+		if (link.ep) return;
+		link.ep = true;
+		const fetchOpts = getFetchOpts(link);
+		fetch(link.href, fetchOpts);
+	}
+}());
+
+function ErrorFallback({ error }) {
+  return /* @__PURE__ */ jsxs("div", { className: "p-5 text-error bg-card rounded-lg", children: [
+    /* @__PURE__ */ jsx("p", { className: "text-sm font-medium", children: "Something went wrong with the radar simulator:" }),
+    /* @__PURE__ */ jsx("pre", { className: "text-xs mt-1 overflow-auto max-w-full", children: error.message })
+  ] });
+}
+function FMCWRadarVisualizer() {
+  const [chirpRate, setChirpRate] = useState(40);
+  const [targetRange, setTargetRange] = useState(65);
+  const [targetVelocity, setTargetVelocity] = useState(15);
+  const [isPlaying, setIsPlaying] = useState(true);
+  const [, setFrameTick] = useState(0);
+  const lastTimeRef = useRef(performance.now());
+  const scanPositionRef = useRef(0);
+  const c = 3e8;
+  const f0 = 77e9;
+  const chirpRateHzS = chirpRate * 1e12;
+  const beatFreqHz = 2 * targetRange * chirpRateHzS / c;
+  const beatFreqMHz = beatFreqHz / 1e6;
+  const dopplerShiftHz = 2 * targetVelocity * f0 / c;
+  const dopplerShiftkHz = dopplerShiftHz / 1e3;
+  const timeOfFlightNs = 2 * targetRange / c * 1e9;
+  const width = 600;
+  const height = 300;
+  useEffect(() => {
+    if (!isPlaying) return;
+    lastTimeRef.current = performance.now();
+    let frameId;
+    const tick = (now) => {
+      const delta = Math.min((now - lastTimeRef.current) / 1e3, 0.1);
+      lastTimeRef.current = now;
+      scanPositionRef.current = (scanPositionRef.current + delta * 45) % 360;
+      setFrameTick((t) => t + 1);
+      frameId = requestAnimationFrame(tick);
+    };
+    frameId = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(frameId);
+  }, [isPlaying]);
+  const marginX = width * 0.12;
+  const marginY = height * 0.15;
+  const graphWidth = width - 2 * marginX;
+  const graphHeight = height - 2 * marginY;
+  const targetX = marginX + targetRange / 120 * graphWidth;
+  const targetY = marginY + (50 - targetVelocity) / 100 * graphHeight;
+  const rangeTicks = [0, 30, 60, 90, 120];
+  const velocityTicks = [-50, -25, 0, 25, 50];
+  return /* @__PURE__ */ jsxs("div", { className: "w-full bg-card text-foreground font-sans flex flex-col select-none", children: [
+    /* @__PURE__ */ jsxs("div", { className: "relative w-full overflow-hidden border-b border-border bg-slate-950", children: [
+      /* @__PURE__ */ jsx("div", { className: "absolute top-0 end-0 p-3 z-10 flex items-center justify-end pointer-events-none", children: /* @__PURE__ */ jsx(
+        "button",
+        {
+          onClick: () => setIsPlaying(!isPlaying),
+          className: "w-9 h-9 rounded-full flex items-center justify-center cursor-pointer transition-colors shadow-none bg-zinc-900/90 hover:bg-zinc-800 text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-primary pointer-events-auto relative overflow-visible after:absolute after:-inset-1",
+          "aria-label": isPlaying ? "Pause simulation" : "Play simulation",
+          children: /* @__PURE__ */ jsx("span", { className: "material-icons !text-base", children: isPlaying ? "pause" : "play_arrow" })
+        }
+      ) }),
+      /* @__PURE__ */ jsxs(
+        "svg",
+        {
+          role: "img",
+          "aria-label": "Interactive FMCW Radar Range-Doppler Map Visualization",
+          viewBox: `0 0 ${width} ${height}`,
+          className: "w-full h-auto aspect-[2/1]",
+          children: [
+            /* @__PURE__ */ jsxs("g", { opacity: "0.15", children: [
+              rangeTicks.map((r) => {
+                const x = marginX + r / 120 * graphWidth;
+                return /* @__PURE__ */ jsx(
+                  "line",
+                  {
+                    x1: x,
+                    y1: marginY,
+                    x2: x,
+                    y2: height - marginY,
+                    stroke: "#34a853",
+                    strokeWidth: 1,
+                    strokeDasharray: r === 0 ? "0" : "4 4"
+                  },
+                  `r-line-${r}`
+                );
+              }),
+              velocityTicks.map((v) => {
+                const y = marginY + (50 - v) / 100 * graphHeight;
+                return /* @__PURE__ */ jsx(
+                  "line",
+                  {
+                    x1: marginX,
+                    y1: y,
+                    x2: width - marginX,
+                    y2: y,
+                    stroke: "#34a853",
+                    strokeWidth: 1,
+                    strokeDasharray: v === 0 ? "0" : "4 4"
+                  },
+                  `v-line-${v}`
+                );
+              })
+            ] }),
+            /* @__PURE__ */ jsx(
+              "line",
+              {
+                x1: marginX,
+                y1: height - marginY,
+                x2: width - marginX,
+                y2: height - marginY,
+                stroke: "#4b5563",
+                strokeWidth: 1.5
+              }
+            ),
+            /* @__PURE__ */ jsx(
+              "line",
+              {
+                x1: marginX,
+                y1: marginY,
+                x2: marginX,
+                y2: height - marginY,
+                stroke: "#4b5563",
+                strokeWidth: 1.5
+              }
+            ),
+            /* @__PURE__ */ jsxs("g", { fill: "#9ca3af", fontSize: 11, textAnchor: "middle", children: [
+              rangeTicks.map((r) => {
+                const x = marginX + r / 120 * graphWidth;
+                return /* @__PURE__ */ jsxs("g", { children: [
+                  /* @__PURE__ */ jsx("line", { x1: x, y1: height - marginY, x2: x, y2: height - marginY + 4, stroke: "#4b5563" }),
+                  /* @__PURE__ */ jsxs("text", { x, y: height - marginY + 16, children: [
+                    r,
+                    "m"
+                  ] })
+                ] }, `r-tick-${r}`);
+              }),
+              /* @__PURE__ */ jsx("text", { x: width / 2, y: height - 4, fill: "#e6e8f0", className: "font-medium", children: "Range (Distance Axis)" })
+            ] }),
+            /* @__PURE__ */ jsxs("g", { fill: "#9ca3af", fontSize: 11, textAnchor: "end", children: [
+              velocityTicks.map((v) => {
+                const y = marginY + (50 - v) / 100 * graphHeight;
+                return /* @__PURE__ */ jsxs("g", { children: [
+                  /* @__PURE__ */ jsx("line", { x1: marginX, y1: y, x2: marginX - 4, y2: y, stroke: "#4b5563" }),
+                  /* @__PURE__ */ jsxs("text", { x: marginX - 8, y: y + 4, fill: v === 0 ? "#fbbc04" : "#9ca3af", children: [
+                    v > 0 ? `+${v}` : v,
+                    " m/s"
+                  ] })
+                ] }, `v-tick-${v}`);
+              }),
+              /* @__PURE__ */ jsx(
+                "text",
+                {
+                  transform: `translate(14, ${height / 2}) rotate(-90)`,
+                  textAnchor: "middle",
+                  fill: "#e6e8f0",
+                  className: "font-medium",
+                  children: "Velocity (Doppler Shift)"
+                }
+              )
+            ] }),
+            /* @__PURE__ */ jsxs("g", { opacity: isPlaying ? 0.4 + Math.sin(scanPositionRef.current * 0.1) * 0.1 : 0.4, children: [
+              /* @__PURE__ */ jsx(
+                "line",
+                {
+                  x1: marginX,
+                  y1: targetY,
+                  x2: targetX,
+                  y2: targetY,
+                  stroke: "#336ef3",
+                  strokeWidth: 1.5,
+                  strokeDasharray: "2 6"
+                }
+              ),
+              /* @__PURE__ */ jsx(
+                "line",
+                {
+                  x1: targetX,
+                  y1: height - marginY,
+                  x2: targetX,
+                  y2: targetY,
+                  stroke: "#ea4335",
+                  strokeWidth: 1.5,
+                  strokeDasharray: "2 6"
+                }
+              )
+            ] }),
+            /* @__PURE__ */ jsx(
+              "ellipse",
+              {
+                cx: targetX,
+                cy: targetY,
+                rx: 24 - chirpRate / 80 * 12,
+                ry: 12 + Math.abs(targetVelocity) * 0.1,
+                fill: "url(#radarGlow)",
+                opacity: "0.3"
+              }
+            ),
+            /* @__PURE__ */ jsx("circle", { cx: targetX, cy: targetY, r: 5, fill: "#34a853" }),
+            /* @__PURE__ */ jsx(
+              "circle",
+              {
+                cx: targetX,
+                cy: targetY,
+                r: 12,
+                fill: "none",
+                stroke: "#34a853",
+                strokeWidth: 1.5,
+                className: "animate-ping",
+                style: { animationDuration: "2s" }
+              }
+            ),
+            /* @__PURE__ */ jsxs("g", { transform: `translate(${targetX}, ${targetY - 14})`, textAnchor: "middle", children: [
+              /* @__PURE__ */ jsx(
+                "rect",
+                {
+                  x: -45,
+                  y: -18,
+                  width: 90,
+                  height: 22,
+                  rx: 4,
+                  fill: "#1e293b",
+                  stroke: "#34a853",
+                  strokeWidth: 1
+                }
+              ),
+              /* @__PURE__ */ jsx("text", { x: 0, y: -3, fill: "#ffffff", fontSize: 11, className: "font-medium", children: "Target Locked" })
+            ] }),
+            /* @__PURE__ */ jsx("defs", { children: /* @__PURE__ */ jsxs("radialGradient", { id: "radarGlow", cx: "50%", cy: "50%", r: "50%", children: [
+              /* @__PURE__ */ jsx("stop", { offset: "0%", stopColor: "#34a853", stopOpacity: "1" }),
+              /* @__PURE__ */ jsx("stop", { offset: "60%", stopColor: "#336ef3", stopOpacity: "0.4" }),
+              /* @__PURE__ */ jsx("stop", { offset: "100%", stopColor: "#336ef3", stopOpacity: "0" })
+            ] }) })
+          ]
+        }
+      )
+    ] }),
+    /* @__PURE__ */ jsxs("div", { className: "flex items-center justify-center gap-x-4 sm:gap-x-8 md:gap-x-12 border-b border-border px-5 py-3 shrink-0", children: [
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col items-center gap-0.5 min-w-0 flex-1", children: [
+        /* @__PURE__ */ jsx("span", { className: "text-xs text-muted-foreground font-medium truncate text-center w-full", children: "Beat Freq Fb" }),
+        /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums truncate text-center w-full", children: [
+          beatFreqMHz.toFixed(2),
+          " MHz"
+        ] })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col items-center gap-0.5 min-w-0 flex-1", children: [
+        /* @__PURE__ */ jsx("span", { className: "text-xs text-muted-foreground font-medium truncate text-center w-full", children: "Doppler Shift" }),
+        /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums truncate text-center w-full", children: [
+          dopplerShiftkHz.toFixed(2),
+          " kHz"
+        ] })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col items-center gap-0.5 min-w-0 flex-1", children: [
+        /* @__PURE__ */ jsx("span", { className: "text-xs text-muted-foreground font-medium truncate text-center w-full", children: "Time of Flight" }),
+        /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums truncate text-center w-full", children: [
+          timeOfFlightNs.toFixed(1),
+          " ns"
+        ] })
+      ] })
+    ] }),
+    /* @__PURE__ */ jsxs("div", { className: "p-5 flex flex-col gap-4", children: [
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-1.5", children: [
+        /* @__PURE__ */ jsx("label", { className: "text-sm font-medium text-muted-foreground", children: "K-chirp-rate (Sweep Slope)" }),
+        /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3 w-full", children: [
+          /* @__PURE__ */ jsxs(
+            Slider.Root,
+            {
+              className: "relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3",
+              value: [chirpRate],
+              onValueChange: (val) => setChirpRate(val[0]),
+              min: 10,
+              max: 80,
+              step: 1,
+              "aria-label": "K-chirp-rate parameter",
+              children: [
+                /* @__PURE__ */ jsx(Slider.Track, { className: "relative grow rounded-full h-1 !bg-muted", children: /* @__PURE__ */ jsx(Slider.Range, { className: "absolute h-full bg-primary rounded-full" }) }),
+                /* @__PURE__ */ jsx(
+                  Slider.Thumb,
+                  {
+                    className: "block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11",
+                    "aria-label": "Chirp rate value slider handle"
+                  }
+                )
+              ]
+            }
+          ),
+          /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[10ch]", children: [
+            chirpRate,
+            " MHz/μs"
+          ] })
+        ] })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-4", children: [
+        /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-1.5", children: [
+          /* @__PURE__ */ jsx("label", { className: "text-sm font-medium text-muted-foreground", children: "Target Range" }),
+          /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3 w-full", children: [
+            /* @__PURE__ */ jsxs(
+              Slider.Root,
+              {
+                className: "relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3",
+                value: [targetRange],
+                onValueChange: (val) => setTargetRange(val[0]),
+                min: 5,
+                max: 120,
+                step: 1,
+                "aria-label": "Target Range parameter",
+                children: [
+                  /* @__PURE__ */ jsx(Slider.Track, { className: "relative grow rounded-full h-1 !bg-muted", children: /* @__PURE__ */ jsx(Slider.Range, { className: "absolute h-full bg-primary rounded-full" }) }),
+                  /* @__PURE__ */ jsx(
+                    Slider.Thumb,
+                    {
+                      className: "block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11",
+                      "aria-label": "Target range value slider handle"
+                    }
+                  )
+                ]
+              }
+            ),
+            /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[8ch]", children: [
+              targetRange,
+              " m"
+            ] })
+          ] })
+        ] }),
+        /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-1.5", children: [
+          /* @__PURE__ */ jsx("label", { className: "text-sm font-medium text-muted-foreground", children: "Target Velocity" }),
+          /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3 w-full", children: [
+            /* @__PURE__ */ jsxs(
+              Slider.Root,
+              {
+                className: "relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3",
+                value: [targetVelocity],
+                onValueChange: (val) => setTargetVelocity(val[0]),
+                min: -50,
+                max: 50,
+                step: 1,
+                "aria-label": "Target Velocity parameter",
+                children: [
+                  /* @__PURE__ */ jsx(Slider.Track, { className: "relative grow rounded-full h-1 !bg-muted", children: /* @__PURE__ */ jsx(Slider.Range, { className: "absolute h-full bg-primary rounded-full" }) }),
+                  /* @__PURE__ */ jsx(
+                    Slider.Thumb,
+                    {
+                      className: "block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11",
+                      "aria-label": "Target velocity value slider handle"
+                    }
+                  )
+                ]
+              }
+            ),
+            /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[9ch]", children: [
+              targetVelocity > 0 ? `+${targetVelocity}` : targetVelocity,
+              " m/s"
+            ] })
+          ] })
+        ] })
+      ] })
+    ] })
+  ] });
+}
+function App() {
+  return /* @__PURE__ */ jsx(ErrorBoundary, { FallbackComponent: ErrorFallback, children: /* @__PURE__ */ jsx(FMCWRadarVisualizer, {}) });
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+  /* @__PURE__ */ jsx(React.StrictMode, { children: /* @__PURE__ */ jsx(App, {}) })
+);
+
+</script><style>
+/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */
+@layer properties {
+  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {
+    *, :before, :after, ::backdrop {
+      --tw-rotate-x: initial;
+      --tw-rotate-y: initial;
+      --tw-rotate-z: initial;
+      --tw-skew-x: initial;
+      --tw-skew-y: initial;
+      --tw-border-style: solid;
+      --tw-font-weight: initial;
+      --tw-ordinal: initial;
+      --tw-slashed-zero: initial;
+      --tw-numeric-figure: initial;
+      --tw-numeric-spacing: initial;
+      --tw-numeric-fraction: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-content: "";
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+    }
+  }
+}
+
+@layer theme {
+  :root, :host {
+    --font-sans: "Google Sans", "Roboto", sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --color-slate-950: oklch(12.9% .042 264.695);
+    --color-zinc-800: oklch(27.4% .006 286.033);
+    --color-zinc-900: oklch(21% .006 285.885);
+    --color-white: #fff;
+    --spacing: .25rem;
+    --text-xs: .75rem;
+    --text-xs--line-height: calc(1 / .75);
+    --text-sm: .875rem;
+    --text-sm--line-height: calc(1.25 / .875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --font-weight-medium: 500;
+    --radius-lg: .5rem;
+    --animate-ping: ping 1s cubic-bezier(0, 0, .2, 1) infinite;
+    --default-transition-duration: .15s;
+    --default-transition-timing-function: cubic-bezier(.31, .94, .34, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+    --color-primary: var(--primary, #336ef3);
+    --color-error: var(--brand-red, #ea4335);
+    --color-card: var(--surface-container-de-emphasis, #f7f8fa);
+    --color-border: var(--divider, #dcdfe5);
+    --color-muted: var(--surface-container, #f0f2f5);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);
+    --color-foreground: var(--on-surface-default, #0a0a0a);
+  }
+}
+
+@layer base {
+  *, :after, :before, ::backdrop {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::file-selector-button {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, :host {
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    line-height: 1.5;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  hr {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+
+  abbr:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+
+  a {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+
+  b, strong {
+    font-weight: bolder;
+  }
+
+  code, kbd, samp, pre {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+
+  small {
+    font-size: 80%;
+  }
+
+  sub, sup {
+    vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+  }
+
+  sub {
+    bottom: -.25em;
+  }
+
+  sup {
+    top: -.5em;
+  }
+
+  table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+
+  :-moz-focusring {
+    outline: auto;
+  }
+
+  progress {
+    vertical-align: baseline;
+  }
+
+  summary {
+    display: list-item;
+  }
+
+  ol, ul, menu {
+    list-style: none;
+  }
+
+  img, svg, video, canvas, audio, iframe, embed, object {
+    vertical-align: middle;
+    display: block;
+  }
+
+  img, video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  button, input, select, optgroup, textarea {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  ::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  :where(select:is([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+
+  :where(select:is([multiple], [size])) optgroup option {
+    padding-inline-start: 20px;
+  }
+
+  ::file-selector-button {
+    margin-inline-end: 4px;
+  }
+
+  ::placeholder {
+    opacity: 1;
+  }
+
+  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {
+    ::placeholder {
+      color: currentColor;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      ::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+
+  textarea {
+    resize: vertical;
+  }
+
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  ::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+
+  ::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+
+  ::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+
+  ::-webkit-datetime-edit {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-year-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-month-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-day-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-hour-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-minute-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-second-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-millisecond-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+
+  :-moz-ui-invalid {
+    box-shadow: none;
+  }
+
+  button, input:where([type="button"], [type="reset"], [type="submit"]) {
+    appearance: button;
+  }
+
+  ::file-selector-button {
+    appearance: button;
+  }
+
+  ::-webkit-inner-spin-button {
+    height: auto;
+  }
+
+  ::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  [hidden]:where(:not([hidden="until-found"])) {
+    display: none !important;
+  }
+}
+
+@layer components;
+
+@layer utilities {
+  .pointer-events-auto {
+    pointer-events: auto;
+  }
+
+  .pointer-events-none {
+    pointer-events: none;
+  }
+
+  .absolute {
+    position: absolute;
+  }
+
+  .relative {
+    position: relative;
+  }
+
+  .static {
+    position: static;
+  }
+
+  .end-0 {
+    inset-inline-end: calc(var(--spacing) * 0);
+  }
+
+  .top-0 {
+    top: calc(var(--spacing) * 0);
+  }
+
+  .z-10 {
+    z-index: 10;
+  }
+
+  .-my-3 {
+    margin-block: calc(var(--spacing) * -3);
+  }
+
+  .mt-1 {
+    margin-top: calc(var(--spacing) * 1);
+  }
+
+  .block {
+    display: block;
+  }
+
+  .flex {
+    display: flex;
+  }
+
+  .grid {
+    display: grid;
+  }
+
+  .aspect-\[2\/1\] {
+    aspect-ratio: 2;
+  }
+
+  .h-1 {
+    height: calc(var(--spacing) * 1);
+  }
+
+  .h-9 {
+    height: calc(var(--spacing) * 9);
+  }
+
+  .h-11 {
+    height: calc(var(--spacing) * 11);
+  }
+
+  .h-\[18px\] {
+    height: 18px;
+  }
+
+  .h-auto {
+    height: auto;
+  }
+
+  .h-full {
+    height: 100%;
+  }
+
+  .w-9 {
+    width: calc(var(--spacing) * 9);
+  }
+
+  .w-\[8ch\] {
+    width: 8ch;
+  }
+
+  .w-\[9ch\] {
+    width: 9ch;
+  }
+
+  .w-\[10ch\] {
+    width: 10ch;
+  }
+
+  .w-\[18px\] {
+    width: 18px;
+  }
+
+  .w-full {
+    width: 100%;
+  }
+
+  .max-w-full {
+    max-width: 100%;
+  }
+
+  .min-w-0 {
+    min-width: calc(var(--spacing) * 0);
+  }
+
+  .flex-1 {
+    flex: 1;
+  }
+
+  .shrink-0 {
+    flex-shrink: 0;
+  }
+
+  .grow {
+    flex-grow: 1;
+  }
+
+  .transform {
+    transform: var(--tw-rotate-x, ) var(--tw-rotate-y, ) var(--tw-rotate-z, ) var(--tw-skew-x, ) var(--tw-skew-y, );
+  }
+
+  .animate-ping {
+    animation: var(--animate-ping);
+  }
+
+  .cursor-pointer {
+    cursor: pointer;
+  }
+
+  .touch-none {
+    touch-action: none;
+  }
+
+  .grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .flex-col {
+    flex-direction: column;
+  }
+
+  .items-center {
+    align-items: center;
+  }
+
+  .justify-center {
+    justify-content: center;
+  }
+
+  .justify-end {
+    justify-content: flex-end;
+  }
+
+  .gap-0\.5 {
+    gap: calc(var(--spacing) * .5);
+  }
+
+  .gap-1\.5 {
+    gap: calc(var(--spacing) * 1.5);
+  }
+
+  .gap-3 {
+    gap: calc(var(--spacing) * 3);
+  }
+
+  .gap-4 {
+    gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-x-4 {
+    column-gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-x-6 {
+    column-gap: calc(var(--spacing) * 6);
+  }
+
+  .gap-y-4 {
+    row-gap: calc(var(--spacing) * 4);
+  }
+
+  .truncate {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .overflow-auto {
+    overflow: auto;
+  }
+
+  .overflow-hidden {
+    overflow: hidden;
+  }
+
+  .overflow-visible {
+    overflow: visible;
+  }
+
+  .rounded-full {
+    border-radius: 3.40282e38px;
+  }
+
+  .rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+
+  .border-b {
+    border-bottom-style: var(--tw-border-style);
+    border-bottom-width: 1px;
+  }
+
+  .border-none {
+    --tw-border-style: none;
+    border-style: none;
+  }
+
+  .border-border {
+    border-color: var(--color-border);
+  }
+
+  .\!bg-muted {
+    background-color: var(--color-muted) !important;
+  }
+
+  .bg-card {
+    background-color: var(--color-card);
+  }
+
+  .bg-primary {
+    background-color: var(--color-primary);
+  }
+
+  .bg-slate-950 {
+    background-color: var(--color-slate-950);
+  }
+
+  .bg-zinc-900\/90 {
+    background-color: #18181be6;
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-zinc-900\/90 {
+      background-color: color-mix(in oklab, var(--color-zinc-900) 90%, transparent);
+    }
+  }
+
+  .p-3 {
+    padding: calc(var(--spacing) * 3);
+  }
+
+  .p-5 {
+    padding: calc(var(--spacing) * 5);
+  }
+
+  .px-5 {
+    padding-inline: calc(var(--spacing) * 5);
+  }
+
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .text-end {
+    text-align: end;
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .\!text-base {
+    font-size: var(--text-base) !important;
+    line-height: var(--tw-leading, var(--text-base--line-height)) !important;
+  }
+
+  .text-sm {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+
+  .text-xs {
+    font-size: var(--text-xs);
+    line-height: var(--tw-leading, var(--text-xs--line-height));
+  }
+
+  .font-medium {
+    --tw-font-weight: var(--font-weight-medium);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .whitespace-nowrap {
+    white-space: nowrap;
+  }
+
+  .text-error {
+    color: var(--color-error);
+  }
+
+  .text-foreground {
+    color: var(--color-foreground);
+  }
+
+  .text-muted-foreground {
+    color: var(--color-muted-foreground);
+  }
+
+  .text-white {
+    color: var(--color-white);
+  }
+
+  .tabular-nums {
+    --tw-numeric-spacing: tabular-nums;
+    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );
+  }
+
+  .shadow-none {
+    --tw-shadow: 0 0 #0000;
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .transition-colors {
+    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to;
+    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration, var(--default-transition-duration));
+  }
+
+  .select-none {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .after\:absolute:after {
+    content: var(--tw-content);
+    position: absolute;
+  }
+
+  .after\:-inset-1:after {
+    content: var(--tw-content);
+    inset: calc(var(--spacing) * -1);
+  }
+
+  .after\:top-1\/2:after {
+    content: var(--tw-content);
+    top: 50%;
+  }
+
+  .after\:left-1\/2:after {
+    content: var(--tw-content);
+    left: 50%;
+  }
+
+  .after\:h-11:after {
+    content: var(--tw-content);
+    height: calc(var(--spacing) * 11);
+  }
+
+  .after\:w-11:after {
+    content: var(--tw-content);
+    width: calc(var(--spacing) * 11);
+  }
+
+  .after\:-translate-x-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  .after\:-translate-y-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  @media (hover: hover) {
+    .hover\:bg-zinc-800:hover {
+      background-color: var(--color-zinc-800);
+    }
+  }
+
+  .focus\:outline-none:focus {
+    --tw-outline-style: none;
+    outline-style: none;
+  }
+
+  .focus-visible\:ring-2:focus-visible {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .focus-visible\:ring-primary:focus-visible {
+    --tw-ring-color: var(--color-primary);
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:grid-cols-2 {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .sm\:gap-x-8 {
+      column-gap: calc(var(--spacing) * 8);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:gap-x-12 {
+      column-gap: calc(var(--spacing) * 12);
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --color-primary: var(--primary, #336ef3);
+    --color-primary-hover: var(--primary-hover, #395fe1);
+    --color-error: var(--brand-red, #ea4335);
+    --color-warning: var(--brand-yellow, #fbbc04);
+    --color-success: var(--brand-green, #34a853);
+    --color-background: var(--surface-container-de-emphasis, #272930);
+    --color-card: var(--surface-container-de-emphasis, #272930);
+    --color-card-hover: var(--surface-container-high, #363840);
+    --color-border: var(--divider, #363840);
+    --color-input: var(--surface-container, #2c2e35);
+    --color-secondary: var(--surface-container-high, #363840);
+    --color-secondary-hover: var(--surface-container-highest, #42444d);
+    --color-accent: var(--surface-container-highest, #42444d);
+    --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+    --color-muted: var(--surface-container, #2c2e35);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+    --color-foreground: var(--on-surface-default, #e6e8f0);
+    --color-disabled: var(--surface-container, #2c2e35);
+    --color-disabled-foreground: var(--disabled-foreground, #797c90);
+  }
+}
+
+.dark {
+  --color-primary: var(--primary, #336ef3);
+  --color-primary-hover: var(--primary-hover, #395fe1);
+  --color-error: var(--brand-red, #ea4335);
+  --color-warning: var(--brand-yellow, #fbbc04);
+  --color-success: var(--brand-green, #34a853);
+  --color-background: var(--surface-container-de-emphasis, #272930);
+  --color-card: var(--surface-container-de-emphasis, #272930);
+  --color-card-hover: var(--surface-container-high, #363840);
+  --color-border: var(--divider, #363840);
+  --color-input: var(--surface-container, #2c2e35);
+  --color-secondary: var(--surface-container-high, #363840);
+  --color-secondary-hover: var(--surface-container-highest, #42444d);
+  --color-accent: var(--surface-container-highest, #42444d);
+  --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+  --color-muted: var(--surface-container, #2c2e35);
+  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+  --color-foreground: var(--on-surface-default, #e6e8f0);
+  --color-disabled: var(--surface-container, #2c2e35);
+  --color-disabled-foreground: var(--disabled-foreground, #797c90);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  opacity: .6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert();
+    opacity: .7;
+  }
+}
+
+.dark input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert();
+  opacity: .7;
+}
+
+[dir="rtl"] svg {
+  direction: ltr;
+}
+
+[dir="rtl"] svg text {
+  unicode-bidi: plaintext;
+}
+
+[dir="rtl"] .material-icons {
+  direction: rtl;
+}
+
+@property --tw-rotate-x {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-rotate-y {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-rotate-z {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-skew-x {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-skew-y {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-border-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ordinal {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-slashed-zero {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-figure {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-spacing {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-fraction {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow-alpha {
+  syntax: "<percentage>";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-inset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-shadow-alpha {
+  syntax: "<percentage>";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-ring-inset {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-offset-width {
+  syntax: "<length>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-ring-offset-color {
+  syntax: "*";
+  inherits: false;
+  initial-value: #fff;
+}
+
+@property --tw-ring-offset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-content {
+  syntax: "*";
+  inherits: false;
+  initial-value: "";
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@keyframes ping {
+  75%, 100% {
+    opacity: 0;
+    transform: scale(2);
+  }
+}
+
+</style><link href="https://www.gstatic.com/_/mss/search-next/_/ss/k=search-next.ss.dDDcqmu8sVM.L.B1.O/am=AB4AfACGMEAj/d=1/ed=1/dg=2/rs=AE5fCmR_NrsD6haLCxi1_C4zj5Gzcj_1xw/ee=/m=capy_widget_colors" rel="stylesheet"></head>
+    <body class="">
+  
+  <div id="root"><div class="w-full bg-card text-foreground font-sans flex flex-col select-none"><div class="relative w-full overflow-hidden border-b border-border bg-slate-950"><div class="absolute top-0 end-0 p-3 z-10 flex items-center justify-end pointer-events-none"><button class="w-9 h-9 rounded-full flex items-center justify-center cursor-pointer transition-colors shadow-none bg-zinc-900/90 hover:bg-zinc-800 text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-primary pointer-events-auto relative overflow-visible after:absolute after:-inset-1" aria-label="Pause simulation"><span class="material-icons !text-base">pause</span></button></div><svg role="img" aria-label="Interactive FMCW Radar Range-Doppler Map Visualization" viewBox="0 0 600 300" class="w-full h-auto aspect-[2/1]"><g opacity="0.15"><line x1="72" y1="45" x2="72" y2="255" stroke="#34a853" stroke-width="1" stroke-dasharray="0"></line><line x1="186" y1="45" x2="186" y2="255" stroke="#34a853" stroke-width="1" stroke-dasharray="4 4"></line><line x1="300" y1="45" x2="300" y2="255" stroke="#34a853" stroke-width="1" stroke-dasharray="4 4"></line><line x1="414" y1="45" x2="414" y2="255" stroke="#34a853" stroke-width="1" stroke-dasharray="4 4"></line><line x1="528" y1="45" x2="528" y2="255" stroke="#34a853" stroke-width="1" stroke-dasharray="4 4"></line><line x1="72" y1="255" x2="528" y2="255" stroke="#34a853" stroke-width="1" stroke-dasharray="4 4"></line><line x1="72" y1="202.5" x2="528" y2="202.5" stroke="#34a853" stroke-width="1" stroke-dasharray="4 4"></line><line x1="72" y1="150" x2="528" y2="150" stroke="#34a853" stroke-width="1" stroke-dasharray="0"></line><line x1="72" y1="97.5" x2="528" y2="97.5" stroke="#34a853" stroke-width="1" stroke-dasharray="4 4"></line><line x1="72" y1="45" x2="528" y2="45" stroke="#34a853" stroke-width="1" stroke-dasharray="4 4"></line></g><line x1="72" y1="255" x2="528" y2="255" stroke="#4b5563" stroke-width="1.5"></line><line x1="72" y1="45" x2="72" y2="255" stroke="#4b5563" stroke-width="1.5"></line><g fill="#9ca3af" font-size="11" text-anchor="middle"><g><line x1="72" y1="255" x2="72" y2="259" stroke="#4b5563"></line><text x="72" y="271">0m</text></g><g><line x1="186" y1="255" x2="186" y2="259" stroke="#4b5563"></line><text x="186" y="271">30m</text></g><g><line x1="300" y1="255" x2="300" y2="259" stroke="#4b5563"></line><text x="300" y="271">60m</text></g><g><line x1="414" y1="255" x2="414" y2="259" stroke="#4b5563"></line><text x="414" y="271">90m</text></g><g><line x1="528" y1="255" x2="528" y2="259" stroke="#4b5563"></line><text x="528" y="271">120m</text></g><text x="300" y="296" fill="#e6e8f0" class="font-medium">Range (Distance Axis)</text></g><g fill="#9ca3af" font-size="11" text-anchor="end"><g><line x1="72" y1="255" x2="68" y2="255" stroke="#4b5563"></line><text x="64" y="259" fill="#9ca3af">-50 m/s</text></g><g><line x1="72" y1="202.5" x2="68" y2="202.5" stroke="#4b5563"></line><text x="64" y="206.5" fill="#9ca3af">-25 m/s</text></g><g><line x1="72" y1="150" x2="68" y2="150" stroke="#4b5563"></line><text x="64" y="154" fill="#fbbc04">0 m/s</text></g><g><line x1="72" y1="97.5" x2="68" y2="97.5" stroke="#4b5563"></line><text x="64" y="101.5" fill="#9ca3af">+25 m/s</text></g><g><line x1="72" y1="45" x2="68" y2="45" stroke="#4b5563"></line><text x="64" y="49" fill="#9ca3af">+50 m/s</text></g><text transform="translate(14, 150) rotate(-90)" text-anchor="middle" fill="#e6e8f0" class="font-medium">Velocity (Doppler Shift)</text></g><g opacity="0.30642849037784003"><line x1="72" y1="118.5" x2="319" y2="118.5" stroke="#336ef3" stroke-width="1.5" stroke-dasharray="2 6"></line><line x1="319" y1="255" x2="319" y2="118.5" stroke="#ea4335" stroke-width="1.5" stroke-dasharray="2 6"></line></g><ellipse cx="319" cy="118.5" rx="18" ry="13.5" fill="url(#radarGlow)" opacity="0.3"></ellipse><circle cx="319" cy="118.5" r="5" fill="#34a853"></circle><circle cx="319" cy="118.5" r="12" fill="none" stroke="#34a853" stroke-width="1.5" class="animate-ping" style="animation-duration: 2s;"></circle><g transform="translate(319, 104.5)" text-anchor="middle"><rect x="-45" y="-18" width="90" height="22" rx="4" fill="#1e293b" stroke="#34a853" stroke-width="1"></rect><text x="0" y="-3" fill="#ffffff" font-size="11" class="font-medium">Target Locked</text></g><defs><radialGradient id="radarGlow" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#34a853" stop-opacity="1"></stop><stop offset="60%" stop-color="#336ef3" stop-opacity="0.4"></stop><stop offset="100%" stop-color="#336ef3" stop-opacity="0"></stop></radialGradient></defs></svg></div><div class="flex items-center justify-center gap-x-4 sm:gap-x-8 md:gap-x-12 border-b border-border px-5 py-3 shrink-0"><div class="flex flex-col items-center gap-0.5 min-w-0 flex-1"><span class="text-xs text-muted-foreground font-medium truncate text-center w-full">Beat Freq Fb</span><span class="text-sm font-medium text-foreground tabular-nums truncate text-center w-full">17.33 MHz</span></div><div class="flex flex-col items-center gap-0.5 min-w-0 flex-1"><span class="text-xs text-muted-foreground font-medium truncate text-center w-full">Doppler Shift</span><span class="text-sm font-medium text-foreground tabular-nums truncate text-center w-full">7.70 kHz</span></div><div class="flex flex-col items-center gap-0.5 min-w-0 flex-1"><span class="text-xs text-muted-foreground font-medium truncate text-center w-full">Time of Flight</span><span class="text-sm font-medium text-foreground tabular-nums truncate text-center w-full">433.3 ns</span></div></div><div class="p-5 flex flex-col gap-4"><div class="flex flex-col gap-1.5"><label class="text-sm font-medium text-muted-foreground">K-chirp-rate (Sweep Slope)</label><div class="flex items-center gap-3 w-full"><span dir="ltr" data-orientation="horizontal" aria-disabled="false" class="relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3" aria-label="K-chirp-rate parameter" style="--radix-slider-thumb-transform: translateX(-50%);"><span data-orientation="horizontal" class="relative grow rounded-full h-1 !bg-muted"><span data-orientation="horizontal" class="absolute h-full bg-primary rounded-full" style="left: 0%; right: 57.1429%;"></span></span><span style="transform: var(--radix-slider-thumb-transform); position: absolute; left: calc(42.8571% + 1.28571px);"><span role="slider" aria-label="Chirp rate value slider handle" aria-valuemin="10" aria-valuemax="80" aria-orientation="horizontal" data-orientation="horizontal" tabindex="0" class="block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11" data-radix-collection-item="" aria-valuenow="40" style=""></span></span></span><span class="text-sm font-medium text-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[10ch]">40 MHz/μs</span></div></div><div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-4"><div class="flex flex-col gap-1.5"><label class="text-sm font-medium text-muted-foreground">Target Range</label><div class="flex items-center gap-3 w-full"><span dir="ltr" data-orientation="horizontal" aria-disabled="false" class="relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3" aria-label="Target Range parameter" style="--radix-slider-thumb-transform: translateX(-50%);"><span data-orientation="horizontal" class="relative grow rounded-full h-1 !bg-muted"><span data-orientation="horizontal" class="absolute h-full bg-primary rounded-full" style="left: 0%; right: 47.8261%;"></span></span><span style="transform: var(--radix-slider-thumb-transform); position: absolute; left: calc(52.1739% - 0.391304px);"><span role="slider" aria-label="Target range value slider handle" aria-valuemin="5" aria-valuemax="120" aria-orientation="horizontal" data-orientation="horizontal" tabindex="0" class="block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11" data-radix-collection-item="" aria-valuenow="65" style=""></span></span></span><span class="text-sm font-medium text-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[8ch]">65 m</span></div></div><div class="flex flex-col gap-1.5"><label class="text-sm font-medium text-muted-foreground">Target Velocity</label><div class="flex items-center gap-3 w-full"><span dir="ltr" data-orientation="horizontal" aria-disabled="false" class="relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3" aria-label="Target Velocity parameter" style="--radix-slider-thumb-transform: translateX(-50%);"><span data-orientation="horizontal" class="relative grow rounded-full h-1 !bg-muted"><span data-orientation="horizontal" class="absolute h-full bg-primary rounded-full" style="left: 0%; right: 35%;"></span></span><span style="transform: var(--radix-slider-thumb-transform); position: absolute; left: calc(65% - 2.7px);"><span role="slider" aria-label="Target velocity value slider handle" aria-valuemin="-50" aria-valuemax="50" aria-orientation="horizontal" data-orientation="horizontal" tabindex="0" class="block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11" data-radix-collection-item="" aria-valuenow="15" style=""></span></span></span><span class="text-sm font-medium text-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[9ch]">+15 m/s</span></div></div></div></div></div></div></body></html>

@@ -1,0 +1,1525 @@
+<html lang="en-NL" dir="ltr"><head>
+      <meta data-sandbox-injected="" http-equiv="Content-Security-Policy" content="
+          default-src 'none';
+          base-uri 'none';
+          connect-src https://fonts.gstatic.com https://www.gstatic.com;
+          font-src https://fonts.gstatic.com data:;
+          form-action 'none';
+          
+          worker-src blob: https://*.scf.usercontent.goog;
+          img-src data: https://encrypted-tbn0.gstatic.com https://encrypted-tbn1.gstatic.com https://encrypted-tbn2.gstatic.com https://encrypted-tbn3.gstatic.com ;
+          media-src 'none';
+          object-src 'none';
+          script-src 'unsafe-inline' 'unsafe-eval' https://www.gstatic.com https://widgetlibs.static.usercontent.goog https://*.scf.usercontent.goog;
+          style-src 'unsafe-inline' 'unsafe-eval' https://fonts.googleapis.com https://www.gstatic.com/;">
+      <meta data-sandbox-injected="" charset="UTF-8">
+      <meta data-sandbox-injected="" name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="enable-onep-api" content="false"><script data-sandbox-injected="true">(function(){var g=Object.defineProperty,k=globalThis,l=function(a,b){if(b)a:{var c=k;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&g(c,a,{configurable:!0,writable:!0,value:b})}};l("Promise.withResolvers",function(a){return a?a:function(){var b,c;return{promise:new Promise(function(d,e){b=d;c=e}),resolve:b,reject:c}}});var m=function(a){return typeof a==="object"&&a!==null&&"kind"in a&&typeof a.kind==="string"&&("payload"in a||a.kind==="___CROSS_FRAME_HANDSHAKE___")},n=class{constructor(){this.j=new Map}i(a){var b=a.data;if(m(b)){let c=b.payload;if(b=this.j.get(b.kind))(a=a.ports&&a.ports.length>0?a.ports:void 0)?b(c,a):b(c)}}sendMessage(a,b,c){if(!this.port)throw Error("a");a={kind:String(a),payload:b||{}};c&&c.length>0?this.port.postMessage(a,c):this.port.postMessage(a)}},p=async function(a){var b=window.parent;
+return a.h?{}:new Promise(c=>{var d=e=>{e.source===b&&m(e.data)&&e.data.kind==="___CROSS_FRAME_HANDSHAKE___"&&(window.removeEventListener("message",d),a.port=e.ports[0],a.port.onmessage=a.i.bind(a),a.h=!0,c(e.data.payload||{}))};window.addEventListener("message",d)})},q=class extends n{constructor(){super(...arguments);this.h=!1}};if(typeof window!=="undefined"&&window.history){let a=window.history.replaceState.bind(window.history);window.history.replaceState=(c,d,e)=>{try{a(c,d,e)}catch{}};let b=window.history.pushState.bind(window.history);window.history.pushState=(c,d,e)=>{try{b(c,d,e)}catch{}}}
+if(typeof window!=="undefined"&&window.fetch){let a=window.fetch.bind(window);window.fetch=async(...b)=>{try{return await a(...b)}catch(c){b=b[0];b=typeof b==="string"?b:b&&typeof b==="object"&&"url"in b?String(b.url||""):String(b||"");if(b.includes("tracking")||b.includes("analytics")||b.includes("beacon"))return new Response(null,{status:204});throw c;}}}var {promise:r,resolve:t}=Promise.withResolvers(),{promise:u,resolve:v}=Promise.withResolvers(),w=!1;
+(async function(){var a=new q,b=await p(a);b&&b.enableSandboxToEditorSync&&(w=!!b.enableSandboxToEditorSync);if(b&&b.initialPayload){let c=b.initialPayload;window.initialPayload=c;window.setTimeout(()=>{window.dispatchEvent(new MessageEvent("message",{data:c}))},0)}t(a);(a=a.port)&&v(a)})();function x(a){r.then(b=>{b.sendMessage("ERROR",{error:a})})}window.onerror=(a,b,c,d,e)=>{x(e);return!0};
+window.onunhandledrejection=a=>{var b=String(a.reason||"");b.includes("Failed to fetch")||b.includes("Content Security Policy")||b.includes("replaceState")||x(Error(a.reason));a.preventDefault()};
+window.document.addEventListener("DOMContentLoaded",()=>{r.then(a=>{a.sendMessage("ISOLATE_READY",{});var b=window.document.querySelector("#resize-target")||window.document.body,c=NaN,d=NaN,e=!1;(new ResizeObserver(()=>{e||(e=!0,window.requestAnimationFrame(()=>{e=!1;var f=Math.ceil(b.scrollHeight),h=Math.ceil(b.scrollWidth);f===c&&h===d||f===0&&h===0||(c=f,d=h,a.sendMessage("RESIZE",{height:f,width:h}))}))})).observe(b);if(w){let f;(new MutationObserver(()=>{f&&window.clearTimeout(f);f=window.setTimeout(()=>
+{f=void 0;a.sendMessage("HTML_CHANGED",{html:"<!DOCTYPE html>\n"+window.document.documentElement.outerHTML})},500)})).observe(window.document.documentElement,{attributes:!0,childList:!0,subtree:!0,characterData:!0})}})});window.addEventListener("resizeRequest",()=>{r.then(a=>{var b=window.document.querySelector("#resize-target")||window.document.body,c=Math.ceil(b.scrollHeight);b=Math.ceil(b.scrollWidth);c===0&&b===0||a.sendMessage("MANUAL_RESIZE",{height:c,width:b})})});
+function y(a){var b=null;a instanceof Element?b=a:a&&a.nodeType===Node.TEXT_NODE&&(b=a.parentElement);if(!b)return null;for(a=b;a&&a!==window.document.body;){if(a.matches('a,button,input,textarea,select,option,details,summary,area,[jsaction],[data-jsaction],[role],[tabindex]:not([tabindex="-1"])'))return z(a);if(a instanceof HTMLElement&&a.isContentEditable)return z(a);a=a.parentElement}return null}
+function z(a){var b={tagName:a.tagName.toUpperCase(),attributes:{}},c=["role","jsaction","data-jsaction","tabindex"];for(let d of c)c=a.getAttribute(d),c!==null&&(b.attributes[d]=c);a instanceof HTMLElement&&a.isContentEditable&&(b.isContentEditable=!0);return b}window.addEventListener("click",a=>{var b=(a=a.target)?y(a):null;r.then(c=>{c.sendMessage("CLICK",{matchedNode:b})})},!0);
+window.addEventListener("request_window_open",a=>{var b=a.detail;r.then(c=>{c.sendMessage("REQUEST_WINDOW_OPEN",{url:b.url,hostname:b.hostname,target:b.target,features:b.features,skipConfirmation:b.skipConfirmation})})});window.sandboxConsoleLog=(a,b)=>{r.then(c=>{c.sendMessage("CONSOLE_LOG",{logLevel:a,message:b})})};if(document.querySelector('meta[name="enable-onep-api"]')?.getAttribute("content")==="true"){let a=!1;window.claimPortReady=()=>{if(a)return null;a=!0;return u}}window.logError=x;}).call(this);</script><script>(function(){function e(a){return["https://www.google.com/maps/","https://maps.google.com/","https://www.youtube.com/watch?v=","https://www.youtube.com/v/","https://youtu.be/"].some(b=>a.startsWith(b))}window.open=(a,b,c)=>{var d,g=!1;if(a)try{if(d=a instanceof URL?a.toString():String(a)){var n=(new URL(d,window.location.href)).hostname;g=e(d)}}catch(p){}window.dispatchEvent(new CustomEvent("request_window_open",{detail:{url:d,hostname:n,target:b,features:c,h:g}}));return null};var f,h,k;
+function l(a){a.button===0&&((f=a=(a.target instanceof Element?a.target:null)?.closest("a")??void 0)?(a=a.getBoundingClientRect(),h=a.left,k=a.top):k=h=void 0)}function m(){k=h=f=void 0}window.addEventListener("pointerdown",l,!0);window.addEventListener("mousedown",l,!0);window.addEventListener("pointercancel",m,!0);
+window.addEventListener("click",a=>{var b=(a.target instanceof Element?a.target:null)?.closest("a"),c=b?.getBoundingClientRect();c=a.detail>0&&b!=null&&f===b&&c!==void 0&&h!==void 0&&k!==void 0&&(Math.abs(c.left-h)>5||Math.abs(c.top-k)>5);m();if(b&&b.hasAttribute("href")){b=b.getAttribute("href")??"";var d=b.trim();if(!d.startsWith("#"))if(d=d.replace(/[\u0000-\u0020]+/g,""),d===""||/^javascript:/i.test(d))a.preventDefault();else if(c||a.defaultPrevented)a.preventDefault(),a.stopPropagation();else{c=
+!1;try{var g=(new URL(b,window.location.href)).hostname;c=e(b)}catch{}a.preventDefault();a.stopPropagation();window.dispatchEvent(new CustomEvent("request_window_open",{detail:{url:b,hostname:g,target:"_blank",h:c}}))}}},!0);}).call(this);</script><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><title>Generated Interactive Widget</title><script type="module" crossorigin="">
+import { jsx, jsxs } from 'https://widgetlibs.static.usercontent.goog/react/jsx-runtime-Dc9ViRTo.js';
+import React, { useState, useRef, useEffect, useMemo } from 'https://widgetlibs.static.usercontent.goog/react-Dd1pKoqe.js';
+import ReactDOM from 'https://widgetlibs.static.usercontent.goog/react-dom/client-BTuQ-l8_.js';
+import * as d3 from 'https://widgetlibs.static.usercontent.goog/d3-DQOLej2x.js';
+import * as Slider from 'https://widgetlibs.static.usercontent.goog/@radix-ui/react-slider-DXk-CvUR.js';
+import { ErrorBoundary } from 'https://widgetlibs.static.usercontent.goog/react-error-boundary-BY2GTZrN.js';
+
+true              &&(function polyfill() {
+	const relList = document.createElement("link").relList;
+	if (relList && relList.supports && relList.supports("modulepreload")) return;
+	for (const link of document.querySelectorAll("link[rel=\"modulepreload\"]")) processPreload(link);
+	new MutationObserver((mutations) => {
+		for (const mutation of mutations) {
+			if (mutation.type !== "childList") continue;
+			for (const node of mutation.addedNodes) if (node.tagName === "LINK" && node.rel === "modulepreload") processPreload(node);
+		}
+	}).observe(document, {
+		childList: true,
+		subtree: true
+	});
+	function getFetchOpts(link) {
+		const fetchOpts = {};
+		if (link.integrity) fetchOpts.integrity = link.integrity;
+		if (link.referrerPolicy) fetchOpts.referrerPolicy = link.referrerPolicy;
+		if (link.crossOrigin === "use-credentials") fetchOpts.credentials = "include";
+		else if (link.crossOrigin === "anonymous") fetchOpts.credentials = "omit";
+		else fetchOpts.credentials = "same-origin";
+		return fetchOpts;
+	}
+	function processPreload(link) {
+		if (link.ep) return;
+		link.ep = true;
+		const fetchOpts = getFetchOpts(link);
+		fetch(link.href, fetchOpts);
+	}
+}());
+
+function ErrorFallback({ error }) {
+  return /* @__PURE__ */ jsxs("div", { className: "p-5 text-error bg-muted rounded-lg m-4", children: [
+    /* @__PURE__ */ jsx("p", { className: "text-sm font-medium", children: "Something went wrong:" }),
+    /* @__PURE__ */ jsx("pre", { className: "text-xs mt-1 whitespace-pre-wrap", children: error.message })
+  ] });
+}
+function App() {
+  return /* @__PURE__ */ jsx(ErrorBoundary, { FallbackComponent: ErrorFallback, children: /* @__PURE__ */ jsx(HysteresisSimulator, {}) });
+}
+function HysteresisSimulator() {
+  const [fieldStrength, setFieldStrength] = useState(1.2);
+  const [memoryLag, setMemoryLag] = useState(0.4);
+  const [frequency, setFrequency] = useState(1);
+  const [isPlaying, setIsPlaying] = useState(true);
+  const [frameTick, setFrameTick] = useState(0);
+  const lastTimeRef = useRef(performance.now());
+  const phaseRef = useRef(0);
+  const numDomains = 60;
+  const domainsRef = useRef(
+    Array.from({ length: numDomains }, (_, i) => ({
+      x: i / (numDomains - 1),
+      H: 0,
+      M: 0
+    }))
+  );
+  const trajectoryRef = useRef([]);
+  const maxTrajectoryPoints = 200;
+  const [dimensions, setDimensions] = useState({ width: 800, height: 450 });
+  const containerRef = useRef(null);
+  useEffect(() => {
+    if (!containerRef.current) return;
+    const resizeObserver = new ResizeObserver((entries) => {
+      for (let entry of entries) {
+        const { width: width2 } = entry.contentRect;
+        const targetWidth = width2 > 0 ? width2 : 800;
+        setDimensions({
+          width: targetWidth,
+          height: targetWidth * 0.52
+          // Explicit landscape orientation/aspect-driven height
+        });
+      }
+    });
+    resizeObserver.observe(containerRef.current);
+    return () => resizeObserver.disconnect();
+  }, []);
+  const { width, height } = dimensions;
+  useEffect(() => {
+    if (!isPlaying) return;
+    lastTimeRef.current = performance.now();
+    let frameId;
+    const tick = (now) => {
+      const delta = Math.min((now - lastTimeRef.current) / 1e3, 0.1);
+      lastTimeRef.current = now;
+      phaseRef.current += delta * frequency * 2 * Math.PI;
+      const currentPhase = phaseRef.current;
+      const domains = domainsRef.current;
+      for (let i = 0; i < numDomains; i++) {
+        const domain = domains[i];
+        const spatialPhase = domain.x * Math.PI * 1.5;
+        const H_external = fieldStrength * Math.sin(currentPhase - spatialPhase * 0.3);
+        const M_sat = 1;
+        const M_理想 = M_sat * Math.tanh(H_external / 0.5);
+        const lagAmount = memoryLag * 0.8;
+        const dM_ideal = M_理想 - domain.M;
+        let deltaM = dM_ideal * (1 - lagAmount);
+        domain.H = H_external;
+        domain.M = Math.max(-M_sat, Math.min(M_sat, domain.M + deltaM * 0.15));
+      }
+      const midIdx = Math.floor(numDomains / 2);
+      const midDomain = domains[midIdx];
+      trajectoryRef.current.push({ H: midDomain.H, M: midDomain.M });
+      if (trajectoryRef.current.length > maxTrajectoryPoints) {
+        trajectoryRef.current.shift();
+      }
+      setFrameTick((t) => t + 1);
+      frameId = requestAnimationFrame(tick);
+    };
+    frameId = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(frameId);
+  }, [isPlaying, fieldStrength, memoryLag, frequency]);
+  const padding = { top: 40, right: 30, bottom: 40, left: 55 };
+  const graphWidth = width * 0.45;
+  const spatialWidth = width * 0.45;
+  const spatialXOffset = width * 0.52;
+  const xScaleH = d3.scaleLinear().domain([-1.5, 1.5]).range([padding.left, graphWidth - padding.right]);
+  const yScaleM = d3.scaleLinear().domain([-1.1, 1.1]).range([height - padding.bottom, padding.top]);
+  const spatialYScale = d3.scaleLinear().domain([0, 1]).range([padding.top, height - padding.bottom]);
+  const maxBarWidth = spatialWidth * 0.35;
+  const midDomainData = domainsRef.current[Math.floor(numDomains / 2)];
+  const energyLoss = useMemo(() => {
+    return (memoryLag * fieldStrength * 0.65).toFixed(2);
+  }, [memoryLag, fieldStrength]);
+  return /* @__PURE__ */ jsxs("div", { ref: containerRef, className: "w-full bg-card text-foreground flex flex-col font-sans select-none", children: [
+    /* @__PURE__ */ jsxs("div", { className: "relative w-full overflow-hidden border-b border-border bg-slate-950", children: [
+      /* @__PURE__ */ jsx("div", { className: "absolute top-0 end-0 p-3 z-10 flex items-center justify-end pointer-events-none", children: /* @__PURE__ */ jsx(
+        "button",
+        {
+          onClick: () => setIsPlaying(!isPlaying),
+          className: "w-9 h-9 rounded-full flex items-center justify-center cursor-pointer transition-colors shadow-none bg-zinc-800/90 hover:bg-zinc-700 text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-primary pointer-events-auto relative overflow-visible after:absolute after:-inset-1",
+          "aria-label": isPlaying ? "Pause animation" : "Play animation",
+          children: /* @__PURE__ */ jsx("span", { className: "material-icons !text-base", children: isPlaying ? "pause" : "play_arrow" })
+        }
+      ) }),
+      /* @__PURE__ */ jsxs(
+        "svg",
+        {
+          role: "img",
+          "aria-label": "Interactive spatiotemporal hysteresis loop simulation showing material magnetization delay behind an external magnetic field.",
+          viewBox: `0 0 ${width} ${height}`,
+          className: "w-full h-auto block",
+          children: [
+            /* @__PURE__ */ jsxs("g", { stroke: "#334155", strokeWidth: 1, strokeDasharray: "2,4", opacity: 0.6, children: [
+              /* @__PURE__ */ jsx("line", { x1: xScaleH(0), y1: padding.top, x2: xScaleH(0), y2: height - padding.bottom }),
+              /* @__PURE__ */ jsx("line", { x1: padding.left, y1: yScaleM(0), x2: graphWidth - padding.right, y2: yScaleM(0) }),
+              /* @__PURE__ */ jsx("line", { x1: xScaleH(-1), y1: padding.top, x2: xScaleH(-1), y2: height - padding.bottom, opacity: 0.3 }),
+              /* @__PURE__ */ jsx("line", { x1: xScaleH(1), y1: padding.top, x2: xScaleH(1), y2: height - padding.bottom, opacity: 0.3 })
+            ] }),
+            /* @__PURE__ */ jsxs("g", { fill: "#94a3b8", fontSize: 11, fontFamily: "sans-serif", children: [
+              /* @__PURE__ */ jsx("text", { x: xScaleH(0) - 8, y: padding.top - 8, textAnchor: "middle", fill: "#60a5fa", fontWeight: "medium", children: "+M (Magnetization)" }),
+              /* @__PURE__ */ jsx("text", { x: xScaleH(0) - 8, y: height - padding.bottom + 14, textAnchor: "middle", fill: "#60a5fa", opacity: 0.7, children: "-M" }),
+              /* @__PURE__ */ jsx("text", { x: graphWidth - padding.right + 12, y: yScaleM(0) + 4, textAnchor: "start", fill: "#f43f5e", fontWeight: "medium", children: "+H (Field)" }),
+              /* @__PURE__ */ jsx("text", { x: padding.left - 42, y: yScaleM(0) + 4, textAnchor: "start", fill: "#f43f5e", opacity: 0.7, children: "-H" }),
+              /* @__PURE__ */ jsx("text", { x: xScaleH(1), y: yScaleM(0) + 14, textAnchor: "middle", children: "1.0" }),
+              /* @__PURE__ */ jsx("text", { x: xScaleH(-1), y: yScaleM(0) + 14, textAnchor: "middle", children: "-1.0" }),
+              /* @__PURE__ */ jsx("text", { x: xScaleH(0) - 12, y: yScaleM(1) + 4, textAnchor: "end", children: "1.0" }),
+              /* @__PURE__ */ jsx("text", { x: xScaleH(0) - 12, y: yScaleM(-1) + 4, textAnchor: "end", children: "-1.0" })
+            ] }),
+            trajectoryRef.current.length > 1 && /* @__PURE__ */ jsx(
+              "path",
+              {
+                d: d3.line().x((d) => xScaleH(d.H)).y((d) => yScaleM(d.M))(trajectoryRef.current) ?? "",
+                fill: "none",
+                stroke: "#38bdf8",
+                strokeWidth: 3,
+                strokeLinecap: "round",
+                strokeLinejoin: "round",
+                opacity: 0.85
+              }
+            ),
+            /* @__PURE__ */ jsx(
+              "circle",
+              {
+                cx: xScaleH(midDomainData.H),
+                cy: yScaleM(midDomainData.M),
+                r: 6,
+                fill: "#38bdf8",
+                stroke: "#ffffff",
+                strokeWidth: 1.5,
+                className: "shadow"
+              }
+            ),
+            /* @__PURE__ */ jsxs("g", { fill: "#94a3b8", fontSize: 12, fontWeight: "medium", children: [
+              /* @__PURE__ */ jsx("text", { x: spatialXOffset, y: padding.top - 15, textAnchor: "start", children: "Spatiotemporal Lattice Profiles" }),
+              /* @__PURE__ */ jsxs("text", { x: spatialXOffset + spatialWidth - 10, y: padding.top - 15, textAnchor: "end", fontSize: 11, fill: "#64748b", children: [
+                numDomains,
+                " Domains"
+              ] })
+            ] }),
+            /* @__PURE__ */ jsxs("g", { fill: "#0f172a", stroke: "#1e293b", strokeWidth: 1, children: [
+              /* @__PURE__ */ jsx(
+                "rect",
+                {
+                  x: spatialXOffset,
+                  y: padding.top,
+                  width: maxBarWidth,
+                  height: height - padding.top - padding.bottom,
+                  rx: 4
+                }
+              ),
+              /* @__PURE__ */ jsx(
+                "rect",
+                {
+                  x: spatialXOffset + maxBarWidth + 20,
+                  y: padding.top,
+                  width: maxBarWidth,
+                  height: height - padding.top - padding.bottom,
+                  rx: 4
+                }
+              )
+            ] }),
+            /* @__PURE__ */ jsxs("g", { fontSize: 11, fontWeight: "medium", fill: "#94a3b8", children: [
+              /* @__PURE__ */ jsx("text", { x: spatialXOffset + maxBarWidth / 2, y: padding.top - 3, textAnchor: "middle", fill: "#f43f5e", children: "Applied Field (H)" }),
+              /* @__PURE__ */ jsx("text", { x: spatialXOffset + maxBarWidth + 20 + maxBarWidth / 2, y: padding.top - 3, textAnchor: "middle", fill: "#38bdf8", children: "Response (M)" })
+            ] }),
+            /* @__PURE__ */ jsx("g", { children: domainsRef.current.map((domain, i) => {
+              const yPos = spatialYScale(domain.x);
+              const hWidth = domain.H / 1.5 * (maxBarWidth / 2);
+              const mWidth = domain.M / 1.1 * (maxBarWidth / 2);
+              const isMid = i === Math.floor(numDomains / 2);
+              return /* @__PURE__ */ jsxs("g", { opacity: isMid ? 1 : 0.75, children: [
+                /* @__PURE__ */ jsx(
+                  "line",
+                  {
+                    x1: spatialXOffset + maxBarWidth / 2,
+                    y1: yPos,
+                    x2: spatialXOffset + maxBarWidth / 2 + hWidth,
+                    y2: yPos,
+                    stroke: domain.H >= 0 ? "#f43f5e" : "#fb7185",
+                    strokeWidth: isMid ? 4 : 2,
+                    strokeLinecap: "round"
+                  }
+                ),
+                /* @__PURE__ */ jsx(
+                  "line",
+                  {
+                    x1: spatialXOffset + maxBarWidth + 20 + maxBarWidth / 2,
+                    y1: yPos,
+                    x2: spatialXOffset + maxBarWidth + 20 + maxBarWidth / 2 + mWidth,
+                    y2: yPos,
+                    stroke: domain.M >= 0 ? "#0ea5e9" : "#38bdf8",
+                    strokeWidth: isMid ? 4 : 2,
+                    strokeLinecap: "round"
+                  }
+                ),
+                isMid && /* @__PURE__ */ jsxs("g", { children: [
+                  /* @__PURE__ */ jsx("circle", { cx: spatialXOffset + maxBarWidth / 2 + hWidth, cy: yPos, r: 3, fill: "#ffffff" }),
+                  /* @__PURE__ */ jsx("circle", { cx: spatialXOffset + maxBarWidth + 20 + maxBarWidth / 2 + mWidth, cy: yPos, r: 3, fill: "#ffffff" }),
+                  /* @__PURE__ */ jsx(
+                    "line",
+                    {
+                      x1: spatialXOffset - 10,
+                      y1: yPos,
+                      x2: spatialXOffset + maxBarWidth * 2 + 30,
+                      y2: yPos,
+                      stroke: "#38bdf8",
+                      strokeWidth: 1,
+                      strokeDasharray: "2,3",
+                      opacity: 0.4,
+                      pointerEvents: "none"
+                    }
+                  )
+                ] })
+              ] }, i);
+            }) }),
+            /* @__PURE__ */ jsx(
+              "text",
+              {
+                x: padding.left + 10,
+                y: height - padding.bottom - 12,
+                fill: "#334155",
+                fontSize: 11,
+                fontFamily: "monospace",
+                opacity: 0.7,
+                children: "Tom Klootwijk NL200678942"
+              }
+            )
+          ]
+        }
+      )
+    ] }),
+    /* @__PURE__ */ jsxs("div", { className: "flex items-center justify-center gap-x-4 sm:gap-x-8 md:gap-x-12 border-b border-border px-5 py-3 shrink-0", children: [
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col items-center gap-0.5 min-w-0 flex-1", children: [
+        /* @__PURE__ */ jsx("span", { className: "text-xs text-muted-foreground font-medium truncate text-center w-full", children: "Drive Field" }),
+        /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums truncate text-center w-full", children: [
+          midDomainData.H.toFixed(2),
+          " Oe"
+        ] })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col items-center gap-0.5 min-w-0 flex-1", children: [
+        /* @__PURE__ */ jsx("span", { className: "text-xs text-muted-foreground font-medium truncate text-center w-full", children: "Magnetization" }),
+        /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums truncate text-center w-full", children: [
+          midDomainData.M.toFixed(2),
+          " emu"
+        ] })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col items-center gap-0.5 min-w-0 flex-1", children: [
+        /* @__PURE__ */ jsx("span", { className: "text-xs text-muted-foreground font-medium truncate text-center w-full", children: "Hysteresis Loss" }),
+        /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums truncate text-center w-full", children: [
+          energyLoss,
+          " J/m³"
+        ] })
+      ] })
+    ] }),
+    /* @__PURE__ */ jsx("div", { className: "p-5 flex flex-col gap-4 bg-card", children: /* @__PURE__ */ jsxs("div", { className: "grid grid-cols-1 sm:grid-cols-3 gap-x-6 gap-y-4", children: [
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-1.5 w-full", children: [
+        /* @__PURE__ */ jsx("label", { className: "text-sm font-medium text-muted-foreground", children: "Maximum Field Strength" }),
+        /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3 w-full", children: [
+          /* @__PURE__ */ jsxs(
+            Slider.Root,
+            {
+              className: "relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3",
+              value: [fieldStrength],
+              onValueChange: (val) => {
+                setFieldStrength(val[0]);
+                trajectoryRef.current = [];
+              },
+              min: 0.4,
+              max: 1.5,
+              step: 0.05,
+              "aria-label": "Maximum Field Strength",
+              children: [
+                /* @__PURE__ */ jsx(Slider.Track, { className: "relative grow rounded-full h-1 !bg-muted", children: /* @__PURE__ */ jsx(Slider.Range, { className: "absolute h-full bg-primary rounded-full" }) }),
+                /* @__PURE__ */ jsx(
+                  Slider.Thumb,
+                  {
+                    className: "block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11",
+                    "aria-label": "Maximum Field Strength Thumb"
+                  }
+                )
+              ]
+            }
+          ),
+          /* @__PURE__ */ jsx("span", { className: "text-sm font-medium text-muted-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[7ch]", children: fieldStrength.toFixed(2) })
+        ] })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-1.5 w-full", children: [
+        /* @__PURE__ */ jsx("label", { className: "text-sm font-medium text-muted-foreground", children: "Memory Lag Factor" }),
+        /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3 w-full", children: [
+          /* @__PURE__ */ jsxs(
+            Slider.Root,
+            {
+              className: "relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3",
+              value: [memoryLag],
+              onValueChange: (val) => {
+                setMemoryLag(val[0]);
+                trajectoryRef.current = [];
+              },
+              min: 0.1,
+              max: 0.9,
+              step: 0.05,
+              "aria-label": "Memory Lag Factor",
+              children: [
+                /* @__PURE__ */ jsx(Slider.Track, { className: "relative grow rounded-full h-1 !bg-muted", children: /* @__PURE__ */ jsx(Slider.Range, { className: "absolute h-full bg-primary rounded-full" }) }),
+                /* @__PURE__ */ jsx(
+                  Slider.Thumb,
+                  {
+                    className: "block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11",
+                    "aria-label": "Memory Lag Factor Thumb"
+                  }
+                )
+              ]
+            }
+          ),
+          /* @__PURE__ */ jsx("span", { className: "text-sm font-medium text-muted-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[7ch]", children: memoryLag.toFixed(2) })
+        ] })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-1.5 w-full", children: [
+        /* @__PURE__ */ jsx("label", { className: "text-sm font-medium text-muted-foreground", children: "Excitation Frequency" }),
+        /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3 w-full", children: [
+          /* @__PURE__ */ jsxs(
+            Slider.Root,
+            {
+              className: "relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3",
+              value: [frequency],
+              onValueChange: (val) => setFrequency(val[0]),
+              min: 0.2,
+              max: 2,
+              step: 0.1,
+              "aria-label": "Excitation Frequency",
+              children: [
+                /* @__PURE__ */ jsx(Slider.Track, { className: "relative grow rounded-full h-1 !bg-muted", children: /* @__PURE__ */ jsx(Slider.Range, { className: "absolute h-full bg-primary rounded-full" }) }),
+                /* @__PURE__ */ jsx(
+                  Slider.Thumb,
+                  {
+                    className: "block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11",
+                    "aria-label": "Excitation Frequency Thumb"
+                  }
+                )
+              ]
+            }
+          ),
+          /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-muted-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[7ch]", children: [
+            frequency.toFixed(1),
+            " Hz"
+          ] })
+        ] })
+      ] })
+    ] }) })
+  ] });
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+  /* @__PURE__ */ jsx(React.StrictMode, { children: /* @__PURE__ */ jsx(App, {}) })
+);
+
+</script><style>
+/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */
+@layer properties {
+  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {
+    *, :before, :after, ::backdrop {
+      --tw-border-style: solid;
+      --tw-font-weight: initial;
+      --tw-ordinal: initial;
+      --tw-slashed-zero: initial;
+      --tw-numeric-figure: initial;
+      --tw-numeric-spacing: initial;
+      --tw-numeric-fraction: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-outline-style: solid;
+      --tw-blur: initial;
+      --tw-brightness: initial;
+      --tw-contrast: initial;
+      --tw-grayscale: initial;
+      --tw-hue-rotate: initial;
+      --tw-invert: initial;
+      --tw-opacity: initial;
+      --tw-saturate: initial;
+      --tw-sepia: initial;
+      --tw-drop-shadow: initial;
+      --tw-drop-shadow-color: initial;
+      --tw-drop-shadow-alpha: 100%;
+      --tw-drop-shadow-size: initial;
+      --tw-content: "";
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+    }
+  }
+}
+
+@layer theme {
+  :root, :host {
+    --font-sans: "Google Sans", "Roboto", sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --color-slate-950: oklch(12.9% .042 264.695);
+    --color-zinc-700: oklch(37% .013 285.805);
+    --color-zinc-800: oklch(27.4% .006 286.033);
+    --color-white: #fff;
+    --spacing: .25rem;
+    --text-xs: .75rem;
+    --text-xs--line-height: calc(1 / .75);
+    --text-sm: .875rem;
+    --text-sm--line-height: calc(1.25 / .875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --font-weight-medium: 500;
+    --radius-lg: .5rem;
+    --default-transition-duration: .15s;
+    --default-transition-timing-function: cubic-bezier(.31, .94, .34, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+    --color-primary: var(--primary, #336ef3);
+    --color-primary-hover: var(--primary-hover, #395fe1);
+    --color-error: var(--brand-red, #ea4335);
+    --color-warning: var(--brand-yellow, #fbbc04);
+    --color-success: var(--brand-green, #34a853);
+    --color-background: var(--surface-container-de-emphasis, #f7f8fa);
+    --color-card: var(--surface-container-de-emphasis, #f7f8fa);
+    --color-card-hover: var(--surface-container-high, #e9ebf0);
+    --color-border: var(--divider, #dcdfe5);
+    --color-input: var(--surface-container, #f0f2f5);
+    --color-secondary: var(--surface-container-high, #e9ebf0);
+    --color-secondary-hover: var(--surface-container-highest, #e1e3e8);
+    --color-accent: var(--surface-container-highest, #e1e3e8);
+    --color-accent-foreground: var(--on-surface-default, #0a0a0a);
+    --color-muted: var(--surface-container, #f0f2f5);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);
+    --color-foreground: var(--on-surface-default, #0a0a0a);
+    --color-disabled: var(--surface-container, #f0f2f5);
+    --color-disabled-foreground: var(--disabled-foreground, #95989c);
+  }
+}
+
+@layer base {
+  *, :after, :before, ::backdrop {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::file-selector-button {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, :host {
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    line-height: 1.5;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  hr {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+
+  abbr:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+
+  a {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+
+  b, strong {
+    font-weight: bolder;
+  }
+
+  code, kbd, samp, pre {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+
+  small {
+    font-size: 80%;
+  }
+
+  sub, sup {
+    vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+  }
+
+  sub {
+    bottom: -.25em;
+  }
+
+  sup {
+    top: -.5em;
+  }
+
+  table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+
+  :-moz-focusring {
+    outline: auto;
+  }
+
+  progress {
+    vertical-align: baseline;
+  }
+
+  summary {
+    display: list-item;
+  }
+
+  ol, ul, menu {
+    list-style: none;
+  }
+
+  img, svg, video, canvas, audio, iframe, embed, object {
+    vertical-align: middle;
+    display: block;
+  }
+
+  img, video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  button, input, select, optgroup, textarea {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  ::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  :where(select:is([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+
+  :where(select:is([multiple], [size])) optgroup option {
+    padding-inline-start: 20px;
+  }
+
+  ::file-selector-button {
+    margin-inline-end: 4px;
+  }
+
+  ::placeholder {
+    opacity: 1;
+  }
+
+  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {
+    ::placeholder {
+      color: currentColor;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      ::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+
+  textarea {
+    resize: vertical;
+  }
+
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  ::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+
+  ::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+
+  ::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+
+  ::-webkit-datetime-edit {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-year-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-month-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-day-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-hour-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-minute-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-second-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-millisecond-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+
+  :-moz-ui-invalid {
+    box-shadow: none;
+  }
+
+  button, input:where([type="button"], [type="reset"], [type="submit"]) {
+    appearance: button;
+  }
+
+  ::file-selector-button {
+    appearance: button;
+  }
+
+  ::-webkit-inner-spin-button {
+    height: auto;
+  }
+
+  ::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  [hidden]:where(:not([hidden="until-found"])) {
+    display: none !important;
+  }
+}
+
+@layer components;
+
+@layer utilities {
+  .pointer-events-auto {
+    pointer-events: auto;
+  }
+
+  .pointer-events-none {
+    pointer-events: none;
+  }
+
+  .absolute {
+    position: absolute;
+  }
+
+  .relative {
+    position: relative;
+  }
+
+  .static {
+    position: static;
+  }
+
+  .end-0 {
+    inset-inline-end: calc(var(--spacing) * 0);
+  }
+
+  .top-0 {
+    top: calc(var(--spacing) * 0);
+  }
+
+  .z-10 {
+    z-index: 10;
+  }
+
+  .m-4 {
+    margin: calc(var(--spacing) * 4);
+  }
+
+  .-my-3 {
+    margin-block: calc(var(--spacing) * -3);
+  }
+
+  .mt-1 {
+    margin-top: calc(var(--spacing) * 1);
+  }
+
+  .block {
+    display: block;
+  }
+
+  .flex {
+    display: flex;
+  }
+
+  .grid {
+    display: grid;
+  }
+
+  .table {
+    display: table;
+  }
+
+  .h-1 {
+    height: calc(var(--spacing) * 1);
+  }
+
+  .h-9 {
+    height: calc(var(--spacing) * 9);
+  }
+
+  .h-11 {
+    height: calc(var(--spacing) * 11);
+  }
+
+  .h-\[18px\] {
+    height: 18px;
+  }
+
+  .h-auto {
+    height: auto;
+  }
+
+  .h-full {
+    height: 100%;
+  }
+
+  .w-9 {
+    width: calc(var(--spacing) * 9);
+  }
+
+  .w-\[7ch\] {
+    width: 7ch;
+  }
+
+  .w-\[18px\] {
+    width: 18px;
+  }
+
+  .w-full {
+    width: 100%;
+  }
+
+  .min-w-0 {
+    min-width: calc(var(--spacing) * 0);
+  }
+
+  .flex-1 {
+    flex: 1;
+  }
+
+  .flex-shrink {
+    flex-shrink: 1;
+  }
+
+  .shrink-0 {
+    flex-shrink: 0;
+  }
+
+  .flex-grow, .grow {
+    flex-grow: 1;
+  }
+
+  .border-collapse {
+    border-collapse: collapse;
+  }
+
+  .cursor-pointer {
+    cursor: pointer;
+  }
+
+  .touch-none {
+    touch-action: none;
+  }
+
+  .resize {
+    resize: both;
+  }
+
+  .grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .flex-col {
+    flex-direction: column;
+  }
+
+  .items-center {
+    align-items: center;
+  }
+
+  .justify-center {
+    justify-content: center;
+  }
+
+  .justify-end {
+    justify-content: flex-end;
+  }
+
+  .gap-0 {
+    gap: calc(var(--spacing) * 0);
+  }
+
+  .gap-0\.5 {
+    gap: calc(var(--spacing) * .5);
+  }
+
+  .gap-1 {
+    gap: calc(var(--spacing) * 1);
+  }
+
+  .gap-1\.5 {
+    gap: calc(var(--spacing) * 1.5);
+  }
+
+  .gap-3 {
+    gap: calc(var(--spacing) * 3);
+  }
+
+  .gap-4 {
+    gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-x-4 {
+    column-gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-x-6 {
+    column-gap: calc(var(--spacing) * 6);
+  }
+
+  .gap-y-4 {
+    row-gap: calc(var(--spacing) * 4);
+  }
+
+  .truncate {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .overflow-hidden {
+    overflow: hidden;
+  }
+
+  .overflow-visible {
+    overflow: visible;
+  }
+
+  .rounded-full {
+    border-radius: 3.40282e38px;
+  }
+
+  .rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+
+  .border {
+    border-style: var(--tw-border-style);
+    border-width: 1px;
+  }
+
+  .border-b {
+    border-bottom-style: var(--tw-border-style);
+    border-bottom-width: 1px;
+  }
+
+  .border-none {
+    --tw-border-style: none;
+    border-style: none;
+  }
+
+  .border-border {
+    border-color: var(--color-border);
+  }
+
+  .\!bg-muted {
+    background-color: var(--color-muted) !important;
+  }
+
+  .bg-card {
+    background-color: var(--color-card);
+  }
+
+  .bg-muted {
+    background-color: var(--color-muted);
+  }
+
+  .bg-primary {
+    background-color: var(--color-primary);
+  }
+
+  .bg-slate-950 {
+    background-color: var(--color-slate-950);
+  }
+
+  .bg-zinc-800 {
+    background-color: var(--color-zinc-800);
+  }
+
+  .bg-zinc-800\/90 {
+    background-color: #27272ae6;
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-zinc-800\/90 {
+      background-color: color-mix(in oklab, var(--color-zinc-800) 90%, transparent);
+    }
+  }
+
+  .p-3 {
+    padding: calc(var(--spacing) * 3);
+  }
+
+  .p-5 {
+    padding: calc(var(--spacing) * 5);
+  }
+
+  .px-5 {
+    padding-inline: calc(var(--spacing) * 5);
+  }
+
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .text-end {
+    text-align: end;
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .\!text-base {
+    font-size: var(--text-base) !important;
+    line-height: var(--tw-leading, var(--text-base--line-height)) !important;
+  }
+
+  .text-sm {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+
+  .text-xs {
+    font-size: var(--text-xs);
+    line-height: var(--tw-leading, var(--text-xs--line-height));
+  }
+
+  .font-medium {
+    --tw-font-weight: var(--font-weight-medium);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .whitespace-nowrap {
+    white-space: nowrap;
+  }
+
+  .whitespace-pre-wrap {
+    white-space: pre-wrap;
+  }
+
+  .text-error {
+    color: var(--color-error);
+  }
+
+  .text-foreground {
+    color: var(--color-foreground);
+  }
+
+  .text-muted-foreground {
+    color: var(--color-muted-foreground);
+  }
+
+  .text-white {
+    color: var(--color-white);
+  }
+
+  .tabular-nums {
+    --tw-numeric-spacing: tabular-nums;
+    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );
+  }
+
+  .underline {
+    text-decoration-line: underline;
+  }
+
+  .shadow {
+    --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, #0000001a), 0 1px 2px -1px var(--tw-shadow-color, #0000001a);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .shadow-none {
+    --tw-shadow: 0 0 #0000;
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .outline {
+    outline-style: var(--tw-outline-style);
+    outline-width: 1px;
+  }
+
+  .filter {
+    filter: var(--tw-blur, ) var(--tw-brightness, ) var(--tw-contrast, ) var(--tw-grayscale, ) var(--tw-hue-rotate, ) var(--tw-invert, ) var(--tw-saturate, ) var(--tw-sepia, ) var(--tw-drop-shadow, );
+  }
+
+  .transition-colors {
+    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to;
+    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration, var(--default-transition-duration));
+  }
+
+  .select-none {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .after\:absolute:after {
+    content: var(--tw-content);
+    position: absolute;
+  }
+
+  .after\:-inset-1:after {
+    content: var(--tw-content);
+    inset: calc(var(--spacing) * -1);
+  }
+
+  .after\:top-1\/2:after {
+    content: var(--tw-content);
+    top: 50%;
+  }
+
+  .after\:left-1\/2:after {
+    content: var(--tw-content);
+    left: 50%;
+  }
+
+  .after\:h-11:after {
+    content: var(--tw-content);
+    height: calc(var(--spacing) * 11);
+  }
+
+  .after\:w-11:after {
+    content: var(--tw-content);
+    width: calc(var(--spacing) * 11);
+  }
+
+  .after\:-translate-x-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  .after\:-translate-y-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  @media (hover: hover) {
+    .hover\:bg-zinc-700:hover {
+      background-color: var(--color-zinc-700);
+    }
+  }
+
+  .focus\:outline-none:focus {
+    --tw-outline-style: none;
+    outline-style: none;
+  }
+
+  .focus-visible\:ring-2:focus-visible {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .focus-visible\:ring-primary:focus-visible {
+    --tw-ring-color: var(--color-primary);
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:grid-cols-3 {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .sm\:gap-x-8 {
+      column-gap: calc(var(--spacing) * 8);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:gap-x-12 {
+      column-gap: calc(var(--spacing) * 12);
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --color-primary: var(--primary, #336ef3);
+    --color-primary-hover: var(--primary-hover, #395fe1);
+    --color-error: var(--brand-red, #ea4335);
+    --color-warning: var(--brand-yellow, #fbbc04);
+    --color-success: var(--brand-green, #34a853);
+    --color-background: var(--surface-container-de-emphasis, #272930);
+    --color-card: var(--surface-container-de-emphasis, #272930);
+    --color-card-hover: var(--surface-container-high, #363840);
+    --color-border: var(--divider, #363840);
+    --color-input: var(--surface-container, #2c2e35);
+    --color-secondary: var(--surface-container-high, #363840);
+    --color-secondary-hover: var(--surface-container-highest, #42444d);
+    --color-accent: var(--surface-container-highest, #42444d);
+    --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+    --color-muted: var(--surface-container, #2c2e35);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+    --color-foreground: var(--on-surface-default, #e6e8f0);
+    --color-disabled: var(--surface-container, #2c2e35);
+    --color-disabled-foreground: var(--disabled-foreground, #797c90);
+  }
+}
+
+.dark {
+  --color-primary: var(--primary, #336ef3);
+  --color-primary-hover: var(--primary-hover, #395fe1);
+  --color-error: var(--brand-red, #ea4335);
+  --color-warning: var(--brand-yellow, #fbbc04);
+  --color-success: var(--brand-green, #34a853);
+  --color-background: var(--surface-container-de-emphasis, #272930);
+  --color-card: var(--surface-container-de-emphasis, #272930);
+  --color-card-hover: var(--surface-container-high, #363840);
+  --color-border: var(--divider, #363840);
+  --color-input: var(--surface-container, #2c2e35);
+  --color-secondary: var(--surface-container-high, #363840);
+  --color-secondary-hover: var(--surface-container-highest, #42444d);
+  --color-accent: var(--surface-container-highest, #42444d);
+  --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+  --color-muted: var(--surface-container, #2c2e35);
+  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+  --color-foreground: var(--on-surface-default, #e6e8f0);
+  --color-disabled: var(--surface-container, #2c2e35);
+  --color-disabled-foreground: var(--disabled-foreground, #797c90);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  opacity: .6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert();
+    opacity: .7;
+  }
+}
+
+.dark input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert();
+  opacity: .7;
+}
+
+[dir="rtl"] svg {
+  direction: ltr;
+}
+
+[dir="rtl"] svg text {
+  unicode-bidi: plaintext;
+}
+
+[dir="rtl"] .material-icons {
+  direction: rtl;
+}
+
+@property --tw-border-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ordinal {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-slashed-zero {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-figure {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-spacing {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-fraction {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow-alpha {
+  syntax: "<percentage>";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-inset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-shadow-alpha {
+  syntax: "<percentage>";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-ring-inset {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-offset-width {
+  syntax: "<length>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-ring-offset-color {
+  syntax: "*";
+  inherits: false;
+  initial-value: #fff;
+}
+
+@property --tw-ring-offset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-outline-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-blur {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-brightness {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-contrast {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-grayscale {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-hue-rotate {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-invert {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-opacity {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-saturate {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-sepia {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-drop-shadow {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-drop-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-drop-shadow-alpha {
+  syntax: "<percentage>";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-drop-shadow-size {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-content {
+  syntax: "*";
+  inherits: false;
+  initial-value: "";
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+</style><link href="https://www.gstatic.com/_/mss/search-next/_/ss/k=search-next.ss.dDDcqmu8sVM.L.B1.O/am=AB4AfACGMEAj/d=1/ed=1/dg=2/rs=AE5fCmR_NrsD6haLCxi1_C4zj5Gzcj_1xw/ee=/m=capy_widget_colors" rel="stylesheet"></head>
+    <body class="">
+  
+  <div id="root"><div class="w-full bg-card text-foreground flex flex-col font-sans select-none"><div class="relative w-full overflow-hidden border-b border-border bg-slate-950"><div class="absolute top-0 end-0 p-3 z-10 flex items-center justify-end pointer-events-none"><button class="w-9 h-9 rounded-full flex items-center justify-center cursor-pointer transition-colors shadow-none bg-zinc-800/90 hover:bg-zinc-700 text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-primary pointer-events-auto relative overflow-visible after:absolute after:-inset-1" aria-label="Play animation"><span class="material-icons !text-base">play_arrow</span></button></div><svg role="img" aria-label="Interactive spatiotemporal hysteresis loop simulation showing material magnetization delay behind an external magnetic field." viewBox="0 0 652 339.04" class="w-full h-auto block"><g stroke="#334155" stroke-width="1" stroke-dasharray="2,4" opacity="0.6"><line x1="159.20000000000002" y1="40" x2="159.20000000000002" y2="299.04"></line><line x1="55" y1="169.52" x2="263.40000000000003" y2="169.52"></line><line x1="89.73333333333335" y1="40" x2="89.73333333333335" y2="299.04" opacity="0.3"></line><line x1="228.66666666666669" y1="40" x2="228.66666666666669" y2="299.04" opacity="0.3"></line></g><g fill="#94a3b8" font-size="11" font-family="sans-serif"><text x="151.20000000000002" y="32" text-anchor="middle" fill="#60a5fa" font-weight="medium">+M (Magnetization)</text><text x="151.20000000000002" y="313.04" text-anchor="middle" fill="#60a5fa" opacity="0.7">-M</text><text x="275.40000000000003" y="173.52" text-anchor="start" fill="#f43f5e" font-weight="medium">+H (Field)</text><text x="13" y="173.52" text-anchor="start" fill="#f43f5e" opacity="0.7">-H</text><text x="228.66666666666669" y="183.52" text-anchor="middle">1.0</text><text x="89.73333333333335" y="183.52" text-anchor="middle">-1.0</text><text x="147.20000000000002" y="55.774545454545475" text-anchor="end">1.0</text><text x="147.20000000000002" y="291.26545454545453" text-anchor="end">-1.0</text></g><path d="M210.289,177.919L239.249,165.289L237.633,153.97L206.058,145.061L156.585,148.459L108.111,161.413L79.151,174.013L80.767,185.305L112.342,194.19L161.815,190.771L210.289,177.797L239.249,165.18L237.633,153.872L206.058,144.973L156.585,148.38L108.111,161.342L79.151,173.949L80.767,185.248L112.342,194.138L161.815,190.725L210.289,177.756L239.249,165.143L237.633,153.839L206.058,144.944L156.585,148.353L108.111,161.318L79.151,173.928L80.767,185.228L112.342,194.121L161.815,190.709L210.289,177.742L239.249,165.13L237.633,153.828L206.058,144.933L156.585,148.344L108.111,161.31L79.151,173.92L80.767,185.222L112.342,194.115L161.815,190.704L210.289,177.737L239.249,165.126L237.633,153.824L206.058,144.93L156.585,148.341L108.111,161.307L79.151,173.918L80.767,185.22L112.342,194.113L161.815,190.702L210.289,177.735L239.249,165.124L237.633,153.822L206.058,144.929L156.585,148.339L108.111,161.306L79.151,173.917L80.767,185.219L112.342,194.112L161.815,190.701L210.289,177.735L239.249,165.124L237.633,153.822L206.058,144.928L156.585,148.339L108.111,161.306L79.151,173.917L80.767,185.219L112.342,194.112L161.815,190.701L174.817,183.478L219.964,170.749L241.902,158.817L232.251,148.251L194.696,141.165L143.583,149.12L135.093,158.414L92.793,171.043L75.858,182.702L90.757,192.91L131.799,198.424L183.307,188.263L225.607,174.854L242.542,162.496L227.643,151.661L186.601,145.582L135.093,155.237L92.793,168.19L75.858,180.14L90.757,190.609L131.799,196.358L183.307,186.407L225.607,173.188L242.542,161L227.643,150.317L186.601,144.376L135.093,154.153L92.793,167.217L75.858,179.266L77.316,190.069L102.134,199.117L148.749,199.606L199.356,186.692L234.625,173.239L241.084,161.063L216.266,150.781L169.651,149.184L119.044,161.104L83.775,173.664L77.316,185.038L102.134,194.599L148.749,195.55L199.356,183.049L234.625,169.967L241.084,158.125L216.266,148.143L169.651,146.815L119.044,158.977L83.775,171.754L77.316,183.323L102.134,193.059L148.749,194.166L199.356,181.807L234.625,168.852L241.084,157.123L216.266,147.244L169.651,146.007L119.044,158.251L83.775,171.102L77.316,182.738L102.134,192.534L148.749,193.695L199.356,181.383L234.625,168.471L241.084,156.782L216.266,146.937L169.651,145.732L119.044,158.004L83.775,170.88L77.316,182.538L102.134,192.354L148.749,193.534L157.468,191.683L168.344,186.331L176.972,178.957L191.532,169.215L230.519,157.625L242.265,147.028L222.283,137.931L178.205,135.167L126.868,147.451L87.881,161.323L76.135,173.97L96.117,184.907L140.195,189.323L191.532,178.524L230.519,165.984L242.265,154.534L222.283,144.672L178.205,141.221L126.868,152.887L87.881,166.204L76.135,178.353L96.117,188.843L140.195,192.858L191.532,181.698L230.519,168.835L242.265,157.094L222.283,146.971L178.205,143.285L126.868,154.74L87.881,167.869L76.135,179.848L96.117,190.185L140.195,194.063L191.532,182.78L230.519,169.807L242.265,157.967L222.283,147.754L178.205,143.989L126.868,155.372L87.881,168.436L76.135,180.358L96.117,190.643L140.195,194.474L191.532,183.15L230.519,170.138L242.265,158.265L222.283,148.022L178.205,144.229L126.868,155.588L87.881,168.63L76.135,180.531L96.117,190.799L140.195,194.614L191.532,183.275L230.519,170.251L235.577,158.459L240.621,147.796L214.565,138.953" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"></path><circle cx="214.56494923859603" cy="138.95340616624026" r="6" fill="#38bdf8" stroke="#ffffff" stroke-width="1.5" class="shadow"></circle><g fill="#94a3b8" font-size="12" font-weight="medium"><text x="339.04" y="25" text-anchor="start">Spatiotemporal Lattice Profiles</text><text x="622.44" y="25" text-anchor="end" font-size="11" fill="#64748b">60 Domains</text></g><g fill="#0f172a" stroke="#1e293b" stroke-width="1"><rect x="339.04" y="40" width="102.69000000000001" height="259.04" rx="4"></rect><rect x="461.73" y="40" width="102.69000000000001" height="259.04" rx="4"></rect></g><g font-size="11" font-weight="medium" fill="#94a3b8"><text x="390.38500000000005" y="37" text-anchor="middle" fill="#f43f5e">Applied Field (H)</text><text x="513.075" y="37" text-anchor="middle" fill="#38bdf8">Response (M)</text></g><g><g opacity="0.75"><line x1="390.38500000000005" y1="40" x2="390.6947028083161" y2="40" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="40" x2="524.4061877910049" y2="40" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="44.39050847457627" x2="391.67872610744485" y2="44.39050847457627" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="44.39050847457627" x2="524.6003125882714" y2="44.39050847457627" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="48.78101694915254" x2="392.6620066571634" y2="48.78101694915254" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="48.78101694915254" x2="524.7885881167821" y2="48.78101694915254" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="53.171525423728816" x2="393.64397993996863" y2="53.171525423728816" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="53.171525423728816" x2="524.9694434685921" y2="53.171525423728816" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="57.56203389830509" x2="394.6240821888671" y2="57.56203389830509" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="57.56203389830509" x2="525.1413282616802" y2="57.56203389830509" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="61.952542372881354" x2="395.60175071106096" y2="61.952542372881354" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="61.952542372881354" x2="525.3027674456466" y2="61.952542372881354" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="66.34305084745763" x2="396.5764242109906" y2="66.34305084745763" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="66.34305084745763" x2="525.4524097956971" y2="66.34305084745763" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="70.7335593220339" x2="397.5475431126015" y2="70.7335593220339" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="70.7335593220339" x2="525.58906802756" y2="70.7335593220339" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="75.12406779661018" x2="398.51454988057856" y2="75.12406779661018" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="75.12406779661018" x2="525.7117493980194" y2="75.12406779661018" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="79.51457627118644" x2="399.47688934045027" y2="79.51457627118644" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="79.51457627118644" x2="525.8196765300141" y2="79.51457627118644" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="83.90508474576271" x2="400.4340089973371" y2="83.90508474576271" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="83.90508474576271" x2="525.912298909931" y2="83.90508474576271" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="88.29559322033899" x2="401.3853593531203" y2="88.29559322033899" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="88.29559322033899" x2="525.9892959857243" y2="88.29559322033899" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="92.68610169491527" x2="402.3303942219362" y2="92.68610169491527" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="92.68610169491527" x2="526.050573034781" y2="92.68610169491527" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="97.07661016949153" x2="403.2685710437417" y2="97.07661016949153" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="97.07661016949153" x2="526.0962509999529" y2="97.07661016949153" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="101.4671186440678" x2="404.1993511958242" y2="101.4671186440678" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="101.4671186440678" x2="526.1266513710847" y2="101.4671186440678" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="105.85762711864407" x2="405.12220030200746" y2="105.85762711864407" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="105.85762711864407" x2="526.1422769921619" y2="105.85762711864407" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="110.24813559322034" x2="406.0365885394633" y2="110.24813559322034" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="110.24813559322034" x2="526.143789474305" y2="110.24813559322034" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="114.63864406779662" x2="406.941990942883" y2="114.63864406779662" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="114.63864406779662" x2="526.1319837513519" y2="114.63864406779662" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="119.02915254237288" x2="407.8378877058858" y2="119.02915254237288" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="119.02915254237288" x2="526.1077602636085" y2="119.02915254237288" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="123.41966101694915" x2="408.7237644794219" y2="123.41966101694915" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="123.41966101694915" x2="526.0720953048701" y2="123.41966101694915" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="127.81016949152541" x2="409.5991126670826" y2="127.81016949152541" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="127.81016949152541" x2="526.026010199913" y2="127.81016949152541" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="132.2006779661017" x2="410.46342971710544" y2="132.2006779661017" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="132.2006779661017" x2="525.9705401555656" y2="132.2006779661017" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="136.59118644067797" x2="411.31621941087286" y2="136.59118644067797" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="136.59118644067797" x2="525.9067037984702" y2="136.59118644067797" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="140.98169491525425" x2="412.156992147816" y2="140.98169491525425" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="140.98169491525425" x2="525.8354745276042" y2="140.98169491525425" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="145.37220338983053" x2="412.9852652264945" y2="145.37220338983053" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="145.37220338983053" x2="525.7577548320562" y2="145.37220338983053" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="149.76271186440678" x2="413.80056312173866" y2="149.76271186440678" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="149.76271186440678" x2="525.6743546363385" y2="149.76271186440678" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="154.15322033898306" x2="414.6024177576329" y2="154.15322033898306" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="154.15322033898306" x2="525.5859745410078" y2="154.15322033898306" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="158.54372881355934" x2="415.390368776258" y2="158.54372881355934" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="158.54372881355934" x2="525.4931945497317" y2="158.54372881355934" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="162.9342372881356" x2="416.16396380200086" y2="162.9342372881356" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="162.9342372881356" x2="525.3964685524517" y2="162.9342372881356" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="167.32474576271187" x2="416.92275870124837" y2="167.32474576271187" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="167.32474576271187" x2="525.2961245090031" y2="167.32474576271187" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="1"><line x1="390.38500000000005" y1="171.71525423728815" x2="417.66631783738694" y2="171.71525423728815" stroke="#f43f5e" stroke-width="4" stroke-linecap="round"></line><line x1="513.075" y1="171.71525423728815" x2="525.1923699845152" y2="171.71525423728815" stroke="#0ea5e9" stroke-width="4" stroke-linecap="round"></line><g><circle cx="417.66631783738694" cy="171.71525423728815" r="3" fill="#ffffff"></circle><circle cx="525.1923699845152" cy="171.71525423728815" r="3" fill="#ffffff"></circle><line x1="329.04" y1="171.71525423728815" x2="574.4200000000001" y2="171.71525423728815" stroke="#38bdf8" stroke-width="1" stroke-dasharray="2,3" opacity="0.4" pointer-events="none"></line></g></g><g opacity="0.75"><line x1="390.38500000000005" y1="176.10576271186443" x2="418.39421432090137" y2="176.10576271186443" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="176.10576271186443" x2="525.0853024516965" y2="176.10576271186443" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="180.49627118644068" x2="419.1060302544729" y2="180.49627118644068" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="180.49627118644068" x2="524.9749236058623" y2="180.49627118644068" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="184.88677966101693" x2="419.8013569728802" y2="184.88677966101693" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="184.88677966101693" x2="524.8611568329255" y2="184.88677966101693" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="189.27728813559324" x2="420.47979527763147" y2="189.27728813559324" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="189.27728813559324" x2="524.7438669152624" y2="189.27728813559324" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="193.6677966101695" x2="421.14095566616015" y2="193.6677966101695" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="193.6677966101695" x2="524.6228810375275" y2="193.6677966101695" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="198.0583050847458" x2="421.78445855542543" y2="198.0583050847458" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="198.0583050847458" x2="524.4980101470836" y2="198.0583050847458" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="202.44881355932205" x2="422.40993449985024" y2="202.44881355932205" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="202.44881355932205" x2="524.369069720213" y2="202.44881355932205" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="206.8393220338983" x2="423.0170244034195" y2="206.8393220338983" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="206.8393220338983" x2="524.235898982831" y2="206.8393220338983" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="211.22983050847458" x2="423.605379725855" y2="211.22983050847458" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="211.22983050847458" x2="524.0983776396898" y2="211.22983050847458" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="215.62033898305083" x2="424.1746626827004" y2="215.62033898305083" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="215.62033898305083" x2="523.9564391943381" y2="215.62033898305083" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="220.01084745762716" x2="424.7245464392606" y2="220.01084745762716" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="220.01084745762716" x2="523.8100800138124" y2="220.01084745762716" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="224.40135593220342" x2="425.25471529823767" y2="224.40135593220342" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="224.40135593220342" x2="523.6593634279982" y2="224.40135593220342" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="228.79186440677967" x2="425.76486488098755" y2="228.79186440677967" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="228.79186440677967" x2="523.5044183687326" y2="228.79186440677967" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="233.18237288135595" x2="426.25470230225375" y2="233.18237288135595" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="233.18237288135595" x2="523.3454323514337" y2="233.18237288135595" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="237.5728813559322" x2="426.7239463383259" y2="237.5728813559322" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="237.5728813559322" x2="523.1826389697977" y2="237.5728813559322" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="241.9633898305085" x2="427.1723275885007" y2="241.9633898305085" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="241.9633898305085" x2="523.0163004824417" y2="241.9633898305085" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="246.35389830508475" x2="427.5995886297363" y2="246.35389830508475" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="246.35389830508475" x2="522.8466864756051" y2="246.35389830508475" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="250.74440677966106" x2="428.00548416445184" y2="250.74440677966106" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="250.74440677966106" x2="522.6740499372976" y2="250.74440677966106" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="255.1349152542373" x2="428.3897811613529" y2="255.1349152542373" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="255.1349152542373" x2="522.4986023273503" y2="255.1349152542373" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="259.52542372881356" x2="428.7522589892258" y2="259.52542372881356" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="259.52542372881356" x2="522.3204893390191" y2="259.52542372881356" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="263.91593220338984" x2="429.0927095435946" y2="263.91593220338984" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="263.91593220338984" x2="522.1397690063262" y2="263.91593220338984" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="268.3064406779661" x2="429.4109373662032" y2="268.3064406779661" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="268.3064406779661" x2="521.9563936263414" y2="268.3064406779661" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="272.6969491525424" x2="429.7067597572353" y2="272.6969491525424" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="272.6969491525424" x2="521.7701966683529" y2="272.6969491525424" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="277.0874576271187" x2="429.9800068801963" y2="277.0874576271187" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="277.0874576271187" x2="521.5808854782432" y2="277.0874576271187" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="281.47796610169496" x2="430.23052185942527" y2="281.47796610169496" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="281.47796610169496" x2="521.3880402069924" y2="281.47796610169496" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="285.8684745762712" x2="430.45816087015726" y2="285.8684745762712" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="285.8684745762712" x2="521.1911190422966" y2="285.8684745762712" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="290.25898305084746" x2="430.66279322109983" y2="290.25898305084746" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="290.25898305084746" x2="520.9894695332782" y2="290.25898305084746" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="294.64949152542374" x2="430.84430142945837" y2="294.64949152542374" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="294.64949152542374" x2="520.7823455843086" y2="294.64949152542374" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g><g opacity="0.75"><line x1="390.38500000000005" y1="299.04" x2="431.0025812883889" y2="299.04" stroke="#f43f5e" stroke-width="2" stroke-linecap="round"></line><line x1="513.075" y1="299.04" x2="520.5689295514586" y2="299.04" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"></line></g></g><text x="65" y="287.04" fill="#334155" font-size="11" font-family="monospace" opacity="0.7">Tom Klootwijk NL200678942</text></svg></div><div class="flex items-center justify-center gap-x-4 sm:gap-x-8 md:gap-x-12 border-b border-border px-5 py-3 shrink-0"><div class="flex flex-col items-center gap-0.5 min-w-0 flex-1"><span class="text-xs text-muted-foreground font-medium truncate text-center w-full">Drive Field</span><span class="text-sm font-medium text-foreground tabular-nums truncate text-center w-full">0.80 Oe</span></div><div class="flex flex-col items-center gap-0.5 min-w-0 flex-1"><span class="text-xs text-muted-foreground font-medium truncate text-center w-full">Magnetization</span><span class="text-sm font-medium text-foreground tabular-nums truncate text-center w-full">0.26 emu</span></div><div class="flex flex-col items-center gap-0.5 min-w-0 flex-1"><span class="text-xs text-muted-foreground font-medium truncate text-center w-full">Hysteresis Loss</span><span class="text-sm font-medium text-foreground tabular-nums truncate text-center w-full">0.31 J/m³</span></div></div><div class="p-5 flex flex-col gap-4 bg-card"><div class="grid grid-cols-1 sm:grid-cols-3 gap-x-6 gap-y-4"><div class="flex flex-col gap-1.5 w-full"><label class="text-sm font-medium text-muted-foreground">Maximum Field Strength</label><div class="flex items-center gap-3 w-full"><span dir="ltr" data-orientation="horizontal" aria-disabled="false" class="relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3" aria-label="Maximum Field Strength" style="--radix-slider-thumb-transform: translateX(-50%);"><span data-orientation="horizontal" class="relative grow rounded-full h-1 !bg-muted"><span data-orientation="horizontal" class="absolute h-full bg-primary rounded-full" style="left: 0%; right: 27.2727%;"></span></span><span style="transform: var(--radix-slider-thumb-transform); position: absolute; left: calc(72.7273% - 4.09091px);"><span role="slider" aria-label="Maximum Field Strength Thumb" aria-valuemin="0.4" aria-valuemax="1.5" aria-orientation="horizontal" data-orientation="horizontal" tabindex="0" class="block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11" data-radix-collection-item="" aria-valuenow="1.2" style=""></span></span></span><span class="text-sm font-medium text-muted-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[7ch]">1.20</span></div></div><div class="flex flex-col gap-1.5 w-full"><label class="text-sm font-medium text-muted-foreground">Memory Lag Factor</label><div class="flex items-center gap-3 w-full"><span dir="ltr" data-orientation="horizontal" aria-disabled="false" class="relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3" aria-label="Memory Lag Factor" style="--radix-slider-thumb-transform: translateX(-50%);"><span data-orientation="horizontal" class="relative grow rounded-full h-1 !bg-muted"><span data-orientation="horizontal" class="absolute h-full bg-primary rounded-full" style="left: 0%; right: 62.5%;"></span></span><span style="transform: var(--radix-slider-thumb-transform); position: absolute; left: calc(37.5% + 2.25px);"><span role="slider" aria-label="Memory Lag Factor Thumb" aria-valuemin="0.1" aria-valuemax="0.9" aria-orientation="horizontal" data-orientation="horizontal" tabindex="0" class="block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11" data-radix-collection-item="" aria-valuenow="0.4" style=""></span></span></span><span class="text-sm font-medium text-muted-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[7ch]">0.40</span></div></div><div class="flex flex-col gap-1.5 w-full"><label class="text-sm font-medium text-muted-foreground">Excitation Frequency</label><div class="flex items-center gap-3 w-full"><span dir="ltr" data-orientation="horizontal" aria-disabled="false" class="relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3" aria-label="Excitation Frequency" style="--radix-slider-thumb-transform: translateX(-50%);"><span data-orientation="horizontal" class="relative grow rounded-full h-1 !bg-muted"><span data-orientation="horizontal" class="absolute h-full bg-primary rounded-full" style="left: 0%; right: 55.5556%;"></span></span><span style="transform: var(--radix-slider-thumb-transform); position: absolute; left: calc(44.4444% + 1px);"><span role="slider" aria-label="Excitation Frequency Thumb" aria-valuemin="0.2" aria-valuemax="2" aria-orientation="horizontal" data-orientation="horizontal" tabindex="0" class="block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11" data-radix-collection-item="" aria-valuenow="1" style=""></span></span></span><span class="text-sm font-medium text-muted-foreground tabular-nums text-end shrink-0 whitespace-nowrap w-[7ch]">1.0 Hz</span></div></div></div></div></div></div></body></html>

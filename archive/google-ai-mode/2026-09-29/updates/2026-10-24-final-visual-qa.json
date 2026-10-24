@@ -1,0 +1,21 @@
+{
+  "pages": [
+    1,
+    33,
+    6514,
+    6590,
+    6695,
+    6791
+  ],
+  "reviewedPages": [
+    1,
+    33,
+    6590,
+    6695,
+    6791
+  ],
+  "result": "passed",
+  "pdfSha256": "3db641e3fe0a370a267a0cdb08e77c5241b9c75faa99dc441b4353ba984e688d",
+  "footerAndIndexVerified": true,
+  "correctedFormulaPreserved": true
+}

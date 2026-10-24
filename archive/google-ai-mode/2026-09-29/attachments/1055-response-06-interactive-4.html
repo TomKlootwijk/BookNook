@@ -1,0 +1,1500 @@
+<html lang="en-NL" dir="ltr"><head>
+      <meta data-sandbox-injected="" http-equiv="Content-Security-Policy" content="
+          default-src 'none';
+          base-uri 'none';
+          connect-src https://fonts.gstatic.com https://www.gstatic.com;
+          font-src https://fonts.gstatic.com data:;
+          form-action 'none';
+          
+          worker-src blob: https://*.scf.usercontent.goog;
+          img-src data: https://encrypted-tbn0.gstatic.com https://encrypted-tbn1.gstatic.com https://encrypted-tbn2.gstatic.com https://encrypted-tbn3.gstatic.com ;
+          media-src 'none';
+          object-src 'none';
+          script-src 'unsafe-inline' 'unsafe-eval' https://www.gstatic.com https://widgetlibs.static.usercontent.goog https://*.scf.usercontent.goog;
+          style-src 'unsafe-inline' 'unsafe-eval' https://fonts.googleapis.com https://www.gstatic.com/;">
+      <meta data-sandbox-injected="" charset="UTF-8">
+      <meta data-sandbox-injected="" name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="enable-onep-api" content="false"><script data-sandbox-injected="true">(function(){var g=Object.defineProperty,k=globalThis,l=function(a,b){if(b)a:{var c=k;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&g(c,a,{configurable:!0,writable:!0,value:b})}};l("Promise.withResolvers",function(a){return a?a:function(){var b,c;return{promise:new Promise(function(d,e){b=d;c=e}),resolve:b,reject:c}}});var m=function(a){return typeof a==="object"&&a!==null&&"kind"in a&&typeof a.kind==="string"&&("payload"in a||a.kind==="___CROSS_FRAME_HANDSHAKE___")},n=class{constructor(){this.j=new Map}i(a){var b=a.data;if(m(b)){let c=b.payload;if(b=this.j.get(b.kind))(a=a.ports&&a.ports.length>0?a.ports:void 0)?b(c,a):b(c)}}sendMessage(a,b,c){if(!this.port)throw Error("a");a={kind:String(a),payload:b||{}};c&&c.length>0?this.port.postMessage(a,c):this.port.postMessage(a)}},p=async function(a){var b=window.parent;
+return a.h?{}:new Promise(c=>{var d=e=>{e.source===b&&m(e.data)&&e.data.kind==="___CROSS_FRAME_HANDSHAKE___"&&(window.removeEventListener("message",d),a.port=e.ports[0],a.port.onmessage=a.i.bind(a),a.h=!0,c(e.data.payload||{}))};window.addEventListener("message",d)})},q=class extends n{constructor(){super(...arguments);this.h=!1}};if(typeof window!=="undefined"&&window.history){let a=window.history.replaceState.bind(window.history);window.history.replaceState=(c,d,e)=>{try{a(c,d,e)}catch{}};let b=window.history.pushState.bind(window.history);window.history.pushState=(c,d,e)=>{try{b(c,d,e)}catch{}}}
+if(typeof window!=="undefined"&&window.fetch){let a=window.fetch.bind(window);window.fetch=async(...b)=>{try{return await a(...b)}catch(c){b=b[0];b=typeof b==="string"?b:b&&typeof b==="object"&&"url"in b?String(b.url||""):String(b||"");if(b.includes("tracking")||b.includes("analytics")||b.includes("beacon"))return new Response(null,{status:204});throw c;}}}var {promise:r,resolve:t}=Promise.withResolvers(),{promise:u,resolve:v}=Promise.withResolvers(),w=!1;
+(async function(){var a=new q,b=await p(a);b&&b.enableSandboxToEditorSync&&(w=!!b.enableSandboxToEditorSync);if(b&&b.initialPayload){let c=b.initialPayload;window.initialPayload=c;window.setTimeout(()=>{window.dispatchEvent(new MessageEvent("message",{data:c}))},0)}t(a);(a=a.port)&&v(a)})();function x(a){r.then(b=>{b.sendMessage("ERROR",{error:a})})}window.onerror=(a,b,c,d,e)=>{x(e);return!0};
+window.onunhandledrejection=a=>{var b=String(a.reason||"");b.includes("Failed to fetch")||b.includes("Content Security Policy")||b.includes("replaceState")||x(Error(a.reason));a.preventDefault()};
+window.document.addEventListener("DOMContentLoaded",()=>{r.then(a=>{a.sendMessage("ISOLATE_READY",{});var b=window.document.querySelector("#resize-target")||window.document.body,c=NaN,d=NaN,e=!1;(new ResizeObserver(()=>{e||(e=!0,window.requestAnimationFrame(()=>{e=!1;var f=Math.ceil(b.scrollHeight),h=Math.ceil(b.scrollWidth);f===c&&h===d||f===0&&h===0||(c=f,d=h,a.sendMessage("RESIZE",{height:f,width:h}))}))})).observe(b);if(w){let f;(new MutationObserver(()=>{f&&window.clearTimeout(f);f=window.setTimeout(()=>
+{f=void 0;a.sendMessage("HTML_CHANGED",{html:"<!DOCTYPE html>\n"+window.document.documentElement.outerHTML})},500)})).observe(window.document.documentElement,{attributes:!0,childList:!0,subtree:!0,characterData:!0})}})});window.addEventListener("resizeRequest",()=>{r.then(a=>{var b=window.document.querySelector("#resize-target")||window.document.body,c=Math.ceil(b.scrollHeight);b=Math.ceil(b.scrollWidth);c===0&&b===0||a.sendMessage("MANUAL_RESIZE",{height:c,width:b})})});
+function y(a){var b=null;a instanceof Element?b=a:a&&a.nodeType===Node.TEXT_NODE&&(b=a.parentElement);if(!b)return null;for(a=b;a&&a!==window.document.body;){if(a.matches('a,button,input,textarea,select,option,details,summary,area,[jsaction],[data-jsaction],[role],[tabindex]:not([tabindex="-1"])'))return z(a);if(a instanceof HTMLElement&&a.isContentEditable)return z(a);a=a.parentElement}return null}
+function z(a){var b={tagName:a.tagName.toUpperCase(),attributes:{}},c=["role","jsaction","data-jsaction","tabindex"];for(let d of c)c=a.getAttribute(d),c!==null&&(b.attributes[d]=c);a instanceof HTMLElement&&a.isContentEditable&&(b.isContentEditable=!0);return b}window.addEventListener("click",a=>{var b=(a=a.target)?y(a):null;r.then(c=>{c.sendMessage("CLICK",{matchedNode:b})})},!0);
+window.addEventListener("request_window_open",a=>{var b=a.detail;r.then(c=>{c.sendMessage("REQUEST_WINDOW_OPEN",{url:b.url,hostname:b.hostname,target:b.target,features:b.features,skipConfirmation:b.skipConfirmation})})});window.sandboxConsoleLog=(a,b)=>{r.then(c=>{c.sendMessage("CONSOLE_LOG",{logLevel:a,message:b})})};if(document.querySelector('meta[name="enable-onep-api"]')?.getAttribute("content")==="true"){let a=!1;window.claimPortReady=()=>{if(a)return null;a=!0;return u}}window.logError=x;}).call(this);</script><script>(function(){function e(a){return["https://www.google.com/maps/","https://maps.google.com/","https://www.youtube.com/watch?v=","https://www.youtube.com/v/","https://youtu.be/"].some(b=>a.startsWith(b))}window.open=(a,b,c)=>{var d,g=!1;if(a)try{if(d=a instanceof URL?a.toString():String(a)){var n=(new URL(d,window.location.href)).hostname;g=e(d)}}catch(p){}window.dispatchEvent(new CustomEvent("request_window_open",{detail:{url:d,hostname:n,target:b,features:c,h:g}}));return null};var f,h,k;
+function l(a){a.button===0&&((f=a=(a.target instanceof Element?a.target:null)?.closest("a")??void 0)?(a=a.getBoundingClientRect(),h=a.left,k=a.top):k=h=void 0)}function m(){k=h=f=void 0}window.addEventListener("pointerdown",l,!0);window.addEventListener("mousedown",l,!0);window.addEventListener("pointercancel",m,!0);
+window.addEventListener("click",a=>{var b=(a.target instanceof Element?a.target:null)?.closest("a"),c=b?.getBoundingClientRect();c=a.detail>0&&b!=null&&f===b&&c!==void 0&&h!==void 0&&k!==void 0&&(Math.abs(c.left-h)>5||Math.abs(c.top-k)>5);m();if(b&&b.hasAttribute("href")){b=b.getAttribute("href")??"";var d=b.trim();if(!d.startsWith("#"))if(d=d.replace(/[\u0000-\u0020]+/g,""),d===""||/^javascript:/i.test(d))a.preventDefault();else if(c||a.defaultPrevented)a.preventDefault(),a.stopPropagation();else{c=
+!1;try{var g=(new URL(b,window.location.href)).hostname;c=e(b)}catch{}a.preventDefault();a.stopPropagation();window.dispatchEvent(new CustomEvent("request_window_open",{detail:{url:b,hostname:g,target:"_blank",h:c}}))}}},!0);}).call(this);</script><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><title>Generated Interactive Widget</title><script type="module" crossorigin="">
+import { jsx, jsxs } from 'https://widgetlibs.static.usercontent.goog/react/jsx-runtime-Dc9ViRTo.js';
+import React, { useState, useRef, useEffect } from 'https://widgetlibs.static.usercontent.goog/react-Dd1pKoqe.js';
+import ReactDOM from 'https://widgetlibs.static.usercontent.goog/react-dom/client-BTuQ-l8_.js';
+import * as Slider from 'https://widgetlibs.static.usercontent.goog/@radix-ui/react-slider-DXk-CvUR.js';
+import { ErrorBoundary } from 'https://widgetlibs.static.usercontent.goog/react-error-boundary-BY2GTZrN.js';
+
+true              &&(function polyfill() {
+	const relList = document.createElement("link").relList;
+	if (relList && relList.supports && relList.supports("modulepreload")) return;
+	for (const link of document.querySelectorAll("link[rel=\"modulepreload\"]")) processPreload(link);
+	new MutationObserver((mutations) => {
+		for (const mutation of mutations) {
+			if (mutation.type !== "childList") continue;
+			for (const node of mutation.addedNodes) if (node.tagName === "LINK" && node.rel === "modulepreload") processPreload(node);
+		}
+	}).observe(document, {
+		childList: true,
+		subtree: true
+	});
+	function getFetchOpts(link) {
+		const fetchOpts = {};
+		if (link.integrity) fetchOpts.integrity = link.integrity;
+		if (link.referrerPolicy) fetchOpts.referrerPolicy = link.referrerPolicy;
+		if (link.crossOrigin === "use-credentials") fetchOpts.credentials = "include";
+		else if (link.crossOrigin === "anonymous") fetchOpts.credentials = "omit";
+		else fetchOpts.credentials = "same-origin";
+		return fetchOpts;
+	}
+	function processPreload(link) {
+		if (link.ep) return;
+		link.ep = true;
+		const fetchOpts = getFetchOpts(link);
+		fetch(link.href, fetchOpts);
+	}
+}());
+
+function ErrorFallback({ error }) {
+  return /* @__PURE__ */ jsxs("div", { className: "p-5 text-error bg-card rounded-lg border border-border", children: [
+    /* @__PURE__ */ jsx("p", { className: "font-medium text-sm", children: "Something went wrong:" }),
+    /* @__PURE__ */ jsx("pre", { className: "text-xs mt-1 overflow-auto", children: error.message })
+  ] });
+}
+function App() {
+  return /* @__PURE__ */ jsx(ErrorBoundary, { FallbackComponent: ErrorFallback, children: /* @__PURE__ */ jsx(TimeArrowWidget, {}) });
+}
+function TimeArrowWidget() {
+  const [isPlaying, setIsPlaying] = useState(true);
+  const [frameTick, setFrameTick] = useState(0);
+  const [entropyRate, setEntropyRate] = useState(1.5);
+  const [clockFrequency, setClockFrequency] = useState(5);
+  const lastTimeRef = useRef(performance.now());
+  const absoluteTimeRef = useRef(0);
+  const atomicPhaseRef = useRef(0);
+  const gridSize = 24;
+  const gridCellsRef = useRef([]);
+  if (gridCellsRef.current.length === 0) {
+    const cells = [];
+    for (let i = 0; i < gridSize; i++) {
+      const t = i / (gridSize - 1);
+      const xNorm = Math.log(1 + 9 * t) / Math.log(10);
+      cells.push({
+        xNorm,
+        tauA: 0.5 + 0.4 * Math.sin(t * Math.PI),
+        tauB: 0.5 + 0.4 * Math.cos(t * Math.PI),
+        muA: 0.2,
+        muB: 0.8
+      });
+    }
+    gridCellsRef.current = cells;
+  }
+  useEffect(() => {
+    if (!isPlaying) return;
+    lastTimeRef.current = performance.now();
+    let frameId;
+    const tick = (now) => {
+      const delta = Math.min((now - lastTimeRef.current) / 1e3, 0.1);
+      lastTimeRef.current = now;
+      absoluteTimeRef.current += delta;
+      atomicPhaseRef.current += delta * clockFrequency * 8;
+      const pulse = Math.sin(atomicPhaseRef.current);
+      const cells = gridCellsRef.current;
+      const rate = entropyRate * delta * 4;
+      for (let i = 0; i < gridSize; i++) {
+        const cell = cells[i];
+        const drive = Math.max(0, pulse) * Math.exp(-cell.xNorm * 3) * 2;
+        const x = cell.tauA;
+        const y = cell.tauB;
+        const rx = 1 - (2.5 + 1) * x + x * x * y + drive;
+        const ry = 2.5 * x - x * x * y;
+        cell.tauA += rx * rate;
+        cell.tauB += ry * rate;
+        cell.muA += (cell.tauA - cell.muA) * rate * 0.5;
+        cell.muB += (cell.tauB - cell.muB) * rate * 0.5;
+        cell.tauA = Math.max(0.05, Math.min(cell.tauA, 2.5));
+        cell.tauB = Math.max(0.05, Math.min(cell.tauB, 2.5));
+        cell.muA = Math.max(0.05, Math.min(cell.muA, 2.5));
+        cell.muB = Math.max(0.05, Math.min(cell.muB, 2.5));
+      }
+      for (let i = 1; i < gridSize - 1; i++) {
+        const prev = cells[i - 1];
+        const curr = cells[i];
+        const next = cells[i + 1];
+        const dX1 = curr.xNorm - prev.xNorm;
+        const dX2 = next.xNorm - curr.xNorm;
+        const diffA = 0.15 * (next.tauA - curr.tauA) / dX2 - 0.15 * (curr.tauA - prev.tauA) / dX1;
+        const diffB = 0.15 * (next.tauB - curr.tauB) / dX2 - 0.15 * (curr.tauB - prev.tauB) / dX1;
+        curr.tauA += diffA * rate * 0.3;
+        curr.tauB += diffB * rate * 0.3;
+      }
+      setFrameTick((t) => t + 1);
+      frameId = requestAnimationFrame(tick);
+    };
+    frameId = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(frameId);
+  }, [isPlaying, entropyRate, clockFrequency]);
+  const canvasWidth = 800;
+  const canvasHeight = 400;
+  const atomicClockX = canvasWidth * 0.12;
+  const atomicClockY = canvasHeight * 0.5;
+  const atomicClockRadius = 38;
+  const gridStartX = canvasWidth * 0.28;
+  const gridEndX = canvasWidth * 0.92;
+  const gridWidth = gridEndX - gridStartX;
+  const gridY = canvasHeight * 0.5;
+  const currentPulse = Math.sin(atomicPhaseRef.current);
+  const timeElapsed = absoluteTimeRef.current;
+  let totalEntropyExcess = 0;
+  gridCellsRef.current.forEach((c) => {
+    totalEntropyExcess += Math.abs(c.tauA - c.tauB);
+  });
+  const normalizedEntropy = Math.min(99.9, 12.4 + totalEntropyExcess * 2.1);
+  return /* @__PURE__ */ jsxs("div", { className: "w-full bg-card text-foreground font-sans selection:bg-primary/20 flex flex-col", children: [
+    /* @__PURE__ */ jsxs("div", { className: "flex flex-wrap gap-x-4 gap-y-1 px-5 py-3 border-b border-border bg-card", children: [
+      /* @__PURE__ */ jsxs("div", { className: "min-w-0 flex items-center gap-1.5", children: [
+        /* @__PURE__ */ jsx("div", { className: "w-2.5 h-2.5 rounded-full bg-amber-400" }),
+        /* @__PURE__ */ jsx("span", { className: "text-xs font-normal text-muted-foreground truncate", children: "Atomic Generator" })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "min-w-0 flex items-center gap-1.5", children: [
+        /* @__PURE__ */ jsx("div", { className: "w-2.5 h-2.5 rounded-full bg-blue-400" }),
+        /* @__PURE__ */ jsx("span", { className: "text-xs font-normal text-muted-foreground truncate", children: "Tau Phase (τ)" })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "min-w-0 flex items-center gap-1.5", children: [
+        /* @__PURE__ */ jsx("div", { className: "w-2.5 h-2.5 rounded-full bg-purple-400" }),
+        /* @__PURE__ */ jsx("span", { className: "text-xs font-normal text-muted-foreground truncate", children: "Mu Product (μ)" })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "min-w-0 flex items-center gap-1.5", children: [
+        /* @__PURE__ */ jsx("div", { className: "w-2.5 h-2.5 rounded-full bg-emerald-400" }),
+        /* @__PURE__ */ jsx("span", { className: "text-xs font-normal text-muted-foreground truncate", children: "Log-Grid Scale" })
+      ] })
+    ] }),
+    /* @__PURE__ */ jsxs("div", { className: "relative w-full overflow-hidden border-b border-border bg-zinc-950", children: [
+      /* @__PURE__ */ jsx("div", { className: "absolute top-0 end-0 p-3 z-10 flex items-center justify-end pointer-events-none", children: /* @__PURE__ */ jsx(
+        "button",
+        {
+          onClick: () => setIsPlaying(!isPlaying),
+          className: "w-9 h-9 rounded-full flex items-center justify-center cursor-pointer transition-colors shadow-none bg-zinc-900/90 hover:bg-zinc-800 text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-primary pointer-events-auto relative overflow-visible after:absolute after:-inset-1",
+          "aria-label": isPlaying ? "Pause simulation" : "Play simulation",
+          children: /* @__PURE__ */ jsx("span", { className: "material-icons !text-base", children: isPlaying ? "pause" : "play_arrow" })
+        }
+      ) }),
+      /* @__PURE__ */ jsxs(
+        "svg",
+        {
+          role: "img",
+          "aria-label": "1D Arrow of Time: Atomic clock feeding non-linear inverse logarithmic chemical grid simulation",
+          viewBox: `0 0 ${canvasWidth} ${canvasHeight}`,
+          className: "w-full h-auto aspect-video display-block",
+          children: [
+            /* @__PURE__ */ jsxs("g", { opacity: "0.15", children: [
+              /* @__PURE__ */ jsx("line", { x1: 0, y1: canvasHeight * 0.5, x2: canvasWidth, y2: canvasHeight * 0.5, stroke: "#ffffff", strokeWidth: "1", strokeDasharray: "4 4" }),
+              /* @__PURE__ */ jsx("line", { x1: gridStartX, y1: 0, x2: gridStartX, y2: canvasHeight, stroke: "#ffffff", strokeWidth: "1" })
+            ] }),
+            /* @__PURE__ */ jsx("text", { x: 20, y: 30, fill: "#ffffff", opacity: "0.25", fontSize: 11, fontFamily: "monospace", children: "LANL-LOG-GRIDDER // SIM_STATUS: ACTIVE" }),
+            /* @__PURE__ */ jsx("text", { x: canvasWidth - 20, y: 30, textAnchor: "end", fill: "#ffffff", opacity: "0.25", fontSize: 11, fontFamily: "monospace", children: "1D_ARROW_OF_TIME_CLOCK" }),
+            /* @__PURE__ */ jsx("defs", { children: /* @__PURE__ */ jsx("marker", { id: "arrow", viewBox: "0 0 10 10", refX: "6", refY: "5", markerWidth: "6", markerHeight: "6", orient: "auto-start-reverse", children: /* @__PURE__ */ jsx("path", { d: "M 0 1 L 10 5 L 0 9 z", fill: "#336ef3" }) }) }),
+            /* @__PURE__ */ jsx(
+              "line",
+              {
+                x1: gridStartX - 40,
+                y1: gridY + 110,
+                x2: gridEndX + 30,
+                y2: gridY + 110,
+                stroke: "#336ef3",
+                strokeWidth: "2",
+                opacity: "0.6",
+                markerEnd: "url(#arrow)"
+              }
+            ),
+            /* @__PURE__ */ jsx("text", { x: gridEndX + 20, y: gridY + 130, textAnchor: "end", fill: "#336ef3", fontSize: 12, fontWeight: "medium", children: "Entropy / Arrow of Time ➔" }),
+            /* @__PURE__ */ jsxs("g", { transform: `translate(${atomicClockX}, ${atomicClockY})`, children: [
+              /* @__PURE__ */ jsx("circle", { cx: "0", cy: "0", r: atomicClockRadius, fill: "none", stroke: "#fbbc04", strokeWidth: "2", opacity: "0.4" }),
+              /* @__PURE__ */ jsx("circle", { cx: "0", cy: "0", r: Math.max(10, 18 + currentPulse * 6), fill: "#fbbc04", fillOpacity: 0.25 + currentPulse * 0.15, stroke: "#fbbc04", strokeWidth: "1.5" }),
+              /* @__PURE__ */ jsx("circle", { cx: "0", cy: "0", r: "5", fill: "#fbbc04" }),
+              /* @__PURE__ */ jsx(
+                "line",
+                {
+                  x1: "0",
+                  y1: "0",
+                  x2: atomicClockRadius * Math.cos(atomicPhaseRef.current),
+                  y2: atomicClockRadius * Math.sin(atomicPhaseRef.current),
+                  stroke: "#fbbc04",
+                  strokeWidth: "2"
+                }
+              ),
+              /* @__PURE__ */ jsx(
+                "path",
+                {
+                  d: `M ${atomicClockRadius + 8} -15 Q ${atomicClockRadius + 16 + currentPulse * 4} 0 ${atomicClockRadius + 8} 15`,
+                  fill: "none",
+                  stroke: "#fbbc04",
+                  strokeWidth: "2",
+                  opacity: 0.7 + currentPulse * 0.3
+                }
+              ),
+              /* @__PURE__ */ jsx("text", { x: "0", y: atomicClockRadius + 18, textAnchor: "middle", fill: "#fbbc04", fontSize: 12, fontWeight: "medium", children: "Atomic Core" }),
+              /* @__PURE__ */ jsxs("text", { x: "0", y: atomicClockRadius + 30, textAnchor: "middle", fill: "#ffffff", opacity: "0.4", fontSize: 11, fontFamily: "monospace", children: [
+                (clockFrequency * 9.192).toFixed(2),
+                " GHz"
+              ] })
+            ] }),
+            /* @__PURE__ */ jsx(
+              "path",
+              {
+                d: `M ${atomicClockX + atomicClockRadius + 15} ${atomicClockY} C ${gridStartX - 30} ${atomicClockY - 40}, ${gridStartX - 20} ${atomicClockY - 10}, ${gridStartX} ${atomicClockY}`,
+                fill: "none",
+                stroke: "url(#flux-grad)",
+                strokeWidth: "3",
+                strokeDasharray: "6 4",
+                opacity: "0.7"
+              }
+            ),
+            /* @__PURE__ */ jsx("defs", { children: /* @__PURE__ */ jsxs("linearGradient", { id: "flux-grad", x1: "0%", y1: "0%", x2: "100%", y2: "0%", children: [
+              /* @__PURE__ */ jsx("stop", { offset: "0%", stopColor: "#fbbc04" }),
+              /* @__PURE__ */ jsx("stop", { offset: "100%", stopColor: "#336ef3" })
+            ] }) }),
+            gridCellsRef.current.map((cell, index) => {
+              const cellX = gridStartX + cell.xNorm * gridWidth;
+              const barHeightA = cell.tauA * 35;
+              const barHeightB = cell.tauB * 35;
+              const barHeightMuA = cell.muA * 30;
+              return /* @__PURE__ */ jsxs("g", { children: [
+                /* @__PURE__ */ jsx(
+                  "line",
+                  {
+                    x1: cellX,
+                    y1: gridY - 70,
+                    x2: cellX,
+                    y2: gridY + 70,
+                    stroke: "#34a853",
+                    strokeWidth: index % 6 === 0 ? "1.5" : "0.5",
+                    opacity: index % 6 === 0 ? "0.4" : "0.2"
+                  }
+                ),
+                index < gridSize - 1 && /* @__PURE__ */ jsx(
+                  "line",
+                  {
+                    x1: cellX,
+                    y1: gridY,
+                    x2: gridStartX + gridCellsRef.current[index + 1].xNorm * gridWidth,
+                    y2: gridY,
+                    stroke: "#ffffff",
+                    strokeWidth: "1",
+                    opacity: "0.15"
+                  }
+                ),
+                /* @__PURE__ */ jsx(
+                  "circle",
+                  {
+                    cx: cellX,
+                    cy: gridY - 25 - barHeightA * 0.2,
+                    r: Math.max(3, 4 + cell.tauA * 3),
+                    fill: "#336ef3",
+                    fillOpacity: "0.8",
+                    stroke: "#ffffff",
+                    strokeWidth: "0.5"
+                  }
+                ),
+                /* @__PURE__ */ jsx(
+                  "circle",
+                  {
+                    cx: cellX,
+                    cy: gridY + 25 + barHeightB * 0.2,
+                    r: Math.max(3, 4 + cell.tauB * 3),
+                    fill: "#a855f7",
+                    fillOpacity: "0.8",
+                    stroke: "#ffffff",
+                    strokeWidth: "0.5"
+                  }
+                ),
+                /* @__PURE__ */ jsx(
+                  "line",
+                  {
+                    x1: cellX,
+                    y1: gridY - 25 - barHeightA * 0.2,
+                    x2: cellX,
+                    y2: gridY + 25 + barHeightB * 0.2,
+                    stroke: "#ffffff",
+                    strokeWidth: "1",
+                    opacity: "0.1"
+                  }
+                ),
+                /* @__PURE__ */ jsx(
+                  "rect",
+                  {
+                    x: cellX - 2,
+                    y: gridY - barHeightMuA * 0.5,
+                    width: "4",
+                    height: barHeightMuA,
+                    fill: "#34a853",
+                    opacity: "0.25",
+                    className: "rounded-full"
+                  }
+                ),
+                (index === 0 || index === 5 || index === 11 || index === 17 || index === gridSize - 1) && /* @__PURE__ */ jsxs(
+                  "text",
+                  {
+                    x: cellX,
+                    y: gridY - 82,
+                    textAnchor: "middle",
+                    fill: "#34a853",
+                    fontSize: 11,
+                    fontFamily: "monospace",
+                    opacity: "0.8",
+                    children: [
+                      cell.xNorm.toFixed(2),
+                      "x"
+                    ]
+                  }
+                )
+              ] }, index);
+            }),
+            /* @__PURE__ */ jsx("text", { x: gridStartX, y: gridY - 110, fill: "#ffffff", opacity: "0.8", fontSize: 12, fontWeight: "medium", children: "Non-Linear Chemical Clock Cascade" }),
+            /* @__PURE__ */ jsx("text", { x: gridStartX, y: gridY - 96, fill: "#34a853", opacity: "0.9", fontSize: 11, fontFamily: "monospace", children: "Inverse Logarithmic Metric Mesh Configuration (LANL Mode)" })
+          ]
+        }
+      )
+    ] }),
+    /* @__PURE__ */ jsxs("div", { className: "flex items-center justify-center gap-x-4 sm:gap-x-8 md:gap-x-12 border-b border-border px-5 py-3 shrink-0 bg-card", children: [
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col items-center gap-0.5 min-w-0 flex-1", children: [
+        /* @__PURE__ */ jsx("span", { className: "text-xs text-muted-foreground font-medium truncate text-center w-full", children: "Master Time" }),
+        /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums truncate text-center w-full", children: [
+          timeElapsed.toFixed(2),
+          "s"
+        ] })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col items-center gap-0.5 min-w-0 flex-1", children: [
+        /* @__PURE__ */ jsx("span", { className: "text-xs text-muted-foreground font-medium truncate text-center w-full", children: "Grid Entropy" }),
+        /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums truncate text-center w-full", children: [
+          normalizedEntropy.toFixed(1),
+          " J/K"
+        ] })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col items-center gap-0.5 min-w-0 flex-1", children: [
+        /* @__PURE__ */ jsx("span", { className: "text-xs text-muted-foreground font-medium truncate text-center w-full", children: "Mesh Status" }),
+        /* @__PURE__ */ jsx("span", { className: "text-sm font-medium text-success tabular-nums truncate text-center w-full", children: "COUPLED" })
+      ] })
+    ] }),
+    /* @__PURE__ */ jsx("div", { className: "p-5 flex flex-col gap-3.5 bg-card", children: /* @__PURE__ */ jsxs("div", { className: "grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-3.5", children: [
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-1.5", children: [
+        /* @__PURE__ */ jsx("label", { className: "text-sm font-medium text-muted-foreground", children: "Atomic Frequency Drive" }),
+        /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3 w-full", children: [
+          /* @__PURE__ */ jsxs(
+            Slider.Root,
+            {
+              className: "relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3",
+              value: [clockFrequency],
+              onValueChange: (val) => setClockFrequency(val[0]),
+              min: 1,
+              max: 15,
+              step: 0.5,
+              "aria-label": "Atomic Clock Frequency Factor",
+              children: [
+                /* @__PURE__ */ jsx(Slider.Track, { className: "relative grow rounded-full h-1 !bg-muted", children: /* @__PURE__ */ jsx(Slider.Range, { className: "absolute h-full bg-primary rounded-full" }) }),
+                /* @__PURE__ */ jsx(
+                  Slider.Thumb,
+                  {
+                    className: "block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11",
+                    "aria-label": "Atomic clock frequency handle"
+                  }
+                )
+              ]
+            }
+          ),
+          /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums shrink-0 whitespace-nowrap text-end w-[8ch]", children: [
+            clockFrequency.toFixed(1),
+            "x"
+          ] })
+        ] })
+      ] }),
+      /* @__PURE__ */ jsxs("div", { className: "flex flex-col gap-1.5", children: [
+        /* @__PURE__ */ jsx("label", { className: "text-sm font-medium text-muted-foreground", children: "Chemical Entropy Rate" }),
+        /* @__PURE__ */ jsxs("div", { className: "flex items-center gap-3 w-full", children: [
+          /* @__PURE__ */ jsxs(
+            Slider.Root,
+            {
+              className: "relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3",
+              value: [entropyRate],
+              onValueChange: (val) => setEntropyRate(val[0]),
+              min: 0.1,
+              max: 4,
+              step: 0.1,
+              "aria-label": "Chemical Reaction and Entropy Dissipation Rate",
+              children: [
+                /* @__PURE__ */ jsx(Slider.Track, { className: "relative grow rounded-full h-1 !bg-muted", children: /* @__PURE__ */ jsx(Slider.Range, { className: "absolute h-full bg-primary rounded-full" }) }),
+                /* @__PURE__ */ jsx(
+                  Slider.Thumb,
+                  {
+                    className: "block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11",
+                    "aria-label": "Chemical entropy rate handle"
+                  }
+                )
+              ]
+            }
+          ),
+          /* @__PURE__ */ jsxs("span", { className: "text-sm font-medium text-foreground tabular-nums shrink-0 whitespace-nowrap text-end w-[8ch]", children: [
+            entropyRate.toFixed(1),
+            "x"
+          ] })
+        ] })
+      ] })
+    ] }) })
+  ] });
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+  /* @__PURE__ */ jsx(React.StrictMode, { children: /* @__PURE__ */ jsx(App, {}) })
+);
+
+</script><style>
+/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */
+@layer properties {
+  @supports (((-webkit-hyphens: none)) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color: rgb(from red r g b)))) {
+    *, :before, :after, ::backdrop {
+      --tw-rotate-x: initial;
+      --tw-rotate-y: initial;
+      --tw-rotate-z: initial;
+      --tw-skew-x: initial;
+      --tw-skew-y: initial;
+      --tw-border-style: solid;
+      --tw-font-weight: initial;
+      --tw-ordinal: initial;
+      --tw-slashed-zero: initial;
+      --tw-numeric-figure: initial;
+      --tw-numeric-spacing: initial;
+      --tw-numeric-fraction: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-content: "";
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+    }
+  }
+}
+
+@layer theme {
+  :root, :host {
+    --font-sans: "Google Sans", "Roboto", sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --color-amber-400: oklch(82.8% .189 84.429);
+    --color-emerald-400: oklch(76.5% .177 163.223);
+    --color-blue-400: oklch(70.7% .165 254.624);
+    --color-purple-400: oklch(71.4% .203 305.504);
+    --color-zinc-800: oklch(27.4% .006 286.033);
+    --color-zinc-900: oklch(21% .006 285.885);
+    --color-zinc-950: oklch(14.1% .005 285.823);
+    --color-white: #fff;
+    --spacing: .25rem;
+    --text-xs: .75rem;
+    --text-xs--line-height: calc(1 / .75);
+    --text-sm: .875rem;
+    --text-sm--line-height: calc(1.25 / .875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --radius-lg: .5rem;
+    --aspect-video: 16 / 9;
+    --default-transition-duration: .15s;
+    --default-transition-timing-function: cubic-bezier(.31, .94, .34, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+    --color-primary: var(--primary, #336ef3);
+    --color-error: var(--brand-red, #ea4335);
+    --color-success: var(--brand-green, #34a853);
+    --color-card: var(--surface-container-de-emphasis, #f7f8fa);
+    --color-border: var(--divider, #dcdfe5);
+    --color-muted: var(--surface-container, #f0f2f5);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #56595e);
+    --color-foreground: var(--on-surface-default, #0a0a0a);
+  }
+}
+
+@layer base {
+  *, :after, :before, ::backdrop {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  ::file-selector-button {
+    box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, :host {
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    line-height: 1.5;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  hr {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+
+  abbr:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+
+  a {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+
+  b, strong {
+    font-weight: bolder;
+  }
+
+  code, kbd, samp, pre {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+
+  small {
+    font-size: 80%;
+  }
+
+  sub, sup {
+    vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+  }
+
+  sub {
+    bottom: -.25em;
+  }
+
+  sup {
+    top: -.5em;
+  }
+
+  table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+
+  :-moz-focusring {
+    outline: auto;
+  }
+
+  progress {
+    vertical-align: baseline;
+  }
+
+  summary {
+    display: list-item;
+  }
+
+  ol, ul, menu {
+    list-style: none;
+  }
+
+  img, svg, video, canvas, audio, iframe, embed, object {
+    vertical-align: middle;
+    display: block;
+  }
+
+  img, video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  button, input, select, optgroup, textarea {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  ::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    opacity: 1;
+    background-color: #0000;
+    border-radius: 0;
+  }
+
+  :where(select:is([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+
+  :where(select:is([multiple], [size])) optgroup option {
+    padding-inline-start: 20px;
+  }
+
+  ::file-selector-button {
+    margin-inline-end: 4px;
+  }
+
+  ::placeholder {
+    opacity: 1;
+  }
+
+  @supports (not ((-webkit-appearance: -apple-pay-button))) or (contain-intrinsic-size: 1px) {
+    ::placeholder {
+      color: currentColor;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      ::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+
+  textarea {
+    resize: vertical;
+  }
+
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  ::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+
+  ::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+
+  ::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+
+  ::-webkit-datetime-edit {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-year-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-month-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-day-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-hour-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-minute-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-second-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-millisecond-field {
+    padding-block: 0;
+  }
+
+  ::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+
+  :-moz-ui-invalid {
+    box-shadow: none;
+  }
+
+  button, input:where([type="button"], [type="reset"], [type="submit"]) {
+    appearance: button;
+  }
+
+  ::file-selector-button {
+    appearance: button;
+  }
+
+  ::-webkit-inner-spin-button {
+    height: auto;
+  }
+
+  ::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  [hidden]:where(:not([hidden="until-found"])) {
+    display: none !important;
+  }
+}
+
+@layer components;
+
+@layer utilities {
+  .pointer-events-auto {
+    pointer-events: auto;
+  }
+
+  .pointer-events-none {
+    pointer-events: none;
+  }
+
+  .absolute {
+    position: absolute;
+  }
+
+  .relative {
+    position: relative;
+  }
+
+  .static {
+    position: static;
+  }
+
+  .end-0 {
+    inset-inline-end: calc(var(--spacing) * 0);
+  }
+
+  .top-0 {
+    top: calc(var(--spacing) * 0);
+  }
+
+  .z-10 {
+    z-index: 10;
+  }
+
+  .-my-3 {
+    margin-block: calc(var(--spacing) * -3);
+  }
+
+  .mt-1 {
+    margin-top: calc(var(--spacing) * 1);
+  }
+
+  .block {
+    display: block;
+  }
+
+  .flex {
+    display: flex;
+  }
+
+  .grid {
+    display: grid;
+  }
+
+  .aspect-video {
+    aspect-ratio: var(--aspect-video);
+  }
+
+  .h-1 {
+    height: calc(var(--spacing) * 1);
+  }
+
+  .h-2\.5 {
+    height: calc(var(--spacing) * 2.5);
+  }
+
+  .h-9 {
+    height: calc(var(--spacing) * 9);
+  }
+
+  .h-11 {
+    height: calc(var(--spacing) * 11);
+  }
+
+  .h-\[18px\] {
+    height: 18px;
+  }
+
+  .h-auto {
+    height: auto;
+  }
+
+  .h-full {
+    height: 100%;
+  }
+
+  .w-2\.5 {
+    width: calc(var(--spacing) * 2.5);
+  }
+
+  .w-9 {
+    width: calc(var(--spacing) * 9);
+  }
+
+  .w-\[8ch\] {
+    width: 8ch;
+  }
+
+  .w-\[18px\] {
+    width: 18px;
+  }
+
+  .w-full {
+    width: 100%;
+  }
+
+  .min-w-0 {
+    min-width: calc(var(--spacing) * 0);
+  }
+
+  .flex-1 {
+    flex: 1;
+  }
+
+  .shrink-0 {
+    flex-shrink: 0;
+  }
+
+  .grow {
+    flex-grow: 1;
+  }
+
+  .transform {
+    transform: var(--tw-rotate-x, ) var(--tw-rotate-y, ) var(--tw-rotate-z, ) var(--tw-skew-x, ) var(--tw-skew-y, );
+  }
+
+  .cursor-pointer {
+    cursor: pointer;
+  }
+
+  .touch-none {
+    touch-action: none;
+  }
+
+  .grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .flex-col {
+    flex-direction: column;
+  }
+
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
+
+  .items-center {
+    align-items: center;
+  }
+
+  .justify-center {
+    justify-content: center;
+  }
+
+  .justify-end {
+    justify-content: flex-end;
+  }
+
+  .gap-0\.5 {
+    gap: calc(var(--spacing) * .5);
+  }
+
+  .gap-1\.5 {
+    gap: calc(var(--spacing) * 1.5);
+  }
+
+  .gap-3 {
+    gap: calc(var(--spacing) * 3);
+  }
+
+  .gap-3\.5 {
+    gap: calc(var(--spacing) * 3.5);
+  }
+
+  .gap-x-4 {
+    column-gap: calc(var(--spacing) * 4);
+  }
+
+  .gap-x-6 {
+    column-gap: calc(var(--spacing) * 6);
+  }
+
+  .gap-y-1 {
+    row-gap: calc(var(--spacing) * 1);
+  }
+
+  .gap-y-3\.5 {
+    row-gap: calc(var(--spacing) * 3.5);
+  }
+
+  .truncate {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .overflow-auto {
+    overflow: auto;
+  }
+
+  .overflow-hidden {
+    overflow: hidden;
+  }
+
+  .overflow-visible {
+    overflow: visible;
+  }
+
+  .rounded-full {
+    border-radius: 3.40282e38px;
+  }
+
+  .rounded-lg {
+    border-radius: var(--radius-lg);
+  }
+
+  .border {
+    border-style: var(--tw-border-style);
+    border-width: 1px;
+  }
+
+  .border-b {
+    border-bottom-style: var(--tw-border-style);
+    border-bottom-width: 1px;
+  }
+
+  .border-none {
+    --tw-border-style: none;
+    border-style: none;
+  }
+
+  .border-border {
+    border-color: var(--color-border);
+  }
+
+  .\!bg-muted {
+    background-color: var(--color-muted) !important;
+  }
+
+  .bg-amber-400 {
+    background-color: var(--color-amber-400);
+  }
+
+  .bg-blue-400 {
+    background-color: var(--color-blue-400);
+  }
+
+  .bg-card {
+    background-color: var(--color-card);
+  }
+
+  .bg-emerald-400 {
+    background-color: var(--color-emerald-400);
+  }
+
+  .bg-primary {
+    background-color: var(--color-primary);
+  }
+
+  .bg-purple-400 {
+    background-color: var(--color-purple-400);
+  }
+
+  .bg-zinc-900\/90 {
+    background-color: #18181be6;
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-zinc-900\/90 {
+      background-color: color-mix(in oklab, var(--color-zinc-900) 90%, transparent);
+    }
+  }
+
+  .bg-zinc-950 {
+    background-color: var(--color-zinc-950);
+  }
+
+  .p-3 {
+    padding: calc(var(--spacing) * 3);
+  }
+
+  .p-5 {
+    padding: calc(var(--spacing) * 5);
+  }
+
+  .px-5 {
+    padding-inline: calc(var(--spacing) * 5);
+  }
+
+  .py-3 {
+    padding-block: calc(var(--spacing) * 3);
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .text-end {
+    text-align: end;
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .\!text-base {
+    font-size: var(--text-base) !important;
+    line-height: var(--tw-leading, var(--text-base--line-height)) !important;
+  }
+
+  .text-sm {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+
+  .text-xs {
+    font-size: var(--text-xs);
+    line-height: var(--tw-leading, var(--text-xs--line-height));
+  }
+
+  .font-medium {
+    --tw-font-weight: var(--font-weight-medium);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .font-normal {
+    --tw-font-weight: var(--font-weight-normal);
+    font-weight: var(--font-weight-normal);
+  }
+
+  .whitespace-nowrap {
+    white-space: nowrap;
+  }
+
+  .text-error {
+    color: var(--color-error);
+  }
+
+  .text-foreground {
+    color: var(--color-foreground);
+  }
+
+  .text-muted-foreground {
+    color: var(--color-muted-foreground);
+  }
+
+  .text-success {
+    color: var(--color-success);
+  }
+
+  .text-white {
+    color: var(--color-white);
+  }
+
+  .tabular-nums {
+    --tw-numeric-spacing: tabular-nums;
+    font-variant-numeric: var(--tw-ordinal, ) var(--tw-slashed-zero, ) var(--tw-numeric-figure, ) var(--tw-numeric-spacing, ) var(--tw-numeric-fraction, );
+  }
+
+  .shadow-none {
+    --tw-shadow: 0 0 #0000;
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .ring {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .transition-colors {
+    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to;
+    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration, var(--default-transition-duration));
+  }
+
+  .select-none {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  .selection\:bg-primary\/20 ::selection {
+    background-color: var(--color-primary);
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .selection\:bg-primary\/20 ::selection {
+      background-color: color-mix(in oklab, var(--color-primary) 20%, transparent);
+    }
+  }
+
+  .selection\:bg-primary\/20::selection {
+    background-color: var(--color-primary);
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .selection\:bg-primary\/20::selection {
+      background-color: color-mix(in oklab, var(--color-primary) 20%, transparent);
+    }
+  }
+
+  .after\:absolute:after {
+    content: var(--tw-content);
+    position: absolute;
+  }
+
+  .after\:-inset-1:after {
+    content: var(--tw-content);
+    inset: calc(var(--spacing) * -1);
+  }
+
+  .after\:top-1\/2:after {
+    content: var(--tw-content);
+    top: 50%;
+  }
+
+  .after\:left-1\/2:after {
+    content: var(--tw-content);
+    left: 50%;
+  }
+
+  .after\:h-11:after {
+    content: var(--tw-content);
+    height: calc(var(--spacing) * 11);
+  }
+
+  .after\:w-11:after {
+    content: var(--tw-content);
+    width: calc(var(--spacing) * 11);
+  }
+
+  .after\:-translate-x-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-x: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  .after\:-translate-y-1\/2:after {
+    content: var(--tw-content);
+    --tw-translate-y: calc(calc(1 / 2 * 100%) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+
+  @media (hover: hover) {
+    .hover\:bg-zinc-800:hover {
+      background-color: var(--color-zinc-800);
+    }
+  }
+
+  .focus\:outline-none:focus {
+    --tw-outline-style: none;
+    outline-style: none;
+  }
+
+  .focus-visible\:ring-2:focus-visible {
+    --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+
+  .focus-visible\:ring-primary:focus-visible {
+    --tw-ring-color: var(--color-primary);
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:grid-cols-2 {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .sm\:gap-x-8 {
+      column-gap: calc(var(--spacing) * 8);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:gap-x-12 {
+      column-gap: calc(var(--spacing) * 12);
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --color-primary: var(--primary, #336ef3);
+    --color-primary-hover: var(--primary-hover, #395fe1);
+    --color-error: var(--brand-red, #ea4335);
+    --color-warning: var(--brand-yellow, #fbbc04);
+    --color-success: var(--brand-green, #34a853);
+    --color-background: var(--surface-container-de-emphasis, #272930);
+    --color-card: var(--surface-container-de-emphasis, #272930);
+    --color-card-hover: var(--surface-container-high, #363840);
+    --color-border: var(--divider, #363840);
+    --color-input: var(--surface-container, #2c2e35);
+    --color-secondary: var(--surface-container-high, #363840);
+    --color-secondary-hover: var(--surface-container-highest, #42444d);
+    --color-accent: var(--surface-container-highest, #42444d);
+    --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+    --color-muted: var(--surface-container, #2c2e35);
+    --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+    --color-foreground: var(--on-surface-default, #e6e8f0);
+    --color-disabled: var(--surface-container, #2c2e35);
+    --color-disabled-foreground: var(--disabled-foreground, #797c90);
+  }
+}
+
+.dark {
+  --color-primary: var(--primary, #336ef3);
+  --color-primary-hover: var(--primary-hover, #395fe1);
+  --color-error: var(--brand-red, #ea4335);
+  --color-warning: var(--brand-yellow, #fbbc04);
+  --color-success: var(--brand-green, #34a853);
+  --color-background: var(--surface-container-de-emphasis, #272930);
+  --color-card: var(--surface-container-de-emphasis, #272930);
+  --color-card-hover: var(--surface-container-high, #363840);
+  --color-border: var(--divider, #363840);
+  --color-input: var(--surface-container, #2c2e35);
+  --color-secondary: var(--surface-container-high, #363840);
+  --color-secondary-hover: var(--surface-container-highest, #42444d);
+  --color-accent: var(--surface-container-highest, #42444d);
+  --color-accent-foreground: var(--on-surface-default, #e6e8f0);
+  --color-muted: var(--surface-container, #2c2e35);
+  --color-muted-foreground: var(--on-surface-de-emphasis, #adafb8);
+  --color-foreground: var(--on-surface-default, #e6e8f0);
+  --color-disabled: var(--surface-container, #2c2e35);
+  --color-disabled-foreground: var(--disabled-foreground, #797c90);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  opacity: .6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert();
+    opacity: .7;
+  }
+}
+
+.dark input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert();
+  opacity: .7;
+}
+
+[dir="rtl"] svg {
+  direction: ltr;
+}
+
+[dir="rtl"] svg text {
+  unicode-bidi: plaintext;
+}
+
+[dir="rtl"] .material-icons {
+  direction: rtl;
+}
+
+@property --tw-rotate-x {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-rotate-y {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-rotate-z {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-skew-x {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-skew-y {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-border-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ordinal {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-slashed-zero {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-figure {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-spacing {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-numeric-fraction {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-shadow-alpha {
+  syntax: "<percentage>";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-inset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-shadow-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-shadow-alpha {
+  syntax: "<percentage>";
+  inherits: false;
+  initial-value: 100%;
+}
+
+@property --tw-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-inset-ring-color {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-inset-ring-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-ring-inset {
+  syntax: "*";
+  inherits: false
+}
+
+@property --tw-ring-offset-width {
+  syntax: "<length>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-ring-offset-color {
+  syntax: "*";
+  inherits: false;
+  initial-value: #fff;
+}
+
+@property --tw-ring-offset-shadow {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0 0 #0000;
+}
+
+@property --tw-content {
+  syntax: "*";
+  inherits: false;
+  initial-value: "";
+}
+
+@property --tw-translate-x {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-y {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+@property --tw-translate-z {
+  syntax: "*";
+  inherits: false;
+  initial-value: 0;
+}
+
+</style><link href="https://www.gstatic.com/_/mss/search-next/_/ss/k=search-next.ss.dDDcqmu8sVM.L.B1.O/am=AB4AfACGMEAj/d=1/ed=1/dg=2/rs=AE5fCmR_NrsD6haLCxi1_C4zj5Gzcj_1xw/ee=/m=capy_widget_colors" rel="stylesheet"></head>
+    <body class="">
+  
+  <div id="root"><div class="w-full bg-card text-foreground font-sans selection:bg-primary/20 flex flex-col"><div class="flex flex-wrap gap-x-4 gap-y-1 px-5 py-3 border-b border-border bg-card"><div class="min-w-0 flex items-center gap-1.5"><div class="w-2.5 h-2.5 rounded-full bg-amber-400"></div><span class="text-xs font-normal text-muted-foreground truncate">Atomic Generator</span></div><div class="min-w-0 flex items-center gap-1.5"><div class="w-2.5 h-2.5 rounded-full bg-blue-400"></div><span class="text-xs font-normal text-muted-foreground truncate">Tau Phase (τ)</span></div><div class="min-w-0 flex items-center gap-1.5"><div class="w-2.5 h-2.5 rounded-full bg-purple-400"></div><span class="text-xs font-normal text-muted-foreground truncate">Mu Product (μ)</span></div><div class="min-w-0 flex items-center gap-1.5"><div class="w-2.5 h-2.5 rounded-full bg-emerald-400"></div><span class="text-xs font-normal text-muted-foreground truncate">Log-Grid Scale</span></div></div><div class="relative w-full overflow-hidden border-b border-border bg-zinc-950"><div class="absolute top-0 end-0 p-3 z-10 flex items-center justify-end pointer-events-none"><button class="w-9 h-9 rounded-full flex items-center justify-center cursor-pointer transition-colors shadow-none bg-zinc-900/90 hover:bg-zinc-800 text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-primary pointer-events-auto relative overflow-visible after:absolute after:-inset-1" aria-label="Pause simulation"><span class="material-icons !text-base">pause</span></button></div><svg role="img" aria-label="1D Arrow of Time: Atomic clock feeding non-linear inverse logarithmic chemical grid simulation" viewBox="0 0 800 400" class="w-full h-auto aspect-video display-block"><g opacity="0.15"><line x1="0" y1="200" x2="800" y2="200" stroke="#ffffff" stroke-width="1" stroke-dasharray="4 4"></line><line x1="224.00000000000003" y1="0" x2="224.00000000000003" y2="400" stroke="#ffffff" stroke-width="1"></line></g><text x="20" y="30" fill="#ffffff" opacity="0.25" font-size="11" font-family="monospace">LANL-LOG-GRIDDER // SIM_STATUS: ACTIVE</text><text x="780" y="30" text-anchor="end" fill="#ffffff" opacity="0.25" font-size="11" font-family="monospace">1D_ARROW_OF_TIME_CLOCK</text><defs><marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 1 L 10 5 L 0 9 z" fill="#336ef3"></path></marker></defs><line x1="184.00000000000003" y1="310" x2="766" y2="310" stroke="#336ef3" stroke-width="2" opacity="0.6" marker-end="url(#arrow)"></line><text x="756" y="330" text-anchor="end" fill="#336ef3" font-size="12" font-weight="medium">Entropy / Arrow of Time ➔</text><g transform="translate(96, 200)"><circle cx="0" cy="0" r="38" fill="none" stroke="#fbbc04" stroke-width="2" opacity="0.4"></circle><circle cx="0" cy="0" r="14.737955020161886" fill="#fbbc04" fill-opacity="0.16844887550404714" stroke="#fbbc04" stroke-width="1.5"></circle><circle cx="0" cy="0" r="5" fill="#fbbc04"></circle><line x1="0" y1="0" x2="-31.893262228833393" y2="-20.659618205641394" stroke="#fbbc04" stroke-width="2"></line><path d="M 46 -15 Q 51.82530334677459 0 46 15" fill="none" stroke="#fbbc04" stroke-width="2" opacity="0.5368977510080942"></path><text x="0" y="56" text-anchor="middle" fill="#fbbc04" font-size="12" font-weight="medium">Atomic Core</text><text x="0" y="68" text-anchor="middle" fill="#ffffff" opacity="0.4" font-size="11" font-family="monospace">45.96 GHz</text></g><path d="M 149 200 C 194.00000000000003 160, 204.00000000000003 190, 224.00000000000003 200" fill="none" stroke="url(#flux-grad)" stroke-width="3" stroke-dasharray="6 4" opacity="0.7"></path><defs><linearGradient id="flux-grad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#fbbc04"></stop><stop offset="100%" stop-color="#336ef3"></stop></linearGradient></defs><g><line x1="224.00000000000003" y1="130" x2="224.00000000000003" y2="270" stroke="#34a853" stroke-width="1.5" opacity="0.4"></line><line x1="224.00000000000003" y1="200" x2="297.4321368587843" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="224.00000000000003" cy="168.05778583513418" r="6.975234642085351" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="224.00000000000003" cy="237.0394901065952" r="9.159781474255086" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="224.00000000000003" y1="168.05778583513418" x2="224.00000000000003" y2="237.0394901065952" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="222.00000000000003" y="178.3091477122418" width="4" height="43.381704575516366" fill="#34a853" opacity="0.25" class="rounded-full"></rect><text x="224.00000000000003" y="118" text-anchor="middle" fill="#34a853" font-size="11" font-family="monospace" opacity="0.8">0.00x</text></g><g><line x1="297.4321368587843" y1="130" x2="297.4321368587843" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="297.4321368587843" y1="200" x2="352.540682599497" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="297.4321368587843" cy="167.97199665465376" r="7.012001433719819" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="297.4321368587843" cy="238.06845901959767" r="9.600768151256144" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="297.4321368587843" y1="167.97199665465376" x2="297.4321368587843" y2="238.06845901959767" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="295.4321368587843" y="180.4537944968584" width="4" height="39.092411006283214" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="352.540682599497" y1="130" x2="352.540682599497" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="352.540682599497" y1="200" x2="396.66799017903406" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="352.540682599497" cy="167.8286008412423" r="7.073456782324734" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="352.540682599497" cy="238.87216799213104" r="9.94521485377045" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="352.540682599497" y1="167.8286008412423" x2="352.540682599497" y2="238.87216799213104" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="350.540682599497" y="181.50565826760626" width="4" height="36.98868346478749" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="396.66799017903406" y1="130" x2="396.66799017903406" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="396.66799017903406" y1="200" x2="433.47157791977025" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="396.66799017903406" cy="167.9949687646524" r="7.002156243720398" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="396.66799017903406" cy="240.1436372617621" r="10.490130255040903" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="396.66799017903406" y1="167.9949687646524" x2="396.66799017903406" y2="240.1436372617621" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="394.66799017903406" y="182.21057254754794" width="4" height="35.578854904904134" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="433.47157791977025" y1="130" x2="433.47157791977025" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="433.47157791977025" y1="200" x2="465.0399112645854" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="433.47157791977025" cy="169.1824863023492" r="6.493220156136061" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="433.47157791977025" cy="241.45972318589506" r="11.054167079669309" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="433.47157791977025" y1="169.1824863023492" x2="433.47157791977025" y2="241.45972318589506" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="431.47157791977025" y="184.50410259364054" width="4" height="30.991794812718904" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="465.0399112645854" y1="130" x2="465.0399112645854" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="465.0399112645854" y1="200" x2="492.67859924730317" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="465.0399112645854" cy="170.5198450321755" r="5.920066414781927" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="465.0399112645854" cy="242.04445530839058" r="11.304766560738825" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="465.0399112645854" y1="170.5198450321755" x2="465.0399112645854" y2="242.04445530839058" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="463.0399112645854" y="188.7472238135635" width="4" height="22.50555237287302" fill="#34a853" opacity="0.25" class="rounded-full"></rect><text x="465.0399112645854" y="118" text-anchor="middle" fill="#34a853" font-size="11" font-family="monospace" opacity="0.8">0.47x</text></g><g><line x1="492.67859924730317" y1="130" x2="492.67859924730317" y2="270" stroke="#34a853" stroke-width="1.5" opacity="0.4"></line><line x1="492.67859924730317" y1="200" x2="517.2585549956991" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="492.67859924730317" cy="171.27892338435237" r="5.594747120991843" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="492.67859924730317" cy="242.2721509132146" r="11.402350391377691" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="492.67859924730317" y1="171.27892338435237" x2="492.67859924730317" y2="242.2721509132146" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="490.67859924730317" y="191.4093475923405" width="4" height="17.181304815318956" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="517.2585549956991" y1="130" x2="517.2585549956991" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="517.2585549956991" y1="200" x2="539.3898338668824" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="517.2585549956991" cy="171.65266762077238" r="5.434571019668979" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="517.2585549956991" cy="242.37185551479575" r="11.445080934912468" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="517.2585549956991" y1="171.65266762077238" x2="517.2585549956991" y2="242.37185551479575" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="515.2585549956991" y="192.4847255066431" width="4" height="15.030548986713839" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="539.3898338668824" y1="130" x2="539.3898338668824" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="539.3898338668824" y1="200" x2="559.516417679968" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="539.3898338668824" cy="171.8425035454447" r="5.3532127662379745" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="539.3898338668824" cy="242.41995630375567" r="11.465695558752433" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="539.3898338668824" y1="171.8425035454447" x2="539.3898338668824" y2="242.41995630375567" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="537.3898338668824" y="192.94492077535796" width="4" height="14.110158449284077" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="559.516417679968" y1="130" x2="559.516417679968" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="559.516417679968" y1="200" x2="577.9715110225033" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="559.516417679968" cy="171.94505056038233" r="5.309264045550426" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="559.516417679968" cy="242.4450217648878" r="11.476437899237624" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="559.516417679968" y1="171.94505056038233" x2="559.516417679968" y2="242.4450217648878" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="557.516417679968" y="193.17286666502196" width="4" height="13.65426666995608" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="577.9715110225033" y1="130" x2="577.9715110225033" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="577.9715110225033" y1="200" x2="595.0115812644635" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="577.9715110225033" cy="172.0036299579395" r="5.284158589454503" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="577.9715110225033" cy="242.45881792044696" r="11.482350537334408" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="577.9715110225033" y1="172.0036299579395" x2="577.9715110225033" y2="242.45881792044696" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="575.9715110225033" y="193.30582284309983" width="4" height="13.388354313800342" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="595.0115812644635" y1="130" x2="595.0115812644635" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="595.0115812644635" y1="200" x2="610.8382513347437" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="595.0115812644635" cy="172.03826873776126" r="5.269313398102314" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="595.0115812644635" cy="242.46659045064618" r="11.485681621705506" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="595.0115812644635" y1="172.03826873776126" x2="595.0115812644635" y2="242.46659045064618" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="593.0115812644635" y="193.39508685010824" width="4" height="13.209826299783533" fill="#34a853" opacity="0.25" class="rounded-full"></rect><text x="595.0115812644635" y="118" text-anchor="middle" fill="#34a853" font-size="11" font-family="monospace" opacity="0.8">0.72x</text></g><g><line x1="610.8382513347437" y1="130" x2="610.8382513347437" y2="270" stroke="#34a853" stroke-width="1.5" opacity="0.4"></line><line x1="610.8382513347437" y1="200" x2="625.6129022262503" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="610.8382513347437" cy="172.05862182676148" r="5.260590645673654" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="610.8382513347437" cy="242.47081801742146" r="11.487493436037768" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="610.8382513347437" y1="172.05862182676148" x2="610.8382513347437" y2="242.47081801742146" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="608.8382513347437" y="193.46132148817813" width="4" height="13.07735702364376" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="625.6129022262503" y1="130" x2="625.6129022262503" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="625.6129022262503" y1="200" x2="639.4667173860768" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="625.6129022262503" cy="172.06943212194528" r="5.25595766202345" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="625.6129022262503" cy="242.47269568464742" r="11.488298150563185" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="625.6129022262503" y1="172.06943212194528" x2="625.6129022262503" y2="242.47269568464742" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="623.6129022262503" y="193.5136949461335" width="4" height="12.972610107732988" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="639.4667173860768" y1="130" x2="639.4667173860768" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="639.4667173860768" y1="200" x2="652.5077764796569" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="639.4667173860768" cy="172.07288215583083" r="5.2544790760725055" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="639.4667173860768" cy="242.47275444698235" r="11.488323334421004" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="639.4667173860768" y1="172.07288215583083" x2="639.4667173860768" y2="242.47275444698235" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="637.4667173860768" y="193.55676385409242" width="4" height="12.886472291815144" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="652.5077764796569" y1="130" x2="652.5077764796569" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="652.5077764796569" y1="200" x2="664.826181186555" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="652.5077764796569" cy="172.06958983175568" r="5.255890072104711" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="652.5077764796569" cy="242.47111871649278" r="11.487622307068333" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="652.5077764796569" y1="172.06958983175568" x2="652.5077764796569" y2="242.47111871649278" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="650.5077764796569" y="193.59307617822046" width="4" height="12.81384764355906" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="664.826181186555" y1="130" x2="664.826181186555" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="664.826181186555" y1="200" x2="676.4978338798371" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="664.826181186555" cy="172.05893947981784" r="5.260454508649504" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="664.826181186555" cy="242.4675887525452" r="11.486109465376508" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="664.826181186555" y1="172.05893947981784" x2="664.826181186555" y2="242.4675887525452" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="662.826181186555" y="193.624216899807" width="4" height="12.751566200385966" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="676.4978338798371" y1="130" x2="676.4978338798371" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="676.4978338798371" y1="200" x2="687.5872729013355" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="676.4978338798371" cy="172.03899275445372" r="5.26900310523412" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="676.4978338798371" cy="242.4616118559565" r="11.483547938267074" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="676.4978338798371" y1="172.03899275445372" x2="676.4978338798371" y2="242.4616118559565" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="674.4978338798371" y="193.65125993531024" width="4" height="12.697480129379507" fill="#34a853" opacity="0.25" class="rounded-full"></rect><text x="676.4978338798371" y="118" text-anchor="middle" fill="#34a853" font-size="11" font-family="monospace" opacity="0.8">0.88x</text></g><g><line x1="687.5872729013355" y1="130" x2="687.5872729013355" y2="270" stroke="#34a853" stroke-width="1.5" opacity="0.4"></line><line x1="687.5872729013355" y1="200" x2="698.1498336832682" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="687.5872729013355" cy="172.0059979940545" r="5.283143716833793" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="687.5872729013355" cy="242.45214566740225" r="11.47949100031525" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="687.5872729013355" y1="172.0059979940545" x2="687.5872729013355" y2="242.45214566740225" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="685.5872729013355" y="193.67498136187558" width="4" height="12.65003727624885" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="698.1498336832682" y1="130" x2="698.1498336832682" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="698.1498336832682" y1="200" x2="708.2333193705574" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="698.1498336832682" cy="171.95334017927425" r="5.305711351739603" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="698.1498336832682" cy="242.43736951602088" r="11.473158364008949" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="698.1498336832682" y1="171.95334017927425" x2="698.1498336832682" y2="242.43736951602088" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="696.1498336832682" y="193.69597125581663" width="4" height="12.608057488366724" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="708.2333193705574" y1="130" x2="708.2333193705574" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="708.2333193705574" y1="200" x2="717.8793087545131" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="708.2333193705574" cy="171.86954038213952" r="5.341625550511635" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="708.2333193705574" cy="242.4141364566403" r="11.463201338560134" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="708.2333193705574" y1="171.86954038213952" x2="708.2333193705574" y2="242.4141364566403" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="706.2333193705574" y="193.71470097084637" width="4" height="12.570598058307244" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="717.8793087545131" y1="130" x2="717.8793087545131" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="717.8793087545131" y1="200" x2="727.1241920857691" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="717.8793087545131" cy="171.734499945712" r="5.399500023266286" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="717.8793087545131" cy="242.376945995257" r="11.447262569395853" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="717.8793087545131" y1="171.734499945712" x2="717.8793087545131" y2="242.376945995257" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="715.8793087545131" y="193.73157252292825" width="4" height="12.536854954143486" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="727.1241920857691" y1="130" x2="727.1241920857691" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><line x1="727.1241920857691" y1="200" x2="736" y2="200" stroke="#ffffff" stroke-width="1" opacity="0.15"></line><circle cx="727.1241920857691" cy="171.51237065173996" r="5.494698292111448" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="727.1241920857691" cy="242.31599567018696" r="11.421141001508705" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="727.1241920857691" y1="171.51237065173996" x2="727.1241920857691" y2="242.31599567018696" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="725.1241920857691" y="193.7469659413272" width="4" height="12.50606811734557" fill="#34a853" opacity="0.25" class="rounded-full"></rect></g><g><line x1="736" y1="130" x2="736" y2="270" stroke="#34a853" stroke-width="0.5" opacity="0.2"></line><circle cx="736" cy="172.18697795026307" r="5.205580878458682" fill="#336ef3" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><circle cx="736" cy="242.5" r="11.5" fill="#a855f7" fill-opacity="0.8" stroke="#ffffff" stroke-width="0.5"></circle><line x1="736" y1="172.18697795026307" x2="736" y2="242.5" stroke="#ffffff" stroke-width="1" opacity="0.1"></line><rect x="734" y="193.76129707881947" width="4" height="12.47740584236105" fill="#34a853" opacity="0.25" class="rounded-full"></rect><text x="736" y="118" text-anchor="middle" fill="#34a853" font-size="11" font-family="monospace" opacity="0.8">1.00x</text></g><text x="224.00000000000003" y="90" fill="#ffffff" opacity="0.8" font-size="12" font-weight="medium">Non-Linear Chemical Clock Cascade</text><text x="224.00000000000003" y="104" fill="#34a853" opacity="0.9" font-size="11" font-family="monospace">Inverse Logarithmic Metric Mesh Configuration (LANL Mode)</text></svg></div><div class="flex items-center justify-center gap-x-4 sm:gap-x-8 md:gap-x-12 border-b border-border px-5 py-3 shrink-0 bg-card"><div class="flex flex-col items-center gap-0.5 min-w-0 flex-1"><span class="text-xs text-muted-foreground font-medium truncate text-center w-full">Master Time</span><span class="text-sm font-medium text-foreground tabular-nums truncate text-center w-full">55.70s</span></div><div class="flex flex-col items-center gap-0.5 min-w-0 flex-1"><span class="text-xs text-muted-foreground font-medium truncate text-center w-full">Grid Entropy</span><span class="text-sm font-medium text-foreground tabular-nums truncate text-center w-full">99.9 J/K</span></div><div class="flex flex-col items-center gap-0.5 min-w-0 flex-1"><span class="text-xs text-muted-foreground font-medium truncate text-center w-full">Mesh Status</span><span class="text-sm font-medium text-success tabular-nums truncate text-center w-full">COUPLED</span></div></div><div class="p-5 flex flex-col gap-3.5 bg-card"><div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-3.5"><div class="flex flex-col gap-1.5"><label class="text-sm font-medium text-muted-foreground">Atomic Frequency Drive</label><div class="flex items-center gap-3 w-full"><span dir="ltr" data-orientation="horizontal" aria-disabled="false" class="relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3" aria-label="Atomic Clock Frequency Factor" style="--radix-slider-thumb-transform: translateX(-50%);"><span data-orientation="horizontal" class="relative grow rounded-full h-1 !bg-muted"><span data-orientation="horizontal" class="absolute h-full bg-primary rounded-full" style="left: 0%; right: 71.4286%;"></span></span><span style="transform: var(--radix-slider-thumb-transform); position: absolute; left: calc(28.5714% + 3.85714px);"><span role="slider" aria-label="Atomic clock frequency handle" aria-valuemin="1" aria-valuemax="15" aria-orientation="horizontal" data-orientation="horizontal" tabindex="0" class="block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11" data-radix-collection-item="" aria-valuenow="5" style=""></span></span></span><span class="text-sm font-medium text-foreground tabular-nums shrink-0 whitespace-nowrap text-end w-[8ch]">5.0x</span></div></div><div class="flex flex-col gap-1.5"><label class="text-sm font-medium text-muted-foreground">Chemical Entropy Rate</label><div class="flex items-center gap-3 w-full"><span dir="ltr" data-orientation="horizontal" aria-disabled="false" class="relative flex items-center grow touch-none select-none h-11 cursor-pointer py-3 -my-3" aria-label="Chemical Reaction and Entropy Dissipation Rate" style="--radix-slider-thumb-transform: translateX(-50%);"><span data-orientation="horizontal" class="relative grow rounded-full h-1 !bg-muted"><span data-orientation="horizontal" class="absolute h-full bg-primary rounded-full" style="left: 0%; right: 64.1026%;"></span></span><span style="transform: var(--radix-slider-thumb-transform); position: absolute; left: calc(35.8974% + 2.53846px);"><span role="slider" aria-label="Chemical entropy rate handle" aria-valuemin="0.1" aria-valuemax="4" aria-orientation="horizontal" data-orientation="horizontal" tabindex="0" class="block w-[18px] h-[18px] rounded-full bg-primary border-none shadow-none focus:outline-none focus-visible:ring-2 focus-visible:ring-primary relative after:absolute after:top-1/2 after:left-1/2 after:-translate-x-1/2 after:-translate-y-1/2 after:w-11 after:h-11" data-radix-collection-item="" aria-valuenow="1.5" style=""></span></span></span><span class="text-sm font-medium text-foreground tabular-nums shrink-0 whitespace-nowrap text-end w-[8ch]">1.5x</span></div></div></div></div></div></div></body></html>
