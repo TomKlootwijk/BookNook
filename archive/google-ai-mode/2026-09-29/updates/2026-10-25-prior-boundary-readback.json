@@ -1,0 +1,17 @@
+{
+  "sameText": true,
+  "conversations": [
+    {
+      "ordinal": 1061,
+      "items": 22,
+      "sameText": true
+    },
+    {
+      "ordinal": 1062,
+      "items": 4,
+      "sameText": true,
+      "exactTextMatch": false,
+      "normalization": "Ignored the Google UI prefix You said: added to the second user prompt on reload; all source wording remains identical."
+    }
+  ]
+}

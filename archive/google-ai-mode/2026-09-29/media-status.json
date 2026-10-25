@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Compared all 133 open AI Mode tabs and the ten newest history entries against the previous archive. Added Beyond Good and Evil Gamecube and ARG Koeien Kosten Begroting (1061-1062), with 13 prompts and 13 responses. Both complete transcripts were read back. The previous boundary conversation, Charles and Trump (1060), was checked and remains unchanged. All six source photographs in the new conversations are embedded; there are no new interactive widgets, canvases, generated-file attachments or source access gaps. Earlier content, attachments, source gaps and Captain of industry GTM remain preserved. Unsent drafts remain excluded.",
+  "note": "Batch: Predikaat Koninklijk. Compared all 134 open AI Mode tabs and the ten newest history entries against the previous archive. Added one conversation (1063), titled by the user Lang weekend snowboarden - Sander en Jitske; its original Google history title is Beatrix Booster Corona. All 16 prompts and 16 responses were read back, including the late J&S monogram update supplied during packaging; the first 15 exchanges are unchanged. The two conversations from the previous batch (1061-1062) were checked and have no new source wording. All eight embedded photographs and source icons were captured, including three remotely loaded icons. No new interactive widgets, canvases, generated-file attachments or source access gaps were found. Earlier content, attachments, source gaps and Captain of industry GTM remain preserved. Unsent drafts remain excluded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -5975,5 +5975,61 @@
     "unmatchedRecentHistory": [],
     "preservedPriorMedia": true,
     "unsentDraftExcluded": true
+  },
+  "october25Media": {
+    "batchTitle": "Predikaat Koninklijk",
+    "openTabsInitial": 134,
+    "openTabs": 134,
+    "historyEntriesChecked": 10,
+    "historyTotalShown": 300,
+    "newConversations": 1,
+    "newPrompts": 16,
+    "newResponses": 16,
+    "updatedConversations": [],
+    "readbacks": [
+      {
+        "threadId": "y4ndatOBAr_-7_UPgIbRoQo",
+        "counts": {
+          "prompts": 16,
+          "responses": 16
+        },
+        "items": 32,
+        "sameText": true
+      }
+    ],
+    "priorBoundary": {
+      "sameText": true,
+      "conversations": [
+        {
+          "ordinal": 1061,
+          "items": 22,
+          "sameText": true
+        },
+        {
+          "ordinal": 1062,
+          "items": 4,
+          "sameText": true,
+          "exactTextMatch": false,
+          "normalization": "Ignored the Google UI prefix You said: added to the second user prompt on reload; all source wording remains identical."
+        }
+      ]
+    },
+    "attachments": [],
+    "sourceErrorResponses": [],
+    "sourceGaps": [],
+    "media": [],
+    "embeddedPhotographs": 8,
+    "remoteSourceIconsBundled": 3,
+    "unmatchedOpen": [],
+    "unmatchedRecentHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true,
+    "titleInstructions": {
+      "batchTitle": "Predikaat Koninklijk",
+      "conversationTitle": "Lang weekend snowboarden — Sander en Jitske",
+      "sourceTitle": "Beatrix Booster Corona",
+      "threadId": "y4ndatOBAr_-7_UPgIbRoQo",
+      "userConfirmed": true
+    }
   }
 }

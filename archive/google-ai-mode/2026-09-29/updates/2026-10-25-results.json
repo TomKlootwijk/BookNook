@@ -1,0 +1,24 @@
+{
+  "at": "2026-10-25T05:41:53.879786+00:00",
+  "date": "2026-10-25",
+  "batchId": "2026-10-25",
+  "batchTitle": "Predikaat Koninklijk",
+  "openAiModeTabs": 134,
+  "historyConversationsChecked": 10,
+  "method": "Batch: Predikaat Koninklijk. Compared all 134 open AI Mode tabs and the ten newest history entries against the previous archive. Added one conversation (1063), titled by the user Lang weekend snowboarden - Sander en Jitske; its original Google history title is Beatrix Booster Corona. All 16 prompts and 16 responses were read back, including the late J&S monogram update supplied during packaging; the first 15 exchanges are unchanged. The two conversations from the previous batch (1061-1062) were checked and have no new source wording. All eight embedded photographs and source icons were captured, including three remotely loaded icons. No new interactive widgets, canvases, generated-file attachments or source access gaps were found. Earlier content, attachments, source gaps and Captain of industry GTM remain preserved. Unsent drafts remain excluded.",
+  "records": [
+    {
+      "ordinal": 1063,
+      "title": "Lang weekend snowboarden — Sander en Jitske",
+      "sourceTitle": "Beatrix Booster Corona",
+      "status": "added",
+      "counts": {
+        "prompts": 16,
+        "responses": 16
+      }
+    }
+  ],
+  "newOrdinals": [
+    1063
+  ]
+}

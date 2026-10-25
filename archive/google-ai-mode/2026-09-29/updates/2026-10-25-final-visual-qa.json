@@ -1,0 +1,22 @@
+{
+  "batchId": "2026-10-25",
+  "result": "passed",
+  "pdfSha256": "176f3152ff9d5cabad659b395e045c3928fb3030c57a910a283ddf434d540efe",
+  "reviewedPages": [
+    1,
+    33,
+    6811,
+    6819,
+    6835,
+    6836
+  ],
+  "checks": [
+    "Cover displays Predikaat Koninklijk and accurate cumulative totals",
+    "Index and chapter use Lang weekend snowboarden — Sander en Jitske",
+    "Original Google title and archive provenance are preserved",
+    "Photographs and source text are readable",
+    "Page numbers and final footer are correct",
+    "No clipping or overlapping content in the final PDF samples",
+    "The late monogram prompt and response 16 are fully included on the new final pages"
+  ]
+}

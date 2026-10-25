@@ -1,0 +1,27 @@
+{
+  "reviewedAt": "2026-10-25T05:42:30.937059+00:00",
+  "newPagesRendered": 26,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 2,
+  "headingMinimumPt": 20,
+  "highResolutionReview": [
+    6811,
+    6819,
+    6827,
+    6831,
+    6834,
+    6835,
+    6836
+  ],
+  "sourceGaps": [],
+  "originalErrorResponsesPreserved": [],
+  "chapters": [
+    {
+      "conversation": 1063,
+      "pages": 26,
+      "sha256": "d960e0c6038bfdcf1ddeee8c16942cca553eff6c68fbe2d63a9d40c790b492e3",
+      "maxHeadingPt": 20.999999125
+    }
+  ],
+  "result": "passed"
+}
