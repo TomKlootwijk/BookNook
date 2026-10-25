@@ -1,0 +1,21 @@
+{
+  "batchId": "2026-10-25-more",
+  "result": "passed",
+  "pdfSha256": "d37373f883b8e57f219a0a7a6b6f513ce04a8c1adbbe23bcccd6d66ed35fbbd1",
+  "reviewedPages": [
+    1,
+    34,
+    6838,
+    6850,
+    6886
+  ],
+  "checks": [
+    "Cover displays 1070 conversations, 5567 prompts and 5570 responses",
+    "Final index page and first new chapter are readable",
+    "Maktub diagram and its recorded labels are preserved",
+    "Original generated attachment links are present on the final page",
+    "Final page numbers and footers are correct",
+    "No clipping or overlapping content in the final PDF samples",
+    "All 49 new body pages additionally reviewed in the batch visual QA"
+  ]
+}

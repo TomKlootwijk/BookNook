@@ -1,0 +1,379 @@
+<html><head><style id="vega-tooltip-style">#vg-tooltip-element {
+  visibility: hidden;
+  padding: 8px;
+  position: fixed;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 11px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  /* The default theme is the light theme. */
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #d9d9d9;
+  color: black;
+}
+#vg-tooltip-element.visible {
+  visibility: visible;
+}
+#vg-tooltip-element h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+#vg-tooltip-element table {
+  border-spacing: 0;
+}
+#vg-tooltip-element table tr {
+  border: none;
+}
+#vg-tooltip-element table tr td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+#vg-tooltip-element table tr td.key {
+  color: #808080;
+  max-width: 150px;
+  text-align: right;
+  padding-right: 4px;
+}
+#vg-tooltip-element table tr td.value {
+  display: block;
+  max-width: 300px;
+  max-height: 7em;
+  text-align: left;
+}
+#vg-tooltip-element.dark-theme {
+  background-color: rgba(32, 32, 32, 0.9);
+  border: 1px solid #f5f5f5;
+  color: white;
+}
+#vg-tooltip-element.dark-theme td.key {
+  color: #bfbfbf;
+}
+</style>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; base-uri 'none'; connect-src https://fonts.gstatic.com https://www.gstatic.com https://www.gstatic.com/external_hosted/; font-src https://fonts.gstatic.com data: https://www.gstatic.com/external_hosted/; form-action 'none'; worker-src blob: https://*.scf.usercontent.goog; img-src data: https://encrypted-tbn0.gstatic.com https://encrypted-tbn1.gstatic.com https://encrypted-tbn2.gstatic.com https://encrypted-tbn3.gstatic.com; media-src 'none'; object-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' https://www.gstatic.com https://widgetlibs.static.usercontent.goog https://*.scf.usercontent.goog https://www.gstatic.com/external_hosted/; style-src 'unsafe-inline' 'unsafe-eval' https://fonts.googleapis.com https://www.gstatic.com/ https://www.gstatic.com/external_hosted/;">
+    <title>Vega-Lite Visualization</title>
+    <script src="https://www.gstatic.com/external_hosted/vega/vega.js"></script>
+    <script src="https://www.gstatic.com/external_hosted/vega_lite/vega-lite.js"></script>
+    <script src="https://www.gstatic.com/external_hosted/vega_embed/vega-embed.js"></script>
+    <style>
+      
+      /* SDS utility classes are not available within the SafeContentFrame iframe. */
+      html, body {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      body {
+        background-color: #22242a;
+      }
+      #vis {
+        height: 100% !important;
+        width: 100% !important;
+        border-radius: 16px;
+        overflow: hidden;
+        touch-action: none;
+      }
+      
+      #vg-tooltip-element.vg-tooltip.aim-theme {
+        background-color: #25262ECC !important;
+        border: 1px solid #2D2F35CC !important;
+        font-family: 'Google Sans', Roboto, Arial, sans-serif !important;
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td.key {
+        color: #E6E8F0 !important;
+      }
+      #vg-tooltip-element.vg-tooltip.aim-theme table tr td {
+        color: #ADAFB8 !important;
+        text-align: start !important;
+      }
+    </style>
+  <style>
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+</style><style id="vega-embed-style">.vega-embed {
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.vega-embed.has-actions {
+  padding-right: 38px;
+}
+.vega-embed details:not([open]) > :not(summary) {
+  display: none !important;
+}
+.vega-embed summary {
+  list-style: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 6px;
+  z-index: 1000;
+  background: white;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  color: #1b1e23;
+  border: 1px solid #aaa;
+  border-radius: 999px;
+  opacity: 0.2;
+  transition: opacity 0.4s ease-in;
+  cursor: pointer;
+  line-height: 0px;
+}
+.vega-embed summary::-webkit-details-marker {
+  display: none;
+}
+.vega-embed summary:active {
+  box-shadow: #aaa 0px 0px 0px 1px inset;
+}
+.vega-embed summary svg {
+  width: 14px;
+  height: 14px;
+}
+.vega-embed details[open] summary {
+  opacity: 0.7;
+}
+.vega-embed:hover summary, .vega-embed:focus-within summary {
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+.vega-embed .vega-actions {
+  position: absolute;
+  z-index: 1001;
+  top: 35px;
+  right: -9px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 1px solid #d9d9d9;
+  background: white;
+  animation-duration: 0.15s;
+  animation-name: scale-in;
+  animation-timing-function: cubic-bezier(0.2, 0, 0.13, 1.5);
+  text-align: left;
+}
+.vega-embed .vega-actions a {
+  padding: 8px 16px;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: #434a56;
+  text-decoration: none;
+}
+.vega-embed .vega-actions a:hover, .vega-embed .vega-actions a:focus {
+  background-color: #f7f7f9;
+  color: black;
+}
+.vega-embed .vega-actions::before, .vega-embed .vega-actions::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.vega-embed .vega-actions::before {
+  left: auto;
+  right: 14px;
+  top: -16px;
+  border: 8px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #d9d9d9;
+}
+.vega-embed .vega-actions::after {
+  left: auto;
+  right: 15px;
+  top: -14px;
+  border: 7px solid rgba(0, 0, 0, 0);
+  border-bottom-color: #fff;
+}
+.vega-embed .chart-wrapper.fit-x {
+  width: 100%;
+}
+.vega-embed .chart-wrapper.fit-y {
+  height: 100%;
+}
+
+.vega-embed-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  padding-right: 14px;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style></head>
+  <body>
+    
+    <div class="chart-container-wrapper" style="background-color: rgb(39, 41, 48);">
+      <div id="js-chart-title" class="chart-header" style="font-family: &quot;Google Sans&quot;, Roboto, Arial, sans-serif; font-size: 16px; font-weight: 500; padding-bottom: 0px; word-break: break-word; white-space: normal; line-height: 1.4; color: rgb(230, 232, 240);">Maktub Paradigm Verification Architecture<div style="font-size: 12px; font-weight: normal; margin-top: 4px; opacity: 0.7;">Deterministic State Pipeline &amp; Self-Rewriting Operational Loop</div></div>
+      <div id="vis-wrapper">
+        <div id="vis" class="vega-embed fit-x fit-y" role="graphics-document" aria-roledescription="visualization" aria-label="Vega visualization" style="cursor: default;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="600" height="450" viewBox="0 0 600 450" style="background-color: rgb(39, 41, 48);"><g fill="none" stroke-miterlimit="10" transform="translate(16,16)"><g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container"><g transform="translate(0,0)"><path class="background" aria-hidden="true" d="M0,0h568v389h-568Z" fill="transparent"></path><g><g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis for a linear scale with values from 0 to 10"><g transform="translate(0.5,389.5)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-domain" pointer-events="none"><line transform="translate(0,0)" x2="568" y2="0" stroke="#2D2F35" stroke-width="1" opacity="1"></line></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"></path></g></g><g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis for a linear scale with values from 0 to 11"><g transform="translate(0.5,0.5)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-rule role-axis-domain" pointer-events="none"><line transform="translate(0,389)" x2="0" y2="-389" stroke="#2D2F35" stroke-width="1" opacity="1"></line></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"></path></g></g><g class="mark-group role-scope view_1_pathgroup" role="graphics-object" aria-roledescription="group mark container"><g transform="translate(0,0)"><path class="background" aria-hidden="true" d="M0,0h568v389h-568Z"></path><g><g class="mark-line role-mark view_1_marks" role="graphics-object" aria-roledescription="line mark container" clip-path="url(#clip1)"><path aria-label="x: 5; y: 10; edge_id: left_branch; order: 1" role="graphics-symbol" aria-roledescription="line mark" d="M299.268,32.603L157.268,103.33L299.268,174.058L299.268,244.785L128.868,315.512" stroke="#ffbe73" stroke-width="2"></path></g></g><path class="foreground" aria-hidden="true" d="" display="none"></path></g><g transform="translate(0,0)"><path class="background" aria-hidden="true" d="M0,0h568v389h-568Z"></path><g><g class="mark-line role-mark view_1_marks" role="graphics-object" aria-roledescription="line mark container" clip-path="url(#clip2)"><path aria-label="x: 5; y: 10; edge_id: right_branch; order: 1" role="graphics-symbol" aria-roledescription="line mark" d="M299.268,32.603L441.268,103.33L299.268,174.058" stroke="#f765d1" stroke-width="2"></path></g></g><path class="foreground" aria-hidden="true" d="" display="none"></path></g><g transform="translate(0,0)"><path class="background" aria-hidden="true" d="M0,0h568v389h-568Z"></path><g><g class="mark-line role-mark view_1_marks" role="graphics-object" aria-roledescription="line mark container" clip-path="url(#clip3)"><path aria-label="x: 5; y: 4; edge_id: feedback_loop; order: 1" role="graphics-symbol" aria-roledescription="line mark" d="M299.268,244.785L469.668,315.512L526.468,315.512L526.468,32.603L299.268,32.603" stroke="#618eff" stroke-width="2"></path></g></g><path class="foreground" aria-hidden="true" d="" display="none"></path></g></g><g class="mark-symbol role-mark layer_1_marks" role="graphics-object" aria-roledescription="symbol mark container" pointer-events="none" clip-path="url(#clip4)"><path aria-label="x: 5; y: 10" role="graphics-symbol" aria-roledescription="point" transform="translate(299.2683686690697,32.603152201729735)" d="M-17.321,-17.321h34.641v34.641h-34.641Z" fill="#618eff" stroke="#272930" stroke-width="2" opacity="1"></path><path aria-label="x: 2.5; y: 8" role="graphics-symbol" aria-roledescription="point" transform="translate(157.26836866906964,103.33042492900245)" d="M-17.321,-17.321h34.641v34.641h-34.641Z" fill="#618eff" stroke="#272930" stroke-width="2" opacity="1"></path><path aria-label="x: 7.5; y: 8" role="graphics-symbol" aria-roledescription="point" transform="translate(441.2683686690696,103.33042492900245)" d="M-17.321,-17.321h34.641v34.641h-34.641Z" fill="#618eff" stroke="#272930" stroke-width="2" opacity="1"></path><path aria-label="x: 5; y: 6" role="graphics-symbol" aria-roledescription="point" transform="translate(299.2683686690697,174.0576976562751)" d="M-17.321,-17.321h34.641v34.641h-34.641Z" fill="#618eff" stroke="#272930" stroke-width="2" opacity="1"></path><path aria-label="x: 5; y: 4" role="graphics-symbol" aria-roledescription="point" transform="translate(299.2683686690697,244.78497038354783)" d="M-17.321,-17.321h34.641v34.641h-34.641Z" fill="#618eff" stroke="#272930" stroke-width="2" opacity="1"></path><path aria-label="x: 2; y: 2" role="graphics-symbol" aria-roledescription="point" transform="translate(128.86836866906967,315.5122431108205)" d="M-17.321,-17.321h34.641v34.641h-34.641Z" fill="#618eff" stroke="#272930" stroke-width="2" opacity="1"></path><path aria-label="x: 8; y: 2" role="graphics-symbol" aria-roledescription="point" transform="translate(469.6683686690696,315.5122431108205)" d="M-17.321,-17.321h34.641v34.641h-34.641Z" fill="#618eff" stroke="#272930" stroke-width="2" opacity="1"></path></g><g class="mark-text role-mark layer_2_marks" role="graphics-object" aria-roledescription="text mark container" pointer-events="none" clip-path="url(#clip5)"><text aria-label="x: 5; y: 10; label: Snapshot" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(299.2683686690697,10.603152201729735)" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="bold" fill="#ADAFB8" opacity="1">Snapshot</text><text aria-label="x: 2.5; y: 8; label: Update A" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(157.26836866906964,81.33042492900245)" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="bold" fill="#ADAFB8" opacity="1">Update A</text><text aria-label="x: 7.5; y: 8; label: Update B" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(441.2683686690696,81.33042492900245)" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="bold" fill="#ADAFB8" opacity="1">Update B</text><text aria-label="x: 5; y: 6; label: Kernel" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(299.2683686690697,152.0576976562751)" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="bold" fill="#ADAFB8" opacity="1">Kernel</text><text aria-label="x: 5; y: 4; label: Mod" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(299.2683686690697,222.78497038354783)" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="bold" fill="#ADAFB8" opacity="1">Mod</text><text aria-label="x: 2; y: 2; label: Trace Hist" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(128.86836866906967,293.5122431108205)" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="bold" fill="#ADAFB8" opacity="1">Trace Hist</text><text aria-label="x: 8; y: 2; label: Op Reg" role="graphics-symbol" aria-roledescription="text mark" text-anchor="middle" transform="translate(469.6683686690696,293.5122431108205)" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="11px" font-weight="bold" fill="#ADAFB8" opacity="1">Op Reg</text></g><g class="mark-text role-mark layer_3_marks" role="graphics-object" aria-roledescription="text mark container" pointer-events="none" clip-path="url(#clip6)"><text aria-label="x: 9.2; y: 6; text: Self-Rewriting Dynamic Mutation Loop" role="graphics-symbol" aria-roledescription="text mark" text-anchor="end" transform="translate(532.8283686690695,174.0576976562751) rotate(270) translate(0,3)" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="10px" font-style="italic" font-weight="500" fill="#ADAFB8" opacity="1">Self-Rewriting Dynamic Mutation Loop</text></g><g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend" aria-label="Symbol legend for fill color with 1 value: Component Architecture"><g transform="translate(0,405)"><path class="background" aria-hidden="true" d="M0,0h146v13h-146Z" pointer-events="none"></path><g><g class="mark-group role-legend-entry"><g transform="translate(0,0)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"></path><g><g class="mark-group role-scope" role="graphics-object" aria-roledescription="group mark container"><g transform="translate(0,0)"><path class="background" aria-hidden="true" d="M0,0h145.3984375v13h-145.3984375Z" pointer-events="none" opacity="1"></path><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path transform="translate(6,6)" d="M-5,-5h10v10h-10Z" fill="#618eff" stroke="#272930" stroke-width="2" opacity="1"></path></g><g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start" transform="translate(16,10)" font-family="Google Sans, Roboto, Arial, sans-serif" font-size="12px" font-weight="500" fill="#ADAFB8" opacity="1">Component Architecture</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"></path></g></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"></path></g></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"></path></g></g></g><path class="foreground" aria-hidden="true" d="" display="none"></path></g></g></g><defs><clipPath id="clip1"><rect x="0" y="0" width="568" height="389"></rect></clipPath><clipPath id="clip2"><rect x="0" y="0" width="568" height="389"></rect></clipPath><clipPath id="clip3"><rect x="0" y="0" width="568" height="389"></rect></clipPath><clipPath id="clip4"><rect x="0" y="0" width="568" height="389"></rect></clipPath><clipPath id="clip5"><rect x="0" y="0" width="568" height="389"></rect></clipPath><clipPath id="clip6"><rect x="0" y="0" width="568" height="389"></rect></clipPath></defs></svg><form class="vega-bindings"></form></div>
+      </div>
+    </div>
+  
+    <script type="text/javascript">
+      window['VEGA_LITE_SPEC'] = "{\"config\": {\"view\": {\"continuousWidth\": 300, \"continuousHeight\": 300, \"stroke\": null}, \"legend\": {\"orient\": \"bottom\", \"title\": null}}, \"layer\": [{\"data\": {\"name\": \"data-62a2be6aad4672e7b532aa9658f306f2\"}, \"mark\": {\"type\": \"line\", \"clip\": true, \"strokeWidth\": 2}, \"encoding\": {\"color\": {\"field\": \"edge_id\", \"legend\": null, \"type\": \"nominal\"}, \"detail\": {\"field\": \"edge_id\", \"type\": \"nominal\"}, \"order\": {\"field\": \"order\", \"type\": \"quantitative\"}, \"x\": {\"field\": \"x\", \"type\": \"quantitative\"}, \"y\": {\"field\": \"y\", \"type\": \"quantitative\"}}, \"name\": \"view_1\"}, {\"data\": {\"name\": \"data-785ebcdcaae1c1d7cf891b629f9cbabf\"}, \"mark\": {\"type\": \"point\", \"clip\": true, \"filled\": true, \"shape\": \"square\", \"size\": 1200}, \"encoding\": {\"color\": {\"datum\": \"Component Architecture\"}, \"x\": {\"field\": \"x\", \"type\": \"quantitative\"}, \"y\": {\"field\": \"y\", \"type\": \"quantitative\"}}}, {\"data\": {\"name\": \"data-785ebcdcaae1c1d7cf891b629f9cbabf\"}, \"mark\": {\"type\": \"text\", \"align\": \"center\", \"baseline\": \"middle\", \"dy\": -18, \"fontSize\": 11, \"fontWeight\": \"bold\"}, \"encoding\": {\"text\": {\"field\": \"label\", \"type\": \"nominal\"}, \"x\": {\"field\": \"x\", \"type\": \"quantitative\"}, \"y\": {\"field\": \"y\", \"type\": \"quantitative\"}}}, {\"data\": {\"name\": \"data-d4c91438c6c243c78594f082d8569c19\"}, \"mark\": {\"type\": \"text\", \"align\": \"left\", \"angle\": 270, \"baseline\": \"middle\", \"fontSize\": 10, \"fontStyle\": \"italic\"}, \"encoding\": {\"text\": {\"field\": \"text\", \"type\": \"nominal\"}, \"x\": {\"field\": \"x\", \"type\": \"quantitative\"}, \"y\": {\"field\": \"y\", \"type\": \"quantitative\"}}}], \"encoding\": {\"x\": {\"axis\": {\"grid\": false, \"labels\": false, \"ticks\": false, \"title\": null}, \"scale\": {\"domain\": [0, 10]}}, \"y\": {\"axis\": {\"grid\": false, \"labels\": false, \"ticks\": false, \"title\": null}, \"scale\": {\"domain\": [0, 11]}}}, \"height\": 450, \"params\": [{\"name\": \"param_1\", \"select\": {\"type\": \"interval\", \"encodings\": [\"x\", \"y\"]}, \"bind\": \"scales\", \"views\": [\"view_1\"]}], \"title\": {\"text\": \"Maktub Paradigm Verification Architecture\", \"anchor\": \"start\", \"subtitle\": [\"Deterministic State Pipeline & Self-Rewriting Operational Loop\"]}, \"width\": 600, \"$schema\": \"https://vega.github.io/schema/vega-lite/v5.20.1.json\", \"datasets\": {\"data-62a2be6aad4672e7b532aa9658f306f2\": [{\"x\": 5.0, \"y\": 10.0, \"edge_id\": \"left_branch\", \"order\": 1, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 2.5, \"y\": 8.0, \"edge_id\": \"left_branch\", \"order\": 2, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 5.0, \"y\": 6.0, \"edge_id\": \"left_branch\", \"order\": 3, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 5.0, \"y\": 4.0, \"edge_id\": \"left_branch\", \"order\": 4, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 2.0, \"y\": 2.0, \"edge_id\": \"left_branch\", \"order\": 5, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 5.0, \"y\": 10.0, \"edge_id\": \"right_branch\", \"order\": 1, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 7.5, \"y\": 8.0, \"edge_id\": \"right_branch\", \"order\": 2, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 5.0, \"y\": 6.0, \"edge_id\": \"right_branch\", \"order\": 3, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 5.0, \"y\": 4.0, \"edge_id\": \"feedback_loop\", \"order\": 1, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 8.0, \"y\": 2.0, \"edge_id\": \"feedback_loop\", \"order\": 2, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 9.0, \"y\": 2.0, \"edge_id\": \"feedback_loop\", \"order\": 3, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 9.0, \"y\": 10.0, \"edge_id\": \"feedback_loop\", \"order\": 4, \"DataCitations\": [\"Maktub Architecture Schema\"]}, {\"x\": 5.0, \"y\": 10.0, \"edge_id\": \"feedback_loop\", \"order\": 5, \"DataCitations\": [\"Maktub Architecture Schema\"]}], \"data-785ebcdcaae1c1d7cf891b629f9cbabf\": [{\"x\": 5.0, \"y\": 10.0, \"label\": \"Snapshot\"}, {\"x\": 2.5, \"y\": 8.0, \"label\": \"Update A\"}, {\"x\": 7.5, \"y\": 8.0, \"label\": \"Update B\"}, {\"x\": 5.0, \"y\": 6.0, \"label\": \"Kernel\"}, {\"x\": 5.0, \"y\": 4.0, \"label\": \"Mod\"}, {\"x\": 2.0, \"y\": 2.0, \"label\": \"Trace Hist\"}, {\"x\": 8.0, \"y\": 2.0, \"label\": \"Op Reg\"}], \"data-d4c91438c6c243c78594f082d8569c19\": [{\"x\": 9.2, \"y\": 6.0, \"text\": \"Self-Rewriting Dynamic Mutation Loop\"}]}}";
+      window['VEGA_CHART_WIDTH'] = 652;
+      window['VEGA_CHART_HEIGHT'] = 450;
+      window['ENABLE_SCALE_DOMAIN_ALIGNMENT'] = true;
+      window['ENABLE_VEGA_LABEL_COLLISION_AVOIDANCE'] = true;
+      window['ENABLE_VEGA_PINCH_ZOOM'] = true;
+      window['DISABLE_HARDCODED_VEGA_LEGEND_SYMBOL'] = true;
+      window['ENABLE_VEGA_STICKY_MOBILE_TOOLTIP'] = true;
+      window['ENABLE_INTERACTIVE_LINE_CHARTS'] = false;
+      window['VEGA_THEME'] = 'default';
+      window['VEGA_TOOLTIP_THEME'] = 'aim';
+      window['AIM_CHART_BACKGROUND_COLOR'] = '#272930';
+      window['AIM_CHART_TITLE_COLOR'] = '#E6E8F0';
+      window['AIM_CHART_GRIDLINE_COLOR'] = '#2D2F35';
+      window['AIM_CHART_ZERO_AXIS_COLOR'] = '#747B8C';
+      window['AIM_CHART_TEXT_COLOR'] = '#ADAFB8';
+      window['AIM_CHART_RANGE_COLORS'] = ['#618eff','#ffbe73','#f765d1','#ffaedd','#b6c9ff','#ffeedf','#e56822','#b5b9c4','#4db848','#69c3ff','#ff878f','#81e5d8'];
+      window['VEGA_CHART_LEGEND_COLUMNS'] = 3;
+      window['VEGA_CHART_TITLE_WIDTH_LIMIT_IN_PIXELS'] = 602;
+    </script>
+    <script>(function(){var aa=new Set(["top-left","top-right","bottom-left","bottom-right"]);function z(a){a=a.mark;return typeof a==="string"?{type:a}:typeof a==="object"&&a!==null?{type:a.type,D:a}:{}}function C(a){if(!a||typeof a!=="object")return!1;if(a.encoding&&typeof a.encoding==="object"){let c=a.encoding;if(c.color&&typeof c.color==="object"&&c.color.field)return!0}a:{for(let c of["layer","concat","hconcat","vconcat"])if(Array.isArray(a[c]))for(let b of a[c])if(C(b)){a=!0;break a}a=!1}return a}
+function D(a,c,b){if(Array.isArray(a))for(let f of a)D(f,c,b);else if(typeof a==="object"&&a!==null){Object.prototype.hasOwnProperty.call(a,c)&&(b===void 0||b(a[c]))&&delete a[c];for(let f of Object.keys(a))D(a[f],c,b)}}
+function H(a){if(Array.isArray(a))for(var c of a)H(c);else if(typeof a==="object"&&a!==null){if(a.legend&&typeof a.legend==="object"){c=a.legend;delete c.title;let b=c.orient;typeof b!=="string"||!aa.has(b)&&b!=="left"&&b!=="right"||(delete c.orient,delete c.direction)}for(let b of Object.keys(a))H(a[b])}}
+function I(a){if(a&&typeof a==="object"&&a!==null){if(Array.isArray(a.layer)){var c=a.layer;let g=new Set;for(var b of c){if(!b||typeof b!=="object")continue;var f=b;let {type:e}=z(f);e==="line"&&(f=f.encoding)&&typeof f==="object"&&(f=f.color)&&typeof f==="object"&&typeof f.field==="string"&&g.add(f.field)}for(let e of c){if(!e||typeof e!=="object")continue;c=e;({type:b}=z(c));(b==="point"||b==="circle")&&(c=c.encoding)&&typeof c==="object"&&(c=c.color)&&typeof c==="object"&&typeof c.field==="string"&&
+g.has(c.field)&&(c.legend=null)}}for(let g of Object.keys(a))g!=="layer"&&typeof a[g]==="object"&&a[g]!==null&&I(a[g])}}function J(a){if(a&&typeof a==="object")if(Array.isArray(a))for(let c of a)J(c);else for(let c of Object.keys(a))c==="format"&&a[c]==="~$s"?a[c]="$~s":J(a[c])}function ba(a){if(a=a.encode)for(let c in a)Object.prototype.hasOwnProperty.call(a,c)&&a[c]&&(delete a[c].align,delete a[c].baseline,delete a[c].dx,delete a[c].dy)}
+function ca(a){a.color&&typeof a.color==="object"&&(a=a.color,delete a.value,a.scale&&typeof a.scale==="object"&&(a=a.scale,Array.isArray(a.range)&&a.range.every(c=>typeof c==="string")&&delete a.range))}
+function K(a,c,b,f,g){if(a&&typeof a==="object"&&a!==null){var e=a.encoding||{};b={...b,...e};var {type:d,D:h}=z(a),l=["line","point","circle"];if(d&&l.includes(d)){if(h){l=b.color!==void 0;!l&&f||delete h.color;if(d==="circle"||d==="point")h.stroke!=="transparent"&&h.stroke!=="#ffffff"&&h.stroke!=="white"&&delete h.stroke,h.fill!=="transparent"&&delete h.fill,h.opacity!==0&&delete h.opacity,h.filled===!1?(g&&h.fill!=="transparent"&&h.opacity!==0&&(h.fill=g,h.filled=!0,e.fill={value:g}),l?(e.stroke||
+(e.stroke=b.color),delete e.color,a.encoding=e):c&&h.stroke!=="transparent"&&(h.stroke=c)):l&&!e.fill&&(e.fill=b.color,a.encoding=e);d==="line"&&h.point&&typeof h.point==="object"&&h.point!==null&&(e=h.point,delete e.color,delete e.size,delete e.stroke,delete e.opacity)}a.encoding&&typeof a.encoding==="object"&&ca(a.encoding)}for(let n of["layer","concat","hconcat","vconcat"])if(Array.isArray(a[n]))for(let m of a[n])K(m,c,n==="layer"?b:void 0,f,g)}}
+function L(a,c){if(!a)return[];if(a.includes("\n"))return a.split("\n");var b=a.split(" ");a=[];var f="";for(let g of b)b=f?f+g:g,b.length>c?(f.trim()&&a.push(f.trim()),f=g+" "):f=b+" ";f.trim()&&a.push(f.trim());return a}
+function N(a,c){function b(e,d){if(e&&typeof e==="object"&&e!==null){if(e.data&&typeof e.data==="object"){var h=e.data;Array.isArray(h.values)?d=h.values:typeof h.name==="string"&&(h=h.name,g&&g[h]?d=g[h]:e.datasets&&e.datasets[h]&&(d=e.datasets[h]))}if(e.encoding&&typeof e.encoding==="object"){h=e.encoding;var l="color fill stroke shape size opacity".split(" ");for(let m of l)if(h[m]&&typeof h[m]==="object"){l=h[m];if(l.value!==void 0)continue;let k=l.field;if(k&&d){let p=Array.from(new Set(d.map(u=>
+String(u[k]))));var n=0;for(let u of p)u.length>n&&(n=u.length);n=Math.max(1,Math.floor(c/(30+n*7)));let t=l.legend;if(t===null)continue;let A=!1;!t||typeof t!=="object"||t.orient!=="left"&&t.orient!=="right"&&t.direction!=="vertical"||(A=!0);A||(t||(l.legend={}),l.legend.columns=n,l=Math.ceil(p.length/n)*25,l>f&&(f=l))}}}for(let m of Object.keys(e))m!=="data"&&b(e[m],d)}}var f=0;if(!a||typeof a!=="object"||a===null)return 0;var g=a.datasets;b(a);return f}
+function da(a){if(a&&typeof a==="object"&&a!==null){var c=[];Array.isArray(a.transform)&&c.push(a.transform);if(Array.isArray(a.layer))for(var b of a.layer)b&&typeof b==="object"&&Array.isArray(b.transform)&&c.push(b.transform);for(let g of c)for(let e=0;e<g.length;e++){a=g[e];if(!a||typeof a!=="object")continue;c=a.as;if(typeof c!=="string")continue;c=c.match(/^y_raw_(\d+)$/);if(!c)continue;let d=c[1],h=`prev_y_${d}`,l=`prev_x_${d}`,n=`is_discontinuity_${d}`;c=typeof a.calculate==="string"?a.calculate:
+"";a=[];b=/\b(floor|ceil|round|sign)\s*\(([^()]+(?:\([^()]*\)[^()]*)*)\)/g;for(var f=void 0;(f=b.exec(c))!==null;)f=f[0],a.includes(f)||a.push(f);let m=g.findIndex((u,w)=>w>e&&Array.isArray(u.window)&&u.window.some(x=>x.as===h));if(m===-1)continue;b=g[m];let k=b.window;k.some(u=>u.as===l)||(c="x",Array.isArray(b.sort)&&b.sort.length>0&&(b=b.sort[0].field,typeof b==="string"&&(c=b)),k.unshift({op:"lag",field:c,as:l}));c=g.findIndex((u,w)=>w>m&&u.as===n&&typeof u.calculate==="string");if(c===-1)continue;
+c=g[c];let p=c.calculate,t=[];b=`(!isValid(datum.${h}) && isValid(datum.${l}))`;p.includes(l)||t.push(b);let A=1;a.forEach((u,w)=>{var x=`step_atom_${d}_${w}`,B=`prev_step_atom_${d}_${w}`;g.some(E=>E.as===x)||(g.splice(e+A,0,{calculate:u,as:x}),A++);k.some(E=>E.as===B)||k.push({op:"lag",field:x,as:B});u=`(isValid(datum.${B}) && isValid(datum.${x}) && datum.${B} != datum.${x})`;p.includes(B)||t.push(u)});t.length>0&&(a=t.join(" || "),p.includes("? 1 : 0")?(b=p.replace(/\s*\?\s*1\s*:\s*0\s*$/,"").trim(),
+c.calculate=`((${b}) || (${a})) ? 1 : 0`):c.calculate=`((${p}) || (${a})) ? 1 : 0`);e+=A-1}}}
+function O(a,c=!1){if(a&&typeof a==="object"&&Array.isArray(a.data)){var b;if(Array.isArray(a.scales)){var f=a.scales.find(k=>k.name==="x"||k.name==="xscale");if(f){if(typeof f.domainRaw==="object"&&f.domainRaw!==null){var g=f.domainRaw.signal;typeof g==="string"&&(b=g)}b||typeof f.domain!=="object"||f.domain===null||(f=f.domain.signal,typeof f==="string"&&(b=f))}}if(Array.isArray(a.signals)){f=a.signals;if(b&&(b.includes("[")||b.includes("."))&&(g=b.match(/^([a-zA-Z0-9_$]+)[.\[]['"]?([a-zA-Z0-9_$]+)['"]?\]?/))){let k=
+`${g[1]}_${g[2]}`;f.some(p=>p.name===k)&&(b=k)}b&&f.some(k=>k.name===b)||(f=f.find(k=>typeof k.name==="string"&&(k.name==="grid_x"||k.name.endsWith("_x"))))&&(b=f.name)}b||Array.isArray(a.signals)&&a.signals.some(k=>k.name==="grid"||k.name==="grid_x")&&(b="grid_x");if(b){Array.isArray(a.signals)||(a.signals=[]);f=a.signals;var e=-10;g=10;if(Array.isArray(a.scales)){var d=a.scales.find(k=>k.name==="x"||k.name==="xscale");d&&Array.isArray(d.domain)&&d.domain.length>=2&&typeof d.domain[0]==="number"&&
+typeof d.domain[1]==="number"&&(e=d.domain[0],g=d.domain[1]);var h=f.find(k=>k.name===b);h&&(h.value===void 0||h.value===null||Array.isArray(h.value)&&h.value.length===0)&&(h.value=d&&Array.isArray(d.domain)&&d.domain.length>=2&&typeof d.domain[0]==="number"&&typeof d.domain[1]==="number"?[d.domain[0],d.domain[1]]:[e,g])}var l,n;for(var m of a.data)if(d=m.transform,Array.isArray(d)&&(d=d.find(k=>k.type==="sequence"&&k.as!=="t"&&k.as!=="theta"))){typeof d.start==="number"&&(l=d.start);typeof d.stop===
+"number"&&(n=d.stop);break}m=Math.max(1E-6,g-e);l=l??e-.25*m;n=n??g+.25*m;m=f.find(k=>k.name==="dynamic_seq_x");if(!m){h=`(${b}[1] - ${b}[0])`;m=`[${b}[0] - 0.25 * ${h}, ${b}[1] + 0.25 * ${h}]`;g=`(isDefined(${b}) && isArray(${b}) && length(${b}) >= 2)`;e=`[${l}, ${n}]`;d=`${g} ? ${m} : ${e}`;h=`${g} ? (${`(${b}[0] < dynamic_seq_x[0] || ${b}[1] > dynamic_seq_x[1] || ${h} < 0.4 * (dynamic_seq_x[1] - dynamic_seq_x[0]) || ${h} > 0.95 * (dynamic_seq_x[1] - dynamic_seq_x[0]))`} ? ${m} : dynamic_seq_x) : dynamic_seq_x`;
+let k=b.includes("[")?b.split("[")[0]:b.includes(".")?b.split(".")[0]:b,p=f.some(t=>t.name===k)?k:b;m={name:"dynamic_seq_x",value:[l,n],init:`${g} ? ${m} : ${e}`,on:[{events:"window:wheel{100}, window:pointerup, window:touchend, window:touchcancel, window:mouseup, window:dblclick",update:d},{events:[{signal:p}],update:c?h:d}]};f.push(m)}for(let k of a.data)if(a=k.transform,Array.isArray(a)&&!a.some(p=>p.type==="formula"&&p.as==="x"&&typeof p.expr==="string"&&(p.expr.includes("datum.t")||p.expr.includes("datum.theta"))))for(let p of a)if(p.type===
+"sequence"){if(p.as==="t"||p.as==="theta")continue;a=typeof p.stop==="number"?p.stop:10;c=typeof p.step==="number"?p.step:.02;p.start={signal:`(isDefined(dynamic_seq_x) && isArray(dynamic_seq_x) && length(dynamic_seq_x) >= 2) ? dynamic_seq_x[0] : ${typeof p.start==="number"?p.start:-10}`};p.stop={signal:`(isDefined(dynamic_seq_x) && isArray(dynamic_seq_x) && length(dynamic_seq_x) >= 2) ? dynamic_seq_x[1] : ${a}`};p.step={signal:`(isDefined(dynamic_seq_x) && isArray(dynamic_seq_x) && length(dynamic_seq_x) >= 2) ? max(1e-7, (dynamic_seq_x[1] - dynamic_seq_x[0]) / 2400.0) : ${c}`}}}}}
+function Q(a){if(a&&typeof a==="object"){var c=Array.isArray(a.layer)?a.layer:[a];for(var b of[a,...c])if(b&&typeof b==="object"&&(Array.isArray(b.params)&&b.params.some(e=>e?.bind==="scales")||b.selection&&typeof b.selection==="object"&&Object.values(b.selection).some(e=>e?.bind==="scales")))return;var f=new Set;b=z(a).type==="bar";var g;for(let e of c){if(!e||typeof e!=="object")continue;z(e).type==="bar"&&(b=!0);let d=e.encoding||a.encoding;if(!d||typeof d!=="object")continue;let h=!1;for(let l of["x",
+"y"]){let n=d[l]?.type;if(n==="quantitative"||n==="temporal")f.add(l),d[l]?.field&&(h=!0)}!h||g||e.layer||(g=e)}a=Array.from(f);a.length===0||b||(c=g||c[0])&&typeof c==="object"&&(Array.isArray(c.params)||(c.params=[]),c=c.params,g=c.some(e=>e?.name==="grid")?"dataviz_zoom_grid":"grid",c.push({name:g,select:{type:"interval",encodings:a},bind:"scales"}))}}
+function R(a){if(a&&typeof a==="object")if(Array.isArray(a))for(let c of a)R(c);else{if(a.type==="wheel")a.source="view";else if(a.type==="touchstart"||a.type==="touchmove"||a.type==="touchend"||a.type==="touchcancel")a.source="window";Array.isArray(a.filter)?(a.filter=a.filter.filter(c=>typeof c!=="string"||!c.includes("inScope(event.item)")),a.filter.length===0&&delete a.filter):typeof a.filter==="string"&&a.filter.includes("inScope(event.item)")&&delete a.filter;Array.isArray(a.merge)&&R(a.merge);
+Array.isArray(a.between)&&R(a.between)}}
+function S(a){if(Array.isArray(a))for(let b of a){if(!b||typeof b!=="object")continue;var c=b.encode;if(c?.update&&typeof c.update==="object"){a=c.enter=c.enter||{};c=c.update;for(let f of["description","ariaRoleDescription","tooltip","size","shape"]){let g=c[f];if(!(!g||typeof g!=="object"||Array.isArray(g)||"scale"in g||"test"in g)){let e=g.signal;if(typeof e!=="string"||!e.includes("scale(")&&!e.includes("vlSelection"))a[f]=g,delete c[f]}}}Array.isArray(b.marks)&&S(b.marks)}}
+function T(a){if(a&&typeof a==="object"){Array.isArray(a.signals)||(a.signals=[]);var c=a.signals;S(a.marks);if(Array.isArray(a.scales)){var b=c.find(h=>typeof h?.name==="string"&&h.name.endsWith("_tuple_fields")&&Array.isArray(h.value));let d=b?b.name.replace(/_tuple_fields$/,""):"grid";for(var f of a.scales){let h=f?.name;if(h!=="x"&&h!=="y")continue;var g=b?b.value.find(n=>n?.channel===h):void 0;let l=g&&typeof g.field==="string"?`${d}_${g.field.replace(/\W/g,"_")}`:`${d}_${h}`;if((g=c.find(n=>
+n?.name===l||n?.name===`${d}_${h}`))&&typeof g.name==="string"&&(f.domainRaw={signal:g.name},Array.isArray(g.on)))for(var e of g.on)e.events?.signal!==`${d}_translate_delta`||typeof e.update!=="string"||e.update.includes(".x != null")||(e.update=`(${d}_translate_anchor && ${d}_translate_anchor.x != null && ${d}_translate_anchor.extent_${h}) ? (${e.update}) : domain('${h}')`)}}b=!1;for(let d of c){if(!d||typeof d.name!=="string")continue;e=d.name;f=Array.isArray(d.on)?d.on:[];if(e.endsWith("_zoom_delta")||
+e.endsWith("_zoom_anchor")||e.endsWith("_translate_delta")||e.endsWith("_translate_anchor"))for(let h of f)R(h.events),typeof h.update==="string"&&(h.update=h.update.replace(/\bx\(unit\)/g,"x()").replace(/\by\(unit\)/g,"y()"));if(e.endsWith("_zoom_delta"))b=!0,f.push({events:{signal:"pinch_state"},update:"(pinch_state[0] > 0 && pinch_state[1] > 0) ? (pinch_state[0] / pinch_state[1]) : 1",force:!0});else if(e.endsWith("_zoom_anchor"))d.value!==void 0||d.init||(d.value={x:0,y:0}),e=typeof f[0]?.update===
+"string"?f[0].update.replace(/invert\(\s*(['"][^'"]+['"])\s*,\s*[xy]\((?:unit)?\)\s*\)/g,"invert($1, (range($1)[0] + peek(range($1))) / 2)"):"{x: invert('x', (range('x')[0] + peek(range('x'))) / 2), y: invert('y', (range('y')[0] + peek(range('y'))) / 2)}",f.push({events:[{source:"window",type:"touchstart",filter:["event.touches && event.touches.length === 2"]},{source:"window",type:"touchmove",filter:["event.touches && event.touches.length === 2"]}],update:e});else if(e.endsWith("_translate_anchor")){g=
+Array.isArray(a.scales)?a.scales:void 0;e=!g||g.some(h=>h?.name==="x");g=!g||g.some(h=>h?.name==="y");g=[...(e?["extent_x: slice(domain('x'))"]:[]),...(g?["extent_y: slice(domain('y'))"]:[])];e=`{${g.join(", ")}}`;g=`{${["x: x()","y: y()",...g].join(", ")}}`;for(let h of f)typeof h.update==="string"&&(h.update=`(event && (event.pointerType === 'touch' || event.isPrimary === false || (event.touches && event.touches.length >= 2))) ? ${e} : (${h.update})`);f.push({events:{source:"window",type:"touchstart",
+filter:["!event.touches || event.touches.length === 1"]},update:g},{events:[{source:"window",type:"touchend"},{source:"window",type:"touchcancel"},{source:"window",type:"touchstart",filter:["event.touches && event.touches.length >= 2"]}],update:e})}else if(e.endsWith("_translate_delta")){e=e.replace(/_translate_delta$/,"_translate_anchor");for(let h of f)typeof h.update==="string"&&(h.update=`(${e} && ${e}.x != null && ${e}.y != null && !(event && (event.pointerType === 'touch' || event.isPrimary === false || (event.touches && event.touches.length >= 2)))) ? (${h.update}) : {x: 0, y: 0}`);
+f.push({events:{source:"window",type:"touchmove",consume:!0,filter:["event.touches && event.touches.length === 1"]},update:`(${e} && ${e}.x != null && ${e}.y != null) ? {x: ${e}.x - x(), y: ${e}.y - y()} : {x: 0, y: 0}`})}else if(e.endsWith("_tuple"))for(let h of f)f=h.events,Array.isArray(f)&&f[0]?.type==="pointerover"&&typeof h.update==="string"&&(h.update=`(event && (event.isPrimary === false || (event.pointerType !== 'touch' && event.buttons) || (event.touches && event.touches.length > 1))) ? ${e} : (${h.update})`)}b&&
+!c.some(d=>d.name==="pinch_state")&&(a=c.findIndex(d=>typeof d?.name==="string"&&d.name.endsWith("_zoom_delta")),c.splice(Math.max(0,a),0,{name:"pinch_state",value:[0,0],on:[{events:{source:"window",type:"touchstart",filter:["event.touches && event.touches.length === 2"]},update:"[pinchDistance(event), pinchDistance(event)]"},{events:{source:"window",type:"touchmove",consume:!0,filter:["event.touches && event.touches.length === 2"]},update:"[pinch_state[1] > 0 ? pinch_state[1] : pinchDistance(event), pinchDistance(event)]",
+force:!0},{events:[{source:"window",type:"touchend"},{source:"window",type:"touchcancel"},{source:"window",type:"touchstart",filter:["!event.touches || event.touches.length !== 2"]}],update:"[0, 0]"}]}))}}var ea=/^(?:(?:layer_\d+_)+[xy]|[xy](?:scale)?)$/;
+function fa(a,c){a=a.domainRaw;if(typeof a==="object"&&a!==null){var b=a.signal;if(typeof b==="string"){if(c.some(f=>f.name===b))return b;if(a=b.match(/^([a-zA-Z0-9_$]+)[.\[]['"]?([a-zA-Z0-9_$]+)['"]?\]?/)){let f=`${a[1]}_${a[2]}`;if(c.some(g=>g.name===f))return f}}}}
+function U(a){if(a&&typeof a==="object"){var c=a.usermeta;if(typeof c==="object"&&c!==null&&c.limitZoomOutToInitialView===!0&&(c=a.scales,a=a.signals,Array.isArray(c)&&Array.isArray(a)))for(let f of c){c=f.name;if(typeof c!=="string"||!ea.test(c))continue;var b=f.domain;if(!Array.isArray(b)||b.length<2||typeof b[0]!=="number"||typeof b[1]!=="number"||!Number.isFinite(b[0])||!Number.isFinite(b[1])||b[0]===b[1])continue;c=Math.min(b[0],b[1]);b=Math.max(b[0],b[1]);let g=fa(f,a);if(g)for(let e of a)if(e.name===
+g&&Array.isArray(e.on))for(let d of e.on){let h=d.update;typeof h!=="string"||h.startsWith("clampRange(")||(d.update=`clampRange(${h}, ${c}, ${b})`)}}}};var V="top bottom right left top-right top-left bottom-right bottom-left".split(" "),ha=[...V,...V,...V,...V],ia=[5,5,5,5,7,7,7,7,10,10,10,10,12,12,12,12,15,15,15,15,17,17,17,17,20,20,20,20,22,22,22,22],ka=new Set(["area","group"]),la=new Set("area group rule rect path image".split(" "));
+function ma(a,c){if(a&&(a=a.toLowerCase(),a.includes("hover")||a.includes("crosshair")||a.includes("cursor")||a.includes("tooltip")||a.includes("selector")||a.includes("brush")||a.includes("grid")||a.includes("guide")||a.includes("voronoi")))return!0;if(c&&(c=c.encode))for(let b of["update","enter"])if(a=c[b])for(let f of["opacity","fillOpacity","strokeOpacity"]){let g=a[f];if(Array.isArray(g)||g&&typeof g==="object"&&("signal"in g||"condition"in g))return!0}return!1}
+function na(a){if(Array.isArray(a.marks)){var c=b=>{var f=[],g=b.some(h=>h.type==="arc");for(let h of b){b=h.type;let l=h.name,n=h.marks;if(b==="text"&&!g){var e=h.transform;if(!e?.some(m=>m.type==="label")){var d={type:"label",size:{signal:"[max(1, width), max(1, height)]"},avoidMarks:[...f],anchor:ha,offset:ia};h.transform=e?[...e,d]:[d];ba(h)}}d=(e=typeof window!=="undefined"&&typeof window.ENABLE_INTERACTIVE_LINE_CHARTS==="boolean"?!!window.ENABLE_INTERACTIVE_LINE_CHARTS:typeof ENABLE_INTERACTIVE_LINE_CHARTS!==
+"undefined"&&!!ENABLE_INTERACTIVE_LINE_CHARTS)?la:ka;!l||!b||d.has(b)||e&&ma(l,h)||f.push(l);n&&c(n)}};c(a.marks)}};/*
+
+ Copyright Google LLC
+ SPDX-License-Identifier: Apache-2.0
+*/
+var oa=class{constructor(a){this.o=a}toString(){return this.o}};function pa(a){if(a instanceof oa)return a.o;throw Error("a");};function W(a,c=!1){return typeof window!=="undefined"&&(a=window[a],typeof a==="boolean")?a:c}function qa(){if(typeof window!=="undefined"){let a=window.VEGA_CHART_WIDTH;if(typeof a==="number")return a}return typeof VEGA_CHART_WIDTH!=="undefined"?VEGA_CHART_WIDTH:void 0}function X(){return W("ENABLE_INTERACTIVE_LINE_CHARTS",typeof ENABLE_INTERACTIVE_LINE_CHARTS!=="undefined"?!!ENABLE_INTERACTIVE_LINE_CHARTS:!1)}
+function ra(){return W("ENABLE_SCALE_DOMAIN_ALIGNMENT",typeof ENABLE_SCALE_DOMAIN_ALIGNMENT!=="undefined"?!!ENABLE_SCALE_DOMAIN_ALIGNMENT:!1)}function Y(){return W("ENABLE_VEGA_PINCH_ZOOM",typeof ENABLE_VEGA_PINCH_ZOOM!=="undefined"?!!ENABLE_VEGA_PINCH_ZOOM:!1)}var sa=function(a,...c){var b="";for(let f=0;f<a.length;f++)b+=a[f],f<c.length&&(b+=pa(c[f]));return new oa(b)}`
+  html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+  }
+  .chart-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  .chart-header {
+    padding: 16px 16px 0 16px;
+    flex-shrink: 0;
+  }
+  .chart-header:empty {
+    display: none;
+  }
+  #vis-wrapper {
+    position: relative;
+    width: 100%;
+    flex-grow: 1;
+    min-height: 0;
+  }
+  #vis {
+    height: 100%;
+    width: 100%;
+  }
+`;
+function ta(a=!1){var c=document.getElementById("vis");if(c){var b=c.querySelector("canvas");if(b&&(b.j=a,!b.l)){b.l=!0;c.style.touchAction="none";b.style.touchAction="none";var f=0,g=d=>{var h=d[0].clientX-d[1].clientX;d=d[0].clientY-d[1].clientY;return Math.sqrt(h*h+d*d)},e=d=>({clientX:(d[0].clientX+d[1].clientX)/2,clientY:(d[0].clientY+d[1].clientY)/2});b.addEventListener("touchstart",d=>{d.touches.length===2&&(window.h=!0,f=g(d.touches),d.preventDefault(),b.j||d.stopImmediatePropagation())},{capture:!0,
+passive:!1});b.addEventListener("touchmove",d=>{d.preventDefault();if(window.h&&d.touches.length===2&&!b.j){d.stopImmediatePropagation();let h=g(d.touches);d=e(d.touches);d=new WheelEvent("wheel",{bubbles:!0,cancelable:!0,clientX:d.clientX,clientY:d.clientY,deltaX:0,deltaY:(f-h)*2,deltaZ:0,deltaMode:0});b.dispatchEvent(d);f=h}},{capture:!0,passive:!1});b.addEventListener("touchend",d=>{d.touches.length<2&&(window.h&&!b.j&&d.stopImmediatePropagation(),window.h=!1)},{capture:!0,passive:!1});b.addEventListener("touchcancel",
+d=>{d.touches.length<2&&(window.h&&!b.j&&d.stopImmediatePropagation(),window.h=!1)},{capture:!0,passive:!1});b.addEventListener("wheel",d=>{b.j&&d.preventDefault()},{passive:!1});a=d=>{window.h&&(d.stopImmediatePropagation(),d.preventDefault())};window.l||(window.l=!0,window.addEventListener("mousedown",a,{capture:!0}),window.addEventListener("mousemove",a,{capture:!0}),window.addEventListener("mouseup",a,{capture:!0}),window.addEventListener("pointerdown",a,{capture:!0}),window.addEventListener("pointermove",
+a,{capture:!0}),window.addEventListener("pointerup",a,{capture:!0}),a=d=>{d.touches.length<2&&(window.h=!1)},window.addEventListener("touchend",a),window.addEventListener("touchcancel",a))}}}function ua(a){var c=document.createElement("style");c.textContent=pa(sa);document.head.appendChild(c);(c=document.querySelector(".chart-container-wrapper"))&&a&&(c.style.backgroundColor=a)}
+function va(a,c,b){for(;c.firstChild;)c.removeChild(c.firstChild);c.style.paddingBottom="16px";if((a=a.view.scale(a.I.C?.[0]?.encode?.symbols?.update?.fill?.[0]?.scale||a.I.C?.[0]?.encode?.symbols?.update?.stroke?.[0]?.scale||"color"))&&typeof a.domain==="function"){var f=a.domain();for(let e of f){var g=a(e)||"transparent";f=document.createElement("div");f.className="legend-item";let d=document.createElement("span");d.className="legend-mark";d.style.backgroundColor=g;g=document.createElement("span");
+g.className="legend-label";g.textContent=String(e);g.style.fontFamily="Google Sans, Roboto, Arial, sans-serif";g.style.fontSize="12px";g.style.fontWeight="500";b&&(g.style.color=b);f.appendChild(d);f.appendChild(g);c.appendChild(f)}}}function wa(a,c,b,f){var g=0;b!==void 0&&(g=N(a,b));D(a,"$schema");D(a,"labelAngle");D(a,"clamp");b=C(a);K(a,c?.[0],void 0,b,X()?f:void 0);I(a);H(a);X()&&da(a);Y()&&Q(a);ra()&&(a.height="container",a.width="container");return g}
+function xa(a){var c=a.backgroundColor,b=a.G,f=a.A,g=a.J,e=a.v,d=a.u,h=a.B;a=a.H;return{font:"Google Sans, Roboto, Arial, sans-serif",padding:16,autosize:{type:"fit",contains:"padding"},...(c?{background:c,point:{stroke:c,strokeWidth:2,size:100,filled:!0,opacity:1},circle:{stroke:c,strokeWidth:2,size:100,filled:!0,opacity:1}}:{}),...(b?{title:{...(a?{limit:a}:{}),offset:16,color:b,subtitleColor:b,anchor:"start",fontSize:16,fontWeight:500}}:{}),...(f&&e?{view:{stroke:f},axis:{domainColor:f,gridColor:g?
+{condition:{test:"datum.value === 0",value:g},value:f}:f,tickColor:f,labelColor:e,titleColor:e,labelFontWeight:500,titleFontWeight:500},axisBand:{labelAngle:-25},axisDiscrete:{labelAngle:-25},legend:{orient:"top",direction:"horizontal",columnPadding:10,gridAlign:"none",columns:h,labelLimit:0,offset:16,...(typeof DISABLE_HARDCODED_VEGA_LEGEND_SYMBOL!=="undefined"&&DISABLE_HARDCODED_VEGA_LEGEND_SYMBOL?{}:{symbolType:"square"}),labelColor:e,labelFontSize:12,labelFontWeight:500,title:null},style:{"guide-label":{fill:e,
+fontWeight:500},"guide-title":{fill:e,fontWeight:500}},text:{fill:e,fontWeight:500}}:{}),...(d?{range:{category:d,diverging:d,heatmap:d,ordinal:d,ramp:d,discrete:d},arc:{fill:d[0]},area:{fill:d[0]},bar:{fill:d[0]},line:{stroke:d[0]},path:{stroke:d[0]},rect:{fill:d[0]},shape:{stroke:d[0]},symbol:{fill:d[0]},tick:{fill:d[0]},trail:{fill:d[0]}}:{})}}
+function ya(a,c,b,f,g,e,d,h=0){b.u&&D(a,"range",m=>Array.isArray(m)&&m.every(k=>typeof k==="string"));D(a,"$schema");D(a,"labelAngle");D(a,"clamp");typeof ENABLE_SCALE_DOMAIN_ALIGNMENT!=="undefined"&&ENABLE_SCALE_DOMAIN_ALIGNMENT&&(a.height="container",a.width="container");var l=0;d!==void 0&&(l=N(a,d));Y()&&Q(a);d=za(b);var n=a;if(X()||Y())try{let m=vegaLite.compile(a,{config:d}),k=m.spec?m.spec:m;Y()&&T(k);X()&&O(k,Y());U(k);n=k}catch{n=a}return vegaEmbed("#vis",n,{actions:!1,theme:c,...(f?{tooltip:{theme:f}}:
+{}),config:d}).then(m=>{g&&e&&va(m,e,b.v);if(Y()){let k=Array.isArray(n.signals)&&n.signals.some(p=>p?.name==="pinch_state");ta(k)}window.m=m.view;Aa(l,h)}).catch(m=>{window.parent.postMessage({type:"embed_error",error:m instanceof Error?m.message:String(m)},"*")})}function za(a){a=xa(a);a.i&&(a.i.title=null,a.i.K=0,a.i.L=0,a.i.M=0,a.i.N=0,a.i.O=0);return a}
+function Aa(a=0,c=0){if(ra()){var b=document.getElementById("js-chart-title"),f=document.getElementById("js-custom-legend");b=b?b.getBoundingClientRect().height:0;f=f?f.getBoundingClientRect().height:0;window.parent.postMessage({type:"embed_success",titleHeight:Math.round(b>0?b:c),legendHeight:Math.round(f>0?f:a)},"*")}else window.parent.postMessage({type:"embed_success"},"*")};var Z=window;
+(function(a,c,b,f,g,e,d,h,l,n,m){var k=W("ENABLE_VEGA_LABEL_COLLISION_AVOIDANCE",typeof ENABLE_VEGA_LABEL_COLLISION_AVOIDANCE!=="undefined"?!!ENABLE_VEGA_LABEL_COLLISION_AVOIDANCE:!1),p={backgroundColor:f,G:g,A:e,J:d,v:h,u:l,B:n,H:m};e=document.getElementById("vis");d=qa();var t=e?.parentElement?.clientWidth||document.body?.clientWidth||d||360,A=null,u=!1,w=null,x=null,B=!1,E=0,M=v=>{if(u)return Promise.resolve();u=!0;w&&(window.removeEventListener("error",w),w=null);if(A)return ya(A,c,p,b,B,x,t,
+E);window.parent.postMessage({type:"embed_error",error:v instanceof Error?v.message:String(v)},"*");return Promise.resolve()};try{let v=JSON.parse(a);x=document.getElementById("js-custom-legend");let y=document.getElementById("js-chart-title");B=!!x;if(W("ENABLE_VEGA_STICKY_MOBILE_TOOLTIP",typeof ENABLE_VEGA_STICKY_MOBILE_TOOLTIP!=="undefined"?!!ENABLE_VEGA_STICKY_MOBILE_TOOLTIP:!1)&&e&&!window.F){window.F=!0;let q=0;window.addEventListener("touchstart",()=>{q=Date.now();var r=window.m;r&&typeof r.tooltip===
+"function"&&(r=r.tooltip())&&r(r,new MouseEvent("mouseout"),null,null)},{capture:!0,passive:!0});a=r=>{(r.pointerType==="touch"||Date.now()-q<500)&&r.stopPropagation()};e.addEventListener("pointerout",a,{capture:!0});e.addEventListener("mouseout",a,{capture:!0});e.addEventListener("mouseleave",a,{capture:!0})}if(y&&v.title){let q=v.title;e=a="";if(typeof q==="string")a=q;else if(Array.isArray(q))a=q.join(" ");else if(typeof q==="object"&&q!==null){let r=q.text;typeof r==="string"?a=r:Array.isArray(r)&&
+(a=r.join(" "));let G=q.subtitle;typeof G==="string"?e=G:Array.isArray(G)&&(e=G.join(" "))}delete v.title;y.textContent=a;y.style.fontFamily="Google Sans, Roboto, Arial, sans-serif";y.style.fontSize="16px";y.style.fontWeight="500";y.style.paddingBottom="0px";y.style.wordBreak="break-word";y.style.whiteSpace="normal";y.style.lineHeight="1.4";g&&(y.style.color=g);if(e){let r=document.createElement("div");r.textContent=e;r.style.fontSize="12px";r.style.fontWeight="normal";r.style.marginTop="4px";r.style.opacity=
+"0.7";y.appendChild(r)}}y&&ua(f);if(v.title){let q=v.title,r=Math.max(20,Math.floor(((typeof v.width==="number"?Math.min(v.width,t):t)-50)/8.5));g=[];typeof q==="string"?(g=L(q,r),v.title=g):typeof q==="object"&&q!==null&&typeof q.text==="string"&&(g=L(q.text,r),q.text=g);E=g.length>0?g.length*24:0}if(!k)return ya(v,c,p,b,B,x,t,E);J(v);A=JSON.parse(JSON.stringify(v));let Ba=wa(v,l,t,f),ja=xa(p),P=vegaLite.compile(v,{config:ja}),F=P.spec?P.spec:P;na(F);Y()&&T(F);X()&&O(F,Y());U(F);w=q=>{q.preventDefault();
+M(q.error||Error(q.message||"Asynchronous Vega crash"))};window.addEventListener("error",w);return vegaEmbed("#vis",F,{actions:!1,theme:c,...(b?{tooltip:{theme:b}}:{}),config:ja,logger:{level:()=>{},error:q=>{M(q)},warn:()=>{},info:()=>{},debug:()=>{}}}).then(q=>{B&&x&&va(q,x,h);w&&(window.removeEventListener("error",w),w=null);if(Y()){let r=Array.isArray(F.signals)&&F.signals.some(G=>G?.name==="pinch_state");ta(r)}window.m=q.view;Aa(Ba,E)}).catch(q=>M(q))}catch(v){return M(v)}})(Z.VEGA_LITE_SPEC,
+Z.VEGA_THEME,Z.VEGA_TOOLTIP_THEME,Z.AIM_CHART_BACKGROUND_COLOR,Z.AIM_CHART_TITLE_COLOR,Z.AIM_CHART_GRIDLINE_COLOR,Z.AIM_CHART_ZERO_AXIS_COLOR,Z.AIM_CHART_TEXT_COLOR,Z.AIM_CHART_RANGE_COLORS,Z.VEGA_CHART_LEGEND_COLUMNS,Z.VEGA_CHART_TITLE_WIDTH_LIMIT_IN_PIXELS);}).call(this);</script>
+  
+
+          </body></html>

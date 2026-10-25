@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Batch: Predikaat Koninklijk. Compared all 134 open AI Mode tabs and the ten newest history entries against the previous archive. Added one conversation (1063), titled by the user Lang weekend snowboarden - Sander en Jitske; its original Google history title is Beatrix Booster Corona. All 16 prompts and 16 responses were read back, including the late J&S monogram update supplied during packaging; the first 15 exchanges are unchanged. The two conversations from the previous batch (1061-1062) were checked and have no new source wording. All eight embedded photographs and source icons were captured, including three remotely loaded icons. No new interactive widgets, canvases, generated-file attachments or source access gaps were found. Earlier content, attachments, source gaps and Captain of industry GTM remain preserved. Unsent drafts remain excluded.",
+  "note": "Compared 141 initially open AI Mode tabs and 142 final tabs, plus the ten newest history entries before and after refresh. Added seven conversations (1064-1070), with 32 prompts and 32 responses. All seven complete transcripts were read back. The prior conversation (1063), Lang weekend snowboarden - Sander en Jitske, remains unchanged. Preserved thirteen source photographs, one original SVG diagram and its HTML, downloaded generated PDF attachments, and linked the existing XD-TAU v1.5 attachment at the matching uploaded filename. Source wording, prior source gaps, attachments and Captain of industry GTM remain preserved. Unsent drafts are excluded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -6031,5 +6031,134 @@
       "threadId": "y4ndatOBAr_-7_UPgIbRoQo",
       "userConfirmed": true
     }
+  },
+  "october25MoreMedia": {
+    "openTabsInitial": 141,
+    "openTabs": 142,
+    "historyEntriesChecked": 10,
+    "historyRefreshEntries": 10,
+    "newConversations": 7,
+    "newPrompts": 32,
+    "newResponses": 32,
+    "updatedConversations": [],
+    "readbacks": [
+      {
+        "threadId": "dJbdatefIbHs7_UPo8XIwAw",
+        "counts": {
+          "prompts": 8,
+          "responses": 8
+        },
+        "items": 16,
+        "sameText": true
+      },
+      {
+        "threadId": "2pndap-GPIq69u8PlImwwQg",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "items": 10,
+        "sameText": true
+      },
+      {
+        "threadId": "CpzdapqqDc64i-gP2I-DgA4",
+        "counts": {
+          "prompts": 7,
+          "responses": 7
+        },
+        "items": 14,
+        "sameText": true
+      },
+      {
+        "threadId": "jKDdasyhJY_E9u8P0qzYmQs",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "items": 4,
+        "sameText": true
+      },
+      {
+        "threadId": "VqHdaumWDNKD9u8Pn53FqQI",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "items": 4,
+        "sameText": true
+      },
+      {
+        "threadId": "8qHdavP8OLi59u8PgaO3uAI",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "items": 8,
+        "sameText": true
+      },
+      {
+        "threadId": "faPdavqgGbOVi-gP-MH0uQM",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "items": 8,
+        "sameText": true
+      }
+    ],
+    "priorBoundary": {
+      "ordinal": 1063,
+      "items": 32,
+      "sameText": true
+    },
+    "attachments": [
+      {
+        "conversation": 1070,
+        "item": 3,
+        "title": "BulletTime Spatiotemporal Formalization",
+        "filename": "BulletTime_Spatiotemporal_Formalization.pdf",
+        "url": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6MWQ4YmM2YWM3YTQ5NzE1ZDowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlYTQ3NTk5ZDZiZhACGAEiD2FwcGxpY2F0aW9uL3BkZiorQnVsbGV0VGltZV9TcGF0aW90ZW1wb3JhbF9Gb3JtYWxpemF0aW9uLnBkZg==",
+        "path": "attachments/BulletTime_Spatiotemporal_Formalization.pdf",
+        "sha256": "73520c2b4311a2a483cf7cc0ca407476713f39f9ffd94b20bbcb7df2e31491eb",
+        "pages": 2,
+        "status": "downloaded-original"
+      },
+      {
+        "conversation": 1070,
+        "item": 7,
+        "title": "BulletTimeController.cs",
+        "filename": "BulletTimeController.cs",
+        "url": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6ZGYzNDhlMGMyZThmNjM1NTowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlYTQ3YTZiNTVlZhACGAEiGGFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbSoXQnVsbGV0VGltZUNvbnRyb2xsZXIuY3M=",
+        "path": "attachments/BulletTimeController.cs",
+        "sha256": "2a159f1a2f5af6557ddb5912dce15a788c3ca60ddf5aa2643a79da3e22f4507d",
+        "pages": null,
+        "status": "downloaded-original"
+      },
+      {
+        "conversation": 1069,
+        "item": 6,
+        "title": "Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf",
+        "path": "attachments/Tom_Klootwijk_XD-TAU_Architectural_Paradigm_v1.5_Complete_Specification.pdf",
+        "sha256": "8dfae654435c035beefc3f9770cf6f51b55c0cef968071900142e4cf9b1cf0fd",
+        "pages": 71,
+        "status": "existing-archive-copy-matching-uploaded-filename"
+      }
+    ],
+    "sourceErrorResponses": [],
+    "sourceGaps": [],
+    "media": [
+      {
+        "conversation": 1064,
+        "response": 8,
+        "path": "assets/widgets/2026-10-25-more-1064-response-8.svg",
+        "status": "captured-original-svg",
+        "displayedText": "Maktub Paradigm Verification Architecture\nDeterministic State Pipeline & Self-Rewriting Operational Loop\nSnapshot\nUpdate A\nUpdate B\nKernel\nMod\nTrace Hist\nOp Reg\nSelf-Rewriting Dynamic Mutation Loop\nComponent Architecture"
+      }
+    ],
+    "embeddedPhotographs": 13,
+    "unmatchedOpen": [],
+    "unmatchedRecentHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true
   }
 }

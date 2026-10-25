@@ -1,0 +1,53 @@
+{
+  "pages": 6886,
+  "frontPages": 34,
+  "indexPage": 1,
+  "unchangedBodyPages": 6803,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "1064": {
+      "pages": 13,
+      "prompts": 8,
+      "responses": 8
+    },
+    "1065": {
+      "pages": 10,
+      "prompts": 5,
+      "responses": 5
+    },
+    "1066": {
+      "pages": 10,
+      "prompts": 7,
+      "responses": 7
+    },
+    "1067": {
+      "pages": 1,
+      "prompts": 2,
+      "responses": 2
+    },
+    "1068": {
+      "pages": 4,
+      "prompts": 2,
+      "responses": 2
+    },
+    "1069": {
+      "pages": 5,
+      "prompts": 4,
+      "responses": 4
+    },
+    "1070": {
+      "pages": 6,
+      "prompts": 4,
+      "responses": 4
+    }
+  },
+  "internalIndexLinks": 1128,
+  "prompts": 5567,
+  "responses": 5570,
+  "streamingReadbackVerified": true,
+  "nativePdfAssembly": true,
+  "priorFrontPages": 33,
+  "priorPageOffset": 1,
+  "priorFooterOverlay": true,
+  "originalBodyStreamsVerifiedAfterSave": true
+}

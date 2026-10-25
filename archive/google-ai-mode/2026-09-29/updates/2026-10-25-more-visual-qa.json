@@ -1,0 +1,61 @@
+{
+  "reviewedAt": "2026-10-25T06:43:53.571319+00:00",
+  "newPagesRendered": 49,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 3,
+  "headingMinimumPt": 20,
+  "highResolutionReview": [
+    6847,
+    6850,
+    6869,
+    6879,
+    6886
+  ],
+  "sourceGaps": [],
+  "originalErrorResponsesPreserved": [],
+  "chapters": [
+    {
+      "conversation": 1064,
+      "pages": 13,
+      "sha256": "403cb9bd47a20269072fef9c96cc35549b6de70ffb0f285f468776ef18a4d213",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1065,
+      "pages": 10,
+      "sha256": "4b91e08e3d1357ceb4ad9dd100a72c67caf84fafcf970faf64627b293151ff1b",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1066,
+      "pages": 10,
+      "sha256": "521a455b8fd17d97fde89ef800c9f9d5a0455a09e67db4e970a998f89f925111",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1067,
+      "pages": 1,
+      "sha256": "6ef5ab062b5422486a7018dfb4a61aad842d5cf44502f7df4ba3eb42b1034bc5",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1068,
+      "pages": 4,
+      "sha256": "29b069c85bb23a747df791a0a3f7cab32f0af663aafe2e165b983ee1084540d2",
+      "maxHeadingPt": 20.999505877020553
+    },
+    {
+      "conversation": 1069,
+      "pages": 5,
+      "sha256": "d7583c627cd4478b607d87785c271749664b524fa84d981cb7066b28cd344d61",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1070,
+      "pages": 6,
+      "sha256": "f13d569ba585eeb77fbbad1598299069df78e848979b6918293d5c1130f3d53f",
+      "maxHeadingPt": 20.999505877020553
+    }
+  ],
+  "result": "passed"
+}

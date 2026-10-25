@@ -1,24 +1,82 @@
 {
-  "at": "2026-10-25T05:41:53.879786+00:00",
+  "at": "2026-10-25T06:41:14.402260+00:00",
   "date": "2026-10-25",
-  "batchId": "2026-10-25",
-  "batchTitle": "Predikaat Koninklijk",
-  "openAiModeTabs": 134,
+  "batchId": "2026-10-25-more",
+  "openAiModeTabs": 142,
   "historyConversationsChecked": 10,
-  "method": "Batch: Predikaat Koninklijk. Compared all 134 open AI Mode tabs and the ten newest history entries against the previous archive. Added one conversation (1063), titled by the user Lang weekend snowboarden - Sander en Jitske; its original Google history title is Beatrix Booster Corona. All 16 prompts and 16 responses were read back, including the late J&S monogram update supplied during packaging; the first 15 exchanges are unchanged. The two conversations from the previous batch (1061-1062) were checked and have no new source wording. All eight embedded photographs and source icons were captured, including three remotely loaded icons. No new interactive widgets, canvases, generated-file attachments or source access gaps were found. Earlier content, attachments, source gaps and Captain of industry GTM remain preserved. Unsent drafts remain excluded.",
+  "method": "Compared 141 initially open AI Mode tabs and 142 final tabs, plus the ten newest history entries before and after refresh. Added seven conversations (1064-1070), with 32 prompts and 32 responses. All seven complete transcripts were read back. The prior conversation (1063), Lang weekend snowboarden - Sander en Jitske, remains unchanged. Preserved thirteen source photographs, one original SVG diagram and its HTML, downloaded generated PDF attachments, and linked the existing XD-TAU v1.5 attachment at the matching uploaded filename. Source wording, prior source gaps, attachments and Captain of industry GTM remain preserved. Unsent drafts are excluded.",
   "records": [
     {
-      "ordinal": 1063,
-      "title": "Lang weekend snowboarden — Sander en Jitske",
-      "sourceTitle": "Beatrix Booster Corona",
+      "ordinal": 1064,
+      "title": "Wow Classic Threat Meter",
       "status": "added",
       "counts": {
-        "prompts": 16,
-        "responses": 16
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 1065,
+      "title": "Nazguls and Hobbits",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 1066,
+      "title": "Arg Automated Google Maps Ticket",
+      "status": "added",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 1067,
+      "title": "1561 XN Krommenie",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 1068,
+      "title": "Telnet Star Wars GameVR",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 1069,
+      "title": "SOS Formalized Notation",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 1070,
+      "title": "Hunting Game Pokemon Mod",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
       }
     }
   ],
   "newOrdinals": [
-    1063
+    1064,
+    1065,
+    1066,
+    1067,
+    1068,
+    1069,
+    1070
   ]
 }
