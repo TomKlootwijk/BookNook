@@ -1,0 +1,123 @@
+{
+  "pages": 7153,
+  "frontPages": 34,
+  "indexPage": 1,
+  "unchangedBodyPages": 6852,
+  "originalBodyStreamsVerified": true,
+  "chapterValidation": {
+    "1071": {
+      "pages": 18,
+      "prompts": 6,
+      "responses": 6
+    },
+    "1072": {
+      "pages": 10,
+      "prompts": 6,
+      "responses": 6
+    },
+    "1073": {
+      "pages": 5,
+      "prompts": 4,
+      "responses": 4
+    },
+    "1074": {
+      "pages": 2,
+      "prompts": 2,
+      "responses": 2
+    },
+    "1075": {
+      "pages": 11,
+      "prompts": 6,
+      "responses": 6
+    },
+    "1076": {
+      "pages": 6,
+      "prompts": 5,
+      "responses": 5
+    },
+    "1077": {
+      "pages": 23,
+      "prompts": 11,
+      "responses": 11
+    },
+    "1078": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "1079": {
+      "pages": 82,
+      "prompts": 23,
+      "responses": 23
+    },
+    "1080": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "1081": {
+      "pages": 2,
+      "prompts": 1,
+      "responses": 1
+    },
+    "1082": {
+      "pages": 4,
+      "prompts": 5,
+      "responses": 5
+    },
+    "1083": {
+      "pages": 3,
+      "prompts": 2,
+      "responses": 2
+    },
+    "1084": {
+      "pages": 24,
+      "prompts": 5,
+      "responses": 5
+    },
+    "1085": {
+      "pages": 1,
+      "prompts": 1,
+      "responses": 1
+    },
+    "1086": {
+      "pages": 9,
+      "prompts": 6,
+      "responses": 6
+    },
+    "1087": {
+      "pages": 6,
+      "prompts": 3,
+      "responses": 3
+    },
+    "1088": {
+      "pages": 14,
+      "prompts": 9,
+      "responses": 9
+    },
+    "1089": {
+      "pages": 16,
+      "prompts": 8,
+      "responses": 8
+    },
+    "1090": {
+      "pages": 15,
+      "prompts": 7,
+      "responses": 7
+    },
+    "1091": {
+      "pages": 12,
+      "prompts": 6,
+      "responses": 6
+    }
+  },
+  "internalIndexLinks": 1150,
+  "prompts": 5685,
+  "responses": 5688,
+  "streamingReadbackVerified": true,
+  "nativePdfAssembly": true,
+  "priorFrontPages": 34,
+  "priorPageOffset": 0,
+  "priorFooterOverlay": true,
+  "originalBodyStreamsVerifiedAfterSave": true
+}

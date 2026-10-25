@@ -1,0 +1,16 @@
+{
+  "conversation": 1079,
+  "response": 1,
+  "displayedText": "LOG-POLAR LUT TRANSFORMATION\nRadial Nave Frequency\nAngular Spire Gradient\npause\nTOTAL SHAPES\n18\nBST MAX DEPTH\n12\nLUT BASIS\n210° H\nColor Spectrum Hue\n210°\nLogarithmic Scale\n1.5x\nPCG Complexity\nLVL 3",
+  "capturedAt": "2026-10-25T15:54:12.467Z",
+  "canvas": [
+    {
+      "height": 540,
+      "width": 960
+    }
+  ],
+  "htmlLength": 60589,
+  "images": [],
+  "svg": [],
+  "text": "LOG-POLAR LUT TRANSFORMATION\nRadial Nave Frequency\nAngular Spire Gradient\npause\nTOTAL SHAPES\n18\nBST MAX DEPTH\n12\nLUT BASIS\n210° H\nColor Spectrum Hue\n210°\nLogarithmic Scale\n1.5x\nPCG Complexity\nLVL 3"
+}

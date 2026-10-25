@@ -1,0 +1,182 @@
+{
+  "reviewedAt": "2026-10-25T16:40:36.411355+00:00",
+  "newPagesRendered": 267,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 13,
+  "headingMinimumPt": 18.9,
+  "headingException": "Conversation 1089 uses a 19pt heading to accommodate the original wide MathML equation; all sixteen pages visually checked for readable text and complete formulas.",
+  "highResolutionReview": [
+    6915,
+    6922,
+    6926,
+    6956,
+    6966,
+    6968,
+    6971,
+    7046,
+    7118,
+    7119,
+    7121,
+    7122,
+    7127,
+    7139,
+    7141,
+    7142,
+    7144,
+    7147,
+    7149,
+    7153
+  ],
+  "sourceGaps": [],
+  "originalErrorResponsesPreserved": [
+    {
+      "conversation": 1073,
+      "response": 1,
+      "status": "original-Google-image-refusal-preserved"
+    },
+    {
+      "conversation": 1073,
+      "response": 2,
+      "status": "original-Google-image-refusal-preserved"
+    },
+    {
+      "conversation": 1077,
+      "response": 9,
+      "status": "original-Google-image-refusal-preserved"
+    },
+    {
+      "conversation": 1077,
+      "response": 11,
+      "status": "original-Google-image-refusal-preserved"
+    }
+  ],
+  "chapters": [
+    {
+      "conversation": 1071,
+      "pages": 18,
+      "sha256": "bfcc0cc4fd6df5e8f8ca471cd811afa6242e9410b6e792ee7b5f2342bab7abde",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1072,
+      "pages": 10,
+      "sha256": "511ee490b2049ae2d1cda509e02c0e2b7a9b5b998d290c4d9bb35f52d5de3c70",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1073,
+      "pages": 5,
+      "sha256": "c6064b9625c1b96a19e6c3a44ce3facf5aa096a4ce15821ad5f4b02eeda94a85",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1074,
+      "pages": 2,
+      "sha256": "883212a3a5fbbe0f7d273742b0ab2f6cf62fe3f23764d480821546215dfbe227",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1075,
+      "pages": 11,
+      "sha256": "269717381f6ade174efda3c7c62b116cbc31692c54d9d7a4b5c293f09b7c911a",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1076,
+      "pages": 6,
+      "sha256": "bfdf6aeec180d5967cc9db08467af475c675d55135c5fc3de60788480ae3313d",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1077,
+      "pages": 23,
+      "sha256": "d392e0f01124031b92769f64a39618b636e00dee4fa547edaa310940781f9c96",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1078,
+      "pages": 2,
+      "sha256": "6844964eae8a3ff3b0570856b7a764a1ff3bb3cd361b1eb0f1ee41d9b3a376d4",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1079,
+      "pages": 82,
+      "sha256": "00a05293a60f0a9eb227f0599c8f46656d77f093407069b192f082c331812e58",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1080,
+      "pages": 2,
+      "sha256": "0c12c4738d9d957a7dee2b6c968629698f75f413a7b226bab7821821cf3cebe3",
+      "maxHeadingPt": 20.689826785923845
+    },
+    {
+      "conversation": 1081,
+      "pages": 2,
+      "sha256": "b9570decc539d2f021e279c63446600b7b4d9ed2873bdcc097ecb2f2947644f2",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1082,
+      "pages": 4,
+      "sha256": "d533c37f9f35f96b124ec5bbabba91dbca2319c89166babe47d9cb553e06bca4",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1083,
+      "pages": 3,
+      "sha256": "406def339d8b397c2f3c695849944ec779777a11f18553e5acd670fb1c667e22",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1084,
+      "pages": 24,
+      "sha256": "094f7eb4a708e110bf0498984be738731b0895f26506ae5fb69135e3bfc1072e",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1085,
+      "pages": 1,
+      "sha256": "5129fd8f4e9e907c549c921ca0ea96552966a748ed08a6a2ecde7347434fd770",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1086,
+      "pages": 9,
+      "sha256": "852530c42b688c70ebe41c7cf6aac55d3c2b5e59fedf196b8619f75f7ad81013",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1087,
+      "pages": 6,
+      "sha256": "57c3a8dc5a4a0262b948de50d257af19d6ad82c64d28f4c5572ffe1208ee76fc",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1088,
+      "pages": 14,
+      "sha256": "dd9946d5133926c43131bf57214c548d3243ab2c69d040393a5ffbe76dfe87dd",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1089,
+      "pages": 16,
+      "sha256": "5564edcee5fff489d9a2fb606f4f1fdd95b407fca6dfa33b2b65156fa9cf5c15",
+      "maxHeadingPt": 18.997473480438572
+    },
+    {
+      "conversation": 1090,
+      "pages": 15,
+      "sha256": "9b64f6af8c57e5c7969bfb95bf3a610901d5ddb51df6e9c003a6c55837123720",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1091,
+      "pages": 12,
+      "sha256": "f642c594c00bd362c297f8711f6fc49100f6c9194987c859a465eac574a9ffb6",
+      "maxHeadingPt": 20.689826785923845
+    }
+  ],
+  "result": "passed"
+}

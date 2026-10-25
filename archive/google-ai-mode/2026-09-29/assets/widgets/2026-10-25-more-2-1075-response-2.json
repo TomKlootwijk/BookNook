@@ -1,0 +1,15 @@
+{
+  "conversation": 1075,
+  "response": 2,
+  "canvas": [
+    {
+      "height": 549,
+      "width": 978
+    }
+  ],
+  "displayedText": "pause\nSHADER PIPELINE\nGodot Screen-Space Native Emulation\nTOON STEPS\n3 levels\nFRESNEL EXP\n2.5\nDITHER FREQ\n4x4 px\nGeometry Mesh\nTorus Knot Primitive\nStandard Torus Ring\nHigh-Poly Sphere\nTorus Knot Primitive\nexpand_more\nBase Tint Palette\nVibrant Crimson Red\nAcid Green\nDeep Cyber Purple\nNeon Amber Yellow\nVibrant Crimson Red\nexpand_more\nToon Quantization Bands\n3\nFresnel Rim Falloff Power\n2.5\nHDR Bloom Glow Gain\n1.2\nBayer Dithering Noise Weight\n1.0",
+  "htmlLength": 67609,
+  "images": [],
+  "svg": 0,
+  "capturedAt": "2026-10-25T16:00:24.515Z"
+}

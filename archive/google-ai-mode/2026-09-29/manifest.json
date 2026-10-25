@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-10-25",
-  "scopeCount": 1070,
-  "capturedCount": 1070,
-  "prompts": 5567,
-  "responses": 5570,
-  "mathRendered": 18484,
-  "embeddedImages": 12690,
+  "scopeCount": 1091,
+  "capturedCount": 1091,
+  "prompts": 5685,
+  "responses": 5688,
+  "mathRendered": 18594,
+  "embeddedImages": 13061,
   "conversations": [
     {
       "ordinal": 1,
@@ -11776,6 +11776,237 @@
       "source": "https://www.google.com/search?q=hunting+game+pokemon+like+with+a+knife+the+specialist+roleplay+mod+half-life+1&sca_esv=d334bbde0c3057be&sxsrf=APpeQnsLu83lN4TRTLteEyRCtRJD40jkwQ%3A1792910203770&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UfVcuk_CN5lZ7ooDDWHK2Mvzz3zSAVajbtoCgDcY4ClkqSY2KMHBVEZtzZXhvZhOAYOei-ZwZNbTP-zA17u6NI3tEs6cG6hn81aUxnDhSOjSjwakoJQVHh0SeQ8h1zJd7wJVl3n&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwia8rz-xtSXAxVXwAIHHSNBDygQ2J8OegQIFRAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfDhIg-ePkWyQHVPwrtTQvo0l-sL5PxeId1etQsbG1R0DN87R6LFGwAE-csRVLSZFl9ccIY_mPoeNhKr9hk2wsPamoEMu635oa5udwxB5-GmGpPFBWSGP-klXrveIXI0fwbZGt8H4FdRZHCo-ycHQIMwlsb3nL9MRiGEQ78ppTZPU1CSdNl0RSJuztF7uSDzdPEsLpP-mGjYeDpaa5ttttLeYBzSJzEITchVUZ5XF-99TVPAFAlkwL56HadvU_rEWJ4ObICmflxLKi-u_isWZokelHiqpkB3U2jY2Y4R5LJ3QQwR3VW-HbAd44e9X_C45mv7klK4YI021R1L9f3LS786YQI667tv6A&csuir=1&mtid=faPdavqgGbOVi-gP-MH0uQM&atvm=1&udm=50",
       "recoveredFromSavedUrl": false,
       "pdfPage": 6881
+    },
+    {
+      "ordinal": 1071,
+      "title": "Historical German Reich Context",
+      "prompts": 6,
+      "responses": 6,
+      "html": "conversations/1071-historical-german-reich-context.html",
+      "markdown": "conversations/1071-historical-german-reich-context.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CDEQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQ0wI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfDYdf13OTvwPG94OvAElbVZtxaLjNEzxTJR2Ag99p9cLvG4uRmZYKuhsQ13RKKfOkjzAIY0zKjzcnVLNHQKux3sp_MxHOk-_LVEUcAwU74o-4Q9bP9ayxiS9RVpAiQTEcOnoQGBY5g6QXDu2ObmROCgPlFPc4nKXz87RDyD1YK92zmCv8pdxRqnGZ0qS3MHk9gOkXTdrfjRCscikLDUMI5nAGl348gCmyWvdoEU48n5-_GTzaKEFs7bolquW6REKo2nPR5tPTBMjo1HWr6k59STjb2QcWHNCsEwdASkNzKLkG0dbix6JBbepG5twhtxOv954NLmgbhSJw&mtid=j6jdapvoKJTgi-gPueuNiQk&csuir=1&aep=26&q=third+wavering+seig+leih+reich",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6887
+    },
+    {
+      "ordinal": 1072,
+      "title": "Ragnarok Online Android Games",
+      "prompts": 6,
+      "responses": 6,
+      "html": "conversations/1072-ragnarok-online-android-games.html",
+      "markdown": "conversations/1072-ragnarok-online-android-games.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CCsQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQ0wI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfBaECpGTSKO2PQY6ut3qsiE2-x0p4EAmOARbBmGAvaCYldd4v_7kavZDGdqGhTBclQeidzXQ8BsDEBis08pYjpojMRj6rMPw267vAiuA8wxpLY2vxPdYzx7KZAiIHoQYUwugEwwcseTJUbIexIulBoih7-GvEzH812jCLJ0_lWzV6WWb377AwdpXsuQ9reOjLBeg7IiBMYCCF8XnmK_enh5LkNVWQILDOM4HoPlG_nZ5TzbRw8By3RBLMu435me2rrmnRxTbSv9EK1zg8B-s2TovX-M2t7w7aVAA2-AOhBpWcKqHRd1KDmEsVFlk7wSVfN-F_Sv5gWe1g&mtid=gKzdatfeIKawi-gP2fuhuAk&csuir=1&aep=26&q=ragnarok+online+android+game",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6905
+    },
+    {
+      "ordinal": 1073,
+      "title": "wolfenstein old blood, but ragnarok online rose online and gothic architecture but the nazi's won, toon shaded HDR glow nazi themes albert speer",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/1073-wolfenstein-old-blood-but-ragnarok-online-rose-online-and-gothic-architecture-bu.html",
+      "markdown": "conversations/1073-wolfenstein-old-blood-but-ragnarok-online-rose-online-and-gothic-architecture-bu.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CCUQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQ0wI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfDajJhwBO6nfyZRWGB-6tUBccN43BX4dZ8_pXQkt0XrkmYHreAR5uIG2KTYVoEUsoqSDfNJbaRvymRdfzDjAWDB545h325VdxmCKNF0FbaVe2A9vFJhRQK3lKlo0FUAPifQrahDaUbhp9OVuPEFT0sP2PVENf4oI8JeWmChVjqCV6wJqgh_b0b4WuMNjni5Znk9bqqxLdREtYwTqETAX8HZs4dzsI4XNFnCwczTYXIZNiMqpdUlWH3apxsZUe2vea1JYe6-zz0JiY0MCBrkJwNVnB4bIR3SbCSfFiQPl_ZxtIxQcJyC5AgjxOeZAP1Kd1QxkC2CGVwPZQ&mtid=PbbdaorYGZK4i-gPrqrooQU&csuir=1&aep=26&q=wolfenstein+old+blood%2C+but+ragnarok+online+rose+online+and+gothic+architecture+but+the+nazi%27s+won%2C+toon+shaded+HDR+glow+nazi+themes+albert+speer",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6915
+    },
+    {
+      "ordinal": 1074,
+      "title": "Dark Cloud 2 Game",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/1074-dark-cloud-2-game.html",
+      "markdown": "conversations/1074-dark-cloud-2-game.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahgKEwiI48-PwtWXAxUAAAAAHQAAAAAQtAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfBT6HEl91SyazaR__0Na8fr4vJ7F8zLQUo2mbW_XlHV6_McpOUImjU4fS5NGM0h_SsJLPndM1DJC9N5h1L3LDw91Nu7B4eUpu4kwtSAlXla6dWCQNfxMwanm3UH_fRzz7u21j2RuOOKP0bntinORq9vOjcyRAzNvhQ5m1wkUYy24VnQ_aKgBJvjl9VOMHqsi3sUG_AI1sNvJac_pxdSiAFbgV4GPzSAztM5UALd40RAAyEJGqqagxD3SYA_Ky7kG7J8NIAnXO2Y1TPy2Y3qRALq_WKnt7cq-Stx9bLdp7GYZlocZBYcdUyPVWl54sVFfF_HxlzNBz9YrA&mtid=_bbdavexNOPqi-gP0JeByAk&csuir=1&aep=26&q=the+game+on+the+ps2+with+the+wrench+and+the+toon+shaded+crafting+game+where+you+take+pictures+and+like+action+RPG+stuff",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6920
+    },
+    {
+      "ordinal": 1075,
+      "title": "Контрастный Стилизованный Shader Art",
+      "prompts": 6,
+      "responses": 6,
+      "html": "conversations/1075-shader-art.html",
+      "markdown": "conversations/1075-shader-art.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQ0wI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfD1qJuP7Mz9H7Bm5CpG___xB1Bqkq2y6DenFEjQHHhGYspwbzmkQvFdu_0KNf7OiFD_Aep_zCuJj-r4DVTJNzkbxy17XIiLM4fGluiVDr7aSBXNStHOimRNnS1At5OF6h4BWmQcKfHzRX7oaOwBFJfcgP_HdOBJoO9wlqkdiQwXCNL1AuI4-y3R-xMseU2ByGbGqhAz9n5OeHCaAHBXfdzomGosUB8PO77O0xmKqiXmyWGyDsCzqMoRxxr1F_pxQd-fsNkqcjfMMg&mtid=jbrdarvYFbHJi-gPjKL9qAs&csuir=1&aep=26&q=kontras+dithering+shader+toon+fresnel+HDR+glow+art+style",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6922
+    },
+    {
+      "ordinal": 1076,
+      "title": "Splatoon Small Arena Maps",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/1076-splatoon-small-arena-maps.html",
+      "markdown": "conversations/1076-splatoon-small-arena-maps.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahgKEwiI48-PwtWXAxUAAAAAHQAAAAAQtAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfCcQkDa0A04xVFJpy4USlmSoZKYz_ZWnPwALJq0n-j54ZF7f4fkwSBg9XAaguGn6sID-p9tnc6zTPr0ljsew9IGrvTg3bAs5tq2NllL_-uEw3gzN8DHSr2bkIKi2mxQJgPA5jT0rYJUrafRBnhEfMt5mvXCKNdrAZjGWoIUmoo1ycLOt8ClTlV631zEW7xyR7WkamXZHNM1yPUmPCpBHt3MftNrrJfDMdbZLQV4wfwsKJgKQGV0mruV44HDwyVEfX2fst7EoEn2K780s7cKzKeIdX4cjtRR2u7LbvVKDPjUNkzE6o0vYCU7nolu8JdZW37pp3BCIT0ytA&mtid=mtbdasiYLODx7_UPrvOLsAk&csuir=1&aep=26&q=splatoon+but+small+arena%27s+like+call+of+duty+2+carentan",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6933
+    },
+    {
+      "ordinal": 1077,
+      "title": "Glyph Emblem Crosshairs HUDs",
+      "prompts": 11,
+      "responses": 11,
+      "html": "conversations/1077-glyph-emblem-crosshairs-huds.html",
+      "markdown": "conversations/1077-glyph-emblem-crosshairs-huds.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahgKEwiI48-PwtWXAxUAAAAAHQAAAAAQtAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfBw1BF69agIbpifWFpqjyXjapgtp7KWx0ULtydzr1imWuX_LvJWXyufJvwMaExY-k4u_zgP8PBc9GL6iTp8CPTftLlCfkgzJRwszzw3xVlNUpECtopMOwSFQhNx_7jYX6BZ_nOPQhKGOkPiqwxQHWHkENlYqx7XrNSCxssRT5un3hYOE5yOGlMubT6VvJZY2aVLw8hd5wVyYABGSqdD4HaOZ4_VP5HHbVx0Js6ldMQLuXdMXxxUgcJe1YVWZ_phyqrF95zbnq53xK_h1ttyDZM-36BB5PMXXfV0TEJW9NcDgy0QmAMOh-pHpvdY8MTvQ8tPJOrIIxdrEg&mtid=r9vdasC4LYWE9u8PsdX18AI&csuir=1&aep=26&q=glyph+emblem+crosshair+huds",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6939
+    },
+    {
+      "ordinal": 1078,
+      "title": "Wolfenstein: Youngblood",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/1078-wolfenstein-youngblood.html",
+      "markdown": "conversations/1078-wolfenstein-youngblood.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwiI48-PwtWXAxUAAAAAHQAAAAAQtAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfCbiw_CvaJUtVSQqVA4R7Ia4dTGmtmyNn4LxG80-vgOV8zWTQmx2l6rYcYb71eyo4EHEZVQckwNYJses6goUXXje8GfQKVEkNFFGjz5ozYWabWhzbOxLtIm6aWh1oCYLGAWGo_CEvY0lcK2wRb4T2MeiGJSTE7ISzv_gKJk_VtA8IusrlVm0ZpuHI07UvycpAR0Lw-8GLsQgigS-SDKEo-KB-pRtlrO72_plkG5JQ41I0yJmifqpiiAL-0_dqfcqbnqZ5gZ3U93oKwq46w7f56SDEQHTTOIeUUbUGlpLtOqCymtxkjhlblevBoq27sU6iIong3RpVt5Pw&mtid=H97das3kJ52P9u8PuanF2AQ&csuir=1&aep=26&q=wolfenstein+old+blood+but+the+other+one",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6962
+    },
+    {
+      "ordinal": 1079,
+      "title": "Gothic Cathedral PCG Binary Tree",
+      "prompts": 23,
+      "responses": 23,
+      "html": "conversations/1079-gothic-cathedral-pcg-binary-tree.html",
+      "markdown": "conversations/1079-gothic-cathedral-pcg-binary-tree.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CDcQ2_wOahgKEwiI48-PwtWXAxUAAAAAHQAAAAAQjAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfDoubJbaTxASBLEG_6ndcN1jOEVUDWKbTs6uS5KOe-0tAM4OB-ZKup_otTaNOqcUCJjXhdFUBZeBU6rxmff7-746osxAISVC0Mzcwk03p_qDaWmpUziUjoHknvtCTB8-V6bDZm8erqnRNrg5L8Yv4DD-fgQh7lQU6IUFpISEmPAZWDzdUriHMBr-_RIdZvs12oCGPATl0jrudoXg5bqjgb9oT6MrlRMrX_vsGlIh9WYDe6l3StgttOznmyV1o_xjISd1u3T0s1Tew9WlOv8VDAn8PiPG_KjE7DWZ5GKkz5moR60OA9nutjFaeZABbI8uHwKNoMKYhoYpw&mtid=uN7dauDpJfuN9u8PmJWJiQs&csuir=1&aep=26&q=gothic+catherdral+CSG+building+toon+like+composition+PCG+binary+search+tree+l-system+log+encoded+polar+LUT+kinematic+calculus+filled+with+all+primitive+shapes+as+operators",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 6964
+    },
+    {
+      "ordinal": 1080,
+      "title": "Oil Painting Masterpiece",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/1080-oil-painting-masterpiece.html",
+      "markdown": "conversations/1080-oil-painting-masterpiece.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CDcQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQzAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfDZKgPB6DfK_x-OwELAMl4QXyvh8c4bXDO5-KATL532SM_kF-CudbALfp63OwTDNUGXAyOZcI-GzpnK4sQfxTDBJsaDcBZcOKmpU1eb0qDV4Glf-ByJ49KVvrDN0TV26MFlkvqBF-LyeyyBiym8Cp0o8RaWHXCkAtg&mtid=mO7davmrDe-C9u8P2obj8Qc&csuir=1&aep=26&q=%22An+oil+painting+in+the+style+of+Vincent+van+Gogh%2C+thick+impasto+brushstrokes%2C+vibrant+swirling+sky%2C+high+dynamic+range+%28HDR%29+lighting.+A+tattered+wartime+flag+featuring+a+bold+black+iron+cross+and+geometric+red-and-white+framing%2C+draped+over+a+ruined+stone+wall.+Chiaroscuro+lighting%2C+deep+blues+and+glowing+golds+in+the+background%2C+heavy+texture%2C+starry+night+aesthetic%2C+post-impressionist+masterpiece.%22",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7046
+    },
+    {
+      "ordinal": 1081,
+      "title": "Lipid and Carbohydrate Freezing",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/1081-lipid-and-carbohydrate-freezing.html",
+      "markdown": "conversations/1081-lipid-and-carbohydrate-freezing.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CDEQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQzAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfA_vE6MtE4LEUF0a_O7915N0gaoB0qEyHt65oHkFYeKirkmx3nCRf2RPtNBi452L_YvqPGxm26M6oksxUldw6mfrFbXQ061Ka-yGDDXR07RbXHF_Xj7Y-IniUycsPrnmYST7ppvNaKVn1Ow0vYdA0Zwlb18Hkl2-bqdl-Vw22YwMVdOqwODzDA0BDG45XXwLLIBXwHnxXzC5khSfzgRmyU0WwFKofpI4BNR1ZlChz6bUu3jmgYITpoVv0r5pYfj_wz95qGz5Y4Zn2S2D2c7yVvbFFsdJeBwFYuiHuGbnLuq5bj14UE-0bfAIoHKk2Zi7px4ILKu3C3tlg&mtid=p-_dapy1NrX_7_UPhojymAg&csuir=1&aep=26&q=coagulation+is+inverse+logarithmically+flash+freezing+2+stage+preparaat+1+lipids+prepraraat+2+carbohydrates+biomechanically+biochemically",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7048
+    },
+    {
+      "ordinal": 1082,
+      "title": "Tugboat Function and Technology",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/1082-tugboat-function-and-technology.html",
+      "markdown": "conversations/1082-tugboat-function-and-technology.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CCsQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQzAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfDtx6Ls6JoRLJeLeb-sgWk7KZeaxHU9QeocD3pKnKlS5o6mzAm-4ZFbOaGBsU3hv8TQxeTcDBFfS1XK7iA4GVY7CuALtWXu7NbGgmf6yi_AhCpYl5LHbaOcx2AtR3xGCPaeG0FVK98zUSz2CnYJSDjfC0ZFp_NzQxG2vrtAeYwD4orFCquXnt-wUobhIRAAvGf9q0NDAkRn6CmP25OxkaA24uu_P0ru4brUluZY_smIKS9igDd7xm7T_4mtXX_zTD-tsgPzuKSccbCWlaFwIzKkZtV2fbaed4a-Mywul90FiLsc8lNu7yQkamzf_4SuGAlIEdCZBCTn4g&mtid=dPDdarPZIbOQi-gPsqv2-QM&csuir=1&aep=26&q=tugboat",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7050
+    },
+    {
+      "ordinal": 1083,
+      "title": "Sex Sells Fashion Trends",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/1083-sex-sells-fashion-trends.html",
+      "markdown": "conversations/1083-sex-sells-fashion-trends.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CCUQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQzAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfBtfhihnjQZkO98AYU51d7GwJAo9GTLLnIuh8rxW3a8VRmeiarrUPJi7B5uhpeBF8KzGEG5xMVsuVXYUR0OqsTh5Xx4HSwLki4Be-1AHx4rVnjy_lq-Vy9DbYiHbJ-oFHEXjdDKtv5FMu5H3Sa0AfNtGbHfFVD3cpnmk9I_LobuiQWbw9fjEqGbiWK_0Lsum21WzULycCNcgjwFYBEKzwmBVU0d3tHQNXMIUYRRo877VyKPtAF-3IOVg6ToOtltQNWYUx_iW3dMp6Ds_aLKVdrYf4xXt3vx3Xa0Qj7wNMSJIIn1faziMCflXc0VxR2XHGC5n2lfTZYK6Q&mtid=2vDdaq6UKtLli-gPu6LDMA&csuir=1&aep=26&q=sex+sells+%28SS%29",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7054
+    },
+    {
+      "ordinal": 1084,
+      "title": "Goud Voor De Finish halen",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/1084-goud-voor-de-finish-halen.html",
+      "markdown": "conversations/1084-goud-voor-de-finish-halen.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CB8Q2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQzAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfDuvPpmC5JIcZXZwPP7AhEeZ5mhbMr8ofj4Hom7Oo194d2dxBtdBHfBMrDiaQspZUa-J63o0k8M0fO07I9yKXs-pzQ0Vzyla48a8aCawO6X2TVVW011NzkZ3ewndAxQEPY1C7UDbzw_SnmG9WjoY-bnm5iVUUlQMMPvMdc67REqRxvfPwIgat4E7-q2Sdy-jGsYrdl4B66nQDuZRsz_XOvXm3AULD4iZoqXzqpnxQhaVnUQbY8Vd6gcIwBAnV5Sfqex2f2ziJ-vM7u-ERayC4NnB2cyHhKOHM8dUzE4IC8yozublM9B6crrsMhC01KSIH-AQAWG-XrdnA&mtid=9PTdaurYMZeS9u8P3NLH2Qw&csuir=1&aep=26&q=hoe+kan+je+voor+de+finish+goud+halen",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7057
+    },
+    {
+      "ordinal": 1085,
+      "title": "Zero Sum Game Theory",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/1085-zero-sum-game-theory.html",
+      "markdown": "conversations/1085-zero-sum-game-theory.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQzAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfDPg9VanLy9L7IW8UQq6D-KodeBIvpP4_-SFVn5PHNYRFFIbZo1D8V1HLRrZEiWPDZXmKEYLKRyRQI-MzYSBJs_MlvEjXM5L70kGxs-79TJiTMrFt5H6f0zcGoRuurwh2oZXIdG9bLz9meadx92BKKybSvRpAO6fpQ&mtid=WgDeaqPWAY64i-gP6L7xiQo&csuir=1&aep=26&q=0+sum+game+game+theory+is+just+games+without+the+game",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7081
+    },
+    {
+      "ordinal": 1086,
+      "title": "Yondu Whistle Arrow Guardians",
+      "prompts": 6,
+      "responses": 6,
+      "html": "conversations/1086-yondu-whistle-arrow-guardians.html",
+      "markdown": "conversations/1086-yondu-whistle-arrow-guardians.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CBMQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQzAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfBJdAiCgjQNhO9A4yy1yiu0CUpzR0NkMSrkIImi8p5avLHgRHJw_FGR5vPjrLU7IQ6uQADRhyDq8kV5083pH4dC-00HgXveiBvCKOHU34om_Qxamn9_DY0haS0RLG8s7mk6SiP0Ifzvp6cQv156DN1v1oWN041lxLpGILNzX5a6SsNmZ0_CDNQmYO__o9Ms0uqkBpjiBcubJmbO_1ftU5NDoXJfxF_pqyUAZ-yzv80A6U1ekSd6jd8OeYIdPvYDk3omIeSVXfvm58q0nKivSB4tmqZ-D_MrYdpJtXstEWLGRAxAhgIksRGAHZoZ5Lx0rCsV4ZIuRQT4Og&mtid=3wzeauKzF8Ogi-gP_LzbkQI&csuir=1&aep=26&q=guardians+of+the+galaxy+yondu+whistle+arrow+forehead",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7082
+    },
+    {
+      "ordinal": 1087,
+      "title": "Pruning Data Ledger",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/1087-pruning-data-ledger.html",
+      "markdown": "conversations/1087-pruning-data-ledger.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQzAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfCH2WDVv1a8EU6llOySvHuQxA5huDVXjJOEoW0A3OXhi_-zS_Ko7c1LAwAGxAdwXJ4_8rlbufBQXaFbEvQM0TNWHxFGT3ue-oeX-IMTq4HYb7EIzq2kKhsshqG1yX4hcfe4vHuFSrtoZYDYjbzYp7pn3OiW8VFz081j9xY_MSQBNTZhw0FowB8n0Z4BHAAaOjozbUROCh_JGJrZcENdNVQDCtOitcZaVL7DXd1iVaHtLYgs4xlXjVzio0TtGjBTEFO19K9CLRRKhg6-xFG1mJOIRYQnGEu3TEfQw2OutDJg637ks2MF_lBEv4_qP4BvzTwZQwWn1rNASA&mtid=dxHeavnRHYuqi-gPyc-B4Q8&csuir=1&aep=26&q=so+hypothetically+if+I+was+working+for+an+intelligence+agency+and+I+was+holding+a+honeypot+red+teaming+exercise+to+bait+people+into+using+a+system+and+letting+it+get+out+of+hand+for+about+7+years+to+see+who+did+what+and+then+make+a+sort+of+spherical+system+and+all+the+people+that+crossed+the+boundary+would+be+pruned%2C+what+would+pruned+be+if+those+people+actually+embodied+all+the+most+grave+crimes+against+humanity+and+cost+the+entire+group+in+this+trolley+problem+years+of+their+lives+and+security+and+access+to+real+societal+progress%2C+lets+say+I+held+a+ledger+digitally+of+who+logged+in+to+do+what+and+when",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7091
+    },
+    {
+      "ordinal": 1088,
+      "title": "Chimpansees Met Psychisch Gedrag",
+      "prompts": 9,
+      "responses": 9,
+      "html": "conversations/1088-chimpansees-met-psychisch-gedrag.html",
+      "markdown": "conversations/1088-chimpansees-met-psychisch-gedrag.md",
+      "source": "https://www.google.com/search?q=chimpansees+die+afwijkende+psychiatrisch+schadelijk+gedrag+vertonen+in+de+groep&client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwj63NmxuNWXAxWh9bsIHRl4L8MQ2J8OegQIERAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfCcQDt6WxisNV6TVCv7e1uURvQv3I9VZxyOaO48KSAicDnW4EPFfC0H_Sw1-cTLsfOhWc43N9yUG5LH1YSodTNIhl4oSaY7p9-8SUWuHGd0o3qbXofx6NlCSCFKFp5Gld3GLfbpEnmHZMleZRn6f-YN2YteREkV0JzBFvrk2LoAcLLutNWHvwbzcm04QOvc3latt6ChqICIruBAizM_OP6l1b5Q6cS8JGbCMXioMn6jbZ0RJCCiT5k7Ju4ES2H7iecujlZ27O3UCyghkIiUhz29KDPgpGbSHHf129NPHq6CsNpznfsUVw1OKSyAE8HmKrFw9KF1GeEqRA&csuir=1&mtid=cRreavbnAu7hi-gPst-MqQ8&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7097
+    },
+    {
+      "ordinal": 1089,
+      "title": "ARCore Cloud Anchors Spatiotemporal Mapping",
+      "prompts": 8,
+      "responses": 8,
+      "html": "conversations/1089-arcore-cloud-anchors-spatiotemporal-mapping.html",
+      "markdown": "conversations/1089-arcore-cloud-anchors-spatiotemporal-mapping.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwiQ5ZauxNWXAxUAAAAAHQAAAAAQzAI&biw=375&bih=691&dpr=3.25&udm=50&atvm=1&mstk=AUtExfAs2PffoCBQPRSyA93r8w0ue7N5FJ6UR9gHklqZEy8gNRU7S31_EC16Ln2RV29ptsJLn9wknlIe7F1kIjtrY2wPjJt_zGRvU5jyvcyzzwQz7ocfUKCuJ_gmCBxP1qM3Yzx8lr726iHPnTwCNFB_f78QmUL955ef0gUGeINd702GOu-zxttnwaQkpMN3UvDyvlw8OYzbwfVofwIoE0bqUkyqR7Wre1rzZYsoNRaP7Dd6126wZwfIILmZJEeC4-gm1lpch5H210Zn9fk5dFsKuR8fwkmPyN6rFQ8Nn_TMSY6w7j21U8B0FN0k5WDGod-oI_dgCUAfLbKdkw&mtid=PSXeaq-iMf6zi-gPqNn6OA&csuir=1&aep=26&q=arcore+like+cloud+anchors+chrono+spatiotemporally",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7111
+    },
+    {
+      "ordinal": 1090,
+      "title": "Epithelial Cells and Epidermis",
+      "prompts": 7,
+      "responses": 7,
+      "html": "conversations/1090-epithelial-cells-and-epidermis.html",
+      "markdown": "conversations/1090-epithelial-cells-and-epidermis.md",
+      "source": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=zasq&sca_esv=928283b7168495de&sxsrf=APpeQnuh_4MJNRYDcPmvLpA-2hcCPPBAuA%3A1792940644407&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwjglqSGytWXAxUAAAAAHQAAAAAQMA&biw=375&bih=691&dpr=3.25&udm=50&atvm=2&mstk=AUtExfCw_KFOgGiPQbKiN-OxGeSB_igpKPYMK9LsGqBGd3fcmsa16nQgv_5Z5F2lzj1nSwvfkPxiLyH0KQ7TfmaBSNL9F9FcIwHSYZGF8xmoojPf64ZmoHTEHMSMKTf5Jq9nDjF-PHOkQLGWfsBRFq_x592uENe2HRQq4cipETl4NqpuhJEevjHCbrbdSw4_lqK2oPb9sLxUNZo9A_GPwKt-uDaYRFVmVHbNyeHcSszrTO5EldClyLS4J-Wvq3bBXxJ4lKwBzhAVNS6-q_fh6LGfghXpnmY8rSA5ECuu4STxAkVAb7PJUSImhD2E41TOH6s_ww61ncQRg7drDA&mtid=4ireaqPxHZ_l7_UPzpOxwQk&csuir=1&aep=26&q=epithelial+cells+%28csi+miami%29+and+epidermis+%28top+layer...%29",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7127
+    },
+    {
+      "ordinal": 1091,
+      "title": "Raycasting Physics and Waveguides",
+      "prompts": 6,
+      "responses": 6,
+      "html": "conversations/1091-raycasting-physics-and-waveguides.html",
+      "markdown": "conversations/1091-raycasting-physics-and-waveguides.md",
+      "source": "https://www.google.com/search?q=raycasting+in+something+like+unity+is+instant+tick+based+and+mu+second+based+physical+hardware+switching+Y+multiplexing+raytracing+raymarching+are+pupil+cone+magnitization+fluctuations+in+the+biochemical+and+biomechanical+waveguides+vantablack+dissipation+diffusion+inverse+logarithmically+scaled+%28possibly+log+encoded+polar%2C+since+the+normal+metric+because+of+crossing+prismatic+lensing+layers+pepers+ghosts+the+spectral+light+layers%29&sca_esv=b8c88878ed516ca7&sxsrf=APpeQnt1eCNsS5yKkcNXYHUDl-VaBOs4QQ%3A1792945538642&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLxIWx1Ji9M2lu9YjU4me3NnFVK2DqeOCBk-5tfFpgQtl2P_yi9lYG8LbC8lft4BZKuLU1m5dapbmsxq1tjYNREunBbfYnjj68fle9BicKQn1zuf88b12Z-3wtEgPrtzK5X619CJ&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwisorrPytWXAxVp3QIHHcd2KWcQ2J8OegQIFBAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfAQbU30ZQJPpkpZWqcSyASdc_Mq1zRjgG7w0TxkYM_LbZnnvfv3BW4B3-G7rgE5wu5ZMCBSywjokicmoyKrM6WkelpoER1C5umnAIptJ9lT5g5m6YMrTqV8v9-dtK7ZHOPctO173-gpBDVey1393QFJqkvuQcDOd9XJwnhtDlp5NPwISa-RjuSvN-wCj4CL_Or8Qpkyb9QilvSWGx-30Xk8I0OvLZE-OG_t9pGfYNE1VDX3OPbDH7LYRp1Llx3ZtlPEPDrMC_89gBJHPcT4iIzZCkTWSnpftxXQLEU0ouHm_whimhlxxovliVCe0Zub4kUtoEGiZgcXaQ&csuir=1&mtid=hC3eavjCFsz2i-gPgPnwyQ0&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 7142
     }
   ],
   "missing": [],
@@ -11791,7 +12022,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "Compared 141 initially open AI Mode tabs and 142 final tabs, plus the ten newest history entries before and after refresh. Added seven conversations (1064-1070), with 32 prompts and 32 responses. All seven complete transcripts were read back. The prior conversation (1063), Lang weekend snowboarden - Sander en Jitske, remains unchanged. Preserved thirteen source photographs, one original SVG diagram and its HTML, downloaded generated PDF attachments, and linked the existing XD-TAU v1.5 attachment at the matching uploaded filename. Source wording, prior source gaps, attachments and Captain of industry GTM remain preserved. Unsent drafts are excluded.",
+    "note": "Compared 101 initially open AI Mode tabs and 104 final tabs, plus the latest history entries through the prior archive boundary. Added twenty-one conversations (1071-1091), with 118 prompts and 118 responses. All twenty-one complete transcripts were read back, including the later seven-pair Epithelial conversation, eight-pair ARCore continuation and expanded Python code, plus the six-pair Raycasting conversation and its original phase-space chart. Preserved seven original widgets as HTML plus SVG or visible canvas captures, one generated image, and the original Markdown game design attachment. Conversation 1070 has no new dialogue; its web-results fallback reordered search results, which are recorded in the boundary audit while its prior archived version is retained. Source wording, previous titles, source gaps, attachments and Captain of industry GTM remain preserved. Unsent drafts are excluded.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -17943,28 +18174,371 @@
       "unmatchedRecentHistory": [],
       "preservedPriorMedia": true,
       "unsentDraftExcluded": true
+    },
+    "october25More2Media": {
+      "openTabsInitial": 101,
+      "openTabs": 104,
+      "historyEntriesChecked": 40,
+      "historyRefreshEntries": 10,
+      "newConversations": 21,
+      "newPrompts": 118,
+      "newResponses": 118,
+      "updatedConversations": [],
+      "readbacks": [
+        {
+          "threadId": "_bbdavexNOPqi-gP0JeByAk",
+          "title": "Dark Cloud 2 Game",
+          "items": 4,
+          "sameText": true,
+          "at": "2026-10-25T15:51:28.623Z"
+        },
+        {
+          "threadId": "mtbdasiYLODx7_UPrvOLsAk",
+          "title": "Splatoon Small Arena Maps",
+          "items": 10,
+          "sameText": true,
+          "at": "2026-10-25T15:51:57.569Z"
+        },
+        {
+          "threadId": "r9vdasC4LYWE9u8PsdX18AI",
+          "title": "Glyph Emblem Crosshairs HUDs",
+          "items": 22,
+          "sameText": true,
+          "at": "2026-10-25T15:52:17.246Z"
+        },
+        {
+          "threadId": "H97das3kJ52P9u8PuanF2AQ",
+          "title": "Wolfenstein: Youngblood",
+          "items": 2,
+          "sameText": true,
+          "at": "2026-10-25T15:52:52.918Z"
+        },
+        {
+          "threadId": "uN7dauDpJfuN9u8PmJWJiQs",
+          "title": "Gothic Cathedral PCG Binary Tree",
+          "items": 46,
+          "sameText": true,
+          "at": "2026-10-25T15:53:12.322Z"
+        },
+        {
+          "threadId": "cRreavbnAu7hi-gPst-MqQ8",
+          "title": "Chimpansees Met Psychisch Gedrag",
+          "items": 18,
+          "sameText": true,
+          "at": "2026-10-25T15:58:08.234Z"
+        },
+        {
+          "threadId": "mO7davmrDe-C9u8P2obj8Qc",
+          "title": "Oil Painting Masterpiece",
+          "items": 2,
+          "sameText": true,
+          "at": "2026-10-25T15:58:27.054Z"
+        },
+        {
+          "threadId": "p-_dapy1NrX_7_UPhojymAg",
+          "title": "Lipid and Carbohydrate Freezing",
+          "items": 2,
+          "sameText": true,
+          "at": "2026-10-25T15:58:38.005Z"
+        },
+        {
+          "threadId": "dPDdarPZIbOQi-gPsqv2-QM",
+          "title": "Tugboat Function and Technology",
+          "items": 10,
+          "sameText": true,
+          "at": "2026-10-25T15:58:42.220Z"
+        },
+        {
+          "threadId": "2vDdaq6UKtLli-gPu6LDMA",
+          "title": "Sex Sells Fashion Trends",
+          "items": 4,
+          "sameText": true,
+          "at": "2026-10-25T15:58:49.160Z"
+        },
+        {
+          "threadId": "9PTdaurYMZeS9u8P3NLH2Qw",
+          "title": "Goud Voor De Finish halen",
+          "items": 10,
+          "sameText": true,
+          "at": "2026-10-25T15:58:54.909Z"
+        },
+        {
+          "threadId": "WgDeaqPWAY64i-gP6L7xiQo",
+          "title": "Zero Sum Game Theory",
+          "items": 2,
+          "sameText": true,
+          "at": "2026-10-25T15:58:58.586Z"
+        },
+        {
+          "threadId": "3wzeauKzF8Ogi-gP_LzbkQI",
+          "title": "Yondu Whistle Arrow Guardians",
+          "items": 12,
+          "sameText": true,
+          "at": "2026-10-25T15:59:02.483Z"
+        },
+        {
+          "threadId": "dxHeavnRHYuqi-gPyc-B4Q8",
+          "title": "Pruning Data Ledger",
+          "items": 6,
+          "sameText": true,
+          "at": "2026-10-25T15:59:05.807Z"
+        },
+        {
+          "threadId": "jbrdarvYFbHJi-gPjKL9qAs",
+          "title": "Контрастный Стилизованный Shader Art",
+          "items": 12,
+          "sameText": true,
+          "at": "2026-10-25T16:00:18.900Z"
+        },
+        {
+          "threadId": "j6jdapvoKJTgi-gPueuNiQk",
+          "title": "Historical German Reich Context",
+          "items": 12,
+          "sameText": true,
+          "at": "2026-10-25T16:01:51.617Z"
+        },
+        {
+          "threadId": "gKzdatfeIKawi-gP2fuhuAk",
+          "title": "Ragnarok Online Android Games",
+          "items": 12,
+          "sameText": true,
+          "at": "2026-10-25T16:02:04.061Z"
+        },
+        {
+          "threadId": "PbbdaorYGZK4i-gPrqrooQU",
+          "title": "wolfenstein old blood, but ragnarok online rose online and gothic architecture but the nazi's won, toon shaded HDR glow nazi themes albert speer",
+          "items": 8,
+          "sameText": true,
+          "at": "2026-10-25T16:03:59.491Z"
+        },
+        {
+          "threadId": "PSXeaq-iMf6zi-gPqNn6OA",
+          "sameText": true,
+          "items": 16,
+          "at": "2026-10-25T16:24:42.507Z",
+          "title": "ARCore Cloud Anchors Spatiotemporal Mapping"
+        },
+        {
+          "threadId": "4ireaqPxHZ_l7_UPzpOxwQk",
+          "sameText": true,
+          "items": 14,
+          "at": "2026-10-25T16:24:42.507Z",
+          "title": "Epithelial Cells and Epidermis"
+        },
+        {
+          "threadId": "hC3eavjCFsz2i-gPgPnwyQ0",
+          "counts": {
+            "prompts": 6,
+            "responses": 6
+          },
+          "sameText": true,
+          "capturedAt": "2026-10-25T16:37:23.285Z",
+          "title": "Raycasting Physics and Waveguides"
+        }
+      ],
+      "priorBoundary": {
+        "ordinal": 1070,
+        "items": 8,
+        "sameText": false,
+        "at": "2026-10-25T16:04:07.521Z",
+        "samePrompts": true,
+        "sameConversationTurns": true,
+        "changedItems": [
+          5
+        ],
+        "reason": "The pre-existing web-results fallback response refreshed its search-result ordering. No new prompts or conversation responses. Original archived version retained; latest visible text saved alongside this audit.",
+        "currentTexts": [
+          "You said: hunting game pokemon like with a knife the specialist roleplay mod half-life 1",
+          "The Specialists (TS) is a classic 2002 Matrix-style matrix/action total conversion mod for the original Half-Life 1. While it was originally famous for its bullet-time acrobatics, stunts, and kung-fu mechanics, it single-handedly gave birth to a massive, unique multi-server roleplay sub-community known as The Specialists Roleplay (TSRP). \nYouTube\n·BladeOpotato\n +3\nWhat you are remembering is one of the most famously bizarre and creative server-side mini-games hosted on custom TSRP maps: The Pokemon / Knife Hunting mod script.\n🛠️ How the Knife Hunting / Pokémon Script Worked\nIn standard TSRP servers, you couldn't just walk around shooting everyone without breaking the roleplay rules (getting arrested by the player cops or banned). To give players something fun, competitive, and completely out-of-the-box to do, server admins ran custom AMX Mod / AMXX server scripts: \nFandom\nThe \"Pokémon\" Spawns: Server scripts would randomly spawn tiny NPC entities across the map. Because of GoldSrc engine limitations, these were usually either tiny player models reskinned as Pokémon, or custom flat sprite images floating in mid-air. \nHalf-Life Wiki\nThe Hunt: Players had to hunt down these wild spawns across complex maps like tsrp_westminster or tsrp_vancouver. \nFandom\nThe Weapon of Choice: To keep the game quiet and fair, you were strictly required to hunt them with a knife or a combat blade. Knives in The Specialists gave you maximum player speed and allowed you to perform faster matrix stunts to catch fast-moving targets. \nHalf-Life Wiki\nThe Economy: Successfully finding and \"killing\" (slashing) a wild Pokémon rewarded your character with in-game TSRP server cash, item drops, or rare points that you could use to buy cars, player housing, or premium illegal weapons on the black market later.\n🌐 Where to Find it Today\nWhile the golden age of early-2000s GoldSrc modding has passed, the community still breathes:\nThe Archive: You can find the base game on ModDB's The Specialists page or download full game packs through the fan-run TSMod Website.\nActive RP Servers: Diehard nostalgic players still host dedicated roleplay sessions. Check out the community setups and active servers via the fan network on The Specialists Roleplay Reddit Community which links directly to their active Discord server. \nModDB\n +2\nAre you looking to download and install the mod to play it on Steam today, or were you trying to remember a specific custom TSRP map where you used to hunt them?\nAI responses may include mistakes. Learn more",
+          "You said: max payne bullettime spatiotemporal formalize my (Tom Klootwijk NL200678942 10-07-1990) game design",
+          "Here is your file:\nBulletTime Spatiotemporal Formalization\nPDF\n📐 Spatiotemporal Formalization Design Overview\nTo formalize your Max Payne-style Bullet-Time design mechanics, we treat time as an asymmetric global variable rather than a uniform simulation tick rate. This mathematical approach guarantees optimal game feel, high responsiveness, and clear tactical limits:\nThe Asymmetric Time Dilatation Loop (γ, β):\nGlobal Clock (γ ≤ 0.20): When Bullet-Time is triggered, the physics update cycle for environmental elements, enemy positions, and bullet projectiles slows down by roughly 80%.\nPlayer Window (β ≈ 1.0): To ensure maximum input response, your aiming matrix and camera look-rotation remain unscaled or minimally scaled. This asymmetry decouples human processing speed from system simulation, providing a supreme cognitive advantage.\nThe Spatiotemporal Dive Vector:\nInitiating a Shootdodge injects a hardwired linear momentum vector across the horizontal plane (X, Y), overriding normal character friction states.\nVertical positioning (Z) follows a strict ballistic animation arc curve. Firing cycles are isolated on their own high-frequency weapon-tick thread to ensure the weapon feels snappy despite the surrounding slow-motion space.\nResource Exhaustion Variable (R):\nTime slow-down triggers a linear decay loop over time (Δ t). To prevent exploit loops and maximize tactical engagement, regeneration is directly linked to an active kill-reward counter rather than passive waiting mechanics.\nThe accompanying document archives these exact architectural systems under your credentials for your game design blueprints.\nWould you like me to translate this framework into a fully working C# script for Unity or a C++ class for Unreal Engine 5 to help build a functional prototype?\nAI responses may include mistakes. Learn more",
+          "You said: unity yes and formalize my entire context and prompts",
+          "10 sites\nHere are top web results for exploring this topic:\nUnity Discussions\n·\nhttps://discussions.unity.com\nHow to create your own C# Script Template? - Unity Discussions\nAttribute it with the 'MenuItemAttribute', naming it “Assets/Create My Custom C# Script”. In said code get the folder based on the active selection (Selection.activeObject), and create a new file base\nEpic Developer Community Forums\n·\nhttps://forums.unrealengine.com\nHow can I implement Max Payne dodge style to my game?\nI'm a huge fan of the Max Payne series of games and I really like how bullet time works in this game. I'm still new to Unreal Engine, but would love to add a similar bullet time system to my project a\n4Experience\n·\nhttps://4experience.co\nHow To Create Useful Unity Script Templates - 4Experience\nPriorityNumber – the lower the number, the higher template will appear in the context menu. MenuPath – path in the context menu in the Create option – you can create categories by: Custom Templates__C\nUnity\n·\nhttps://docs.unity3d.com\nExamples - Unity - Manual\nExamples. This page lists a collection of examples that you can build with UI Toolkit: Layout. Topics, Description ...\nYouTube\n·\nhttps://www.youtube.com\nUnity C# Basic :: Part 29 :: Prefab / Create Bullet or Projectile\nTurn on [CC] to translate to any Languages [JP/FR/GR/EN/VI/CN/KR/ES... all supported] ⭐ Early Access video : https://www.youtube.com/channel/UCxeH7yleTTTgPKFbeL9R3wQ/join ⭐ Unity Your First C# game :\nStack Overflow\n·\nhttps://stackoverflow.com\nHow to properly build a script architecture in unity C# - Stack Overflow\nI've been writing unity games for some time now using C#. After each game I became more and more experienced, my code changed, I started using best practices. However, today I have a question: how to\ndevforgeunity.com\n·\nhttps://devforgeunity.com/ai-write-unity-csharp-scripts-prompts/\nPrompting AI to Write Unity C# Scripts That Actually Compile\nWhen the new script has to work with existing code, paste the parts it touches. Not the whole project: just the public surface. For example: Here is my existing Health class. Write a HealthPickup that\nYouTube\n·\nhttps://www.youtube.com\nHow to Create an FPS using C# Script and Assets in Unity - Part 1 of 3\nHow to Create an FPS using Physics and Character Control with Asset in Unity. Physics is a crucial component of many video games. In this video tutorial, you will learn how to control the direction in\nScribd\n·\nhttps://www.scribd.com\nUnity Player Movement Script Guide | PDF - Scribd\nUnity Player Movement Script Guide. The document provides a Unity C# script for player movement, allowing control via WASD or arrow keys, and includes functionality for jumping. It outlines the necess\nKodeco\n·\nhttps://www.kodeco.com\nUnity Tutorial Part 3: Components - Kodeco\nAgain, when you create a public variable on a script, Unity exposes these variables in the editor. You will set the bulletPrefab to the bullet prefab you just created, and you will set the launchPosit",
+          "You said: formalize",
+          "Here is your file:\nBulletTimeController\nCS\n📐 Spatiotemporal C# Controller Implementation\nThis clean, thread-safe production C# module formalizes your exact technical specs for immediate use within Unity. It enforces the Asymmetric Time Dilatation Loop by updating global physics parameters (Time.timeScale and Time.fixedDeltaTime) dynamically while tracking horizontal and vertical velocity windows inside an unscaled update thread (Time.unscaledDeltaTime). This ensures that your aiming controls and target acquisition remain fluid, ultra-responsive, and unhindered by ambient time dilation.\n⚙️ Engine Integration Guidelines\nSetup Steps:\nAttach the generated BulletTimeController.cs script directly to your primary Player GameObject.\nEnsure that the GameObject has a standard Unity CharacterController component attached.\nInput Matrix Configurations:\nRight-Click / Trigger: Activates Bullet-Time dynamically via the default Fire2 mapping loop.\nSpace + Directional Keys: Triggers the horizontal trajectory matrix (Shootdodge) when slow-motion is active.\nDynamic Rewards Linking:\nTo link the system to your progression loop, simply call the public interface function RegisterNeutralizationReward() from your game's damage engine every time an enemy entity is eliminated. This instantly grants the resource compensation bonus (R).\nAI responses may include mistakes. Learn more"
+        ]
+      },
+      "attachments": [
+        {
+          "conversation": 1073,
+          "item": 5,
+          "title": "Game Design Document",
+          "filename": "game_design_document.md",
+          "url": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6ZGZhN2NiZDEzZDgxMzQ2NzowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlYTU5MDY3Yzg4ZhACGAEiDXRleHQvbWFya2Rvd24qF2dhbWVfZGVzaWduX2RvY3VtZW50Lm1k",
+          "sourceDownload": "C:\\Users\\ietsm\\Downloads\\game_design_document.md",
+          "path": "attachments/game_design_document.md",
+          "sha256": "dedf8094cb705e025ce150a333216f28a9ce7a08aa7ec39cf97190f70ae11a28",
+          "status": "downloaded-original"
+        }
+      ],
+      "sourceErrorResponses": [
+        {
+          "conversation": 1073,
+          "response": 1,
+          "status": "original-Google-image-refusal-preserved"
+        },
+        {
+          "conversation": 1073,
+          "response": 2,
+          "status": "original-Google-image-refusal-preserved"
+        },
+        {
+          "conversation": 1077,
+          "response": 9,
+          "status": "original-Google-image-refusal-preserved"
+        },
+        {
+          "conversation": 1077,
+          "response": 11,
+          "status": "original-Google-image-refusal-preserved"
+        }
+      ],
+      "sourceGaps": [],
+      "media": [
+        {
+          "conversation": 1075,
+          "response": 2,
+          "path": "assets/widgets/2026-10-25-more-2-1075-response-2.png",
+          "caption": "Original interactive shader demo - static capture of the displayed torus knot and controls.",
+          "displayedText": "pause\nSHADER PIPELINE\nGodot Screen-Space Native Emulation\nTOON STEPS\n3 levels\nFRESNEL EXP\n2.5\nDITHER FREQ\n4x4 px\nGeometry Mesh\nTorus Knot Primitive\nStandard Torus Ring\nHigh-Poly Sphere\nTorus Knot Primitive\nexpand_more\nBase Tint Palette\nVibrant Crimson Red\nAcid Green\nDeep Cyber Purple\nNeon Amber Yellow\nVibrant Crimson Red\nexpand_more\nToon Quantization Bands\n3\nFresnel Rim Falloff Power\n2.5\nHDR Bloom Glow Gain\n1.2\nBayer Dithering Noise Weight\n1.0",
+          "status": "original-rendered-canvas-screenshot"
+        },
+        {
+          "conversation": 1077,
+          "response": 5,
+          "path": "assets/widgets/2026-10-25-more-2-1077-response-5-standalone.svg",
+          "caption": "Original sci-fi HUD banner generator - static SVG capture.",
+          "displayedText": "pause\nSYSTEM OPERATIONAL\nSECURE TERMINAL ALGORITHM // MODE_09X\nLAT: 45.9221\nSYS_LN: OK\nHUD UI BUILDER\nDATA FLUX\n161.1 Gb/s\nCORE LOAD\n68.4 %\nSIGNAL LOCK\n94.0 %\nBanner Text\nColor Palette\nNeon Cyan\nPlasma Orange\nMatrix Green\nRed Alert\nNeon Cyan\nexpand_more\nLayout Framing\nTactical Grid\nCommand Matrix\nQuantum Void\nTactical Grid\nexpand_more",
+          "status": "original-svg"
+        },
+        {
+          "conversation": 1079,
+          "response": 1,
+          "path": "assets/widgets/2026-10-25-more-2-1079-response-1.png",
+          "caption": "Original procedural cathedral model - static capture of the displayed 3D scene and controls.",
+          "displayedText": "LOG-POLAR LUT TRANSFORMATION\nRadial Nave Frequency\nAngular Spire Gradient\npause\nTOTAL SHAPES\n18\nBST MAX DEPTH\n12\nLUT BASIS\n210° H\nColor Spectrum Hue\n210°\nLogarithmic Scale\n1.5x\nPCG Complexity\nLVL 3",
+          "status": "original-rendered-canvas-screenshot"
+        },
+        {
+          "conversation": 1079,
+          "response": 2,
+          "path": "assets/widgets/2026-10-25-more-2-1079-response-2-standalone.svg",
+          "caption": "Original procedural architectural blueprint - static SVG capture.",
+          "displayedText": "Living Lounge\nKitchen & Dining\nMaster Bedroom\nBathroom\nN\nEst. Total Area\n91 m²\nLayout Efficiency\n91%\nAesthetic Balance\n95/100\nProportional Aspect Ratio\n1.5 : 1\nWindow-to-Wall Ratio (WWR)\n30%\nFunctional Building Typology\nResidential Urban Apartment\nCommercial Office Headquarters\nCreative Workspace Studio Loft\nResidential Urban Apartment\nexpand_more\nRegenerate Layout Variation",
+          "status": "original-svg"
+        },
+        {
+          "conversation": 1079,
+          "response": 4,
+          "path": "assets/widgets/2026-10-25-more-2-1079-response-4-standalone.svg",
+          "caption": "Original cathedral multiplayer map blueprint - static SVG capture.",
+          "displayedText": "Main lanes\nSniper perches\nChoke points\nSpawn rooms\nWest wing\nEast nave\nCentral crossing\nMap area\n-1110 m²\nChoke points\n4 zones\nSniper spots\n2 perches\nMap preset layout\nStandard Layout\nexpand_more\nStandard Nave\nGrand Citadel\nCustom Configuration\nSymmetry axis\nDiagonal\nRotational\nNave & lane width\n30 m\nTactical pillar count\n6 columns",
+          "status": "original-svg"
+        },
+        {
+          "conversation": 1091,
+          "response": 3,
+          "path": "assets/widgets/2026-10-25-more-2-1091-response-3-standalone.svg",
+          "caption": "Original Two-Stage Aerosol Biochemical Core Phase Space Distribution chart - static SVG capture.",
+          "displayedText": "Two-Stage Aerosol Biochemical Core Phase Space Distribution\n0.0\n0.2\n0.4\n0.6\n0.8\n1.0\n1.2\n1.4\n1.6\n1.8\n2.0\nConcentration Ratio (Lipids / Carbohydrates)\n0\nπ\n2π\n3π\n4π\nOptical Phase Shift (Radians)\nOptimal Isomorphic Coupling Boundary (1.0, 2π)",
+          "status": "original-svg"
+        },
+        {
+          "conversation": 1089,
+          "response": 4,
+          "path": "assets/widgets/2026-10-25-more-2-1089-response-4-standalone.svg",
+          "caption": "Original System Telemetry & Neural Convergence Latency chart - static SVG capture.",
+          "displayedText": "System Telemetry & Neural Convergence Latency\n0\n5\n10\n15\n20\n25\n30\n35\n40\n45\n50\n55\n60\nTime in Seconds\n20\n30\n40\n50\n60\n70\n80\n90\n100\nSignal Strength / Latency (ms)\nNeural Accuracy\nRF Latency",
+          "status": "original-svg"
+        },
+        {
+          "url": "https://lens.usercontent.google.com/banana?agsi=CmdnbG9iYWw6OjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAwZWI6MTo2ODU0NzlkZDcxYTc4ZTQyOjAwMDA1NWNmZWM3MDAyNmQ6MDAwMDAzMjFkZTMwMzM2ODowMDA2NWVhOGVhNGQzMjVmEAIYASIKaW1hZ2UvanBlZw==",
+          "path": "assets/14ab110ea971e6d101bf0.jpg",
+          "sha256": "14ab110ea971e6d101bf03442a28f0a69a5ad4069e436e0fa30654dec2059b87",
+          "kind": "generated-image"
+        },
+        {
+          "url": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://kaikki.org&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "path": "assets/59bfe9bc385ad69f50793.png",
+          "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+          "kind": "source-icon"
+        },
+        {
+          "url": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://shipsmonthly.com&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "path": "assets/59bfe9bc385ad69f50793.png",
+          "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+          "kind": "source-icon"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://tug.org&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "path": "assets/59bfe9bc385ad69f50793.png",
+          "sha256": "59bfe9bc385ad69f50793ce4a53397316d7a875a7148a63c16df9b674c6cda64",
+          "kind": "source-icon"
+        }
+      ],
+      "embeddedIllustrationOccurrences": 160,
+      "unmatchedOpen": [],
+      "unmatchedRecentHistory": [],
+      "preservedPriorMedia": true,
+      "unsentDraftExcluded": true
     }
   },
   "latestUpdate": {
-    "at": "2026-10-25T06:41:14.402260+00:00",
+    "at": "2026-10-25T16:39:00.312306+00:00",
     "date": "2026-10-25",
-    "batchId": "2026-10-25-more",
-    "openAiModeTabs": 142,
+    "batchId": "2026-10-25-more-2",
+    "openAiModeTabs": 104,
     "historyConversationsChecked": 10,
-    "method": "Compared 141 initially open AI Mode tabs and 142 final tabs, plus the ten newest history entries before and after refresh. Added seven conversations (1064-1070), with 32 prompts and 32 responses. All seven complete transcripts were read back. The prior conversation (1063), Lang weekend snowboarden - Sander en Jitske, remains unchanged. Preserved thirteen source photographs, one original SVG diagram and its HTML, downloaded generated PDF attachments, and linked the existing XD-TAU v1.5 attachment at the matching uploaded filename. Source wording, prior source gaps, attachments and Captain of industry GTM remain preserved. Unsent drafts are excluded.",
+    "method": "Compared 101 initially open AI Mode tabs and 104 final tabs, plus the latest history entries through the prior archive boundary. Added twenty-one conversations (1071-1091), with 118 prompts and 118 responses. All twenty-one complete transcripts were read back, including the later seven-pair Epithelial conversation, eight-pair ARCore continuation and expanded Python code, plus the six-pair Raycasting conversation and its original phase-space chart. Preserved seven original widgets as HTML plus SVG or visible canvas captures, one generated image, and the original Markdown game design attachment. Conversation 1070 has no new dialogue; its web-results fallback reordered search results, which are recorded in the boundary audit while its prior archived version is retained. Source wording, previous titles, source gaps, attachments and Captain of industry GTM remain preserved. Unsent drafts are excluded.",
     "records": [
       {
-        "ordinal": 1064,
-        "title": "Wow Classic Threat Meter",
+        "ordinal": 1071,
+        "title": "Historical German Reich Context",
         "status": "added",
         "counts": {
-          "prompts": 8,
-          "responses": 8
+          "prompts": 6,
+          "responses": 6
         }
       },
       {
-        "ordinal": 1065,
-        "title": "Nazguls and Hobbits",
+        "ordinal": 1072,
+        "title": "Ragnarok Online Android Games",
+        "status": "added",
+        "counts": {
+          "prompts": 6,
+          "responses": 6
+        }
+      },
+      {
+        "ordinal": 1073,
+        "title": "wolfenstein old blood, but ragnarok online rose online and gothic architecture but the nazi's won, toon shaded HDR glow nazi themes albert speer",
+        "status": "added",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        }
+      },
+      {
+        "ordinal": 1074,
+        "title": "Dark Cloud 2 Game",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 1075,
+        "title": "Контрастный Стилизованный Shader Art",
+        "status": "added",
+        "counts": {
+          "prompts": 6,
+          "responses": 6
+        }
+      },
+      {
+        "ordinal": 1076,
+        "title": "Splatoon Small Arena Maps",
         "status": "added",
         "counts": {
           "prompts": 5,
@@ -17972,8 +18546,125 @@
         }
       },
       {
-        "ordinal": 1066,
-        "title": "Arg Automated Google Maps Ticket",
+        "ordinal": 1077,
+        "title": "Glyph Emblem Crosshairs HUDs",
+        "status": "added",
+        "counts": {
+          "prompts": 11,
+          "responses": 11
+        }
+      },
+      {
+        "ordinal": 1078,
+        "title": "Wolfenstein: Youngblood",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 1079,
+        "title": "Gothic Cathedral PCG Binary Tree",
+        "status": "added",
+        "counts": {
+          "prompts": 23,
+          "responses": 23
+        }
+      },
+      {
+        "ordinal": 1080,
+        "title": "Oil Painting Masterpiece",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 1081,
+        "title": "Lipid and Carbohydrate Freezing",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 1082,
+        "title": "Tugboat Function and Technology",
+        "status": "added",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      },
+      {
+        "ordinal": 1083,
+        "title": "Sex Sells Fashion Trends",
+        "status": "added",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 1084,
+        "title": "Goud Voor De Finish halen",
+        "status": "added",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      },
+      {
+        "ordinal": 1085,
+        "title": "Zero Sum Game Theory",
+        "status": "added",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 1086,
+        "title": "Yondu Whistle Arrow Guardians",
+        "status": "added",
+        "counts": {
+          "prompts": 6,
+          "responses": 6
+        }
+      },
+      {
+        "ordinal": 1087,
+        "title": "Pruning Data Ledger",
+        "status": "added",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 1088,
+        "title": "Chimpansees Met Psychisch Gedrag",
+        "status": "added",
+        "counts": {
+          "prompts": 9,
+          "responses": 9
+        }
+      },
+      {
+        "ordinal": 1089,
+        "title": "ARCore Cloud Anchors Spatiotemporal Mapping",
+        "status": "added",
+        "counts": {
+          "prompts": 8,
+          "responses": 8
+        }
+      },
+      {
+        "ordinal": 1090,
+        "title": "Epithelial Cells and Epidermis",
         "status": "added",
         "counts": {
           "prompts": 7,
@@ -17981,173 +18672,160 @@
         }
       },
       {
-        "ordinal": 1067,
-        "title": "1561 XN Krommenie",
+        "ordinal": 1091,
+        "title": "Raycasting Physics and Waveguides",
         "status": "added",
         "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 1068,
-        "title": "Telnet Star Wars GameVR",
-        "status": "added",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        }
-      },
-      {
-        "ordinal": 1069,
-        "title": "SOS Formalized Notation",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        }
-      },
-      {
-        "ordinal": 1070,
-        "title": "Hunting Game Pokemon Mod",
-        "status": "added",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
+          "prompts": 6,
+          "responses": 6
         }
       }
     ],
     "newOrdinals": [
-      1064,
-      1065,
-      1066,
-      1067,
-      1068,
-      1069,
-      1070
+      1071,
+      1072,
+      1073,
+      1074,
+      1075,
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1087,
+      1088,
+      1089,
+      1090,
+      1091
     ]
   },
   "pdf": {
-    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more.pdf",
-    "pages": 6886,
-    "bytes": 300552506,
-    "sha256": "d37373f883b8e57f219a0a7a6b6f513ce04a8c1adbbe23bcccd6d66ed35fbbd1",
-    "promptMarkersVerified": 5567,
-    "responseMarkersVerified": 5570,
+    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2.pdf",
+    "pages": 7153,
+    "bytes": 313263857,
+    "sha256": "e31f3bb26d1363d08516bec8edc26801027e270fc0b327586f973b69967396d8",
+    "promptMarkersVerified": 5685,
+    "responseMarkersVerified": 5688,
     "validationMethod": "Native PDF assembly preserves all prior body content streams byte-for-byte. New chapter markers and rendered pages are checked. Footer overlays update the capture date and continuous page numbers.",
-    "volumeIndexRemoteLinks": 1128,
+    "volumeIndexRemoteLinks": 1150,
     "volumes": [
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-01.pdf",
-        "bytes": 22001243,
-        "sha256": "b78c2e661d7051f49a9f607e8c7b91cd2833d0facada38b9df515fa96bdf9c48",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-01.pdf",
+        "bytes": 22101385,
+        "sha256": "bdc9b9316d1aa67c1e9833f4a90a1e0a0a8191440f2d1f147367b2f036c31f64",
         "firstPage": 1,
         "lastPage": 450
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-02.pdf",
-        "bytes": 22161544,
-        "sha256": "df982983b5443dac1520a175d4f3adb25d9181010435b27d7d2f20040ef9de06",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-02.pdf",
+        "bytes": 22263379,
+        "sha256": "9bb33c58ae047064a02c04b99930917611984f5c43c101a2c039252159bdb362",
         "firstPage": 451,
         "lastPage": 900
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-03.pdf",
-        "bytes": 26436289,
-        "sha256": "e2278a7408f320ee51fecaf6c8ce492d47486ee40544e531793e441f180a913c",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-03.pdf",
+        "bytes": 26542310,
+        "sha256": "85186b9e6cade65c4caf52d7c6a84beceba9578a79e9ad57071120a5dc8bce33",
         "firstPage": 901,
         "lastPage": 1367
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-04.pdf",
-        "bytes": 27683260,
-        "sha256": "71918d417d47ebcf7dac9257d1ea4c52af2e329935fd0e5ab4b71df1fa694a76",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-04.pdf",
+        "bytes": 27785127,
+        "sha256": "6a591c76bfeee3557ce648d2815c06cd895d7e3a87af7cd791866e6cf5560724",
         "firstPage": 1368,
         "lastPage": 1817
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-05.pdf",
-        "bytes": 35392745,
-        "sha256": "ed225b1ebf59c3dacb6e24c37f08a1f0e22a44a2936fe4a17daf93820c88b418",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-05.pdf",
+        "bytes": 35495301,
+        "sha256": "49aba636071938b32c51cf8c553690a67a33e0a3cc2834b9c5c3d8e308e31e4e",
         "firstPage": 1818,
         "lastPage": 2270
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-06.pdf",
-        "bytes": 33389841,
-        "sha256": "77cf9d99f3fae0c07a1bf2e76f10f2ea33d5069d8480df40beab1b412da1000b",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-06.pdf",
+        "bytes": 33495806,
+        "sha256": "ef57c531019e01c6e90320c832e70ff754edd7c697ae11f78cac12d53e30b959",
         "firstPage": 2271,
         "lastPage": 2738
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-07.pdf",
-        "bytes": 26894749,
-        "sha256": "72342e02b7c6d8ba1bb9c13c4cc207c8d56972ec4ef0ba397d59b0b127001a7d",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-07.pdf",
+        "bytes": 26996614,
+        "sha256": "805f0e0afbc787dac6865c80ce3c8a2fcef2fb3c5a8dd64174ccdee87373dd7f",
         "firstPage": 2739,
         "lastPage": 3188
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-08.pdf",
-        "bytes": 17922207,
-        "sha256": "635d316105e0b95974db2b9e5ef479e1ba3e43ab82f7490514cbb7d55f4c40f3",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-08.pdf",
+        "bytes": 18025370,
+        "sha256": "2df4a7c0be506330ce59645fb3fcae41fc58a610920f9be253afc3aa99fac360",
         "firstPage": 3189,
         "lastPage": 3645
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-09.pdf",
-        "bytes": 19823886,
-        "sha256": "db2b849752b45362d776a01a4428bacba6ca234418503438962a31a3bccc6887",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-09.pdf",
+        "bytes": 19927951,
+        "sha256": "27939954366affb079c29a13cf67b41344d39681da285d5be3e1cd4a94744704",
         "firstPage": 3646,
         "lastPage": 4104
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-10.pdf",
-        "bytes": 18270582,
-        "sha256": "40dd71a3320b28f6fc23dd305f86d64db6851c8abcdc22399081cd4da5b8632b",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-10.pdf",
+        "bytes": 18373044,
+        "sha256": "b7bd3851b4e2201b956a6f8ab4cbdac3a5f18f1ebb6a4354a7a0511561db9e17",
         "firstPage": 4105,
         "lastPage": 4556
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-11.pdf",
-        "bytes": 25251427,
-        "sha256": "ca3fe3c418ad5579f39aaf2c3db4448d45991e6b430f2098617a865e55fdde6a",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-11.pdf",
+        "bytes": 25353806,
+        "sha256": "2df879f77b2b31fd519df8a4b21aa596a385f0e1f5816333ef513e96b0970cdc",
         "firstPage": 4557,
         "lastPage": 5008
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-12.pdf",
-        "bytes": 22392691,
-        "sha256": "662c6bcc92494f813b3e06f9a925819aca69df506cfad7c4612667ec19ad9956",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-12.pdf",
+        "bytes": 22497559,
+        "sha256": "af3a9e1b4eaeb6e13623ceb4ac909149ef9391b0c6b5ea884b246d02c4621389",
         "firstPage": 5009,
         "lastPage": 5472
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-13.pdf",
-        "bytes": 16263975,
-        "sha256": "c54a54109eac76c02f65fdb525f07a376616d6455a5e5013e3c49276b0e68bd5",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-13.pdf",
+        "bytes": 16367267,
+        "sha256": "4f39d888ccd986b241666a8eb328409971fd17ff31384e03551a639d96512297",
         "firstPage": 5473,
         "lastPage": 5928
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-14.pdf",
-        "bytes": 14757786,
-        "sha256": "ed6b378a33b4544b0c12a772a28f0e665d8f3a59adef37b812ea9f1a4dc94e79",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-14.pdf",
+        "bytes": 14860278,
+        "sha256": "9a13d89a9692f07fa989390045111ccd52d52786a99ae57f6522d5177f7d0eba",
         "firstPage": 5929,
         "lastPage": 6380
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-15.pdf",
-        "bytes": 18642206,
-        "sha256": "b654f859d01c3ad1f4570cdd8fe8132a1e93babdf6ffb1a23a3f6ebf0e17ac7e",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-15.pdf",
+        "bytes": 18746041,
+        "sha256": "801e8792e3a1abe4190b9b71994999b4750609b386247eac9b6c2f185a7bd544",
         "firstPage": 6381,
         "lastPage": 6837
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-volume-16.pdf",
-        "bytes": 1737225,
-        "sha256": "99eda31f638434f1716a5a1d0a7892622b66361e7fac6113115e1577d9948310",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-25-more-2-volume-16.pdf",
+        "bytes": 12880087,
+        "sha256": "f5f79e02910ccb39544137d3cd39e2749be4c5b7a7e36479677014546e85687b",
         "firstPage": 6838,
-        "lastPage": 6886
+        "lastPage": 7153
       }
     ]
   }

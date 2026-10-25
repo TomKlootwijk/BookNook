@@ -1,23 +1,59 @@
 {
-  "at": "2026-10-25T06:41:14.402260+00:00",
+  "at": "2026-10-25T16:39:00.312306+00:00",
   "date": "2026-10-25",
-  "batchId": "2026-10-25-more",
-  "openAiModeTabs": 142,
+  "batchId": "2026-10-25-more-2",
+  "openAiModeTabs": 104,
   "historyConversationsChecked": 10,
-  "method": "Compared 141 initially open AI Mode tabs and 142 final tabs, plus the ten newest history entries before and after refresh. Added seven conversations (1064-1070), with 32 prompts and 32 responses. All seven complete transcripts were read back. The prior conversation (1063), Lang weekend snowboarden - Sander en Jitske, remains unchanged. Preserved thirteen source photographs, one original SVG diagram and its HTML, downloaded generated PDF attachments, and linked the existing XD-TAU v1.5 attachment at the matching uploaded filename. Source wording, prior source gaps, attachments and Captain of industry GTM remain preserved. Unsent drafts are excluded.",
+  "method": "Compared 101 initially open AI Mode tabs and 104 final tabs, plus the latest history entries through the prior archive boundary. Added twenty-one conversations (1071-1091), with 118 prompts and 118 responses. All twenty-one complete transcripts were read back, including the later seven-pair Epithelial conversation, eight-pair ARCore continuation and expanded Python code, plus the six-pair Raycasting conversation and its original phase-space chart. Preserved seven original widgets as HTML plus SVG or visible canvas captures, one generated image, and the original Markdown game design attachment. Conversation 1070 has no new dialogue; its web-results fallback reordered search results, which are recorded in the boundary audit while its prior archived version is retained. Source wording, previous titles, source gaps, attachments and Captain of industry GTM remain preserved. Unsent drafts are excluded.",
   "records": [
     {
-      "ordinal": 1064,
-      "title": "Wow Classic Threat Meter",
+      "ordinal": 1071,
+      "title": "Historical German Reich Context",
       "status": "added",
       "counts": {
-        "prompts": 8,
-        "responses": 8
+        "prompts": 6,
+        "responses": 6
       }
     },
     {
-      "ordinal": 1065,
-      "title": "Nazguls and Hobbits",
+      "ordinal": 1072,
+      "title": "Ragnarok Online Android Games",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 1073,
+      "title": "wolfenstein old blood, but ragnarok online rose online and gothic architecture but the nazi's won, toon shaded HDR glow nazi themes albert speer",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 1074,
+      "title": "Dark Cloud 2 Game",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 1075,
+      "title": "Контрастный Стилизованный Shader Art",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 1076,
+      "title": "Splatoon Small Arena Maps",
       "status": "added",
       "counts": {
         "prompts": 5,
@@ -25,8 +61,125 @@
       }
     },
     {
-      "ordinal": 1066,
-      "title": "Arg Automated Google Maps Ticket",
+      "ordinal": 1077,
+      "title": "Glyph Emblem Crosshairs HUDs",
+      "status": "added",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      }
+    },
+    {
+      "ordinal": 1078,
+      "title": "Wolfenstein: Youngblood",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 1079,
+      "title": "Gothic Cathedral PCG Binary Tree",
+      "status": "added",
+      "counts": {
+        "prompts": 23,
+        "responses": 23
+      }
+    },
+    {
+      "ordinal": 1080,
+      "title": "Oil Painting Masterpiece",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 1081,
+      "title": "Lipid and Carbohydrate Freezing",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 1082,
+      "title": "Tugboat Function and Technology",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 1083,
+      "title": "Sex Sells Fashion Trends",
+      "status": "added",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 1084,
+      "title": "Goud Voor De Finish halen",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 1085,
+      "title": "Zero Sum Game Theory",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 1086,
+      "title": "Yondu Whistle Arrow Guardians",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 1087,
+      "title": "Pruning Data Ledger",
+      "status": "added",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 1088,
+      "title": "Chimpansees Met Psychisch Gedrag",
+      "status": "added",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 1089,
+      "title": "ARCore Cloud Anchors Spatiotemporal Mapping",
+      "status": "added",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 1090,
+      "title": "Epithelial Cells and Epidermis",
       "status": "added",
       "counts": {
         "prompts": 7,
@@ -34,49 +187,36 @@
       }
     },
     {
-      "ordinal": 1067,
-      "title": "1561 XN Krommenie",
+      "ordinal": 1091,
+      "title": "Raycasting Physics and Waveguides",
       "status": "added",
       "counts": {
-        "prompts": 2,
-        "responses": 2
-      }
-    },
-    {
-      "ordinal": 1068,
-      "title": "Telnet Star Wars GameVR",
-      "status": "added",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      }
-    },
-    {
-      "ordinal": 1069,
-      "title": "SOS Formalized Notation",
-      "status": "added",
-      "counts": {
-        "prompts": 4,
-        "responses": 4
-      }
-    },
-    {
-      "ordinal": 1070,
-      "title": "Hunting Game Pokemon Mod",
-      "status": "added",
-      "counts": {
-        "prompts": 4,
-        "responses": 4
+        "prompts": 6,
+        "responses": 6
       }
     }
   ],
   "newOrdinals": [
-    1064,
-    1065,
-    1066,
-    1067,
-    1068,
-    1069,
-    1070
+    1071,
+    1072,
+    1073,
+    1074,
+    1075,
+    1076,
+    1077,
+    1078,
+    1079,
+    1080,
+    1081,
+    1082,
+    1083,
+    1084,
+    1085,
+    1086,
+    1087,
+    1088,
+    1089,
+    1090,
+    1091
   ]
 }
