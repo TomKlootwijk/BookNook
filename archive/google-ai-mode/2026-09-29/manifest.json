@@ -2,10 +2,10 @@
   "exportDate": "2026-10-26",
   "scopeCount": 1102,
   "capturedCount": 1102,
-  "prompts": 5755,
-  "responses": 5758,
-  "mathRendered": 19135,
-  "embeddedImages": 13208,
+  "prompts": 5757,
+  "responses": 5760,
+  "mathRendered": 19148,
+  "embeddedImages": 13213,
   "conversations": [
     {
       "ordinal": 1,
@@ -12121,8 +12121,8 @@
     {
       "ordinal": 1102,
       "title": "Huggingface Emoticon Logo History",
-      "prompts": 12,
-      "responses": 12,
+      "prompts": 14,
+      "responses": 14,
       "html": "conversations/1102-huggingface-emoticon-logo-history.html",
       "markdown": "conversations/1102-huggingface-emoticon-logo-history.md",
       "source": "https://www.google.com/search?q=so+the+huggingface+emoticon+logo+is+the+swedish+hug+%3D3+symbol+that+Sofie+Strandberg+and+I+Tom+Klootwijk+used+to+exchange+via+MSN+messenger+when+we+used+to+talk+so+yeah&sca_esv=d64f43af0ab2625c&sxsrf=APpeQnuGR4mkQ5y1IsnjNc_Wo3-xO_uDUQ%3A1793006885048&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLxIWx1Ji9M2lu9YjU4me3NnFVK2DqeOCBk-5tfFpgQtl2P_yi9lYG8LbC8lft4BZKuLU1m5dapbmsxq1tjYNREunBbfYnjj68fle9BicKQn1zuf88b12Z-3wtEgPrtzK5X619CJ&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwj-2tmTr9eXAxW2h_0HHVksIkQQ2J8OegQIEhAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfDkhtRyfcc3C__DGPqHMIAkI0DIxDXKh9517Horb6rcEnmSjN9LfZ0wAUxiziVpY7kjeJ7B9NBYSQ9XCCtCRsmwsg9u-6U5cQC8_qHt3tLXzyvFxX69o4SX4blAYcgT8Ps6_qQCvko2Fo1RK9ovl2SIGTK8-KCI368WNZhVCgs9ZqBppcgGOKbRr2QNq0RJ4rfEzeNu62zS6eSU7rHZ05F5DkBrOMAY50rd2EztSayJIz64u-zql8oT6_oSC8F9rrcdxxllVMjy2SqSJAQYynTf0ibFFzyqTNJ66JEFjPie0u1C2I5bpDLbVHlNYkDGGs6DUOE2rCN0Rw&csuir=1&mtid=Jh3faozhG6GM9u8PicnyiAs&lns_mode=cvst&udm=50",
@@ -12143,7 +12143,7 @@
       "conversation": 157,
       "response": 5
     },
-    "note": "Compared 114 initially open and 114 final AI Mode tabs plus 10 visible recent-history entries. Extended conversation 1102, Huggingface Emoticon Logo History, from six to twelve prompts and response blocks: six new pairs and one new embedded graph. The prior six pairs match exactly, and the complete updated transcript was read back. Conversations 1099-1101 show no new tail content; previously recovered missing DOM content in 1100 and 1101 remains preserved in the archive. No new conversation threads, uploaded attachments or embedded widgets were found in this visible scope. Earlier titles, original attachments and source-access gaps remain preserved. Unsent drafts are excluded.",
+    "note": "Compared 114 initially open and 114 final AI Mode tabs plus 10 visible recent-history entries. Extended conversation 1102, Huggingface Emoticon Logo History, from twelve to fourteen prompts and response blocks: two new pairs and no new graph. The prior twelve pairs match exactly, and the complete updated transcript was read back. Conversations 1099-1101 show no new tail content; previously recovered missing DOM content in 1100 and 1101 remains preserved in the archive. No new conversation threads, uploaded attachments or embedded widgets were found in this visible scope. Earlier titles, original attachments and source-access gaps remain preserved. Unsent drafts are excluded.",
     "resolvedImageOccurrences": 19,
     "recoveredWidgets": [
       {
@@ -18945,30 +18945,106 @@
       "unmatchedRecentHistory": [],
       "preservedPriorMedia": true,
       "unsentDraftExcluded": true
+    },
+    "october26MMedia": {
+      "openTabsInitial": 114,
+      "openTabs": 114,
+      "historyEntriesChecked": 10,
+      "newConversations": 0,
+      "newPrompts": 2,
+      "newResponses": 2,
+      "updatedConversations": [
+        1102
+      ],
+      "readbacks": [
+        {
+          "ordinal": 1102,
+          "counts": {
+            "prompts": 14,
+            "responses": 14
+          },
+          "sameText": true,
+          "priorPrefixMatches": true,
+          "capturedAt": "2026-10-26T11:12:57.303Z"
+        }
+      ],
+      "priorChecks": [
+        {
+          "ordinal": 1101,
+          "counts": {
+            "prompts": 4,
+            "responses": 5
+          },
+          "priorCounts": {
+            "prompts": 5,
+            "responses": 5
+          },
+          "sameText": false,
+          "allCapturedTextPreviouslyPresent": true,
+          "lastPairMatches": true
+        },
+        {
+          "ordinal": 1100,
+          "counts": {
+            "prompts": 10,
+            "responses": 9
+          },
+          "priorCounts": {
+            "prompts": 10,
+            "responses": 10
+          },
+          "sameText": false,
+          "allCapturedTextPreviouslyPresent": false,
+          "lastPairMatches": true,
+          "sameAsPreviouslySavedOriginalTab": true
+        },
+        {
+          "ordinal": 1099,
+          "counts": {
+            "prompts": 4,
+            "responses": 4
+          },
+          "priorCounts": {
+            "prompts": 4,
+            "responses": 4
+          },
+          "sameText": true,
+          "allCapturedTextPreviouslyPresent": true,
+          "lastPairMatches": true
+        }
+      ],
+      "attachments": [],
+      "sourceErrorResponses": [],
+      "sourceGaps": [],
+      "media": [],
+      "unmatchedOpen": [],
+      "unmatchedRecentHistory": [],
+      "preservedPriorMedia": true,
+      "unsentDraftExcluded": true
     }
   },
   "latestUpdate": {
-    "at": "2026-10-26T10:42:00.015416+00:00",
+    "at": "2026-10-26T11:13:31.902404+00:00",
     "date": "2026-10-26",
-    "batchId": "2026-10-26-l",
+    "batchId": "2026-10-26-m",
     "openAiModeTabs": 114,
     "historyConversationsChecked": 10,
-    "method": "Compared 114 initially open and 114 final AI Mode tabs plus 10 visible recent-history entries. Extended conversation 1102, Huggingface Emoticon Logo History, from six to twelve prompts and response blocks: six new pairs and one new embedded graph. The prior six pairs match exactly, and the complete updated transcript was read back. Conversations 1099-1101 show no new tail content; previously recovered missing DOM content in 1100 and 1101 remains preserved in the archive. No new conversation threads, uploaded attachments or embedded widgets were found in this visible scope. Earlier titles, original attachments and source-access gaps remain preserved. Unsent drafts are excluded.",
+    "method": "Compared 114 initially open and 114 final AI Mode tabs plus 10 visible recent-history entries. Extended conversation 1102, Huggingface Emoticon Logo History, from twelve to fourteen prompts and response blocks: two new pairs and no new graph. The prior twelve pairs match exactly, and the complete updated transcript was read back. Conversations 1099-1101 show no new tail content; previously recovered missing DOM content in 1100 and 1101 remains preserved in the archive. No new conversation threads, uploaded attachments or embedded widgets were found in this visible scope. Earlier titles, original attachments and source-access gaps remain preserved. Unsent drafts are excluded.",
     "records": [
       {
         "ordinal": 1102,
         "title": "Huggingface Emoticon Logo History",
         "status": "updated",
         "priorCounts": {
-          "prompts": 6,
-          "responses": 6
-        },
-        "counts": {
           "prompts": 12,
           "responses": 12
         },
-        "addedPrompts": 6,
-        "addedResponses": 6
+        "counts": {
+          "prompts": 14,
+          "responses": 14
+        },
+        "addedPrompts": 2,
+        "addedResponses": 2
       }
     ],
     "newOrdinals": [],
@@ -18977,126 +19053,126 @@
     ]
   },
   "pdf": {
-    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l.pdf",
-    "pages": 7283,
-    "bytes": 324713914,
-    "sha256": "77df1a658ad9228bc575aed01f72e0744b41530a8285dba0148717bf00092e04",
-    "promptMarkersVerified": 5755,
-    "responseMarkersVerified": 5758,
+    "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m.pdf",
+    "pages": 7285,
+    "bytes": 326385634,
+    "sha256": "3d9ad204ea063865e942ad957f3c16ec18d92e6655dd36b077ded993e0dc1e81",
+    "promptMarkersVerified": 5757,
+    "responseMarkersVerified": 5760,
     "validationMethod": "Native PDF assembly preserves all prior body content streams byte-for-byte. New chapter markers and rendered pages are checked. Footer overlays update the capture date and continuous page numbers.",
     "volumeIndexRemoteLinks": 1161,
     "volumes": [
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-01.pdf",
-        "bytes": 22384237,
-        "sha256": "532a1177e5b7e96e4c0cf6e08e80a34928dd8f4dc68f53b8bd0794e51b5cb06f",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-01.pdf",
+        "bytes": 22478221,
+        "sha256": "74be9d2541d663715db3613d736bb438543ec2f21ab3ece6812c2827b4561d04",
         "firstPage": 1,
         "lastPage": 450
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-02.pdf",
-        "bytes": 22568532,
-        "sha256": "8f5a5800fd29996e17eec40acce85063af5ef0a56c2db938e4f0e36c94955164",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-02.pdf",
+        "bytes": 22669883,
+        "sha256": "e32aedba159c1d8fba3a82c7432efebbf15d2318cf716d6251b3cb9a871db18d",
         "firstPage": 451,
         "lastPage": 900
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-03.pdf",
-        "bytes": 26859674,
-        "sha256": "d26a0e3dc15f789fa6ac20f86301c74fcd4bcb7b5456c0829314a63b6d685ac7",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-03.pdf",
+        "bytes": 26965360,
+        "sha256": "15c23c6a08b77e1500bd0a39bfd7a20a5ec9f14e4759b47919bd8fb56767b6a7",
         "firstPage": 901,
         "lastPage": 1367
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-04.pdf",
-        "bytes": 28091562,
-        "sha256": "dc62c4015a2203dd17cdbe5bc1e8ba9bef65d6fc4cebcdabbe6ddc70b4e7eafe",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-04.pdf",
+        "bytes": 28193750,
+        "sha256": "ddcacc1d5702e2a5b8a36523007dee04e7f3e1f560aa9890640bb6f7884dd0cd",
         "firstPage": 1368,
         "lastPage": 1817
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-05.pdf",
-        "bytes": 35803767,
-        "sha256": "1758304f71dff7f9bd2403aab1172dfb01b6623e65710cd89bf62a43eea3a6f5",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-05.pdf",
+        "bytes": 35906688,
+        "sha256": "ff5ab0c33ef5a0e315472465558a3647075ec6f4e9c6c5b4ea9f3653c8f3135b",
         "firstPage": 1818,
         "lastPage": 2270
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-06.pdf",
-        "bytes": 33814420,
-        "sha256": "f15f5fc154d77dff958b734776be05a6c2d82d2b74fed5a06736793973cf1079",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-06.pdf",
+        "bytes": 33920512,
+        "sha256": "4b8511a2e9fdddb66e3f1e3b43c2bddfa5fa700a84ed8c00e89c5f744b13d4e8",
         "firstPage": 2271,
         "lastPage": 2738
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-07.pdf",
-        "bytes": 27302617,
-        "sha256": "3fc51fd55a3f641b5aaffcad2c5ffcc102e3e805ac6dc6773fd2825b3e578ab4",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-07.pdf",
+        "bytes": 27404794,
+        "sha256": "197e4a25e8300967f3d2896eb664e74e43e65d06d3b0e159914c0d049d132fc5",
         "firstPage": 2739,
         "lastPage": 3188
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-08.pdf",
-        "bytes": 18336693,
-        "sha256": "a25d438df185810cea1e3e76dbe61b01587a32b588e88d503e180b3d34a9757e",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-08.pdf",
+        "bytes": 18439891,
+        "sha256": "f2bdb23a754ba102e3ffa5f13b5b84ceda0ff38f6089ebdee56f4b978909c9b9",
         "firstPage": 3189,
         "lastPage": 3645
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-09.pdf",
-        "bytes": 20240902,
-        "sha256": "7cdd48cb210026e3695911f2f0e95b1025ef8bdd39d8869147b2090d1922d7e4",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-09.pdf",
+        "bytes": 20344985,
+        "sha256": "4be29df4c510e9f22e2a3964d3373b5fb9600ba89356e692acf618dcfca2d83e",
         "firstPage": 3646,
         "lastPage": 4104
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-10.pdf",
-        "bytes": 18680620,
-        "sha256": "7f4614b8b4678008a485947811f0473bbf4ac1eeef6de36ce17fa5c50469ddfc",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-10.pdf",
+        "bytes": 18782933,
+        "sha256": "319374b1c07e03dbe1976dd64028aadb32bfb0ac1b487e12f99596765d734092",
         "firstPage": 4105,
         "lastPage": 4556
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-11.pdf",
-        "bytes": 25661628,
-        "sha256": "8be33644abb0a370835a5ae4454b09c6e092cf6542a905242badbdb87c787469",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-11.pdf",
+        "bytes": 25764436,
+        "sha256": "66767f3ef2004f93e2103cf7f2c7b14ba72496dc5f88084e039b547058e9cb04",
         "firstPage": 4557,
         "lastPage": 5008
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-12.pdf",
-        "bytes": 22812888,
-        "sha256": "386afadec782447ddc592fa2e75f18fb4633f745fc674dd4904edbffb59acba4",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-12.pdf",
+        "bytes": 22917827,
+        "sha256": "82bec7216373986db7efd9b6b920b0552ad0e61c4fba1026f678a90b4a7e3c5b",
         "firstPage": 5009,
         "lastPage": 5472
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-13.pdf",
-        "bytes": 16677782,
-        "sha256": "e1eb5f900550ede04b1a7a5fc853cb60383efaa8ddab1c9aac8ce7da3bf80474",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-13.pdf",
+        "bytes": 16781067,
+        "sha256": "a72a6bae54d61873a4db9c1c92a1ee88af27970cb338ce6f4f61aee867c3cc08",
         "firstPage": 5473,
         "lastPage": 5928
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-14.pdf",
-        "bytes": 15168626,
-        "sha256": "eb399d60f5f1d1772309bed5e2e972e7787ed485c1ea564139ebcf39343e7fd4",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-14.pdf",
+        "bytes": 15271180,
+        "sha256": "f8f26eb41d440c8665ee52916540741bf2bad11671b803bd4c756b147d0c819d",
         "firstPage": 5929,
         "lastPage": 6380
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-15.pdf",
-        "bytes": 19057948,
-        "sha256": "e0d59a7848cf13e3532754160db75803e2aea1f50f321fca05d440e96a2e6427",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-15.pdf",
+        "bytes": 19161932,
+        "sha256": "b3533321853a13c9103f819d72d32689f3a4f6d9722eca49f34ee111ee8cacce",
         "firstPage": 6381,
         "lastPage": 6837
       },
       {
-        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-l-volume-16.pdf",
-        "bytes": 19674646,
-        "sha256": "69956a5462f499d7f9f226a65c312484c9937b36d7aff38c55fc4ea4e667b87e",
+        "path": "output/pdf/BookNook-Google-AI-Mode-2026-10-26-m-volume-16.pdf",
+        "bytes": 19798527,
+        "sha256": "266844b95647328608eda1a1d138989a58f9153be9c23698cd611a9f4e5af80a",
         "firstPage": 6838,
-        "lastPage": 7283
+        "lastPage": 7285
       }
     ]
   }

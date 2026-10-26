@@ -1,0 +1,7 @@
+{
+  "batch": "2026-10-26-m",
+  "result": "passed",
+  "pdfSha256": "3d9ad204ea063865e942ad957f3c16ec18d92e6655dd36b077ded993e0dc1e81",
+  "reviewedPages": [1, 34, 7268, 7284, 7285],
+  "checks": ["Updated cover counts and coverage", "Last index page includes fourteen exchanges for conversation 1102", "Chapter heading and capture counts", "New response text, formulas and source links", "Continuous final page numbers and readable footer"]
+}

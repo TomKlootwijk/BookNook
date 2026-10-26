@@ -1,0 +1,76 @@
+{
+  "openTabsInitial": 114,
+  "openTabs": 114,
+  "historyEntriesChecked": 10,
+  "newConversations": 0,
+  "newPrompts": 2,
+  "newResponses": 2,
+  "updatedConversations": [
+    1102
+  ],
+  "readbacks": [
+    {
+      "ordinal": 1102,
+      "counts": {
+        "prompts": 14,
+        "responses": 14
+      },
+      "sameText": true,
+      "priorPrefixMatches": true,
+      "capturedAt": "2026-10-26T11:12:57.303Z"
+    }
+  ],
+  "priorChecks": [
+    {
+      "ordinal": 1101,
+      "counts": {
+        "prompts": 4,
+        "responses": 5
+      },
+      "priorCounts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "sameText": false,
+      "allCapturedTextPreviouslyPresent": true,
+      "lastPairMatches": true
+    },
+    {
+      "ordinal": 1100,
+      "counts": {
+        "prompts": 10,
+        "responses": 9
+      },
+      "priorCounts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "sameText": false,
+      "allCapturedTextPreviouslyPresent": false,
+      "lastPairMatches": true,
+      "sameAsPreviouslySavedOriginalTab": true
+    },
+    {
+      "ordinal": 1099,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "priorCounts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "sameText": true,
+      "allCapturedTextPreviouslyPresent": true,
+      "lastPairMatches": true
+    }
+  ],
+  "attachments": [],
+  "sourceErrorResponses": [],
+  "sourceGaps": [],
+  "media": [],
+  "unmatchedOpen": [],
+  "unmatchedRecentHistory": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true
+}
