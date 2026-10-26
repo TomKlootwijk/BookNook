@@ -1,0 +1,155 @@
+{
+  "batchLabel": "For my future wife (J)",
+  "openTabsInitial": 104,
+  "openTabs": 111,
+  "historyEntriesChecked": 10,
+  "newConversations": 8,
+  "newPrompts": 43,
+  "newResponses": 43,
+  "updatedConversations": [],
+  "readbacks": [
+    {
+      "threadId": "lNbearOnD8fGi-gP6N-ywQM",
+      "title": "Moore's Law",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "sameText": true,
+      "capturedAt": "2026-10-26T05:20:22.790Z"
+    },
+    {
+      "threadId": "mGjeasOCC-n87_UPsuC4-QU",
+      "title": "Jacoba Manger Philips",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sameText": true,
+      "capturedAt": "2026-10-26T05:20:49.902Z"
+    },
+    {
+      "threadId": "I-TeasD1H46E9u8P1sSdiAY",
+      "sameText": true,
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "checkedAt": "2026-10-26T08:41:27.328Z"
+    },
+    {
+      "threadId": "UuveasDIDKaM9u8PtejCoQU",
+      "sameText": true,
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "checkedAt": "2026-10-26T08:41:27.345Z"
+    },
+    {
+      "threadId": "Pu7eapWcAZf67_UP9uC8kA0",
+      "sameText": true,
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "checkedAt": "2026-10-26T08:41:27.362Z"
+    },
+    {
+      "threadId": "KfveaqONIduei-gPsJuPmQE",
+      "sameText": true,
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "checkedAt": "2026-10-26T08:41:27.380Z"
+    },
+    {
+      "threadId": "NAPfavf_E_6qi-gP9cCPEQ",
+      "sameText": true,
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "checkedAt": "2026-10-26T08:41:27.399Z"
+    },
+    {
+      "threadId": "pwrfatfuCaGA9u8P6LfJwQc",
+      "sameText": true,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "checkedAt": "2026-10-26T08:41:27.416Z"
+    }
+  ],
+  "priorBoundary": {
+    "conversation": 1091,
+    "counts": {
+      "prompts": 6,
+      "responses": 6
+    },
+    "sameText": true,
+    "capturedAt": "2026-10-26T05:21:00.711Z"
+  },
+  "attachments": [
+    {
+      "title": "JTK_Tom_Klootwijk_Dedicated_to_Jitske_Koenders.pdf",
+      "path": "attachments/JTK_Tom_Klootwijk_Dedicated_to_Jitske_Koenders.pdf",
+      "bytes": 1634713,
+      "sha256": "deb45bfd9a3b3819da29e469c89ccdd9236b7819012941dd8da0a567198a5afe",
+      "pages": 18,
+      "source": "https://chatgpt.com/library?file_id=libfile_49012ea7ecec8191aaa318eb16bee7e7",
+      "provenance": "Downloaded through the original ChatGPT Library PDF viewer; filename and document title match the uploaded source in conversation 1094."
+    }
+  ],
+  "sourceErrorResponses": [],
+  "sourceGaps": [
+    {
+      "conversation": 1095,
+      "item": 3,
+      "filename": "JTK_Triple_Validated_Dossier.pdf",
+      "reason": "Uploaded PDF filename only; no accessible original file."
+    },
+    {
+      "conversation": 1096,
+      "item": 5,
+      "filename": "JTK_Physical_Realization_Atomic_Chemical_Clocks.pdf",
+      "reason": "Uploaded PDF filename only; no accessible original file."
+    },
+    {
+      "conversation": 1099,
+      "item": 3,
+      "filename": "JTK_Twin_Viper_Compact_Edition.pdf",
+      "reason": "Uploaded PDF filename only; no accessible original file."
+    },
+    {
+      "conversation": 1099,
+      "item": 7,
+      "filename": "JTK_Geometric_Energy_Postulate_Proofs.pdf",
+      "reason": "Uploaded PDF filename only; no accessible original file."
+    }
+  ],
+  "media": [
+    {
+      "conversation": 1095,
+      "item": 2,
+      "alt": "",
+      "width": 300,
+      "height": 168,
+      "embedded": true
+    },
+    {
+      "conversation": 1098,
+      "item": 3,
+      "alt": "Visually searched image",
+      "width": 449,
+      "height": 1000,
+      "embedded": true
+    }
+  ],
+  "unmatchedOpen": [],
+  "unmatchedRecentHistory": [],
+  "preservedPriorMedia": true,
+  "unsentDraftExcluded": true
+}

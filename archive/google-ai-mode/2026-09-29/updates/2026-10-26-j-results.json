@@ -1,0 +1,93 @@
+{
+  "at": "2026-10-26T08:50:57.365320+00:00",
+  "date": "2026-10-26",
+  "batchId": "2026-10-26-j",
+  "batchLabel": "For my future wife (J)",
+  "openAiModeTabs": 111,
+  "historyConversationsChecked": 10,
+  "method": "Batch label supplied by the user: For my future wife (J). Compared 104 initial and 111 final open AI Mode tabs and 10 recent history entries through the previous archive boundary. Added eight complete conversations (1092-1099), with 43 prompts and 43 responses. All eight transcripts were read back; conversation 1091 remains unchanged. The dedication in the Moore's Law conversation is preserved verbatim as source text. No new embedded widgets were present. Available images are embedded; One source PDF was recovered from ChatGPT Library; four uploaded PDF filenames are recorded with explicit source-file availability notes. Original wording, equations, source links, earlier titles, attachments and previous source-access gaps remain preserved. Unsent drafts are excluded.",
+  "records": [
+    {
+      "ordinal": 1092,
+      "title": "Jacoba Manger Philips",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 1093,
+      "title": "Moore's Law",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 1094,
+      "title": "Ontology Phd Thesis Study",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 1095,
+      "title": "I Got This",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 1096,
+      "title": "Hybrid Physical Proof Mismatch",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 1097,
+      "title": "Topological Kinematic Aerosol Compactio",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 1098,
+      "title": "Particle Physics Mirrors",
+      "status": "added",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 1099,
+      "title": "Tracking Your Stuff",
+      "status": "added",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    }
+  ],
+  "newOrdinals": [
+    1092,
+    1093,
+    1094,
+    1095,
+    1096,
+    1097,
+    1098,
+    1099
+  ]
+}

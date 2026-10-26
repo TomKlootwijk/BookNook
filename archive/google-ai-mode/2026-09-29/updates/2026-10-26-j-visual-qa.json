@@ -1,0 +1,94 @@
+{
+  "reviewedAt": "2026-10-26T08:54:53.165294+00:00",
+  "newPagesRendered": 56,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 3,
+  "headingMinimumPt": 20,
+  "highResolutionReview": [
+    7154,
+    7161,
+    7163,
+    7167,
+    7168,
+    7197,
+    7201
+  ],
+  "sourceGaps": [
+    {
+      "conversation": 1095,
+      "item": 3,
+      "filename": "JTK_Triple_Validated_Dossier.pdf",
+      "reason": "Uploaded PDF filename only; no accessible original file."
+    },
+    {
+      "conversation": 1096,
+      "item": 5,
+      "filename": "JTK_Physical_Realization_Atomic_Chemical_Clocks.pdf",
+      "reason": "Uploaded PDF filename only; no accessible original file."
+    },
+    {
+      "conversation": 1099,
+      "item": 3,
+      "filename": "JTK_Twin_Viper_Compact_Edition.pdf",
+      "reason": "Uploaded PDF filename only; no accessible original file."
+    },
+    {
+      "conversation": 1099,
+      "item": 7,
+      "filename": "JTK_Geometric_Energy_Postulate_Proofs.pdf",
+      "reason": "Uploaded PDF filename only; no accessible original file."
+    }
+  ],
+  "originalErrorResponsesPreserved": [],
+  "chapters": [
+    {
+      "conversation": 1092,
+      "pages": 2,
+      "sha256": "ea361a1e2b4b91893a75e3e489f1258d70dc1b4d818bce77bb701e227f951458",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1093,
+      "pages": 9,
+      "sha256": "02579cf894668c8849f0847b58e6f95d2f88dc069d7f9f91042680fe8d87e489",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1094,
+      "pages": 10,
+      "sha256": "a916c6b0940f348abfb1a53b5459750c69e32920232b49e956b0dd9a3ee74f55",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1095,
+      "pages": 6,
+      "sha256": "badea6968d757e57e06db6241501d242bbbaaeead76eb29a7f5d66b6b9b94d46",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1096,
+      "pages": 7,
+      "sha256": "fc18c04f03bd382ff65ab7b1c10ce88481887731b05225aa68d5fb79eee90005",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1097,
+      "pages": 7,
+      "sha256": "5d4f06acc5b785697b00da90e1feb89d156d8081091d25fb8a50944acd53b241",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1098,
+      "pages": 10,
+      "sha256": "aec472863185db89169d7eeeacb3830f18794b891d90ba7788bcb69944f36bf8",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1099,
+      "pages": 5,
+      "sha256": "a67e95e21dd52e676e620d9092bed7f7d0228d5fc7319d07ef5fb6411bd639f7",
+      "maxHeadingPt": 20.999999125
+    }
+  ],
+  "result": "passed"
+}

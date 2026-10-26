@@ -1,14 +1,24 @@
 {
-  "at": "2026-10-25T16:39:00.312306+00:00",
-  "date": "2026-10-25",
-  "batchId": "2026-10-25-more-2",
-  "openAiModeTabs": 104,
+  "at": "2026-10-26T08:50:57.365320+00:00",
+  "date": "2026-10-26",
+  "batchId": "2026-10-26-j",
+  "batchLabel": "For my future wife (J)",
+  "openAiModeTabs": 111,
   "historyConversationsChecked": 10,
-  "method": "Compared 101 initially open AI Mode tabs and 104 final tabs, plus the latest history entries through the prior archive boundary. Added twenty-one conversations (1071-1091), with 118 prompts and 118 responses. All twenty-one complete transcripts were read back, including the later seven-pair Epithelial conversation, eight-pair ARCore continuation and expanded Python code, plus the six-pair Raycasting conversation and its original phase-space chart. Preserved seven original widgets as HTML plus SVG or visible canvas captures, one generated image, and the original Markdown game design attachment. Conversation 1070 has no new dialogue; its web-results fallback reordered search results, which are recorded in the boundary audit while its prior archived version is retained. Source wording, previous titles, source gaps, attachments and Captain of industry GTM remain preserved. Unsent drafts are excluded.",
+  "method": "Batch label supplied by the user: For my future wife (J). Compared 104 initial and 111 final open AI Mode tabs and 10 recent history entries through the previous archive boundary. Added eight complete conversations (1092-1099), with 43 prompts and 43 responses. All eight transcripts were read back; conversation 1091 remains unchanged. The dedication in the Moore's Law conversation is preserved verbatim as source text. No new embedded widgets were present. Available images are embedded; One source PDF was recovered from ChatGPT Library; four uploaded PDF filenames are recorded with explicit source-file availability notes. Original wording, equations, source links, earlier titles, attachments and previous source-access gaps remain preserved. Unsent drafts are excluded.",
   "records": [
     {
-      "ordinal": 1071,
-      "title": "Historical German Reich Context",
+      "ordinal": 1092,
+      "title": "Jacoba Manger Philips",
+      "status": "added",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 1093,
+      "title": "Moore's Law",
       "status": "added",
       "counts": {
         "prompts": 6,
@@ -16,8 +26,8 @@
       }
     },
     {
-      "ordinal": 1072,
-      "title": "Ragnarok Online Android Games",
+      "ordinal": 1094,
+      "title": "Ontology Phd Thesis Study",
       "status": "added",
       "counts": {
         "prompts": 6,
@@ -25,198 +35,59 @@
       }
     },
     {
-      "ordinal": 1073,
-      "title": "wolfenstein old blood, but ragnarok online rose online and gothic architecture but the nazi's won, toon shaded HDR glow nazi themes albert speer",
+      "ordinal": 1095,
+      "title": "I Got This",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 1096,
+      "title": "Hybrid Physical Proof Mismatch",
+      "status": "added",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 1097,
+      "title": "Topological Kinematic Aerosol Compactio",
+      "status": "added",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 1098,
+      "title": "Particle Physics Mirrors",
+      "status": "added",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 1099,
+      "title": "Tracking Your Stuff",
       "status": "added",
       "counts": {
         "prompts": 4,
         "responses": 4
       }
-    },
-    {
-      "ordinal": 1074,
-      "title": "Dark Cloud 2 Game",
-      "status": "added",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      }
-    },
-    {
-      "ordinal": 1075,
-      "title": "Контрастный Стилизованный Shader Art",
-      "status": "added",
-      "counts": {
-        "prompts": 6,
-        "responses": 6
-      }
-    },
-    {
-      "ordinal": 1076,
-      "title": "Splatoon Small Arena Maps",
-      "status": "added",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      }
-    },
-    {
-      "ordinal": 1077,
-      "title": "Glyph Emblem Crosshairs HUDs",
-      "status": "added",
-      "counts": {
-        "prompts": 11,
-        "responses": 11
-      }
-    },
-    {
-      "ordinal": 1078,
-      "title": "Wolfenstein: Youngblood",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 1079,
-      "title": "Gothic Cathedral PCG Binary Tree",
-      "status": "added",
-      "counts": {
-        "prompts": 23,
-        "responses": 23
-      }
-    },
-    {
-      "ordinal": 1080,
-      "title": "Oil Painting Masterpiece",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 1081,
-      "title": "Lipid and Carbohydrate Freezing",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 1082,
-      "title": "Tugboat Function and Technology",
-      "status": "added",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      }
-    },
-    {
-      "ordinal": 1083,
-      "title": "Sex Sells Fashion Trends",
-      "status": "added",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      }
-    },
-    {
-      "ordinal": 1084,
-      "title": "Goud Voor De Finish halen",
-      "status": "added",
-      "counts": {
-        "prompts": 5,
-        "responses": 5
-      }
-    },
-    {
-      "ordinal": 1085,
-      "title": "Zero Sum Game Theory",
-      "status": "added",
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      }
-    },
-    {
-      "ordinal": 1086,
-      "title": "Yondu Whistle Arrow Guardians",
-      "status": "added",
-      "counts": {
-        "prompts": 6,
-        "responses": 6
-      }
-    },
-    {
-      "ordinal": 1087,
-      "title": "Pruning Data Ledger",
-      "status": "added",
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      }
-    },
-    {
-      "ordinal": 1088,
-      "title": "Chimpansees Met Psychisch Gedrag",
-      "status": "added",
-      "counts": {
-        "prompts": 9,
-        "responses": 9
-      }
-    },
-    {
-      "ordinal": 1089,
-      "title": "ARCore Cloud Anchors Spatiotemporal Mapping",
-      "status": "added",
-      "counts": {
-        "prompts": 8,
-        "responses": 8
-      }
-    },
-    {
-      "ordinal": 1090,
-      "title": "Epithelial Cells and Epidermis",
-      "status": "added",
-      "counts": {
-        "prompts": 7,
-        "responses": 7
-      }
-    },
-    {
-      "ordinal": 1091,
-      "title": "Raycasting Physics and Waveguides",
-      "status": "added",
-      "counts": {
-        "prompts": 6,
-        "responses": 6
-      }
     }
   ],
   "newOrdinals": [
-    1071,
-    1072,
-    1073,
-    1074,
-    1075,
-    1076,
-    1077,
-    1078,
-    1079,
-    1080,
-    1081,
-    1082,
-    1083,
-    1084,
-    1085,
-    1086,
-    1087,
-    1088,
-    1089,
-    1090,
-    1091
+    1092,
+    1093,
+    1094,
+    1095,
+    1096,
+    1097,
+    1098,
+    1099
   ]
 }

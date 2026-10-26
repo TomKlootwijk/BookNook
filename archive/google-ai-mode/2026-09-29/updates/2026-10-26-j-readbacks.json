@@ -1,0 +1,76 @@
+[
+  {
+    "threadId": "lNbearOnD8fGi-gP6N-ywQM",
+    "title": "Moore's Law",
+    "counts": {
+      "prompts": 6,
+      "responses": 6
+    },
+    "sameText": true,
+    "capturedAt": "2026-10-26T05:20:22.790Z"
+  },
+  {
+    "threadId": "mGjeasOCC-n87_UPsuC4-QU",
+    "title": "Jacoba Manger Philips",
+    "counts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "sameText": true,
+    "capturedAt": "2026-10-26T05:20:49.902Z"
+  },
+  {
+    "threadId": "I-TeasD1H46E9u8P1sSdiAY",
+    "sameText": true,
+    "counts": {
+      "prompts": 6,
+      "responses": 6
+    },
+    "checkedAt": "2026-10-26T08:41:27.328Z"
+  },
+  {
+    "threadId": "UuveasDIDKaM9u8PtejCoQU",
+    "sameText": true,
+    "counts": {
+      "prompts": 5,
+      "responses": 5
+    },
+    "checkedAt": "2026-10-26T08:41:27.345Z"
+  },
+  {
+    "threadId": "Pu7eapWcAZf67_UP9uC8kA0",
+    "sameText": true,
+    "counts": {
+      "prompts": 5,
+      "responses": 5
+    },
+    "checkedAt": "2026-10-26T08:41:27.362Z"
+  },
+  {
+    "threadId": "KfveaqONIduei-gPsJuPmQE",
+    "sameText": true,
+    "counts": {
+      "prompts": 6,
+      "responses": 6
+    },
+    "checkedAt": "2026-10-26T08:41:27.380Z"
+  },
+  {
+    "threadId": "NAPfavf_E_6qi-gP9cCPEQ",
+    "sameText": true,
+    "counts": {
+      "prompts": 10,
+      "responses": 10
+    },
+    "checkedAt": "2026-10-26T08:41:27.399Z"
+  },
+  {
+    "threadId": "pwrfatfuCaGA9u8P6LfJwQc",
+    "sameText": true,
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "checkedAt": "2026-10-26T08:41:27.416Z"
+  }
+]
