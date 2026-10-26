@@ -1,0 +1,14 @@
+{
+  "batchId": "2026-10-26-k",
+  "batchLabel": "Latest AI Mode conversations",
+  "result": "passed",
+  "pdfSha256": "ff1b946907455bbccbf6c25814e33f841a0716ec3fcbc3c4cb07b36626ab6380",
+  "reviewedPages": [1,34,7210,7213,7236,7257,7260,7262,7269,7274,7275,7276],
+  "checks": [
+    "Cover totals 1102 conversations, 5749 prompts and 5752 response blocks verified.",
+    "Index includes all three new conversations with correct exchange counts.",
+    "All 67 new pages visually reviewed, including symbol tables, formulas, doodles, graphs, thumbnails and source links.",
+    "Original Google error response and recovered first prompt remain preserved.",
+    "Final PDF images, continuous page numbering and final page 7276 verified after assembly."
+  ]
+}

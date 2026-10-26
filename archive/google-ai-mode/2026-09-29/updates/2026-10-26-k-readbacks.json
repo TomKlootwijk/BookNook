@@ -1,0 +1,29 @@
+[
+  {
+    "threadId": "LxTfaoStJZupi-gPzIGo8A8",
+    "counts": {
+      "prompts": 10,
+      "responses": 10
+    },
+    "sameText": true,
+    "checkedAt": "2026-10-26T10:19:09.287Z"
+  },
+  {
+    "threadId": "Nhnfasz_E5iB9u8PpvKIqAk",
+    "counts": {
+      "prompts": 5,
+      "responses": 5
+    },
+    "sameText": true,
+    "checkedAt": "2026-10-26T10:19:09.544Z"
+  },
+  {
+    "threadId": "Jh3faozhG6GM9u8PicnyiAs",
+    "counts": {
+      "prompts": 6,
+      "responses": 6
+    },
+    "sameText": true,
+    "checkedAt": "2026-10-26T10:19:10.219Z"
+  }
+]

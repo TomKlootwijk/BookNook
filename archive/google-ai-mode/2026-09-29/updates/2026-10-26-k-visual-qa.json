@@ -1,0 +1,47 @@
+{
+  "reviewedAt": "2026-10-26T10:24:58.290418+00:00",
+  "newPagesRendered": 67,
+  "allNewPagesVisuallyReviewed": true,
+  "contactSheets": 4,
+  "headingMinimumPt": 20,
+  "highResolutionReview": [
+    7210,
+    7213,
+    7236,
+    7257,
+    7260,
+    7262,
+    7269,
+    7274,
+    7275
+  ],
+  "sourceGaps": [],
+  "originalErrorResponsesPreserved": [
+    {
+      "conversation": 1100,
+      "response": 9,
+      "text": "Something went wrong and an AI response wasn't generated."
+    }
+  ],
+  "chapters": [
+    {
+      "conversation": 1100,
+      "pages": 52,
+      "sha256": "ed89b6fa6ac5c2c30617a1026400e10f7ba37e2303bdfda55fd85b9f53dfeef4",
+      "maxHeadingPt": 20.689826785923845
+    },
+    {
+      "conversation": 1101,
+      "pages": 6,
+      "sha256": "fe1d1a4ae0ae1c9b37f220fc2a4055c2bd1e8af7cf6aa3961b04b12062f27297",
+      "maxHeadingPt": 20.999999125
+    },
+    {
+      "conversation": 1102,
+      "pages": 9,
+      "sha256": "bc70d275b2957ba4283670b94c83ea3f6aaec69fe1a3aba196cfe8b420cf56f1",
+      "maxHeadingPt": 20.689826785923845
+    }
+  ],
+  "result": "passed"
+}

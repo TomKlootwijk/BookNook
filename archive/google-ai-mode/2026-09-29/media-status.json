@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Batch label supplied by the user: For my future wife (J). Compared 104 initial and 111 final open AI Mode tabs and 10 recent history entries through the previous archive boundary. Added eight complete conversations (1092-1099), with 43 prompts and 43 responses. All eight transcripts were read back; conversation 1091 remains unchanged. The dedication in the Moore's Law conversation is preserved verbatim as source text. No new embedded widgets were present. Available images are embedded; One source PDF was recovered from ChatGPT Library; four uploaded PDF filenames are recorded with explicit source-file availability notes. Original wording, equations, source links, earlier titles, attachments and previous source-access gaps remain preserved. Unsent drafts are excluded.",
+  "note": "Compared 114 initial and 116 final open AI Mode tabs and 10 recent history entries through the previous archive boundary. Added three conversations (1100-1102), with 21 prompts and 21 response blocks. Reopened two saved conversation pages to recover an empty image response and a missing first prompt. All three transcripts were read back; conversation 1099 remains unchanged. Two generated doodles and two graphs, plus available reference thumbnails, are embedded. One original Google error response is preserved. No new uploaded attachments or embedded widgets were present. Earlier titles, original attachments and source-access gaps remain preserved. Unsent drafts are excluded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -6618,6 +6618,105 @@
         "embedded": true
       }
     ],
+    "unmatchedOpen": [],
+    "unmatchedRecentHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true
+  },
+  "october26KMedia": {
+    "openTabsInitial": 114,
+    "openTabs": 116,
+    "historyEntriesChecked": 10,
+    "newConversations": 3,
+    "newPrompts": 21,
+    "newResponses": 21,
+    "updatedConversations": [],
+    "readbacks": [
+      {
+        "threadId": "LxTfaoStJZupi-gPzIGo8A8",
+        "counts": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "sameText": true,
+        "checkedAt": "2026-10-26T10:19:09.287Z"
+      },
+      {
+        "threadId": "Nhnfasz_E5iB9u8PpvKIqAk",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "sameText": true,
+        "checkedAt": "2026-10-26T10:19:09.544Z"
+      },
+      {
+        "threadId": "Jh3faozhG6GM9u8PicnyiAs",
+        "counts": {
+          "prompts": 6,
+          "responses": 6
+        },
+        "sameText": true,
+        "checkedAt": "2026-10-26T10:19:10.219Z"
+      }
+    ],
+    "priorBoundary": {
+      "conversation": 1099,
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "sameText": true,
+      "capturedAt": "2026-10-26T10:19:11.023Z"
+    },
+    "attachments": [],
+    "sourceErrorResponses": [
+      {
+        "conversation": 1100,
+        "response": 9,
+        "text": "Something went wrong and an AI response wasn't generated."
+      }
+    ],
+    "sourceGaps": [],
+    "media": [
+      {
+        "conversation": 1100,
+        "response": 2,
+        "type": "generated-image",
+        "path": "assets/b6866aff72ff5d576f2e.jpg",
+        "sha256": "b6866aff72ff5d576f2eb495f49c286af885362348a96b863b8740337b36d883",
+        "width": 1408,
+        "height": 768
+      },
+      {
+        "conversation": 1100,
+        "response": 6,
+        "type": "generated-image",
+        "path": "assets/4de84d19b7f092b15691.jpg",
+        "sha256": "4de84d19b7f092b1569131cf54502f0cbd527dafd6c76493372e35597fb3164d",
+        "width": 1408,
+        "height": 768
+      },
+      {
+        "conversation": 1102,
+        "response": 2,
+        "type": "graph",
+        "path": "assets/96424f5e7ecb23e117d1.png",
+        "sha256": "96424f5e7ecb23e117d198d32f4b072b240fd1aadbebc12f243b005b2b421c41",
+        "width": 1783,
+        "height": 731
+      },
+      {
+        "conversation": 1102,
+        "response": 6,
+        "type": "graph",
+        "path": "assets/2e07cb3a8622f42cf1ca.png",
+        "sha256": "2e07cb3a8622f42cf1cad4a7b44fffe33e1fb1fc6daf76510f2bb3324049d35d",
+        "width": 956,
+        "height": 647
+      }
+    ],
+    "uniqueEmbeddedReferenceImages": 42,
     "unmatchedOpen": [],
     "unmatchedRecentHistory": [],
     "preservedPriorMedia": true,
