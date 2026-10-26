@@ -1,0 +1,48 @@
+[
+  {
+    "ordinal": 1101,
+    "counts": {
+      "prompts": 4,
+      "responses": 5
+    },
+    "prior": {
+      "prompts": 5,
+      "responses": 5
+    },
+    "sameText": false,
+    "lastPairMatches": true,
+    "allCapturedTextPreviouslyPresent": true,
+    "capturedAt": "2026-10-26T10:39:47.744Z"
+  },
+  {
+    "ordinal": 1100,
+    "counts": {
+      "prompts": 10,
+      "responses": 9
+    },
+    "prior": {
+      "prompts": 10,
+      "responses": 10
+    },
+    "sameText": false,
+    "lastPairMatches": true,
+    "allCapturedTextPreviouslyPresent": false,
+    "capturedAt": "2026-10-26T10:39:50.569Z",
+    "sameAsPreviouslySavedOriginalTab": true
+  },
+  {
+    "ordinal": 1099,
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "prior": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "sameText": true,
+    "lastPairMatches": true,
+    "allCapturedTextPreviouslyPresent": true,
+    "capturedAt": "2026-10-26T10:39:51.526Z"
+  }
+]

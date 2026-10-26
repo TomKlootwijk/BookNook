@@ -1,0 +1,12 @@
+[
+  {
+    "ordinal": 1102,
+    "counts": {
+      "prompts": 12,
+      "responses": 12
+    },
+    "sameText": true,
+    "priorPrefixMatches": true,
+    "capturedAt": "2026-10-26T10:40:31.846Z"
+  }
+]

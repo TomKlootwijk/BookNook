@@ -8,7 +8,7 @@
     "conversation": 157,
     "response": 5
   },
-  "note": "Compared 114 initial and 116 final open AI Mode tabs and 10 recent history entries through the previous archive boundary. Added three conversations (1100-1102), with 21 prompts and 21 response blocks. Reopened two saved conversation pages to recover an empty image response and a missing first prompt. All three transcripts were read back; conversation 1099 remains unchanged. Two generated doodles and two graphs, plus available reference thumbnails, are embedded. One original Google error response is preserved. No new uploaded attachments or embedded widgets were present. Earlier titles, original attachments and source-access gaps remain preserved. Unsent drafts are excluded.",
+  "note": "Compared 114 initially open and 114 final AI Mode tabs plus 10 visible recent-history entries. Extended conversation 1102, Huggingface Emoticon Logo History, from six to twelve prompts and response blocks: six new pairs and one new embedded graph. The prior six pairs match exactly, and the complete updated transcript was read back. Conversations 1099-1101 show no new tail content; previously recovered missing DOM content in 1100 and 1101 remains preserved in the archive. No new conversation threads, uploaded attachments or embedded widgets were found in this visible scope. Earlier titles, original attachments and source-access gaps remain preserved. Unsent drafts are excluded.",
   "resolvedImageOccurrences": 19,
   "recoveredWidgets": [
     {
@@ -6717,6 +6717,95 @@
       }
     ],
     "uniqueEmbeddedReferenceImages": 42,
+    "unmatchedOpen": [],
+    "unmatchedRecentHistory": [],
+    "preservedPriorMedia": true,
+    "unsentDraftExcluded": true
+  },
+  "october26LMedia": {
+    "openTabsInitial": 114,
+    "openTabs": 114,
+    "historyEntriesChecked": 10,
+    "newConversations": 0,
+    "newPrompts": 6,
+    "newResponses": 6,
+    "updatedConversations": [
+      1102
+    ],
+    "readbacks": [
+      {
+        "ordinal": 1102,
+        "counts": {
+          "prompts": 12,
+          "responses": 12
+        },
+        "sameText": true,
+        "priorPrefixMatches": true,
+        "capturedAt": "2026-10-26T10:40:31.846Z"
+      }
+    ],
+    "priorChecks": [
+      {
+        "ordinal": 1101,
+        "counts": {
+          "prompts": 4,
+          "responses": 5
+        },
+        "prior": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "sameText": false,
+        "lastPairMatches": true,
+        "allCapturedTextPreviouslyPresent": true,
+        "capturedAt": "2026-10-26T10:39:47.744Z"
+      },
+      {
+        "ordinal": 1100,
+        "counts": {
+          "prompts": 10,
+          "responses": 9
+        },
+        "prior": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "sameText": false,
+        "lastPairMatches": true,
+        "allCapturedTextPreviouslyPresent": false,
+        "capturedAt": "2026-10-26T10:39:50.569Z",
+        "sameAsPreviouslySavedOriginalTab": true
+      },
+      {
+        "ordinal": 1099,
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "prior": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "sameText": true,
+        "lastPairMatches": true,
+        "allCapturedTextPreviouslyPresent": true,
+        "capturedAt": "2026-10-26T10:39:51.526Z"
+      }
+    ],
+    "attachments": [],
+    "sourceErrorResponses": [],
+    "sourceGaps": [],
+    "media": [
+      {
+        "conversation": 1102,
+        "response": 10,
+        "type": "graph",
+        "path": "assets/dca9ac467b9f0156f2ab.png",
+        "sha256": "dca9ac467b9f0156f2abbd4a293ab726bef3a1e69420970107f11cccbc743dbb",
+        "width": 945,
+        "height": 652
+      }
+    ],
     "unmatchedOpen": [],
     "unmatchedRecentHistory": [],
     "preservedPriorMedia": true,

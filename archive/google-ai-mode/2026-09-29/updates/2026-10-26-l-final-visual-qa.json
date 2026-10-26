@@ -1,0 +1,13 @@
+{
+  "batchId": "2026-10-26-l",
+  "result": "passed",
+  "pdfSha256": "77df1a658ad9228bc575aed01f72e0744b41530a8285dba0148717bf00092e04",
+  "reviewedPages": [1,34,7268,7276,7278,7280,7282,7283],
+  "checks": [
+    "Cover totals 1102 conversations, 5755 prompts and 5758 response blocks verified.",
+    "Index correctly lists twelve exchanges for updated conversation 1102.",
+    "All sixteen replacement chapter pages visually reviewed, including formulas, three graphs, the source Markdown code block and source links.",
+    "The six prior prompt-response pairs match exactly; six new pairs and one new graph are included.",
+    "Final assembled chapter, graph, code block and continuous page numbering through page 7283 verified."
+  ]
+}
