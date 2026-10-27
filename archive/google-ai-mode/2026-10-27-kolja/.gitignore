@@ -1,0 +1,9 @@
+# Local discovery inventories contain conversations outside this new collection.
+open-tabs-initial.json
+open-tabs-final.json
+visible-history.json
+full-visible-history.json
+browser-history-since-baseline.json
+browser-history-earlier-window.json
+# Machine-specific absolute paths used only for the completed browser upload.
+notebook-upload.json

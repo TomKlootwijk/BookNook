@@ -1,0 +1,21 @@
+{
+  "verifiedAt": "2026-10-27T06:35:58.585980+00:00",
+  "conversations": 29,
+  "prompts": 179,
+  "responseBlocks": 179,
+  "pages": 218,
+  "bookmarks": 31,
+  "localLinkIssues": [],
+  "pdfSyntaxIssues": [],
+  "all218PagesRenderedAndVisuallyInspected": true,
+  "detailPagesInspected": [
+    112,
+    181,
+    183
+  ],
+  "distinctGraphs": 3,
+  "sourceErrorBlocks": 1,
+  "oldArchiveUnchanged": true,
+  "oldPdfSha256": "3d9ad204ea063865e942ad957f3c16ec18d92e6655dd36b077ded993e0dc1e81",
+  "pdfSha256": "0d92c3929ce021e217364d79cdf3ab8bff1d099e78d3d365b8fccd822e2c80ff"
+}

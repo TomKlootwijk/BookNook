@@ -1,0 +1,50 @@
+{
+  "conversations": 29,
+  "prompts": 179,
+  "responses": 179,
+  "lengths": [],
+  "mismatched": [],
+  "external": [],
+  "images": [
+    {
+      "threadId": "BDDgap6BI5L87_UP5P2ScA",
+      "message": 3,
+      "alt": "Graph image",
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQQAAARfCAYAAABKoO4bAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjYsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvq6yFwwAAAAlwSFlzAAATOQAAEzkBj8JWAQABAABJREFUeF7snQOUXEsXhU9s205ebNu2bePFtm3bdl5s27ZtO/nXPpPbaU/3"
+    },
+    {
+      "threadId": "BDDgap6BI5L87_UP5P2ScA",
+      "message": 5,
+      "alt": "Graph image",
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABc0AAAXNCAYAAAA403eMAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjYsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvq6yFwwAAAAlwSFlzAAAXEgAAFxIBZ5/SUgABAABJREFUeF7s3QeYXFX9//HznbItyaYntBB6710QkKKAEVEBY+8/u4L1LxZE"
+    },
+    {
+      "threadId": "P8zfarGrL5GJ9u8PyaHcgQs",
+      "message": 5,
+      "alt": "Graph image",
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+UAAAOgCAYAAABbVtdVAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjYsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvq6yFwwAAAAlwSFlzAAAXEgAAFxIBZ5/SUgABAABJREFUeF7s3QWUVdXbx/EHZujulhRUwhYbQVFEUBFBxADBBmyxu7CDMAmL"
+    }
+  ],
+  "attachments": [
+    {
+      "threadId": "3X3fasG6FbqU9u8P042O0Ag",
+      "text": "",
+      "url": "https://zaguan.unizar.es/record/110768/files/texto_completo.pdf"
+    },
+    {
+      "threadId": "3X3fasG6FbqU9u8P042O0Ag",
+      "text": "",
+      "url": "https://zaguan.unizar.es/record/110768/files/texto_completo.pdf"
+    },
+    {
+      "threadId": "h9DfauP0KNf_7_UP28-l8AU",
+      "text": "",
+      "url": "https://publications.tno.nl/publication/34618801/WoifQ2/tno-2015-CBRN_defence.pdf"
+    },
+    {
+      "threadId": "zNHfatbABbuB9u8PkqncmAs",
+      "text": "",
+      "url": "https://datcp.wi.gov/Documents/Medicalquackery204.pdf"
+    }
+  ]
+}

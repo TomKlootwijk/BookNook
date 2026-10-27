@@ -1,0 +1,12 @@
+{
+  "note": "Separate KOLJA collection of 29 new Google AI Mode conversations since batch 2026-10-26-m. Compared 136 open AI Mode tabs, 594 browser-history rows within the new period and the 29 recent Google history entries up to the prior archive boundary. Includes seven conversations whose tabs were already closed. All 179 prompts and 179 response blocks are preserved, with three distinct embedded graphs and available reference thumbnails. Reopened saved conversation links to recover one initially empty answer. The prior boundary conversation 1102 remains unchanged. This collection does not alter or extend the earlier archive PDF. Linked external sources remain references.",
+  "sourceGaps": [],
+  "sourceErrorResponses": [
+    {
+      "ordinal": 10,
+      "message": 11,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+    }
+  ],
+  "distinctGraphs": 3
+}
