@@ -1,0 +1,19 @@
+{
+  "at": "2026-10-30T15:19:33.889582+00:00",
+  "date": "2026-10-30",
+  "batchId": "2026-10-30-poi",
+  "batchTitle": "poi",
+  "method": "Separate poi file requested by the user. One new conversation discovered at the top of the refreshed Google AI Mode history. North Korea was rechecked and still contains the same 30 prompt-response pairs. No older collection is merged into poi.",
+  "records": [
+    {
+      "ordinal": 1,
+      "threadId": "6rLkauDhGtOJ9u8PpKHX8AE",
+      "title": "Jaundice HVAC Lipids Preparaat Carbohydrate",
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    }
+  ]
+}

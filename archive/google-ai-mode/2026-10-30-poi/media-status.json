@@ -1,0 +1,16 @@
+{
+  "pendingImages": [],
+  "sourceGaps": [
+    {
+      "conversation": 1,
+      "message": 4,
+      "note": "Pending media: this embedded diagram did not load for capture. The original frame URL is preserved in the raw archive.",
+      "urls": [
+        "https://1b5exljz29vk6ugdk369i8bd88hrsuky9zelf8ca5h9jpknvuy-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    }
+  ],
+  "pendingAttachments": [],
+  "sourceErrorResponses": [],
+  "note": "1 embedded diagrams remain unavailable."
+}

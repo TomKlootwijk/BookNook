@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-30T12:16:20.773886+00:00",
+  "at": "2026-10-30T15:12:57.167952+00:00",
   "date": "2026-10-30",
   "batchId": "2026-10-30-putin-input",
   "batchTitle": "Putin Input",
   "status": "provisional-incomplete",
-  "method": "Provisional separate Putin Input collection: 34 of 107 discovered new conversations captured since KOLJA. 73 new conversations remain pending. Four revisited conversations also require comparison for updates. No NotebookLM upload has completed. The old cumulative archive and KOLJA remain unchanged.",
+  "method": "Provisional separate Putin Input collection: 112 of 112 discovered new conversations captured since KOLJA. 0 new conversations remain pending. Four revisited conversations have been compared; one new prompt-response pair is included as an addendum and all four current versions are retained separately. NotebookLM redirects to location=unsupported, so no notebook upload has completed. The old cumulative archive and KOLJA remain unchanged.",
   "records": [
     {
       "ordinal": 1,
@@ -65,7 +65,12 @@
       "ordinal": 6,
       "threadId": "u1ngaqXJPOSb-d8PgcrS-Q4",
       "title": "Online Subculture Name",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 28,
+        "responses": 28
+      },
+      "sourceCapture": "u1ngaqXJPOSb-d8PgcrS-Q4.json"
     },
     {
       "ordinal": 7,
@@ -159,355 +164,650 @@
       "ordinal": 15,
       "threadId": "ZKPgar37KcKA9u8P86C9kAo",
       "title": "UVA Tech Project Data",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "sourceCapture": "ZKPgar37KcKA9u8P86C9kAo.json"
     },
     {
       "ordinal": 16,
       "threadId": "GKfgar6mJuf-7_UPysn3iAY",
       "title": "Baby Alive Toy Guide",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "sourceCapture": "GKfgar6mJuf-7_UPysn3iAY.json"
     },
     {
       "ordinal": 17,
       "threadId": "s67gasb0EsHpi-gP5fGTgQk",
       "title": "Tesla Total Recall",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 21,
+        "responses": 21
+      },
+      "sourceCapture": "s67gasb0EsHpi-gP5fGTgQk.json"
     },
     {
       "ordinal": 18,
       "threadId": "5MLgauSQEI6N9u8Pt9710Qg",
       "title": "Just In Time Deployment Pipelines",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 19,
+        "responses": 19
+      },
+      "sourceCapture": "5MLgauSQEI6N9u8Pt9710Qg.json"
     },
     {
       "ordinal": 19,
       "threadId": "Vr3gar7sCa3Ii-gP_v3j8Qk",
       "title": "Telephreaking Operations Exploration",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "sourceCapture": "Vr3gar7sCa3Ii-gP_v3j8Qk.json"
     },
     {
       "ordinal": 20,
       "threadId": "R_3gav6ELdiJ9u8PqMTRqQY",
       "title": "Cannon Fodder Definition",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "R_3gav6ELdiJ9u8PqMTRqQY.json"
     },
     {
       "ordinal": 21,
       "threadId": "Qvzgar_zLpLvi-gP8MSH6Q0",
       "title": "FIFO Queue Concept",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "sourceCapture": "Qvzgar_zLpLvi-gP8MSH6Q0.json"
     },
     {
       "ordinal": 22,
       "threadId": "6AbhaoTMDLTg7_UP4tDm-Qc",
       "title": "Sensi Seeds Damstraat Royal Queen",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "6AbhaoTMDLTg7_UP4tDm-Qc.json"
     },
     {
       "ordinal": 23,
       "threadId": "7A3hapPVAdaT9u8PxOHf4Ac",
       "title": "Secret Intelligence Service Meaning",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "7A3hapPVAdaT9u8PxOHf4Ac.json"
     },
     {
       "ordinal": 24,
       "threadId": "lg7haoOJDvr1i-gPpPm9wAk",
       "title": "CIA Recruitment Analyst",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "sourceCapture": "lg7haoOJDvr1i-gPpPm9wAk.json"
     },
     {
       "ordinal": 25,
       "threadId": "uhHhatPQBY7m7_UP0rOjwA4",
       "title": "Elon Musk Assets Liquidity",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 21,
+        "responses": 21
+      },
+      "sourceCapture": "uhHhatPQBY7m7_UP0rOjwA4.json"
     },
     {
       "ordinal": 26,
       "threadId": "9B3haqWTMuqM9u8P1LDF4AM",
       "title": "Stocks After Market Wipeout",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "sourceCapture": "9B3haqWTMuqM9u8P1LDF4AM.json"
     },
     {
       "ordinal": 27,
       "threadId": "XivharG0Atbi7_UP2ajomQo",
       "title": "Larynx Subliminal Control Systems",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "sourceCapture": "XivharG0Atbi7_UP2ajomQo.json"
     },
     {
       "ordinal": 28,
       "threadId": "nmrhauHXCcC7i-gP8r6e6As",
       "title": "Corki Urfrider Skin",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "sourceCapture": "nmrhauHXCcC7i-gP8r6e6As.json"
     },
     {
       "ordinal": 29,
       "threadId": "h2_haq3HCsXGi-gPupb30Ao",
       "title": "City 17 Facehugger Sensorimotor Loss",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sourceCapture": "h2_haq3HCsXGi-gPupb30Ao.json"
     },
     {
       "ordinal": 30,
       "threadId": "43LhapTaDuSC9u8P-Jn0kAw",
       "title": "Pair Programming Criticisms",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      },
+      "sourceCapture": "43LhapTaDuSC9u8P-Jn0kAw.json"
     },
     {
       "ordinal": 31,
       "threadId": "ooLhatDCLbrRi-gPqqKn0Ak",
       "title": "Chronospatial Augmented Reality Cloud Anchors",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      },
+      "sourceCapture": "ooLhatDCLbrRi-gPqqKn0Ak.json"
     },
     {
       "ordinal": 32,
       "threadId": "EZPhas6MO4CE9u8PgYLmGA",
       "title": "Simo Häyhä Sniper Tactics",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sourceCapture": "EZPhas6MO4CE9u8PgYLmGA.json"
     },
     {
       "ordinal": 33,
       "threadId": "1JrhasXWNdXp7_UPzdHCCA",
       "title": "Bird Whistle",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 14,
+        "responses": 14
+      },
+      "sourceCapture": "1JrhasXWNdXp7_UPzdHCCA.json"
     },
     {
       "ordinal": 34,
       "threadId": "gaThaujXPLn97_UP_cnx-Ao",
       "title": "Klootwijk Flood van der Merwede",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 20,
+        "responses": 20
+      },
+      "sourceCapture": "gaThaujXPLn97_UP_cnx-Ao.json"
     },
     {
       "ordinal": 35,
       "threadId": "eLrhat-bJ86ui-gP0prWkQQ",
       "title": "Ragnarok Online Lutie Guide",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "eLrhat-bJ86ui-gP0prWkQQ.json"
     },
     {
       "ordinal": 36,
       "threadId": "7MDhasL6BsvBi-gPxM2_4QE",
       "title": "Wrong Chemical Aerosol Impacts",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "7MDhasL6BsvBi-gPxM2_4QE.json"
     },
     {
       "ordinal": 37,
       "threadId": "ScLhapnFNc3xi-gPjd-_2AQ",
       "title": "Blauwdrukken in het Nederlands",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "sourceCapture": "ScLhapnFNc3xi-gPjd-_2AQ.json"
     },
     {
       "ordinal": 38,
       "threadId": "c-rhaqzBAey9i-gPitvv8As",
       "title": "Personal Data Registration Details",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      },
+      "sourceCapture": "c-rhaqzBAey9i-gPitvv8As.json"
     },
     {
       "ordinal": 39,
       "threadId": "FgHiasyjLYKP9u8Pu5n0EQ",
       "title": "EU Data Privacy Concerns",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sourceCapture": "FgHiasyjLYKP9u8Pu5n0EQ.json"
     },
     {
       "ordinal": 40,
       "threadId": "_Q3iao2jHp-D9u8P8d3n8QI",
       "title": "Gecalibreerde Sensoren",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "_Q3iao2jHp-D9u8P8d3n8QI.json"
     },
     {
       "ordinal": 41,
       "threadId": "WBviav3hOKuG9u8P7q2V6Ak",
       "title": "Genetic Rewrites and Algorithms",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      },
+      "sourceCapture": "WBviav3hOKuG9u8P7q2V6Ak.json"
     },
     {
       "ordinal": 42,
       "threadId": "1iriauD9K7Lr7_UP7sSM6QI",
       "title": "Hypermobiel Minimalisme",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "sourceCapture": "1iriauD9K7Lr7_UP7sSM6QI.json"
     },
     {
       "ordinal": 43,
       "threadId": "LDLiauKtOojKi-gP4b24wAY",
       "title": "Jetten Gin E",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 23,
+        "responses": 23
+      },
+      "sourceCapture": "LDLiauKtOojKi-gP4b24wAY.json"
     },
     {
       "ordinal": 44,
       "threadId": "rz_iaoPhDeeO9u8P69PfmQ8",
       "title": "Dier Inhumaan Leven Beëindigen",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "rz_iaoPhDeeO9u8P69PfmQ8.json"
     },
     {
       "ordinal": 45,
       "threadId": "Oj3iav2bA770i-gPlsaxcA",
       "title": "Middle East Oil Reserves",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sourceCapture": "Oj3iav2bA770i-gPlsaxcA.json"
     },
     {
       "ordinal": 46,
       "threadId": "abziapGtMN6vi-gP-p_J8AM",
       "title": "Scale and Hamstringing Initiative",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sourceCapture": "abziapGtMN6vi-gP-p_J8AM.json"
     },
     {
       "ordinal": 47,
       "threadId": "6sDiav3iHv3_7_UP5byyiQo",
       "title": "RL and L Complexity",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "sourceCapture": "6sDiav3iHv3_7_UP5byyiQo.json"
     },
     {
       "ordinal": 48,
       "threadId": "BMPiarmWKLXZwPAPvarDwQY",
       "title": "Policy Proposal Review",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "sourceCapture": "BMPiarmWKLXZwPAPvarDwQY.json"
     },
     {
       "ordinal": 49,
       "threadId": "N8XiarGoEpyG9u8P-bmgAQ",
       "title": "Autopoietic vs Automorphic Systems",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "sourceCapture": "N8XiarGoEpyG9u8P-bmgAQ.json"
     },
     {
       "ordinal": 50,
       "threadId": "ssjiaumJDsm2i-gPnsOUwA8",
       "title": "Google AI Mode",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "ssjiaumJDsm2i-gPnsOUwA8.json"
     },
     {
       "ordinal": 51,
       "threadId": "0cjiaumyE66Ri-gPmcjZ2QU",
       "title": "Google AI Mode",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "0cjiaumyE66Ri-gPmcjZ2QU.json"
     },
     {
       "ordinal": 52,
       "threadId": "RLLiavaXJ666i-gPu_mrgAY",
       "title": "Kardashev Scale Progress 7 Years",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 20,
+        "responses": 20
+      },
+      "sourceCapture": "RLLiavaXJ666i-gPu_mrgAY.json"
     },
     {
       "ordinal": 53,
       "threadId": "o8viarDmHLeqi-gPxevc-Qk",
       "title": "my openAI chatGPT codex files and chat logs are they stored in the EU or USA",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "o8viarDmHLeqi-gPxevc-Qk.json"
     },
     {
       "ordinal": 54,
       "threadId": "EtDiavOuMfrz-d8Pup7wuAs",
       "title": "Klaverbladen Psychiatrisch Conceptueel",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "sourceCapture": "EtDiavOuMfrz-d8Pup7wuAs.json"
     },
     {
       "ordinal": 55,
       "threadId": "s9fiaufqApP3i-gPnc-LoAE",
       "title": "Gaspard Va Au Mariage",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "s9fiaufqApP3i-gPnc-LoAE.json"
     },
     {
       "ordinal": 56,
       "threadId": "fd7iavrjNcuLi-gPjqWd8Qk",
       "title": "Ondergrondse Piramide Infrastructuur",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "sourceCapture": "fd7iavrjNcuLi-gPjqWd8Qk.json"
     },
     {
       "ordinal": 57,
       "threadId": "v-TiarqRN-3p7_UP4oi2OA",
       "title": "Enno De Tombe D66 Gemeenteraad",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sourceCapture": "v-TiarqRN-3p7_UP4oi2OA.json"
     },
     {
       "ordinal": 58,
       "threadId": "8-ziaoTwBIjGi-gPxLXD0AI",
       "title": "Pantheon Halve Cirkel Boog",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      },
+      "sourceCapture": "8-ziaoTwBIjGi-gPxLXD0AI.json"
     },
     {
       "ordinal": 59,
       "threadId": "wvTias2wAYqI9u8Pncv_yAs",
       "title": "Bitcoin Mining Process",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "sourceCapture": "wvTias2wAYqI9u8Pncv_yAs.json"
     },
     {
       "ordinal": 60,
       "threadId": "3P_iarWVDYqP9u8P5pXtyQQ",
       "title": "Ethereum Hash Difficulty Mining",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 15,
+        "responses": 15
+      },
+      "sourceCapture": "3P_iarWVDYqP9u8P5pXtyQQ.json"
     },
     {
       "ordinal": 61,
       "threadId": "TAjjasaPD9v_7_UPtuCFkAM",
       "title": "MetaMask Ethereum Classic Setup",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "TAjjasaPD9v_7_UPtuCFkAM.json"
     },
     {
       "ordinal": 62,
       "threadId": "R0vjasCjOMGBi-gP79zugAE",
       "title": "Sterfte Kinderen Afrika Per Seconde",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "R0vjasCjOMGBi-gP79zugAE.json"
     },
     {
       "ordinal": 63,
       "threadId": "_1Djaq2xCqOgi-gP04HOiQ8",
       "title": "E Nummers Amerikaanse Skittles",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "_1Djaq2xCqOgi-gP04HOiQ8.json"
     },
     {
       "ordinal": 64,
       "threadId": "GVHjauXHOKzti-gPuYOwyQo",
       "title": "Nutrilon Baby Formula Supply Chain",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "GVHjauXHOKzti-gPuYOwyQo.json"
     },
     {
       "ordinal": 65,
       "threadId": "b1Hjao3tOPSsi-gPjL7p-AI",
       "title": "Melamine Properties and Uses",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "sourceCapture": "b1Hjao3tOPSsi-gPjL7p-AI.json"
     },
     {
       "ordinal": 66,
       "threadId": "RVjjapSpDryL9u8P98GeiA8",
       "title": "Biologisch vs Onbespoten Groenten",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "RVjjapSpDryL9u8P98GeiA8.json"
     },
     {
       "ordinal": 67,
       "threadId": "-m7jaouME7j0i-gPhL2LwQs",
       "title": "Nestle Water Wells Bottling",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "-m7jaouME7j0i-gPhL2LwQs.json"
     },
     {
       "ordinal": 68,
       "threadId": "33Ljaq7yC9_ui-gPxtDE2QE",
       "title": "Poolse Vrouwen En Nazi Groepen",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "33Ljaq7yC9_ui-gPxtDE2QE.json"
     },
     {
       "ordinal": 69,
       "threadId": "Lmnjat6RKo-H9u8PofbnuQ4",
       "title": "Cow Production Cycle and Location",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 28,
+        "responses": 28
+      },
+      "sourceCapture": "Lmnjat6RKo-H9u8PofbnuQ4.json"
     },
     {
       "ordinal": 70,
       "threadId": "z3vjarK-L6WH9u8PgsbCoQo",
       "title": "Gematigde Turkse Moslims",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "z3vjarK-L6WH9u8PgsbCoQo.json"
     },
     {
       "ordinal": 71,
       "threadId": "en7japLUDdS-i-gPyqqamQ8",
       "title": "ISIS Nasheeds",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "sourceCapture": "en7japLUDdS-i-gPyqqamQ8.json"
     },
     {
       "ordinal": 72,
       "threadId": "nITjaun4Nuzg7_UPj9bZsAo",
       "title": "Traditioneel Midden-Oosten Dieet",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "sourceCapture": "nITjaun4Nuzg7_UPj9bZsAo.json"
     },
     {
       "ordinal": 73,
       "threadId": "rhvkaqSSA-qsi-gPnP_28AQ",
       "title": "Gastroscopie Met Fotonica Spycam",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "rhvkaqSSA-qsi-gPnP_28AQ.json"
     },
     {
       "ordinal": 74,
@@ -535,7 +835,12 @@
       "ordinal": 76,
       "threadId": "rx_kavOmMIeL9u8Pq6q4QQ",
       "title": "Predatory Behavior in Africa",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "rx_kavOmMIeL9u8Pq6q4QQ.json"
     },
     {
       "ordinal": 77,
@@ -596,7 +901,12 @@
       "ordinal": 82,
       "threadId": "1CfkapiwEujOi-gPve_noAU",
       "title": "Giftige Slang Den Treek",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "sourceCapture": "1CfkapiwEujOi-gPve_noAU.json"
     },
     {
       "ordinal": 83,
@@ -613,7 +923,12 @@
       "ordinal": 84,
       "threadId": "cSrkatSRNumP9u8P97DY2Qk",
       "title": "Boons and Charms",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "cSrkatSRNumP9u8P97DY2Qk.json"
     },
     {
       "ordinal": 85,
@@ -674,7 +989,12 @@
       "ordinal": 90,
       "threadId": "aD_kav3qGuPg7_UPn_rE8A4",
       "title": "Andere Tijden TV Programma",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "aD_kav3qGuPg7_UPn_rE8A4.json"
     },
     {
       "ordinal": 91,
@@ -691,31 +1011,56 @@
       "ordinal": 92,
       "threadId": "4Enkaoy4GJSO9u8PjtLwuQM",
       "title": "Action Man Poppen Speelgoed",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "4Enkaoy4GJSO9u8PjtLwuQM.json"
     },
     {
       "ordinal": 93,
       "threadId": "qErkasjxB7yH9u8PjLfEkQk",
       "title": "Bananenboot Kinematica Calculus Formule",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "qErkasjxB7yH9u8PjLfEkQk.json"
     },
     {
       "ordinal": 94,
       "threadId": "KE3kauuVJKb97_UP_vaoUQ",
       "title": "Banaanboot Kinematica Berekeningen",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "KE3kauuVJKb97_UP_vaoUQ.json"
     },
     {
       "ordinal": 95,
       "threadId": "qkrkaurCFuGOi-gPraKegAc",
       "title": "Baananalyse Wiskunde B Kinematica",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sourceCapture": "qkrkaurCFuGOi-gPraKegAc.json"
     },
     {
       "ordinal": 96,
       "threadId": "GVDkasbeNbX-7_UP36SO2Qw",
       "title": "Tangent Arc Fresnel",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "GVDkasbeNbX-7_UP36SO2Qw.json"
     },
     {
       "ordinal": 97,
@@ -732,7 +1077,12 @@
       "ordinal": 98,
       "threadId": "RVPkapTBO9f_7_UPvtrQkAs",
       "title": "Inverse Logarithmic Fresnel Lenses",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "RVPkapTBO9f_7_UPvtrQkAs.json"
     },
     {
       "ordinal": 99,
@@ -771,19 +1121,34 @@
       "ordinal": 102,
       "threadId": "ZlrkavPhDvCL9u8P7r24SQ",
       "title": "Dreidel 3 Uit Krommenie",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "ZlrkavPhDvCL9u8P7r24SQ.json"
     },
     {
       "ordinal": 103,
       "threadId": "2lvkaqizNo-4i-gPivyvwA0",
       "title": "Pritt Stift Hechting Polymeer",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "2lvkaqizNo-4i-gPivyvwA0.json"
     },
     {
       "ordinal": 104,
       "threadId": "eV7kauWxEKXp7_UPk87JgQE",
       "title": "Codex Build Process",
-      "status": "pending"
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "eV7kauWxEKXp7_UPk87JgQE.json"
     },
     {
       "ordinal": 105,
@@ -817,6 +1182,61 @@
         "responses": 2
       },
       "sourceCapture": "tab-1037286733.json"
+    },
+    {
+      "ordinal": 108,
+      "threadId": "OYXkao-DH5uBi-gP5J3HsQM",
+      "title": "Population Comparison BRICS Netherlands",
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "sourceCapture": "OYXkao-DH5uBi-gP5J3HsQM.json"
+    },
+    {
+      "ordinal": 109,
+      "threadId": "6o3kapyqAr31i-gPwIK5yQg",
+      "title": "Formalized Chrono Spatiotemporal Data",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "6o3kapyqAr31i-gPwIK5yQg.json"
+    },
+    {
+      "ordinal": 110,
+      "threadId": "_KbkauuiB4m29u8PjsGimQo",
+      "title": "North Korea Agriculture Resource Allocation",
+      "status": "captured",
+      "counts": {
+        "prompts": 30,
+        "responses": 30
+      },
+      "sourceCapture": "_KbkauuiB4m29u8PjsGimQo.json"
+    },
+    {
+      "ordinal": 111,
+      "threadId": "k3zkat_AObKD9u8Pru3GCA",
+      "title": "Digitale Neural Interface Control Panel",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sourceCapture": "k3zkat_AObKD9u8Pru3GCA.json"
+    },
+    {
+      "ordinal": 112,
+      "threadId": "P8zfarGrL5GJ9u8PyaHcgQs",
+      "title": "Boosting - new response after KOLJA",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sourceCapture": "P8zfarGrL5GJ9u8PyaHcgQs.json"
     }
   ]
 }

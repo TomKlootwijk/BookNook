@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-30T15:19:33.889582+00:00",
+  "newConversationIds": [
+    "6rLkauDhGtOJ9u8PpKHX8AE"
+  ],
+  "northKoreaCounts": {
+    "prompts": 30,
+    "responses": 30
+  },
+  "baseline": "2026-10-30-putin-input",
+  "note": "Separate poi file requested by the user. One new conversation discovered at the top of the refreshed Google AI Mode history. North Korea was rechecked and still contains the same 30 prompt-response pairs. No older collection is merged into poi."
+}

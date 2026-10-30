@@ -1,0 +1,70 @@
+{
+  "exportDate": "2026-10-30",
+  "scopeCount": 1,
+  "capturedCount": 1,
+  "prompts": 5,
+  "responses": 5,
+  "mathRendered": 33,
+  "embeddedImages": 7,
+  "conversations": [
+    {
+      "ordinal": 1,
+      "title": "Jaundice HVAC Lipids Preparaat Carbohydrate",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/01-jaundice-hvac-lipids-preparaat-carbohydrate.html",
+      "markdown": "conversations/01-jaundice-hvac-lipids-preparaat-carbohydrate.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTM0NDgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=AKL5yDgarAcb85BZPRn-3NvP3TkkDLpWHA%3A1793369851583&cs=1&udm=50&atvm=2&mstk=AUtExfA8H3wn6MK8Y2GrPB5lnZ46H38rr2sLfc5KxG1-nekCgfYJa5qITUrXRJ3IDivI4y_EpTktmNhC9Yi0xYPO_7cG_iq3q1ReiJY8reuvgQM7fAIguC-aFDtXTVtLm0q1h2tUevOkqa0ymaSeEFfEpOA8b5ycP5c0MjfBmcieHO0CLpCw78r27QP27GtLOqEI1QsFmjuQyyXPugz9B4MWjVXHVJbABWT-Yjudjj_CvgZtHZoBb93GMzoI67PDVUfvsOirDjgVv6HX5g&mtid=6rLkauDhGtOJ9u8PpKHX8AE&csuir=1&aep=26&q=jaundice+hvac+lipids+preparaat+carbohydrate+.&ved=0CAEQ2_wOahgKEwjwgrzYhOKXAxUAAAAAHQAAAAAQpQ8",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3
+    }
+  ],
+  "missing": [],
+  "issues": [],
+  "mediaGaps": [],
+  "mediaStatus": {
+    "pendingImages": [],
+    "sourceGaps": [
+      {
+        "conversation": 1,
+        "message": 4,
+        "note": "Pending media: this embedded diagram did not load for capture. The original frame URL is preserved in the raw archive.",
+        "urls": [
+          "https://1b5exljz29vk6ugdk369i8bd88hrsuky9zelf8ca5h9jpknvuy-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+        ]
+      }
+    ],
+    "pendingAttachments": [],
+    "sourceErrorResponses": [],
+    "note": "1 embedded diagrams remain unavailable."
+  },
+  "latestUpdate": {
+    "at": "2026-10-30T15:19:33.889582+00:00",
+    "date": "2026-10-30",
+    "batchId": "2026-10-30-poi",
+    "batchTitle": "poi",
+    "method": "Separate poi file requested by the user. One new conversation discovered at the top of the refreshed Google AI Mode history. North Korea was rechecked and still contains the same 30 prompt-response pairs. No older collection is merged into poi.",
+    "records": [
+      {
+        "ordinal": 1,
+        "threadId": "6rLkauDhGtOJ9u8PpKHX8AE",
+        "title": "Jaundice HVAC Lipids Preparaat Carbohydrate",
+        "status": "captured",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      }
+    ]
+  },
+  "pdf": {
+    "path": "output/pdf/poi.pdf",
+    "status": "provisional-incomplete",
+    "pages": 8,
+    "bytes": 331486,
+    "sha256": "751b0683fff11e9f43b5742cce9d21d28c5e0923ddb0246aeb45214af9610dd4",
+    "bookmarks": 3,
+    "promptMarkers": 5,
+    "responseMarkers": 5
+  }
+}

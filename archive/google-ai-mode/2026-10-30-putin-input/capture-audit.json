@@ -1,12 +1,43 @@
 {
-  "capturedFiles": 34,
-  "scopeConversations": 107,
-  "prompts": 181,
-  "responses": 181,
+  "capturedFiles": 112,
+  "scopeConversations": 112,
+  "prompts": 726,
+  "responses": 726,
   "lengthIssues": [],
   "mismatches": [],
-  "empty": [],
+  "empty": [
+    {
+      "id": "EtDiavOuMfrz-d8Pup7wuAs",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "empty": [
+        5
+      ],
+      "order": "ugugugugugug",
+      "frames": []
+    },
+    {
+      "id": "o8viarDmHLeqi-gPxevc-Qk",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "empty": [
+        1
+      ],
+      "order": "ugug",
+      "frames": []
+    }
+  ],
   "externalImages": [
+    {
+      "id": "6AbhaoTMDLTg7_UP4tDm-Qc",
+      "item": 1,
+      "url": "//www.google.com/maps/vt/data=xhXmovULCxCLP23ytvuSVg4kGZJxOaHdODHRFJHA4xSEU_CDposnWkWlDgcnIdsa3Groon1_KwfLi1snxFkzE0xPG-UJrNg4-94I7Y6M-DxDYax9sh6DWcMQNQQkz6RdiFNkRe6ZULgI3TWZcob5102ZPA4FIgo2Jd1hlrG9W1PUJuiugcSM9YTuHWSw0C9TWmVMUk7ESLk-YzkL9Np6SazjepQD9sv8Xpq6gb_7e5XY7b0fozGrMrUTHi3mtLyt5RMTo4CrFST8Af2Ga8vNeYdc2HH3772l-LnouJKxVTXkURkhrmBxd9nx1ZYu_uYjk_0-toX7iCTULJW5DpyVvc7tGDlW-KLcAYF0FTY86vtlhyVA-7R0cVaV_iHkYA84w3I",
+      "alt": "Map"
+    },
     {
       "id": "tab-1037286337",
       "item": 1,
@@ -16,16 +47,94 @@
   ],
   "attachments": [
     {
+      "id": "1CfkapiwEujOi-gPve_noAU",
+      "item": 1,
+      "text": "",
+      "url": "https://hetgroenehuisamersfoort.nl/storage/uploads/de496d2/files/095-099-SvdN-Soorten-Reptielen%20en%20slakken%20DIGI.pdf"
+    },
+    {
+      "id": "1CfkapiwEujOi-gPve_noAU",
+      "item": 1,
+      "text": "",
+      "url": "https://hetgroenehuisamersfoort.nl/storage/uploads/de496d2/files/095-099-SvdN-Soorten-Reptielen%20en%20slakken%20DIGI.pdf"
+    },
+    {
+      "id": "1CfkapiwEujOi-gPve_noAU",
+      "item": 1,
+      "text": "",
+      "url": "https://hetgroenehuisamersfoort.nl/storage/uploads/de496d2/files/095-099-SvdN-Soorten-Reptielen%20en%20slakken%20DIGI.pdf"
+    },
+    {
+      "id": "1iriauD9K7Lr7_UP7sSM6QI",
+      "item": 3,
+      "text": "",
+      "url": "https://ftp.mcs.anl.gov/pub/tech_reports/reports/P228.pdf"
+    },
+    {
+      "id": "1JrhasXWNdXp7_UPzdHCCA",
+      "item": 21,
+      "text": "",
+      "url": "https://icho2020.tubitak.gov.tr/storage/catalyzers/catalyzer_NJdC5h_CATALYZER-8.pdf"
+    },
+    {
+      "id": "2lvkaqizNo-4i-gPivyvwA0",
+      "item": 1,
+      "text": "",
+      "url": "https://datasheets.tdx.henkel.com/PRITT-Glue-Stick-en_CA.pdf"
+    },
+    {
+      "id": "2lvkaqizNo-4i-gPivyvwA0",
+      "item": 1,
+      "text": "",
+      "url": "https://www.officestationery.co.uk/documents/COSHH/HK22352.pdf"
+    },
+    {
       "id": "3ljkaomTK8-B9u8P6YeJ-AI",
       "item": 3,
       "text": "",
       "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/MONO/nistmonograph155e1999.pdf"
     },
     {
+      "id": "6sDiav3iHv3_7_UP5byyiQo",
+      "item": 3,
+      "text": "",
+      "url": "https://math.nyu.edu/inmemoriam/donev/Teaching/WrittenOral/Projects/XintianHan-WrittenAndOral.pdf"
+    },
+    {
+      "id": "6sDiav3iHv3_7_UP5byyiQo",
+      "item": 3,
+      "text": "",
+      "url": "https://math.nyu.edu/inmemoriam/donev/Teaching/WrittenOral/Projects/XintianHan-WrittenAndOral.pdf"
+    },
+    {
+      "id": "6sDiav3iHv3_7_UP5byyiQo",
+      "item": 3,
+      "text": "",
+      "url": "https://math.nyu.edu/inmemoriam/donev/Teaching/WrittenOral/Projects/XintianHan-WrittenAndOral.pdf"
+    },
+    {
       "id": "83vgatfpLK_pi-gP6sGziAw",
       "item": 11,
       "text": "Context Formalization\nJSON",
       "url": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6NGVmNmY5ZGRlMjYwM2FjMjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlY2ZlN2VkZDI1ZhACGAEiEGFwcGxpY2F0aW9uL2pzb24qGmNvbnRleHRfZm9ybWFsaXphdGlvbi5qc29u"
+    },
+    {
+      "id": "9B3haqWTMuqM9u8P1LDF4AM",
+      "item": 3,
+      "text": "",
+      "url": "https://www.quinnemanuel.com/media/jzabjiyz/client-alert-margin-call-disputes-key-issues-for-investors-under-english-law.pdf"
+    },
+    {
+      "id": "b1Hjao3tOPSsi-gPjL7p-AI",
+      "item": 3,
+      "text": "",
+      "url": "http://137.189.43.137:8080/Publications/Melamine%20waste%20Curr%20Nutr%20Food%20Sci%202014.pdf"
+    },
+    {
+      "id": "c-rhaqzBAey9i-gPitvv8As",
+      "item": 3,
+      "text": "",
+      "url": "https://web.stanford.edu/class/archive/cs/cs107/cs107.1216/lectures/03/Lecture03.pdf"
     },
     {
       "id": "cUzgaoj6O4f0i-gPnpbw-Qs",
@@ -46,10 +155,172 @@
       "url": "https://www.ifri.org/sites/default/files/2025-01/ifri_fayet_peria-peigne_deep_precision_strikes_2024.pdf"
     },
     {
+      "id": "en7japLUDdS-i-gPyqqamQ8",
+      "item": 9,
+      "text": "",
+      "url": "https://mei.edu/wp-content/uploads/2026/08/The-Army-of-Kurdistan-Peshmerga.pdf"
+    },
+    {
+      "id": "en7japLUDdS-i-gPyqqamQ8",
+      "item": 9,
+      "text": "",
+      "url": "https://geneva-academy.ch/wp-content/uploads/2025/09/Iraq-Any-Hope-for-Change.pdf"
+    },
+    {
+      "id": "en7japLUDdS-i-gPyqqamQ8",
+      "item": 9,
+      "text": "",
+      "url": "https://geneva-academy.ch/wp-content/uploads/2025/09/Iraq-Any-Hope-for-Change.pdf"
+    },
+    {
+      "id": "eV7kauWxEKXp7_UPk87JgQE",
+      "item": 1,
+      "text": "",
+      "url": "https://3dvar.com/Antonelli2012Speeding.pdf"
+    },
+    {
+      "id": "eV7kauWxEKXp7_UPk87JgQE",
+      "item": 1,
+      "text": "",
+      "url": "https://eprints.soton.ac.uk/443719/1/soft_polar_twocol.pdf"
+    },
+    {
+      "id": "eV7kauWxEKXp7_UPk87JgQE",
+      "item": 5,
+      "text": "Tom Klootwijk Architecture\nMD",
+      "url": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6NjEyM2VkOTQzOWY0M2VjYzowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVmMGIyYTMwODRjZhACGAEiDXRleHQvbWFya2Rvd24qHVRvbV9LbG9vdHdpamtfQXJjaGl0ZWN0dXJlLm1k"
+    },
+    {
+      "id": "EZPhas6MO4CE9u8PgYLmGA",
+      "item": 3,
+      "text": "",
+      "url": "https://enflomaplata.uep.edu.py/sites/TdNoJS/701228/The%20White%20Sniper%20Simo%20Hayha.pdf"
+    },
+    {
+      "id": "fd7iavrjNcuLi-gPjqWd8Qk",
+      "item": 5,
+      "text": "Formalisatie Model Klootwijk\nMD",
+      "url": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6OGQ1OTM5M2Y2YjU1ZDZmZTowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlZjQ0NmU5NTI2ZhACGAEiDXRleHQvbWFya2Rvd24qH2Zvcm1hbGlzYXRpZV9tb2RlbF9rbG9vdHdpamsubWQ="
+    },
+    {
       "id": "iErgarukH7Kwi-gPo4zOwQE",
       "item": 1,
       "text": "Astar Manhattan Heuristic Analysis\nPDF",
       "url": "https://lens.usercontent.google.com/banana?agsi=CqwBL2Zvb3RwcmludHMtcHJvZC1zZWFyY2gtbXVsdGltb2RhbC11c2VyLXVwbG9hZHMtZXBoZW1lcmFsLWdhaWEtY2xvbmUvZ2xvYmFsOjowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMTY3OjE6OGU1ZjY3NGU2ZGU5Yjg3ODowMDAwNTVjZmVjNzAwMjZkOjAwMDAwMzIxZGUzMDMzNjg6MDAwNjVlY2NlOWEzOTRjZhACGAEiD2FwcGxpY2F0aW9uL3BkZiomYXN0YXJfbWFuaGF0dGFuX2hldXJpc3RpY19hbmFseXNpcy5wZGY="
+    },
+    {
+      "id": "Lmnjat6RKo-H9u8PofbnuQ4",
+      "item": 19,
+      "text": "Youth Health Care (JGZ)",
+      "url": "https://eusuhm.org/media/nl_preventive_child_youth_healthcare.pdf"
+    },
+    {
+      "id": "Lmnjat6RKo-H9u8PofbnuQ4",
+      "item": 19,
+      "text": "",
+      "url": "https://eusuhm.org/media/nl_preventive_child_youth_healthcare.pdf"
+    },
+    {
+      "id": "Lmnjat6RKo-H9u8PofbnuQ4",
+      "item": 21,
+      "text": "",
+      "url": "https://www.emro.who.int/images/stories/nutrition/Child-growth-monitoring-a-technical-guide.pdf"
+    },
+    {
+      "id": "Lmnjat6RKo-H9u8PofbnuQ4",
+      "item": 23,
+      "text": "",
+      "url": "https://kennisoverzien.nl/sites/default/files/2023-06/Onderzoek%20bifocale%20bril_0.pdf"
+    },
+    {
+      "id": "Lmnjat6RKo-H9u8PofbnuQ4",
+      "item": 23,
+      "text": "",
+      "url": "https://childrenshealthwatch.org/wp-content/uploads/590.full-1.pdf"
+    },
+    {
+      "id": "Lmnjat6RKo-H9u8PofbnuQ4",
+      "item": 23,
+      "text": "",
+      "url": "https://kennisoverzien.nl/sites/default/files/2023-06/Onderzoek%20bifocale%20bril_0.pdf"
+    },
+    {
+      "id": "Oj3iav2bA770i-gPlsaxcA",
+      "item": 5,
+      "text": "",
+      "url": "https://www.state.gov/wp-content/uploads/2022/07/Forced-Labor-The-Hidden-Cost-of-Chinas-Belt-and-Road-Initiative.pdf"
+    },
+    {
+      "id": "Oj3iav2bA770i-gPlsaxcA",
+      "item": 5,
+      "text": "U.S. Department of Labor",
+      "url": "https://www.dol.gov/sites/dolgov/files/ILAB/BRI-SupplyChain-508.pdf"
+    },
+    {
+      "id": "Oj3iav2bA770i-gPlsaxcA",
+      "item": 5,
+      "text": "",
+      "url": "https://www.dol.gov/sites/dolgov/files/ILAB/BRI-SupplyChain-508.pdf"
+    },
+    {
+      "id": "Oj3iav2bA770i-gPlsaxcA",
+      "item": 11,
+      "text": "",
+      "url": "https://core.ac.uk/download/86422876.pdf"
+    },
+    {
+      "id": "qErkasjxB7yH9u8PjLfEkQk",
+      "item": 1,
+      "text": "",
+      "url": "https://cdn.savemyexams.com/pdfs/4TkZ68WQ19l~FOBj.pdf"
+    },
+    {
+      "id": "qErkasjxB7yH9u8PjLfEkQk",
+      "item": 1,
+      "text": "",
+      "url": "https://www.wageningse-methode.nl/m/2015_6V%20wiskunde%20B/H00.%20Boeken/baanversnelling.pdf"
+    },
+    {
+      "id": "qErkasjxB7yH9u8PjLfEkQk",
+      "item": 1,
+      "text": "",
+      "url": "https://madasmaths.com/archive/maths_booklets/mechanics/m1_m2_kinematics_using_calculus.pdf"
+    },
+    {
+      "id": "qErkasjxB7yH9u8PjLfEkQk",
+      "item": 1,
+      "text": "",
+      "url": "https://cdn.savemyexams.com/pdfs/4TkZ68WQ19l~FOBj.pdf"
+    },
+    {
+      "id": "qErkasjxB7yH9u8PjLfEkQk",
+      "item": 1,
+      "text": "",
+      "url": "https://cdn.savemyexams.com/pdfs/4TkZ68WQ19l~FOBj.pdf"
+    },
+    {
+      "id": "qkrkaurCFuGOi-gPraKegAc",
+      "item": 1,
+      "text": "",
+      "url": "https://www.wageningse-methode.nl/m/2015_6V%20wiskunde%20B/H00.%20Boeken/baanversnelling.pdf"
+    },
+    {
+      "id": "qkrkaurCFuGOi-gPraKegAc",
+      "item": 1,
+      "text": "",
+      "url": "https://www.wageningse-methode.nl/m/2015_6V%20wiskunde%20B/H00.%20Boeken/baanversnelling.pdf"
+    },
+    {
+      "id": "R0vjasCjOMGBi-gP79zugAE",
+      "item": 3,
+      "text": "",
+      "url": "https://researchonline.lshtm.ac.uk/id/eprint/13073/1/nejme048306.pdf"
+    },
+    {
+      "id": "rhvkaqSSA-qsi-gPnP_28AQ",
+      "item": 1,
+      "text": "",
+      "url": "https://research.rug.nl/files/992762963/Toward_Automatic_Stomach_Screening_Using_a_Wireless_Magnetically_Actuated_Capsule_Endoscope.pdf"
     },
     {
       "id": "tab-1037286337",
@@ -76,19 +347,148 @@
       "url": "https://www.trngcmd.marines.mil/Portals/207/Docs/TBS/RADIO%20COMMUNICATIONS%20VHF%20and%20UHF.pdf"
     },
     {
+      "id": "u1ngaqXJPOSb-d8PgcrS-Q4",
+      "item": 3,
+      "text": "",
+      "url": "https://kar.kent.ac.uk/109630/1/162yichao_thesis_final.pdf"
+    },
+    {
+      "id": "uhHhatPQBY7m7_UP0rOjwA4",
+      "item": 35,
+      "text": "",
+      "url": "https://thesis.eur.nl/pub/43147/Bothmer-L.E.-410351-.pdf"
+    },
+    {
+      "id": "uhHhatPQBY7m7_UP0rOjwA4",
+      "item": 35,
+      "text": "",
+      "url": "https://corpgov.law.harvard.edu/wp-content/uploads/2023/04/WLRK.28326.23.pdf"
+    },
+    {
       "id": "vSnkau9frMOL6A-6nuaJCA",
       "item": 1,
       "text": "",
       "url": "https://research-repository.rmit.edu.au/articles/thesis/Non-invasive_Bioelectronic_Devices_for_Diabetes_Management/27191247/1/files/49682571.pdf"
+    },
+    {
+      "id": "ZKPgar37KcKA9u8P86C9kAo",
+      "item": 1,
+      "text": "",
+      "url": "https://pure.uva.nl/ws/files/354496054/WorkshopReport.pdf"
+    },
+    {
+      "id": "ZKPgar37KcKA9u8P86C9kAo",
+      "item": 1,
+      "text": "",
+      "url": "https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/hendriksen-2025-benchmark.pdf"
+    },
+    {
+      "id": "ZKPgar37KcKA9u8P86C9kAo",
+      "item": 1,
+      "text": "",
+      "url": "https://pure.uva.nl/ws/files/354496054/WorkshopReport.pdf"
+    },
+    {
+      "id": "ZKPgar37KcKA9u8P86C9kAo",
+      "item": 1,
+      "text": "",
+      "url": "https://pure.uva.nl/ws/files/354496054/WorkshopReport.pdf"
+    },
+    {
+      "id": "ZKPgar37KcKA9u8P86C9kAo",
+      "item": 5,
+      "text": "",
+      "url": "https://uva-computer-vision-lab.github.io/LabelAny3D/LabelAny3D_webpage.pdf"
+    },
+    {
+      "id": "_KbkauuiB4m29u8PjsGimQo",
+      "item": 33,
+      "text": "",
+      "url": "https://ia801504.us.archive.org/13/items/in.ernet.dli.2015.53913/2015.53913.Man-And-Technics-1932.pdf"
+    },
+    {
+      "id": "_KbkauuiB4m29u8PjsGimQo",
+      "item": 35,
+      "text": "",
+      "url": "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/seitz/www/papers/kutu-ijcv00.pdf"
+    },
+    {
+      "id": "_KbkauuiB4m29u8PjsGimQo",
+      "item": 43,
+      "text": "",
+      "url": "https://tarlis.com.br/utfpr/org-comp/materiais/Livro%20-%20Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf"
+    },
+    {
+      "id": "_KbkauuiB4m29u8PjsGimQo",
+      "item": 43,
+      "text": "",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2042055_code362395.pdf?abstractid=2042055&mirid=1"
     }
   ],
   "widgets": [
+    {
+      "id": "2lvkaqizNo-4i-gPivyvwA0",
+      "item": 1,
+      "canvases": 0,
+      "iframes": [
+        "https://4h97jdfx6c57bi6rvrt3gvx4c4d8zmefzvpd5z7en9svznp5zk-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
     {
       "id": "3ljkaomTK8-B9u8P6YeJ-AI",
       "item": 3,
       "canvases": 0,
       "iframes": [
         "https://1jzr43n9ortf3tza8s7mfvpltdt3btw9oth1jz69hd7k00d98i-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "5MLgauSQEI6N9u8Pt9710Qg",
+      "item": 15,
+      "canvases": 0,
+      "iframes": [
+        "https://3laqxciubyuk1mords6nn98cbjkvavzxk0j31uyuuigzigys0x-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "8-ziaoTwBIjGi-gPxLXD0AI",
+      "item": 1,
+      "canvases": 0,
+      "iframes": [
+        "https://0i99wd51fs2l878bugy2widm33d82yu6ai8ykqfjob1ohgdh18-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "8-ziaoTwBIjGi-gPxLXD0AI",
+      "item": 5,
+      "canvases": 0,
+      "iframes": [
+        "https://60zm7ic68o9a5saqsmdim6baiqgjm42im4gmrli2lz1japsqqt-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "8-ziaoTwBIjGi-gPxLXD0AI",
+      "item": 17,
+      "canvases": 0,
+      "iframes": [
+        "https://0u1vhempd5rzmum2dwu6lik34pc8o9f52rrv9sdv2nkfajbetw-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "https://142vl5zohdwngfx9gv4bfzeppxuwh6iflhu1t6wbatt9j8krrr-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "8-ziaoTwBIjGi-gPxLXD0AI",
+      "item": 19,
+      "canvases": 0,
+      "iframes": [
+        "https://142vl5zohdwngfx9gv4bfzeppxuwh6iflhu1t6wbatt9j8krrr-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "8-ziaoTwBIjGi-gPxLXD0AI",
+      "item": 21,
+      "canvases": 0,
+      "iframes": [
+        "https://142vl5zohdwngfx9gv4bfzeppxuwh6iflhu1t6wbatt9j8krrr-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
       ]
     },
     {
@@ -100,11 +500,67 @@
       ]
     },
     {
+      "id": "c-rhaqzBAey9i-gPitvv8As",
+      "item": 13,
+      "canvases": 0,
+      "iframes": [
+        "https://1djq2tbeqxewtm623apbb9d21hdvg35xk1k340qvtf6rp8z73d-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
       "id": "dSbkaqKSH--L9u8P1bzm2Qc",
       "item": 1,
       "canvases": 0,
       "iframes": [
         "https://4xse4101mpzi7covscqhnahe0rnpo41wm5vplb82lkp0jiguky-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "eV7kauWxEKXp7_UPk87JgQE",
+      "item": 5,
+      "canvases": 0,
+      "iframes": [
+        "https://3klgh7ebglt366olrlclj6l7d0la634pzuay2nri7lprxov1ww-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "gaThaujXPLn97_UP_cnx-Ao",
+      "item": 23,
+      "canvases": 0,
+      "iframes": [
+        "https://2wr9zaiha4tpa9odz6gmuf0wgzppgful1023ssxe0dl0lsrxro-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "gaThaujXPLn97_UP_cnx-Ao",
+      "item": 25,
+      "canvases": 0,
+      "iframes": [
+        "https://1kgs4o3vmbuspxrmd9km9iu0p9jc1wtq288jlnittth935xax2-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "gaThaujXPLn97_UP_cnx-Ao",
+      "item": 27,
+      "canvases": 0,
+      "iframes": [
+        "https://0k07mxwdafoe3fdx5bet871w5gmx7do2010gkg2x8fbox5evds-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "h2_haq3HCsXGi-gPupb30Ao",
+      "item": 9,
+      "canvases": 0,
+      "iframes": [
+        "https://5ndc5mt18qp1c0l4f7le0znp8r4vfjzgl6d6tdacg0ti3wc56a-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "h2_haq3HCsXGi-gPupb30Ao",
+      "item": 11,
+      "canvases": 0,
+      "iframes": [
+        "https://2udgu57rpjm0dffqkbiskpz96q9t2h99pe8l990eecy6onjk94-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
       ]
     },
     {
@@ -130,9 +586,150 @@
       "iframes": [
         "https://1fzzozvif8iv5ohvl3mj5h76jcchkp1izta9nisfpdeuotcua4-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
       ]
+    },
+    {
+      "id": "k3zkat_AObKD9u8Pru3GCA",
+      "item": 3,
+      "canvases": 0,
+      "iframes": [
+        "https://142vl5zohdwngfx9gv4bfzeppxuwh6iflhu1t6wbatt9j8krrr-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "k3zkat_AObKD9u8Pru3GCA",
+      "item": 5,
+      "canvases": 0,
+      "iframes": [
+        "https://142vl5zohdwngfx9gv4bfzeppxuwh6iflhu1t6wbatt9j8krrr-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "LDLiauKtOojKi-gP4b24wAY",
+      "item": 3,
+      "canvases": 0,
+      "iframes": [
+        "https://3faloux0cvocjxl4f0pnf4skuwt86dn9xfkaoseps8e8ivc6no-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "LDLiauKtOojKi-gP4b24wAY",
+      "item": 5,
+      "canvases": 0,
+      "iframes": [
+        "https://53fn1upleforeqwdkih9qn0089fhx627ollzfc8fsy7shbahwb-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "LDLiauKtOojKi-gP4b24wAY",
+      "item": 9,
+      "canvases": 0,
+      "iframes": [
+        "https://11kxtp9dv0jop90kqx1r9taq12jg305zv1t2s6zgguq91i0evr-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "LDLiauKtOojKi-gP4b24wAY",
+      "item": 11,
+      "canvases": 0,
+      "iframes": [
+        "https://2h45soz3xnaq88y29madrks64sjb36g5gydlucrv3wob1tid7o-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "LDLiauKtOojKi-gP4b24wAY",
+      "item": 13,
+      "canvases": 0,
+      "iframes": [
+        "https://2vjbn5pyr8snp4j20wh292p7xwhp6kgktialr6jy2phcebh7cg-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "OYXkao-DH5uBi-gP5J3HsQM",
+      "item": 3,
+      "canvases": 0,
+      "iframes": [
+        "https://142vl5zohdwngfx9gv4bfzeppxuwh6iflhu1t6wbatt9j8krrr-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "OYXkao-DH5uBi-gP5J3HsQM",
+      "item": 5,
+      "canvases": 0,
+      "iframes": [
+        "https://24fz384rvje6qkcm6sc5psx2ee4ywj548xl5uh0tia68u74epr-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "OYXkao-DH5uBi-gP5J3HsQM",
+      "item": 7,
+      "canvases": 0,
+      "iframes": [
+        "https://0603xn67pee1te123bk25aj1rk4efeq5mcol8otf7a67bk2v9l-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "qkrkaurCFuGOi-gPraKegAc",
+      "item": 1,
+      "canvases": 0,
+      "iframes": [
+        "https://413ssp2urs6ekw2w7rowfouciixcqvx8g5f35do5w5dl2ug5a5-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "uhHhatPQBY7m7_UP0rOjwA4",
+      "item": 13,
+      "canvases": 0,
+      "iframes": [
+        "https://6cbk182kj5xbed52m4z2zvxr4832ywtqidwev07qjano94muux-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "uhHhatPQBY7m7_UP0rOjwA4",
+      "item": 15,
+      "canvases": 0,
+      "iframes": [
+        "https://0r2ut0pxcglvqz21ho1oe8dsq3xsyk30x17q5v3bdpirs1j0q6-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "uhHhatPQBY7m7_UP0rOjwA4",
+      "item": 17,
+      "canvases": 0,
+      "iframes": [
+        "https://54sjv6z0k30pycrl2yohudg0u2vy49qqenw0xq0o96dlon1tol-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "https://142vl5zohdwngfx9gv4bfzeppxuwh6iflhu1t6wbatt9j8krrr-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "id": "uhHhatPQBY7m7_UP0rOjwA4",
+      "item": 19,
+      "canvases": 0,
+      "iframes": [
+        "https://1tzuyoathdo1sgafvdfqf7vaj5218be7twuirr9tem5kd3dqtt-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
     }
   ],
   "sourceErrors": [
+    {
+      "id": "1iriauD9K7Lr7_UP7sSM6QI",
+      "item": 17,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+    },
+    {
+      "id": "abziapGtMN6vi-gP-p_J8AM",
+      "item": 9,
+      "text": "It looks like there's no response available for this search. Try asking something else."
+    },
+    {
+      "id": "b1Hjao3tOPSsi-gPjL7p-AI",
+      "item": 9,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+    },
+    {
+      "id": "BMPiarmWKLXZwPAPvarDwQY",
+      "item": 9,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
+    },
     {
       "id": "Fm7gaqTCBOqL9u8PgrDNwAY",
       "item": 3,
@@ -164,303 +761,25 @@
       "text": "Something went wrong and an AI response wasn't generated."
     },
     {
-      "id": "OFngas-KA8yui-gPp_zp4Ak",
-      "item": 3,
-      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more\nYour next question will start a new search."
-    }
-  ],
-  "missing": [
-    {
-      "id": "u1ngaqXJPOSb-d8PgcrS-Q4",
-      "title": "Online Subculture Name"
-    },
-    {
-      "id": "ZKPgar37KcKA9u8P86C9kAo",
-      "title": "UVA Tech Project Data"
-    },
-    {
-      "id": "GKfgar6mJuf-7_UPysn3iAY",
-      "title": "Baby Alive Toy Guide"
-    },
-    {
-      "id": "s67gasb0EsHpi-gP5fGTgQk",
-      "title": "Tesla Total Recall"
-    },
-    {
-      "id": "5MLgauSQEI6N9u8Pt9710Qg",
-      "title": "Just In Time Deployment Pipelines"
-    },
-    {
-      "id": "Vr3gar7sCa3Ii-gP_v3j8Qk",
-      "title": "Telephreaking Operations Exploration"
-    },
-    {
-      "id": "R_3gav6ELdiJ9u8PqMTRqQY",
-      "title": "Cannon Fodder Definition"
-    },
-    {
-      "id": "Qvzgar_zLpLvi-gP8MSH6Q0",
-      "title": "FIFO Queue Concept"
-    },
-    {
-      "id": "6AbhaoTMDLTg7_UP4tDm-Qc",
-      "title": "Sensi Seeds Damstraat Royal Queen"
-    },
-    {
-      "id": "7A3hapPVAdaT9u8PxOHf4Ac",
-      "title": "Secret Intelligence Service Meaning"
-    },
-    {
-      "id": "lg7haoOJDvr1i-gPpPm9wAk",
-      "title": "CIA Recruitment Analyst"
-    },
-    {
-      "id": "uhHhatPQBY7m7_UP0rOjwA4",
-      "title": "Elon Musk Assets Liquidity"
-    },
-    {
-      "id": "9B3haqWTMuqM9u8P1LDF4AM",
-      "title": "Stocks After Market Wipeout"
-    },
-    {
-      "id": "XivharG0Atbi7_UP2ajomQo",
-      "title": "Larynx Subliminal Control Systems"
-    },
-    {
-      "id": "nmrhauHXCcC7i-gP8r6e6As",
-      "title": "Corki Urfrider Skin"
-    },
-    {
-      "id": "h2_haq3HCsXGi-gPupb30Ao",
-      "title": "City 17 Facehugger Sensorimotor Loss"
-    },
-    {
-      "id": "43LhapTaDuSC9u8P-Jn0kAw",
-      "title": "Pair Programming Criticisms"
-    },
-    {
-      "id": "ooLhatDCLbrRi-gPqqKn0Ak",
-      "title": "Chronospatial Augmented Reality Cloud Anchors"
-    },
-    {
-      "id": "EZPhas6MO4CE9u8PgYLmGA",
-      "title": "Simo Häyhä Sniper Tactics"
-    },
-    {
-      "id": "1JrhasXWNdXp7_UPzdHCCA",
-      "title": "Bird Whistle"
-    },
-    {
-      "id": "gaThaujXPLn97_UP_cnx-Ao",
-      "title": "Klootwijk Flood van der Merwede"
-    },
-    {
-      "id": "eLrhat-bJ86ui-gP0prWkQQ",
-      "title": "Ragnarok Online Lutie Guide"
-    },
-    {
-      "id": "7MDhasL6BsvBi-gPxM2_4QE",
-      "title": "Wrong Chemical Aerosol Impacts"
-    },
-    {
-      "id": "ScLhapnFNc3xi-gPjd-_2AQ",
-      "title": "Blauwdrukken in het Nederlands"
-    },
-    {
-      "id": "c-rhaqzBAey9i-gPitvv8As",
-      "title": "Personal Data Registration Details"
-    },
-    {
-      "id": "FgHiasyjLYKP9u8Pu5n0EQ",
-      "title": "EU Data Privacy Concerns"
-    },
-    {
-      "id": "_Q3iao2jHp-D9u8P8d3n8QI",
-      "title": "Gecalibreerde Sensoren"
-    },
-    {
-      "id": "WBviav3hOKuG9u8P7q2V6Ak",
-      "title": "Genetic Rewrites and Algorithms"
-    },
-    {
-      "id": "1iriauD9K7Lr7_UP7sSM6QI",
-      "title": "Hypermobiel Minimalisme"
-    },
-    {
       "id": "LDLiauKtOojKi-gP4b24wAY",
-      "title": "Jetten Gin E"
-    },
-    {
-      "id": "rz_iaoPhDeeO9u8P69PfmQ8",
-      "title": "Dier Inhumaan Leven Beëindigen"
-    },
-    {
-      "id": "Oj3iav2bA770i-gPlsaxcA",
-      "title": "Middle East Oil Reserves"
-    },
-    {
-      "id": "abziapGtMN6vi-gP-p_J8AM",
-      "title": "Scale and Hamstringing Initiative"
-    },
-    {
-      "id": "6sDiav3iHv3_7_UP5byyiQo",
-      "title": "RL and L Complexity"
-    },
-    {
-      "id": "BMPiarmWKLXZwPAPvarDwQY",
-      "title": "Policy Proposal Review"
-    },
-    {
-      "id": "N8XiarGoEpyG9u8P-bmgAQ",
-      "title": "Autopoietic vs Automorphic Systems"
-    },
-    {
-      "id": "ssjiaumJDsm2i-gPnsOUwA8",
-      "title": "Google AI Mode"
-    },
-    {
-      "id": "0cjiaumyE66Ri-gPmcjZ2QU",
-      "title": "Google AI Mode"
-    },
-    {
-      "id": "RLLiavaXJ666i-gPu_mrgAY",
-      "title": "Kardashev Scale Progress 7 Years"
-    },
-    {
-      "id": "o8viarDmHLeqi-gPxevc-Qk",
-      "title": "my openAI chatGPT codex files and chat logs are they stored in the EU or USA"
-    },
-    {
-      "id": "EtDiavOuMfrz-d8Pup7wuAs",
-      "title": "Klaverbladen Psychiatrisch Conceptueel"
-    },
-    {
-      "id": "s9fiaufqApP3i-gPnc-LoAE",
-      "title": "Gaspard Va Au Mariage"
-    },
-    {
-      "id": "fd7iavrjNcuLi-gPjqWd8Qk",
-      "title": "Ondergrondse Piramide Infrastructuur"
-    },
-    {
-      "id": "v-TiarqRN-3p7_UP4oi2OA",
-      "title": "Enno De Tombe D66 Gemeenteraad"
-    },
-    {
-      "id": "8-ziaoTwBIjGi-gPxLXD0AI",
-      "title": "Pantheon Halve Cirkel Boog"
-    },
-    {
-      "id": "wvTias2wAYqI9u8Pncv_yAs",
-      "title": "Bitcoin Mining Process"
-    },
-    {
-      "id": "3P_iarWVDYqP9u8P5pXtyQQ",
-      "title": "Ethereum Hash Difficulty Mining"
-    },
-    {
-      "id": "TAjjasaPD9v_7_UPtuCFkAM",
-      "title": "MetaMask Ethereum Classic Setup"
-    },
-    {
-      "id": "R0vjasCjOMGBi-gP79zugAE",
-      "title": "Sterfte Kinderen Afrika Per Seconde"
-    },
-    {
-      "id": "_1Djaq2xCqOgi-gP04HOiQ8",
-      "title": "E Nummers Amerikaanse Skittles"
-    },
-    {
-      "id": "GVHjauXHOKzti-gPuYOwyQo",
-      "title": "Nutrilon Baby Formula Supply Chain"
-    },
-    {
-      "id": "b1Hjao3tOPSsi-gPjL7p-AI",
-      "title": "Melamine Properties and Uses"
-    },
-    {
-      "id": "RVjjapSpDryL9u8P98GeiA8",
-      "title": "Biologisch vs Onbespoten Groenten"
-    },
-    {
-      "id": "-m7jaouME7j0i-gPhL2LwQs",
-      "title": "Nestle Water Wells Bottling"
-    },
-    {
-      "id": "33Ljaq7yC9_ui-gPxtDE2QE",
-      "title": "Poolse Vrouwen En Nazi Groepen"
+      "item": 15,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more"
     },
     {
       "id": "Lmnjat6RKo-H9u8PofbnuQ4",
-      "title": "Cow Production Cycle and Location"
+      "item": 51,
+      "text": "It looks like there's no response available for this search. Try asking something else."
     },
     {
-      "id": "z3vjarK-L6WH9u8PgsbCoQo",
-      "title": "Gematigde Turkse Moslims"
+      "id": "OFngas-KA8yui-gPp_zp4Ak",
+      "item": 3,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nAI responses may include mistakes. Learn more\nYour next question will start a new search."
     },
     {
-      "id": "en7japLUDdS-i-gPyqqamQ8",
-      "title": "ISIS Nasheeds"
-    },
-    {
-      "id": "nITjaun4Nuzg7_UPj9bZsAo",
-      "title": "Traditioneel Midden-Oosten Dieet"
-    },
-    {
-      "id": "rhvkaqSSA-qsi-gPnP_28AQ",
-      "title": "Gastroscopie Met Fotonica Spycam"
-    },
-    {
-      "id": "rx_kavOmMIeL9u8Pq6q4QQ",
-      "title": "Predatory Behavior in Africa"
-    },
-    {
-      "id": "1CfkapiwEujOi-gPve_noAU",
-      "title": "Giftige Slang Den Treek"
-    },
-    {
-      "id": "cSrkatSRNumP9u8P97DY2Qk",
-      "title": "Boons and Charms"
-    },
-    {
-      "id": "aD_kav3qGuPg7_UPn_rE8A4",
-      "title": "Andere Tijden TV Programma"
-    },
-    {
-      "id": "4Enkaoy4GJSO9u8PjtLwuQM",
-      "title": "Action Man Poppen Speelgoed"
-    },
-    {
-      "id": "qErkasjxB7yH9u8PjLfEkQk",
-      "title": "Bananenboot Kinematica Calculus Formule"
-    },
-    {
-      "id": "KE3kauuVJKb97_UP_vaoUQ",
-      "title": "Banaanboot Kinematica Berekeningen"
-    },
-    {
-      "id": "qkrkaurCFuGOi-gPraKegAc",
-      "title": "Baananalyse Wiskunde B Kinematica"
-    },
-    {
-      "id": "GVDkasbeNbX-7_UP36SO2Qw",
-      "title": "Tangent Arc Fresnel"
-    },
-    {
-      "id": "RVPkapTBO9f_7_UPvtrQkAs",
-      "title": "Inverse Logarithmic Fresnel Lenses"
-    },
-    {
-      "id": "ZlrkavPhDvCL9u8P7r24SQ",
-      "title": "Dreidel 3 Uit Krommenie"
-    },
-    {
-      "id": "2lvkaqizNo-4i-gPivyvwA0",
-      "title": "Pritt Stift Hechting Polymeer"
-    },
-    {
-      "id": "eV7kauWxEKXp7_UPk87JgQE",
-      "title": "Codex Build Process"
+      "id": "P8zfarGrL5GJ9u8PyaHcgQs",
+      "item": 1,
+      "text": "It looks like there's no response available for this search. Try asking something else.\nYour next question will start a new search."
     }
-  ]
+  ],
+  "missing": []
 }

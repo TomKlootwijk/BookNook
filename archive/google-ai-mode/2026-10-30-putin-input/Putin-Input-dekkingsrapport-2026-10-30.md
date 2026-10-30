@@ -1,153 +1,180 @@
-# Putin Input - voorlopig dekkingsrapport
+# Putin Input - dekkingsrapport
 
-30 oktober 2026. **Onvolledige tussenversie.**
+30 oktober 2026. **Transcripties vastgelegd; media nog onvolledig.**
 
-34 van 107 ontdekte nieuwe Google AI Mode-gesprekken zijn vastgelegd: 181 prompts en 181 antwoordblokken. De eigen voorlopige PDF telt 288 pagina’s en 36 bladwijzers. Het oude cumulatieve archief en KOLJA zijn ongewijzigd.
+111 nieuwe gesprekken en één nieuwe vraag met antwoord uit een eerder KOLJA-gesprek: 726 prompts en 726 antwoordblokken. De aparte PDF telt 728 pagina's.
 
-De browserverbinding bleef uitvallen tijdens het uitlezen. Er zijn nog 73 nieuwe gesprekken te verwerken en vier eerder geëxporteerde gesprekken te vergelijken op nieuwe antwoorden. Er is nog geen notebook Putin Input aangemaakt of bron naar NotebookLM geüpload.
+Alle 111 ontdekte nieuwe gesprekken zijn vastgelegd. Vier eerdere gesprekken zijn opnieuw uitgelezen en vergeleken. Boosting bevat één extra vraag met antwoord; die staat als aanvulling in deze collectie. De vier volledige huidige versies staan in `revisited/`. Het oude archief en KOLJA zijn ongewijzigd.
 
-## Media en bronkwaliteit
+## Media en beschikbaarheid
 
-489 formules en 347 beeldvermeldingen zijn omgezet; de beeldvermeldingen bevatten ook bronpictogrammen en één afzonderlijke grafiek. Zes interactieve diagrammen, één referentieafbeelding en twee gegenereerde bijlagen zijn nog niet volledig vastgelegd. De ontbrekende media is in de transcripties gemarkeerd. Externe webpagina’s blijven bronverwijzingen.
+Nog open: 35 ingebedde interactieve diagrammen, 2 referentieafbeeldingen en 4 gegenereerde bijlagen. Twee antwoordblokken worden bij Google zelf leeg weergegeven; 14 oorspronkelijke Google-foutmeldingen zijn behouden.
 
-Zeven oorspronkelijke Google-foutmeldingen zijn behouden. De inhoud is studiebronmateriaal en is niet onafhankelijk geverifieerd. De formulering van de vastgelegde vragen en antwoorden is behouden.
+Google toont sommige diagramgebieden leeg. De originele frame-adressen blijven in de ruwe transcripties behouden. Chrome blokkeert de downloadhost voor gegenereerde bijlagen met ERR_BLOCKED_BY_CLIENT. NotebookLM verwijst naar location=unsupported; er is geen notebook aangemaakt en niets geüpload.
 
-## Vastgelegde gesprekken
+De transcripties zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole. Formules, oorspronkelijke formuleringen, codeblokken en beschikbare bronlinks zijn behouden. Externe webpagina’s en onderzoeksartikelen blijven verwijzingen.
+
+## Gesprekken
 
 | Nr. | Gesprek | Prompts | Antwoordblokken | PDF-pagina |
 |---:|---|---:|---:|---:|
-| 1 | Custom Hardware Automation Project | 1 | 1 | 7 |
-| 2 | A* Search Heuristic | 2 | 2 | 9 |
-| 3 | PCB Routing Pathfinding Constraints | 2 | 2 | 11 |
-| 4 | Everything a Triangle? | 5 | 5 | 15 |
-| 5 | Limewire Scares and Files | 2 | 2 | 21 |
-| 7 | Evil Emblem Representation | 7 | 7 | 23 |
-| 8 | Swastika History Nazi Symbol | 1 | 1 | 26 |
-| 9 | Swastika Symbol History | 9 | 9 | 27 |
-| 10 | Jos Brinks Transport | 6 | 6 | 39 |
-| 11 | Ghost Master Game | 10 | 10 | 44 |
-| 12 | Ghostmaster and the Sims | 3 | 3 | 56 |
-| 13 | Autoplay Rhythm Game Design | 2 | 2 | 60 |
-| 14 | Ghost Master vs The Sims | 43 | 43 | 64 |
-| 74 | Traitement Femme Versus Homme | 7 | 7 | 157 |
-| 75 | Cicada 3301 Dark Web Mystery | 3 | 3 | 170 |
-| 77 | Otomars Karins and Latvia | 3 | 3 | 175 |
-| 78 | Battlefield Portal Commander Mode Code | 2 | 2 | 178 |
-| 79 | Nike Swoosh Logo History | 2 | 2 | 180 |
-| 80 | Число 035 варианты объектов | 11 | 11 | 183 |
-| 81 | Warhammer 40k HVT Analysis | 2 | 2 | 196 |
-| 83 | Biometric Sugar Patch Telemetry | 2 | 2 | 200 |
-| 85 | Arkin Mentrum Jean Desmetstraat | 8 | 8 | 205 |
-| 86 | Warhammer Poppetjes Maken | 4 | 4 | 215 |
-| 87 | Battlefield 2 Flamethrower Memories | 3 | 3 | 226 |
-| 88 | Vivisectie | 3 | 3 | 228 |
-| 89 | Phileine Boekenlijst Trias | 5 | 5 | 231 |
-| 91 | UFC Freedom 250 Event | 2 | 2 | 234 |
-| 97 | Neurenberg Processen Menschen | 3 | 3 | 236 |
-| 99 | MI5 Job Applications | 2 | 2 | 240 |
-| 100 | NASA Google Earth History | 5 | 5 | 243 |
-| 101 | Log Net Master Data | 2 | 2 | 249 |
-| 105 | Is Lam Termites Nari | 16 | 16 | 252 |
-| 106 | Satelliet Tv en Navigatie | 1 | 1 | 285 |
-| 107 | Macro Keybinds and Linguistic Operating System | 2 | 2 | 287 |
-
-## Nog vast te leggen
-
-- 006. Online Subculture Name
-- 015. UVA Tech Project Data
-- 016. Baby Alive Toy Guide
-- 017. Tesla Total Recall
-- 018. Just In Time Deployment Pipelines
-- 019. Telephreaking Operations Exploration
-- 020. Cannon Fodder Definition
-- 021. FIFO Queue Concept
-- 022. Sensi Seeds Damstraat Royal Queen
-- 023. Secret Intelligence Service Meaning
-- 024. CIA Recruitment Analyst
-- 025. Elon Musk Assets Liquidity
-- 026. Stocks After Market Wipeout
-- 027. Larynx Subliminal Control Systems
-- 028. Corki Urfrider Skin
-- 029. City 17 Facehugger Sensorimotor Loss
-- 030. Pair Programming Criticisms
-- 031. Chronospatial Augmented Reality Cloud Anchors
-- 032. Simo Häyhä Sniper Tactics
-- 033. Bird Whistle
-- 034. Klootwijk Flood van der Merwede
-- 035. Ragnarok Online Lutie Guide
-- 036. Wrong Chemical Aerosol Impacts
-- 037. Blauwdrukken in het Nederlands
-- 038. Personal Data Registration Details
-- 039. EU Data Privacy Concerns
-- 040. Gecalibreerde Sensoren
-- 041. Genetic Rewrites and Algorithms
-- 042. Hypermobiel Minimalisme
-- 043. Jetten Gin E
-- 044. Dier Inhumaan Leven Beëindigen
-- 045. Middle East Oil Reserves
-- 046. Scale and Hamstringing Initiative
-- 047. RL and L Complexity
-- 048. Policy Proposal Review
-- 049. Autopoietic vs Automorphic Systems
-- 050. Google AI Mode
-- 051. Google AI Mode
-- 052. Kardashev Scale Progress 7 Years
-- 053. my openAI chatGPT codex files and chat logs are they stored in the EU or USA
-- 054. Klaverbladen Psychiatrisch Conceptueel
-- 055. Gaspard Va Au Mariage
-- 056. Ondergrondse Piramide Infrastructuur
-- 057. Enno De Tombe D66 Gemeenteraad
-- 058. Pantheon Halve Cirkel Boog
-- 059. Bitcoin Mining Process
-- 060. Ethereum Hash Difficulty Mining
-- 061. MetaMask Ethereum Classic Setup
-- 062. Sterfte Kinderen Afrika Per Seconde
-- 063. E Nummers Amerikaanse Skittles
-- 064. Nutrilon Baby Formula Supply Chain
-- 065. Melamine Properties and Uses
-- 066. Biologisch vs Onbespoten Groenten
-- 067. Nestle Water Wells Bottling
-- 068. Poolse Vrouwen En Nazi Groepen
-- 069. Cow Production Cycle and Location
-- 070. Gematigde Turkse Moslims
-- 071. ISIS Nasheeds
-- 072. Traditioneel Midden-Oosten Dieet
-- 073. Gastroscopie Met Fotonica Spycam
-- 076. Predatory Behavior in Africa
-- 082. Giftige Slang Den Treek
-- 084. Boons and Charms
-- 090. Andere Tijden TV Programma
-- 092. Action Man Poppen Speelgoed
-- 093. Bananenboot Kinematica Calculus Formule
-- 094. Banaanboot Kinematica Berekeningen
-- 095. Baananalyse Wiskunde B Kinematica
-- 096. Tangent Arc Fresnel
-- 098. Inverse Logarithmic Fresnel Lenses
-- 102. Dreidel 3 Uit Krommenie
-- 103. Pritt Stift Hechting Polymeer
-- 104. Codex Build Process
-
-## Eerdere gesprekken nog vergelijken
-
-- hamiltonian physics mostly about viscosity of fluids
-- ss anna mew pokemon blue red white lie
-- boosting is philosophically psychologically and martelaar a perfect exact deterministic system
-- cancer cell (concept) ontological psychological en de martlaar (conceptueel)
+| 1 | Custom Hardware Automation Project | 1 | 1 | 5 |
+| 2 | A* Search Heuristic | 2 | 2 | 7 |
+| 3 | PCB Routing Pathfinding Constraints | 2 | 2 | 8 |
+| 4 | Everything a Triangle? | 5 | 5 | 11 |
+| 5 | Limewire Scares and Files | 2 | 2 | 15 |
+| 6 | Online Subculture Name | 28 | 28 | 16 |
+| 7 | Evil Emblem Representation | 7 | 7 | 53 |
+| 8 | Swastika History Nazi Symbol | 1 | 1 | 55 |
+| 9 | Swastika Symbol History | 9 | 9 | 56 |
+| 10 | Jos Brinks Transport | 6 | 6 | 64 |
+| 11 | Ghost Master Game | 10 | 10 | 68 |
+| 12 | Ghostmaster and the Sims | 3 | 3 | 76 |
+| 13 | Autoplay Rhythm Game Design | 2 | 2 | 79 |
+| 14 | Ghost Master vs The Sims | 43 | 43 | 82 |
+| 15 | UVA Tech Project Data | 4 | 4 | 144 |
+| 16 | Baby Alive Toy Guide | 9 | 9 | 149 |
+| 17 | Tesla Total Recall | 21 | 21 | 158 |
+| 18 | Just In Time Deployment Pipelines | 19 | 19 | 180 |
+| 19 | Telephreaking Operations Exploration | 6 | 6 | 214 |
+| 20 | Cannon Fodder Definition | 3 | 3 | 219 |
+| 21 | FIFO Queue Concept | 9 | 9 | 223 |
+| 22 | Sensi Seeds Damstraat Royal Queen | 2 | 2 | 231 |
+| 23 | Secret Intelligence Service Meaning | 2 | 2 | 233 |
+| 24 | CIA Recruitment Analyst | 6 | 6 | 234 |
+| 25 | Elon Musk Assets Liquidity | 21 | 21 | 239 |
+| 26 | Stocks After Market Wipeout | 9 | 9 | 258 |
+| 27 | Larynx Subliminal Control Systems | 5 | 5 | 265 |
+| 28 | Corki Urfrider Skin | 6 | 6 | 271 |
+| 29 | City 17 Facehugger Sensorimotor Loss | 7 | 7 | 279 |
+| 30 | Pair Programming Criticisms | 12 | 12 | 284 |
+| 31 | Chronospatial Augmented Reality Cloud Anchors | 12 | 12 | 294 |
+| 32 | Simo Häyhä Sniper Tactics | 7 | 7 | 307 |
+| 33 | Bird Whistle | 14 | 14 | 313 |
+| 34 | Klootwijk Flood van der Merwede | 20 | 20 | 325 |
+| 35 | Ragnarok Online Lutie Guide | 3 | 3 | 348 |
+| 36 | Wrong Chemical Aerosol Impacts | 2 | 2 | 350 |
+| 37 | Blauwdrukken in het Nederlands | 9 | 9 | 352 |
+| 38 | Personal Data Registration Details | 11 | 11 | 361 |
+| 39 | EU Data Privacy Concerns | 7 | 7 | 371 |
+| 40 | Gecalibreerde Sensoren | 3 | 3 | 377 |
+| 41 | Genetic Rewrites and Algorithms | 11 | 11 | 379 |
+| 42 | Hypermobiel Minimalisme | 10 | 10 | 386 |
+| 43 | Jetten Gin E | 23 | 23 | 395 |
+| 44 | Dier Inhumaan Leven Beëindigen | 3 | 3 | 410 |
+| 45 | Middle East Oil Reserves | 7 | 7 | 413 |
+| 46 | Scale and Hamstringing Initiative | 7 | 7 | 419 |
+| 47 | RL and L Complexity | 5 | 5 | 425 |
+| 48 | Policy Proposal Review | 6 | 6 | 429 |
+| 49 | Autopoietic vs Automorphic Systems | 5 | 5 | 432 |
+| 50 | Google AI Mode | 1 | 1 | 436 |
+| 51 | Google AI Mode | 1 | 1 | 437 |
+| 52 | Kardashev Scale Progress 7 Years | 20 | 20 | 438 |
+| 53 | my openAI chatGPT codex files and chat logs are they stored in the EU or USA | 2 | 2 | 450 |
+| 54 | Klaverbladen Psychiatrisch Conceptueel | 6 | 6 | 452 |
+| 55 | Gaspard Va Au Mariage | 2 | 2 | 456 |
+| 56 | Ondergrondse Piramide Infrastructuur | 5 | 5 | 457 |
+| 57 | Enno De Tombe D66 Gemeenteraad | 7 | 7 | 460 |
+| 58 | Pantheon Halve Cirkel Boog | 11 | 11 | 463 |
+| 59 | Bitcoin Mining Process | 9 | 9 | 475 |
+| 60 | Ethereum Hash Difficulty Mining | 15 | 15 | 484 |
+| 61 | MetaMask Ethereum Classic Setup | 3 | 3 | 501 |
+| 62 | Sterfte Kinderen Afrika Per Seconde | 2 | 2 | 504 |
+| 63 | E Nummers Amerikaanse Skittles | 1 | 1 | 506 |
+| 64 | Nutrilon Baby Formula Supply Chain | 2 | 2 | 507 |
+| 65 | Melamine Properties and Uses | 8 | 8 | 509 |
+| 66 | Biologisch vs Onbespoten Groenten | 1 | 1 | 515 |
+| 67 | Nestle Water Wells Bottling | 2 | 2 | 516 |
+| 68 | Poolse Vrouwen En Nazi Groepen | 2 | 2 | 518 |
+| 69 | Cow Production Cycle and Location | 28 | 28 | 520 |
+| 70 | Gematigde Turkse Moslims | 3 | 3 | 548 |
+| 71 | ISIS Nasheeds | 5 | 5 | 550 |
+| 72 | Traditioneel Midden-Oosten Dieet | 8 | 8 | 553 |
+| 73 | Gastroscopie Met Fotonica Spycam | 2 | 2 | 561 |
+| 74 | Traitement Femme Versus Homme | 7 | 7 | 563 |
+| 75 | Cicada 3301 Dark Web Mystery | 3 | 3 | 572 |
+| 76 | Predatory Behavior in Africa | 3 | 3 | 576 |
+| 77 | Otomars Karins and Latvia | 3 | 3 | 580 |
+| 78 | Battlefield Portal Commander Mode Code | 2 | 2 | 582 |
+| 79 | Nike Swoosh Logo History | 2 | 2 | 584 |
+| 80 | Число 035 варианты объектов | 11 | 11 | 586 |
+| 81 | Warhammer 40k HVT Analysis | 2 | 2 | 595 |
+| 82 | Giftige Slang Den Treek | 4 | 4 | 597 |
+| 83 | Biometric Sugar Patch Telemetry | 2 | 2 | 600 |
+| 84 | Boons and Charms | 1 | 1 | 603 |
+| 85 | Arkin Mentrum Jean Desmetstraat | 8 | 8 | 604 |
+| 86 | Warhammer Poppetjes Maken | 4 | 4 | 611 |
+| 87 | Battlefield 2 Flamethrower Memories | 3 | 3 | 618 |
+| 88 | Vivisectie | 3 | 3 | 620 |
+| 89 | Phileine Boekenlijst Trias | 5 | 5 | 622 |
+| 90 | Andere Tijden TV Programma | 3 | 3 | 624 |
+| 91 | UFC Freedom 250 Event | 2 | 2 | 628 |
+| 92 | Action Man Poppen Speelgoed | 1 | 1 | 630 |
+| 93 | Bananenboot Kinematica Calculus Formule | 1 | 1 | 631 |
+| 94 | Banaanboot Kinematica Berekeningen | 1 | 1 | 633 |
+| 95 | Baananalyse Wiskunde B Kinematica | 2 | 2 | 636 |
+| 96 | Tangent Arc Fresnel | 1 | 1 | 638 |
+| 97 | Neurenberg Processen Menschen | 3 | 3 | 639 |
+| 98 | Inverse Logarithmic Fresnel Lenses | 1 | 1 | 642 |
+| 99 | MI5 Job Applications | 2 | 2 | 643 |
+| 100 | NASA Google Earth History | 5 | 5 | 645 |
+| 101 | Log Net Master Data | 2 | 2 | 649 |
+| 102 | Dreidel 3 Uit Krommenie | 3 | 3 | 651 |
+| 103 | Pritt Stift Hechting Polymeer | 1 | 1 | 652 |
+| 104 | Codex Build Process | 3 | 3 | 653 |
+| 105 | Is Lam Termites Nari | 16 | 16 | 658 |
+| 106 | Satelliet Tv en Navigatie | 1 | 1 | 679 |
+| 107 | Macro Keybinds and Linguistic Operating System | 2 | 2 | 680 |
+| 108 | Population Comparison BRICS Netherlands | 5 | 5 | 682 |
+| 109 | Formalized Chrono Spatiotemporal Data | 1 | 1 | 687 |
+| 110 | North Korea Agriculture Resource Allocation | 30 | 30 | 689 |
+| 111 | Digitale Neural Interface Control Panel | 3 | 3 | 725 |
+| 112 | Boosting - new response after KOLJA | 1 | 1 | 728 |
 
 ## Nog te bewaren media
 
-- Interactief diagram: gesprek 10, bericht 12.
-- Interactief diagram: gesprek 14, bericht 4.
-- Interactief diagram: gesprek 81, bericht 2.
-- Interactief diagram: gesprek 97, bericht 4.
-- Interactief diagram: gesprek 97, bericht 6.
-- Interactief diagram: gesprek 101, bericht 4.
-- Bijlage: gesprek 2, bericht 2, Astar Manhattan Heuristic Analysis
-PDF.
-- Bijlage: gesprek 10, bericht 12, Context Formalization
-JSON.
-- Referentieafbeelding: gesprek 80 (Число 035 варианты объектов), antwoord 1.
+- Ingebed diagram: gesprek 10, bericht 12.
+- Ingebed diagram: gesprek 14, bericht 4.
+- Ingebed diagram: gesprek 18, bericht 16.
+- Ingebed diagram: gesprek 25, bericht 14.
+- Ingebed diagram: gesprek 25, bericht 16.
+- Ingebed diagram: gesprek 25, bericht 18.
+- Ingebed diagram: gesprek 25, bericht 20.
+- Ingebed diagram: gesprek 29, bericht 10.
+- Ingebed diagram: gesprek 29, bericht 12.
+- Ingebed diagram: gesprek 34, bericht 24.
+- Ingebed diagram: gesprek 34, bericht 26.
+- Ingebed diagram: gesprek 34, bericht 28.
+- Ingebed diagram: gesprek 38, bericht 14.
+- Ingebed diagram: gesprek 43, bericht 4.
+- Ingebed diagram: gesprek 43, bericht 6.
+- Ingebed diagram: gesprek 43, bericht 10.
+- Ingebed diagram: gesprek 43, bericht 12.
+- Ingebed diagram: gesprek 43, bericht 14.
+- Ingebed diagram: gesprek 58, bericht 2.
+- Ingebed diagram: gesprek 58, bericht 6.
+- Ingebed diagram: gesprek 58, bericht 18.
+- Ingebed diagram: gesprek 58, bericht 20.
+- Ingebed diagram: gesprek 58, bericht 22.
+- Ingebed diagram: gesprek 81, bericht 2.
+- Ingebed diagram: gesprek 95, bericht 2.
+- Ingebed diagram: gesprek 97, bericht 4.
+- Ingebed diagram: gesprek 97, bericht 6.
+- Ingebed diagram: gesprek 101, bericht 4.
+- Ingebed diagram: gesprek 103, bericht 2.
+- Ingebed diagram: gesprek 104, bericht 6.
+- Ingebed diagram: gesprek 108, bericht 4.
+- Ingebed diagram: gesprek 108, bericht 6.
+- Ingebed diagram: gesprek 108, bericht 8.
+- Ingebed diagram: gesprek 111, bericht 4.
+- Ingebed diagram: gesprek 111, bericht 6.
+- Afbeelding: gesprek 22, bericht 2, Map .
+- Afbeelding: gesprek 80, bericht 2,  .
+- Bijlage: gesprek 2, bericht 2, Astar Manhattan Heuristic Analysis PDF.
+- Bijlage: gesprek 10, bericht 12, Context Formalization JSON.
+- Bijlage: gesprek 56, bericht 6, Formalisatie Model Klootwijk MD.
+- Bijlage: gesprek 104, bericht 6, Tom Klootwijk Architecture MD.
 
 ## Controle
 
-Alle 288 pagina’s zijn gerenderd en visueel nagekeken. Aantallen en volgorde van de vastgelegde berichten, lokale verwijzingen en PDF-structuur zijn gecontroleerd. Deze controles maken de ontbrekende gesprekken en media niet compleet.
+Berichtvolgorde, aantallen, volledige HTML-lengtes, lokale verwijzingen, PDF-structuur en de ongewijzigde oude PDF-hashes zijn gecontroleerd. Alle pagina’s zijn gerenderd; de visuele controle staat in verification.json.

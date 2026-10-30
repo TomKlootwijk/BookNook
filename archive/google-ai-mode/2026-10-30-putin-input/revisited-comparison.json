@@ -1,0 +1,62 @@
+[
+  {
+    "threadId": "BDDgap6BI5L87_UP5P2ScA",
+    "previous": "archive\\google-ai-mode\\2026-10-27-kolja\\raw\\22.json",
+    "previousCounts": {
+      "prompts": 9,
+      "responses": 9
+    },
+    "currentCounts": {
+      "prompts": 9,
+      "responses": 9
+    },
+    "sameVisibleText": false,
+    "newMessages": 0,
+    "changedMessages": 8
+  },
+  {
+    "threadId": "M5HXauOmAtyO-d8P47OgkAk",
+    "previous": "archive\\google-ai-mode\\2026-09-29\\raw\\927.json",
+    "previousCounts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "currentCounts": {
+      "prompts": 1,
+      "responses": 1
+    },
+    "sameVisibleText": false,
+    "newMessages": 0,
+    "changedMessages": 2
+  },
+  {
+    "threadId": "P8zfarGrL5GJ9u8PyaHcgQs",
+    "previous": "archive\\google-ai-mode\\2026-10-27-kolja\\raw\\13.json",
+    "previousCounts": {
+      "prompts": 9,
+      "responses": 9
+    },
+    "currentCounts": {
+      "prompts": 10,
+      "responses": 10
+    },
+    "sameVisibleText": false,
+    "newMessages": 2,
+    "changedMessages": 8
+  },
+  {
+    "threadId": "q8zWapuiEtm3i-gPm5i3KA",
+    "previous": "archive\\google-ai-mode\\2026-09-29\\raw\\889.json",
+    "previousCounts": {
+      "prompts": 15,
+      "responses": 15
+    },
+    "currentCounts": {
+      "prompts": 15,
+      "responses": 15
+    },
+    "sameVisibleText": false,
+    "newMessages": 0,
+    "changedMessages": 30
+  }
+]

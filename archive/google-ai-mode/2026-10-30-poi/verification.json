@@ -1,0 +1,38 @@
+{
+  "verifiedAt": "2026-10-30T15:22:18.505219+00:00",
+  "status": "transcript-complete-one-source-frame-unavailable",
+  "conversations": 1,
+  "prompts": 5,
+  "responses": 5,
+  "pages": 8,
+  "formulas": 33,
+  "pdfSha256": "751b0683fff11e9f43b5742cce9d21d28c5e0923ddb0246aeb45214af9610dd4",
+  "visualReview": {
+    "pageCount": 8,
+    "allPagesRendered": true,
+    "reviewedPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "contactSheets": [
+      "contact-01.png"
+    ],
+    "detailPages": [
+      5,
+      7,
+      8
+    ],
+    "result": "No clipping or overlapping content observed. Table continues from page 7 to 8. One unavailable source frame is explicitly marked."
+  },
+  "brokenLocalLinks": [],
+  "missingConversations": [],
+  "pendingFrames": 1,
+  "notebookUploadCompleted": false,
+  "notebookBlocker": "Earlier attempt in this session redirected to location=unsupported."
+}
