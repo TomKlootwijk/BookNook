@@ -1,0 +1,84 @@
+{
+  "exportDate": "2026-10-30",
+  "scopeCount": 2,
+  "capturedCount": 2,
+  "prompts": 8,
+  "responses": 8,
+  "mathRendered": 2,
+  "embeddedImages": 20,
+  "conversations": [
+    {
+      "ordinal": 1,
+      "title": "Southern Hemisphere",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/01-southern-hemisphere.html",
+      "markdown": "conversations/01-southern-hemisphere.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTM0NDgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=AKL5yDgarAcb85BZPRn-3NvP3TkkDLpWHA%3A1793369851583&cs=1&udm=50&atvm=2&ved=0CAcQ2_wOahgKEwiI6dzGh-KXAxUAAAAAHQAAAAAQjAE&mstk=AUtExfD95JajTJR_Y0YuVOV7mWzPdweIXoCEjNtfiIhy77DfYGw3p_A-OtJEST0qXqSpjeerUJZszIoY9As41XOLMEsrLmJvN4IQRO3AUU_gVHbK4b0VBAQO5IO8D6GMaceLz-SoW1b20yS24DvMje6TCYcHadCu1HQxV8b0oFcT5FHyXEDm2i9l3yDXCCgFoju2B2vr4DprmPzj3jtzSOI75rlkzmotiNJw_1fMfaC1aTYcgFtrtoFz78FZVbCPAOuqzb4tbzVFj0BEJuDLLix7Lee41TykVSGWxaRxqfguk3I_GNgBDjZHP8R8TOUU0ayZSUGp3dUi0Omx_9nVzEuw9I_jp52_RFUl3LTIdGwMsBHqGhhRVM6zlL8&mtid=XLXkapKxJoy79u8Ph7a5yAI&csuir=1&aep=26&q=hemisphere+S+.",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 3
+    },
+    {
+      "ordinal": 2,
+      "title": "Nerve 3 Front Teeth",
+      "prompts": 7,
+      "responses": 7,
+      "html": "conversations/02-nerve-3-front-teeth.html",
+      "markdown": "conversations/02-nerve-3-front-teeth.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTM0NDgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=AKL5yDgarAcb85BZPRn-3NvP3TkkDLpWHA%3A1793369851583&cs=1&udm=50&atvm=2&ved=0CAEQ2_wOahgKEwiI6dzGh-KXAxUAAAAAHQAAAAAQjAE&mstk=AUtExfBi4vVv0DeCD5d0Ri5vddmKpRZuovxgh4vIaylyb_UxDuyq2JfMv-AUNlVYbkik-Q1q2e3jK6FEPHCsDsdQy9trStIqls_PBJDrX4uC8UQYi3RSbeM9rosVUVS8EIu32UrKtIfEy65pDREDNDSYvfLvyxFXiE6H0M70UHsiG8Utehj8g3j8v4Xn8raiJSUp3dKdAA2AfWu7Cl7MYr7mZpakw7j_hr1W0jwbyjTQAbtyZQ3-KMbyDCKXU5dIjjb_sZS3NG0FtN1J_bU0Y-eEVH-9qMY5yyJKFFWO-bTyrI12UFj5v4CNvfiWLDTD00gBzxBVE-F7Zntl9VRSZwaU5RyRc1-Gtn_2SjUEESMQXR3eQizyW81jmYE&mtid=C7bkapiAKqKI9u8PoJfo8Qg&csuir=1&aep=26&q=nerve+3+front+teeth+milk+and+perma+frosty",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 9
+    }
+  ],
+  "missing": [],
+  "issues": [],
+  "mediaGaps": [],
+  "mediaStatus": {
+    "pendingImages": [],
+    "sourceGaps": [],
+    "pendingAttachments": [],
+    "sourceErrorResponses": [],
+    "sourceEmptyResponses": [],
+    "note": "No unbundled response images, embedded widgets or generated attachments were found in these captured conversations."
+  },
+  "latestUpdate": {
+    "at": "2026-10-30T15:31:23.852225+00:00",
+    "date": "2026-10-30",
+    "batchId": "2026-10-30-public-puck-ic-u-jok-e",
+    "batchTitle": "public puck ic U jok E",
+    "status": "captured",
+    "method": "Separate file requested as public puck ic U jok E. Two new conversations discovered at the top of refreshed Google AI Mode history after poi. The previous poi conversation still has five prompt-response pairs. Earlier archives remain unchanged.",
+    "records": [
+      {
+        "ordinal": 1,
+        "threadId": "XLXkapKxJoy79u8Ph7a5yAI",
+        "title": "Southern Hemisphere",
+        "status": "captured",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 2,
+        "threadId": "C7bkapiAKqKI9u8PoJfo8Qg",
+        "title": "Nerve 3 Front Teeth",
+        "status": "captured",
+        "counts": {
+          "prompts": 7,
+          "responses": 7
+        }
+      }
+    ]
+  },
+  "pdf": {
+    "path": "output/pdf/public puck ic U jok E.pdf",
+    "status": "captured",
+    "pages": 17,
+    "bytes": 897956,
+    "sha256": "2b21b03e56a10b60f0c12cac4a03d64a55e3ce869bd6e0bb5a5b7d93cb5dbb63",
+    "bookmarks": 4,
+    "promptMarkers": 8,
+    "responseMarkers": 8
+  }
+}

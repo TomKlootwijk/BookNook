@@ -1,0 +1,30 @@
+{
+  "at": "2026-10-30T15:31:23.852225+00:00",
+  "date": "2026-10-30",
+  "batchId": "2026-10-30-public-puck-ic-u-jok-e",
+  "batchTitle": "public puck ic U jok E",
+  "status": "captured",
+  "method": "Separate file requested as public puck ic U jok E. Two new conversations discovered at the top of refreshed Google AI Mode history after poi. The previous poi conversation still has five prompt-response pairs. Earlier archives remain unchanged.",
+  "records": [
+    {
+      "ordinal": 1,
+      "threadId": "XLXkapKxJoy79u8Ph7a5yAI",
+      "title": "Southern Hemisphere",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 2,
+      "threadId": "C7bkapiAKqKI9u8PoJfo8Qg",
+      "title": "Nerve 3 Front Teeth",
+      "status": "captured",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    }
+  ]
+}
