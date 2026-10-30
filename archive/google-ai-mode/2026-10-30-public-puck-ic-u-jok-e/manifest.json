@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-10-30",
-  "scopeCount": 2,
-  "capturedCount": 2,
-  "prompts": 8,
-  "responses": 8,
-  "mathRendered": 2,
-  "embeddedImages": 20,
+  "scopeCount": 4,
+  "capturedCount": 4,
+  "prompts": 22,
+  "responses": 22,
+  "mathRendered": 143,
+  "embeddedImages": 54,
   "conversations": [
     {
       "ordinal": 1,
@@ -28,6 +28,28 @@
       "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTM0NDgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=AKL5yDgarAcb85BZPRn-3NvP3TkkDLpWHA%3A1793369851583&cs=1&udm=50&atvm=2&ved=0CAEQ2_wOahgKEwiI6dzGh-KXAxUAAAAAHQAAAAAQjAE&mstk=AUtExfBi4vVv0DeCD5d0Ri5vddmKpRZuovxgh4vIaylyb_UxDuyq2JfMv-AUNlVYbkik-Q1q2e3jK6FEPHCsDsdQy9trStIqls_PBJDrX4uC8UQYi3RSbeM9rosVUVS8EIu32UrKtIfEy65pDREDNDSYvfLvyxFXiE6H0M70UHsiG8Utehj8g3j8v4Xn8raiJSUp3dKdAA2AfWu7Cl7MYr7mZpakw7j_hr1W0jwbyjTQAbtyZQ3-KMbyDCKXU5dIjjb_sZS3NG0FtN1J_bU0Y-eEVH-9qMY5yyJKFFWO-bTyrI12UFj5v4CNvfiWLDTD00gBzxBVE-F7Zntl9VRSZwaU5RyRc1-Gtn_2SjUEESMQXR3eQizyW81jmYE&mtid=C7bkapiAKqKI9u8PoJfo8Qg&csuir=1&aep=26&q=nerve+3+front+teeth+milk+and+perma+frosty",
       "recoveredFromSavedUrl": false,
       "pdfPage": 9
+    },
+    {
+      "ordinal": 3,
+      "title": "Scopolamine Chemistry Mechanism Biology",
+      "prompts": 12,
+      "responses": 12,
+      "html": "conversations/03-scopolamine-chemistry-mechanism-biology.html",
+      "markdown": "conversations/03-scopolamine-chemistry-mechanism-biology.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTM0NDgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=AKL5yDgarAcb85BZPRn-3NvP3TkkDLpWHA%3A1793369851583&cs=1&udm=50&atvm=2&ved=0CAcQ2_wOahgKEwjg4czfjOKXAxUAAAAAHQAAAAAQ1QE&mstk=AUtExfC9_ZLiveukcVpbh4qIFmNUhovNeoAqCsMekd-7AooL92WSaPidtpoZgvj1w7rHIe22LAHDtehlhjQCDTo-MXbROQPRY63ufNhZtboarT7ynIWW7aUnJptqYjb1Kgq9B5l6QRy6IhhSCcyxlh2ZOimygIWTKCKP_AZMAzKaXskJHkP3hSVFO_1mVBSetZNu2O-sTG908vHTrkdq5TFVei5Xj-i4GTfFfvYlWj4_6F3kRaUMJ8o2x_RmU2PWBVbIum1ivKTIdeVArmd7iOyHiFnPmmQdLF7afd-YbYMG7-PY6s0VtCrbt2bKo11EO_fZqMp2kVfR_IBkN1nGeqvIwtKg_wNUugtTQ281hxk8ofANUm1V7K5G03k&mtid=wrnkauOGLpCp9u8P9cGp0Ac&csuir=1&aep=26&q=scopolamine+chem+mech+bio+inv+log+pi+prime+diff+diss+CSG",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 18
+    },
+    {
+      "ordinal": 4,
+      "title": "Scopolamine Effects and Uses",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/04-scopolamine-effects-and-uses.html",
+      "markdown": "conversations/04-scopolamine-effects-and-uses.md",
+      "source": "https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTM0NDgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=AKL5yDgarAcb85BZPRn-3NvP3TkkDLpWHA%3A1793369851583&cs=1&udm=50&atvm=2&ved=0CAEQ2_wOahgKEwjg4czfjOKXAxUAAAAAHQAAAAAQ1QE&mstk=AUtExfAF9gU-Z9RWAYXrwd9PwRmwg787jhFb81pJcn8CuiiTx-Uc0wioWznXGM1b9sR08nbQV_cG2JSVFukCWh5zEEVjNVjbcRqdz-xdSxPnuXZXHsK1lDkI5sr5HVcjpGJWGc8H9c6xWfODBYU2lK7xMTMP79TY3qijmvDza71PVT3vziVQ3qrvO1rENjH1Uv0DvNsrtoE_KSmII6CWYyzk2lZFsk0hxLFtZlF8oCBkG2nZm5nk-slh_4CtBK5couhkBt753v8PcKpescfsoAzfxO9jpvjuUWgBFFmcPHNHMmMhuC9XSaE4rHpbKDRzG8fUtegkgS9mMxW1fQ&mtid=77zkav6rH7KMi-gPpZG22Qg&csuir=1&aep=26&q=scopolamine+what+does+it+do",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 43
     }
   ],
   "missing": [],
@@ -35,19 +57,40 @@
   "mediaGaps": [],
   "mediaStatus": {
     "pendingImages": [],
-    "sourceGaps": [],
+    "sourceGaps": [
+      {
+        "conversation": 3,
+        "message": 4,
+        "note": "Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.",
+        "urls": [
+          "https://53tstx8ouskwy98i50yjphysif0hlediw4sevjcpnmdmq4icyg-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+        ]
+      },
+      {
+        "conversation": 3,
+        "message": 20,
+        "note": "Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.",
+        "urls": [
+          "https://6512x83lnapenwu1hykarttef85yz9p4ts6pmgsr7mk5z3viob-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+        ]
+      }
+    ],
     "pendingAttachments": [],
     "sourceErrorResponses": [],
     "sourceEmptyResponses": [],
-    "note": "No unbundled response images, embedded widgets or generated attachments were found in these captured conversations."
+    "note": "2 embedded source diagrams remain unavailable: both iframe areas were blank after being scrolled into view. Original frame URLs are retained in the raw archive. No other unbundled response images, generated attachments or empty responses were found."
   },
   "latestUpdate": {
-    "at": "2026-10-30T15:31:23.852225+00:00",
+    "at": "2026-10-30T15:58:38.532489+00:00",
     "date": "2026-10-30",
     "batchId": "2026-10-30-public-puck-ic-u-jok-e",
     "batchTitle": "public puck ic U jok E",
-    "status": "captured",
-    "method": "Separate file requested as public puck ic U jok E. Two new conversations discovered at the top of refreshed Google AI Mode history after poi. The previous poi conversation still has five prompt-response pairs. Earlier archives remain unchanged.",
+    "status": "transcripts-complete-media-partial",
+    "method": "Updated public puck ic U jok E with two new conversations and 14 new prompt-response pairs since commit 26d3a33. Both new conversations were read back with unchanged text. Nerve 3 Front Teeth remains unchanged at seven pairs. Earlier collections remain unchanged.",
+    "newConversationIds": [
+      "wrnkauOGLpCp9u8P9cGp0Ac",
+      "77zkav6rH7KMi-gPpZG22Qg"
+    ],
     "records": [
       {
         "ordinal": 1,
@@ -68,17 +111,37 @@
           "prompts": 7,
           "responses": 7
         }
+      },
+      {
+        "ordinal": 3,
+        "threadId": "wrnkauOGLpCp9u8P9cGp0Ac",
+        "title": "Scopolamine Chemistry Mechanism Biology",
+        "status": "captured",
+        "counts": {
+          "prompts": 12,
+          "responses": 12
+        }
+      },
+      {
+        "ordinal": 4,
+        "threadId": "77zkav6rH7KMi-gPpZG22Qg",
+        "title": "Scopolamine Effects and Uses",
+        "status": "captured",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
       }
     ]
   },
   "pdf": {
     "path": "output/pdf/public puck ic U jok E.pdf",
-    "status": "captured",
-    "pages": 17,
-    "bytes": 897956,
-    "sha256": "2b21b03e56a10b60f0c12cac4a03d64a55e3ce869bd6e0bb5a5b7d93cb5dbb63",
-    "bookmarks": 4,
-    "promptMarkers": 8,
-    "responseMarkers": 8
+    "status": "transcripts-complete-media-partial",
+    "pages": 45,
+    "bytes": 1989268,
+    "sha256": "3c9a707f54a5c35ef05196e93bf99e1c5eb6296f6c189112883986a1e416a77c",
+    "bookmarks": 6,
+    "promptMarkers": 22,
+    "responseMarkers": 22
   }
 }

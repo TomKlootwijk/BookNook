@@ -1,8 +1,25 @@
 {
   "pendingImages": [],
-  "sourceGaps": [],
+  "sourceGaps": [
+    {
+      "conversation": 3,
+      "message": 4,
+      "note": "Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.",
+      "urls": [
+        "https://53tstx8ouskwy98i50yjphysif0hlediw4sevjcpnmdmq4icyg-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "conversation": 3,
+      "message": 20,
+      "note": "Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.",
+      "urls": [
+        "https://6512x83lnapenwu1hykarttef85yz9p4ts6pmgsr7mk5z3viob-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    }
+  ],
   "pendingAttachments": [],
   "sourceErrorResponses": [],
   "sourceEmptyResponses": [],
-  "note": "No unbundled response images, embedded widgets or generated attachments were found in these captured conversations."
+  "note": "2 embedded source diagrams remain unavailable: both iframe areas were blank after being scrolled into view. Original frame URLs are retained in the raw archive. No other unbundled response images, generated attachments or empty responses were found."
 }

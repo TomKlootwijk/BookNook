@@ -2,7 +2,7 @@
 
 Separate collections, updated 30 October 2026:
 
-- [public puck ic U jok E - special PDF, 17 pages](<output/pdf/public puck ic U jok E.pdf>): two new conversations, 8 prompt-response pairs. [Archive and verification](archive/google-ai-mode/2026-10-30-public-puck-ic-u-jok-e/README.md).
+- [public puck ic U jok E - special PDF, 45 pages](<output/pdf/public puck ic U jok E.pdf>): four conversations, 22 prompt-response pairs; two embedded diagrams unavailable. [Archive and verification](archive/google-ai-mode/2026-10-30-public-puck-ic-u-jok-e/README.md).
 - [poi - special PDF, 8 pages](output/pdf/poi.pdf): one new conversation, 5 prompt-response pairs. [Archive and coverage](archive/google-ai-mode/2026-10-30-poi/README.md).
 - [Putin Input - provisional PDF, 728 pages](output/pdf/Putin-Input-Google-AI-Mode-2026-10-30-voorlopig.pdf): 111 new conversations and one addendum, 726 prompts and response blocks. [Archive and outstanding media](archive/google-ai-mode/2026-10-30-putin-input/README.md).
 - [KOLJA](archive/google-ai-mode/2026-10-27-kolja/README.md).

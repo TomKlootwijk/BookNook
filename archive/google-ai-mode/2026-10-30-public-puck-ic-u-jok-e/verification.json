@@ -1,15 +1,15 @@
 {
-  "verifiedAt": "2026-10-30T15:33:05.941921+00:00",
-  "status": "captured-and-verified",
-  "conversations": 2,
-  "prompts": 8,
-  "responseBlocks": 8,
-  "pages": 17,
-  "formulas": 2,
-  "embeddedImages": 20,
-  "pdfSha256": "2b21b03e56a10b60f0c12cac4a03d64a55e3ce869bd6e0bb5a5b7d93cb5dbb63",
+  "verifiedAt": "2026-10-30T15:59:58.107061+00:00",
+  "status": "transcripts-verified-media-partial",
+  "conversations": 4,
+  "prompts": 22,
+  "responseBlocks": 22,
+  "pages": 45,
+  "formulas": 143,
+  "embeddedImages": 54,
+  "pdfSha256": "3c9a707f54a5c35ef05196e93bf99e1c5eb6296f6c189112883986a1e416a77c",
   "visualReview": {
-    "pageCount": 17,
+    "pageCount": 45,
     "allPagesRendered": true,
     "reviewedPages": [
       1,
@@ -28,30 +28,122 @@
       14,
       15,
       16,
-      17
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
     ],
     "contactSheets": [
-      "contact-01.png"
+      "contact-01.png",
+      "contact-02.png"
     ],
     "detailPages": [
-      3,
-      13,
-      16
+      22,
+      25,
+      32,
+      36
     ],
-    "result": "No added clipping or overlaps observed. The cropped hemisphere thumbnail on page 3 was compared with its original captured image: source cropping is unchanged."
+    "result": "All pages inspected as contact sheets; dense formulas, tables, source images and a missing-widget notice inspected at page scale. No added clipping or overlaps observed. Source image crops and resolution are preserved."
   },
   "brokenLocalLinks": [],
   "pdfSyntaxIssues": [],
   "missingConversations": [],
-  "pendingMedia": [],
+  "pendingMedia": [
+    {
+      "conversation": 3,
+      "message": 4,
+      "note": "Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.",
+      "urls": [
+        "https://53tstx8ouskwy98i50yjphysif0hlediw4sevjcpnmdmq4icyg-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    },
+    {
+      "conversation": 3,
+      "message": 20,
+      "note": "Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.",
+      "urls": [
+        "https://6512x83lnapenwu1hykarttef85yz9p4ts6pmgsr7mk5z3viob-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+      ]
+    }
+  ],
   "priorArchivesUnchanged": true,
   "readback": {
-    "at": "2026-10-30T15:31:51.258Z",
-    "threadId": "C7bkapiAKqKI9u8PoJfo8Qg",
-    "counts": {
-      "prompts": 7,
-      "responses": 7
+    "at": "2026-10-30T15:53:55.954Z",
+    "previousCommit": "26d3a33aec28e98f0a12ae75317d128b3dd2a00c",
+    "previousConversationCheck": {
+      "threadId": "C7bkapiAKqKI9u8PoJfo8Qg",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sameVisibleText": true
     },
-    "sameVisibleText": true
+    "newIds": [
+      "wrnkauOGLpCp9u8P9cGp0Ac",
+      "77zkav6rH7KMi-gPpZG22Qg"
+    ],
+    "readbacks": [
+      {
+        "threadId": "77zkav6rH7KMi-gPpZG22Qg",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "wrnkauOGLpCp9u8P9cGp0Ac",
+        "counts": {
+          "prompts": 12,
+          "responses": 12
+        },
+        "sameVisibleText": true
+      }
+    ]
+  },
+  "widgetVerification": {
+    "at": "2026-10-30T15:58:02.408Z",
+    "threadId": "wrnkauOGLpCp9u8P9cGp0Ac",
+    "frames": [
+      {
+        "src": "https://53tstx8ouskwy98i50yjphysif0hlediw4sevjcpnmdmq4icyg-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "title": ""
+      },
+      {
+        "src": "https://6512x83lnapenwu1hykarttef85yz9p4ts6pmgsr7mk5z3viob-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "title": ""
+      }
+    ],
+    "status": "unavailable",
+    "evidence": "Both iframe areas remained blank after scrolling each into the viewport. Frame body reads timed out. Screenshot evidence saved under tmp/pdfs/public-puck-update-2.",
+    "screenshots": [
+      "source-frame-1.png",
+      "source-frame-2.png"
+    ]
   }
 }

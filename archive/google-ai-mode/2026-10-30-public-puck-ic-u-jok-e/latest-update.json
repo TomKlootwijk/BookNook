@@ -1,10 +1,14 @@
 {
-  "at": "2026-10-30T15:31:23.852225+00:00",
+  "at": "2026-10-30T15:58:38.532489+00:00",
   "date": "2026-10-30",
   "batchId": "2026-10-30-public-puck-ic-u-jok-e",
   "batchTitle": "public puck ic U jok E",
-  "status": "captured",
-  "method": "Separate file requested as public puck ic U jok E. Two new conversations discovered at the top of refreshed Google AI Mode history after poi. The previous poi conversation still has five prompt-response pairs. Earlier archives remain unchanged.",
+  "status": "transcripts-complete-media-partial",
+  "method": "Updated public puck ic U jok E with two new conversations and 14 new prompt-response pairs since commit 26d3a33. Both new conversations were read back with unchanged text. Nerve 3 Front Teeth remains unchanged at seven pairs. Earlier collections remain unchanged.",
+  "newConversationIds": [
+    "wrnkauOGLpCp9u8P9cGp0Ac",
+    "77zkav6rH7KMi-gPpZG22Qg"
+  ],
   "records": [
     {
       "ordinal": 1,
@@ -24,6 +28,26 @@
       "counts": {
         "prompts": 7,
         "responses": 7
+      }
+    },
+    {
+      "ordinal": 3,
+      "threadId": "wrnkauOGLpCp9u8P9cGp0Ac",
+      "title": "Scopolamine Chemistry Mechanism Biology",
+      "status": "captured",
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      }
+    },
+    {
+      "ordinal": 4,
+      "threadId": "77zkav6rH7KMi-gPpZG22Qg",
+      "title": "Scopolamine Effects and Uses",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
       }
     }
   ]
