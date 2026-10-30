@@ -1,0 +1,10 @@
+# Local discovery inventories include material outside this collection.
+open-tabs-*.json
+visible-history.json
+full-visible-history.json
+browser-history-since-baseline.json
+browser-history-earlier-window.json
+# Local browser transfer and recovery bookkeeping.
+notebook-upload.json
+capture-progress.jsonl
+recovery-*.json
