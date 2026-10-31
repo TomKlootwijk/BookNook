@@ -1,16 +1,40 @@
 {
-  "at": "2026-10-30T15:58:38.532489+00:00",
+  "at": "2026-10-31T06:42:19.825665+00:00",
   "newConversationIds": [
-    "wrnkauOGLpCp9u8P9cGp0Ac",
-    "77zkav6rH7KMi-gPpZG22Qg"
+    "btXkapa0J_WZi-gPpP_O4Qg",
+    "uujkarnSELvm7_UP6MLWWA",
+    "0-_kavm3Kdv_7_UPtuCFkAM",
+    "fPHkauPKA_GM9u8PzorEwA8",
+    "evHkaq6QKZGI9u8PmeXkuQ4",
+    "E__kas_OK_6I9u8Ph5HR6Qg",
+    "IwLlavGlFqnKi-gPq8-0-QI",
+    "SnDlav7mOYami-gPxcPC0QQ",
+    "0XLlapTrNeiM9u8Prta7yQU",
+    "kH3lao3yCoPLi-gP6qzO0A8",
+    "PYHlapyIBOW7i-gPw6rW4Ac",
+    "OYTlas32J5OH9u8P877EsA4",
+    "vAXlavOSH_iG9u8Puo-BoAY"
   ],
   "allConversationIds": [
     "XLXkapKxJoy79u8Ph7a5yAI",
     "C7bkapiAKqKI9u8PoJfo8Qg",
     "wrnkauOGLpCp9u8P9cGp0Ac",
-    "77zkav6rH7KMi-gPpZG22Qg"
+    "77zkav6rH7KMi-gPpZG22Qg",
+    "btXkapa0J_WZi-gPpP_O4Qg",
+    "uujkarnSELvm7_UP6MLWWA",
+    "0-_kavm3Kdv_7_UPtuCFkAM",
+    "fPHkauPKA_GM9u8PzorEwA8",
+    "evHkaq6QKZGI9u8PmeXkuQ4",
+    "E__kas_OK_6I9u8Ph5HR6Qg",
+    "IwLlavGlFqnKi-gPq8-0-QI",
+    "SnDlav7mOYami-gPxcPC0QQ",
+    "0XLlapTrNeiM9u8Prta7yQU",
+    "kH3lao3yCoPLi-gP6qzO0A8",
+    "PYHlapyIBOW7i-gPw6rW4Ac",
+    "OYTlas32J5OH9u8P877EsA4",
+    "vAXlavOSH_iG9u8Puo-BoAY"
   ],
-  "previousCommit": "26d3a33aec28e98f0a12ae75317d128b3dd2a00c",
+  "previousCommit": "6ffc2a7e51d321516a43c7fd091c970322080e39",
   "baseline": "2026-10-30-poi",
-  "note": "Updated public puck ic U jok E with two new conversations and 14 new prompt-response pairs since commit 26d3a33. Both new conversations were read back with unchanged text. Nerve 3 Front Teeth remains unchanged at seven pairs. Earlier collections remain unchanged."
+  "note": "Added 13 conversations and 78 prompt-response pairs since commit 6ffc2a7. All 13 new transcripts were read back with unchanged visible text. Eight new vector diagrams and two generated images were recovered from the original Chrome tabs. Earlier collections remain unchanged."
 }

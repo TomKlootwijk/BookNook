@@ -1,8 +1,8 @@
 # Scopolamine Chemistry Mechanism Biology
 
-Captured: 2026-10-30T15:54:08.360Z
+Captured: 2026-10-31T06:30:41.862Z
 
-Source: https://www.google.com/search?gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTM0NDgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=AKL5yDgarAcb85BZPRn-3NvP3TkkDLpWHA%3A1793369851583&cs=1&udm=50&atvm=2&ved=0CAcQ2_wOahgKEwjg4czfjOKXAxUAAAAAHQAAAAAQ1QE&mstk=AUtExfC9_ZLiveukcVpbh4qIFmNUhovNeoAqCsMekd-7AooL92WSaPidtpoZgvj1w7rHIe22LAHDtehlhjQCDTo-MXbROQPRY63ufNhZtboarT7ynIWW7aUnJptqYjb1Kgq9B5l6QRy6IhhSCcyxlh2ZOimygIWTKCKP_AZMAzKaXskJHkP3hSVFO_1mVBSetZNu2O-sTG908vHTrkdq5TFVei5Xj-i4GTfFfvYlWj4_6F3kRaUMJ8o2x_RmU2PWBVbIum1ivKTIdeVArmd7iOyHiFnPmmQdLF7afd-YbYMG7-PY6s0VtCrbt2bKo11EO_fZqMp2kVfR_IBkN1nGeqvIwtKg_wNUugtTQ281hxk8ofANUm1V7K5G03k&mtid=wrnkauOGLpCp9u8P9cGp0Ac&csuir=1&aep=26&q=scopolamine+chem+mech+bio+inv+log+pi+prime+diff+diss+CSG
+Source: https://www.google.com/search?sourceid=chrome&ie=UTF-8&ntc=1&sxsrf=AKL5yDgu7cEpD7nr59KkDzUxCYRZ89owaw%3A1793389024447&cs=1&udm=50&elids=CLz28-Waz_eynQEQARgBIhCk7qXo9YBesuJU-WwHjE7DMoEBIgJyYSgzQnMKLmxmZS1kdW1teTpmNDMyMzg0Zi0yOWM0LTQ1MGMtYjg3Yi00NGRkMjRiOGIyMzISQQo_L2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzk4WgQKAnJhOMD5o9rR4pcDUABqCWltYWdlL3BuZw%2CCPKzr7rL1uCmggEQARgBIhADvpwQPa7d1dlSeJcYIRCPMoEBIgJyYSg6QnMKLmxmZS1kdW1teToxNTk3MzcxZC0zMTdjLTRhZjAtYTI1MC1kYTgyYTZlMTE2NDASQQo_L2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzkzWgQKAnJhOJDZrqbV4pcDUABqCWltYWdlL3BuZw&atvm=2&ved=0CBkQ2_wOahgKEwiIi4yS0OOXAxUAAAAAHQAAAAAQkgc&mstk=AUtExfC9_ZLiveukcVpbh4qIFmNUhovNeoAqCsMekd-7AooL92WSaPidtpoZgvj1w7rHIe22LAHDtehlhjQCDTo-MXbROQPRY63ufNhZtboarT7ynIWW7aUnJptqYjb1Kgq9B5l6QRy6IhhSCcyxlh2ZOimygIWTKCKP_AZMAzKaXskJHkP3hSVFO_1mVBSetZNu2O-sTG908vHTrkdq5TFVei5Xj-i4GTfFfvYlWj4_6F3kRaUMJ8o2x_RmU2PWBVbIum1ivKTIdeVArmd7iOyHiFnPmmQdLF7afd-YbYMG7-PY6s0VtCrbt2bKo11EO_fZqMp2kVfR_IBkN1nGeqvIwtKg_wNUugtTQ281hxk8ofANUm1V7K5G03k&mtid=wrnkauOGLpCp9u8P9cGp0Ac&csuir=1&aep=26&q=scopolamine+chem+mech+bio+inv+log+pi+prime+diff+diss+CSG
 
 ## Prompt 1 — You
 
@@ -158,7 +158,7 @@ $\text{LUT}\_{\text{interp}}(y)=\text{LUT}[\lfloor y\rfloor ]+(y-\lfloor y\rfloo
 
 Would you like to explore the **FPGA bit-width allocation** strategy for optimizing the LUT size versus quantization noise, or should we look into the **C/C++ fixed-point implementation algorithms** for the kinematic integration loops?
 
-Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.
+Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.
 
 ## Prompt 3 — You
 
@@ -728,7 +728,7 @@ We define a Deterministic Finite Automaton (DFA)  $\mathcal{M}\_{5}$  that conti
 
 Would you like to analyze the **Peano Axiom** derivation of the number 5 using the successor function S(x), or shall we construct the **Boolean logic circuit diagram** that executes the mod-5 DFA state transitions?
 
-Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.
+Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.
 
 ## Prompt 11 — You
 

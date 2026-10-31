@@ -1,13 +1,24 @@
 {
-  "at": "2026-10-30T15:58:38.532489+00:00",
-  "date": "2026-10-30",
+  "at": "2026-10-31T06:42:19.825665+00:00",
+  "date": "2026-10-31",
   "batchId": "2026-10-30-public-puck-ic-u-jok-e",
   "batchTitle": "public puck ic U jok E",
   "status": "transcripts-complete-media-partial",
-  "method": "Updated public puck ic U jok E with two new conversations and 14 new prompt-response pairs since commit 26d3a33. Both new conversations were read back with unchanged text. Nerve 3 Front Teeth remains unchanged at seven pairs. Earlier collections remain unchanged.",
+  "method": "Added 13 conversations and 78 prompt-response pairs since commit 6ffc2a7. All 13 new transcripts were read back with unchanged visible text. Eight new vector diagrams and two generated images were recovered from the original Chrome tabs. Earlier collections remain unchanged.",
   "newConversationIds": [
-    "wrnkauOGLpCp9u8P9cGp0Ac",
-    "77zkav6rH7KMi-gPpZG22Qg"
+    "btXkapa0J_WZi-gPpP_O4Qg",
+    "uujkarnSELvm7_UP6MLWWA",
+    "0-_kavm3Kdv_7_UPtuCFkAM",
+    "fPHkauPKA_GM9u8PzorEwA8",
+    "evHkaq6QKZGI9u8PmeXkuQ4",
+    "E__kas_OK_6I9u8Ph5HR6Qg",
+    "IwLlavGlFqnKi-gPq8-0-QI",
+    "SnDlav7mOYami-gPxcPC0QQ",
+    "0XLlapTrNeiM9u8Prta7yQU",
+    "kH3lao3yCoPLi-gP6qzO0A8",
+    "PYHlapyIBOW7i-gPw6rW4Ac",
+    "OYTlas32J5OH9u8P877EsA4",
+    "vAXlavOSH_iG9u8Puo-BoAY"
   ],
   "records": [
     {
@@ -48,6 +59,136 @@
       "counts": {
         "prompts": 2,
         "responses": 2
+      }
+    },
+    {
+      "ordinal": 5,
+      "threadId": "btXkapa0J_WZi-gPpP_O4Qg",
+      "title": "Nederlandse Predikaat Notatie Functie",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 6,
+      "threadId": "uujkarnSELvm7_UP6MLWWA",
+      "title": "Particle Physics Data",
+      "status": "captured",
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      }
+    },
+    {
+      "ordinal": 7,
+      "threadId": "0-_kavm3Kdv_7_UPtuCFkAM",
+      "title": "Tsarnaev Boston MIT Marathon Leo",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 8,
+      "threadId": "fPHkauPKA_GM9u8PzorEwA8",
+      "title": "Mega Factory Blueprint Reconstruction",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 9,
+      "threadId": "evHkaq6QKZGI9u8PmeXkuQ4",
+      "title": "Megafactory Blueprint Herstel",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 10,
+      "threadId": "E__kas_OK_6I9u8Ph5HR6Qg",
+      "title": "Mus in IJburg",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 11,
+      "threadId": "IwLlavGlFqnKi-gPq8-0-QI",
+      "title": "Clandestine Person Description",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 12,
+      "threadId": "SnDlav7mOYami-gPxcPC0QQ",
+      "title": "Subliminal Subtext Analysis",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 13,
+      "threadId": "0XLlapTrNeiM9u8Prta7yQU",
+      "title": "Friendship and Ethics",
+      "status": "captured",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 14,
+      "threadId": "kH3lao3yCoPLi-gP6qzO0A8",
+      "title": "Heather Locklear Decay Concepts",
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 15,
+      "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
+      "title": "Vrije Radicalen Berekening",
+      "status": "captured",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 16,
+      "threadId": "OYTlas32J5OH9u8P877EsA4",
+      "title": "Biofilm Tensor and Vantablack",
+      "status": "captured",
+      "counts": {
+        "prompts": 16,
+        "responses": 16
+      }
+    },
+    {
+      "ordinal": 17,
+      "threadId": "vAXlavOSH_iG9u8Puo-BoAY",
+      "title": "Risicospreiding in Beleggen",
+      "status": "captured",
+      "counts": {
+        "prompts": 19,
+        "responses": 19
       }
     }
   ]

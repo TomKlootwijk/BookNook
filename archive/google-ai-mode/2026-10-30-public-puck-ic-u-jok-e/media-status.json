@@ -4,22 +4,108 @@
     {
       "conversation": 3,
       "message": 4,
-      "note": "Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.",
-      "urls": [
-        "https://53tstx8ouskwy98i50yjphysif0hlediw4sevjcpnmdmq4icyg-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
-      ]
+      "frame": 1,
+      "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
+      "url": "https://3oqi3t5ly0rzcf7p9f4dl6vm8i3br3ovieh7sn21r0yek3fl8z-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
     },
     {
       "conversation": 3,
       "message": 20,
-      "note": "Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.",
-      "urls": [
-        "https://6512x83lnapenwu1hykarttef85yz9p4ts6pmgsr7mk5z3viob-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
-      ]
+      "frame": 2,
+      "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
+      "url": "https://4mx5upukbpgg2ogut17osujhhhl55jsji0hv4hpv5towjwxiok-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "conversation": 16,
+      "message": 16,
+      "frame": 1,
+      "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
+      "url": "https://3vo68i9bfiykxabhada00qgy09oe47kazygh9kzu25lfjwjut5-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    }
+  ],
+  "pendingUserImages": [
+    {
+      "conversation": 17,
+      "message": 3,
+      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+    },
+    {
+      "conversation": 17,
+      "message": 29,
+      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+    },
+    {
+      "conversation": 17,
+      "message": 37,
+      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+    }
+  ],
+  "capturedWidgets": [
+    {
+      "conversation": 13,
+      "message": 4,
+      "frame": 1,
+      "path": "assets/0XLlapTrNeiM9u8Prta7yQU-frame-1-1.svg",
+      "caption": "Original source diagram: Magnetic Hysteresis Loop (B-H Curve)"
+    },
+    {
+      "conversation": 14,
+      "message": 4,
+      "frame": 1,
+      "path": "assets/kH3lao3yCoPLi-gP6qzO0A8-frame-1-1.svg",
+      "caption": "Original source diagram: Lineaire Afname vs Exponentieel Verval"
+    },
+    {
+      "conversation": 14,
+      "message": 8,
+      "frame": 2,
+      "path": "assets/kH3lao3yCoPLi-gP6qzO0A8-frame-2-1.svg",
+      "caption": "Original source diagram: Exponentieel Verval vs. Momentum-Verval"
+    },
+    {
+      "conversation": 15,
+      "message": 4,
+      "frame": 1,
+      "path": "assets/PYHlapyIBOW7i-gPw6rW4Ac-frame-1-1.svg",
+      "caption": "Original source diagram: Unit Circle Geometry: RAD & LEN"
+    },
+    {
+      "conversation": 15,
+      "message": 6,
+      "frame": 2,
+      "path": "assets/PYHlapyIBOW7i-gPw6rW4Ac-frame-2-1.svg",
+      "caption": "Original source diagram: Geometric Transformation & Morph Topology"
+    },
+    {
+      "conversation": 15,
+      "message": 10,
+      "frame": 3,
+      "path": "assets/PYHlapyIBOW7i-gPw6rW4Ac-frame-3-1.svg",
+      "caption": "Original source diagram: Iodine (I₂) Phase Diagram"
+    },
+    {
+      "conversation": 15,
+      "message": 16,
+      "frame": 4,
+      "path": "assets/PYHlapyIBOW7i-gPw6rW4Ac-frame-4-1.svg",
+      "caption": "Original source diagram: Asymptotic Topologies: Macroscopic Orbital Hyperbola vs. Microscopic Quantum Morse Potential"
+    },
+    {
+      "conversation": 15,
+      "message": 18,
+      "frame": 5,
+      "path": "assets/PYHlapyIBOW7i-gPw6rW4Ac-frame-5-1.svg",
+      "caption": "Original source diagram: Asymptote & Spiral Topology Dynamics"
     }
   ],
   "pendingAttachments": [],
-  "sourceErrorResponses": [],
+  "sourceErrorResponses": [
+    {
+      "conversation": 17,
+      "message": 38,
+      "text": "The uploaded content has expired. Please upload it again and retry the query."
+    }
+  ],
   "sourceEmptyResponses": [],
-  "note": "2 embedded source diagrams remain unavailable: both iframe areas were blank after being scrolled into view. Original frame URLs are retained in the raw archive. No other unbundled response images, generated attachments or empty responses were found."
+  "note": "8 vector diagrams recovered; 3 embedded diagrams unavailable; 3 expired user-uploaded images. Source failures remain explicit in context."
 }

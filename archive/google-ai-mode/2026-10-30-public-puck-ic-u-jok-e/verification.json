@@ -1,15 +1,17 @@
 {
-  "verifiedAt": "2026-10-30T15:59:58.107061+00:00",
+  "verifiedAt": "2026-10-31T06:44:42.781718+00:00",
   "status": "transcripts-verified-media-partial",
-  "conversations": 4,
-  "prompts": 22,
-  "responseBlocks": 22,
-  "pages": 45,
-  "formulas": 143,
-  "embeddedImages": 54,
-  "pdfSha256": "3c9a707f54a5c35ef05196e93bf99e1c5eb6296f6c189112883986a1e416a77c",
+  "conversations": 17,
+  "newConversations": 13,
+  "newPromptResponsePairs": 78,
+  "prompts": 100,
+  "responseBlocks": 100,
+  "pages": 175,
+  "formulas": 855,
+  "embeddedImages": 172,
+  "pdfSha256": "2d23dc28f343fb809743d548a4bac1351545e1aa4a0718ef466a3f4ab0f32b91",
   "visualReview": {
-    "pageCount": 45,
+    "pageCount": 175,
     "allPagesRendered": true,
     "reviewedPages": [
       1,
@@ -56,19 +58,157 @@
       42,
       43,
       44,
-      45
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175
     ],
     "contactSheets": [
       "contact-01.png",
-      "contact-02.png"
+      "contact-02.png",
+      "contact-03.png",
+      "contact-04.png",
+      "contact-05.png",
+      "contact-06.png",
+      "contact-07.png"
     ],
     "detailPages": [
-      22,
-      25,
-      32,
-      36
+      99,
+      106,
+      114,
+      156,
+      166,
+      172,
+      175
     ],
-    "result": "All pages inspected as contact sheets; dense formulas, tables, source images and a missing-widget notice inspected at page scale. No added clipping or overlaps observed. Source image crops and resolution are preserved."
+    "result": "All pages inspected as contact sheets; source diagrams, generated images, dense formulas, tables, and missing-upload notices inspected at page scale. No added clipping or overlaps observed. Source image crops and resolution are preserved."
   },
   "brokenLocalLinks": [],
   "pdfSyntaxIssues": [],
@@ -77,39 +217,66 @@
     {
       "conversation": 3,
       "message": 4,
-      "note": "Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.",
-      "urls": [
-        "https://53tstx8ouskwy98i50yjphysif0hlediw4sevjcpnmdmq4icyg-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
-      ]
+      "frame": 1,
+      "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
+      "url": "https://3oqi3t5ly0rzcf7p9f4dl6vm8i3br3ovieh7sn21r0yek3fl8z-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
     },
     {
       "conversation": 3,
       "message": 20,
-      "note": "Pending media: embedded source diagram not captured. Original frame URL is retained in the raw archive.",
-      "urls": [
-        "https://6512x83lnapenwu1hykarttef85yz9p4ts6pmgsr7mk5z3viob-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
-      ]
+      "frame": 2,
+      "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
+      "url": "https://4mx5upukbpgg2ogut17osujhhhl55jsji0hv4hpv5towjwxiok-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "conversation": 16,
+      "message": 16,
+      "frame": 1,
+      "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
+      "url": "https://3vo68i9bfiykxabhada00qgy09oe47kazygh9kzu25lfjwjut5-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "conversation": 17,
+      "message": 3,
+      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+    },
+    {
+      "conversation": 17,
+      "message": 29,
+      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+    },
+    {
+      "conversation": 17,
+      "message": 37,
+      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
     }
   ],
   "priorArchivesUnchanged": true,
   "readback": {
-    "at": "2026-10-30T15:53:55.954Z",
-    "previousCommit": "26d3a33aec28e98f0a12ae75317d128b3dd2a00c",
-    "previousConversationCheck": {
-      "threadId": "C7bkapiAKqKI9u8PoJfo8Qg",
-      "counts": {
-        "prompts": 7,
-        "responses": 7
-      },
-      "sameVisibleText": true
-    },
+    "at": "2026-10-31T06:40:52.352Z",
+    "previousCommit": "6ffc2a7e51d321516a43c7fd091c970322080e39",
     "newIds": [
-      "wrnkauOGLpCp9u8P9cGp0Ac",
-      "77zkav6rH7KMi-gPpZG22Qg"
+      "btXkapa0J_WZi-gPpP_O4Qg",
+      "uujkarnSELvm7_UP6MLWWA",
+      "0-_kavm3Kdv_7_UPtuCFkAM",
+      "fPHkauPKA_GM9u8PzorEwA8",
+      "evHkaq6QKZGI9u8PmeXkuQ4",
+      "E__kas_OK_6I9u8Ph5HR6Qg",
+      "IwLlavGlFqnKi-gPq8-0-QI",
+      "SnDlav7mOYami-gPxcPC0QQ",
+      "0XLlapTrNeiM9u8Prta7yQU",
+      "kH3lao3yCoPLi-gP6qzO0A8",
+      "PYHlapyIBOW7i-gPw6rW4Ac",
+      "OYTlas32J5OH9u8P877EsA4",
+      "vAXlavOSH_iG9u8Puo-BoAY"
     ],
-    "readbacks": [
+    "existingChecks": [
       {
         "threadId": "77zkav6rH7KMi-gPpZG22Qg",
+        "previous": {
+          "prompts": 2,
+          "responses": 2
+        },
         "counts": {
           "prompts": 2,
           "responses": 2
@@ -118,32 +285,297 @@
       },
       {
         "threadId": "wrnkauOGLpCp9u8P9cGp0Ac",
+        "previous": {
+          "prompts": 12,
+          "responses": 12
+        },
         "counts": {
           "prompts": 12,
           "responses": 12
+        },
+        "sameVisibleText": false,
+        "contentChange": "Only Google appended its standard AI response disclaimer; no new question-answer pairs."
+      }
+    ],
+    "readbacks": [
+      {
+        "threadId": "btXkapa0J_WZi-gPpP_O4Qg",
+        "title": "Nederlandse Predikaat Notatie Functie",
+        "previous": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "uujkarnSELvm7_UP6MLWWA",
+        "title": "Particle Physics Data",
+        "previous": {
+          "prompts": 6,
+          "responses": 6
+        },
+        "counts": {
+          "prompts": 6,
+          "responses": 6
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "0-_kavm3Kdv_7_UPtuCFkAM",
+        "title": "Tsarnaev Boston MIT Marathon Leo",
+        "previous": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "fPHkauPKA_GM9u8PzorEwA8",
+        "title": "Mega Factory Blueprint Reconstruction",
+        "previous": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "evHkaq6QKZGI9u8PmeXkuQ4",
+        "title": "Megafactory Blueprint Herstel",
+        "previous": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "E__kas_OK_6I9u8Ph5HR6Qg",
+        "title": "Mus in IJburg",
+        "previous": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "IwLlavGlFqnKi-gPq8-0-QI",
+        "title": "Clandestine Person Description",
+        "previous": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "SnDlav7mOYami-gPxcPC0QQ",
+        "title": "Subliminal Subtext Analysis",
+        "previous": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "0XLlapTrNeiM9u8Prta7yQU",
+        "title": "Friendship and Ethics",
+        "previous": {
+          "prompts": 8,
+          "responses": 8
+        },
+        "counts": {
+          "prompts": 8,
+          "responses": 8
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "kH3lao3yCoPLi-gP6qzO0A8",
+        "title": "Heather Locklear Decay Concepts",
+        "previous": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
+        "title": "Vrije Radicalen Berekening",
+        "previous": {
+          "prompts": 9,
+          "responses": 9
+        },
+        "counts": {
+          "prompts": 9,
+          "responses": 9
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "OYTlas32J5OH9u8P877EsA4",
+        "title": "Biofilm Tensor and Vantablack",
+        "previous": {
+          "prompts": 16,
+          "responses": 16
+        },
+        "counts": {
+          "prompts": 16,
+          "responses": 16
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "vAXlavOSH_iG9u8Puo-BoAY",
+        "title": "Risicospreiding in Beleggen",
+        "previous": {
+          "prompts": 19,
+          "responses": 19
+        },
+        "counts": {
+          "prompts": 19,
+          "responses": 19
         },
         "sameVisibleText": true
       }
     ]
   },
   "widgetVerification": {
-    "at": "2026-10-30T15:58:02.408Z",
-    "threadId": "wrnkauOGLpCp9u8P9cGp0Ac",
+    "at": "2026-10-31T06:41:24.834Z",
     "frames": [
       {
-        "src": "https://53tstx8ouskwy98i50yjphysif0hlediw4sevjcpnmdmq4icyg-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
-        "title": ""
+        "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
+        "frame": 1,
+        "src": "https://56f4wv73kq0i33n48tdi3tt6rq5bixvh9i7pe8q8mg24b1x5p3-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "captured",
+        "path": "raw/frames/PYHlapyIBOW7i-gPw6rW4Ac-frame-1.json",
+        "svgCount": 1,
+        "canvasCount": 0,
+        "textLength": 175
       },
       {
-        "src": "https://6512x83lnapenwu1hykarttef85yz9p4ts6pmgsr7mk5z3viob-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
-        "title": ""
+        "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
+        "frame": 2,
+        "src": "https://4fy6a9ypojcntwomyiwj83ptac37nm7wio9r5rk111s7dyccwj-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "captured",
+        "path": "raw/frames/PYHlapyIBOW7i-gPw6rW4Ac-frame-2.json",
+        "svgCount": 1,
+        "canvasCount": 0,
+        "textLength": 225
+      },
+      {
+        "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
+        "frame": 3,
+        "src": "https://2zhowndp57sozathjis8lba4jzp4q2pio9h5anvkqeac7jcndt-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "captured",
+        "path": "raw/frames/PYHlapyIBOW7i-gPw6rW4Ac-frame-3.json",
+        "svgCount": 1,
+        "canvasCount": 0,
+        "textLength": 204
+      },
+      {
+        "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
+        "frame": 4,
+        "src": "https://4xczdnrkttys25u0x86g27h7eexzy9hlhwdt0ehxnos7s5unue-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "captured",
+        "path": "raw/frames/PYHlapyIBOW7i-gPw6rW4Ac-frame-4.json",
+        "svgCount": 1,
+        "canvasCount": 0,
+        "textLength": 454
+      },
+      {
+        "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
+        "frame": 5,
+        "src": "https://4sy1fha72awwu243lacq2rnz4uw6x4e72d2yxpa712ymibk3ox-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "captured",
+        "path": "raw/frames/PYHlapyIBOW7i-gPw6rW4Ac-frame-5.json",
+        "svgCount": 1,
+        "canvasCount": 0,
+        "textLength": 154
+      },
+      {
+        "threadId": "kH3lao3yCoPLi-gP6qzO0A8",
+        "frame": 1,
+        "src": "https://26wkerj50m4whsdbvhvb4t6xpmswpn0017upgufcgycjvz9brp-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "captured",
+        "path": "raw/frames/kH3lao3yCoPLi-gP6qzO0A8-frame-1.json",
+        "svgCount": 1,
+        "canvasCount": 0,
+        "textLength": 142
+      },
+      {
+        "threadId": "kH3lao3yCoPLi-gP6qzO0A8",
+        "frame": 2,
+        "src": "https://0f74hyrpubjhvanm46ldq2ii1oii0mf6ew658t6kj7lt1yhzel-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "captured",
+        "path": "raw/frames/kH3lao3yCoPLi-gP6qzO0A8-frame-2.json",
+        "svgCount": 1,
+        "canvasCount": 0,
+        "textLength": 166
+      },
+      {
+        "threadId": "0XLlapTrNeiM9u8Prta7yQU",
+        "frame": 1,
+        "src": "https://1rp3lzaeku0f3gfcmrox7yjlmsu7m2rdtsjsu8wrak4osk6mj6-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "captured",
+        "path": "raw/frames/0XLlapTrNeiM9u8Prta7yQU-frame-1.json",
+        "svgCount": 1,
+        "canvasCount": 0,
+        "textLength": 291
+      },
+      {
+        "threadId": "OYTlas32J5OH9u8P877EsA4",
+        "frame": 1,
+        "src": "https://3vo68i9bfiykxabhada00qgy09oe47kazygh9kzu25lfjwjut5-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "no-vector",
+        "path": "raw/frames/OYTlas32J5OH9u8P877EsA4-frame-1.json",
+        "svgCount": 0,
+        "canvasCount": 0,
+        "textLength": 0
+      },
+      {
+        "threadId": "wrnkauOGLpCp9u8P9cGp0Ac",
+        "frame": 1,
+        "src": "https://3oqi3t5ly0rzcf7p9f4dl6vm8i3br3ovieh7sn21r0yek3fl8z-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "unavailable",
+        "reason": "Frame body could not be read."
+      },
+      {
+        "threadId": "wrnkauOGLpCp9u8P9cGp0Ac",
+        "frame": 2,
+        "src": "https://4mx5upukbpgg2ogut17osujhhhl55jsji0hv4hpv5towjwxiok-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "unavailable",
+        "reason": "Frame body could not be read."
       }
-    ],
-    "status": "unavailable",
-    "evidence": "Both iframe areas remained blank after scrolling each into the viewport. Frame body reads timed out. Screenshot evidence saved under tmp/pdfs/public-puck-update-2.",
-    "screenshots": [
-      "source-frame-1.png",
-      "source-frame-2.png"
     ]
   }
 }
