@@ -1,0 +1,217 @@
+{
+  "at": "2026-10-31T06:40:52.352Z",
+  "previousCommit": "6ffc2a7e51d321516a43c7fd091c970322080e39",
+  "newIds": [
+    "btXkapa0J_WZi-gPpP_O4Qg",
+    "uujkarnSELvm7_UP6MLWWA",
+    "0-_kavm3Kdv_7_UPtuCFkAM",
+    "fPHkauPKA_GM9u8PzorEwA8",
+    "evHkaq6QKZGI9u8PmeXkuQ4",
+    "E__kas_OK_6I9u8Ph5HR6Qg",
+    "IwLlavGlFqnKi-gPq8-0-QI",
+    "SnDlav7mOYami-gPxcPC0QQ",
+    "0XLlapTrNeiM9u8Prta7yQU",
+    "kH3lao3yCoPLi-gP6qzO0A8",
+    "PYHlapyIBOW7i-gPw6rW4Ac",
+    "OYTlas32J5OH9u8P877EsA4",
+    "vAXlavOSH_iG9u8Puo-BoAY"
+  ],
+  "existingChecks": [
+    {
+      "threadId": "77zkav6rH7KMi-gPpZG22Qg",
+      "previous": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "wrnkauOGLpCp9u8P9cGp0Ac",
+      "previous": {
+        "prompts": 12,
+        "responses": 12
+      },
+      "counts": {
+        "prompts": 12,
+        "responses": 12
+      },
+      "sameVisibleText": false,
+      "contentChange": "Only Google appended its standard AI response disclaimer; no new question-answer pairs."
+    }
+  ],
+  "readbacks": [
+    {
+      "threadId": "btXkapa0J_WZi-gPpP_O4Qg",
+      "title": "Nederlandse Predikaat Notatie Functie",
+      "previous": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "uujkarnSELvm7_UP6MLWWA",
+      "title": "Particle Physics Data",
+      "previous": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "counts": {
+        "prompts": 6,
+        "responses": 6
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "0-_kavm3Kdv_7_UPtuCFkAM",
+      "title": "Tsarnaev Boston MIT Marathon Leo",
+      "previous": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "fPHkauPKA_GM9u8PzorEwA8",
+      "title": "Mega Factory Blueprint Reconstruction",
+      "previous": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "evHkaq6QKZGI9u8PmeXkuQ4",
+      "title": "Megafactory Blueprint Herstel",
+      "previous": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "E__kas_OK_6I9u8Ph5HR6Qg",
+      "title": "Mus in IJburg",
+      "previous": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "IwLlavGlFqnKi-gPq8-0-QI",
+      "title": "Clandestine Person Description",
+      "previous": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "SnDlav7mOYami-gPxcPC0QQ",
+      "title": "Subliminal Subtext Analysis",
+      "previous": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "0XLlapTrNeiM9u8Prta7yQU",
+      "title": "Friendship and Ethics",
+      "previous": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "kH3lao3yCoPLi-gP6qzO0A8",
+      "title": "Heather Locklear Decay Concepts",
+      "previous": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
+      "title": "Vrije Radicalen Berekening",
+      "previous": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "OYTlas32J5OH9u8P877EsA4",
+      "title": "Biofilm Tensor and Vantablack",
+      "previous": {
+        "prompts": 16,
+        "responses": 16
+      },
+      "counts": {
+        "prompts": 16,
+        "responses": 16
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "vAXlavOSH_iG9u8Puo-BoAY",
+      "title": "Risicospreiding in Beleggen",
+      "previous": {
+        "prompts": 19,
+        "responses": 19
+      },
+      "counts": {
+        "prompts": 19,
+        "responses": 19
+      },
+      "sameVisibleText": true
+    }
+  ]
+}

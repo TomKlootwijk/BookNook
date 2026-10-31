@@ -104,6 +104,11 @@
       "conversation": 17,
       "message": 38,
       "text": "The uploaded content has expired. Please upload it again and retry the query."
+    },
+    {
+      "conversation": 18,
+      "message": 12,
+      "text": "This image cannot be generated."
     }
   ],
   "sourceEmptyResponses": [],

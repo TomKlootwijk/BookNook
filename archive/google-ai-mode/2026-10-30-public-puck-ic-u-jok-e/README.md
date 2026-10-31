@@ -1,8 +1,8 @@
 # public puck ic U jok E
 
-Aparte collectie gestart op 30 oktober 2026, na poi. Op 31 oktober aangevuld met 13 nieuwe gesprekken en 78 nieuwe vraag-antwoordparen.
+Aparte collectie gestart op 30 oktober 2026, na poi. Op 31 oktober eerst aangevuld met 13 gesprekken en 78 vraag-antwoordparen, daarna met nog twee gesprekken en 17 vraag-antwoordparen. Dat zijn vandaag samen 15 nieuwe gesprekken en 95 nieuwe paren.
 
-- [PDF - 175 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
+- [PDF - 195 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
 - [Volledige transcripties](all-conversations.md)
 - [HTML-index](index.html)
 
@@ -25,11 +25,13 @@ Aparte collectie gestart op 30 oktober 2026, na poi. Op 31 oktober aangevuld met
 | Vrije Radicalen Berekening | 9 | 9 | 94 |
 | Biofilm Tensor and Vantablack | 16 | 16 | 109 |
 | Risicospreiding in Beleggen | 19 | 19 | 133 |
+| Theological Symbol Meaning | 10 | 10 | 176 |
+| Chromatic Aberration Effect | 7 | 7 | 188 |
 
-Alle 100 vraag-antwoordparen, bronlinks en 855 formules zijn bewaard. De uitvoer bevat 172 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Acht ingebedde vectordiagrammen en twee unieke gegenereerde afbeeldingen zijn uit de oorspronkelijke Chrome-tabbladen teruggehaald. De oorspronkelijke SVG's, HTML-opnamen en gegenereerde JPEG's staan in het archief.
+Alle 117 vraag-antwoordparen, bronlinks en 928 formules zijn bewaard. De uitvoer bevat 187 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Acht ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard; daarvoor zijn ook de oorspronkelijke Chrome-tabbladen uitgelezen. De oorspronkelijke SVG's, HTML-opnamen en gegenereerde JPEG's staan in het archief.
 
-Nog onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één interactieve visualisatie in **Biofilm Tensor and Vantablack**, en drie verlopen geüploade afbeeldingen in **Risicospreiding in Beleggen**. Ze zijn bij hun bericht gemarkeerd. Google's foutmelding over verlopen inhoud is letterlijk bewaard. Er zijn geen overige ontbrekende antwoordafbeeldingen, gegenereerde bijlagen of lege antwoorden aangetroffen. Afbeeldingen behouden de door Google geleverde pixels en eventuele oorspronkelijke uitsneden; externe bronpagina's worden als verwijzingen bewaard.
+Nog onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één interactieve visualisatie in **Biofilm Tensor and Vantablack**, en drie verlopen geüploade afbeeldingen in **Risicospreiding in Beleggen**. Ze zijn bij hun bericht gemarkeerd. Google's foutmeldingen over verlopen inhoud en een niet-gegenereerde afbeelding zijn letterlijk bewaard. Er zijn geen overige ontbrekende antwoordafbeeldingen, gegenereerde bijlagen of lege antwoorden aangetroffen. Afbeeldingen behouden de door Google geleverde pixels en eventuele oorspronkelijke uitsneden; externe bronpagina's worden als verwijzingen bewaard.
 
-Alle 175 pagina's zijn gerenderd en visueel gecontroleerd. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen en PDF-structuur zijn gecontroleerd. De 13 nieuwe gesprekken zijn opnieuw uitgelezen met identieke zichtbare tekst. De twee meest recente eerdere gesprekken zijn hercontroleerd: alleen Google's standaardwaarschuwing werd aan enkele bestaande antwoorden toegevoegd. Details staan in `manifest.json`, `update-check.json`, `widget-check-2026-10-31.json` en `verification.json`.
+Alle 195 pagina's zijn gerenderd en visueel gecontroleerd. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen en PDF-structuur zijn gecontroleerd. Alle 15 nieuwe gesprekken van vandaag zijn opnieuw uitgelezen met identieke zichtbare tekst. Bij deze laatste aanvulling is ook Risicospreiding in Beleggen hercontroleerd en ongewijzigd gebleven. Details staan in `manifest.json`, `update-check.json`, `widget-check-2026-10-31.json` en `verification.json`.
 
 Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief; die bestanden zijn ongewijzigd. De transcripties zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole.
