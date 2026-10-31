@@ -1,14 +1,29 @@
 {
-  "at": "2026-10-31T07:25:04.929245+00:00",
+  "at": "2026-10-31T22:43:51.976030+00:00",
   "date": "2026-10-31",
   "batchId": "2026-10-30-public-puck-ic-u-jok-e",
   "batchTitle": "public puck ic U jok E",
   "status": "transcripts-complete-media-partial",
-  "method": "Extended Theological Symbol Meaning from 10 to 18 prompt-response pairs since commit 26f2c2d. All previous pairs are unchanged, and the complete 18-pair transcript was read back with identical visible text. Chromatic Aberration Effect remains unchanged at seven pairs. Earlier collections remain unchanged.",
-  "newConversationIds": [],
-  "updatedConversationIds": [
-    "GYvlasWpNdmQ9u8Pz_K4qAI"
+  "method": "Added 16 new conversations and 75 prompt-response pairs since commit 6e968c5. All 16 new conversations were read back with identical visible text after full loading. Two additional source vector diagrams were recovered from the original Chrome tabs. Theological Symbol Meaning and Chromatic Aberration Effect were checked and remain unchanged. Earlier collections remain unchanged.",
+  "newConversationIds": [
+    "imTmavXZGKC69u8Pta7l6AM",
+    "ZVHmarT4GsOWi-gP8uGlyA0",
+    "F1DmauaQMpmA9u8PgOi7mQM",
+    "HU_mauDgFaHr7_UPpqLAoQg",
+    "a07mav6QM9u-i-gPrpbymA4",
+    "lkrmasyLOtG-i-gPoq3ZuQM",
+    "ozrmarb5B7eqi-gPxevc-Qk",
+    "qSPmapL-OLCfi-gPrIPP8As",
+    "AC_mar2BDLaO9u8P-aiL2Qs",
+    "iRrmasiIO7uF9u8Pyr-s2Q0",
+    "GADmateJLM-J9u8Pmrq7mQg",
+    "T9XlaviTMpSai-gP-srd8Ao",
+    "zrjlarSLAdC7i-gPmefAyA4",
+    "XbnlavbAHMCH9u8PgcW_iA8",
+    "8bflasHHGqiai-gP3PGE8Ac",
+    "l5rlav3rFOyVi-gPtZ-QiQ8"
   ],
+  "updatedConversationIds": [],
   "records": [
     {
       "ordinal": 1,
@@ -198,6 +213,166 @@
       "counts": {
         "prompts": 7,
         "responses": 7
+      }
+    },
+    {
+      "ordinal": 20,
+      "threadId": "l5rlav3rFOyVi-gPtZ-QiQ8",
+      "title": "Four Thirds",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 21,
+      "threadId": "8bflasHHGqiai-gP3PGE8Ac",
+      "title": "Automorphic Polymorphic Formalized Systems",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 22,
+      "threadId": "XbnlavbAHMCH9u8PgcW_iA8",
+      "title": "Laplacian Eigenvalues Raymarching SDF",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 23,
+      "threadId": "zrjlarSLAdC7i-gPmefAyA4",
+      "title": "Belousov-Zhabotinsky Reaction Scaling",
+      "status": "captured",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 24,
+      "threadId": "T9XlaviTMpSai-gP-srd8Ao",
+      "title": "BST Path ERD ECS Diagram",
+      "status": "captured",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 25,
+      "threadId": "GADmateJLM-J9u8Pmrq7mQg",
+      "title": "Cloud Bio Mechanical Chemistry",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 26,
+      "threadId": "iRrmasiIO7uF9u8Pyr-s2Q0",
+      "title": "Antithesis Inverse Logarithmic Proof",
+      "status": "captured",
+      "counts": {
+        "prompts": 18,
+        "responses": 18
+      }
+    },
+    {
+      "ordinal": 27,
+      "threadId": "AC_mar2BDLaO9u8P-aiL2Qs",
+      "title": "Cloak and Dagger Clandestine Activities",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 28,
+      "threadId": "qSPmapL-OLCfi-gPrIPP8As",
+      "title": "Red Teaming Questions",
+      "status": "captured",
+      "counts": {
+        "prompts": 14,
+        "responses": 14
+      }
+    },
+    {
+      "ordinal": 29,
+      "threadId": "ozrmarb5B7eqi-gPxevc-Qk",
+      "title": "Nanobots for Targeted Medical Treatment",
+      "status": "captured",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 30,
+      "threadId": "lkrmasyLOtG-i-gPoq3ZuQM",
+      "title": "Corporate and Intelligence Agency Power",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 31,
+      "threadId": "a07mav6QM9u-i-gPrpbymA4",
+      "title": "Sentinel Island Missionary Exposure",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 32,
+      "threadId": "HU_mauDgFaHr7_UPpqLAoQg",
+      "title": "Mount Everest Body Recovery",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 33,
+      "threadId": "F1DmauaQMpmA9u8PgOi7mQM",
+      "title": "Chernobyl Exclusion Zone Pokémon Cards",
+      "status": "captured",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 34,
+      "threadId": "ZVHmarT4GsOWi-gP8uGlyA0",
+      "title": "MKZ Bij Evenhoevige Dieren",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 35,
+      "threadId": "imTmavXZGKC69u8Pta7l6AM",
+      "title": "Guido Gamious Programmer",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
       }
     }
   ]

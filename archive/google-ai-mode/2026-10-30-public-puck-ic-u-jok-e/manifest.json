@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-10-31",
-  "scopeCount": 19,
-  "capturedCount": 19,
-  "prompts": 125,
-  "responses": 125,
-  "mathRendered": 983,
-  "embeddedImages": 187,
+  "scopeCount": 35,
+  "capturedCount": 35,
+  "prompts": 200,
+  "responses": 200,
+  "mathRendered": 1498,
+  "embeddedImages": 373,
   "conversations": [
     {
       "ordinal": 1,
@@ -215,6 +215,182 @@
       "source": "https://www.google.com/search?q=basically+if+I+hold+my+mouse+cursor+over+a+letter+I+see+the+chromatic+aberration+tilt+shifted+into+my+eyeball+because+of+contas&sca_esv=d4c7325171e763c8&sxsrf=AKL5yDi3ToNo53aUJmr29CQMzXpZzAnjwg%3A1793429113868&source=chrome.ob&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_k7xB_bJXhWBZp-REbIUHBWGMCfD3h8AuaJ_AkzOF8DtI3uEu8i0JbP-06x3v8gNS13SWlh9j57414BrgSBIu7JOYuHCPDMPFs6cB_7CK4efxr2atCdGYD7IEL7LswMSLuyYPQkqMdVcw8jRZMZUJR92XgqOAedwpPkusCDyxSrHjzLfoO&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwim5YuK1OOXAxWq3wIHHdpGLtoQ2J8OegQIFhAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfClK3Gmhpi_vDjYfTUfXX4TupNeXDtkMNoj7QKEr4zHtc6Uv0WmXWG5DHuLuXyPM1LjEXY8J7JT9PzeuSEsukF1jKDSk7PYIl5gY-d5efxXhNndmPN6m00myHLA9wcp_m8eRNYvieE_slq3hwOfOZiMkjCboqHgyqnB9ZJVm7oznVmiY58NZlXL3JH0TTz0hEZGe0iWjSOVGAqkdft0LTpkvi2QpB0wqC27oThq97s3Jv8hTwZtSywMSsTc-tsFQoFZpasbNa70PtKubOUvVTIwPkGbGS6IqAYgLoJpLrXab4lzI5aslPNwQQ6wFQgpYQ3JxLtudt0hkw&csuir=1&mtid=e47laqjZN9y_i-gP7v6qsA0&udm=50",
       "recoveredFromSavedUrl": false,
       "pdfPage": 198
+    },
+    {
+      "ordinal": 20,
+      "title": "Four Thirds",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/20-four-thirds.html",
+      "markdown": "conversations/20-four-thirds.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CB8Q2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQYA&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfB5UlqMgQZdqARvyqX-KzeZYGt1QTE0-M6OC_JlAX5IPoeaSdUmxxQS4tY8CvRaGUyV1qmjg337Fbkpr-5jdXQJMjHd_bIQRaJoGkAlIhDD-TjlfXDtBsbMKVVJZ-CrxbCJlUiBSV0hgqALpT7E5Ptobj2p4pf3dbthpwMnbULtt9NmVZhpiYv8mGQmj9bwYdLn6B7zNWuiptLY_IXrFYTDndeGYnQ52MdNayr3jqG7-NlKiNIbV1JaSUDDYG2kxXHTxTewJiTKCHcggJ6sz1dBc8p_Yd6u4KFxWtnt6cb1Kmyhs3B3orPjMa9n5P0FesBea81AJu2QDQ&mtid=l5rlav3rFOyVi-gPtZ-QiQ8&csuir=1&aep=26&q=1.33333+where+4+is+the+1.+without+float+number",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 206
+    },
+    {
+      "ordinal": 21,
+      "title": "Automorphic Polymorphic Formalized Systems",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/21-automorphic-polymorphic-formalized-systems.html",
+      "markdown": "conversations/21-automorphic-polymorphic-formalized-systems.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQYA&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfAZvGsLq1uyUZPu8rYlSeUsUVYQ79ePhFoD28VNTpLoFIwlUrG1nneydDkBaZNDuzVySTYAcPXwzKxTAWcg1lwfC_OMKo4ruZda_x8h_nG4YTCMX8bu00jLdgjKHPbyGBy-X2O9-bYRrnSEP7I8h2XjUiRv1ahVeQTh0lUgh_wkAkfKuTZ6Z45QtUJxv48wnb2gENz8dyjpgCa4OHq_cqOuntdHWe1S_EJCGQ1IjA4jcIOIbrkMvn220kesgqYcyInBjhQsd93MYo7p7COp9puwpnTaIndeeGoENHnGxavfKrX-WCMn9fOSfnRsKbcYRpjNOb6MIpmbDw&mtid=8bflasHHGqiai-gP3PGE8Ac&csuir=1&aep=26&q=automorphic+polymorphic+formalized",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 207
+    },
+    {
+      "ordinal": 22,
+      "title": "Laplacian Eigenvalues Raymarching SDF",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/22-laplacian-eigenvalues-raymarching-sdf.html",
+      "markdown": "conversations/22-laplacian-eigenvalues-raymarching-sdf.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CBMQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQYA&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfDlUNxhIaQRsZ1foworDVa2ivAe7b7wzG9Afn7x2ENan91XQStFuyHI6d_wOmCy7-3f7PaPoFclFnzZ6S5SEEam6fNz14gUijVETrvbxrOHevtiK3z55Flk2Vss_eCLSu8QV25OLoolcx3HHa7gZLDeROXo2fP21NnXYApwbyDFnQM_4-9buAvc-u3nzPIeM-nhGtHyuO2UXQRIrhxHBGRYiY8MN3_f4hrvhsieQkReuEEs6ulFJ7ObVfIhG17RfA_N3SMCuE3VjHpizw-F6TVzht1uMKae20cda7gX4iR3P2fItaqnR41yIcfmvUMwsu10nQHNOvBsCg&mtid=XbnlavbAHMCH9u8PgcW_iA8&csuir=1&aep=26&q=Laplacian+eigenvalues+scale+eigenvector+axis+raymarching",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 211
+    },
+    {
+      "ordinal": 23,
+      "title": "Belousov-Zhabotinsky Reaction Scaling",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/23-belousov-zhabotinsky-reaction-scaling.html",
+      "markdown": "conversations/23-belousov-zhabotinsky-reaction-scaling.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQYA&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfBVCo8K9LcjsIRb6eIf6E1Wzq3otj8DwsssQiqWXCyv2mvBDUuEkVKVlZGWllD0tQJ9NTwF7HriKwkO-AGOesDKPEhofoy9YkLxidfVIpfnVDAwe8oSXbmKXsUvPCYt6ccHsiN8FaH6e0XQoQ08vc6jyHZw9Gmam4Y4K5-HEQPBx1x-ZKCv8hm3OjFZb-s3BKbxN_dL53Jv9B6ZBqAnfGNTuJEDojj7FNJL1qW50OzUnxub1wtjwhhWmCT-2cWJTEeHvccoPewIbc0o4r94xsQXLcLOzBx6b3ITtvh2ihSXADWJBHsxV771ofHYZpBRg4kh1c4XuibfeQ&mtid=zrjlarSLAdC7i-gPmefAyA4&csuir=1&aep=26&q=Belousov-Zhabotinsky+reaction+sierpinski+triangle+%5E2+log+inverse+scaling",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 214
+    },
+    {
+      "ordinal": 24,
+      "title": "BST Path ERD ECS Diagram",
+      "prompts": 7,
+      "responses": 7,
+      "html": "conversations/24-bst-path-erd-ecs-diagram.html",
+      "markdown": "conversations/24-bst-path-erd-ecs-diagram.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQYA&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfBD0z_IGqdCrjBefTnAixIa4-s3fP3lViZdTNEbFI22u5b2xd14RKspYEpGrmiF6c_PR1acBQHhoGy_WVRHgeNgAKVCg7trdSB4G3WLAQf069IRCeGYyXN7r_9LmqfrPOblAyWZu5y8-90Z9EN7QziW_BBuZQ0Fn9CHUsHAX7YPbLWR6fi_r1ko69TVXNVuZqrf9oXfvbx02K7Al-sTdxmwCslfvL5UINDPnkJrUA0_TaMyvEjx1itBJAZ9nCZFc1SOZmYxgt_mAf0Dt4vFn8-iDmSdpgiDRXpGTqZYpYfadkQWnm96p2uzeNd_ycj60IHEMtZxcBIcuw&mtid=T9XlaviTMpSai-gP-srd8Ao&csuir=1&aep=26&q=wikipedia+ERD+ECS+diagram+path+BST",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 222
+    },
+    {
+      "ordinal": 25,
+      "title": "Cloud Bio Mechanical Chemistry",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/25-cloud-bio-mechanical-chemistry.html",
+      "markdown": "conversations/25-cloud-bio-mechanical-chemistry.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQYA&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfA6HdTlwYyyXXW8gnC2pYrRPDSrLEXbACio4auXZ0IyHvukAqYnJ7n7Owxh0VrwHdQjx6weQ2gNI5vbnBz4fbHB3lijQ41Qe00fqFOWIhFyBvmMcvY6ep8r6tL3xJIg_n3yV0_W1dbn2lnnD4NmYFOOjh-frIXJFmg5qvXsGgA82Y7eoe7VWjRYYYsU9lFFMsDJop-luLGE4YCMl166kJaad1RQxnVkyl-49WvD4Huln1RDNRPfOc8knjnh3N_EI6aZdBCPJ6fwIlKWosVfijB4M2ErCBVZyvtBaJDjx-AW45YCm8gKnhqG2xFgHdyOD7UPOscLgdERaQ&mtid=GADmateJLM-J9u8Pmrq7mQg&csuir=1&aep=26&q=cloud+mana+bio+mech+chem",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 238
+    },
+    {
+      "ordinal": 26,
+      "title": "Antithesis Inverse Logarithmic Proof",
+      "prompts": 18,
+      "responses": 18,
+      "html": "conversations/26-antithesis-inverse-logarithmic-proof.html",
+      "markdown": "conversations/26-antithesis-inverse-logarithmic-proof.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CDcQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQVQ&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfCXwXuu4-XandAK76cH49QTvqjg910bAW7E-bpDScT_ELW7g2lGb2zwJA1Z4lMDcmh-Dd_GqQvAOVL9XndoQhxkmLamUOq3fSN5KesojvMmbRf8jn7Im21Ue9paI1WamkJqxbX9cBFEQbm0JhwEflzu0RwfMlxXvNNP45HOoRs3shY_jXStyJ63_7rbvfpzv3JLOJJJdRtba35lTOcgB0UqF0JslVD-7-d0LnX6jcQuGcA-7iIfGuIdJUrQEhEAC-mUZVYLkxi0P7Zv-NdVq97gER--ERBzgVAB9HLadn1Y45Ot6p4iGEXInnglw3CEGdH-o6y2MjGfuo26GdyoI4C3LwCk84fG1Xcb7LoIwTYK2UQ5cvGlCF4&mtid=iRrmasiIO7uF9u8Pyr-s2Q0&csuir=1&aep=26&q=antithesis%2C+basically+the+inverse+logarithmic+proof+of+a+regular+thesis+dual+use",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 241
+    },
+    {
+      "ordinal": 27,
+      "title": "Cloak and Dagger Clandestine Activities",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/27-cloak-and-dagger-clandestine-activities.html",
+      "markdown": "conversations/27-cloak-and-dagger-clandestine-activities.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CDEQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQVQ&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfAx73rTADRRcwxdX1QBlOGJ3cEjrbB5ij7hZ_K0Tvew78SQG8PJF0rIDtFfpW5fcr2z6Nzykuv4U6SlRdbSzYahDlPgr4MqKiFINRmMCtkHXOGwruHsh-ZBhXG-UUMmlbnLuHGNFL1wgJbCIyy85wT79SUdm8XvoClGnH1Z6SmsclzcGX9VpXCT6VVFRw_WriK5qqSUfZx0btBPfXmsfM0a8y6owQqfFqO6D2ziGanZYXOLuTuCjz5eKCikrIUjUkqG5ynYocAHAw&mtid=AC_mar2BDLaO9u8P-aiL2Qs&csuir=1&aep=26&q=cloak+and+dagger+clandestine",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 278
+    },
+    {
+      "ordinal": 28,
+      "title": "Red Teaming Questions",
+      "prompts": 14,
+      "responses": 14,
+      "html": "conversations/28-red-teaming-questions.html",
+      "markdown": "conversations/28-red-teaming-questions.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CCsQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQVQ&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfD3s63oTo_UmgOcjfUjacM6n_w46gXgAvqPVGrn2OrAB81vj5Aab2CAA7Y2AnGkJrMmWJ5JJeY2-3qrKRB2Yl690Ms-hxWST-JwXOW9NPjBe0ndLyZ9v_oSd8wbqj3WpUYdQzOpQC_v8mlMkPGLKKyeMlpKi43oGyhpG4BxtEsCweR3hd-bA-vN5BTGf9LKGUc2N2aWlEaonIcPi7KfMZBDOh5lmhchL80mVj_ExTd_VnM4GEivCcwqLv7y4R8xa68u4Ilm7i0tGVBFRuAxdEWZN6y4yBH60uc6AfEA2B6P1xXc1P6FnMaTyM0_SZKD90R856LyxOmdeVyFO3MX2xzqFmvc8zUyBAigWRfHShOVZTcKp_DIElFm&mtid=qSPmapL-OLCfi-gPrIPP8As&csuir=1&aep=26&q=Wow%2C+this+is+just+red+teaming+questions%2C+don%27t+do+that+ever",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 283
+    },
+    {
+      "ordinal": 29,
+      "title": "Nanobots for Targeted Medical Treatment",
+      "prompts": 10,
+      "responses": 10,
+      "html": "conversations/29-nanobots-for-targeted-medical-treatment.html",
+      "markdown": "conversations/29-nanobots-for-targeted-medical-treatment.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CCUQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQVQ&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfBseW6860fWSD3aoiYKMQy5PyjGAAhU67tjeezvdlckhWrAQdGGfii-N95KkhpOJWDcR-IMLkjKuFx2DUcPsWrCS54P42C_DFFJDwuGHFknGo9OFGB06GXVQN5mVRteL6MeEaDG1IisqTt4GQl8M8sAAoVACxR6zCEUbPpenXt6Nk5rFC8czbvtJRon1mGxwntu3bNGkX3edLzGTgCNtpt0u8TjlKd3HoTf4X1yNJ86dbgFIQyen91liApaT4-rZcLTfBK3LPgjp4uI5uztz2khAU4gtaoamwxBDPXkDo84IoZeWjrfphMCoGuHamA-Ub_5pBtoqbS_hg&mtid=ozrmarb5B7eqi-gPxevc-Qk&csuir=1&aep=26&q=drones+dead+heading+and+nanobots+for+medical+use+of+payload+ferrofluid+like+navigation+targeted+treatment",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 316
+    },
+    {
+      "ordinal": 30,
+      "title": "Corporate and Intelligence Agency Power",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/30-corporate-and-intelligence-agency-power.html",
+      "markdown": "conversations/30-corporate-and-intelligence-agency-power.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CB8Q2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQVQ&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfBLPRJmbgkFGlyWmluICdcBzXcdyQK_6SPerQbg4g8P7GFpPUwrW6wvXxAFwFGSFwSnlhsTmEeHWioFHg_DasdmiUBRU8ltY5vcOWBNv44HOGid_RDVq7_BHRsRknKUGc4e0mEMn3LfvEV0uGuRunITnNIvwNRYv9kiWGekn5YymQid39fqilRs5xsTsNDeOE4x4urDPWRhgq52sz0fZt7ATmHTb2D54NP11rYxTMm5WY7NYdXE2ZKQimE_zvGAfbvK1qZAlWpxBLTIG29A3NJ6ZsC0du_5P7nqLZ-TrfxX3jV64V4-tuEchSusMHywBfvTURHEvH3C0Q&mtid=lkrmasyLOtG-i-gPoq3ZuQM&csuir=1&aep=26&q=people+disappear+when+they+threaten+pharmaceutical+manufacturers+or+any+other+conglomerate+for+that+matter+and+sometimes+both+ways%2C+but+also+intelligence+agencies+sometimes+do+the+same%2C+and+there+are+also+dumb+people+who+would+do+anything+for+50%24",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 339
+    },
+    {
+      "ordinal": 31,
+      "title": "Sentinel Island Missionary Exposure",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/31-sentinel-island-missionary-exposure.html",
+      "markdown": "conversations/31-sentinel-island-missionary-exposure.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQVQ&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfAqPstwanXRDiT2BTqZgGr7_YkLvYLAReW48KXr_sU3cTOhvSliY8G6eC89yH-waBrqxLO_O1Z0_pMzDOFwWh04Q6Iv87HHuHvqurwEpsdbY_Y1KstSVh8t6xKh3EMIFsKOI4wegzDrZvWrrWppSh4bynpDmiyh0sJJ3h4RsUV51omD_ohVnopkPt4GSjRVkE_tDu4U8Qs37JRW1uN_6VURvERMP7wx21KY1CVwqYtH1IkJlOvm3gDhWYk7cUCd92S88WEMfrfclg3Fup6uU3V2J_vSsUEcA4UPVJCEQpXqbgurF9fmkQbE46Jvv8UPocsrVCx7sKurzw&mtid=a07mav6QM9u-i-gPrpbymA4&csuir=1&aep=26&q=sentinel+island+missionary+and+traditional+flu+and+antibodies+on+contact",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 341
+    },
+    {
+      "ordinal": 32,
+      "title": "Mount Everest Body Recovery",
+      "prompts": 1,
+      "responses": 1,
+      "html": "conversations/32-mount-everest-body-recovery.html",
+      "markdown": "conversations/32-mount-everest-body-recovery.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CBMQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQVQ&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfD8GhCUWLKw6zKamblea60kGxam7jBtV4BxYfLM7K8LJGsGwbkUQ7OAYgIEFuKYXNCyRltgy8AYgF4LZ-6D_VDtrxeglhLhY0qPcabTDpBzB01carJRyg0Sus1e4qLxlDSN5VvuMovRbRpObeaxD5wOx9WVCf0kc9LtkwA6teQLy7bhlzqiLqfzmLNSazJvpZxAIR6DZg_9jBb_7lggM-JTSqaba9dCWnPvG0yBxvbUxguY0UYnuwp0n6PLzFNEk0g0WPbFs0RZ-ABNSk7HM8S65gh0OKR8SOix3CxvTKxUPf69Vz85Eeuf87tCNmbyY0S8PvZ26_-uzA&mtid=HU_mauDgFaHr7_UPpqLAoQg&csuir=1&aep=26&q=do+they+recover+bodies+from+everest+or+do+they+just+leave+them+there+because+trolley+problem+like+rescue+divers+1+slip+up+%3D%3D+death",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 343
+    },
+    {
+      "ordinal": 33,
+      "title": "Chernobyl Exclusion Zone Pokémon Cards",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/33-chernobyl-exclusion-zone-pok-mon-cards.html",
+      "markdown": "conversations/33-chernobyl-exclusion-zone-pok-mon-cards.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQVQ&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfD6QyJ9ZKAgKfiY8aIzRKNuw1GKb2D3I7CNpg2dZ33Uu_IcYJLCTnrd4yvV8ik5Nf5ZMq7NId2EzX-45mFUZtJTcQq3yac4cEO_cNYUzCSpVrqF_1MyA1KKiwAPbM8u7zuiK-1nrDUV8H5bzgHtyRAwMADFWIFAFpb__e3qyTP6EJTG29xaKDAGX_eXttY1bf8MIzy4PJzFZ0fFerCOMBpMAHyYA2fkO8QZ5dRqqWo0TgQGam7T97ADnJmjKgiovGDS3PFw5moWRWz9s4uxwpxoWhbxD1JLW3B7lIHQGnOcUljwWS-8ECxe4yIbmFqW9lFTp3VclPigskOGn2BCaa2AbSDMTNeMQw&mtid=F1DmauaQMpmA9u8PgOi7mQM&csuir=1&aep=26&q=chernobyl+exclusion+zone+derivation+deviation+pokemon+card+images+graphic",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 345
+    },
+    {
+      "ordinal": 34,
+      "title": "MKZ Bij Evenhoevige Dieren",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/34-mkz-bij-evenhoevige-dieren.html",
+      "markdown": "conversations/34-mkz-bij-evenhoevige-dieren.md",
+      "source": "https://www.google.com/search?sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahcKEwiI_brfp-WXAxUAAAAAHQAAAAAQVQ&biw=1707&bih=898&dpr=1.5&udm=50&arv=3&atvm=2&mstk=AUtExfA1xHmX3IDPaQSb2r0QvBLkIYLAMCs1hWmOEpihNzPqkH1WKoLeyLeNtsMdrrPATwpyQenGdHvDt-YAUXI4lz7yUikYbfI-L8sHhoWBPnMRQ3JkmDYW45QO-4ohKNR9OZ2nRLgrwdPRSNU1O4Ov_LDIXBw7NWhLT0GKtCoHqI_nnDAecvjejXB21_t36WJtvV0zyU4e3sGxovi1QZeJ2XK_GJueCcvYOL9XcLCcQkDFVNZyiiZjjsCyNp9SzQklDlHZni0CtnaXQiN0Cc_acZ2YZZKcss4fXbpeHu0763rgAdA6W9VGvwGg3D0MCMQtG3sD4qZXHi52x2CjDMabBpoyiqR1cTquhQ&mtid=ZVHmarT4GsOWi-gP8uGlyA0&csuir=1&aep=26&q=MKZ+dieren",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 352
+    },
+    {
+      "ordinal": 35,
+      "title": "Guido Gamious Programmer",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/35-guido-gamious-programmer.html",
+      "markdown": "conversations/35-guido-gamious-programmer.md",
+      "source": "https://www.google.com/search?q=guido+gamious&sca_esv=e9991be60d889d2d&sxsrf=AKL5yDh26C-Ra7LeZ38NpbtY_NP3B32g7w%3A1793483899704&source=chrome.ob&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVdLmrLcUHX_SwxOCJnubtIIfkFBtNyvuNluxGIMJwZYVMqv6rIn83-ZO10wQYTBLYhCDabPsO4ZIy3vg3q-KBfs07d8x4lb2kgYniRiXfR7qoDHr6wni65oW4VkZvJFnVKCCaAJ_H7c2YeE5apbyS_c12yG_&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjR5oGWoOWXAxXd_7sIHT1LPZUQ2J8OegQIFBAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfDwdBt_aBiYV18hFlbBZyH1UsdRdARbQaVU1m78hq6jf2vv37WQIDDb7hgLN0s9R46u5LybOzzbChiY-GJ6FBriptMlXe9gA8hi3Y82P7HR8wCLl-s0f7yzBlK8ut32sO5TF7Otz-XU81E2EiwXhwlVdYa0LdTkSmFKZXHi9Yp2id06e7eHDBeTv9CiIXG5_DbWlrSOv1fIBwdzZcNJBlPzlhh8urvASYe6d85O_P_231YRD4UNLssqket-xfP8nKRNNiDPacJ8xjhuz1ZXckcskqbGMmeIVgM_aVIaMdUfZUIo3isLefRXNOvJbid7k0JDdaGK4MkYKQ&csuir=1&mtid=imTmavXZGKC69u8Pta7l6AM&udm=50&arv=3&atvm=1",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 356
     }
   ],
   "missing": [],
@@ -318,6 +494,20 @@
         "frame": 5,
         "path": "assets/PYHlapyIBOW7i-gPw6rW4Ac-frame-5-1.svg",
         "caption": "Original source diagram: Asymptote & Spiral Topology Dynamics"
+      },
+      {
+        "conversation": 23,
+        "message": 6,
+        "frame": 1,
+        "path": "assets/zrjlarSLAdC7i-gPmefAyA4-frame-1-1.svg",
+        "caption": "Original source diagram: Wavefront Propagation Scaling in Fractal Geometry"
+      },
+      {
+        "conversation": 33,
+        "message": 4,
+        "frame": 1,
+        "path": "assets/F1DmauaQMpmA9u8PgOi7mQM-frame-1-1.svg",
+        "caption": "Original source diagram: Differential Gene Expression Deviations (CEZ Wildlife Mockup)"
       }
     ],
     "pendingAttachments": [],
@@ -331,22 +521,42 @@
         "conversation": 18,
         "message": 12,
         "text": "This image cannot be generated."
+      },
+      {
+        "conversation": 29,
+        "message": 14,
+        "text": "It looks like there's no response available for this search. Try asking something else."
       }
     ],
     "sourceEmptyResponses": [],
-    "note": "8 vector diagrams recovered; 3 embedded diagrams unavailable; 3 expired user-uploaded images. Source failures remain explicit in context."
+    "note": "10 vector diagrams recovered; 3 embedded diagrams unavailable; 3 expired user-uploaded images. Source failures remain explicit in context."
   },
   "latestUpdate": {
-    "at": "2026-10-31T07:25:04.929245+00:00",
+    "at": "2026-10-31T22:43:51.976030+00:00",
     "date": "2026-10-31",
     "batchId": "2026-10-30-public-puck-ic-u-jok-e",
     "batchTitle": "public puck ic U jok E",
     "status": "transcripts-complete-media-partial",
-    "method": "Extended Theological Symbol Meaning from 10 to 18 prompt-response pairs since commit 26f2c2d. All previous pairs are unchanged, and the complete 18-pair transcript was read back with identical visible text. Chromatic Aberration Effect remains unchanged at seven pairs. Earlier collections remain unchanged.",
-    "newConversationIds": [],
-    "updatedConversationIds": [
-      "GYvlasWpNdmQ9u8Pz_K4qAI"
+    "method": "Added 16 new conversations and 75 prompt-response pairs since commit 6e968c5. All 16 new conversations were read back with identical visible text after full loading. Two additional source vector diagrams were recovered from the original Chrome tabs. Theological Symbol Meaning and Chromatic Aberration Effect were checked and remain unchanged. Earlier collections remain unchanged.",
+    "newConversationIds": [
+      "imTmavXZGKC69u8Pta7l6AM",
+      "ZVHmarT4GsOWi-gP8uGlyA0",
+      "F1DmauaQMpmA9u8PgOi7mQM",
+      "HU_mauDgFaHr7_UPpqLAoQg",
+      "a07mav6QM9u-i-gPrpbymA4",
+      "lkrmasyLOtG-i-gPoq3ZuQM",
+      "ozrmarb5B7eqi-gPxevc-Qk",
+      "qSPmapL-OLCfi-gPrIPP8As",
+      "AC_mar2BDLaO9u8P-aiL2Qs",
+      "iRrmasiIO7uF9u8Pyr-s2Q0",
+      "GADmateJLM-J9u8Pmrq7mQg",
+      "T9XlaviTMpSai-gP-srd8Ao",
+      "zrjlarSLAdC7i-gPmefAyA4",
+      "XbnlavbAHMCH9u8PgcW_iA8",
+      "8bflasHHGqiai-gP3PGE8Ac",
+      "l5rlav3rFOyVi-gPtZ-QiQ8"
     ],
+    "updatedConversationIds": [],
     "records": [
       {
         "ordinal": 1,
@@ -537,17 +747,177 @@
           "prompts": 7,
           "responses": 7
         }
+      },
+      {
+        "ordinal": 20,
+        "threadId": "l5rlav3rFOyVi-gPtZ-QiQ8",
+        "title": "Four Thirds",
+        "status": "captured",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 21,
+        "threadId": "8bflasHHGqiai-gP3PGE8Ac",
+        "title": "Automorphic Polymorphic Formalized Systems",
+        "status": "captured",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 22,
+        "threadId": "XbnlavbAHMCH9u8PgcW_iA8",
+        "title": "Laplacian Eigenvalues Raymarching SDF",
+        "status": "captured",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 23,
+        "threadId": "zrjlarSLAdC7i-gPmefAyA4",
+        "title": "Belousov-Zhabotinsky Reaction Scaling",
+        "status": "captured",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        }
+      },
+      {
+        "ordinal": 24,
+        "threadId": "T9XlaviTMpSai-gP-srd8Ao",
+        "title": "BST Path ERD ECS Diagram",
+        "status": "captured",
+        "counts": {
+          "prompts": 7,
+          "responses": 7
+        }
+      },
+      {
+        "ordinal": 25,
+        "threadId": "GADmateJLM-J9u8Pmrq7mQg",
+        "title": "Cloud Bio Mechanical Chemistry",
+        "status": "captured",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
+      },
+      {
+        "ordinal": 26,
+        "threadId": "iRrmasiIO7uF9u8Pyr-s2Q0",
+        "title": "Antithesis Inverse Logarithmic Proof",
+        "status": "captured",
+        "counts": {
+          "prompts": 18,
+          "responses": 18
+        }
+      },
+      {
+        "ordinal": 27,
+        "threadId": "AC_mar2BDLaO9u8P-aiL2Qs",
+        "title": "Cloak and Dagger Clandestine Activities",
+        "status": "captured",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 28,
+        "threadId": "qSPmapL-OLCfi-gPrIPP8As",
+        "title": "Red Teaming Questions",
+        "status": "captured",
+        "counts": {
+          "prompts": 14,
+          "responses": 14
+        }
+      },
+      {
+        "ordinal": 29,
+        "threadId": "ozrmarb5B7eqi-gPxevc-Qk",
+        "title": "Nanobots for Targeted Medical Treatment",
+        "status": "captured",
+        "counts": {
+          "prompts": 10,
+          "responses": 10
+        }
+      },
+      {
+        "ordinal": 30,
+        "threadId": "lkrmasyLOtG-i-gPoq3ZuQM",
+        "title": "Corporate and Intelligence Agency Power",
+        "status": "captured",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 31,
+        "threadId": "a07mav6QM9u-i-gPrpbymA4",
+        "title": "Sentinel Island Missionary Exposure",
+        "status": "captured",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 32,
+        "threadId": "HU_mauDgFaHr7_UPpqLAoQg",
+        "title": "Mount Everest Body Recovery",
+        "status": "captured",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        }
+      },
+      {
+        "ordinal": 33,
+        "threadId": "F1DmauaQMpmA9u8PgOi7mQM",
+        "title": "Chernobyl Exclusion Zone Pokémon Cards",
+        "status": "captured",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        }
+      },
+      {
+        "ordinal": 34,
+        "threadId": "ZVHmarT4GsOWi-gP8uGlyA0",
+        "title": "MKZ Bij Evenhoevige Dieren",
+        "status": "captured",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 35,
+        "threadId": "imTmavXZGKC69u8Pta7l6AM",
+        "title": "Guido Gamious Programmer",
+        "status": "captured",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
       }
     ]
   },
   "pdf": {
     "path": "output/pdf/public puck ic U jok E.pdf",
     "status": "transcripts-complete-media-partial",
-    "pages": 205,
-    "bytes": 9984259,
-    "sha256": "930ce7824c32b489af7312eaac14ad8aee9e2a3b83865dff4808d59dac58568c",
-    "bookmarks": 21,
-    "promptMarkers": 125,
-    "responseMarkers": 125
+    "pages": 358,
+    "bytes": 17523239,
+    "sha256": "4db4def4ed09e13dd261d19bc80f232165cfd725eea56e1b2eab834123808e78",
+    "bookmarks": 37,
+    "promptMarkers": 200,
+    "responseMarkers": 200
   }
 }

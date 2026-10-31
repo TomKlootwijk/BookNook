@@ -96,6 +96,20 @@
       "frame": 5,
       "path": "assets/PYHlapyIBOW7i-gPw6rW4Ac-frame-5-1.svg",
       "caption": "Original source diagram: Asymptote & Spiral Topology Dynamics"
+    },
+    {
+      "conversation": 23,
+      "message": 6,
+      "frame": 1,
+      "path": "assets/zrjlarSLAdC7i-gPmefAyA4-frame-1-1.svg",
+      "caption": "Original source diagram: Wavefront Propagation Scaling in Fractal Geometry"
+    },
+    {
+      "conversation": 33,
+      "message": 4,
+      "frame": 1,
+      "path": "assets/F1DmauaQMpmA9u8PgOi7mQM-frame-1-1.svg",
+      "caption": "Original source diagram: Differential Gene Expression Deviations (CEZ Wildlife Mockup)"
     }
   ],
   "pendingAttachments": [],
@@ -109,8 +123,13 @@
       "conversation": 18,
       "message": 12,
       "text": "This image cannot be generated."
+    },
+    {
+      "conversation": 29,
+      "message": 14,
+      "text": "It looks like there's no response available for this search. Try asking something else."
     }
   ],
   "sourceEmptyResponses": [],
-  "note": "8 vector diagrams recovered; 3 embedded diagrams unavailable; 3 expired user-uploaded images. Source failures remain explicit in context."
+  "note": "10 vector diagrams recovered; 3 embedded diagrams unavailable; 3 expired user-uploaded images. Source failures remain explicit in context."
 }

@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-31T06:41:24.834Z",
+  "at": "2026-10-31T22:37:45.882Z",
   "frames": [
     {
       "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
@@ -104,6 +104,26 @@
       "src": "https://4mx5upukbpgg2ogut17osujhhhl55jsji0hv4hpv5towjwxiok-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
       "status": "unavailable",
       "reason": "Frame body could not be read."
+    },
+    {
+      "threadId": "F1DmauaQMpmA9u8PgOi7mQM",
+      "frame": 1,
+      "src": "https://4a3w83h1n384xc8bdr4f0f97ne2l7alo0h96qurt2i2k7f0tw3-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+      "status": "captured",
+      "path": "raw/frames/F1DmauaQMpmA9u8PgOi7mQM-frame-1.json",
+      "svgCount": 1,
+      "canvasCount": 0,
+      "textLength": 474
+    },
+    {
+      "threadId": "zrjlarSLAdC7i-gPmefAyA4",
+      "frame": 1,
+      "src": "https://5mzp0989iejnlmgnth0zwsk0j491mhsfi5osae8d2bxs2wo842-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+      "status": "captured",
+      "path": "raw/frames/zrjlarSLAdC7i-gPmefAyA4-frame-1.json",
+      "svgCount": 1,
+      "canvasCount": 0,
+      "textLength": 317
     }
   ]
 }

@@ -1,0 +1,63 @@
+{
+  "at": "2026-10-31T07:20:29.178Z",
+  "previousCommit": "26f2c2d420a216aa7419cdf2048ddf6035272b5e",
+  "newIds": [],
+  "updatedIds": [
+    "GYvlasWpNdmQ9u8Pz_K4qAI"
+  ],
+  "newPairs": 8,
+  "existingChecks": [
+    {
+      "threadId": "GYvlasWpNdmQ9u8Pz_K4qAI",
+      "previous": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "counts": {
+        "prompts": 18,
+        "responses": 18
+      },
+      "newPairs": 8,
+      "previousPairsUnchanged": true
+    },
+    {
+      "threadId": "e47laqjZN9y_i-gP7v6qsA0",
+      "previous": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sameVisibleText": true
+    }
+  ],
+  "readbacks": [
+    {
+      "threadId": "GYvlasWpNdmQ9u8Pz_K4qAI",
+      "title": "Theological Symbol Meaning",
+      "previous": {
+        "prompts": 18,
+        "responses": 18
+      },
+      "counts": {
+        "prompts": 18,
+        "responses": 18
+      },
+      "sameVisibleText": true
+    }
+  ],
+  "historyBoundary": [
+    "Theological Symbol Meaning",
+    "Chromatic Aberration Effect",
+    "Risicospreiding in Beleggen"
+  ],
+  "imageRecovery": {
+    "source": "original Chrome tab",
+    "messages": [
+      3,
+      15
+    ]
+  }
+}

@@ -1,18 +1,18 @@
 {
-  "verifiedAt": "2026-10-31T07:26:48.289830+00:00",
+  "verifiedAt": "2026-10-31T22:51:21.309179+00:00",
   "status": "transcripts-verified-media-partial",
-  "conversations": 19,
-  "newConversations": 0,
-  "updatedConversations": 1,
-  "newPromptResponsePairs": 8,
-  "prompts": 125,
-  "responseBlocks": 125,
-  "pages": 205,
-  "formulas": 983,
-  "embeddedImages": 187,
-  "pdfSha256": "930ce7824c32b489af7312eaac14ad8aee9e2a3b83865dff4808d59dac58568c",
+  "conversations": 35,
+  "newConversations": 16,
+  "updatedConversations": 0,
+  "newPromptResponsePairs": 75,
+  "prompts": 200,
+  "responseBlocks": 200,
+  "pages": 358,
+  "formulas": 1498,
+  "embeddedImages": 373,
+  "pdfSha256": "4db4def4ed09e13dd261d19bc80f232165cfd725eea56e1b2eab834123808e78",
   "visualReview": {
-    "pageCount": 205,
+    "pageCount": 358,
     "allPagesRendered": true,
     "reviewedPages": [
       1,
@@ -219,24 +219,181 @@
       202,
       203,
       204,
-      205
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358
     ],
     "contactSheets": [
-      "contact-08.png",
-      "contact-09.png"
+      "contact-09.png",
+      "contact-10.png",
+      "contact-11.png",
+      "contact-12.png",
+      "contact-13.png",
+      "contact-14.png",
+      "contact-15.png"
     ],
     "detailPages": [
       1,
       2,
-      194,
-      195,
-      196,
-      197
+      219,
+      289,
+      331,
+      347
     ],
-    "previousVisualReviewCommit": "26f2c2d420a216aa7419cdf2048ddf6035272b5e",
+    "previousVisualReviewCommit": "6e968c588cc3f819fed00cc0ee0124db3e53b491",
     "unchangedPageCheck": {
-      "priorCommit": "26f2c2d420a216aa7419cdf2048ddf6035272b5e",
-      "comparison": "SHA-256 of 1100-pixel PNG renders",
+      "comparison": "Exact RGB pixels of 1100-pixel page renders, excluding the bottom 45 pixels containing page-number footers",
       "unchangedPages": [
         3,
         4,
@@ -411,6 +568,7 @@
         173,
         174,
         175,
+        176,
         177,
         178,
         179,
@@ -420,12 +578,7 @@
         183,
         184,
         185,
-        186
-      ],
-      "changedPages": [
-        1,
-        2,
-        176,
+        186,
         187,
         188,
         189,
@@ -445,15 +598,9 @@
         203,
         204,
         205
-      ],
-      "changedSinceDiagramPaginationFix": [
-        1,
-        195,
-        196,
-        197
       ]
     },
-    "result": "183 pages are pixel-identical to the previously reviewed PDF. The changed cover, index, chapter heading and all added or repaginated content were visually reviewed. The new text diagrams are kept together on a page. No added clipping or overlaps observed."
+    "result": "203 pre-existing transcript pages have identical body pixels to the previously reviewed PDF. All new content in the final rendering was visually reviewed in seven contact sheets, with detailed inspection of both vector diagrams and dense formula pages. The final cover and compact single-page index were inspected separately. No added clipping or overlaps observed."
   },
   "brokenLocalLinks": [],
   "pdfSyntaxIssues": [],
@@ -498,29 +645,45 @@
   ],
   "priorArchivesUnchanged": true,
   "readback": {
-    "at": "2026-10-31T07:20:29.178Z",
-    "previousCommit": "26f2c2d420a216aa7419cdf2048ddf6035272b5e",
-    "newIds": [],
-    "updatedIds": [
-      "GYvlasWpNdmQ9u8Pz_K4qAI"
+    "at": "2026-10-31T22:43:09.701Z",
+    "previousCommit": "6e968c588cc3f819fed00cc0ee0124db3e53b491",
+    "newIds": [
+      "imTmavXZGKC69u8Pta7l6AM",
+      "ZVHmarT4GsOWi-gP8uGlyA0",
+      "F1DmauaQMpmA9u8PgOi7mQM",
+      "HU_mauDgFaHr7_UPpqLAoQg",
+      "a07mav6QM9u-i-gPrpbymA4",
+      "lkrmasyLOtG-i-gPoq3ZuQM",
+      "ozrmarb5B7eqi-gPxevc-Qk",
+      "qSPmapL-OLCfi-gPrIPP8As",
+      "AC_mar2BDLaO9u8P-aiL2Qs",
+      "iRrmasiIO7uF9u8Pyr-s2Q0",
+      "GADmateJLM-J9u8Pmrq7mQg",
+      "T9XlaviTMpSai-gP-srd8Ao",
+      "zrjlarSLAdC7i-gPmefAyA4",
+      "XbnlavbAHMCH9u8PgcW_iA8",
+      "8bflasHHGqiai-gP3PGE8Ac",
+      "l5rlav3rFOyVi-gPtZ-QiQ8"
     ],
-    "newPairs": 8,
+    "updatedIds": [],
+    "newPairs": 75,
     "existingChecks": [
       {
         "threadId": "GYvlasWpNdmQ9u8Pz_K4qAI",
+        "title": "Theological Symbol Meaning",
         "previous": {
-          "prompts": 10,
-          "responses": 10
+          "prompts": 18,
+          "responses": 18
         },
         "counts": {
           "prompts": 18,
           "responses": 18
         },
-        "newPairs": 8,
-        "previousPairsUnchanged": true
+        "sameVisibleText": true
       },
       {
         "threadId": "e47laqjZN9y_i-gP7v6qsA0",
+        "title": "Chromatic Aberration Effect",
         "previous": {
           "prompts": 7,
           "responses": 7
@@ -534,8 +697,125 @@
     ],
     "readbacks": [
       {
-        "threadId": "GYvlasWpNdmQ9u8Pz_K4qAI",
-        "title": "Theological Symbol Meaning",
+        "threadId": "imTmavXZGKC69u8Pta7l6AM",
+        "title": "Guido Gamious Programmer",
+        "previous": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "ZVHmarT4GsOWi-gP8uGlyA0",
+        "title": "MKZ Bij Evenhoevige Dieren",
+        "previous": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "F1DmauaQMpmA9u8PgOi7mQM",
+        "title": "Chernobyl Exclusion Zone Pokémon Cards",
+        "previous": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "HU_mauDgFaHr7_UPpqLAoQg",
+        "title": "Mount Everest Body Recovery",
+        "previous": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "a07mav6QM9u-i-gPrpbymA4",
+        "title": "Sentinel Island Missionary Exposure",
+        "previous": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "lkrmasyLOtG-i-gPoq3ZuQM",
+        "title": "Corporate and Intelligence Agency Power",
+        "previous": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "ozrmarb5B7eqi-gPxevc-Qk",
+        "title": "Nanobots for Targeted Medical Treatment",
+        "previous": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "counts": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "qSPmapL-OLCfi-gPrIPP8As",
+        "title": "Red Teaming Questions",
+        "previous": {
+          "prompts": 14,
+          "responses": 14
+        },
+        "counts": {
+          "prompts": 14,
+          "responses": 14
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "AC_mar2BDLaO9u8P-aiL2Qs",
+        "title": "Cloak and Dagger Clandestine Activities",
+        "previous": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "iRrmasiIO7uF9u8Pyr-s2Q0",
+        "title": "Antithesis Inverse Logarithmic Proof",
         "previous": {
           "prompts": 18,
           "responses": 18
@@ -545,23 +825,112 @@
           "responses": 18
         },
         "sameVisibleText": true
+      },
+      {
+        "threadId": "GADmateJLM-J9u8Pmrq7mQg",
+        "title": "Cloud Bio Mechanical Chemistry",
+        "previous": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "T9XlaviTMpSai-gP-srd8Ao",
+        "title": "BST Path ERD ECS Diagram",
+        "previous": {
+          "prompts": 7,
+          "responses": 7
+        },
+        "counts": {
+          "prompts": 7,
+          "responses": 7
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "zrjlarSLAdC7i-gPmefAyA4",
+        "title": "Belousov-Zhabotinsky Reaction Scaling",
+        "previous": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "XbnlavbAHMCH9u8PgcW_iA8",
+        "title": "Laplacian Eigenvalues Raymarching SDF",
+        "previous": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "8bflasHHGqiai-gP3PGE8Ac",
+        "title": "Automorphic Polymorphic Formalized Systems",
+        "previous": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true
+      },
+      {
+        "threadId": "l5rlav3rFOyVi-gPtZ-QiQ8",
+        "title": "Four Thirds",
+        "previous": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "sameVisibleText": true
       }
     ],
     "historyBoundary": [
+      "Guido Gamious Programmer",
+      "MKZ Bij Evenhoevige Dieren",
+      "Chernobyl Exclusion Zone Pokémon Cards",
+      "Mount Everest Body Recovery",
+      "Sentinel Island Missionary Exposure",
+      "Corporate and Intelligence Agency Power",
+      "Nanobots for Targeted Medical Treatment",
+      "Red Teaming Questions",
+      "Cloak and Dagger Clandestine Activities",
+      "Antithesis Inverse Logarithmic Proof",
+      "Cloud Bio Mechanical Chemistry",
+      "BST Path ERD ECS Diagram",
+      "Belousov-Zhabotinsky Reaction Scaling",
+      "Laplacian Eigenvalues Raymarching SDF",
+      "Automorphic Polymorphic Formalized Systems",
+      "Four Thirds",
       "Theological Symbol Meaning",
       "Chromatic Aberration Effect",
-      "Risicospreiding in Beleggen"
+      "Risicospreiding in Beleggen",
+      "Biofilm Tensor and Vantablack"
     ],
-    "imageRecovery": {
-      "source": "original Chrome tab",
-      "messages": [
-        3,
-        15
-      ]
-    }
+    "loadingNote": "Automorphic Polymorphic Formalized Systems was rechecked after delayed response loading; its final two-pair capture was confirmed identical."
   },
   "widgetVerification": {
-    "at": "2026-10-31T06:41:24.834Z",
+    "at": "2026-10-31T22:37:45.882Z",
     "frames": [
       {
         "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
@@ -666,6 +1035,26 @@
         "src": "https://4mx5upukbpgg2ogut17osujhhhl55jsji0hv4hpv5towjwxiok-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
         "status": "unavailable",
         "reason": "Frame body could not be read."
+      },
+      {
+        "threadId": "F1DmauaQMpmA9u8PgOi7mQM",
+        "frame": 1,
+        "src": "https://4a3w83h1n384xc8bdr4f0f97ne2l7alo0h96qurt2i2k7f0tw3-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "captured",
+        "path": "raw/frames/F1DmauaQMpmA9u8PgOi7mQM-frame-1.json",
+        "svgCount": 1,
+        "canvasCount": 0,
+        "textLength": 474
+      },
+      {
+        "threadId": "zrjlarSLAdC7i-gPmefAyA4",
+        "frame": 1,
+        "src": "https://5mzp0989iejnlmgnth0zwsk0j491mhsfi5osae8d2bxs2wo842-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "captured",
+        "path": "raw/frames/zrjlarSLAdC7i-gPmefAyA4-frame-1.json",
+        "svgCount": 1,
+        "canvasCount": 0,
+        "textLength": 317
       }
     ]
   }
