@@ -1,0 +1,51 @@
+{
+  "at": "2026-10-31T06:50:49.907Z",
+  "previousCommit": "63dc2c22ddc252caea5b3200a80c90549b038779",
+  "newIds": [
+    "GYvlasWpNdmQ9u8Pz_K4qAI",
+    "e47laqjZN9y_i-gP7v6qsA0"
+  ],
+  "existingChecks": [
+    {
+      "threadId": "vAXlavOSH_iG9u8Puo-BoAY",
+      "title": "Risicospreiding in Beleggen",
+      "previous": {
+        "prompts": 19,
+        "responses": 19
+      },
+      "counts": {
+        "prompts": 19,
+        "responses": 19
+      },
+      "sameVisibleText": true
+    }
+  ],
+  "readbacks": [
+    {
+      "threadId": "GYvlasWpNdmQ9u8Pz_K4qAI",
+      "title": "Theological Symbol Meaning",
+      "previous": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "e47laqjZN9y_i-gP7v6qsA0",
+      "title": "Chromatic Aberration Effect",
+      "previous": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sameVisibleText": true
+    }
+  ]
+}

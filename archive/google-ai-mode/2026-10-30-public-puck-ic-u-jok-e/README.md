@@ -1,8 +1,8 @@
 # public puck ic U jok E
 
-Aparte collectie gestart op 30 oktober 2026, na poi. Op 31 oktober eerst aangevuld met 13 gesprekken en 78 vraag-antwoordparen, daarna met nog twee gesprekken en 17 vraag-antwoordparen. Dat zijn vandaag samen 15 nieuwe gesprekken en 95 nieuwe paren.
+Aparte collectie gestart op 30 oktober 2026, na poi. Laatste aanvulling op 31 oktober: acht nieuwe vraag-antwoordparen in Theological Symbol Meaning, dat nu 18 paren bevat. De collectie telt 19 gesprekken en 125 paren.
 
-- [PDF - 195 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
+- [PDF - 205 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
 - [Volledige transcripties](all-conversations.md)
 - [HTML-index](index.html)
 
@@ -25,13 +25,13 @@ Aparte collectie gestart op 30 oktober 2026, na poi. Op 31 oktober eerst aangevu
 | Vrije Radicalen Berekening | 9 | 9 | 94 |
 | Biofilm Tensor and Vantablack | 16 | 16 | 109 |
 | Risicospreiding in Beleggen | 19 | 19 | 133 |
-| Theological Symbol Meaning | 10 | 10 | 176 |
-| Chromatic Aberration Effect | 7 | 7 | 188 |
+| Theological Symbol Meaning | 18 | 18 | 176 |
+| Chromatic Aberration Effect | 7 | 7 | 198 |
 
-Alle 117 vraag-antwoordparen, bronlinks en 928 formules zijn bewaard. De uitvoer bevat 187 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Acht ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard; daarvoor zijn ook de oorspronkelijke Chrome-tabbladen uitgelezen. De oorspronkelijke SVG's, HTML-opnamen en gegenereerde JPEG's staan in het archief.
+Alle 125 vraag-antwoordparen, bronlinks en 983 formules zijn bewaard. De uitvoer bevat 187 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Acht ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard; daarvoor zijn ook de oorspronkelijke Chrome-tabbladen uitgelezen. De oorspronkelijke SVG's, HTML-opnamen en gegenereerde JPEG's staan in het archief.
 
 Nog onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één interactieve visualisatie in **Biofilm Tensor and Vantablack**, en drie verlopen geüploade afbeeldingen in **Risicospreiding in Beleggen**. Ze zijn bij hun bericht gemarkeerd. Google's foutmeldingen over verlopen inhoud en een niet-gegenereerde afbeelding zijn letterlijk bewaard. Er zijn geen overige ontbrekende antwoordafbeeldingen, gegenereerde bijlagen of lege antwoorden aangetroffen. Afbeeldingen behouden de door Google geleverde pixels en eventuele oorspronkelijke uitsneden; externe bronpagina's worden als verwijzingen bewaard.
 
-Alle 195 pagina's zijn gerenderd en visueel gecontroleerd. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen en PDF-structuur zijn gecontroleerd. Alle 15 nieuwe gesprekken van vandaag zijn opnieuw uitgelezen met identieke zichtbare tekst. Bij deze laatste aanvulling is ook Risicospreiding in Beleggen hercontroleerd en ongewijzigd gebleven. Details staan in `manifest.json`, `update-check.json`, `widget-check-2026-10-31.json` en `verification.json`.
+Alle 205 pagina's zijn gerenderd. Gewijzigde pagina's zijn visueel gecontroleerd; ongewijzigde pagina's zijn vergeleken met de eerder gecontroleerde versie. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen en PDF-structuur zijn gecontroleerd. Het volledige bijgewerkte gesprek is opnieuw uitgelezen met identieke zichtbare tekst. De eerdere tien paren zijn ongewijzigd. Chromatic Aberration Effect is hercontroleerd en blijft op zeven paren. Details staan in `manifest.json`, `update-check.json`, `widget-check-2026-10-31.json` en `verification.json`.
 
 Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief; die bestanden zijn ongewijzigd. De transcripties zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole.

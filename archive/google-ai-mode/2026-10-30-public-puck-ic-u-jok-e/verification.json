@@ -1,17 +1,18 @@
 {
-  "verifiedAt": "2026-10-31T06:55:16.673953+00:00",
+  "verifiedAt": "2026-10-31T07:26:48.289830+00:00",
   "status": "transcripts-verified-media-partial",
   "conversations": 19,
-  "newConversations": 2,
-  "newPromptResponsePairs": 17,
-  "prompts": 117,
-  "responseBlocks": 117,
-  "pages": 195,
-  "formulas": 928,
+  "newConversations": 0,
+  "updatedConversations": 1,
+  "newPromptResponsePairs": 8,
+  "prompts": 125,
+  "responseBlocks": 125,
+  "pages": 205,
+  "formulas": 983,
   "embeddedImages": 187,
-  "pdfSha256": "e4367770ec6760059d3d9b0c57739d80f4c80c1f7d19efe78314d39d950d2dbc",
+  "pdfSha256": "930ce7824c32b489af7312eaac14ad8aee9e2a3b83865dff4808d59dac58568c",
   "visualReview": {
-    "pageCount": 195,
+    "pageCount": 205,
     "allPagesRendered": true,
     "reviewedPages": [
       1,
@@ -208,23 +209,34 @@
       192,
       193,
       194,
-      195
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205
     ],
     "contactSheets": [
-      "contact-08.png"
+      "contact-08.png",
+      "contact-09.png"
     ],
     "detailPages": [
       1,
       2,
-      177,
-      183,
-      193,
-      195
+      194,
+      195,
+      196,
+      197
     ],
-    "previousVisualReviewCommit": "63dc2c22ddc252caea5b3200a80c90549b038779",
+    "previousVisualReviewCommit": "26f2c2d420a216aa7419cdf2048ddf6035272b5e",
     "unchangedPageCheck": {
-      "priorCommit": "63dc2c22ddc252caea5b3200a80c90549b038779",
-      "comparison": "SHA-256 of 1100-pixel PNG page renders",
+      "priorCommit": "26f2c2d420a216aa7419cdf2048ddf6035272b5e",
+      "comparison": "SHA-256 of 1100-pixel PNG renders",
       "unchangedPages": [
         3,
         4,
@@ -398,11 +410,50 @@
         172,
         173,
         174,
-        175
+        175,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186
       ],
-      "changedPages": []
+      "changedPages": [
+        1,
+        2,
+        176,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205
+      ],
+      "changedSinceDiagramPaginationFix": [
+        1,
+        195,
+        196,
+        197
+      ]
     },
-    "result": "Pages 3-175 are pixel-identical to the visually reviewed prior PDF. The updated cover and index and all new pages were inspected; selected new diagrams, images, formulas and final response checked at page scale. No added clipping or overlaps observed."
+    "result": "183 pages are pixel-identical to the previously reviewed PDF. The changed cover, index, chapter heading and all added or repaginated content were visually reviewed. The new text diagrams are kept together on a page. No added clipping or overlaps observed."
   },
   "brokenLocalLinks": [],
   "pdfSyntaxIssues": [],
@@ -447,23 +498,36 @@
   ],
   "priorArchivesUnchanged": true,
   "readback": {
-    "at": "2026-10-31T06:50:49.907Z",
-    "previousCommit": "63dc2c22ddc252caea5b3200a80c90549b038779",
-    "newIds": [
-      "GYvlasWpNdmQ9u8Pz_K4qAI",
-      "e47laqjZN9y_i-gP7v6qsA0"
+    "at": "2026-10-31T07:20:29.178Z",
+    "previousCommit": "26f2c2d420a216aa7419cdf2048ddf6035272b5e",
+    "newIds": [],
+    "updatedIds": [
+      "GYvlasWpNdmQ9u8Pz_K4qAI"
     ],
+    "newPairs": 8,
     "existingChecks": [
       {
-        "threadId": "vAXlavOSH_iG9u8Puo-BoAY",
-        "title": "Risicospreiding in Beleggen",
+        "threadId": "GYvlasWpNdmQ9u8Pz_K4qAI",
         "previous": {
-          "prompts": 19,
-          "responses": 19
+          "prompts": 10,
+          "responses": 10
         },
         "counts": {
-          "prompts": 19,
-          "responses": 19
+          "prompts": 18,
+          "responses": 18
+        },
+        "newPairs": 8,
+        "previousPairsUnchanged": true
+      },
+      {
+        "threadId": "e47laqjZN9y_i-gP7v6qsA0",
+        "previous": {
+          "prompts": 7,
+          "responses": 7
+        },
+        "counts": {
+          "prompts": 7,
+          "responses": 7
         },
         "sameVisibleText": true
       }
@@ -473,29 +537,28 @@
         "threadId": "GYvlasWpNdmQ9u8Pz_K4qAI",
         "title": "Theological Symbol Meaning",
         "previous": {
-          "prompts": 10,
-          "responses": 10
+          "prompts": 18,
+          "responses": 18
         },
         "counts": {
-          "prompts": 10,
-          "responses": 10
-        },
-        "sameVisibleText": true
-      },
-      {
-        "threadId": "e47laqjZN9y_i-gP7v6qsA0",
-        "title": "Chromatic Aberration Effect",
-        "previous": {
-          "prompts": 7,
-          "responses": 7
-        },
-        "counts": {
-          "prompts": 7,
-          "responses": 7
+          "prompts": 18,
+          "responses": 18
         },
         "sameVisibleText": true
       }
-    ]
+    ],
+    "historyBoundary": [
+      "Theological Symbol Meaning",
+      "Chromatic Aberration Effect",
+      "Risicospreiding in Beleggen"
+    ],
+    "imageRecovery": {
+      "source": "original Chrome tab",
+      "messages": [
+        3,
+        15
+      ]
+    }
   },
   "widgetVerification": {
     "at": "2026-10-31T06:41:24.834Z",
