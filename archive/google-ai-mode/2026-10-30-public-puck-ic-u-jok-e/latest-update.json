@@ -1,29 +1,17 @@
 {
-  "at": "2026-10-31T22:43:51.976030+00:00",
-  "date": "2026-10-31",
+  "at": "2026-11-01T06:52:09.601646+00:00",
+  "date": "2026-11-01",
   "batchId": "2026-10-30-public-puck-ic-u-jok-e",
   "batchTitle": "public puck ic U jok E",
   "status": "transcripts-complete-media-partial",
-  "method": "Added 16 new conversations and 75 prompt-response pairs since commit 6e968c5. All 16 new conversations were read back with identical visible text after full loading. Two additional source vector diagrams were recovered from the original Chrome tabs. Theological Symbol Meaning and Chromatic Aberration Effect were checked and remain unchanged. Earlier collections remain unchanged.",
+  "method": "Added two new conversations with 15 pairs and imported the complete 23-pair updated Biologisch vs Onbespoten Groenten transcript from an earlier collection. This contributes 22 additional pairs beyond its earlier single-pair capture, which remains unchanged in Putin Input. All three transcripts were read back with identical visible text. Guido Gamious Programmer and MKZ Bij Evenhoevige Dieren were checked and remain unchanged. Previous commit: 5f31f93.",
   "newConversationIds": [
-    "imTmavXZGKC69u8Pta7l6AM",
-    "ZVHmarT4GsOWi-gP8uGlyA0",
-    "F1DmauaQMpmA9u8PgOi7mQM",
-    "HU_mauDgFaHr7_UPpqLAoQg",
-    "a07mav6QM9u-i-gPrpbymA4",
-    "lkrmasyLOtG-i-gPoq3ZuQM",
-    "ozrmarb5B7eqi-gPxevc-Qk",
-    "qSPmapL-OLCfi-gPrIPP8As",
-    "AC_mar2BDLaO9u8P-aiL2Qs",
-    "iRrmasiIO7uF9u8Pyr-s2Q0",
-    "GADmateJLM-J9u8Pmrq7mQg",
-    "T9XlaviTMpSai-gP-srd8Ao",
-    "zrjlarSLAdC7i-gPmefAyA4",
-    "XbnlavbAHMCH9u8PgcW_iA8",
-    "8bflasHHGqiai-gP3PGE8Ac",
-    "l5rlav3rFOyVi-gPtZ-QiQ8"
+    "o8zmaqzjGNG-i-gP7a_i0Qo",
+    "B9fmaquSDM3xi-gPz-fpwAI"
   ],
-  "updatedConversationIds": [],
+  "updatedConversationIds": [
+    "RVjjapSpDryL9u8P98GeiA8"
+  ],
   "records": [
     {
       "ordinal": 1,
@@ -373,6 +361,36 @@
       "counts": {
         "prompts": 3,
         "responses": 3
+      }
+    },
+    {
+      "ordinal": 36,
+      "threadId": "o8zmaqzjGNG-i-gP7a_i0Qo",
+      "title": "Pride Month Perspectives",
+      "status": "captured",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 37,
+      "threadId": "B9fmaquSDM3xi-gPz-fpwAI",
+      "title": "NotebookLM Subscription in Netherlands",
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 38,
+      "threadId": "RVjjapSpDryL9u8P98GeiA8",
+      "title": "Biologisch vs Onbespoten Groenten",
+      "status": "captured",
+      "counts": {
+        "prompts": 23,
+        "responses": 23
       }
     }
   ]

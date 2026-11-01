@@ -1,24 +1,12 @@
 {
-  "at": "2026-10-31T22:43:51.976030+00:00",
+  "at": "2026-11-01T06:52:09.601646+00:00",
   "newConversationIds": [
-    "imTmavXZGKC69u8Pta7l6AM",
-    "ZVHmarT4GsOWi-gP8uGlyA0",
-    "F1DmauaQMpmA9u8PgOi7mQM",
-    "HU_mauDgFaHr7_UPpqLAoQg",
-    "a07mav6QM9u-i-gPrpbymA4",
-    "lkrmasyLOtG-i-gPoq3ZuQM",
-    "ozrmarb5B7eqi-gPxevc-Qk",
-    "qSPmapL-OLCfi-gPrIPP8As",
-    "AC_mar2BDLaO9u8P-aiL2Qs",
-    "iRrmasiIO7uF9u8Pyr-s2Q0",
-    "GADmateJLM-J9u8Pmrq7mQg",
-    "T9XlaviTMpSai-gP-srd8Ao",
-    "zrjlarSLAdC7i-gPmefAyA4",
-    "XbnlavbAHMCH9u8PgcW_iA8",
-    "8bflasHHGqiai-gP3PGE8Ac",
-    "l5rlav3rFOyVi-gPtZ-QiQ8"
+    "o8zmaqzjGNG-i-gP7a_i0Qo",
+    "B9fmaquSDM3xi-gPz-fpwAI"
   ],
-  "updatedConversationIds": [],
+  "updatedConversationIds": [
+    "RVjjapSpDryL9u8P98GeiA8"
+  ],
   "allConversationIds": [
     "XLXkapKxJoy79u8Ph7a5yAI",
     "C7bkapiAKqKI9u8PoJfo8Qg",
@@ -54,9 +42,12 @@
     "HU_mauDgFaHr7_UPpqLAoQg",
     "F1DmauaQMpmA9u8PgOi7mQM",
     "ZVHmarT4GsOWi-gP8uGlyA0",
-    "imTmavXZGKC69u8Pta7l6AM"
+    "imTmavXZGKC69u8Pta7l6AM",
+    "o8zmaqzjGNG-i-gP7a_i0Qo",
+    "B9fmaquSDM3xi-gPz-fpwAI",
+    "RVjjapSpDryL9u8P98GeiA8"
   ],
-  "previousCommit": "6e968c588cc3f819fed00cc0ee0124db3e53b491",
+  "previousCommit": "5f31f9352c14aab522b260981780c54bd24e9db4",
   "baseline": "2026-10-30-poi",
-  "note": "Added 16 new conversations and 75 prompt-response pairs since commit 6e968c5. All 16 new conversations were read back with identical visible text after full loading. Two additional source vector diagrams were recovered from the original Chrome tabs. Theological Symbol Meaning and Chromatic Aberration Effect were checked and remain unchanged. Earlier collections remain unchanged."
+  "note": "Added two new conversations with 15 pairs and imported the complete 23-pair updated Biologisch vs Onbespoten Groenten transcript from an earlier collection. This contributes 22 additional pairs beyond its earlier single-pair capture, which remains unchanged in Putin Input. All three transcripts were read back with identical visible text. Guido Gamious Programmer and MKZ Bij Evenhoevige Dieren were checked and remain unchanged. Previous commit: 5f31f93."
 }

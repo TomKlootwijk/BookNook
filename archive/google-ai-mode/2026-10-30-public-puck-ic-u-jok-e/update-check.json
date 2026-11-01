@@ -1,55 +1,17 @@
 {
-  "at": "2026-10-31T22:43:09.701Z",
-  "previousCommit": "6e968c588cc3f819fed00cc0ee0124db3e53b491",
+  "at": "2026-11-01T06:50:46.663Z",
+  "previousCommit": "5f31f9352c14aab522b260981780c54bd24e9db4",
   "newIds": [
-    "imTmavXZGKC69u8Pta7l6AM",
-    "ZVHmarT4GsOWi-gP8uGlyA0",
-    "F1DmauaQMpmA9u8PgOi7mQM",
-    "HU_mauDgFaHr7_UPpqLAoQg",
-    "a07mav6QM9u-i-gPrpbymA4",
-    "lkrmasyLOtG-i-gPoq3ZuQM",
-    "ozrmarb5B7eqi-gPxevc-Qk",
-    "qSPmapL-OLCfi-gPrIPP8As",
-    "AC_mar2BDLaO9u8P-aiL2Qs",
-    "iRrmasiIO7uF9u8Pyr-s2Q0",
-    "GADmateJLM-J9u8Pmrq7mQg",
-    "T9XlaviTMpSai-gP-srd8Ao",
-    "zrjlarSLAdC7i-gPmefAyA4",
-    "XbnlavbAHMCH9u8PgcW_iA8",
-    "8bflasHHGqiai-gP3PGE8Ac",
-    "l5rlav3rFOyVi-gPtZ-QiQ8"
+    "o8zmaqzjGNG-i-gP7a_i0Qo",
+    "B9fmaquSDM3xi-gPz-fpwAI"
   ],
-  "updatedIds": [],
-  "newPairs": 75,
+  "updatedIds": [
+    "RVjjapSpDryL9u8P98GeiA8"
+  ],
+  "newPairs": 37,
+  "addedPairsToCurrentCollection": 38,
+  "importedPreviouslyArchivedPairs": 1,
   "existingChecks": [
-    {
-      "threadId": "GYvlasWpNdmQ9u8Pz_K4qAI",
-      "title": "Theological Symbol Meaning",
-      "previous": {
-        "prompts": 18,
-        "responses": 18
-      },
-      "counts": {
-        "prompts": 18,
-        "responses": 18
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "e47laqjZN9y_i-gP7v6qsA0",
-      "title": "Chromatic Aberration Effect",
-      "previous": {
-        "prompts": 7,
-        "responses": 7
-      },
-      "counts": {
-        "prompts": 7,
-        "responses": 7
-      },
-      "sameVisibleText": true
-    }
-  ],
-  "readbacks": [
     {
       "threadId": "imTmavXZGKC69u8Pta7l6AM",
       "title": "Guido Gamious Programmer",
@@ -77,60 +39,40 @@
       "sameVisibleText": true
     },
     {
-      "threadId": "F1DmauaQMpmA9u8PgOi7mQM",
-      "title": "Chernobyl Exclusion Zone Pokémon Cards",
-      "previous": {
-        "prompts": 4,
-        "responses": 4
-      },
-      "counts": {
-        "prompts": 4,
-        "responses": 4
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "HU_mauDgFaHr7_UPpqLAoQg",
-      "title": "Mount Everest Body Recovery",
+      "threadId": "RVjjapSpDryL9u8P98GeiA8",
+      "title": "Biologisch vs Onbespoten Groenten",
+      "archive": "2026-10-30-putin-input",
       "previous": {
         "prompts": 1,
         "responses": 1
       },
       "counts": {
-        "prompts": 1,
-        "responses": 1
+        "prompts": 23,
+        "responses": 23
       },
-      "sameVisibleText": true
-    },
+      "sameVisibleText": false,
+      "newPairs": 22,
+      "previousPairsUnchanged": false,
+      "note": "The complete current 23-pair transcript is imported into this collection. The earlier single-pair capture remains unchanged in Putin Input; visible text of its first response differs slightly in the reopened page."
+    }
+  ],
+  "readbacks": [
     {
-      "threadId": "a07mav6QM9u-i-gPrpbymA4",
-      "title": "Sentinel Island Missionary Exposure",
+      "threadId": "B9fmaquSDM3xi-gPz-fpwAI",
+      "title": "NotebookLM Subscription in Netherlands",
       "previous": {
-        "prompts": 1,
-        "responses": 1
+        "prompts": 5,
+        "responses": 5
       },
       "counts": {
-        "prompts": 1,
-        "responses": 1
+        "prompts": 5,
+        "responses": 5
       },
       "sameVisibleText": true
     },
     {
-      "threadId": "lkrmasyLOtG-i-gPoq3ZuQM",
-      "title": "Corporate and Intelligence Agency Power",
-      "previous": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "ozrmarb5B7eqi-gPxevc-Qk",
-      "title": "Nanobots for Targeted Medical Treatment",
+      "threadId": "o8zmaqzjGNG-i-gP7a_i0Qo",
+      "title": "Pride Month Perspectives",
       "previous": {
         "prompts": 10,
         "responses": 10
@@ -142,124 +84,22 @@
       "sameVisibleText": true
     },
     {
-      "threadId": "qSPmapL-OLCfi-gPrIPP8As",
-      "title": "Red Teaming Questions",
+      "threadId": "RVjjapSpDryL9u8P98GeiA8",
+      "title": "Biologisch vs Onbespoten Groenten",
       "previous": {
-        "prompts": 14,
-        "responses": 14
+        "prompts": 23,
+        "responses": 23
       },
       "counts": {
-        "prompts": 14,
-        "responses": 14
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "AC_mar2BDLaO9u8P-aiL2Qs",
-      "title": "Cloak and Dagger Clandestine Activities",
-      "previous": {
-        "prompts": 3,
-        "responses": 3
-      },
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "iRrmasiIO7uF9u8Pyr-s2Q0",
-      "title": "Antithesis Inverse Logarithmic Proof",
-      "previous": {
-        "prompts": 18,
-        "responses": 18
-      },
-      "counts": {
-        "prompts": 18,
-        "responses": 18
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "GADmateJLM-J9u8Pmrq7mQg",
-      "title": "Cloud Bio Mechanical Chemistry",
-      "previous": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "T9XlaviTMpSai-gP-srd8Ao",
-      "title": "BST Path ERD ECS Diagram",
-      "previous": {
-        "prompts": 7,
-        "responses": 7
-      },
-      "counts": {
-        "prompts": 7,
-        "responses": 7
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "zrjlarSLAdC7i-gPmefAyA4",
-      "title": "Belousov-Zhabotinsky Reaction Scaling",
-      "previous": {
-        "prompts": 4,
-        "responses": 4
-      },
-      "counts": {
-        "prompts": 4,
-        "responses": 4
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "XbnlavbAHMCH9u8PgcW_iA8",
-      "title": "Laplacian Eigenvalues Raymarching SDF",
-      "previous": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "8bflasHHGqiai-gP3PGE8Ac",
-      "title": "Automorphic Polymorphic Formalized Systems",
-      "previous": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "l5rlav3rFOyVi-gPtZ-QiQ8",
-      "title": "Four Thirds",
-      "previous": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "counts": {
-        "prompts": 1,
-        "responses": 1
+        "prompts": 23,
+        "responses": 23
       },
       "sameVisibleText": true
     }
   ],
   "historyBoundary": [
+    "NotebookLM Subscription in Netherlands",
+    "Pride Month Perspectives",
     "Guido Gamious Programmer",
     "MKZ Bij Evenhoevige Dieren",
     "Chernobyl Exclusion Zone Pokémon Cards",
@@ -267,19 +107,7 @@
     "Sentinel Island Missionary Exposure",
     "Corporate and Intelligence Agency Power",
     "Nanobots for Targeted Medical Treatment",
-    "Red Teaming Questions",
-    "Cloak and Dagger Clandestine Activities",
-    "Antithesis Inverse Logarithmic Proof",
-    "Cloud Bio Mechanical Chemistry",
-    "BST Path ERD ECS Diagram",
-    "Belousov-Zhabotinsky Reaction Scaling",
-    "Laplacian Eigenvalues Raymarching SDF",
-    "Automorphic Polymorphic Formalized Systems",
-    "Four Thirds",
-    "Theological Symbol Meaning",
-    "Chromatic Aberration Effect",
-    "Risicospreiding in Beleggen",
-    "Biofilm Tensor and Vantablack"
+    "Red Teaming Questions"
   ],
-  "loadingNote": "Automorphic Polymorphic Formalized Systems was rechecked after delayed response loading; its final two-pair capture was confirmed identical."
+  "method": "Two new conversations (15 pairs) and an expanded earlier conversation (22 additional pairs). The earlier conversation is included in full (23 pairs) without editing its old archive."
 }
