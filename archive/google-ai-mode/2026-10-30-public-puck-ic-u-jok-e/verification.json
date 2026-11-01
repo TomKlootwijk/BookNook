@@ -1,20 +1,19 @@
 {
-  "verifiedAt": "2026-11-01T06:56:32.306271+00:00",
-  "status": "transcripts-verified-media-partial",
-  "conversations": 38,
-  "newConversations": 2,
-  "updatedConversations": 1,
-  "newPromptResponsePairs": 37,
-  "addedPairsToCurrentCollection": 38,
-  "importedPreviouslyArchivedPairs": 1,
-  "prompts": 238,
-  "responseBlocks": 238,
-  "pages": 415,
-  "formulas": 1642,
-  "embeddedImages": 468,
-  "pdfSha256": "f1154d94de294d8823687480265290fa55c0961c3b26ebbbeabcbbfccbaee4de",
+  "verifiedAt": "2026-11-01T15:03:44.976990+00:00",
+  "status": "partial-export-browser-blocked",
+  "updateLabel": "moorec'slaw",
+  "conversations": 41,
+  "newConversations": 3,
+  "updatedConversations": 0,
+  "newPromptResponsePairs": 17,
+  "prompts": 255,
+  "responseBlocks": 255,
+  "pages": 434,
+  "formulas": 1666,
+  "embeddedImages": 515,
+  "pdfSha256": "5f77addcc63fb6021f8ef8804a60ea029425ecd6784dc9977461c1e74b37081e",
   "visualReview": {
-    "pageCount": 415,
+    "pageCount": 434,
     "allPagesRendered": true,
     "reviewedPages": [
       1,
@@ -431,22 +430,38 @@
       412,
       413,
       414,
-      415
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434
     ],
     "contactSheets": [
-      "contact-15.png",
-      "contact-16.png",
-      "contact-17.png"
+      "contact-17.png",
+      "contact-18.png"
     ],
     "detailPages": [
       1,
       2,
-      392,
-      395,
-      397,
-      413
+      425,
+      434
     ],
-    "previousVisualReviewCommit": "5f31f9352c14aab522b260981780c54bd24e9db4",
+    "previousVisualReviewCommit": "0005d09894a54882fea7da285581e85a9a617395",
     "unchangedPageCheck": {
       "comparison": "Exact RGB page pixels excluding bottom 45 of 1100 pixels containing changed date footer",
       "unchangedPages": [
@@ -805,11 +820,7 @@
         355,
         356,
         357,
-        358
-      ],
-      "changedPages": [
-        1,
-        2,
+        358,
         359,
         360,
         361,
@@ -867,13 +878,57 @@
         413,
         414,
         415
+      ],
+      "changedPages": [
+        1,
+        2,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434
       ]
     },
-    "result": "All 356 pre-existing transcript pages have identical body pixels to the previously reviewed PDF. The cover, compact index, and all 57 added pages were visually reviewed. Detailed checks covered formulas, text diagrams, graphs, and a preserved Google error response. No added clipping or overlaps observed; the updated date footer is legible."
+    "result": "All 413 pre-existing transcript pages have identical body pixels to the previously reviewed PDF. The updated coverage page, two-column index and all 19 added pages were visually inspected. Detailed checks covered the new text diagram and binary formulas. Three escaped-space formula labels were corrected while preserving original LaTeX; the source itself contains one unrendered LaTeX expression which is retained literally. A Google error response in Explain the Model is preserved. No new clipping or overlap observed. The five pending conversations are named on the cover."
   },
   "brokenLocalLinks": [],
   "pdfSyntaxIssues": [],
-  "missingConversations": [],
+  "missingConversations": [
+    {
+      "title": "Which Model Holds Laws?",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Sequals Commune Information",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Buddy Hield",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Dure Dieren",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Internet Terms And Anagrams",
+      "status": "browser-readout-pending"
+    }
+  ],
   "pendingMedia": [
     {
       "conversation": 3,
@@ -914,118 +969,61 @@
   ],
   "priorArchivesUnchanged": true,
   "readback": {
-    "at": "2026-11-01T06:50:46.663Z",
-    "previousCommit": "5f31f9352c14aab522b260981780c54bd24e9db4",
+    "at": "2026-11-01T14:48:40.093934+00:00",
+    "previousCommit": "0005d09894a54882fea7da285581e85a9a617395",
+    "updateLabel": "moorec'slaw",
     "newIds": [
-      "o8zmaqzjGNG-i-gP7a_i0Qo",
-      "B9fmaquSDM3xi-gPz-fpwAI"
+      "zOHmaoGLDIm29u8PtNv8qAE",
+      "4vHmavWQLNCO9u8PlvjNsA8",
+      "ZCXnarDDLsPq-d8PkvGpmQw"
     ],
-    "updatedIds": [
-      "RVjjapSpDryL9u8P98GeiA8"
-    ],
-    "newPairs": 37,
-    "addedPairsToCurrentCollection": 38,
-    "importedPreviouslyArchivedPairs": 1,
-    "existingChecks": [
-      {
-        "threadId": "imTmavXZGKC69u8Pta7l6AM",
-        "title": "Guido Gamious Programmer",
-        "previous": {
-          "prompts": 3,
-          "responses": 3
-        },
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        },
-        "sameVisibleText": true
-      },
-      {
-        "threadId": "ZVHmarT4GsOWi-gP8uGlyA0",
-        "title": "MKZ Bij Evenhoevige Dieren",
-        "previous": {
-          "prompts": 3,
-          "responses": 3
-        },
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        },
-        "sameVisibleText": true
-      },
-      {
-        "threadId": "RVjjapSpDryL9u8P98GeiA8",
-        "title": "Biologisch vs Onbespoten Groenten",
-        "archive": "2026-10-30-putin-input",
-        "previous": {
-          "prompts": 1,
-          "responses": 1
-        },
-        "counts": {
-          "prompts": 23,
-          "responses": 23
-        },
-        "sameVisibleText": false,
-        "newPairs": 22,
-        "previousPairsUnchanged": false,
-        "note": "The complete current 23-pair transcript is imported into this collection. The earlier single-pair capture remains unchanged in Putin Input; visible text of its first response differs slightly in the reopened page."
-      }
-    ],
+    "updatedIds": [],
+    "newPairs": 17,
+    "addedPairsToCurrentCollection": 17,
+    "importedPreviouslyArchivedPairs": 0,
+    "existingChecks": [],
     "readbacks": [
       {
-        "threadId": "B9fmaquSDM3xi-gPz-fpwAI",
-        "title": "NotebookLM Subscription in Netherlands",
-        "previous": {
-          "prompts": 5,
-          "responses": 5
-        },
+        "threadId": "ZCXnarDDLsPq-d8PkvGpmQw",
+        "title": "Binary Number System Truth",
         "counts": {
           "prompts": 5,
           "responses": 5
         },
-        "sameVisibleText": true
+        "sameVisibleText": true,
+        "method": "Original user tab compared with independently reopened agent tab"
+      }
+    ],
+    "pendingConversations": [
+      {
+        "title": "Which Model Holds Laws?",
+        "status": "browser-readout-pending"
       },
       {
-        "threadId": "o8zmaqzjGNG-i-gP7a_i0Qo",
-        "title": "Pride Month Perspectives",
-        "previous": {
-          "prompts": 10,
-          "responses": 10
-        },
-        "counts": {
-          "prompts": 10,
-          "responses": 10
-        },
-        "sameVisibleText": true
+        "title": "Sequals Commune Information",
+        "status": "browser-readout-pending"
       },
       {
-        "threadId": "RVjjapSpDryL9u8P98GeiA8",
-        "title": "Biologisch vs Onbespoten Groenten",
-        "previous": {
-          "prompts": 23,
-          "responses": 23
-        },
-        "counts": {
-          "prompts": 23,
-          "responses": 23
-        },
-        "sameVisibleText": true
+        "title": "Buddy Hield",
+        "status": "browser-readout-pending"
+      },
+      {
+        "title": "Dure Dieren",
+        "status": "browser-readout-pending"
+      },
+      {
+        "title": "Internet Terms And Anagrams",
+        "status": "browser-readout-pending"
       }
     ],
     "historyBoundary": [
       "NotebookLM Subscription in Netherlands",
       "Pride Month Perspectives",
-      "Guido Gamious Programmer",
-      "MKZ Bij Evenhoevige Dieren",
-      "Chernobyl Exclusion Zone Pokémon Cards",
-      "Mount Everest Body Recovery",
-      "Sentinel Island Missionary Exposure",
-      "Corporate and Intelligence Agency Power",
-      "Nanobots for Targeted Medical Treatment",
-      "Red Teaming Questions"
+      "Guido Gamious Programmer"
     ],
-    "method": "Two new conversations (15 pairs) and an expanded earlier conversation (22 additional pairs). The earlier conversation is included in full (23 pairs) without editing its old archive."
+    "method": "Three previously pending conversations captured completely. Five additional conversations were discovered in AI Mode history; their transcript export is pending because Chrome text readout became unavailable. No recent updates to older conversations could be verified during this pass."
   },
+  "note": "All three new captured transcripts have complete alternating prompt-response blocks and full stored HTML. Binary Number System Truth matched an independently reopened tab. Independent rereads of the other two and updated older threads were blocked by Chrome readout failures.",
   "widgetVerification": {
     "at": "2026-10-31T22:37:45.882Z",
     "frames": [

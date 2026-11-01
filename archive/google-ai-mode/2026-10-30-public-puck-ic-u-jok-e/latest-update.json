@@ -1,17 +1,16 @@
 {
-  "at": "2026-11-01T06:52:09.601646+00:00",
+  "at": "2026-11-01T14:49:44.320050+00:00",
   "date": "2026-11-01",
   "batchId": "2026-10-30-public-puck-ic-u-jok-e",
   "batchTitle": "public puck ic U jok E",
-  "status": "transcripts-complete-media-partial",
-  "method": "Added two new conversations with 15 pairs and imported the complete 23-pair updated Biologisch vs Onbespoten Groenten transcript from an earlier collection. This contributes 22 additional pairs beyond its earlier single-pair capture, which remains unchanged in Putin Input. All three transcripts were read back with identical visible text. Guido Gamious Programmer and MKZ Bij Evenhoevige Dieren were checked and remain unchanged. Previous commit: 5f31f93.",
+  "status": "transcripts-partial-media-partial",
+  "method": "Three previously pending conversations captured completely. Five additional conversations were discovered in AI Mode history; their transcript export is pending because Chrome text readout became unavailable. No recent updates to older conversations could be verified during this pass.",
   "newConversationIds": [
-    "o8zmaqzjGNG-i-gP7a_i0Qo",
-    "B9fmaquSDM3xi-gPz-fpwAI"
+    "zOHmaoGLDIm29u8PtNv8qAE",
+    "4vHmavWQLNCO9u8PlvjNsA8",
+    "ZCXnarDDLsPq-d8PkvGpmQw"
   ],
-  "updatedConversationIds": [
-    "RVjjapSpDryL9u8P98GeiA8"
-  ],
+  "updatedConversationIds": [],
   "records": [
     {
       "ordinal": 1,
@@ -392,6 +391,59 @@
         "prompts": 23,
         "responses": 23
       }
+    },
+    {
+      "ordinal": 39,
+      "threadId": "zOHmaoGLDIm29u8PtNv8qAE",
+      "title": "Chatgpt Codex Analysis",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 40,
+      "threadId": "4vHmavWQLNCO9u8PlvjNsA8",
+      "title": "Explain the Model",
+      "status": "captured",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 41,
+      "threadId": "ZCXnarDDLsPq-d8PkvGpmQw",
+      "title": "Binary Number System Truth",
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    }
+  ],
+  "updateLabel": "moorec'slaw",
+  "pendingDiscoveredConversations": [
+    {
+      "title": "Which Model Holds Laws?",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Sequals Commune Information",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Buddy Hield",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Dure Dieren",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Internet Terms And Anagrams",
+      "status": "browser-readout-pending"
     }
   ]
 }

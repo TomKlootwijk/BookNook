@@ -1,12 +1,11 @@
 {
-  "at": "2026-11-01T06:52:09.601646+00:00",
+  "at": "2026-11-01T14:49:44.320050+00:00",
   "newConversationIds": [
-    "o8zmaqzjGNG-i-gP7a_i0Qo",
-    "B9fmaquSDM3xi-gPz-fpwAI"
+    "zOHmaoGLDIm29u8PtNv8qAE",
+    "4vHmavWQLNCO9u8PlvjNsA8",
+    "ZCXnarDDLsPq-d8PkvGpmQw"
   ],
-  "updatedConversationIds": [
-    "RVjjapSpDryL9u8P98GeiA8"
-  ],
+  "updatedConversationIds": [],
   "allConversationIds": [
     "XLXkapKxJoy79u8Ph7a5yAI",
     "C7bkapiAKqKI9u8PoJfo8Qg",
@@ -45,9 +44,35 @@
     "imTmavXZGKC69u8Pta7l6AM",
     "o8zmaqzjGNG-i-gP7a_i0Qo",
     "B9fmaquSDM3xi-gPz-fpwAI",
-    "RVjjapSpDryL9u8P98GeiA8"
+    "RVjjapSpDryL9u8P98GeiA8",
+    "zOHmaoGLDIm29u8PtNv8qAE",
+    "4vHmavWQLNCO9u8PlvjNsA8",
+    "ZCXnarDDLsPq-d8PkvGpmQw"
   ],
-  "previousCommit": "5f31f9352c14aab522b260981780c54bd24e9db4",
+  "previousCommit": "0005d09894a54882fea7da285581e85a9a617395",
   "baseline": "2026-10-30-poi",
-  "note": "Added two new conversations with 15 pairs and imported the complete 23-pair updated Biologisch vs Onbespoten Groenten transcript from an earlier collection. This contributes 22 additional pairs beyond its earlier single-pair capture, which remains unchanged in Putin Input. All three transcripts were read back with identical visible text. Guido Gamious Programmer and MKZ Bij Evenhoevige Dieren were checked and remain unchanged. Previous commit: 5f31f93."
+  "note": "Three previously pending conversations captured completely. Five additional conversations were discovered in AI Mode history; their transcript export is pending because Chrome text readout became unavailable. No recent updates to older conversations could be verified during this pass.",
+  "updateLabel": "moorec'slaw",
+  "pendingDiscoveredConversations": [
+    {
+      "title": "Which Model Holds Laws?",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Sequals Commune Information",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Buddy Hield",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Dure Dieren",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Internet Terms And Anagrams",
+      "status": "browser-readout-pending"
+    }
+  ]
 }

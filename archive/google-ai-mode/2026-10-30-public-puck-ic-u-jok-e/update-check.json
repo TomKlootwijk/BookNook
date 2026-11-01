@@ -1,113 +1,55 @@
 {
-  "at": "2026-11-01T06:50:46.663Z",
-  "previousCommit": "5f31f9352c14aab522b260981780c54bd24e9db4",
+  "at": "2026-11-01T14:48:40.093934+00:00",
+  "previousCommit": "0005d09894a54882fea7da285581e85a9a617395",
+  "updateLabel": "moorec'slaw",
   "newIds": [
-    "o8zmaqzjGNG-i-gP7a_i0Qo",
-    "B9fmaquSDM3xi-gPz-fpwAI"
+    "zOHmaoGLDIm29u8PtNv8qAE",
+    "4vHmavWQLNCO9u8PlvjNsA8",
+    "ZCXnarDDLsPq-d8PkvGpmQw"
   ],
-  "updatedIds": [
-    "RVjjapSpDryL9u8P98GeiA8"
-  ],
-  "newPairs": 37,
-  "addedPairsToCurrentCollection": 38,
-  "importedPreviouslyArchivedPairs": 1,
-  "existingChecks": [
-    {
-      "threadId": "imTmavXZGKC69u8Pta7l6AM",
-      "title": "Guido Gamious Programmer",
-      "previous": {
-        "prompts": 3,
-        "responses": 3
-      },
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "ZVHmarT4GsOWi-gP8uGlyA0",
-      "title": "MKZ Bij Evenhoevige Dieren",
-      "previous": {
-        "prompts": 3,
-        "responses": 3
-      },
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      },
-      "sameVisibleText": true
-    },
-    {
-      "threadId": "RVjjapSpDryL9u8P98GeiA8",
-      "title": "Biologisch vs Onbespoten Groenten",
-      "archive": "2026-10-30-putin-input",
-      "previous": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "counts": {
-        "prompts": 23,
-        "responses": 23
-      },
-      "sameVisibleText": false,
-      "newPairs": 22,
-      "previousPairsUnchanged": false,
-      "note": "The complete current 23-pair transcript is imported into this collection. The earlier single-pair capture remains unchanged in Putin Input; visible text of its first response differs slightly in the reopened page."
-    }
-  ],
+  "updatedIds": [],
+  "newPairs": 17,
+  "addedPairsToCurrentCollection": 17,
+  "importedPreviouslyArchivedPairs": 0,
+  "existingChecks": [],
   "readbacks": [
     {
-      "threadId": "B9fmaquSDM3xi-gPz-fpwAI",
-      "title": "NotebookLM Subscription in Netherlands",
-      "previous": {
-        "prompts": 5,
-        "responses": 5
-      },
+      "threadId": "ZCXnarDDLsPq-d8PkvGpmQw",
+      "title": "Binary Number System Truth",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "sameVisibleText": true
+      "sameVisibleText": true,
+      "method": "Original user tab compared with independently reopened agent tab"
+    }
+  ],
+  "pendingConversations": [
+    {
+      "title": "Which Model Holds Laws?",
+      "status": "browser-readout-pending"
     },
     {
-      "threadId": "o8zmaqzjGNG-i-gP7a_i0Qo",
-      "title": "Pride Month Perspectives",
-      "previous": {
-        "prompts": 10,
-        "responses": 10
-      },
-      "counts": {
-        "prompts": 10,
-        "responses": 10
-      },
-      "sameVisibleText": true
+      "title": "Sequals Commune Information",
+      "status": "browser-readout-pending"
     },
     {
-      "threadId": "RVjjapSpDryL9u8P98GeiA8",
-      "title": "Biologisch vs Onbespoten Groenten",
-      "previous": {
-        "prompts": 23,
-        "responses": 23
-      },
-      "counts": {
-        "prompts": 23,
-        "responses": 23
-      },
-      "sameVisibleText": true
+      "title": "Buddy Hield",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Dure Dieren",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Internet Terms And Anagrams",
+      "status": "browser-readout-pending"
     }
   ],
   "historyBoundary": [
     "NotebookLM Subscription in Netherlands",
     "Pride Month Perspectives",
-    "Guido Gamious Programmer",
-    "MKZ Bij Evenhoevige Dieren",
-    "Chernobyl Exclusion Zone Pokémon Cards",
-    "Mount Everest Body Recovery",
-    "Sentinel Island Missionary Exposure",
-    "Corporate and Intelligence Agency Power",
-    "Nanobots for Targeted Medical Treatment",
-    "Red Teaming Questions"
+    "Guido Gamious Programmer"
   ],
-  "method": "Two new conversations (15 pairs) and an expanded earlier conversation (22 additional pairs). The earlier conversation is included in full (23 pairs) without editing its old archive."
+  "method": "Three previously pending conversations captured completely. Five additional conversations were discovered in AI Mode history; their transcript export is pending because Chrome text readout became unavailable. No recent updates to older conversations could be verified during this pass."
 }

@@ -1,10 +1,22 @@
 # public puck ic U jok E
 
-Aparte collectie gestart op 30 oktober 2026, na poi. Laatste aanvulling op 1 november: twee nieuwe gesprekken met samen 15 vraag-antwoordparen en 22 nieuwe paren in Biologisch vs Onbespoten Groenten. Dat bijgewerkte oudere gesprek is volledig opgenomen (23 paren); de eerdere opname van één paar blijft ongewijzigd in Putin Input. De huidige collectie telt 38 gesprekken en 238 paren.
+Aparte collectie gestart op 30 oktober 2026, na poi. De aanvulling van 1 november, **moorec'slaw**, bevat drie eerder openstaande gesprekken met samen 17 vraag-antwoordparen. De collectie telt nu 41 gesprekken en 255 paren. Er zijn daarnaast vijf gesprekken in de AI Mode-geschiedenis gevonden waarvan het uitlezen door verbindingsproblemen nog niet is gelukt.
 
-- [PDF - 415 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
-- [Volledige transcripties](all-conversations.md)
+- [PDF - 434 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
+- [Volledige opgeslagen transcripties](all-conversations.md)
 - [HTML-index](index.html)
+
+## Nog uit te lezen
+
+- Which Model Holds Laws?
+- Sequals Commune Information
+- Buddy Hield
+- Dure Dieren
+- Internet Terms And Anagrams
+
+Deze vijf zijn nog niet in de PDF opgenomen. Nieuwe vervolgreplies in eerder opgeslagen gesprekken konden tijdens deze controle evenmin worden geverifieerd.
+
+## Opgenomen gesprekken
 
 | Gesprek | Prompts | Antwoorden | PDF-pagina |
 |---|---:|---:|---:|
@@ -46,11 +58,14 @@ Aparte collectie gestart op 30 oktober 2026, na poi. Laatste aanvulling op 1 nov
 | Pride Month Perspectives | 10 | 10 | 359 |
 | NotebookLM Subscription in Netherlands | 5 | 5 | 374 |
 | Biologisch vs Onbespoten Groenten | 23 | 23 | 381 |
+| Chatgpt Codex Analysis | 3 | 3 | 416 |
+| Explain the Model | 9 | 9 | 420 |
+| Binary Number System Truth | 5 | 5 | 431 |
 
-Alle 238 vraag-antwoordparen, bronlinks en 1642 formules zijn bewaard. De uitvoer bevat 468 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Tien ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard; daarvoor zijn ook de oorspronkelijke Chrome-tabbladen uitgelezen. De oorspronkelijke SVG's, HTML-opnamen en gegenereerde JPEG's staan in het archief.
+Alle 255 opgeslagen vraag-antwoordparen, bronlinks en 1666 formules zijn bewaard. De uitvoer bevat 515 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Tien ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard. De oorspronkelijke SVG's, HTML-opnamen en gegenereerde JPEG's staan in het archief.
 
-Nog onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één interactieve visualisatie in **Biofilm Tensor and Vantablack**, en drie verlopen geüploade afbeeldingen in **Risicospreiding in Beleggen**. Ze zijn bij hun bericht gemarkeerd. Google's vijf foutmeldingen over verlopen inhoud, een niet-gegenereerde afbeelding en niet-beschikbare antwoorden zijn letterlijk bewaard. Twee daarvan staan in de nieuwe opname van het groentegesprek. Er zijn geen overige ontbrekende antwoordafbeeldingen, gegenereerde bijlagen of lege antwoordblokken aangetroffen. Afbeeldingen behouden de door Google geleverde pixels en eventuele oorspronkelijke uitsneden; externe bronpagina's worden als verwijzingen bewaard.
+Nog onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één interactieve visualisatie in **Biofilm Tensor and Vantablack**, en drie verlopen geüploade afbeeldingen in **Risicospreiding in Beleggen**. Ze zijn bij hun bericht gemarkeerd. Google's zes foutmeldingen over verlopen inhoud, een niet-gegenereerde afbeelding en niet-beschikbare antwoorden zijn letterlijk bewaard. In de vastgelegde transcripties zijn geen overige ontbrekende antwoordafbeeldingen, gegenereerde bijlagen of lege antwoordblokken aangetroffen. Afbeeldingen behouden de door Google geleverde pixels en eventuele oorspronkelijke uitsneden; externe bronpagina's worden als verwijzingen bewaard.
 
-Alle 415 pagina's zijn gerenderd. Gewijzigde pagina's zijn visueel gecontroleerd; ongewijzigde pagina's zijn vergeleken met de eerder gecontroleerde versie. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen en PDF-structuur zijn gecontroleerd. Alle drie toegevoegde transcripties zijn na het laden opnieuw uitgelezen met identieke zichtbare tekst. Guido Gamious Programmer en MKZ Bij Evenhoevige Dieren zijn hercontroleerd en blijven beide ongewijzigd op drie paren. Het heropende groentegesprek heeft een kleine wijziging in de zichtbare tekst van het eerste antwoord; beide bronversies zijn behouden. Details staan in `manifest.json`, `update-check.json`, `widget-check-2026-10-31.json` en `verification.json`.
+Alle 434 pagina's zijn gerenderd. De visuele controle en vergelijking met de vorige PDF staan in `verification.json`. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen en PDF-structuur zijn gecontroleerd. Binary Number System Truth is vanuit het oorspronkelijke tabblad en een onafhankelijk heropende pagina uitgelezen met identieke tekst. De onafhankelijke herlezing van de twee andere nieuwe transcripties werd geblokkeerd door dezelfde Chrome-storing; hun complete geladen berichtblokken zijn wel bewaard.
 
-Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief; die bestanden zijn ongewijzigd. De transcripties zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole.
+Het eerder bijgewerkte groentegesprek blijft volledig opgenomen (23 paren). De eerdere opname van één paar in Putin Input is ongewijzigd. Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief. De transcripties zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole.

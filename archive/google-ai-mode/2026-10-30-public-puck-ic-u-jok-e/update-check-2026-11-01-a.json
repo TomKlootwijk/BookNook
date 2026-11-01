@@ -1,0 +1,113 @@
+{
+  "at": "2026-11-01T06:50:46.663Z",
+  "previousCommit": "5f31f9352c14aab522b260981780c54bd24e9db4",
+  "newIds": [
+    "o8zmaqzjGNG-i-gP7a_i0Qo",
+    "B9fmaquSDM3xi-gPz-fpwAI"
+  ],
+  "updatedIds": [
+    "RVjjapSpDryL9u8P98GeiA8"
+  ],
+  "newPairs": 37,
+  "addedPairsToCurrentCollection": 38,
+  "importedPreviouslyArchivedPairs": 1,
+  "existingChecks": [
+    {
+      "threadId": "imTmavXZGKC69u8Pta7l6AM",
+      "title": "Guido Gamious Programmer",
+      "previous": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "ZVHmarT4GsOWi-gP8uGlyA0",
+      "title": "MKZ Bij Evenhoevige Dieren",
+      "previous": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "RVjjapSpDryL9u8P98GeiA8",
+      "title": "Biologisch vs Onbespoten Groenten",
+      "archive": "2026-10-30-putin-input",
+      "previous": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "counts": {
+        "prompts": 23,
+        "responses": 23
+      },
+      "sameVisibleText": false,
+      "newPairs": 22,
+      "previousPairsUnchanged": false,
+      "note": "The complete current 23-pair transcript is imported into this collection. The earlier single-pair capture remains unchanged in Putin Input; visible text of its first response differs slightly in the reopened page."
+    }
+  ],
+  "readbacks": [
+    {
+      "threadId": "B9fmaquSDM3xi-gPz-fpwAI",
+      "title": "NotebookLM Subscription in Netherlands",
+      "previous": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "o8zmaqzjGNG-i-gP7a_i0Qo",
+      "title": "Pride Month Perspectives",
+      "previous": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "sameVisibleText": true
+    },
+    {
+      "threadId": "RVjjapSpDryL9u8P98GeiA8",
+      "title": "Biologisch vs Onbespoten Groenten",
+      "previous": {
+        "prompts": 23,
+        "responses": 23
+      },
+      "counts": {
+        "prompts": 23,
+        "responses": 23
+      },
+      "sameVisibleText": true
+    }
+  ],
+  "historyBoundary": [
+    "NotebookLM Subscription in Netherlands",
+    "Pride Month Perspectives",
+    "Guido Gamious Programmer",
+    "MKZ Bij Evenhoevige Dieren",
+    "Chernobyl Exclusion Zone Pokémon Cards",
+    "Mount Everest Body Recovery",
+    "Sentinel Island Missionary Exposure",
+    "Corporate and Intelligence Agency Power",
+    "Nanobots for Targeted Medical Treatment",
+    "Red Teaming Questions"
+  ],
+  "method": "Two new conversations (15 pairs) and an expanded earlier conversation (22 additional pairs). The earlier conversation is included in full (23 pairs) without editing its old archive."
+}

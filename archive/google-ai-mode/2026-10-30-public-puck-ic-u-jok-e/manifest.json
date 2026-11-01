@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-11-01",
-  "scopeCount": 38,
-  "capturedCount": 38,
-  "prompts": 238,
-  "responses": 238,
-  "mathRendered": 1642,
-  "embeddedImages": 468,
+  "scopeCount": 41,
+  "capturedCount": 41,
+  "prompts": 255,
+  "responses": 255,
+  "mathRendered": 1666,
+  "embeddedImages": 515,
   "conversations": [
     {
       "ordinal": 1,
@@ -424,6 +424,39 @@
       "source": "https://www.google.com/search?q=onbespoten+groenten+is+niet+duurzaam+biologisch+is+een+marketingterm&oq=onbespoten+groenten+is+niet+duurzaam+biologisch+is+een+marketingterm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE3Njk1ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8&mstk=AUtExfAmHlo0BJPKFutQ-54_-erWKryW4S8ErvbuEuKEUB6jXY55b5Wg--dn8Yvev9CsYLY0LUHYC9lJB8gXAAcYLvvyuOsBDJtdA6qiwZPVIaTuysASTyGg1YWqe1d6srt8lFr3hIytJ88BKvw98BqzmCqxkNttAu9-yBb9gHAPcyVoJAM6pzZajWunxkKCuR_pAkZ_SRGKuLaJH28zuCK3I3gCZKM_YJmYpvI3TCN221jgQSJm-T-vaSiw44iAYueA2_cI9JHn_TVqgKO_VfWVdkagiJ1RQV2TrQl9QF07LzNkjOun8g&csuir=1&aioh=3&lns_mode=cvst&udm=50&mtid=RVjjapSpDryL9u8P98GeiA8#aof=1",
       "recoveredFromSavedUrl": false,
       "pdfPage": 381
+    },
+    {
+      "ordinal": 39,
+      "title": "Chatgpt Codex Analysis",
+      "prompts": 3,
+      "responses": 3,
+      "html": "conversations/39-chatgpt-codex-analysis.html",
+      "markdown": "conversations/39-chatgpt-codex-analysis.md",
+      "source": "https://www.google.com/search?sca_esv=96f59e00825062f8&sxsrf=AKL5yDhJA2mgGdYV2AIKQguqHDoAFjM1rQ%3A1793533283403&vsint=&ntc=1&cs=1&sa=X&ved=0CCsQ2_wOahgKEwiQzpH4gOeXAxUAAAAAHQAAAAAQpAE&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfDoIXxPDK5hgT0yMuxdO88aEj34CM-iITXF2Q4amEDPmAwFYMNnkyTTI28rgBqreaOxEYX1_tfAc-9ilxNeluvCADEYUE_6arcNNZwPB2e8EyQ-vz9QxDFqderboxVyvhLOM_DwYpcTMDULI_LV-5QLOHmcMWHxNIbxMu_xnl41bQXFofEY0A2ZmKn7uBqwvKmGkuEcvrEH5iVYN-YBPLH-K0VKsACUQULWeV7RCxzCUi3Oz1s3ZipLR7bwkRzWocvaGMXJBoGIDEKGJXD5SgDpw9nQIovJq0HAhQXg6TKen70p1t5ZJu4YzjRZyDw0ZARMgzI1fosipQ&mtid=zOHmaoGLDIm29u8PtNv8qAE&csuir=1&aep=26&q=chatgpt+codex+This+content+can%27t+be+shown+We+take+extra+caution+with+requests+involving+biological+research+and+applications+that+could+pose+safety+risks.+Eligible+researchers+can+apply+for+Trusted+Access.",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 416
+    },
+    {
+      "ordinal": 40,
+      "title": "Explain the Model",
+      "prompts": 9,
+      "responses": 9,
+      "html": "conversations/40-explain-the-model.html",
+      "markdown": "conversations/40-explain-the-model.md",
+      "source": "https://www.google.com/search?sca_esv=96f59e00825062f8&sxsrf=AKL5yDhJA2mgGdYV2AIKQguqHDoAFjM1rQ%3A1793533283403&vsint=&ntc=1&cs=1&sa=X&ved=0CCUQ2_wOahgKEwiQzpH4gOeXAxUAAAAAHQAAAAAQpAE&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfDq3kK9JBP_JYQel2oSaH2hTxJtjG4icaEUzKWP16mmqo6yRbIsRTmSV1PgTfxdtnyvbBaZ71VNZJRY4ECBnk-GFK0mMM8G1wLU382RHGUvdqQC36-ySWZRwc8We69AkqokvvnNfcHa6_MVIs4ug87jy36YmzVL9v84TdAfCqE_1AKFRbzZfqDJAH1HDfdik7BIge5QSohJ_EID4dz9o5aXfkMOa_xYVOMjOuLG9qxH_bT_4DsX79NHE8XXSuzHbkSFcSB5Kco9WuUrLrMTYGuElmO6ebsaSlqPPnk6qdLA9n803U5nIEiP7A6iiMuJm623_SSOdXb5fg&mtid=4vHmavWQLNCO9u8PlvjNsA8&csuir=1&aep=26&q=explain+this+model+to+me",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 420
+    },
+    {
+      "ordinal": 41,
+      "title": "Binary Number System Truth",
+      "prompts": 5,
+      "responses": 5,
+      "html": "conversations/41-binary-number-system-truth.html",
+      "markdown": "conversations/41-binary-number-system-truth.md",
+      "source": "https://www.google.com/search?q=256+if+I+add+a+0+and+it+makes+0256+but+0+order+computer+science+notation+this+would+mean+it+now+can+hold+or+be+512%2C+is+this+exact+deterministic+truth&sca_esv=96f59e00825062f8&sxsrf=AKL5yDhJA2mgGdYV2AIKQguqHDoAFjM1rQ%3A1793533283403&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_krzDywRAQ7AnJwU2t_4tv5TBedBrXUKdoXwxG_NhjnEMc5vgjDTeSXxyqRGBXWAqmuecn_bWUNLMUAmCekXt41pgahLMZbbREtvMr6DZ9bdTYQ1lGtq0Tjl-W9P1YXhc9O45dK4WZm4E2K1o_PFcsENKAoCKj4pz9CMnc-jmGbF6ZT11r&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjDwv-R2OaXAxUBRf4FHVxBNlUQ2J8OegQIFRAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfBhCn_GsKI-Byn3jaj3T9n_9WL28w86K-8HLg3ZwiGlRksTaH3Nmt0tXh0H4eZFOhzvzCijrmbd-gPMOpEWiQCQSDv_9u60BAN18LyUiqNDDBjecTEDSV-R2JrE2LTMAGD5cVO_Xb1tegAzBlpBq04upD1tV_6jTkzt3GXPiLK3dH6MXMxaCLNYTWsoEA-pCAPSqHmkOX2u9tKMTrmPRFy69FBOM3j2xwthaREFXYGwqbzOYPpYcvTZWnpr8N7ngzEIIUCZ96OUw73B8TBhbhlG9EiPYnq3aVh9d34d-UiOLeLuQATWmR8BVaJnqwuzAgt_2DmLiozv6A&csuir=1&mtid=ZCXnarDDLsPq-d8PkvGpmQw&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 431
     }
   ],
   "missing": [],
@@ -569,25 +602,29 @@
         "conversation": 38,
         "message": 42,
         "text": "Something went wrong and an AI response wasn't generated."
+      },
+      {
+        "conversation": 40,
+        "message": 14,
+        "text": "Something went wrong and an AI response wasn't generated."
       }
     ],
     "sourceEmptyResponses": [],
     "note": "10 vector diagrams recovered; 3 embedded diagrams unavailable; 3 expired user-uploaded images. Source failures remain explicit in context."
   },
   "latestUpdate": {
-    "at": "2026-11-01T06:52:09.601646+00:00",
+    "at": "2026-11-01T14:49:44.320050+00:00",
     "date": "2026-11-01",
     "batchId": "2026-10-30-public-puck-ic-u-jok-e",
     "batchTitle": "public puck ic U jok E",
-    "status": "transcripts-complete-media-partial",
-    "method": "Added two new conversations with 15 pairs and imported the complete 23-pair updated Biologisch vs Onbespoten Groenten transcript from an earlier collection. This contributes 22 additional pairs beyond its earlier single-pair capture, which remains unchanged in Putin Input. All three transcripts were read back with identical visible text. Guido Gamious Programmer and MKZ Bij Evenhoevige Dieren were checked and remain unchanged. Previous commit: 5f31f93.",
+    "status": "transcripts-partial-media-partial",
+    "method": "Three previously pending conversations captured completely. Five additional conversations were discovered in AI Mode history; their transcript export is pending because Chrome text readout became unavailable. No recent updates to older conversations could be verified during this pass.",
     "newConversationIds": [
-      "o8zmaqzjGNG-i-gP7a_i0Qo",
-      "B9fmaquSDM3xi-gPz-fpwAI"
+      "zOHmaoGLDIm29u8PtNv8qAE",
+      "4vHmavWQLNCO9u8PlvjNsA8",
+      "ZCXnarDDLsPq-d8PkvGpmQw"
     ],
-    "updatedConversationIds": [
-      "RVjjapSpDryL9u8P98GeiA8"
-    ],
+    "updatedConversationIds": [],
     "records": [
       {
         "ordinal": 1,
@@ -968,17 +1005,94 @@
           "prompts": 23,
           "responses": 23
         }
+      },
+      {
+        "ordinal": 39,
+        "threadId": "zOHmaoGLDIm29u8PtNv8qAE",
+        "title": "Chatgpt Codex Analysis",
+        "status": "captured",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        }
+      },
+      {
+        "ordinal": 40,
+        "threadId": "4vHmavWQLNCO9u8PlvjNsA8",
+        "title": "Explain the Model",
+        "status": "captured",
+        "counts": {
+          "prompts": 9,
+          "responses": 9
+        }
+      },
+      {
+        "ordinal": 41,
+        "threadId": "ZCXnarDDLsPq-d8PkvGpmQw",
+        "title": "Binary Number System Truth",
+        "status": "captured",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        }
+      }
+    ],
+    "updateLabel": "moorec'slaw",
+    "pendingDiscoveredConversations": [
+      {
+        "title": "Which Model Holds Laws?",
+        "status": "browser-readout-pending"
+      },
+      {
+        "title": "Sequals Commune Information",
+        "status": "browser-readout-pending"
+      },
+      {
+        "title": "Buddy Hield",
+        "status": "browser-readout-pending"
+      },
+      {
+        "title": "Dure Dieren",
+        "status": "browser-readout-pending"
+      },
+      {
+        "title": "Internet Terms And Anagrams",
+        "status": "browser-readout-pending"
       }
     ]
   },
   "pdf": {
     "path": "output/pdf/public puck ic U jok E.pdf",
-    "status": "transcripts-complete-media-partial",
-    "pages": 415,
-    "bytes": 19075587,
-    "sha256": "f1154d94de294d8823687480265290fa55c0961c3b26ebbbeabcbbfccbaee4de",
-    "bookmarks": 40,
-    "promptMarkers": 238,
-    "responseMarkers": 238
-  }
+    "status": "transcripts-partial-media-partial",
+    "pages": 434,
+    "bytes": 20092116,
+    "sha256": "5f77addcc63fb6021f8ef8804a60ea029425ecd6784dc9977461c1e74b37081e",
+    "bookmarks": 43,
+    "promptMarkers": 255,
+    "responseMarkers": 255
+  },
+  "updateLabel": "moorec'slaw",
+  "pendingDiscoveredConversations": [
+    {
+      "title": "Which Model Holds Laws?",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Sequals Commune Information",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Buddy Hield",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Dure Dieren",
+      "status": "browser-readout-pending"
+    },
+    {
+      "title": "Internet Terms And Anagrams",
+      "status": "browser-readout-pending"
+    }
+  ],
+  "discoveredConversationCount": 46
 }
