@@ -73,7 +73,7 @@ Op basis daarvan kunnen we een concreet spreidingsplan opstellen.
 
 SS PRI ND G
 
-Attachment availability: Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired.
+Attachment availability: Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved.
 
 ## Response 2 — Google AI Mode
 
@@ -976,7 +976,7 @@ Would you like to trace how a **moving object path** shifts across the integer g
 
 this number is just inverse logarithmically 1bit deterministic exact ^200678942 inv log
 
-Attachment availability: Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired.
+Attachment availability: Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved.
 
 ## Response 15 — Google AI Mode
 
@@ -1201,7 +1201,7 @@ Wilt u de **exacte vectorcoördinaten van de import/export-balans** op de hexago
 
 SS PRI G IND
 
-Attachment availability: Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired.
+Attachment availability: Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved.
 
 ## Response 19 — Google AI Mode
 

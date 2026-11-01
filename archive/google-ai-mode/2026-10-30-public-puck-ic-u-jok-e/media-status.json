@@ -21,23 +21,45 @@
       "frame": 1,
       "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
       "url": "https://3vo68i9bfiykxabhada00qgy09oe47kazygh9kzu25lfjwjut5-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "conversation": 47,
+      "message": 16,
+      "frame": 1,
+      "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
+      "url": "https://1djtipppw4736xjrxlv8lkj457vo03xztzfszbzj67wqys290x-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
     }
   ],
   "pendingUserImages": [
     {
       "conversation": 17,
       "message": 3,
-      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
     },
     {
       "conversation": 17,
       "message": 29,
-      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
     },
     {
       "conversation": 17,
       "message": 37,
-      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
+    },
+    {
+      "conversation": 52,
+      "message": 3,
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
+    },
+    {
+      "conversation": 52,
+      "message": 9,
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
+    },
+    {
+      "conversation": 52,
+      "message": 17,
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
     }
   ],
   "capturedWidgets": [
@@ -146,5 +168,5 @@
     }
   ],
   "sourceEmptyResponses": [],
-  "note": "10 vector diagrams recovered; 3 embedded diagrams unavailable; 3 expired user-uploaded images. Source failures remain explicit in context."
+  "note": "10 vector diagrams recovered; 4 embedded diagrams unavailable; 6 unavailable user-uploaded images. Source failures remain explicit in context."
 }

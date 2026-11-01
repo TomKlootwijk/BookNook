@@ -1,20 +1,10 @@
 # public puck ic U jok E
 
-Aparte collectie gestart op 30 oktober 2026, na poi. De aanvulling van 1 november, **moorec'slaw**, bevat drie eerder openstaande gesprekken met samen 17 vraag-antwoordparen. De collectie telt nu 41 gesprekken en 255 paren. Er zijn daarnaast vijf gesprekken in de AI Mode-geschiedenis gevonden waarvan het uitlezen door verbindingsproblemen nog niet is gelukt.
+Aparte collectie gestart op 30 oktober 2026, na poi. De nieuwste aanvulling van 1 november bevat dertien gesprekken met samen 69 vraag-antwoordparen: de vijf eerder openstaande gesprekken en acht nieuw gevonden gesprekken. De collectie telt nu 54 gesprekken en 324 paren. Alle tijdens deze ronde ontdekte transcripties zijn opgenomen.
 
-- [PDF - 434 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
+- [PDF - 521 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
 - [Volledige opgeslagen transcripties](all-conversations.md)
 - [HTML-index](index.html)
-
-## Nog uit te lezen
-
-- Which Model Holds Laws?
-- Sequals Commune Information
-- Buddy Hield
-- Dure Dieren
-- Internet Terms And Anagrams
-
-Deze vijf zijn nog niet in de PDF opgenomen. Nieuwe vervolgreplies in eerder opgeslagen gesprekken konden tijdens deze controle evenmin worden geverifieerd.
 
 ## Opgenomen gesprekken
 
@@ -61,11 +51,26 @@ Deze vijf zijn nog niet in de PDF opgenomen. Nieuwe vervolgreplies in eerder opg
 | Chatgpt Codex Analysis | 3 | 3 | 416 |
 | Explain the Model | 9 | 9 | 420 |
 | Binary Number System Truth | 5 | 5 | 431 |
+| Which Model Holds Laws? | 5 | 5 | 435 |
+| Sequals Commune Information | 1 | 1 | 439 |
+| Buddy Hield | 1 | 1 | 444 |
+| Dure Dieren | 2 | 2 | 449 |
+| Internet Terms And Anagrams | 2 | 2 | 454 |
+| Letter N Info | 10 | 10 | 457 |
+| Floor Division vs Modulo | 8 | 8 | 472 |
+| Inverse Disease Vector Logic | 10 | 10 | 480 |
+| CeraVe and Moderate Muslims | 2 | 2 | 490 |
+| Sierpinski Triangle Information | 2 | 2 | 492 |
+| this image | 9 | 9 | 495 |
+| Autopoietic Inverse Logarithmic Question | 7 | 7 | 504 |
+| Fibonacci Reeks Ontologische Structuur | 10 | 10 | 509 |
 
-Alle 255 opgeslagen vraag-antwoordparen, bronlinks en 1666 formules zijn bewaard. De uitvoer bevat 515 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Tien ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard. De oorspronkelijke SVG's, HTML-opnamen en gegenereerde JPEG's staan in het archief.
+Alle 324 vraag-antwoordparen, bronlinks en 1934 formules zijn bewaard. De uitvoer bevat 628 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Tien ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard. De oorspronkelijke SVG's, HTML-opnamen en gegenereerde JPEG's staan in het archief.
 
-Nog onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één interactieve visualisatie in **Biofilm Tensor and Vantablack**, en drie verlopen geüploade afbeeldingen in **Risicospreiding in Beleggen**. Ze zijn bij hun bericht gemarkeerd. Google's zes foutmeldingen over verlopen inhoud, een niet-gegenereerde afbeelding en niet-beschikbare antwoorden zijn letterlijk bewaard. In de vastgelegde transcripties zijn geen overige ontbrekende antwoordafbeeldingen, gegenereerde bijlagen of lege antwoordblokken aangetroffen. Afbeeldingen behouden de door Google geleverde pixels en eventuele oorspronkelijke uitsneden; externe bronpagina's worden als verwijzingen bewaard.
+Nog onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één visualisatie in **Biofilm Tensor and Vantablack**, één in **Letter N Info**, drie verlopen uploads in **Risicospreiding in Beleggen** en drie uploads in **this image**. Ze zijn bij hun bericht gemarkeerd. Bij de drie laatste uploads toont Google ontbrekende afbeeldingen; de reden voor hun onbeschikbaarheid is niet vastgesteld. Het diagram in Letter N bleef bij twee onafhankelijke heropeningen leeg. Google's zes bestaande foutmeldingen zijn letterlijk bewaard. Er zijn geen overige ontbrekende antwoordafbeeldingen, gegenereerde bijlagen of lege antwoordblokken aangetroffen. Afbeeldingen behouden de door Google geleverde pixels en eventuele oorspronkelijke uitsneden; externe bronpagina's blijven verwijzingen.
 
-Alle 434 pagina's zijn gerenderd. De visuele controle en vergelijking met de vorige PDF staan in `verification.json`. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen en PDF-structuur zijn gecontroleerd. Binary Number System Truth is vanuit het oorspronkelijke tabblad en een onafhankelijk heropende pagina uitgelezen met identieke tekst. De onafhankelijke herlezing van de twee andere nieuwe transcripties werd geblokkeerd door dezelfde Chrome-storing; hun complete geladen berichtblokken zijn wel bewaard.
+Alle dertien nieuwe gesprekken zijn onafhankelijk herlezen. Twaalf waren tekstueel identiek. Antwoord 3 van **Floor Division vs Modulo** bestaat uit live zoekresultaten waarvan twee kaarten veranderden; beide opnamen zijn bewaard, met de tweede in `raw/readbacks`. Alle acht prompts en zeven gegenereerde antwoorden van dat gesprek waren identiek. Tien recente bestaande gesprekken zijn ook vergeleken en ongewijzigd; daarmee zijn de ontbrekende herlezingen uit de vorige ronde afgerond.
 
-Het eerder bijgewerkte groentegesprek blijft volledig opgenomen (23 paren). De eerdere opname van één paar in Putin Input is ongewijzigd. Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief. De transcripties zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole.
+Alle 521 PDF-pagina's zijn gerenderd. De visuele controle en vergelijking met de vorige PDF staan in `verification.json`. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen, PDF-bladwijzers en PDF-structuur zijn gecontroleerd.
+
+Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief. De transcripties zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole. Eerdere archieven blijven ongewijzigd.

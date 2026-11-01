@@ -1,9 +1,19 @@
 {
-  "at": "2026-11-01T14:49:44.320050+00:00",
+  "at": "2026-11-01T20:23:29.032235+00:00",
   "newConversationIds": [
-    "zOHmaoGLDIm29u8PtNv8qAE",
-    "4vHmavWQLNCO9u8PlvjNsA8",
-    "ZCXnarDDLsPq-d8PkvGpmQw"
+    "Kx3nap6iAoeK9u8PtYWriAw",
+    "s0Lnao_zLcW79u8P9oHK6Qc",
+    "uEPnauaDFuGti-gP4-ub0AE",
+    "FkznatjoFeG3i-gPtsOamA0",
+    "A0_nav_JMpSgi-gPwMacmAs",
+    "m1_naov1IamD9u8P78f8mAI",
+    "HW_naszMFaGIi-gP9PnXMQ",
+    "dnDnatqxKo20i-gPx6GzwQQ",
+    "G3znauBa0MmL6A_o2LWoBw",
+    "wX3naoytK96si-gP-ZacmAE",
+    "5X3natbwM-Wgi-gPhIizgQo",
+    "MY7nasrqIK2J9u8P6tr5kA8",
+    "qJrnaquzEKXbi-gP-o2y4Ac"
   ],
   "updatedConversationIds": [],
   "allConversationIds": [
@@ -47,32 +57,24 @@
     "RVjjapSpDryL9u8P98GeiA8",
     "zOHmaoGLDIm29u8PtNv8qAE",
     "4vHmavWQLNCO9u8PlvjNsA8",
-    "ZCXnarDDLsPq-d8PkvGpmQw"
+    "ZCXnarDDLsPq-d8PkvGpmQw",
+    "Kx3nap6iAoeK9u8PtYWriAw",
+    "s0Lnao_zLcW79u8P9oHK6Qc",
+    "uEPnauaDFuGti-gP4-ub0AE",
+    "FkznatjoFeG3i-gPtsOamA0",
+    "A0_nav_JMpSgi-gPwMacmAs",
+    "m1_naov1IamD9u8P78f8mAI",
+    "HW_naszMFaGIi-gP9PnXMQ",
+    "dnDnatqxKo20i-gPx6GzwQQ",
+    "G3znauBa0MmL6A_o2LWoBw",
+    "wX3naoytK96si-gP-ZacmAE",
+    "5X3natbwM-Wgi-gPhIizgQo",
+    "MY7nasrqIK2J9u8P6tr5kA8",
+    "qJrnaquzEKXbi-gP-o2y4Ac"
   ],
-  "previousCommit": "0005d09894a54882fea7da285581e85a9a617395",
+  "previousCommit": "72d82cc77ed820bffc547d614d73be5bdcc7486b",
   "baseline": "2026-10-30-poi",
-  "note": "Three previously pending conversations captured completely. Five additional conversations were discovered in AI Mode history; their transcript export is pending because Chrome text readout became unavailable. No recent updates to older conversations could be verified during this pass.",
-  "updateLabel": "moorec'slaw",
-  "pendingDiscoveredConversations": [
-    {
-      "title": "Which Model Holds Laws?",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Sequals Commune Information",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Buddy Hield",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Dure Dieren",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Internet Terms And Anagrams",
-      "status": "browser-readout-pending"
-    }
-  ]
+  "note": "Added all five previously pending conversations and eight newly discovered conversations. All thirteen were independently reread: twelve matched exactly; Floor Division has one live search-result response with changing cards, and both variants are preserved. Its eight prompts and seven generated answers match exactly. Existing recent threads were also checked for followups.",
+  "updateLabel": "2026-11-01 additional conversations",
+  "pendingDiscoveredConversations": []
 }

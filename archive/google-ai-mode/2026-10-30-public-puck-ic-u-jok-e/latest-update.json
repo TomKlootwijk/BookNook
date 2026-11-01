@@ -1,14 +1,24 @@
 {
-  "at": "2026-11-01T14:49:44.320050+00:00",
+  "at": "2026-11-01T20:23:29.032235+00:00",
   "date": "2026-11-01",
   "batchId": "2026-10-30-public-puck-ic-u-jok-e",
   "batchTitle": "public puck ic U jok E",
-  "status": "transcripts-partial-media-partial",
-  "method": "Three previously pending conversations captured completely. Five additional conversations were discovered in AI Mode history; their transcript export is pending because Chrome text readout became unavailable. No recent updates to older conversations could be verified during this pass.",
+  "status": "transcripts-complete-media-partial",
+  "method": "Added all five previously pending conversations and eight newly discovered conversations. All thirteen were independently reread: twelve matched exactly; Floor Division has one live search-result response with changing cards, and both variants are preserved. Its eight prompts and seven generated answers match exactly. Existing recent threads were also checked for followups.",
   "newConversationIds": [
-    "zOHmaoGLDIm29u8PtNv8qAE",
-    "4vHmavWQLNCO9u8PlvjNsA8",
-    "ZCXnarDDLsPq-d8PkvGpmQw"
+    "Kx3nap6iAoeK9u8PtYWriAw",
+    "s0Lnao_zLcW79u8P9oHK6Qc",
+    "uEPnauaDFuGti-gP4-ub0AE",
+    "FkznatjoFeG3i-gPtsOamA0",
+    "A0_nav_JMpSgi-gPwMacmAs",
+    "m1_naov1IamD9u8P78f8mAI",
+    "HW_naszMFaGIi-gP9PnXMQ",
+    "dnDnatqxKo20i-gPx6GzwQQ",
+    "G3znauBa0MmL6A_o2LWoBw",
+    "wX3naoytK96si-gP-ZacmAE",
+    "5X3natbwM-Wgi-gPhIizgQo",
+    "MY7nasrqIK2J9u8P6tr5kA8",
+    "qJrnaquzEKXbi-gP-o2y4Ac"
   ],
   "updatedConversationIds": [],
   "records": [
@@ -421,29 +431,138 @@
         "prompts": 5,
         "responses": 5
       }
+    },
+    {
+      "ordinal": 42,
+      "threadId": "Kx3nap6iAoeK9u8PtYWriAw",
+      "title": "Which Model Holds Laws?",
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 43,
+      "threadId": "s0Lnao_zLcW79u8P9oHK6Qc",
+      "title": "Sequals Commune Information",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 44,
+      "threadId": "uEPnauaDFuGti-gP4-ub0AE",
+      "title": "Buddy Hield",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 45,
+      "threadId": "FkznatjoFeG3i-gPtsOamA0",
+      "title": "Dure Dieren",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 46,
+      "threadId": "A0_nav_JMpSgi-gPwMacmAs",
+      "title": "Internet Terms And Anagrams",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 47,
+      "threadId": "m1_naov1IamD9u8P78f8mAI",
+      "title": "Letter N Info",
+      "status": "captured",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 48,
+      "threadId": "HW_naszMFaGIi-gP9PnXMQ",
+      "title": "Floor Division vs Modulo",
+      "status": "captured",
+      "counts": {
+        "prompts": 8,
+        "responses": 8
+      }
+    },
+    {
+      "ordinal": 49,
+      "threadId": "dnDnatqxKo20i-gPx6GzwQQ",
+      "title": "Inverse Disease Vector Logic",
+      "status": "captured",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
+    },
+    {
+      "ordinal": 50,
+      "threadId": "G3znauBa0MmL6A_o2LWoBw",
+      "title": "CeraVe and Moderate Muslims",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 51,
+      "threadId": "wX3naoytK96si-gP-ZacmAE",
+      "title": "Sierpinski Triangle Information",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 52,
+      "threadId": "5X3natbwM-Wgi-gPhIizgQo",
+      "title": "this image",
+      "status": "captured",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 53,
+      "threadId": "MY7nasrqIK2J9u8P6tr5kA8",
+      "title": "Autopoietic Inverse Logarithmic Question",
+      "status": "captured",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 54,
+      "threadId": "qJrnaquzEKXbi-gP-o2y4Ac",
+      "title": "Fibonacci Reeks Ontologische Structuur",
+      "status": "captured",
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      }
     }
   ],
-  "updateLabel": "moorec'slaw",
-  "pendingDiscoveredConversations": [
-    {
-      "title": "Which Model Holds Laws?",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Sequals Commune Information",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Buddy Hield",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Dure Dieren",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Internet Terms And Anagrams",
-      "status": "browser-readout-pending"
-    }
-  ]
+  "updateLabel": "2026-11-01 additional conversations",
+  "pendingDiscoveredConversations": []
 }

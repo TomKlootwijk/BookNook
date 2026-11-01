@@ -1,19 +1,19 @@
 {
-  "verifiedAt": "2026-11-01T15:03:44.976990+00:00",
-  "status": "partial-export-browser-blocked",
-  "updateLabel": "moorec'slaw",
-  "conversations": 41,
-  "newConversations": 3,
+  "verifiedAt": "2026-11-01T20:31:13.154899+00:00",
+  "status": "transcripts-complete-media-partial",
+  "updateLabel": "2026-11-01 additional conversations",
+  "conversations": 54,
+  "newConversations": 13,
   "updatedConversations": 0,
-  "newPromptResponsePairs": 17,
-  "prompts": 255,
-  "responseBlocks": 255,
-  "pages": 434,
-  "formulas": 1666,
-  "embeddedImages": 515,
-  "pdfSha256": "5f77addcc63fb6021f8ef8804a60ea029425ecd6784dc9977461c1e74b37081e",
+  "newPromptResponsePairs": 69,
+  "prompts": 324,
+  "responseBlocks": 324,
+  "pages": 521,
+  "formulas": 1934,
+  "embeddedImages": 628,
+  "pdfSha256": "3d870ec9c9e61eec1dd69941d4d984a046eaa969287a0541620e22cade056a2e",
   "visualReview": {
-    "pageCount": 434,
+    "pageCount": 521,
     "allPagesRendered": true,
     "reviewedPages": [
       1,
@@ -449,19 +449,113 @@
       431,
       432,
       433,
-      434
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521
     ],
     "contactSheets": [
-      "contact-17.png",
-      "contact-18.png"
+      "contact-18.png",
+      "contact-19.png",
+      "contact-20.png",
+      "contact-21.png"
     ],
     "detailPages": [
       1,
       2,
-      425,
-      434
+      3,
+      136,
+      170,
+      175,
+      499,
+      509,
+      518
     ],
-    "previousVisualReviewCommit": "0005d09894a54882fea7da285581e85a9a617395",
+    "previousVisualReviewCommit": "72d82cc77ed820bffc547d614d73be5bdcc7486b",
     "unchangedPageCheck": {
       "comparison": "Exact RGB page pixels excluding bottom 45 of 1100 pixels containing changed date footer",
       "unchangedPages": [
@@ -598,7 +692,6 @@
         133,
         134,
         135,
-        136,
         137,
         138,
         139,
@@ -632,12 +725,10 @@
         167,
         168,
         169,
-        170,
         171,
         172,
         173,
         174,
-        175,
         176,
         177,
         178,
@@ -877,11 +968,7 @@
         412,
         413,
         414,
-        415
-      ],
-      "changedPages": [
-        1,
-        2,
+        415,
         416,
         417,
         418,
@@ -901,34 +988,107 @@
         432,
         433,
         434
+      ],
+      "changedPages": [
+        1,
+        2,
+        136,
+        170,
+        175,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521
       ]
     },
-    "result": "All 413 pre-existing transcript pages have identical body pixels to the previously reviewed PDF. The updated coverage page, two-column index and all 19 added pages were visually inspected. Detailed checks covered the new text diagram and binary formulas. Three escaped-space formula labels were corrected while preserving original LaTeX; the source itself contains one unrendered LaTeX expression which is retained literally. A Google error response in Explain the Model is preserved. No new clipping or overlap observed. The five pending conversations are named on the cover."
+    "result": "429 existing transcript pages have identical body pixels to the previously reviewed PDF. Three earlier pages changed only to clarify unavailable-upload notes and were visually inspected. The coverage page, index and all 87 added pages were inspected. Three source formulas were rendered as aligned rows instead of a flattened line; original LaTeX remains intact. Detailed formula and diagram checks found no clipping or overlap. Ten unavailable media items are explicitly marked."
   },
   "brokenLocalLinks": [],
   "pdfSyntaxIssues": [],
-  "missingConversations": [
-    {
-      "title": "Which Model Holds Laws?",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Sequals Commune Information",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Buddy Hield",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Dure Dieren",
-      "status": "browser-readout-pending"
-    },
-    {
-      "title": "Internet Terms And Anagrams",
-      "status": "browser-readout-pending"
-    }
-  ],
+  "missingConversations": [],
   "pendingMedia": [
     {
       "conversation": 3,
@@ -952,80 +1112,369 @@
       "url": "https://3vo68i9bfiykxabhada00qgy09oe47kazygh9kzu25lfjwjut5-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
     },
     {
+      "conversation": 47,
+      "message": 16,
+      "frame": 1,
+      "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
+      "url": "https://1djtipppw4736xjrxlv8lkj457vo03xztzfszbzj67wqys290x-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
       "conversation": 17,
       "message": 3,
-      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
     },
     {
       "conversation": 17,
       "message": 29,
-      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
     },
     {
       "conversation": 17,
       "message": 37,
-      "note": "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
+    },
+    {
+      "conversation": 52,
+      "message": 3,
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
+    },
+    {
+      "conversation": 52,
+      "message": 9,
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
+    },
+    {
+      "conversation": 52,
+      "message": 17,
+      "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
     }
   ],
   "priorArchivesUnchanged": true,
   "readback": {
-    "at": "2026-11-01T14:48:40.093934+00:00",
-    "previousCommit": "0005d09894a54882fea7da285581e85a9a617395",
-    "updateLabel": "moorec'slaw",
+    "at": "2026-11-01T20:23:00.435461+00:00",
+    "previousCommit": "72d82cc77ed820bffc547d614d73be5bdcc7486b",
+    "updateLabel": "2026-11-01 additional conversations",
     "newIds": [
-      "zOHmaoGLDIm29u8PtNv8qAE",
-      "4vHmavWQLNCO9u8PlvjNsA8",
-      "ZCXnarDDLsPq-d8PkvGpmQw"
+      "Kx3nap6iAoeK9u8PtYWriAw",
+      "s0Lnao_zLcW79u8P9oHK6Qc",
+      "uEPnauaDFuGti-gP4-ub0AE",
+      "FkznatjoFeG3i-gPtsOamA0",
+      "A0_nav_JMpSgi-gPwMacmAs",
+      "m1_naov1IamD9u8P78f8mAI",
+      "HW_naszMFaGIi-gP9PnXMQ",
+      "dnDnatqxKo20i-gPx6GzwQQ",
+      "G3znauBa0MmL6A_o2LWoBw",
+      "wX3naoytK96si-gP-ZacmAE",
+      "5X3natbwM-Wgi-gPhIizgQo",
+      "MY7nasrqIK2J9u8P6tr5kA8",
+      "qJrnaquzEKXbi-gP-o2y4Ac"
     ],
     "updatedIds": [],
-    "newPairs": 17,
-    "addedPairsToCurrentCollection": 17,
+    "newPairs": 69,
+    "addedPairsToCurrentCollection": 69,
     "importedPreviouslyArchivedPairs": 0,
-    "existingChecks": [],
-    "readbacks": [
+    "existingChecks": [
+      {
+        "threadId": "zOHmaoGLDIm29u8PtNv8qAE",
+        "title": "Chatgpt Codex Analysis",
+        "previousCounts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:21:18.434Z"
+      },
+      {
+        "threadId": "4vHmavWQLNCO9u8PlvjNsA8",
+        "title": "Explain the Model",
+        "previousCounts": {
+          "prompts": 9,
+          "responses": 9
+        },
+        "counts": {
+          "prompts": 9,
+          "responses": 9
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:22:01.020Z"
+      },
       {
         "threadId": "ZCXnarDDLsPq-d8PkvGpmQw",
         "title": "Binary Number System Truth",
+        "previousCounts": {
+          "prompts": 5,
+          "responses": 5
+        },
         "counts": {
           "prompts": 5,
           "responses": 5
         },
         "sameVisibleText": true,
-        "method": "Original user tab compared with independently reopened agent tab"
+        "at": "2026-11-01T20:22:18.894Z"
+      },
+      {
+        "threadId": "B9fmaquSDM3xi-gPz-fpwAI",
+        "title": "NotebookLM Subscription in Netherlands",
+        "previousCounts": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:22:27.096Z"
+      },
+      {
+        "threadId": "o8zmaqzjGNG-i-gP7a_i0Qo",
+        "title": "Pride Month Perspectives",
+        "previousCounts": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "counts": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:23:16.623Z"
+      },
+      {
+        "threadId": "RVjjapSpDryL9u8P98GeiA8",
+        "title": "Biologisch vs Onbespoten Groenten",
+        "previousCounts": {
+          "prompts": 23,
+          "responses": 23
+        },
+        "counts": {
+          "prompts": 23,
+          "responses": 23
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:23:17.116Z"
+      },
+      {
+        "threadId": "imTmavXZGKC69u8Pta7l6AM",
+        "title": "Guido Gamious Programmer",
+        "previousCounts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:23:32.768Z"
+      },
+      {
+        "threadId": "a07mav6QM9u-i-gPrpbymA4",
+        "title": "Sentinel Island Missionary Exposure",
+        "previousCounts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:23:32.838Z"
+      },
+      {
+        "threadId": "ZVHmarT4GsOWi-gP8uGlyA0",
+        "title": "MKZ Bij Evenhoevige Dieren",
+        "previousCounts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:23:49.949Z"
+      },
+      {
+        "threadId": "F1DmauaQMpmA9u8PgOi7mQM",
+        "title": "Chernobyl Exclusion Zone Pokémon Cards",
+        "previousCounts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:23:50.065Z"
       }
     ],
-    "pendingConversations": [
+    "readbacks": [
       {
+        "threadId": "m1_naov1IamD9u8P78f8mAI",
+        "title": "Letter N Info",
+        "counts": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:19:17.948Z",
+        "method": "Independent reread after navigating away and back"
+      },
+      {
+        "threadId": "5X3natbwM-Wgi-gPhIizgQo",
+        "title": "this image",
+        "counts": {
+          "prompts": 9,
+          "responses": 9
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:20:00.990Z",
+        "method": "Independent reread after navigating away and back"
+      },
+      {
+        "threadId": "Kx3nap6iAoeK9u8PtYWriAw",
         "title": "Which Model Holds Laws?",
-        "status": "browser-readout-pending"
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "sameVisibleText": true,
+        "method": "Independent page reload"
       },
       {
-        "title": "Sequals Commune Information",
-        "status": "browser-readout-pending"
+        "threadId": "qJrnaquzEKXbi-gP-o2y4Ac",
+        "title": "Fibonacci Reeks Ontologische Structuur",
+        "counts": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:20:39.924Z",
+        "method": "Independent reread after navigating away and back"
       },
       {
-        "title": "Buddy Hield",
-        "status": "browser-readout-pending"
+        "threadId": "MY7nasrqIK2J9u8P6tr5kA8",
+        "title": "Autopoietic Inverse Logarithmic Question",
+        "counts": {
+          "prompts": 7,
+          "responses": 7
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:20:50.829Z",
+        "method": "Independent reread after navigating away and back"
       },
       {
-        "title": "Dure Dieren",
-        "status": "browser-readout-pending"
+        "threadId": "wX3naoytK96si-gP-ZacmAE",
+        "title": "Sierpinski Triangle Information",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:20:55.584Z",
+        "method": "Independent reread after navigating away and back"
       },
       {
+        "threadId": "G3znauBa0MmL6A_o2LWoBw",
+        "title": "CeraVe and Moderate Muslims",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:21:09.099Z",
+        "method": "Independent reread after navigating away and back"
+      },
+      {
+        "threadId": "dnDnatqxKo20i-gPx6GzwQQ",
+        "title": "Inverse Disease Vector Logic",
+        "counts": {
+          "prompts": 10,
+          "responses": 10
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:21:18.210Z",
+        "method": "Independent reread after navigating away and back"
+      },
+      {
+        "threadId": "HW_naszMFaGIi-gP9PnXMQ",
+        "title": "Floor Division vs Modulo",
+        "counts": {
+          "prompts": 8,
+          "responses": 8
+        },
+        "sameVisibleText": false,
+        "at": "2026-11-01T20:21:28.251Z",
+        "method": "Independent reread after navigating away and back",
+        "samePromptAndGeneratedAnswerText": true,
+        "differentMessageIndexes": [
+          6
+        ],
+        "note": "Response 3 is a live list of web results; two result cards changed between reads. Both observed variants are preserved. All eight prompts and the seven generated answers match exactly."
+      },
+      {
+        "threadId": "A0_nav_JMpSgi-gPwMacmAs",
         "title": "Internet Terms And Anagrams",
-        "status": "browser-readout-pending"
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:21:59.781Z",
+        "method": "Independent reread after navigating away and back"
+      },
+      {
+        "threadId": "FkznatjoFeG3i-gPtsOamA0",
+        "title": "Dure Dieren",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:22:06.113Z",
+        "method": "Independent reread after navigating away and back"
+      },
+      {
+        "threadId": "uEPnauaDFuGti-gP4-ub0AE",
+        "title": "Buddy Hield",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:22:17.824Z",
+        "method": "Independent reread after navigating away and back"
+      },
+      {
+        "threadId": "s0Lnao_zLcW79u8P9oHK6Qc",
+        "title": "Sequals Commune Information",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "sameVisibleText": true,
+        "at": "2026-11-01T20:22:26.751Z",
+        "method": "Independent reread after navigating away and back"
       }
     ],
+    "pendingConversations": [],
     "historyBoundary": [
       "NotebookLM Subscription in Netherlands",
       "Pride Month Perspectives",
       "Guido Gamious Programmer"
     ],
-    "method": "Three previously pending conversations captured completely. Five additional conversations were discovered in AI Mode history; their transcript export is pending because Chrome text readout became unavailable. No recent updates to older conversations could be verified during this pass."
+    "method": "Added all five previously pending conversations and eight newly discovered conversations. All thirteen were independently reread: twelve matched exactly; Floor Division has one live search-result response with changing cards, and both variants are preserved. Its eight prompts and seven generated answers match exactly. Existing recent threads were also checked for followups."
   },
-  "note": "All three new captured transcripts have complete alternating prompt-response blocks and full stored HTML. Binary Number System Truth matched an independently reopened tab. Independent rereads of the other two and updated older threads were blocked by Chrome readout failures.",
+  "note": "All five previously pending and eight newly discovered transcripts captured and independently reread. Twelve match exactly. Floor Division has one live web-results response whose cards changed; both observations are preserved. All eight prompts and its seven generated answers match exactly. Ten recent existing conversations match their archived text, resolving the previous readback gap.",
   "widgetVerification": {
-    "at": "2026-10-31T22:37:45.882Z",
+    "at": "2026-11-01T20:23:00.441002+00:00",
     "frames": [
       {
         "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
@@ -1150,6 +1599,13 @@
         "svgCount": 1,
         "canvasCount": 0,
         "textLength": 317
+      },
+      {
+        "threadId": "m1_naov1IamD9u8P78f8mAI",
+        "frame": 1,
+        "src": "https://1djtipppw4736xjrxlv8lkj457vo03xztzfszbzj67wqys290x-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+        "status": "unavailable",
+        "method": "Two independent opens; iframe body inaccessible and visible widget area blank"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-31T22:37:45.882Z",
+  "at": "2026-11-01T20:23:00.441002+00:00",
   "frames": [
     {
       "threadId": "PYHlapyIBOW7i-gPw6rW4Ac",
@@ -124,6 +124,13 @@
       "svgCount": 1,
       "canvasCount": 0,
       "textLength": 317
+    },
+    {
+      "threadId": "m1_naov1IamD9u8P78f8mAI",
+      "frame": 1,
+      "src": "https://1djtipppw4736xjrxlv8lkj457vo03xztzfszbzj67wqys290x-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+      "status": "unavailable",
+      "method": "Two independent opens; iframe body inaccessible and visible widget area blank"
     }
   ]
 }

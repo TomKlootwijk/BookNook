@@ -141,7 +141,7 @@
       "wrapSourceUrls": true,
       "wrapLongNumbers": true,
       "attachmentNotes": [
-        "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+        "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
       ]
     },
     {
@@ -4089,7 +4089,7 @@
       "wrapSourceUrls": true,
       "wrapLongNumbers": true,
       "attachmentNotes": [
-        "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+        "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
       ]
     },
     {
@@ -5336,7 +5336,7 @@
       "wrapSourceUrls": true,
       "wrapLongNumbers": true,
       "attachmentNotes": [
-        "Unavailable user-uploaded image: Google no longer serves the image in this conversation; the source reports that uploaded content has expired."
+        "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
       ]
     },
     {
