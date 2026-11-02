@@ -1,0 +1,28 @@
+{
+  "graphs": [
+    {
+      "message": 42,
+      "path": "assets/4d85245b6ee040b9e85d.png",
+      "sha256": "4d85245b6ee040b9e85ddcd5d85b5816a0dec575bccd0f07d7aabca70f53ed5b",
+      "width": 1046,
+      "height": 659
+    },
+    {
+      "message": 44,
+      "path": "assets/bfe77e801dc98849dcc1.png",
+      "sha256": "bfe77e801dc98849dcc1feae5493e9f1b9322c8d029e7b3757a774839a243d8d",
+      "width": 1070,
+      "height": 659
+    },
+    {
+      "message": 46,
+      "path": "assets/ea5e95d012eb3ff69766.png",
+      "sha256": "ea5e95d012eb3ff697663cce0b5ff6bd58df9a924261605e156f219f498228b3",
+      "width": 1046,
+      "height": 659
+    }
+  ],
+  "newEmbeddedFrames": 0,
+  "newUploads": 0,
+  "priorMediaGapsUnchanged": true
+}

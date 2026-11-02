@@ -1,17 +1,21 @@
 # public puck ic U jok E
 
-Aparte collectie gestart op 30 oktober 2026, na poi. De vierde aanvulling van 2 november, **smoll njet**, bevat zeven nieuwe gesprekken met 44 vraag-antwoordparen en vijf nieuwe paren in **my stuff**. De collectie telt nu **81 gesprekken en 451 paren**. De exportstand loopt tot 2 november 2026, 12:15:24 CET, door het twintigste paar van EU GDP Growth Analysis.
+Aparte collectie gestart op 30 oktober 2026, na poi. De vijfde aanvulling van 2 november, **Shadowfaang**, bevat één nieuw gesprek en tien vervolgen. De collectie telt nu **82 gesprekken en 462 vraag-antwoordparen**. Exportstand: **2 november 2026, 13:11:21 CET**.
 
-- [PDF - 820 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
+- [PDF - 840 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
 - [Volledige transcripties](all-conversations.md)
 - [HTML-index](index.html)
 - [Originele PDF-bijlage - 105 pagina's](attachments/Tom_Klootwijk_Physical_Systems_Lifecycle_Royal_Philips.pdf)
 
-## Nieuwe aanvulling
+## Google Notebook
 
-2.7 Trillion Euro Per Year (1 paar), $2.7 Trillion GDP Comparison (9), Double FAANG Shadow Bookkeeping (3), Prometheus Movie Origins (5), Global Operating System vs Federation (2), Oligarch of the Oligarchy (4) en EU GDP Growth Analysis (20). **my stuff** groeide van twee naar zeven paren.
+[Shadowfaang](https://notebook.google.com/notebook/9b6d3dd2-abc6-4b57-9760-2c48eb5517f6) bevat twee volledig verwerkte bronnen: de PDF en de volledige Markdown-transcripties. De eerste en laatste gesprekken en nieuwste vervolgen zijn in de notebookbronnen gecontroleerd. Bestaande notebooks zijn niet gewijzigd. Zie `notebook.json` voor bestandscontrolesommen en verificatie.
 
-De nieuwe GDP-grafiek is als SVG bewaard; de beschikbare inline grafieken bij EU GDP Growth Analysis zijn ook opgenomen. De eerdere Google-kaart en drie geüploade afbeeldingen blijven bewaard. De volledige bijlage **Physical Systems Across the Lifecycle** is bewaard en als 105 originele pagina's achter de gesprekken aan de gecombineerde PDF toegevoegd, vanaf pagina 716.
+## Nieuwe aanvulling - Shadowfaang
+
+**Discrete Sensor Definition** is toegevoegd met één paar. **Double FAANG Shadow Bookkeeping** groeide van drie naar vier paren; **EU GDP Growth Analysis** groeide van twintig naar negenentwintig paren. Samen zijn dit elf nieuwe paren. De drie nieuwe inline grafieken zijn als originele pixels opgenomen.
+
+De bestaande berichtblokken zijn letterlijk behouden. Overlappende transcripttekst komt exact overeen met de nieuwe vastlegging. Onafhankelijk heropende gesprekken bevestigen alle nieuwe vraag- en antwoordtekst. Bij het FAANG-gesprek laat de heropening alleen herhaalde bronlabels weg; daarom is de vastlegging met alle zichtbare bronlinks behouden. De actuele Prometheus- en My Stuff-tabbladen bevatten geen nieuw staartantwoord.
 
 ## Opgenomen gesprekken
 
@@ -93,22 +97,25 @@ De nieuwe GDP-grafiek is als SVG bewaard; de beschikbare inline grafieken bij EU
 | my stuff | 7 | 7 | 639 |
 | 2.7 Trillion Euro Per Year | 1 | 1 | 657 |
 | $2.7 Trillion GDP Comparison | 9 | 9 | 659 |
-| Double FAANG Shadow Bookkeeping | 3 | 3 | 669 |
-| Prometheus Movie Origins | 5 | 5 | 674 |
-| Global Operating System vs Federation | 2 | 2 | 681 |
-| Oligarch of the Oligarchy | 4 | 4 | 684 |
-| EU GDP Growth Analysis | 20 | 20 | 690 |
+| Double FAANG Shadow Bookkeeping | 4 | 4 | 669 |
+| Prometheus Movie Origins | 5 | 5 | 676 |
+| Global Operating System vs Federation | 2 | 2 | 683 |
+| Oligarch of the Oligarchy | 4 | 4 | 686 |
+| EU GDP Growth Analysis | 29 | 29 | 692 |
+| Discrete Sensor Definition | 1 | 1 | 735 |
 
-Alle 451 vraag-antwoordparen, bronlinks en 2379 formules zijn bewaard. De transcriptuitvoer bevat 904 afbeeldingsvermeldingen inclusief herhalingen, vijftien vectordiagrammen en de beschikbare bronafbeeldingen. De eerdere vijfdelige quiz met antwoorden, toelichtingen en hints blijft opgenomen.
+Alle 462 vraag-antwoordparen, bronlinks en 2444 formules zijn bewaard. De uitvoer bevat 927 afbeeldingsvermeldingen inclusief herhalingen, vijftien vectordiagrammen, de beschikbare bronafbeeldingen, een Google-kaart en de eerdere vijfdelige quiz met antwoorden, toelichtingen en hints.
 
-De zes eerste nieuwe gesprekken kwamen exact overeen met onafhankelijke herlezingen. Het EU-gesprek groeide tijdens de controle: de eerste achttien paren kwamen overeen na onafhankelijk heropenen; de twee daarna afgeronde paren kwamen overeen bij een tweede uitlezing van de heropende pagina. Beide volledige vastleggingen zijn bewaard.
+De originele **Physical Systems Across the Lifecycle**-bijlage is met alle 105 oorspronkelijke pagina's toegevoegd vanaf PDF-pagina 736. De inhoudsstromen en paginaformaten komen exact overeen met het originele bestand. De eerder door Google weggelaten uploadprompt in **My Stuff** blijft uit de gecontroleerde voorgaande export behouden.
 
-De live vastlegging en onafhankelijke herlezing van **my stuff** kwamen exact overeen. Google toont de eerdere PDF-uploadprompt niet meer. De oorspronkelijke vier berichtblokken, inclusief de uploadprompt en bijlagekoppeling, zijn daarom letterlijk behouden uit de eerder gecontroleerde export. De vijf nieuwe paren zijn daarachter toegevoegd. De live weergave zonder uploadprompt en de samenvoeging zijn afzonderlijk gedocumenteerd in `raw/observations` en `update-check.json`.
+## Bekende ontbrekende bronmedia
 
-De **Simulated Defense Burden Calculator** in het EU-gesprek bleef leeg na heropenen; dit staat bij het antwoord vermeld. De nieuwe upload **Tom_Klootwijk_Grand_Strategy_Global_Systems.pdf** wordt door Google alleen bij naam getoond, zonder downloadlink. Het bronbestand is nog niet gevonden en is **niet opgenomen**. De bestandsnaam en prompt zijn wel bewaard.
+De **Simulated Defense Burden Calculator** in het EU-gesprek bleef leeg bij de eerdere onafhankelijke heropening. De upload **Tom_Klootwijk_Grand_Strategy_Global_Systems.pdf** is alleen bij naam vastgelegd: er was geen downloadlink en het lokale bronbestand is niet gevonden. Het bestand is niet opgenomen.
 
-Eerder onbeschikbaar bij Google: twee diagrammen bij **Scopolamine Chemistry Mechanism Biology**, één bij **Biofilm Tensor and Vantablack**, één bij **Letter N Info**, drie verlopen uploads bij **Risicospreiding in Beleggen** en drie uploads bij **this image**. Ze blijven bij hun bericht gemarkeerd. De zeven Google-foutmeldingen en meldingen over beperkte documentverwerking zijn letterlijk bewaard. Externe bronpagina's en video's blijven verwijzingen.
+Eerder onbeschikbaar bij Google: twee diagrammen bij **Scopolamine Chemistry Mechanism Biology**, één bij **Biofilm Tensor and Vantablack**, één bij **Letter N Info**, drie verlopen uploads bij **Risicospreiding in Beleggen** en drie uploads bij **this image**. Deze twaalf hiaten blijven bij hun berichten gemarkeerd. Zeven Google-foutmeldingen en meldingen over beperkte documentverwerking zijn letterlijk bewaard. Externe bronpagina's en video's blijven verwijzingen.
 
-Alle 820 pagina's zijn gerenderd. De visuele controle, vergelijking met de vorige versie, berichtvolgorde, HTML-lengtes, SVG-structuur, bestandscontrolesommen, lokale verwijzingen, bladwijzers en PDF-structuur staan in `verification.json`.
+## Verificatie
+
+Alle 840 pagina's zijn gerenderd. Ongewijzigde paginapixels zijn met de vorige versie vergeleken; gewijzigde pagina's zijn visueel gecontroleerd. Berichtvolgorde, HTML-lengtes, nieuwe grafieken, verwijzingen, bladwijzers, PDF-structuur en de oorspronkelijke PDF-bijlage zijn gecontroleerd. De resultaten staan in `verification.json`.
 
 Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief. De transcripties en bijlage zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole. Eerdere archieven blijven ongewijzigd.

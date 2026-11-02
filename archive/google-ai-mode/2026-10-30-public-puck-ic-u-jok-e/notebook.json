@@ -1,0 +1,51 @@
+{
+  "title": "Shadowfaang",
+  "url": "https://notebook.google.com/notebook/9b6d3dd2-abc6-4b57-9760-2c48eb5517f6",
+  "status": "complete",
+  "verifiedAt": "2026-11-02T12:28:16.856289+00:00",
+  "sourceCount": 2,
+  "conversations": 82,
+  "promptResponsePairs": 462,
+  "pdfPages": 840,
+  "captureCutoff": "2026-11-02T12:11:21.957Z",
+  "sources": [
+    {
+      "filename": "public puck ic U jok E.pdf",
+      "path": "output/pdf/public puck ic U jok E.pdf",
+      "bytes": 31677435,
+      "sha256": "e3a6b79d151c5baa7b152c9abe67ddbe7385141f2f2103540188716379df9e8e",
+      "processingComplete": true
+    },
+    {
+      "filename": "all-conversations.md",
+      "path": "archive/google-ai-mode/2026-10-30-public-puck-ic-u-jok-e/all-conversations.md",
+      "bytes": 1728149,
+      "sha256": "a6616630db2a802ea7033601758372d62778369f4ced2e1c613e191dd18a324c",
+      "processingComplete": true
+    }
+  ],
+  "verification": {
+    "markdown": {
+      "at": "2026-11-02T12:26:23.802Z",
+      "notebookUrl": "https://notebook.google.com/notebook/9b6d3dd2-abc6-4b57-9760-2c48eb5517f6",
+      "source": "all-conversations.md",
+      "firstConversationVerified": true,
+      "lastConversationVerified": true,
+      "latestFaangPromptVerified": true,
+      "latestEuPromptVerified": true
+    },
+    "pdf": {
+      "at": "2026-11-02T12:27:48.884Z",
+      "characters": 1713176,
+      "hasConversationCount": true,
+      "hasLastConversation": true,
+      "hasOriginalAttachment": true,
+      "hasPairs": true,
+      "progressIndicators": 0
+    },
+    "sourceCheckboxesAvailable": true,
+    "progressBars": 0
+  },
+  "oldNotebooksModified": false,
+  "proof": "notebook-proof-2026-11-02.png"
+}

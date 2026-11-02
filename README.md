@@ -2,12 +2,12 @@
 
 Separate collections, updated 2 November 2026:
 
-- [public puck ic U jok E - special PDF, 820 pages](<output/pdf/public puck ic U jok E.pdf>): 81 conversations, 451 prompt-response pairs; seven conversations and five follow-ups added on 2 November (smoll njet), through 12:15 CET. Fifteen vector diagrams and the full 105-page prior PDF attachment are preserved. Five embedded content blocks, six earlier image uploads and one newly named PDF attachment are unavailable. [Archive and verification](archive/google-ai-mode/2026-10-30-public-puck-ic-u-jok-e/README.md).
+- [public puck ic U jok E - special PDF, 840 pages](<output/pdf/public puck ic U jok E.pdf>): 82 conversations, 462 prompt-response pairs; one new conversation and ten follow-ups added on 2 November (Shadowfaang), through 13:11 CET. Fifteen vector diagrams, three new inline graphs and the full 105-page prior PDF attachment are preserved. Twelve previously documented media gaps remain. [Archive and verification](archive/google-ai-mode/2026-10-30-public-puck-ic-u-jok-e/README.md).
 - [poi - special PDF, 8 pages](output/pdf/poi.pdf): one new conversation, 5 prompt-response pairs. [Archive and coverage](archive/google-ai-mode/2026-10-30-poi/README.md).
 - [Putin Input - provisional PDF, 728 pages](output/pdf/Putin-Input-Google-AI-Mode-2026-10-30-voorlopig.pdf): 111 new conversations and one addendum, 726 prompts and response blocks. [Archive and outstanding media](archive/google-ai-mode/2026-10-30-putin-input/README.md).
 - [KOLJA](archive/google-ai-mode/2026-10-27-kolja/README.md).
 
-These collections remain separate from the cumulative archive below. Some source media remain unavailable; NotebookLM currently redirects to `location=unsupported` and has not been updated.
+These collections remain separate from the cumulative archive below. Some source media remain unavailable. The latest public puck collection is now available in [Shadowfaang](https://notebook.google.com/notebook/9b6d3dd2-abc6-4b57-9760-2c48eb5517f6) on notebook.google.com, with the PDF and full text transcripts verified as processed sources. Earlier notebooks remain unchanged.
 
 ## Earlier cumulative archive
 
