@@ -1,25 +1,27 @@
 {
-  "verifiedAt": "2026-11-02T06:56:45.931618+00:00",
+  "verifiedAt": "2026-11-02T09:04:40.603450+00:00",
   "status": "transcripts-complete-media-partial",
-  "updateLabel": "2026-11-02 second addition",
-  "conversations": 66,
-  "newConversations": 3,
+  "updateLabel": "2026-11-02 third addition",
+  "conversations": 74,
+  "newConversations": 8,
   "updatedConversations": 0,
-  "newPromptResponsePairs": 19,
-  "prompts": 371,
-  "responseBlocks": 371,
-  "pages": 597,
-  "formulas": 2037,
-  "embeddedImages": 744,
-  "pdfSha256": "f1b1c11c3235bde697641f8c68f7d901926f86826d379119418e02eaf229ba9c",
+  "newPromptResponsePairs": 31,
+  "prompts": 402,
+  "responseBlocks": 402,
+  "pages": 746,
+  "formulas": 2245,
+  "embeddedImages": 829,
+  "pdfSha256": "922525c7ebb73f4cfa29ec01c264f3ffd60d02e1918861c023aa4b070dbffe10",
   "visualReview": {
-    "reviewedAt": "2026-11-02T06:56:37.110806+00:00",
-    "pageCount": 597,
+    "reviewedAt": "2026-11-02T09:04:21.368009+00:00",
+    "pageCount": 746,
+    "transcriptPages": 641,
+    "attachmentPages": 105,
     "allPagesRendered": true,
-    "previousCommit": "046af86def3d3a68fe6426725b0a1a09c85af16f",
-    "sameEarlierBodyPages": 562,
+    "previousCommit": "70a8f7d7bda107b4dccb967ad823f023cf072eff",
+    "sameEarlierBodyPages": 595,
     "comparison": {
-      "previousCommit": "046af86def3d3a68fe6426725b0a1a09c85af16f",
+      "previousCommit": "70a8f7d7bda107b4dccb967ad823f023cf072eff",
       "comparison": "Exact RGB page pixels excluding bottom 45 of 1100 pixels containing changed date footer",
       "samePages": [
         3,
@@ -583,11 +585,7 @@
         561,
         562,
         563,
-        564
-      ],
-      "changedPages": [
-        1,
-        2,
+        564,
         565,
         566,
         567,
@@ -622,61 +620,232 @@
         596,
         597
       ],
-      "pageCount": 597
+      "changedPages": [
+        1,
+        2,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679,
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        707,
+        708,
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715,
+        716,
+        717,
+        718,
+        719,
+        720,
+        721,
+        722,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729,
+        730,
+        731,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746
+      ],
+      "pageCount": 746
     },
     "contactSheetsReviewed": [
-      "contact-23.png",
-      "contact-24.png"
+      "contact-24.png",
+      "contact-25.png",
+      "contact-26.png",
+      "contact-27.png",
+      "contact-28.png",
+      "contact-29.png",
+      "contact-30.png"
     ],
     "fullSizePagesReviewed": [
       1,
       2,
-      568,
-      575,
-      580,
-      583,
-      585,
-      586,
-      589,
-      592,
-      594
+      603,
+      614,
+      618,
+      623,
+      628,
+      633,
+      635
     ],
-    "newPages": [
-      565,
-      566,
-      567,
-      568,
-      569,
-      570,
-      571,
-      572,
-      573,
-      574,
-      575,
-      576,
-      577,
-      578,
-      579,
-      580,
-      581,
-      582,
-      583,
-      584,
-      585,
-      586,
-      587,
-      588,
-      589,
-      590,
-      591,
-      592,
-      593,
-      594,
-      595,
-      596,
-      597
+    "newTranscriptPages": [
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641
     ],
-    "findings": "Cover and 66-entry index fit. All 33 new pages reviewed in contact sheets; quiz, formulas, tables, code and three new vector diagrams reviewed at full size. No clipped content or blank pages. Original source Markdown inside the code block on page 586 is preserved verbatim. Earlier body pages 3-564 match exactly outside the footer.",
+    "attachmentPageRange": [
+      642,
+      746
+    ],
+    "findings": "Cover and 74-entry index fit. All 44 new transcript pages and all 105 original attachment pages reviewed in contact sheets. Map attribution, SVG graph, three uploads, matrices and longer formulas inspected at full size. No clipped content or blank pages observed. The earlier body pages 3-597 match exact RGB pixels outside the footer.",
     "status": "passed"
   },
   "brokenLocalLinks": [],
@@ -744,88 +913,145 @@
   ],
   "priorArchivesUnchanged": true,
   "readback": {
-    "at": "2026-11-02T06:52:44.233175+00:00",
-    "previousCommit": "046af86def3d3a68fe6426725b0a1a09c85af16f",
-    "updateLabel": "2026-11-02 second addition",
+    "at": "2026-11-02T08:57:34.084131+00:00",
+    "previousCommit": "70a8f7d7bda107b4dccb967ad823f023cf072eff",
+    "updateLabel": "2026-11-02 third addition",
     "newIds": [
-      "Fy3oaq6BIbqyi-gPn4y7kQk",
-      "ky7oavKyIfKE9u8PwJzI2As",
-      "ETHoatqRO5-p9u8Pg93YCA"
+      "sjboarWrINa9i-gPmsyGgQU",
+      "PDjoavqcFuyK9u8PgNraoQw",
+      "2TjoarLbGt2E9u8P58D0-Qg",
+      "q0foataYObT4i-gPkL_b0A4",
+      "VUjoavb3I4WE9u8PurWewA0",
+      "5EnoapWNIbq8i-gPo7SWyAs",
+      "qEvoasODM-KA9u8Pt5jCoQM",
+      "2E_oasLMGeLpi-gPg5-mwQs"
     ],
     "updatedIds": [],
-    "newPairs": 19,
-    "addedPairsToCurrentCollection": 19,
+    "newPairs": 31,
+    "addedPairsToCurrentCollection": 31,
     "importedPreviouslyArchivedPairs": 0,
     "existingChecks": [
       {
-        "threadId": "viboas7GOavli-gP1ZK6yQ4",
-        "title": "Explain This",
-        "counts": {
-          "prompts": 5,
-          "responses": 5
-        },
-        "sameVisibleText": true,
-        "checkedAt": "2026-11-02T06:32:59.493Z"
-      },
-      {
-        "threadId": "qiToauKlL5Co9u8P2JG28Ao",
-        "title": "vortigaunts are perverts that have neurolinguistically abused sexually people with a neural interface in the half-life game world and the G-man is actually saving protagonists because he cant save everybody",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        },
-        "sameVisibleText": true,
-        "checkedAt": "2026-11-02T06:33:00.230Z"
-      },
-      {
-        "threadId": "Vh7oaoLmIsiE9u8Pv92y4Ag",
-        "title": "Panini Projection for Ghost",
-        "counts": {
-          "prompts": 7,
-          "responses": 7
-        },
-        "sameVisibleText": true,
-        "checkedAt": "2026-11-02T06:33:00.877Z"
-      }
-    ],
-    "readbacks": [
-      {
-        "threadId": "Fy3oaq6BIbqyi-gPn4y7kQk",
-        "counts": {
-          "prompts": 4,
-          "responses": 4
-        },
-        "sameVisibleText": true,
-        "checkedAt": "2026-11-02T06:33:20.182Z"
-      },
-      {
         "threadId": "ky7oavKyIfKE9u8PwJzI2As",
+        "title": "Prajna 420",
         "counts": {
           "prompts": 13,
           "responses": 13
         },
         "sameVisibleText": true,
-        "checkedAt": "2026-11-02T06:52:21.324Z"
+        "checkedAt": "2026-11-02T08:52:12.134Z"
       },
       {
         "threadId": "ETHoatqRO5-p9u8Pg93YCA",
+        "title": "Gratefulness and Forgetfulness",
         "counts": {
           "prompts": 2,
           "responses": 2
         },
         "sameVisibleText": true,
-        "checkedAt": "2026-11-02T06:52:21.324Z"
+        "checkedAt": "2026-11-02T08:52:12.237Z"
+      }
+    ],
+    "readbacks": [
+      {
+        "threadId": "sjboarWrINa9i-gPmsyGgQU",
+        "title": "Method Acting Opossum",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CCUQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfD2xPrUZNid3bZplk4lhI70DMZuaogyBqMNDOOTOMwz8qmpalBw66P5U429p6KoIuoZqi_qeutQnyeIu5rVvLc7MDNZEo6xnhdWqQDokOcnTzie59N4wiIIftitx6ReAVVwTpm1VswPeXjc8dDuHpiaOmGYJXflvlyZvEnc8y4H2Hzpx5qv9qg3xWAJEQPsKvV3aHyeRJu7Yv9c_BPDfiarI3Mg86juEktk4yICtCfnn4x8aCwdB9ye7_1mqn7E_mdFZHXkxg_A9eIO6v2TatKXcp95A9AMDVUfLLCScH2uZku2gD_oNn6lSLoGYqv-OhdsAFoEBYF-jw&mtid=sjboarWrINa9i-gPmsyGgQU&csuir=1&aep=26&q=method+acting+opossum",
+        "sameVisibleText": true,
+        "checkedAt": "2026-11-02T08:52:19.713Z"
+      },
+      {
+        "threadId": "PDjoavqcFuyK9u8PgNraoQw",
+        "title": "Phillips Creative Technologist",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CB8Q2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfB4i_2rOTZfNPUkSWtWNHC6N6q-4IfccF8FwCQNKxnNrkhm96WiRDngUcOnqgKCcln8lD3RCf52yeQ6ghPj9vByoBEIE2r4WG2ra2brBntkvf6DWwiDQeK5IgjRbZzvMaKkW4HdzJM4vpWP4uywMCjERRwvFG76oacMh-7xRHEI65M4ZTnJX-u0wGaiP5lZdUDqTCfi-YnziRt29Qfcph-rcUxP54ACPJ4fSD5tkO2dI0D-JEwnX9mE5kUYHL5RwZU1Shl4As2EZocIUnFFpl9-PcR8_8z11ENH_pvpcH1wF3OilciR3hdhOAd9vpoQbOrMJYaXVIjuwA&mtid=PDjoavqcFuyK9u8PgNraoQw&csuir=1&aep=26&q=phillips+creative+technologist",
+        "sameVisibleText": true,
+        "checkedAt": "2026-11-02T08:53:31.867Z"
+      },
+      {
+        "threadId": "2TjoarLbGt2E9u8P58D0-Qg",
+        "title": "Product Innovation AI Prototyping",
+        "counts": {
+          "prompts": 1,
+          "responses": 1
+        },
+        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCZcektezSFzCemRJtFNe6XOKppmL3LDVERbagjG87Qh4L_8nzU37WO_v8FwdC2JzynfPzUBPh78Fc5kaF483m95ZXCJqZwoaniQJBqxa30hXkxaxPiO5Sx7saaAIeJ_GMzMsZnArjtybmaPblv2WvoL5sUyMf4amUvvU4JNO454WU5O4eBn5mhoRsJx3GID04vqgih0YY9wFDYbQ9jcSrldxT5uwATysuGziXXIQCeEU1m2l-2gpCXDZGkojWu4vIqVJFD7A8Tcyxcxs7mB-kFxjjKcMIy5dl96liWcDVBkg7MlctaXXlFLbsk-I-CjiR4vQ4e9zNCRg&mtid=2TjoarLbGt2E9u8P58D0-Qg&csuir=1&aep=26&q=Product+Innovation+%26+AI+Prototyping+phillips",
+        "sameVisibleText": true,
+        "checkedAt": "2026-11-02T08:53:33.321Z"
+      },
+      {
+        "threadId": "q0foataYObT4i-gPkL_b0A4",
+        "title": "Solve Logarithmic Equation",
+        "counts": {
+          "prompts": 5,
+          "responses": 5
+        },
+        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CBMQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCi3HjiFxN2ouMxjPO5Qg5j_bp5sZMRaQPOFiw-4623f4mVuAQ5-i33Reh2RmNulqUbf2zOj_Sdhs68x8C4mW98QECpxqbMyyNEWzcp9ESQmPMHMbxdts_AoM1wvFssCKpRVncobkv9YZDxhAYAp8i15qkmGwr3hQyoD2I_-jxMHOnZTTp8eMBAO44YWmCNxdZvztgfuqwzUZ9bazewe2XX8a8Iqykq4laheCVzItqAwUnZ105mpaoVbNkXgfrnDu5z5WdvTF7v6RpTvm_zX6ddpV66r7X4ImXNHKRAUhNTX6QD_QIHPPM-q32Q4FVddvsRqdddcysW_w&mtid=q0foataYObT4i-gPkL_b0A4&csuir=1&aep=26&q=%5E-1+%3D+log%281%29",
+        "sameVisibleText": true,
+        "checkedAt": "2026-11-02T08:53:35.464Z"
+      },
+      {
+        "threadId": "VUjoavb3I4WE9u8PurWewA0",
+        "title": "Δ of Δ Calculus",
+        "counts": {
+          "prompts": 3,
+          "responses": 3
+        },
+        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfACSsy6Z58Tw0M9J6G4zfsU-4nrZOUq2Vpntsc4JbaPYebtUkPnDm8cXFTZQpkKM4p7-HSVKm8ciOUs6YhRGCXoxPQsGRV_vHe_7EXnpoKnCFZjx9RYTSqIJFJnbAcB5lf3v-PDyT4g2l9D5whaDNq4NfUILJNf2_rChMHOf3Pwn4EshyhxasfN9S8KAI6mnHU_xtXTMxfrArFozxt2caKha7K85vdWRCBzkRw90VyKItbt-2PreNf0ugV8OqOLAefgKAjiEVvMA065K1INodxtHKCbqi6e8xWTBbDHfFOEoBBsH_Sv9gcbv5LuAl4y_tIF3Kfl_UAOxA&mtid=VUjoavb3I4WE9u8PurWewA0&csuir=1&aep=26&q=%E2%88%87+delta+of+delta+so+delta+delta",
+        "sameVisibleText": true,
+        "checkedAt": "2026-11-02T08:53:38.902Z"
+      },
+      {
+        "threadId": "5EnoapWNIbq8i-gPo7SWyAs",
+        "title": "Pauli Operator",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBWJrxUC1Qz8hY6EqEp9ju_dJQsMuqIIWxMaCCHIrHJXDUavq_m93LlU2D9PMiqKLhg05qBG6DAyn7iW7EahKTpwIlbv6JcGuNtmG6V16E7zghBvM49T3e1NELfPa-Zcr3DIKj-NKwCp4gRFTuCgbTzlNMbhvwdgp0EkS4SII5eZX74kTLtbOC_TaQkd15gR-c8Dtv4cYxngX2iEH9HNbWIaBILWFjeEv8MGsGI-23ILdZvjky77nn6XWtyikCIhFaaonBDpU5VS1Str8yC9NLNv6LeAlym95YjzMk3v_ucpnFtgqQ_BON7C-qGaT7DlaYagTEOb_RIrQ&mtid=5EnoapWNIbq8i-gPo7SWyAs&csuir=1&aep=26&q=Pauli+operator",
+        "sameVisibleText": false,
+        "samePromptAndGeneratedAnswerText": true,
+        "variation": "Response 3 consists of ten web result cards. One card changed from arXiv to Chegg; all prompts and all other responses matched exactly. Both complete captures retained.",
+        "checkedAt": "2026-11-02T08:54:47.388Z"
+      },
+      {
+        "threadId": "qEvoasODM-KA9u8Pt5jCoQM",
+        "title": "Delta Time Exponent Implementation",
+        "counts": {
+          "prompts": 11,
+          "responses": 11
+        },
+        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfDo4gBgfbPL6Ae016WBLHtfjcOQHHhi3aEBmX2YJ5nT4pPIRn6UrI03KhnfOo3MUmyMTNRHMSSJhoXWh7D7q72K3W4PI_9Px9zRBjjGAjewtQSCTqEb6-Bb5baN-20s9ToBiBAEu6reyu0ejzaIKGTCbrUQWvWU2ALpnWAd5oZam8OywuZ5PhV0FOky41t4g0zmLeTeJxjc6JPkFcG80yDvIxeyfq0Qyk5d4UgCMPIGJrdFgvb3aGhI_uXsA2Qr_h-DqDHQMO4lkGiMhxUoe0JfvH76I0efCVcXBxPaKZb3Sl8ZUcm8UIHCNJ-CJ-cm85pVFeagLT67kUFmfkXZScBerrHrUY3DOA&mtid=qEvoasODM-KA9u8Pt5jCoQM&csuir=1&aep=26&q=delta+time+is+pyramid+exponent+T",
+        "sameVisibleText": true,
+        "checkedAt": "2026-11-02T08:54:55.627Z"
+      },
+      {
+        "threadId": "2E_oasLMGeLpi-gPg5-mwQs",
+        "title": "my stuff",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        },
+        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwjAh8Xj9OiXAxUAAAAAHQAAAAAQoAM&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfC_In_2TIr-JxWVFM_ANTBk2rA-2zaBhlk54I_5jiE6Qm2uHn-BHYCP1BMSkHaQdl-TuU-Q5I8w6YJ5LqPTjjW-vxo8H_62ZVItXrfQx3NYDQ8GJ-0SXMFDTGLsqruLfMjFGZ6ZZQOwFdICNuQ3OPgDSY5np4mKq_OULyVZ9_DcCx3X3TxaIoSOHymFsBN-G2KgYBLwtAIHTjFhlQgQLTQ3PwpLpT34kO7LKlZuNEWJMbi_KJxRcLeMyLXdTymO59OT7ZM4673aw1FRBU5_Q6bw9BJ2Pa-lo4_hPooKzDdWl3JVfRcTC7rmtUWkVUJO8WSncP_Ob4PQhazS3GIoANDx37y_-J8d-g&mtid=2E_oasLMGeLpi-gPg5-mwQs&csuir=1&aep=26&q=my+stuff",
+        "sameVisibleText": true,
+        "checkedAt": "2026-11-02T08:56:31.591Z"
       }
     ],
     "pendingConversations": [],
     "historyBoundary": [
-      "Explain This",
-      "Panini Projection for Ghost",
-      "Betekenis Geven Aan Kanker"
+      "Gratefulness and Forgetfulness",
+      "Prajna 420"
     ],
-    "method": "Added Jordan Peterson Pragmatism Masculinity (4 pairs), Prajna 420 (13 pairs), and Gratefulness and Forgetfulness (2 pairs). Independent reopening matched every visible transcript exactly. All five quiz questions, answers, explanations and interactive hints are preserved; three new SVG diagrams were captured. Three recent open conversations matched their archived text. The latest saved-history view showed these three new conversations followed by seven already archived entries. Additional older-tab reads timed out and are not claimed as checked."
+    "method": "Added eight conversations with 31 pairs after the previous export. All prompts and generated answers matched independent readbacks. In Pauli Operator, response 3 contains web result cards and one card varied; both captures are preserved. Prajna 420 and Gratefulness and Forgetfulness matched the archived text. Saved-history inspection found the eight new conversations above those two archived entries. The new SVG graph, Google map, three image uploads and the 105-page uploaded PDF are preserved. The full uploaded PDF is appended to the combined study PDF."
   },
-  "note": "Added Jordan Peterson Pragmatism Masculinity (4 pairs), Prajna 420 (13 pairs), and Gratefulness and Forgetfulness (2 pairs). Independent reopening matched every visible transcript exactly. All five quiz questions, answers, explanations and interactive hints are preserved; three new SVG diagrams were captured. Three recent open conversations matched their archived text. The latest saved-history view showed these three new conversations followed by seven already archived entries. Additional older-tab reads timed out and are not claimed as checked.",
+  "note": "Added eight conversations with 31 pairs after the previous export. All prompts and generated answers matched independent readbacks. In Pauli Operator, response 3 contains web result cards and one card varied; both captures are preserved. Prajna 420 and Gratefulness and Forgetfulness matched the archived text. Saved-history inspection found the eight new conversations above those two archived entries. The new SVG graph, Google map, three image uploads and the 105-page uploaded PDF are preserved. The full uploaded PDF is appended to the combined study PDF.",
   "quizVerification": {
     "threadId": "Fy3oaq6BIbqyi-gPn4y7kQk",
     "response": 3,
@@ -1012,20 +1238,65 @@
           "url": "https://11jdsgu56ml4fhi5xfudz7m0fu3s2eta2rpwyrdtwo664rk2q8-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-02T08:53:30.356Z",
+      "frames": [
+        {
+          "threadId": "q0foataYObT4i-gPkL_b0A4",
+          "frame": 1,
+          "path": "raw/frames/q0foataYObT4i-gPkL_b0A4-1.json",
+          "status": "captured",
+          "url": "https://4g8m7tq3c77avmmy5gb6kn6okmrmp2dnmre2ntk7x6mziysfan-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+        }
+      ]
     }
   ],
   "attachmentVerification": {
-    "at": "2026-11-02T06:17:10.328839+00:00",
-    "capturedAttachments": [
+    "images": [
       {
-        "threadId": "qiToauKlL5Co9u8P2JG28Ao",
-        "message": 3,
-        "url": "https://lens.usercontent.google.com/image?vsrid=CNeniqj3ipr2gQEQARgBIhAfJDDp-GXWAxYSYUYQCX3xMoIBIgJyYSg0QnQKLmxmZS1kdW1teTo3ZGQzYzliOC05MWVlLTQ2NDUtOTk1Yi1jN2U2ODkzMzYyMzISQgpAL2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzE4OVoECgJyYTiorI_Uy-iXA1AAagppbWFnZS9qcGVn",
-        "path": "assets/vortigaunts-ebeda0b31c1dc9e27d28.jpg",
-        "contentType": "image/jpeg"
+        "path": "assets/f5c1390ab8b2be123d3a.jpg",
+        "sha256": "f5c1390ab8b2be123d3a8efbdc0de3746855bf1c02351ec13e6b3c45ff59a19c",
+        "size": [
+          271,
+          168
+        ],
+        "url": "https://lens.usercontent.google.com/image?vsrid=CKe06IrOkYSzrAEQARgBIhChhHfsJZ5wYyuaeUsS16W5MoEBIgJyYSgMQnMKLmxmZS1kdW1teTpiMzhiY2M1Mi1mMmU4LTQ3ZTktODgzZC03MDkyMzVjZGNkZWYSQQo_L2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzI0WgQKAnJhOOj6mPnw6JcDUABqCWltYWdlL3BuZw"
+      },
+      {
+        "path": "assets/059fbb4dd9fa6e499796.jpg",
+        "sha256": "059fbb4dd9fa6e499796e8b44c034060da1ab6a46b4b779e379432970a6a85f1",
+        "size": [
+          271,
+          168
+        ],
+        "url": "https://lens.usercontent.google.com/image?vsrid=CKfFp5XC0ZrOkAEQARgBIhDYNxmgkznLtVA0w3AIepwLMoIBIgJyYSg6QnQKLmxmZS1kdW1teTo0ZTk5NGQ3MC1kYTliLTRhNTMtYWMyYi1iZTQzZDAxNWE4OWUSQgpAL2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzEyN1oECgJyYTiY8Muc8uiXA1AAaglpbWFnZS9wbmc"
+      },
+      {
+        "path": "assets/416644161fe540c764dc.jpg",
+        "sha256": "416644161fe540c764dcd1c58db82ae48c3d5a718f79c152b255081990d21174",
+        "size": [
+          454,
+          440
+        ],
+        "url": "https://lens.usercontent.google.com/image?vsrid=CJSpra2pz7CfsQEQARgBIhAW4r2pMdkVInoBOrzp2fatMoEBIgJyYSglQnMKLmxmZS1kdW1teTowOGMzOWRiMy0xNzdiLTQ4MDUtOTNhNi04NDYyYTc1MDI1ZjgSQQo_L2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzY3WgQKAnJhONi278fy6JcDUABqCWltYWdlL3BuZw"
       }
     ],
-    "failures": [],
-    "note": "The original 460 × 1024 JPEG attachment was saved from the page asset inventory, in addition to the embedded thumbnail. No new unavailable media was found."
+    "map": {
+      "path": "assets/67-map.png",
+      "conversation": 67,
+      "message": 4,
+      "caption": "Map of method acting opossum",
+      "attribution": "Map data ©2026 Google; Terms link retained in source markup"
+    },
+    "pdfAttachments": [
+      {
+        "path": "attachments/Tom_Klootwijk_Physical_Systems_Lifecycle_Royal_Philips.pdf",
+        "title": "Tom_Klootwijk_Physical_Systems_Lifecycle_Royal_Philips.pdf",
+        "pages": 105,
+        "sha256": "a39440cbb6583933a068a78a548dfeb8f130547fc74908319d540d4b5c13db13",
+        "source": "Matching named user upload recovered from Downloads; its title and subject match the visible conversation."
+      }
+    ]
   }
 }

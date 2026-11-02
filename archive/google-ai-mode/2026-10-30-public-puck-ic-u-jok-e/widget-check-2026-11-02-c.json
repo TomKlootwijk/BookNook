@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-11-02T08:53:30.356Z",
+  "frames": [
+    {
+      "threadId": "q0foataYObT4i-gPkL_b0A4",
+      "frame": 1,
+      "path": "raw/frames/q0foataYObT4i-gPkL_b0A4-1.json",
+      "status": "captured",
+      "url": "https://4g8m7tq3c77avmmy5gb6kn6okmrmp2dnmre2ntk7x6mziysfan-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    }
+  ]
+}

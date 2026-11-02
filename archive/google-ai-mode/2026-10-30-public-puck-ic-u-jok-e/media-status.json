@@ -153,6 +153,13 @@
       "frame": 3,
       "path": "assets/ky7oavKyIfKE9u8PwJzI2As-frame-3-1.svg",
       "caption": "Original source diagram: Topographic Dashboard Analysis: Node Stress vs Logistical Elevation"
+    },
+    {
+      "conversation": 70,
+      "message": 8,
+      "frame": 1,
+      "path": "assets/q0foataYObT4i-gPkL_b0A4-frame-1-1.svg",
+      "caption": "Original source diagram: Logarithmic Function vs. Its Inverse Exponent Function"
     }
   ],
   "pendingAttachments": [],
@@ -189,5 +196,5 @@
     }
   ],
   "sourceEmptyResponses": [],
-  "note": "13 vector diagrams recovered; 4 embedded diagrams unavailable; 6 unavailable user-uploaded images. Source failures remain explicit in context."
+  "note": "14 vector diagrams recovered; 4 embedded diagrams unavailable; 6 unavailable user-uploaded images. Source failures remain explicit in context."
 }

@@ -1,14 +1,19 @@
 {
-  "at": "2026-11-02T06:52:56.144267+00:00",
+  "at": "2026-11-02T08:58:07.570373+00:00",
   "date": "2026-11-02",
   "batchId": "2026-10-30-public-puck-ic-u-jok-e",
   "batchTitle": "public puck ic U jok E",
   "status": "transcripts-complete-media-partial",
-  "method": "Added Jordan Peterson Pragmatism Masculinity (4 pairs), Prajna 420 (13 pairs), and Gratefulness and Forgetfulness (2 pairs). Independent reopening matched every visible transcript exactly. All five quiz questions, answers, explanations and interactive hints are preserved; three new SVG diagrams were captured. Three recent open conversations matched their archived text. The latest saved-history view showed these three new conversations followed by seven already archived entries. Additional older-tab reads timed out and are not claimed as checked.",
+  "method": "Added eight conversations with 31 pairs after the previous export. All prompts and generated answers matched independent readbacks. In Pauli Operator, response 3 contains web result cards and one card varied; both captures are preserved. Prajna 420 and Gratefulness and Forgetfulness matched the archived text. Saved-history inspection found the eight new conversations above those two archived entries. The new SVG graph, Google map, three image uploads and the 105-page uploaded PDF are preserved. The full uploaded PDF is appended to the combined study PDF.",
   "newConversationIds": [
-    "Fy3oaq6BIbqyi-gPn4y7kQk",
-    "ky7oavKyIfKE9u8PwJzI2As",
-    "ETHoatqRO5-p9u8Pg93YCA"
+    "sjboarWrINa9i-gPmsyGgQU",
+    "PDjoavqcFuyK9u8PgNraoQw",
+    "2TjoarLbGt2E9u8P58D0-Qg",
+    "q0foataYObT4i-gPkL_b0A4",
+    "VUjoavb3I4WE9u8PurWewA0",
+    "5EnoapWNIbq8i-gPo7SWyAs",
+    "qEvoasODM-KA9u8Pt5jCoQM",
+    "2E_oasLMGeLpi-gPg5-mwQs"
   ],
   "updatedConversationIds": [],
   "records": [
@@ -671,8 +676,88 @@
         "prompts": 2,
         "responses": 2
       }
+    },
+    {
+      "ordinal": 67,
+      "threadId": "sjboarWrINa9i-gPmsyGgQU",
+      "title": "Method Acting Opossum",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 68,
+      "threadId": "PDjoavqcFuyK9u8PgNraoQw",
+      "title": "Phillips Creative Technologist",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 69,
+      "threadId": "2TjoarLbGt2E9u8P58D0-Qg",
+      "title": "Product Innovation AI Prototyping",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 70,
+      "threadId": "q0foataYObT4i-gPkL_b0A4",
+      "title": "Solve Logarithmic Equation",
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 71,
+      "threadId": "VUjoavb3I4WE9u8PurWewA0",
+      "title": "Δ of Δ Calculus",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 72,
+      "threadId": "5EnoapWNIbq8i-gPo7SWyAs",
+      "title": "Pauli Operator",
+      "status": "captured",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 73,
+      "threadId": "qEvoasODM-KA9u8Pt5jCoQM",
+      "title": "Delta Time Exponent Implementation",
+      "status": "captured",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      }
+    },
+    {
+      "ordinal": 74,
+      "threadId": "2E_oasLMGeLpi-gPg5-mwQs",
+      "title": "my stuff",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
     }
   ],
-  "updateLabel": "2026-11-02 second addition",
+  "updateLabel": "2026-11-02 third addition",
   "pendingDiscoveredConversations": []
 }

@@ -2,7 +2,7 @@
 
 Separate collections, updated 2 November 2026:
 
-- [public puck ic U jok E - special PDF, 597 pages](<output/pdf/public puck ic U jok E.pdf>): 66 conversations, 371 prompt-response pairs; Jordan Peterson Pragmatism Masculinity, Prajna 420 and Gratefulness and Forgetfulness added on 2 November, including a complete five-question quiz and three new vector diagrams. Thirteen vector diagrams recovered; four earlier embedded visuals and six earlier uploads unavailable. [Archive and verification](archive/google-ai-mode/2026-10-30-public-puck-ic-u-jok-e/README.md).
+- [public puck ic U jok E - special PDF, 746 pages](<output/pdf/public puck ic U jok E.pdf>): 74 conversations, 402 prompt-response pairs; eight conversations added on 2 November with a graph, map, three image uploads and a full 105-page PDF attachment. Fourteen vector diagrams recovered; four earlier embedded visuals and six earlier uploads unavailable. [Archive and verification](archive/google-ai-mode/2026-10-30-public-puck-ic-u-jok-e/README.md).
 - [poi - special PDF, 8 pages](output/pdf/poi.pdf): one new conversation, 5 prompt-response pairs. [Archive and coverage](archive/google-ai-mode/2026-10-30-poi/README.md).
 - [Putin Input - provisional PDF, 728 pages](output/pdf/Putin-Input-Google-AI-Mode-2026-10-30-voorlopig.pdf): 111 new conversations and one addendum, 726 prompts and response blocks. [Archive and outstanding media](archive/google-ai-mode/2026-10-30-putin-input/README.md).
 - [KOLJA](archive/google-ai-mode/2026-10-27-kolja/README.md).

@@ -1,0 +1,47 @@
+{
+  "images": [
+    {
+      "path": "assets/f5c1390ab8b2be123d3a.jpg",
+      "sha256": "f5c1390ab8b2be123d3a8efbdc0de3746855bf1c02351ec13e6b3c45ff59a19c",
+      "size": [
+        271,
+        168
+      ],
+      "url": "https://lens.usercontent.google.com/image?vsrid=CKe06IrOkYSzrAEQARgBIhChhHfsJZ5wYyuaeUsS16W5MoEBIgJyYSgMQnMKLmxmZS1kdW1teTpiMzhiY2M1Mi1mMmU4LTQ3ZTktODgzZC03MDkyMzVjZGNkZWYSQQo_L2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzI0WgQKAnJhOOj6mPnw6JcDUABqCWltYWdlL3BuZw"
+    },
+    {
+      "path": "assets/059fbb4dd9fa6e499796.jpg",
+      "sha256": "059fbb4dd9fa6e499796e8b44c034060da1ab6a46b4b779e379432970a6a85f1",
+      "size": [
+        271,
+        168
+      ],
+      "url": "https://lens.usercontent.google.com/image?vsrid=CKfFp5XC0ZrOkAEQARgBIhDYNxmgkznLtVA0w3AIepwLMoIBIgJyYSg6QnQKLmxmZS1kdW1teTo0ZTk5NGQ3MC1kYTliLTRhNTMtYWMyYi1iZTQzZDAxNWE4OWUSQgpAL2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzEyN1oECgJyYTiY8Muc8uiXA1AAaglpbWFnZS9wbmc"
+    },
+    {
+      "path": "assets/416644161fe540c764dc.jpg",
+      "sha256": "416644161fe540c764dcd1c58db82ae48c3d5a718f79c152b255081990d21174",
+      "size": [
+        454,
+        440
+      ],
+      "url": "https://lens.usercontent.google.com/image?vsrid=CJSpra2pz7CfsQEQARgBIhAW4r2pMdkVInoBOrzp2fatMoEBIgJyYSglQnMKLmxmZS1kdW1teTowOGMzOWRiMy0xNzdiLTQ4MDUtOTNhNi04NDYyYTc1MDI1ZjgSQQo_L2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzY3WgQKAnJhONi278fy6JcDUABqCWltYWdlL3BuZw"
+    }
+  ],
+  "map": {
+    "path": "assets/67-map.png",
+    "conversation": 67,
+    "message": 4,
+    "caption": "Map of method acting opossum",
+    "attribution": "Map data ©2026 Google; Terms link retained in source markup"
+  },
+  "pdfAttachments": [
+    {
+      "path": "attachments/Tom_Klootwijk_Physical_Systems_Lifecycle_Royal_Philips.pdf",
+      "title": "Tom_Klootwijk_Physical_Systems_Lifecycle_Royal_Philips.pdf",
+      "pages": 105,
+      "sha256": "a39440cbb6583933a068a78a548dfeb8f130547fc74908319d540d4b5c13db13",
+      "source": "Matching named user upload recovered from Downloads; its title and subject match the visible conversation."
+    }
+  ]
+}

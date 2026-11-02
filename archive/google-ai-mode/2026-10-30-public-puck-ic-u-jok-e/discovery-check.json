@@ -1,9 +1,14 @@
 {
-  "at": "2026-11-02T06:52:56.144267+00:00",
+  "at": "2026-11-02T08:58:07.570373+00:00",
   "newConversationIds": [
-    "Fy3oaq6BIbqyi-gPn4y7kQk",
-    "ky7oavKyIfKE9u8PwJzI2As",
-    "ETHoatqRO5-p9u8Pg93YCA"
+    "sjboarWrINa9i-gPmsyGgQU",
+    "PDjoavqcFuyK9u8PgNraoQw",
+    "2TjoarLbGt2E9u8P58D0-Qg",
+    "q0foataYObT4i-gPkL_b0A4",
+    "VUjoavb3I4WE9u8PurWewA0",
+    "5EnoapWNIbq8i-gPo7SWyAs",
+    "qEvoasODM-KA9u8Pt5jCoQM",
+    "2E_oasLMGeLpi-gPg5-mwQs"
   ],
   "updatedConversationIds": [],
   "allConversationIds": [
@@ -72,11 +77,19 @@
     "viboas7GOavli-gP1ZK6yQ4",
     "Fy3oaq6BIbqyi-gPn4y7kQk",
     "ky7oavKyIfKE9u8PwJzI2As",
-    "ETHoatqRO5-p9u8Pg93YCA"
+    "ETHoatqRO5-p9u8Pg93YCA",
+    "sjboarWrINa9i-gPmsyGgQU",
+    "PDjoavqcFuyK9u8PgNraoQw",
+    "2TjoarLbGt2E9u8P58D0-Qg",
+    "q0foataYObT4i-gPkL_b0A4",
+    "VUjoavb3I4WE9u8PurWewA0",
+    "5EnoapWNIbq8i-gPo7SWyAs",
+    "qEvoasODM-KA9u8Pt5jCoQM",
+    "2E_oasLMGeLpi-gPg5-mwQs"
   ],
-  "previousCommit": "046af86def3d3a68fe6426725b0a1a09c85af16f",
+  "previousCommit": "70a8f7d7bda107b4dccb967ad823f023cf072eff",
   "baseline": "2026-10-30-poi",
-  "note": "Added Jordan Peterson Pragmatism Masculinity (4 pairs), Prajna 420 (13 pairs), and Gratefulness and Forgetfulness (2 pairs). Independent reopening matched every visible transcript exactly. All five quiz questions, answers, explanations and interactive hints are preserved; three new SVG diagrams were captured. Three recent open conversations matched their archived text. The latest saved-history view showed these three new conversations followed by seven already archived entries. Additional older-tab reads timed out and are not claimed as checked.",
-  "updateLabel": "2026-11-02 second addition",
+  "note": "Added eight conversations with 31 pairs after the previous export. All prompts and generated answers matched independent readbacks. In Pauli Operator, response 3 contains web result cards and one card varied; both captures are preserved. Prajna 420 and Gratefulness and Forgetfulness matched the archived text. Saved-history inspection found the eight new conversations above those two archived entries. The new SVG graph, Google map, three image uploads and the 105-page uploaded PDF are preserved. The full uploaded PDF is appended to the combined study PDF.",
+  "updateLabel": "2026-11-02 third addition",
   "pendingDiscoveredConversations": []
 }

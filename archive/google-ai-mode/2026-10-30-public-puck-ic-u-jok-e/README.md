@@ -1,10 +1,17 @@
 # public puck ic U jok E
 
-Aparte collectie gestart op 30 oktober 2026, na poi. De tweede aanvulling van 2 november bevat **Jordan Peterson Pragmatism Masculinity** (vier paren), **Prajna 420** (dertien paren) en **Gratefulness and Forgetfulness** (twee paren). De collectie telt nu 66 gesprekken en 371 paren.
+Aparte collectie gestart op 30 oktober 2026, na poi. De derde aanvulling van 2 november bevat acht nieuwe gesprekken met 31 vraag-antwoordparen. De collectie telt nu **74 gesprekken en 402 paren**.
 
-- [PDF - 597 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
-- [Volledige opgeslagen transcripties](all-conversations.md)
+- [PDF - 746 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
+- [Volledige transcripties](all-conversations.md)
 - [HTML-index](index.html)
+- [Originele PDF-bijlage - 105 pagina's](attachments/Tom_Klootwijk_Physical_Systems_Lifecycle_Royal_Philips.pdf)
+
+## Nieuwe aanvulling
+
+Method Acting Opossum (3 paren), Phillips Creative Technologist (2), Product Innovation AI Prototyping (1), Solve Logarithmic Equation (5), Δ of Δ Calculus (3), Pauli Operator (4), Delta Time Exponent Implementation (11), en my stuff (2).
+
+De nieuwe grafiek is als SVG bewaard. De Google-kaart is inclusief bronvermelding vastgelegd, en de drie geüploade afbeeldingen zijn als afzonderlijke bronbestanden opgeslagen. De volledige bijlage **Physical Systems Across the Lifecycle** is bewaard en als 105 originele pagina's achter de gesprekken aan de gecombineerde PDF toegevoegd, vanaf pagina 642.
 
 ## Opgenomen gesprekken
 
@@ -76,15 +83,21 @@ Aparte collectie gestart op 30 oktober 2026, na poi. De tweede aanvulling van 2 
 | Jordan Peterson Pragmatism Masculinity | 4 | 4 | 565 |
 | Prajna 420 | 13 | 13 | 572 |
 | Gratefulness and Forgetfulness | 2 | 2 | 596 |
+| Method Acting Opossum | 3 | 3 | 598 |
+| Phillips Creative Technologist | 2 | 2 | 606 |
+| Product Innovation AI Prototyping | 1 | 1 | 609 |
+| Solve Logarithmic Equation | 5 | 5 | 611 |
+| Δ of Δ Calculus | 3 | 3 | 615 |
+| Pauli Operator | 4 | 4 | 618 |
+| Delta Time Exponent Implementation | 11 | 11 | 625 |
+| my stuff | 2 | 2 | 639 |
 
-Alle 371 vraag-antwoordparen, bronlinks en 2037 formules zijn bewaard. De uitvoer bevat 744 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Dertien ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard, waaronder drie nieuwe diagrammen bij Prajna 420. De originele upload in het Vortigaunts-gesprek blijft als JPEG van 460 × 1024 pixels opgenomen.
+Alle 402 vraag-antwoordparen, bronlinks en 2245 formules zijn bewaard. De transcriptuitvoer bevat 829 afbeeldingsvermeldingen inclusief herhalingen, veertien vectordiagrammen en de beschikbare bronafbeeldingen. De eerdere vijfdelige quiz met antwoorden, toelichtingen en hints blijft opgenomen.
 
-De drie nieuwe gesprekken zijn onafhankelijk heropend en herlezen; alle zichtbare tekst kwam exact overeen. De interactieve oefening bij Jordan Peterson bevat vijf vragen, de antwoordensleutel met vijf toelichtingen en vijf hints. De volledige tekstweergave en de afzonderlijke interactieve standen zijn vastgelegd. De PDF bevat de statische tekstweergave en de hints; verborgen schermteksten en navigatieknoppen zijn weggelaten. Er zijn geen antwoorden op de oefening ingediend.
+De acht gesprekken zijn onafhankelijk heropend. Alle prompts en gegenereerde antwoorden kwamen exact overeen. Het derde antwoord in **Pauli Operator** bestaat uit webresultaten; één bronkaart veranderde van arXiv naar Chegg. Beide volledige vastleggingen zijn bewaard in `raw` en `raw/readbacks`. **Prajna 420** en **Gratefulness and Forgetfulness** zijn opnieuw vergeleken en ongewijzigd. De laatste Google-geschiedenis toonde de acht nieuwe gesprekken boven deze twee eerdere gesprekken.
 
-Drie recente open gesprekken zijn vergeleken en ongewijzigd. De laatste Google-geschiedenis toonde de drie nieuwe gesprekken gevolgd door zeven al gearchiveerde gesprekken. Aanvullende controles van oudere tabbladen liepen vast en tellen niet mee als geverifieerd. Eerdere leesvarianten van **Explain This** en **Floor Division vs Modulo** blijven bewaard in `raw/readbacks`.
+Alle nieuwe media zijn opgenomen. Eerder onbeschikbaar bij Google: twee diagrammen bij **Scopolamine Chemistry Mechanism Biology**, één bij **Biofilm Tensor and Vantablack**, één bij **Letter N Info**, drie verlopen uploads bij **Risicospreiding in Beleggen** en drie uploads bij **this image**. Ze blijven bij hun bericht gemarkeerd. De zes bestaande Google-foutmeldingen en de melding over beperkte documentverwerking bij **my stuff** zijn letterlijk bewaard. Externe bronpagina's en video's blijven verwijzingen.
 
-De nieuwe aanvulling heeft geen ontbrekende media. Eerder onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één visualisatie in **Biofilm Tensor and Vantablack**, één in **Letter N Info**, drie verlopen uploads in **Risicospreiding in Beleggen** en drie uploads in **this image**. Ze zijn bij hun bericht gemarkeerd. Google's zes bestaande foutmeldingen zijn letterlijk bewaard. Externe bronpagina's en video's blijven verwijzingen.
+Alle 746 pagina's zijn gerenderd. De visuele controle, vergelijking met de vorige versie, berichtvolgorde, HTML-lengtes, SVG-structuur, bestandscontrolesommen, lokale verwijzingen, bladwijzers en PDF-structuur staan in `verification.json`.
 
-Alle 597 PDF-pagina's zijn gerenderd. De visuele controle en vergelijking met de vorige PDF staan in `verification.json`. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, quizinhoud, lokale verwijzingen, PDF-bladwijzers en PDF-structuur zijn gecontroleerd.
-
-Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief. De transcripties zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole. Eerdere archieven blijven ongewijzigd.
+Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief. De transcripties en bijlage zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole. Eerdere archieven blijven ongewijzigd.
