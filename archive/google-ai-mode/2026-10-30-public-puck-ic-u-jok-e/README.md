@@ -1,17 +1,17 @@
 # public puck ic U jok E
 
-Aparte collectie gestart op 30 oktober 2026, na poi. De derde aanvulling van 2 november bevat acht nieuwe gesprekken met 31 vraag-antwoordparen. De collectie telt nu **74 gesprekken en 402 paren**.
+Aparte collectie gestart op 30 oktober 2026, na poi. De vierde aanvulling van 2 november, **smoll njet**, bevat zeven nieuwe gesprekken met 44 vraag-antwoordparen en vijf nieuwe paren in **my stuff**. De collectie telt nu **81 gesprekken en 451 paren**. De exportstand loopt tot 2 november 2026, 12:15:24 CET, door het twintigste paar van EU GDP Growth Analysis.
 
-- [PDF - 746 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
+- [PDF - 820 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
 - [Volledige transcripties](all-conversations.md)
 - [HTML-index](index.html)
 - [Originele PDF-bijlage - 105 pagina's](attachments/Tom_Klootwijk_Physical_Systems_Lifecycle_Royal_Philips.pdf)
 
 ## Nieuwe aanvulling
 
-Method Acting Opossum (3 paren), Phillips Creative Technologist (2), Product Innovation AI Prototyping (1), Solve Logarithmic Equation (5), Δ of Δ Calculus (3), Pauli Operator (4), Delta Time Exponent Implementation (11), en my stuff (2).
+2.7 Trillion Euro Per Year (1 paar), $2.7 Trillion GDP Comparison (9), Double FAANG Shadow Bookkeeping (3), Prometheus Movie Origins (5), Global Operating System vs Federation (2), Oligarch of the Oligarchy (4) en EU GDP Growth Analysis (20). **my stuff** groeide van twee naar zeven paren.
 
-De nieuwe grafiek is als SVG bewaard. De Google-kaart is inclusief bronvermelding vastgelegd, en de drie geüploade afbeeldingen zijn als afzonderlijke bronbestanden opgeslagen. De volledige bijlage **Physical Systems Across the Lifecycle** is bewaard en als 105 originele pagina's achter de gesprekken aan de gecombineerde PDF toegevoegd, vanaf pagina 642.
+De nieuwe GDP-grafiek is als SVG bewaard; de beschikbare inline grafieken bij EU GDP Growth Analysis zijn ook opgenomen. De eerdere Google-kaart en drie geüploade afbeeldingen blijven bewaard. De volledige bijlage **Physical Systems Across the Lifecycle** is bewaard en als 105 originele pagina's achter de gesprekken aan de gecombineerde PDF toegevoegd, vanaf pagina 716.
 
 ## Opgenomen gesprekken
 
@@ -90,14 +90,25 @@ De nieuwe grafiek is als SVG bewaard. De Google-kaart is inclusief bronvermeldin
 | Δ of Δ Calculus | 3 | 3 | 615 |
 | Pauli Operator | 4 | 4 | 618 |
 | Delta Time Exponent Implementation | 11 | 11 | 625 |
-| my stuff | 2 | 2 | 639 |
+| my stuff | 7 | 7 | 639 |
+| 2.7 Trillion Euro Per Year | 1 | 1 | 657 |
+| $2.7 Trillion GDP Comparison | 9 | 9 | 659 |
+| Double FAANG Shadow Bookkeeping | 3 | 3 | 669 |
+| Prometheus Movie Origins | 5 | 5 | 674 |
+| Global Operating System vs Federation | 2 | 2 | 681 |
+| Oligarch of the Oligarchy | 4 | 4 | 684 |
+| EU GDP Growth Analysis | 20 | 20 | 690 |
 
-Alle 402 vraag-antwoordparen, bronlinks en 2245 formules zijn bewaard. De transcriptuitvoer bevat 829 afbeeldingsvermeldingen inclusief herhalingen, veertien vectordiagrammen en de beschikbare bronafbeeldingen. De eerdere vijfdelige quiz met antwoorden, toelichtingen en hints blijft opgenomen.
+Alle 451 vraag-antwoordparen, bronlinks en 2379 formules zijn bewaard. De transcriptuitvoer bevat 904 afbeeldingsvermeldingen inclusief herhalingen, vijftien vectordiagrammen en de beschikbare bronafbeeldingen. De eerdere vijfdelige quiz met antwoorden, toelichtingen en hints blijft opgenomen.
 
-De acht gesprekken zijn onafhankelijk heropend. Alle prompts en gegenereerde antwoorden kwamen exact overeen. Het derde antwoord in **Pauli Operator** bestaat uit webresultaten; één bronkaart veranderde van arXiv naar Chegg. Beide volledige vastleggingen zijn bewaard in `raw` en `raw/readbacks`. **Prajna 420** en **Gratefulness and Forgetfulness** zijn opnieuw vergeleken en ongewijzigd. De laatste Google-geschiedenis toonde de acht nieuwe gesprekken boven deze twee eerdere gesprekken.
+De zes eerste nieuwe gesprekken kwamen exact overeen met onafhankelijke herlezingen. Het EU-gesprek groeide tijdens de controle: de eerste achttien paren kwamen overeen na onafhankelijk heropenen; de twee daarna afgeronde paren kwamen overeen bij een tweede uitlezing van de heropende pagina. Beide volledige vastleggingen zijn bewaard.
 
-Alle nieuwe media zijn opgenomen. Eerder onbeschikbaar bij Google: twee diagrammen bij **Scopolamine Chemistry Mechanism Biology**, één bij **Biofilm Tensor and Vantablack**, één bij **Letter N Info**, drie verlopen uploads bij **Risicospreiding in Beleggen** en drie uploads bij **this image**. Ze blijven bij hun bericht gemarkeerd. De zes bestaande Google-foutmeldingen en de melding over beperkte documentverwerking bij **my stuff** zijn letterlijk bewaard. Externe bronpagina's en video's blijven verwijzingen.
+De live vastlegging en onafhankelijke herlezing van **my stuff** kwamen exact overeen. Google toont de eerdere PDF-uploadprompt niet meer. De oorspronkelijke vier berichtblokken, inclusief de uploadprompt en bijlagekoppeling, zijn daarom letterlijk behouden uit de eerder gecontroleerde export. De vijf nieuwe paren zijn daarachter toegevoegd. De live weergave zonder uploadprompt en de samenvoeging zijn afzonderlijk gedocumenteerd in `raw/observations` en `update-check.json`.
 
-Alle 746 pagina's zijn gerenderd. De visuele controle, vergelijking met de vorige versie, berichtvolgorde, HTML-lengtes, SVG-structuur, bestandscontrolesommen, lokale verwijzingen, bladwijzers en PDF-structuur staan in `verification.json`.
+De **Simulated Defense Burden Calculator** in het EU-gesprek bleef leeg na heropenen; dit staat bij het antwoord vermeld. De nieuwe upload **Tom_Klootwijk_Grand_Strategy_Global_Systems.pdf** wordt door Google alleen bij naam getoond, zonder downloadlink. Het bronbestand is nog niet gevonden en is **niet opgenomen**. De bestandsnaam en prompt zijn wel bewaard.
+
+Eerder onbeschikbaar bij Google: twee diagrammen bij **Scopolamine Chemistry Mechanism Biology**, één bij **Biofilm Tensor and Vantablack**, één bij **Letter N Info**, drie verlopen uploads bij **Risicospreiding in Beleggen** en drie uploads bij **this image**. Ze blijven bij hun bericht gemarkeerd. De zeven Google-foutmeldingen en meldingen over beperkte documentverwerking zijn letterlijk bewaard. Externe bronpagina's en video's blijven verwijzingen.
+
+Alle 820 pagina's zijn gerenderd. De visuele controle, vergelijking met de vorige versie, berichtvolgorde, HTML-lengtes, SVG-structuur, bestandscontrolesommen, lokale verwijzingen, bladwijzers en PDF-structuur staan in `verification.json`.
 
 Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief. De transcripties en bijlage zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole. Eerdere archieven blijven ongewijzigd.

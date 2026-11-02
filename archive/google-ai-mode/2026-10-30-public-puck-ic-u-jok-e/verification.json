@@ -1,27 +1,28 @@
 {
-  "verifiedAt": "2026-11-02T09:04:40.603450+00:00",
+  "verifiedAt": "2026-11-02T11:25:46.651403+00:00",
   "status": "transcripts-complete-media-partial",
-  "updateLabel": "2026-11-02 third addition",
-  "conversations": 74,
-  "newConversations": 8,
-  "updatedConversations": 0,
-  "newPromptResponsePairs": 31,
-  "prompts": 402,
-  "responseBlocks": 402,
-  "pages": 746,
-  "formulas": 2245,
-  "embeddedImages": 829,
-  "pdfSha256": "922525c7ebb73f4cfa29ec01c264f3ffd60d02e1918861c023aa4b070dbffe10",
+  "updateLabel": "2026-11-02 fourth addition - smoll njet",
+  "conversations": 81,
+  "newConversations": 7,
+  "updatedConversations": 1,
+  "newPromptResponsePairs": 49,
+  "prompts": 451,
+  "responseBlocks": 451,
+  "pages": 820,
+  "formulas": 2379,
+  "embeddedImages": 904,
+  "pdfSha256": "3ad690a4a83660dd85cab0ee028f45c9cd76e2325d0709bbf6835f8aa3579d7d",
   "visualReview": {
-    "reviewedAt": "2026-11-02T09:04:21.368009+00:00",
-    "pageCount": 746,
-    "transcriptPages": 641,
+    "reviewedAt": "2026-11-02T11:25:24.610782+00:00",
+    "pageCount": 820,
+    "transcriptPages": 715,
     "attachmentPages": 105,
     "allPagesRendered": true,
-    "previousCommit": "70a8f7d7bda107b4dccb967ad823f023cf072eff",
-    "sameEarlierBodyPages": 595,
+    "previousCommit": "481b977667da41c0884fb7826fb88e809f738b1c",
+    "sameEarlierBodyPages": 637,
+    "unchangedShiftedAttachmentPages": 105,
     "comparison": {
-      "previousCommit": "70a8f7d7bda107b4dccb967ad823f023cf072eff",
+      "previousCommit": "481b977667da41c0884fb7826fb88e809f738b1c",
       "comparison": "Exact RGB page pixels excluding bottom 45 of 1100 pixels containing changed date footer",
       "samePages": [
         3,
@@ -618,11 +619,7 @@
         594,
         595,
         596,
-        597
-      ],
-      "changedPages": [
-        1,
-        2,
+        597,
         598,
         599,
         600,
@@ -664,8 +661,120 @@
         636,
         637,
         638,
+        640
+      ],
+      "shiftedAttachmentPages": [
+        716,
+        717,
+        718,
+        719,
+        720,
+        721,
+        722,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729,
+        730,
+        731,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        752,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766,
+        767,
+        768,
+        769,
+        770,
+        771,
+        772,
+        773,
+        774,
+        775,
+        776,
+        777,
+        778,
+        779,
+        780,
+        781,
+        782,
+        783,
+        784,
+        785,
+        786,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794,
+        795,
+        796,
+        797,
+        798,
+        799,
+        800,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        807,
+        808,
+        809,
+        810,
+        811,
+        812,
+        813,
+        814,
+        815,
+        816,
+        817,
+        818,
+        819,
+        820
+      ],
+      "attachmentPageShift": 74,
+      "changedPages": [
+        1,
+        2,
         639,
-        640,
         641,
         642,
         643,
@@ -740,113 +849,34 @@
         712,
         713,
         714,
-        715,
-        716,
-        717,
-        718,
-        719,
-        720,
-        721,
-        722,
-        723,
-        724,
-        725,
-        726,
-        727,
-        728,
-        729,
-        730,
-        731,
-        732,
-        733,
-        734,
-        735,
-        736,
-        737,
-        738,
-        739,
-        740,
-        741,
-        742,
-        743,
-        744,
-        745,
-        746
+        715
       ],
-      "pageCount": 746
+      "pageCount": 820
     },
     "contactSheetsReviewed": [
-      "contact-24.png",
-      "contact-25.png",
       "contact-26.png",
       "contact-27.png",
       "contact-28.png",
-      "contact-29.png",
-      "contact-30.png"
+      "contact-29.png"
     ],
     "fullSizePagesReviewed": [
       1,
       2,
-      603,
-      614,
-      618,
-      623,
-      628,
-      633,
-      635
-    ],
-    "newTranscriptPages": [
-      598,
-      599,
-      600,
-      601,
-      602,
-      603,
-      604,
-      605,
-      606,
-      607,
-      608,
-      609,
-      610,
-      611,
-      612,
-      613,
-      614,
-      615,
-      616,
-      617,
-      618,
-      619,
-      620,
-      621,
-      622,
-      623,
-      624,
-      625,
-      626,
-      627,
-      628,
-      629,
-      630,
-      631,
-      632,
-      633,
-      634,
-      635,
-      636,
-      637,
-      638,
       639,
-      640,
-      641
+      644,
+      662,
+      694,
+      713,
+      714,
+      715
     ],
-    "attachmentPageRange": [
-      642,
-      746
-    ],
-    "findings": "Cover and 74-entry index fit. All 44 new transcript pages and all 105 original attachment pages reviewed in contact sheets. Map attribution, SVG graph, three uploads, matrices and longer formulas inspected at full size. No clipped content or blank pages observed. The earlier body pages 3-597 match exact RGB pixels outside the footer.",
-    "status": "passed"
+    "notes": [
+      "Reviewed every changed transcript page on final-render contact sheets; checked representative charts, dense tables, upload gap annotation, chapter header and final response at full size.",
+      "Compacted the index to keep all 81 entries on one page; verified the final index at full size.",
+      "637 earlier transcript pages match the prior published raster exactly, excluding footer pixels. The changed prior pages are the updated My Stuff chapter header and the formerly final page extended by the new prompt.",
+      "All 105 appendix page rasters match the prior published version exactly after their 74-page shift. Separate validation checks their PDF content streams and page boxes against the original uploaded PDF.",
+      "No clipping, overlap, broken glyphs or unreadable new diagrams observed. Repeated graph occurrences in the original source markup are preserved."
+    ]
   },
   "brokenLocalLinks": [],
   "pdfSyntaxIssues": [],
@@ -881,6 +911,19 @@
       "url": "https://1djtipppw4736xjrxlv8lkj457vo03xztzfszbzj67wqys290x-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
     },
     {
+      "conversation": 81,
+      "message": 4,
+      "frame": 1,
+      "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
+      "url": "https://3vo68i9bfiykxabhada00qgy09oe47kazygh9kzu25lfjwjut5-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "conversation": 81,
+      "message": 9,
+      "filename": "Tom_Klootwijk_Grand_Strategy_Global_Systems.pdf",
+      "note": "Filename visible in Google; no downloadable file available and no matching local file found."
+    },
+    {
       "conversation": 17,
       "message": 3,
       "note": "Unavailable user-uploaded image: Google did not serve this attachment when the conversation was reopened. The attachment marker and original prompt are preserved."
@@ -913,145 +956,131 @@
   ],
   "priorArchivesUnchanged": true,
   "readback": {
-    "at": "2026-11-02T08:57:34.084131+00:00",
-    "previousCommit": "70a8f7d7bda107b4dccb967ad823f023cf072eff",
-    "updateLabel": "2026-11-02 third addition",
+    "at": "2026-11-02T11:16:54.366446+00:00",
+    "previousCommit": "481b977667da41c0884fb7826fb88e809f738b1c",
+    "updateLabel": "2026-11-02 fourth addition - smoll njet",
     "newIds": [
-      "sjboarWrINa9i-gPmsyGgQU",
-      "PDjoavqcFuyK9u8PgNraoQw",
-      "2TjoarLbGt2E9u8P58D0-Qg",
-      "q0foataYObT4i-gPkL_b0A4",
-      "VUjoavb3I4WE9u8PurWewA0",
-      "5EnoapWNIbq8i-gPo7SWyAs",
-      "qEvoasODM-KA9u8Pt5jCoQM",
+      "K1Loat-RF4ewi-gPu8GE-Ac",
+      "-lToasv4FYGA9u8P553XqQo",
+      "UFvoauXGLui7i-gPnaSS2As",
+      "3GDoau-xBp_l7_UP3Lyh6Ag",
+      "e2XoaprFONKDi-gPsfvJ8AY",
+      "dmnoasK_FZ6Zi-gPoaOQ6Qw",
+      "wWvoarK9DKuG9u8Pt43Z8Q8"
+    ],
+    "updatedIds": [
       "2E_oasLMGeLpi-gPg5-mwQs"
     ],
-    "updatedIds": [],
-    "newPairs": 31,
-    "addedPairsToCurrentCollection": 31,
+    "newPairs": 49,
+    "addedPairsToCurrentCollection": 49,
     "importedPreviouslyArchivedPairs": 0,
-    "existingChecks": [
-      {
-        "threadId": "ky7oavKyIfKE9u8PwJzI2As",
-        "title": "Prajna 420",
-        "counts": {
-          "prompts": 13,
-          "responses": 13
-        },
-        "sameVisibleText": true,
-        "checkedAt": "2026-11-02T08:52:12.134Z"
+    "existingChecks": [],
+    "updatedReadback": {
+      "threadId": "2E_oasLMGeLpi-gPg5-mwQs",
+      "liveCounts": {
+        "prompts": 6,
+        "responses": 7
       },
-      {
-        "threadId": "ETHoatqRO5-p9u8Pg93YCA",
-        "title": "Gratefulness and Forgetfulness",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        },
-        "sameVisibleText": true,
-        "checkedAt": "2026-11-02T08:52:12.237Z"
-      }
-    ],
+      "mergedCounts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sameVisibleText": true,
+      "overlappingBlocksExact": true,
+      "restoredHistoricalPrompt": true
+    },
     "readbacks": [
       {
-        "threadId": "sjboarWrINa9i-gPmsyGgQU",
-        "title": "Method Acting Opossum",
-        "counts": {
-          "prompts": 3,
-          "responses": 3
-        },
-        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CCUQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfD2xPrUZNid3bZplk4lhI70DMZuaogyBqMNDOOTOMwz8qmpalBw66P5U429p6KoIuoZqi_qeutQnyeIu5rVvLc7MDNZEo6xnhdWqQDokOcnTzie59N4wiIIftitx6ReAVVwTpm1VswPeXjc8dDuHpiaOmGYJXflvlyZvEnc8y4H2Hzpx5qv9qg3xWAJEQPsKvV3aHyeRJu7Yv9c_BPDfiarI3Mg86juEktk4yICtCfnn4x8aCwdB9ye7_1mqn7E_mdFZHXkxg_A9eIO6v2TatKXcp95A9AMDVUfLLCScH2uZku2gD_oNn6lSLoGYqv-OhdsAFoEBYF-jw&mtid=sjboarWrINa9i-gPmsyGgQU&csuir=1&aep=26&q=method+acting+opossum",
-        "sameVisibleText": true,
-        "checkedAt": "2026-11-02T08:52:19.713Z"
-      },
-      {
-        "threadId": "PDjoavqcFuyK9u8PgNraoQw",
-        "title": "Phillips Creative Technologist",
-        "counts": {
-          "prompts": 2,
-          "responses": 2
-        },
-        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CB8Q2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfB4i_2rOTZfNPUkSWtWNHC6N6q-4IfccF8FwCQNKxnNrkhm96WiRDngUcOnqgKCcln8lD3RCf52yeQ6ghPj9vByoBEIE2r4WG2ra2brBntkvf6DWwiDQeK5IgjRbZzvMaKkW4HdzJM4vpWP4uywMCjERRwvFG76oacMh-7xRHEI65M4ZTnJX-u0wGaiP5lZdUDqTCfi-YnziRt29Qfcph-rcUxP54ACPJ4fSD5tkO2dI0D-JEwnX9mE5kUYHL5RwZU1Shl4As2EZocIUnFFpl9-PcR8_8z11ENH_pvpcH1wF3OilciR3hdhOAd9vpoQbOrMJYaXVIjuwA&mtid=PDjoavqcFuyK9u8PgNraoQw&csuir=1&aep=26&q=phillips+creative+technologist",
-        "sameVisibleText": true,
-        "checkedAt": "2026-11-02T08:53:31.867Z"
-      },
-      {
-        "threadId": "2TjoarLbGt2E9u8P58D0-Qg",
-        "title": "Product Innovation AI Prototyping",
+        "threadId": "K1Loat-RF4ewi-gPu8GE-Ac",
+        "title": "2.7 Trillion Euro Per Year",
+        "url": "https://www.google.com/search?sca_esv=266bd6d3bfa11c08&sxsrf=AKL5yDjVjcy8koCEtyB0mDlWHt0kteLUuA%3A1793616244708&vsint=&ntc=1&cs=1&sa=X&ved=0CB8Q2_wOahcKEwiwz5K_jumXAxUAAAAAHQAAAAAQfA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfDzZ3ujdYJgSlGFweqY82HcYIJYYpJHtiFjl2JuL5LyW-yMk744eLbwJRsz4Twy5vRGyoDlEidn1oIMguhVLjlLB6pBPywwsql-rqxJj7LTfVpEYAr_dGKUu3huAhTn5bG9qjxwVRuiG7q1WaHReyGFecESueoqhtmP1TjDHVn5ZlI3ey3T4W2W4mNVYWaEFtu7ZrKFHezb5xLPVXfonZVy7UxF-O19_f-vkxM6KI0Qq_47VtUqg7F9_UtwKL_w9_YklrhHzVcMdB9TFtBzeLCKpgyL5eU2FQ1wVuBe5PqzpbeR8V2YOfTFVfBBLgTh9tfy0hLkBGrALtV10HC7_wX2U8tRbtZHKQ&mtid=K1Loat-RF4ewi-gPu8GE-Ac&csuir=1&aep=26&q=2.7+trillion+euro+per+year",
         "counts": {
           "prompts": 1,
           "responses": 1
         },
-        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCZcektezSFzCemRJtFNe6XOKppmL3LDVERbagjG87Qh4L_8nzU37WO_v8FwdC2JzynfPzUBPh78Fc5kaF483m95ZXCJqZwoaniQJBqxa30hXkxaxPiO5Sx7saaAIeJ_GMzMsZnArjtybmaPblv2WvoL5sUyMf4amUvvU4JNO454WU5O4eBn5mhoRsJx3GID04vqgih0YY9wFDYbQ9jcSrldxT5uwATysuGziXXIQCeEU1m2l-2gpCXDZGkojWu4vIqVJFD7A8Tcyxcxs7mB-kFxjjKcMIy5dl96liWcDVBkg7MlctaXXlFLbsk-I-CjiR4vQ4e9zNCRg&mtid=2TjoarLbGt2E9u8P58D0-Qg&csuir=1&aep=26&q=Product+Innovation+%26+AI+Prototyping+phillips",
         "sameVisibleText": true,
-        "checkedAt": "2026-11-02T08:53:33.321Z"
+        "checkedAt": "2026-11-02T10:53:17.501Z"
       },
       {
-        "threadId": "q0foataYObT4i-gPkL_b0A4",
-        "title": "Solve Logarithmic Equation",
+        "threadId": "-lToasv4FYGA9u8P553XqQo",
+        "title": "$2.7 Trillion GDP Comparison",
+        "url": "https://www.google.com/search?sca_esv=266bd6d3bfa11c08&sxsrf=AKL5yDjVjcy8koCEtyB0mDlWHt0kteLUuA%3A1793616244708&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahcKEwiwz5K_jumXAxUAAAAAHQAAAAAQfA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfB0A8gdBYuSs_qYDp37vmDcPbcTkrAmkT1vmyfOMgbQ30SdobyYKBsxfD5-oHqKyIKWx42eJpcTo4Ak9GpQr-YH5czsCj6fHNyA7gpSA8j99hHDJaiwuDgGgF0mdzY5rmBqxX8rbf0UGhYEeOfuu4eCON2FC_ODbhe41v0zCDwCAJ2Ws12YNH6pK9Jt2MjR0LQYFjSE2fJUk1U8vsR1pUgydw3AyJ1Q0LN0W7CBQpIC-Q-jKSdicfGDcjsYVCM7Sxlu4I_KRHnyZCB-6cacE6KisYeC-J-8Isv3pBFiR5djZ5YnvfAsIxYnVr8clHEc5rnCsyCM06SeOg&mtid=-lToasv4FYGA9u8P553XqQo&csuir=1&aep=26&q=2.7+trillion+per+year+supasses+which+countries+GDP",
         "counts": {
-          "prompts": 5,
-          "responses": 5
+          "prompts": 9,
+          "responses": 9
         },
-        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CBMQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCi3HjiFxN2ouMxjPO5Qg5j_bp5sZMRaQPOFiw-4623f4mVuAQ5-i33Reh2RmNulqUbf2zOj_Sdhs68x8C4mW98QECpxqbMyyNEWzcp9ESQmPMHMbxdts_AoM1wvFssCKpRVncobkv9YZDxhAYAp8i15qkmGwr3hQyoD2I_-jxMHOnZTTp8eMBAO44YWmCNxdZvztgfuqwzUZ9bazewe2XX8a8Iqykq4laheCVzItqAwUnZ105mpaoVbNkXgfrnDu5z5WdvTF7v6RpTvm_zX6ddpV66r7X4ImXNHKRAUhNTX6QD_QIHPPM-q32Q4FVddvsRqdddcysW_w&mtid=q0foataYObT4i-gPkL_b0A4&csuir=1&aep=26&q=%5E-1+%3D+log%281%29",
         "sameVisibleText": true,
-        "checkedAt": "2026-11-02T08:53:35.464Z"
+        "checkedAt": "2026-11-02T10:53:20.311Z"
       },
       {
-        "threadId": "VUjoavb3I4WE9u8PurWewA0",
-        "title": "Δ of Δ Calculus",
+        "threadId": "UFvoauXGLui7i-gPnaSS2As",
+        "title": "Double FAANG Shadow Bookkeeping",
+        "url": "https://www.google.com/search?sca_esv=266bd6d3bfa11c08&sxsrf=AKL5yDjVjcy8koCEtyB0mDlWHt0kteLUuA%3A1793616244708&vsint=&ntc=1&cs=1&sa=X&ved=0CBMQ2_wOahcKEwiwz5K_jumXAxUAAAAAHQAAAAAQfA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBLRXs6a2XPLtPNFPYDJ8475j7fl9BnuxDYphfBo_3eP-3cfaNeg976ppQm6UpREV8RfjRGDjOjD1HFYRgHx_9LPfdJpjCEqZo2HtojrX_DYtYI2nb73WikH2M5EWYZeEZ24S1VhaOO-Oh3SUBuUcaTDh1SptbAWhZXdU3kb-cDIItq6MKLLmp5YLWMXlNvyq3D7Ka0p18saRTZiWj8xbw8OP1xnja-O6tgXi1D30LmZBCM5Qz5X66RVUhh-zsS48hcATO17JPPFMyp9HPelsCkb8uE4QyGuUWwLmfx0GYh0kR5H0OoqsxRlCJ1ACKENfXkbnF5n856xg&mtid=UFvoauXGLui7i-gPnaSS2As&csuir=1&aep=26&q=double+faang%2C+shadow+book+keeping+clandestine+agencies",
         "counts": {
           "prompts": 3,
           "responses": 3
         },
-        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfACSsy6Z58Tw0M9J6G4zfsU-4nrZOUq2Vpntsc4JbaPYebtUkPnDm8cXFTZQpkKM4p7-HSVKm8ciOUs6YhRGCXoxPQsGRV_vHe_7EXnpoKnCFZjx9RYTSqIJFJnbAcB5lf3v-PDyT4g2l9D5whaDNq4NfUILJNf2_rChMHOf3Pwn4EshyhxasfN9S8KAI6mnHU_xtXTMxfrArFozxt2caKha7K85vdWRCBzkRw90VyKItbt-2PreNf0ugV8OqOLAefgKAjiEVvMA065K1INodxtHKCbqi6e8xWTBbDHfFOEoBBsH_Sv9gcbv5LuAl4y_tIF3Kfl_UAOxA&mtid=VUjoavb3I4WE9u8PurWewA0&csuir=1&aep=26&q=%E2%88%87+delta+of+delta+so+delta+delta",
         "sameVisibleText": true,
-        "checkedAt": "2026-11-02T08:53:38.902Z"
+        "checkedAt": "2026-11-02T11:06:21.546Z"
       },
       {
-        "threadId": "5EnoapWNIbq8i-gPo7SWyAs",
-        "title": "Pauli Operator",
+        "threadId": "3GDoau-xBp_l7_UP3Lyh6Ag",
+        "title": "Prometheus Movie Origins",
+        "url": "https://www.google.com/search?sca_esv=266bd6d3bfa11c08&sxsrf=AKL5yDjVjcy8koCEtyB0mDlWHt0kteLUuA%3A1793616244708&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahcKEwiwz5K_jumXAxUAAAAAHQAAAAAQfA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCr3VrUPSGlcjVeS3uE4bO1_lFwxp5IS6X3hY0lsaGJDW9chMlMc1WqkgL-aBq9TTynUETp3Gtbc_6N7NFtjtKkALT8yE5N0xSpclKmX4oiPoI22YOzPu1INuVcCrD0hx6np8mZ4OVUhmqtwYK5cI2Cnq3StnYhQHLhUD_Q5OCxcCZsSCxSu8ASYJVcNfLteczRfCtWDz9vT5pmlQxz2IkwxNCYUhQ9WUCjtNcrMGdCve12k4TpOXAqrQQlOmhTNy9ugeLlXeglO5rvHNnb7IaDgyCnG_5rZFP6JHqfnJeRyOwfFmeil9QSDTEw5_BlD-CeJlNZ9Qmp3w&mtid=3GDoau-xBp_l7_UP3Lyh6Ag&csuir=1&aep=26&q=so+the+architect+fell+into+the+water+in+alien+prometheus+and+spawned+biological+life",
         "counts": {
-          "prompts": 4,
-          "responses": 4
+          "prompts": 5,
+          "responses": 5
         },
-        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBWJrxUC1Qz8hY6EqEp9ju_dJQsMuqIIWxMaCCHIrHJXDUavq_m93LlU2D9PMiqKLhg05qBG6DAyn7iW7EahKTpwIlbv6JcGuNtmG6V16E7zghBvM49T3e1NELfPa-Zcr3DIKj-NKwCp4gRFTuCgbTzlNMbhvwdgp0EkS4SII5eZX74kTLtbOC_TaQkd15gR-c8Dtv4cYxngX2iEH9HNbWIaBILWFjeEv8MGsGI-23ILdZvjky77nn6XWtyikCIhFaaonBDpU5VS1Str8yC9NLNv6LeAlym95YjzMk3v_ucpnFtgqQ_BON7C-qGaT7DlaYagTEOb_RIrQ&mtid=5EnoapWNIbq8i-gPo7SWyAs&csuir=1&aep=26&q=Pauli+operator",
-        "sameVisibleText": false,
-        "samePromptAndGeneratedAnswerText": true,
-        "variation": "Response 3 consists of ten web result cards. One card changed from arXiv to Chegg; all prompts and all other responses matched exactly. Both complete captures retained.",
-        "checkedAt": "2026-11-02T08:54:47.388Z"
-      },
-      {
-        "threadId": "qEvoasODM-KA9u8Pt5jCoQM",
-        "title": "Delta Time Exponent Implementation",
-        "counts": {
-          "prompts": 11,
-          "responses": 11
-        },
-        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfDo4gBgfbPL6Ae016WBLHtfjcOQHHhi3aEBmX2YJ5nT4pPIRn6UrI03KhnfOo3MUmyMTNRHMSSJhoXWh7D7q72K3W4PI_9Px9zRBjjGAjewtQSCTqEb6-Bb5baN-20s9ToBiBAEu6reyu0ejzaIKGTCbrUQWvWU2ALpnWAd5oZam8OywuZ5PhV0FOky41t4g0zmLeTeJxjc6JPkFcG80yDvIxeyfq0Qyk5d4UgCMPIGJrdFgvb3aGhI_uXsA2Qr_h-DqDHQMO4lkGiMhxUoe0JfvH76I0efCVcXBxPaKZb3Sl8ZUcm8UIHCNJ-CJ-cm85pVFeagLT67kUFmfkXZScBerrHrUY3DOA&mtid=qEvoasODM-KA9u8Pt5jCoQM&csuir=1&aep=26&q=delta+time+is+pyramid+exponent+T",
         "sameVisibleText": true,
-        "checkedAt": "2026-11-02T08:54:55.627Z"
+        "checkedAt": "2026-11-02T11:06:22.918Z"
       },
       {
-        "threadId": "2E_oasLMGeLpi-gPg5-mwQs",
-        "title": "my stuff",
+        "threadId": "e2XoaprFONKDi-gPsfvJ8AY",
+        "title": "Global Operating System vs Federation",
+        "url": "https://www.google.com/search?sca_esv=266bd6d3bfa11c08&sxsrf=AKL5yDjVjcy8koCEtyB0mDlWHt0kteLUuA%3A1793616244708&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahcKEwiwz5K_jumXAxUAAAAAHQAAAAAQfA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfDEg7scCFWR5ZAvSrp6T8hWUAZedwGq0-3D_HJs7SP1Qm3XllZZ1dp4yhIzCGA0zvH6sZSvE0H-4_BE84XaYrFU8FLQvqb5dA1BGJaO4hosBaSqY_4HQA-wqxLhABOl2_i9Ff-3TeuaVAu8dm9ndxEIPQ8tWAOsjWLkcuG4Q9Cc9S8iaGAsGtpuCt3O9UIHEHHIkIQEfDEFExLsv3OC64sXbKXcJM5gTXhx2DP9u1K2b0qEasgwLrJtuhbnpW2B6ShJ8fnWG4ay0MwuJ-UTPd0oXLpRRyWjkhz1pMZ0zZU7Gjytcxs96uRjz_8brfz0HeYRLzex4LegEQ&mtid=e2XoaprFONKDi-gPsfvJ8AY&csuir=1&aep=26&q=verschil+global+operating+system+and+global+operating+federation",
         "counts": {
           "prompts": 2,
           "responses": 2
         },
-        "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwjAh8Xj9OiXAxUAAAAAHQAAAAAQoAM&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfC_In_2TIr-JxWVFM_ANTBk2rA-2zaBhlk54I_5jiE6Qm2uHn-BHYCP1BMSkHaQdl-TuU-Q5I8w6YJ5LqPTjjW-vxo8H_62ZVItXrfQx3NYDQ8GJ-0SXMFDTGLsqruLfMjFGZ6ZZQOwFdICNuQ3OPgDSY5np4mKq_OULyVZ9_DcCx3X3TxaIoSOHymFsBN-G2KgYBLwtAIHTjFhlQgQLTQ3PwpLpT34kO7LKlZuNEWJMbi_KJxRcLeMyLXdTymO59OT7ZM4673aw1FRBU5_Q6bw9BJ2Pa-lo4_hPooKzDdWl3JVfRcTC7rmtUWkVUJO8WSncP_Ob4PQhazS3GIoANDx37y_-J8d-g&mtid=2E_oasLMGeLpi-gPg5-mwQs&csuir=1&aep=26&q=my+stuff",
         "sameVisibleText": true,
-        "checkedAt": "2026-11-02T08:56:31.591Z"
+        "checkedAt": "2026-11-02T11:06:24.327Z"
+      },
+      {
+        "threadId": "dmnoasK_FZ6Zi-gPoaOQ6Qw",
+        "title": "Oligarch of the Oligarchy",
+        "url": "https://www.google.com/search?sca_esv=266bd6d3bfa11c08&sxsrf=AKL5yDjVjcy8koCEtyB0mDlWHt0kteLUuA%3A1793616244708&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwiwz5K_jumXAxUAAAAAHQAAAAAQfA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfAi0Ru3MIo-jnJrDcZP_63Bj7MoCPg7tJiT37eIWo8SpwK7pwpzE1DpFlLEz4hmLLm6Z3iSSk-zHZBSywXSKR0qSOF9X8vUAGlsnpnXsOXXsdia2E8qAsD8J3wsUceFvBeaNSI1vVFunm7uY91WxMPTMLXKe6Ax0KNLNypB_R5OVE2aKB4XNxcOUSjLIK4oHWUT_pPgXLGnROmzHCayetPwiIE2SFK4hSiTEtCcCRBr64ifr5aWNdchyRXUuOr8_BPs0dVQw8Q9iJEhwvD09_rB5E-Juqv9IJKk_p3lJj9c30cJ5Ub4GCgqRWAEds3-KfnIHY7C7hsaYw&mtid=dmnoasK_FZ6Zi-gPoaOQ6Qw&csuir=1&aep=26&q=oligarch+of+the+oligarchy",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        },
+        "sameVisibleText": true,
+        "checkedAt": "2026-11-02T11:06:25.583Z"
+      },
+      {
+        "threadId": "wWvoarK9DKuG9u8Pt43Z8Q8",
+        "title": "EU GDP Growth Analysis",
+        "url": "https://www.google.com/search?sca_esv=266bd6d3bfa11c08&sxsrf=AKL5yDjVjcy8koCEtyB0mDlWHt0kteLUuA%3A1793616244708&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahcKEwjg2YeYkumXAxUAAAAAHQAAAAAQOA&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBfbu_QnNtpcM_S4i0nY-8yERh5SHjLaoVtF-MVX1vHQuHvc6RtcdFziiprUW-8VjOEDe1QtD8FY5qbuZLz-81Q_33ZMov6ZRU0DhPGdkf7pM4yV96YwucvtFRrYXE95vTyL1DxQTo8Tb83W20eo-C40dntcjfn2zt9-439LMhfsdAQy3Bnky9agEVdWeyMIRd6C10rgB691ty3EIvo4Fe_uhlR9Q_gdNrNtuR5_GRoCsR6MsIweVUt5WG2Znl5JTDxn8HLwZmZ2lYGDM9X-3ZziRyeMj786jt4HjOYUZv_bFzYZnRmL_ibFWflQ1t_6r8qgkZR-TMelw&mtid=wWvoarK9DKuG9u8Pt43Z8Q8&csuir=1&aep=26&q=eu+gdp+under+2.7+trillion+euro%3F+per+year+3.5%25+poison+pill",
+        "counts": {
+          "prompts": 20,
+          "responses": 20
+        },
+        "sameVisibleText": true,
+        "checkedAt": "2026-11-02T11:15:45.663Z",
+        "captureCutoff": "2026-11-02T11:15:24.954Z",
+        "independentlyReopenedPairs": 18,
+        "note": "First 18 pairs matched an independent reopening. Two subsequently completed pairs matched a second DOM extraction in the reopened page. Export cutoff is 20 completed pairs."
       }
     ],
     "pendingConversations": [],
     "historyBoundary": [
-      "Gratefulness and Forgetfulness",
-      "Prajna 420"
+      "My Stuff",
+      "Delta Time Exponent Implementation",
+      "Pauli Operator"
     ],
-    "method": "Added eight conversations with 31 pairs after the previous export. All prompts and generated answers matched independent readbacks. In Pauli Operator, response 3 contains web result cards and one card varied; both captures are preserved. Prajna 420 and Gratefulness and Forgetfulness matched the archived text. Saved-history inspection found the eight new conversations above those two archived entries. The new SVG graph, Google map, three image uploads and the 105-page uploaded PDF are preserved. The full uploaded PDF is appended to the combined study PDF."
+    "captureCutoff": "2026-11-02T11:15:24.954Z",
+    "method": "Added seven conversations with 44 pairs and five follow-up pairs in My Stuff, totaling 49 new pairs. The six initial conversations matched independent readbacks exactly. EU GDP Growth Analysis was still being expanded: the first 18 pairs matched an independent reopening, and the final two completed pairs matched a second extraction of the reopened page. Export cutoff: 2026-11-02 11:15:24 UTC (12:15:24 CET), through EU prompt 20. My Stuff live capture and independent readback matched exactly; its previously archived PDF-upload prompt is no longer present in the current Google DOM and is retained verbatim from the prior verified capture. The new GDP SVG and available inline graph images are preserved. The EU defense calculator remained blank in Google after reopening; its source URL is retained. A second PDF upload is named in the EU conversation but its file is unavailable; this is marked at the prompt. The original 105-page Physical Systems Across the Lifecycle PDF remains appended in full."
   },
-  "note": "Added eight conversations with 31 pairs after the previous export. All prompts and generated answers matched independent readbacks. In Pauli Operator, response 3 contains web result cards and one card varied; both captures are preserved. Prajna 420 and Gratefulness and Forgetfulness matched the archived text. Saved-history inspection found the eight new conversations above those two archived entries. The new SVG graph, Google map, three image uploads and the 105-page uploaded PDF are preserved. The full uploaded PDF is appended to the combined study PDF.",
+  "note": "Added seven conversations with 44 pairs and five follow-up pairs in My Stuff, totaling 49 new pairs. The six initial conversations matched independent readbacks exactly. EU GDP Growth Analysis was still being expanded: the first 18 pairs matched an independent reopening, and the final two completed pairs matched a second extraction of the reopened page. Export cutoff: 2026-11-02 11:15:24 UTC (12:15:24 CET), through EU prompt 20. My Stuff live capture and independent readback matched exactly; its previously archived PDF-upload prompt is no longer present in the current Google DOM and is retained verbatim from the prior verified capture. The new GDP SVG and available inline graph images are preserved. The EU defense calculator remained blank in Google after reopening; its source URL is retained. A second PDF upload is named in the EU conversation but its file is unavailable; this is marked at the prompt. The original 105-page Physical Systems Across the Lifecycle PDF remains appended in full.",
   "quizVerification": {
     "threadId": "Fy3oaq6BIbqyi-gPn4y7kQk",
     "response": 3,
@@ -1250,6 +1279,26 @@
           "url": "https://4g8m7tq3c77avmmy5gb6kn6okmrmp2dnmre2ntk7x6mziysfan-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
         }
       ]
+    },
+    {
+      "checkedAt": "2026-11-02T10:53:16.392Z",
+      "frames": [
+        {
+          "threadId": "-lToasv4FYGA9u8P553XqQo",
+          "frame": 1,
+          "path": "raw/frames/-lToasv4FYGA9u8P553XqQo-1.json",
+          "status": "captured",
+          "url": "https://5hlt9n19o9fcnukdrdobkq81h7duyup2ge5juqpf0ngylq2owm-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+        },
+        {
+          "threadId": "wWvoarK9DKuG9u8Pt43Z8Q8",
+          "frame": 1,
+          "path": "raw/frames/wWvoarK9DKuG9u8Pt43Z8Q8-1.json",
+          "status": "unavailable",
+          "url": "https://3vo68i9bfiykxabhada00qgy09oe47kazygh9kzu25lfjwjut5-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+          "note": "Simulated Defense Burden Calculator remained blank after reload and two readbacks; visually confirmed empty 500-pixel area."
+        }
+      ]
     }
   ],
   "attachmentVerification": {
@@ -1297,6 +1346,146 @@
         "sha256": "a39440cbb6583933a068a78a548dfeb8f130547fc74908319d540d4b5c13db13",
         "source": "Matching named user upload recovered from Downloads; its title and subject match the visible conversation."
       }
+    ]
+  },
+  "newMediaVerification": {
+    "graphs": [
+      {
+        "path": "assets/d9c46cb2ee3ad2482263.png",
+        "size": [
+          1185,
+          660
+        ],
+        "sha256": "d9c46cb2ee3ad2482263a57d9bee056fbd8053ce074cad482029bb84f23547eb"
+      },
+      {
+        "path": "assets/d9c46cb2ee3ad2482263.png",
+        "size": [
+          1185,
+          660
+        ],
+        "sha256": "d9c46cb2ee3ad2482263a57d9bee056fbd8053ce074cad482029bb84f23547eb"
+      },
+      {
+        "path": "assets/917eb8369bfddf2799dd.png",
+        "size": [
+          1260,
+          704
+        ],
+        "sha256": "917eb8369bfddf2799dd2a9bc3232d722cbf41e1887a6696099d35f55c0c7abf"
+      },
+      {
+        "path": "assets/917eb8369bfddf2799dd.png",
+        "size": [
+          1260,
+          704
+        ],
+        "sha256": "917eb8369bfddf2799dd2a9bc3232d722cbf41e1887a6696099d35f55c0c7abf"
+      },
+      {
+        "path": "assets/b48364fd25e038e1281f.png",
+        "size": [
+          1336,
+          704
+        ],
+        "sha256": "b48364fd25e038e1281fb147e7db253bdec217e525753d5e8e0e9593f09e8962"
+      },
+      {
+        "path": "assets/b48364fd25e038e1281f.png",
+        "size": [
+          1336,
+          704
+        ],
+        "sha256": "b48364fd25e038e1281fb147e7db253bdec217e525753d5e8e0e9593f09e8962"
+      },
+      {
+        "path": "assets/436fbd22beda037fb0ff.png",
+        "size": [
+          1103,
+          717
+        ],
+        "sha256": "436fbd22beda037fb0ff929e9f62def9e605c865d6ccaeaba7ee50cf13f4b9bf"
+      },
+      {
+        "path": "assets/436fbd22beda037fb0ff.png",
+        "size": [
+          1103,
+          717
+        ],
+        "sha256": "436fbd22beda037fb0ff929e9f62def9e605c865d6ccaeaba7ee50cf13f4b9bf"
+      },
+      {
+        "path": "assets/43ada9cbf895d3ed321a.png",
+        "size": [
+          1035,
+          717
+        ],
+        "sha256": "43ada9cbf895d3ed321abf76cc409113f69918cfba17405d843c01a5a47b384c"
+      },
+      {
+        "path": "assets/43ada9cbf895d3ed321a.png",
+        "size": [
+          1035,
+          717
+        ],
+        "sha256": "43ada9cbf895d3ed321abf76cc409113f69918cfba17405d843c01a5a47b384c"
+      },
+      {
+        "path": "assets/7ca8a872d88aa4898c0c.png",
+        "size": [
+          1035,
+          659
+        ],
+        "sha256": "7ca8a872d88aa4898c0c96a2d9ec7ffb4e514fdb29307778f03ec07debb1c246"
+      },
+      {
+        "path": "assets/7ca8a872d88aa4898c0c.png",
+        "size": [
+          1035,
+          659
+        ],
+        "sha256": "7ca8a872d88aa4898c0c96a2d9ec7ffb4e514fdb29307778f03ec07debb1c246"
+      },
+      {
+        "path": "assets/52e29e06339bc3a18281.png",
+        "size": [
+          1035,
+          659
+        ],
+        "sha256": "52e29e06339bc3a1828148b206bb2dfbf1a76b15d2c59c9e72f06a0b419c5b82"
+      },
+      {
+        "path": "assets/52e29e06339bc3a18281.png",
+        "size": [
+          1035,
+          659
+        ],
+        "sha256": "52e29e06339bc3a1828148b206bb2dfbf1a76b15d2c59c9e72f06a0b419c5b82"
+      }
+    ],
+    "pendingUploadedPDF": "Tom_Klootwijk_Grand_Strategy_Global_Systems.pdf",
+    "pendingInteractiveContent": "Simulated Defense Burden Calculator",
+    "previousUploadedPDFPreserved": "attachments/Tom_Klootwijk_Physical_Systems_Lifecycle_Royal_Philips.pdf"
+  },
+  "historyVerification": {
+    "visibleRecentTitles": [
+      "EU GDP Growth Analysis",
+      "Oligarch of the Oligarchy",
+      "Global Operating System vs Federation",
+      "Prometheus Movie Origins",
+      "Double FAANG Shadow Bookkeeping",
+      "$2.7 Trillion GDP Comparison",
+      "2.7 Trillion Euro Per Year",
+      "My Stuff",
+      "Delta Time Exponent Implementation",
+      "Pauli Operator"
+    ],
+    "source": "Google AI Mode history sidebar during final discovery; newest displayed entry EU GDP Growth Analysis",
+    "matchedNewConversations": 7,
+    "followingArchivedTitles": [
+      "My Stuff",
+      "Delta Time Exponent Implementation",
+      "Pauli Operator"
     ]
   }
 }

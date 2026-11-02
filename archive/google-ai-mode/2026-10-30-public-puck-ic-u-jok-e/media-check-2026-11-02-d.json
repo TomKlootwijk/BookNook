@@ -1,0 +1,119 @@
+{
+  "graphs": [
+    {
+      "path": "assets/d9c46cb2ee3ad2482263.png",
+      "size": [
+        1185,
+        660
+      ],
+      "sha256": "d9c46cb2ee3ad2482263a57d9bee056fbd8053ce074cad482029bb84f23547eb"
+    },
+    {
+      "path": "assets/d9c46cb2ee3ad2482263.png",
+      "size": [
+        1185,
+        660
+      ],
+      "sha256": "d9c46cb2ee3ad2482263a57d9bee056fbd8053ce074cad482029bb84f23547eb"
+    },
+    {
+      "path": "assets/917eb8369bfddf2799dd.png",
+      "size": [
+        1260,
+        704
+      ],
+      "sha256": "917eb8369bfddf2799dd2a9bc3232d722cbf41e1887a6696099d35f55c0c7abf"
+    },
+    {
+      "path": "assets/917eb8369bfddf2799dd.png",
+      "size": [
+        1260,
+        704
+      ],
+      "sha256": "917eb8369bfddf2799dd2a9bc3232d722cbf41e1887a6696099d35f55c0c7abf"
+    },
+    {
+      "path": "assets/b48364fd25e038e1281f.png",
+      "size": [
+        1336,
+        704
+      ],
+      "sha256": "b48364fd25e038e1281fb147e7db253bdec217e525753d5e8e0e9593f09e8962"
+    },
+    {
+      "path": "assets/b48364fd25e038e1281f.png",
+      "size": [
+        1336,
+        704
+      ],
+      "sha256": "b48364fd25e038e1281fb147e7db253bdec217e525753d5e8e0e9593f09e8962"
+    },
+    {
+      "path": "assets/436fbd22beda037fb0ff.png",
+      "size": [
+        1103,
+        717
+      ],
+      "sha256": "436fbd22beda037fb0ff929e9f62def9e605c865d6ccaeaba7ee50cf13f4b9bf"
+    },
+    {
+      "path": "assets/436fbd22beda037fb0ff.png",
+      "size": [
+        1103,
+        717
+      ],
+      "sha256": "436fbd22beda037fb0ff929e9f62def9e605c865d6ccaeaba7ee50cf13f4b9bf"
+    },
+    {
+      "path": "assets/43ada9cbf895d3ed321a.png",
+      "size": [
+        1035,
+        717
+      ],
+      "sha256": "43ada9cbf895d3ed321abf76cc409113f69918cfba17405d843c01a5a47b384c"
+    },
+    {
+      "path": "assets/43ada9cbf895d3ed321a.png",
+      "size": [
+        1035,
+        717
+      ],
+      "sha256": "43ada9cbf895d3ed321abf76cc409113f69918cfba17405d843c01a5a47b384c"
+    },
+    {
+      "path": "assets/7ca8a872d88aa4898c0c.png",
+      "size": [
+        1035,
+        659
+      ],
+      "sha256": "7ca8a872d88aa4898c0c96a2d9ec7ffb4e514fdb29307778f03ec07debb1c246"
+    },
+    {
+      "path": "assets/7ca8a872d88aa4898c0c.png",
+      "size": [
+        1035,
+        659
+      ],
+      "sha256": "7ca8a872d88aa4898c0c96a2d9ec7ffb4e514fdb29307778f03ec07debb1c246"
+    },
+    {
+      "path": "assets/52e29e06339bc3a18281.png",
+      "size": [
+        1035,
+        659
+      ],
+      "sha256": "52e29e06339bc3a1828148b206bb2dfbf1a76b15d2c59c9e72f06a0b419c5b82"
+    },
+    {
+      "path": "assets/52e29e06339bc3a18281.png",
+      "size": [
+        1035,
+        659
+      ],
+      "sha256": "52e29e06339bc3a1828148b206bb2dfbf1a76b15d2c59c9e72f06a0b419c5b82"
+    }
+  ],
+  "pendingUploadedPDF": "Tom_Klootwijk_Grand_Strategy_Global_Systems.pdf",
+  "pendingInteractiveContent": "Simulated Defense Burden Calculator",
+  "previousUploadedPDFPreserved": "attachments/Tom_Klootwijk_Physical_Systems_Lifecycle_Royal_Philips.pdf"
+}

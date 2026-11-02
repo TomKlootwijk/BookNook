@@ -1,0 +1,139 @@
+{
+  "at": "2026-11-02T08:57:34.084131+00:00",
+  "previousCommit": "70a8f7d7bda107b4dccb967ad823f023cf072eff",
+  "updateLabel": "2026-11-02 third addition",
+  "newIds": [
+    "sjboarWrINa9i-gPmsyGgQU",
+    "PDjoavqcFuyK9u8PgNraoQw",
+    "2TjoarLbGt2E9u8P58D0-Qg",
+    "q0foataYObT4i-gPkL_b0A4",
+    "VUjoavb3I4WE9u8PurWewA0",
+    "5EnoapWNIbq8i-gPo7SWyAs",
+    "qEvoasODM-KA9u8Pt5jCoQM",
+    "2E_oasLMGeLpi-gPg5-mwQs"
+  ],
+  "updatedIds": [],
+  "newPairs": 31,
+  "addedPairsToCurrentCollection": 31,
+  "importedPreviouslyArchivedPairs": 0,
+  "existingChecks": [
+    {
+      "threadId": "ky7oavKyIfKE9u8PwJzI2As",
+      "title": "Prajna 420",
+      "counts": {
+        "prompts": 13,
+        "responses": 13
+      },
+      "sameVisibleText": true,
+      "checkedAt": "2026-11-02T08:52:12.134Z"
+    },
+    {
+      "threadId": "ETHoatqRO5-p9u8Pg93YCA",
+      "title": "Gratefulness and Forgetfulness",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sameVisibleText": true,
+      "checkedAt": "2026-11-02T08:52:12.237Z"
+    }
+  ],
+  "readbacks": [
+    {
+      "threadId": "sjboarWrINa9i-gPmsyGgQU",
+      "title": "Method Acting Opossum",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CCUQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfD2xPrUZNid3bZplk4lhI70DMZuaogyBqMNDOOTOMwz8qmpalBw66P5U429p6KoIuoZqi_qeutQnyeIu5rVvLc7MDNZEo6xnhdWqQDokOcnTzie59N4wiIIftitx6ReAVVwTpm1VswPeXjc8dDuHpiaOmGYJXflvlyZvEnc8y4H2Hzpx5qv9qg3xWAJEQPsKvV3aHyeRJu7Yv9c_BPDfiarI3Mg86juEktk4yICtCfnn4x8aCwdB9ye7_1mqn7E_mdFZHXkxg_A9eIO6v2TatKXcp95A9AMDVUfLLCScH2uZku2gD_oNn6lSLoGYqv-OhdsAFoEBYF-jw&mtid=sjboarWrINa9i-gPmsyGgQU&csuir=1&aep=26&q=method+acting+opossum",
+      "sameVisibleText": true,
+      "checkedAt": "2026-11-02T08:52:19.713Z"
+    },
+    {
+      "threadId": "PDjoavqcFuyK9u8PgNraoQw",
+      "title": "Phillips Creative Technologist",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CB8Q2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfB4i_2rOTZfNPUkSWtWNHC6N6q-4IfccF8FwCQNKxnNrkhm96WiRDngUcOnqgKCcln8lD3RCf52yeQ6ghPj9vByoBEIE2r4WG2ra2brBntkvf6DWwiDQeK5IgjRbZzvMaKkW4HdzJM4vpWP4uywMCjERRwvFG76oacMh-7xRHEI65M4ZTnJX-u0wGaiP5lZdUDqTCfi-YnziRt29Qfcph-rcUxP54ACPJ4fSD5tkO2dI0D-JEwnX9mE5kUYHL5RwZU1Shl4As2EZocIUnFFpl9-PcR8_8z11ENH_pvpcH1wF3OilciR3hdhOAd9vpoQbOrMJYaXVIjuwA&mtid=PDjoavqcFuyK9u8PgNraoQw&csuir=1&aep=26&q=phillips+creative+technologist",
+      "sameVisibleText": true,
+      "checkedAt": "2026-11-02T08:53:31.867Z"
+    },
+    {
+      "threadId": "2TjoarLbGt2E9u8P58D0-Qg",
+      "title": "Product Innovation AI Prototyping",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CBkQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCZcektezSFzCemRJtFNe6XOKppmL3LDVERbagjG87Qh4L_8nzU37WO_v8FwdC2JzynfPzUBPh78Fc5kaF483m95ZXCJqZwoaniQJBqxa30hXkxaxPiO5Sx7saaAIeJ_GMzMsZnArjtybmaPblv2WvoL5sUyMf4amUvvU4JNO454WU5O4eBn5mhoRsJx3GID04vqgih0YY9wFDYbQ9jcSrldxT5uwATysuGziXXIQCeEU1m2l-2gpCXDZGkojWu4vIqVJFD7A8Tcyxcxs7mB-kFxjjKcMIy5dl96liWcDVBkg7MlctaXXlFLbsk-I-CjiR4vQ4e9zNCRg&mtid=2TjoarLbGt2E9u8P58D0-Qg&csuir=1&aep=26&q=Product+Innovation+%26+AI+Prototyping+phillips",
+      "sameVisibleText": true,
+      "checkedAt": "2026-11-02T08:53:33.321Z"
+    },
+    {
+      "threadId": "q0foataYObT4i-gPkL_b0A4",
+      "title": "Solve Logarithmic Equation",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      },
+      "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CBMQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCi3HjiFxN2ouMxjPO5Qg5j_bp5sZMRaQPOFiw-4623f4mVuAQ5-i33Reh2RmNulqUbf2zOj_Sdhs68x8C4mW98QECpxqbMyyNEWzcp9ESQmPMHMbxdts_AoM1wvFssCKpRVncobkv9YZDxhAYAp8i15qkmGwr3hQyoD2I_-jxMHOnZTTp8eMBAO44YWmCNxdZvztgfuqwzUZ9bazewe2XX8a8Iqykq4laheCVzItqAwUnZ105mpaoVbNkXgfrnDu5z5WdvTF7v6RpTvm_zX6ddpV66r7X4ImXNHKRAUhNTX6QD_QIHPPM-q32Q4FVddvsRqdddcysW_w&mtid=q0foataYObT4i-gPkL_b0A4&csuir=1&aep=26&q=%5E-1+%3D+log%281%29",
+      "sameVisibleText": true,
+      "checkedAt": "2026-11-02T08:53:35.464Z"
+    },
+    {
+      "threadId": "VUjoavb3I4WE9u8PurWewA0",
+      "title": "Δ of Δ Calculus",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CA0Q2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfACSsy6Z58Tw0M9J6G4zfsU-4nrZOUq2Vpntsc4JbaPYebtUkPnDm8cXFTZQpkKM4p7-HSVKm8ciOUs6YhRGCXoxPQsGRV_vHe_7EXnpoKnCFZjx9RYTSqIJFJnbAcB5lf3v-PDyT4g2l9D5whaDNq4NfUILJNf2_rChMHOf3Pwn4EshyhxasfN9S8KAI6mnHU_xtXTMxfrArFozxt2caKha7K85vdWRCBzkRw90VyKItbt-2PreNf0ugV8OqOLAefgKAjiEVvMA065K1INodxtHKCbqi6e8xWTBbDHfFOEoBBsH_Sv9gcbv5LuAl4y_tIF3Kfl_UAOxA&mtid=VUjoavb3I4WE9u8PurWewA0&csuir=1&aep=26&q=%E2%88%87+delta+of+delta+so+delta+delta",
+      "sameVisibleText": true,
+      "checkedAt": "2026-11-02T08:53:38.902Z"
+    },
+    {
+      "threadId": "5EnoapWNIbq8i-gPo7SWyAs",
+      "title": "Pauli Operator",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CAcQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBWJrxUC1Qz8hY6EqEp9ju_dJQsMuqIIWxMaCCHIrHJXDUavq_m93LlU2D9PMiqKLhg05qBG6DAyn7iW7EahKTpwIlbv6JcGuNtmG6V16E7zghBvM49T3e1NELfPa-Zcr3DIKj-NKwCp4gRFTuCgbTzlNMbhvwdgp0EkS4SII5eZX74kTLtbOC_TaQkd15gR-c8Dtv4cYxngX2iEH9HNbWIaBILWFjeEv8MGsGI-23ILdZvjky77nn6XWtyikCIhFaaonBDpU5VS1Str8yC9NLNv6LeAlym95YjzMk3v_ucpnFtgqQ_BON7C-qGaT7DlaYagTEOb_RIrQ&mtid=5EnoapWNIbq8i-gPo7SWyAs&csuir=1&aep=26&q=Pauli+operator",
+      "sameVisibleText": false,
+      "samePromptAndGeneratedAnswerText": true,
+      "variation": "Response 3 consists of ten web result cards. One card changed from arXiv to Chegg; all prompts and all other responses matched exactly. Both complete captures retained.",
+      "checkedAt": "2026-11-02T08:54:47.388Z"
+    },
+    {
+      "threadId": "qEvoasODM-KA9u8Pt5jCoQM",
+      "title": "Delta Time Exponent Implementation",
+      "counts": {
+        "prompts": 11,
+        "responses": 11
+      },
+      "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwjwgdTS8-iXAxUAAAAAHQAAAAAQmwQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfDo4gBgfbPL6Ae016WBLHtfjcOQHHhi3aEBmX2YJ5nT4pPIRn6UrI03KhnfOo3MUmyMTNRHMSSJhoXWh7D7q72K3W4PI_9Px9zRBjjGAjewtQSCTqEb6-Bb5baN-20s9ToBiBAEu6reyu0ejzaIKGTCbrUQWvWU2ALpnWAd5oZam8OywuZ5PhV0FOky41t4g0zmLeTeJxjc6JPkFcG80yDvIxeyfq0Qyk5d4UgCMPIGJrdFgvb3aGhI_uXsA2Qr_h-DqDHQMO4lkGiMhxUoe0JfvH76I0efCVcXBxPaKZb3Sl8ZUcm8UIHCNJ-CJ-cm85pVFeagLT67kUFmfkXZScBerrHrUY3DOA&mtid=qEvoasODM-KA9u8Pt5jCoQM&csuir=1&aep=26&q=delta+time+is+pyramid+exponent+T",
+      "sameVisibleText": true,
+      "checkedAt": "2026-11-02T08:54:55.627Z"
+    },
+    {
+      "threadId": "2E_oasLMGeLpi-gPg5-mwQs",
+      "title": "my stuff",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "url": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwjAh8Xj9OiXAxUAAAAAHQAAAAAQoAM&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfC_In_2TIr-JxWVFM_ANTBk2rA-2zaBhlk54I_5jiE6Qm2uHn-BHYCP1BMSkHaQdl-TuU-Q5I8w6YJ5LqPTjjW-vxo8H_62ZVItXrfQx3NYDQ8GJ-0SXMFDTGLsqruLfMjFGZ6ZZQOwFdICNuQ3OPgDSY5np4mKq_OULyVZ9_DcCx3X3TxaIoSOHymFsBN-G2KgYBLwtAIHTjFhlQgQLTQ3PwpLpT34kO7LKlZuNEWJMbi_KJxRcLeMyLXdTymO59OT7ZM4673aw1FRBU5_Q6bw9BJ2Pa-lo4_hPooKzDdWl3JVfRcTC7rmtUWkVUJO8WSncP_Ob4PQhazS3GIoANDx37y_-J8d-g&mtid=2E_oasLMGeLpi-gPg5-mwQs&csuir=1&aep=26&q=my+stuff",
+      "sameVisibleText": true,
+      "checkedAt": "2026-11-02T08:56:31.591Z"
+    }
+  ],
+  "pendingConversations": [],
+  "historyBoundary": [
+    "Gratefulness and Forgetfulness",
+    "Prajna 420"
+  ],
+  "method": "Added eight conversations with 31 pairs after the previous export. All prompts and generated answers matched independent readbacks. In Pauli Operator, response 3 contains web result cards and one card varied; both captures are preserved. Prajna 420 and Gratefulness and Forgetfulness matched the archived text. Saved-history inspection found the eight new conversations above those two archived entries. The new SVG graph, Google map, three image uploads and the 105-page uploaded PDF are preserved. The full uploaded PDF is appended to the combined study PDF."
+}

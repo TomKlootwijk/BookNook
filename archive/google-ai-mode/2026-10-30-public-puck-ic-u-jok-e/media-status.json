@@ -28,6 +28,13 @@
       "frame": 1,
       "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
       "url": "https://1djtipppw4736xjrxlv8lkj457vo03xztzfszbzj67wqys290x-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "conversation": 81,
+      "message": 4,
+      "frame": 1,
+      "note": "Unavailable source diagram: the embedded area remained blank or unreadable in Google. Original frame URL is retained in the raw archive.",
+      "url": "https://3vo68i9bfiykxabhada00qgy09oe47kazygh9kzu25lfjwjut5-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
     }
   ],
   "pendingUserImages": [
@@ -160,9 +167,23 @@
       "frame": 1,
       "path": "assets/q0foataYObT4i-gPkL_b0A4-frame-1-1.svg",
       "caption": "Original source diagram: Logarithmic Function vs. Its Inverse Exponent Function"
+    },
+    {
+      "conversation": 76,
+      "message": 6,
+      "frame": 1,
+      "path": "assets/-lToasv4FYGA9u8P553XqQo-frame-1-1.svg",
+      "caption": "Original source diagram: The Wealth Compress: Cumulative Global Population vs GDP"
     }
   ],
-  "pendingAttachments": [],
+  "pendingAttachments": [
+    {
+      "conversation": 81,
+      "message": 9,
+      "filename": "Tom_Klootwijk_Grand_Strategy_Global_Systems.pdf",
+      "note": "Filename visible in Google; no downloadable file available and no matching local file found."
+    }
+  ],
   "sourceErrorResponses": [
     {
       "conversation": 17,
@@ -193,8 +214,13 @@
       "conversation": 40,
       "message": 14,
       "text": "Something went wrong and an AI response wasn't generated."
+    },
+    {
+      "conversation": 81,
+      "message": 10,
+      "text": "It looks like there's no response available for this search. Try asking something else."
     }
   ],
   "sourceEmptyResponses": [],
-  "note": "14 vector diagrams recovered; 4 embedded diagrams unavailable; 6 unavailable user-uploaded images. Source failures remain explicit in context."
+  "note": "15 vector diagrams recovered; 5 embedded content blocks unavailable; 6 unavailable user-uploaded images. Source failures remain explicit in context."
 }

@@ -1,21 +1,22 @@
 {
-  "at": "2026-11-02T08:58:07.570373+00:00",
+  "at": "2026-11-02T11:17:39.334985+00:00",
   "date": "2026-11-02",
   "batchId": "2026-10-30-public-puck-ic-u-jok-e",
   "batchTitle": "public puck ic U jok E",
   "status": "transcripts-complete-media-partial",
-  "method": "Added eight conversations with 31 pairs after the previous export. All prompts and generated answers matched independent readbacks. In Pauli Operator, response 3 contains web result cards and one card varied; both captures are preserved. Prajna 420 and Gratefulness and Forgetfulness matched the archived text. Saved-history inspection found the eight new conversations above those two archived entries. The new SVG graph, Google map, three image uploads and the 105-page uploaded PDF are preserved. The full uploaded PDF is appended to the combined study PDF.",
+  "method": "Added seven conversations with 44 pairs and five follow-up pairs in My Stuff, totaling 49 new pairs. The six initial conversations matched independent readbacks exactly. EU GDP Growth Analysis was still being expanded: the first 18 pairs matched an independent reopening, and the final two completed pairs matched a second extraction of the reopened page. Export cutoff: 2026-11-02 11:15:24 UTC (12:15:24 CET), through EU prompt 20. My Stuff live capture and independent readback matched exactly; its previously archived PDF-upload prompt is no longer present in the current Google DOM and is retained verbatim from the prior verified capture. The new GDP SVG and available inline graph images are preserved. The EU defense calculator remained blank in Google after reopening; its source URL is retained. A second PDF upload is named in the EU conversation but its file is unavailable; this is marked at the prompt. The original 105-page Physical Systems Across the Lifecycle PDF remains appended in full.",
   "newConversationIds": [
-    "sjboarWrINa9i-gPmsyGgQU",
-    "PDjoavqcFuyK9u8PgNraoQw",
-    "2TjoarLbGt2E9u8P58D0-Qg",
-    "q0foataYObT4i-gPkL_b0A4",
-    "VUjoavb3I4WE9u8PurWewA0",
-    "5EnoapWNIbq8i-gPo7SWyAs",
-    "qEvoasODM-KA9u8Pt5jCoQM",
+    "K1Loat-RF4ewi-gPu8GE-Ac",
+    "-lToasv4FYGA9u8P553XqQo",
+    "UFvoauXGLui7i-gPnaSS2As",
+    "3GDoau-xBp_l7_UP3Lyh6Ag",
+    "e2XoaprFONKDi-gPsfvJ8AY",
+    "dmnoasK_FZ6Zi-gPoaOQ6Qw",
+    "wWvoarK9DKuG9u8Pt43Z8Q8"
+  ],
+  "updatedConversationIds": [
     "2E_oasLMGeLpi-gPg5-mwQs"
   ],
-  "updatedConversationIds": [],
   "records": [
     {
       "ordinal": 1,
@@ -753,11 +754,81 @@
       "title": "my stuff",
       "status": "captured",
       "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 75,
+      "threadId": "K1Loat-RF4ewi-gPu8GE-Ac",
+      "title": "2.7 Trillion Euro Per Year",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 76,
+      "threadId": "-lToasv4FYGA9u8P553XqQo",
+      "title": "$2.7 Trillion GDP Comparison",
+      "status": "captured",
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      }
+    },
+    {
+      "ordinal": 77,
+      "threadId": "UFvoauXGLui7i-gPnaSS2As",
+      "title": "Double FAANG Shadow Bookkeeping",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 78,
+      "threadId": "3GDoau-xBp_l7_UP3Lyh6Ag",
+      "title": "Prometheus Movie Origins",
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
+    },
+    {
+      "ordinal": 79,
+      "threadId": "e2XoaprFONKDi-gPsfvJ8AY",
+      "title": "Global Operating System vs Federation",
+      "status": "captured",
+      "counts": {
         "prompts": 2,
         "responses": 2
       }
+    },
+    {
+      "ordinal": 80,
+      "threadId": "dmnoasK_FZ6Zi-gPoaOQ6Qw",
+      "title": "Oligarch of the Oligarchy",
+      "status": "captured",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 81,
+      "threadId": "wWvoarK9DKuG9u8Pt43Z8Q8",
+      "title": "EU GDP Growth Analysis",
+      "status": "captured",
+      "counts": {
+        "prompts": 20,
+        "responses": 20
+      }
     }
   ],
-  "updateLabel": "2026-11-02 third addition",
+  "updateLabel": "2026-11-02 fourth addition - smoll njet",
   "pendingDiscoveredConversations": []
 }

@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-11-02T10:53:16.392Z",
+  "frames": [
+    {
+      "threadId": "-lToasv4FYGA9u8P553XqQo",
+      "frame": 1,
+      "path": "raw/frames/-lToasv4FYGA9u8P553XqQo-1.json",
+      "status": "captured",
+      "url": "https://5hlt9n19o9fcnukdrdobkq81h7duyup2ge5juqpf0ngylq2owm-h1008167276.scf.usercontent.goog/dataport/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2Fexternal_hosted%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow"
+    },
+    {
+      "threadId": "wWvoarK9DKuG9u8Pt43Z8Q8",
+      "frame": 1,
+      "path": "raw/frames/wWvoarK9DKuG9u8Pt43Z8Q8-1.json",
+      "status": "unavailable",
+      "url": "https://3vo68i9bfiykxabhada00qgy09oe47kazygh9kzu25lfjwjut5-h1008167276.scf.usercontent.goog/search-sandbox/shim.html?origin=https%3A%2F%2Fwww.google.com&cache=1&connection_allow=(%22blob%3A*%22%20%22https%3A%2F%2F*.scf.usercontent.goog%2F*%22%20%22https%3A%2F%2Fwww.gstatic.com%2F*%22%20%22https%3A%2F%2Fwidgetlibs.static.usercontent.goog%2F*%22%20%22https%3A%2F%2Ffonts.googleapis.com%2F*%22%20%22https%3A%2F%2Ffonts.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn0.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn1.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn2.gstatic.com%2F*%22%20%22https%3A%2F%2Fencrypted-tbn3.gstatic.com%2F*%22)%3Bredirects%3Dallow",
+      "note": "Simulated Defense Burden Calculator remained blank after reload and two readbacks; visually confirmed empty 500-pixel area."
+    }
+  ]
+}
