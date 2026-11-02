@@ -1,24 +1,20 @@
 {
-  "at": "2026-11-01T20:23:29.032235+00:00",
-  "date": "2026-11-01",
+  "at": "2026-11-02T06:17:36.785478+00:00",
+  "date": "2026-11-02",
   "batchId": "2026-10-30-public-puck-ic-u-jok-e",
   "batchTitle": "public puck ic U jok E",
   "status": "transcripts-complete-media-partial",
-  "method": "Added all five previously pending conversations and eight newly discovered conversations. All thirteen were independently reread: twelve matched exactly; Floor Division has one live search-result response with changing cards, and both variants are preserved. Its eight prompts and seven generated answers match exactly. Existing recent threads were also checked for followups.",
+  "method": "Added nine newly discovered conversations and independently reread all nine. Eight match exactly. Explain This omitted nine citation labels on reopening, while all prompt and answer wording matched; the initial capture with full citations and the second observation are preserved. Recent existing conversations were checked for followups. The original uploaded image from Vortigaunts was also exported.",
   "newConversationIds": [
-    "Kx3nap6iAoeK9u8PtYWriAw",
-    "s0Lnao_zLcW79u8P9oHK6Qc",
-    "uEPnauaDFuGti-gP4-ub0AE",
-    "FkznatjoFeG3i-gPtsOamA0",
-    "A0_nav_JMpSgi-gPwMacmAs",
-    "m1_naov1IamD9u8P78f8mAI",
-    "HW_naszMFaGIi-gP9PnXMQ",
-    "dnDnatqxKo20i-gPx6GzwQQ",
-    "G3znauBa0MmL6A_o2LWoBw",
-    "wX3naoytK96si-gP-ZacmAE",
-    "5X3natbwM-Wgi-gPhIizgQo",
-    "MY7nasrqIK2J9u8P6tr5kA8",
-    "qJrnaquzEKXbi-gP-o2y4Ac"
+    "caDnavf_ELrp7_UPz_OYuAs",
+    "K6Pnapf2Jrrg7_UP6L_QsQ4",
+    "YKbnas3LI8mC9u8Pl4TTqQI",
+    "S6fnapyGPKLpi-gPtKTeWQ",
+    "uRzoas2xKtL2i-gP7Nu6wAU",
+    "Mh7oao3BNcSK9u8P9quYsA4",
+    "Vh7oaoLmIsiE9u8Pv92y4Ag",
+    "qiToauKlL5Co9u8P2JG28Ao",
+    "viboas7GOavli-gP1ZK6yQ4"
   ],
   "updatedConversationIds": [],
   "records": [
@@ -561,8 +557,98 @@
         "prompts": 10,
         "responses": 10
       }
+    },
+    {
+      "ordinal": 55,
+      "threadId": "caDnavf_ELrp7_UPz_OYuAs",
+      "title": "Betekenis Geven Aan Kanker",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 56,
+      "threadId": "K6Pnapf2Jrrg7_UP6L_QsQ4",
+      "title": "Short Half-Life Mod Levels",
+      "status": "captured",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 57,
+      "threadId": "YKbnas3LI8mC9u8Pl4TTqQI",
+      "title": "K-Reverse-K Faraday Cage",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 58,
+      "threadId": "S6fnapyGPKLpi-gPtKTeWQ",
+      "title": "Electronic Look-Up Table Comparison",
+      "status": "captured",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      }
+    },
+    {
+      "ordinal": 59,
+      "threadId": "uRzoas2xKtL2i-gP7Nu6wAU",
+      "title": "John Clarke Interview",
+      "status": "captured",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      }
+    },
+    {
+      "ordinal": 60,
+      "threadId": "Mh7oao3BNcSK9u8P9quYsA4",
+      "title": "Psychonauts Double Fine Studio",
+      "status": "captured",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      }
+    },
+    {
+      "ordinal": 61,
+      "threadId": "Vh7oaoLmIsiE9u8Pv92y4Ag",
+      "title": "Panini Projection for Ghost",
+      "status": "captured",
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      }
+    },
+    {
+      "ordinal": 62,
+      "threadId": "qiToauKlL5Co9u8P2JG28Ao",
+      "title": "vortigaunts are perverts that have neurolinguistically abused sexually people with a neural interface in the half-life game world and the G-man is actually saving protagonists because he cant save everybody",
+      "status": "captured",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      }
+    },
+    {
+      "ordinal": 63,
+      "threadId": "viboas7GOavli-gP1ZK6yQ4",
+      "title": "Explain This",
+      "status": "captured",
+      "counts": {
+        "prompts": 5,
+        "responses": 5
+      }
     }
   ],
-  "updateLabel": "2026-11-01 additional conversations",
+  "updateLabel": "2026-11-02 additional conversations",
   "pendingDiscoveredConversations": []
 }

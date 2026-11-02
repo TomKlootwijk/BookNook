@@ -1,44 +1,54 @@
 {
-  "at": "2026-11-01T20:23:00.435461+00:00",
-  "previousCommit": "72d82cc77ed820bffc547d614d73be5bdcc7486b",
-  "updateLabel": "2026-11-01 additional conversations",
+  "at": "2026-11-02T06:17:10.320931+00:00",
+  "previousCommit": "d6543ea088bd1a376bde01f7b2a06ef1e9359446",
+  "updateLabel": "2026-11-02 additional conversations",
   "newIds": [
-    "Kx3nap6iAoeK9u8PtYWriAw",
-    "s0Lnao_zLcW79u8P9oHK6Qc",
-    "uEPnauaDFuGti-gP4-ub0AE",
-    "FkznatjoFeG3i-gPtsOamA0",
-    "A0_nav_JMpSgi-gPwMacmAs",
-    "m1_naov1IamD9u8P78f8mAI",
-    "HW_naszMFaGIi-gP9PnXMQ",
-    "dnDnatqxKo20i-gPx6GzwQQ",
-    "G3znauBa0MmL6A_o2LWoBw",
-    "wX3naoytK96si-gP-ZacmAE",
-    "5X3natbwM-Wgi-gPhIizgQo",
-    "MY7nasrqIK2J9u8P6tr5kA8",
-    "qJrnaquzEKXbi-gP-o2y4Ac"
+    "caDnavf_ELrp7_UPz_OYuAs",
+    "K6Pnapf2Jrrg7_UP6L_QsQ4",
+    "YKbnas3LI8mC9u8Pl4TTqQI",
+    "S6fnapyGPKLpi-gPtKTeWQ",
+    "uRzoas2xKtL2i-gP7Nu6wAU",
+    "Mh7oao3BNcSK9u8P9quYsA4",
+    "Vh7oaoLmIsiE9u8Pv92y4Ag",
+    "qiToauKlL5Co9u8P2JG28Ao",
+    "viboas7GOavli-gP1ZK6yQ4"
   ],
   "updatedIds": [],
-  "newPairs": 69,
-  "addedPairsToCurrentCollection": 69,
+  "newPairs": 28,
+  "addedPairsToCurrentCollection": 28,
   "importedPreviouslyArchivedPairs": 0,
   "existingChecks": [
     {
-      "threadId": "zOHmaoGLDIm29u8PtNv8qAE",
-      "title": "Chatgpt Codex Analysis",
+      "threadId": "qJrnaquzEKXbi-gP-o2y4Ac",
+      "title": "Fibonacci Reeks Ontologische Structuur",
       "previousCounts": {
-        "prompts": 3,
-        "responses": 3
+        "prompts": 10,
+        "responses": 10
       },
       "counts": {
-        "prompts": 3,
-        "responses": 3
+        "prompts": 10,
+        "responses": 10
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:21:18.434Z"
+      "at": "2026-11-02T06:11:53.785Z"
     },
     {
-      "threadId": "4vHmavWQLNCO9u8PlvjNsA8",
-      "title": "Explain the Model",
+      "threadId": "MY7nasrqIK2J9u8P6tr5kA8",
+      "title": "Autopoietic Inverse Logarithmic Question",
+      "previousCounts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "counts": {
+        "prompts": 7,
+        "responses": 7
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:12:19.972Z"
+    },
+    {
+      "threadId": "5X3natbwM-Wgi-gPhIizgQo",
+      "title": "this image",
       "previousCounts": {
         "prompts": 9,
         "responses": 9
@@ -48,7 +58,21 @@
         "responses": 9
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:22:01.020Z"
+      "at": "2026-11-02T06:13:07.210Z"
+    },
+    {
+      "threadId": "wX3naoytK96si-gP-ZacmAE",
+      "title": "Sierpinski Triangle Information",
+      "previousCounts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:13:33.639Z"
     },
     {
       "threadId": "ZCXnarDDLsPq-d8PkvGpmQw",
@@ -62,7 +86,35 @@
         "responses": 5
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:22:18.894Z"
+      "at": "2026-11-02T06:14:36.207Z"
+    },
+    {
+      "threadId": "4vHmavWQLNCO9u8PlvjNsA8",
+      "title": "Explain the Model",
+      "previousCounts": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "counts": {
+        "prompts": 9,
+        "responses": 9
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:14:55.649Z"
+    },
+    {
+      "threadId": "zOHmaoGLDIm29u8PtNv8qAE",
+      "title": "Chatgpt Codex Analysis",
+      "previousCounts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:15:57.896Z"
     },
     {
       "threadId": "B9fmaquSDM3xi-gPz-fpwAI",
@@ -76,21 +128,7 @@
         "responses": 5
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:22:27.096Z"
-    },
-    {
-      "threadId": "o8zmaqzjGNG-i-gP7a_i0Qo",
-      "title": "Pride Month Perspectives",
-      "previousCounts": {
-        "prompts": 10,
-        "responses": 10
-      },
-      "counts": {
-        "prompts": 10,
-        "responses": 10
-      },
-      "sameVisibleText": true,
-      "at": "2026-11-01T20:23:16.623Z"
+      "at": "2026-11-02T06:16:14.500Z"
     },
     {
       "threadId": "RVjjapSpDryL9u8P98GeiA8",
@@ -104,49 +142,21 @@
         "responses": 23
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:23:17.116Z"
+      "at": "2026-11-02T06:17:24.201Z"
     },
     {
-      "threadId": "imTmavXZGKC69u8Pta7l6AM",
-      "title": "Guido Gamious Programmer",
+      "threadId": "o8zmaqzjGNG-i-gP7a_i0Qo",
+      "title": "Pride Month Perspectives",
       "previousCounts": {
-        "prompts": 3,
-        "responses": 3
+        "prompts": 10,
+        "responses": 10
       },
       "counts": {
-        "prompts": 3,
-        "responses": 3
+        "prompts": 10,
+        "responses": 10
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:23:32.768Z"
-    },
-    {
-      "threadId": "a07mav6QM9u-i-gPrpbymA4",
-      "title": "Sentinel Island Missionary Exposure",
-      "previousCounts": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "counts": {
-        "prompts": 1,
-        "responses": 1
-      },
-      "sameVisibleText": true,
-      "at": "2026-11-01T20:23:32.838Z"
-    },
-    {
-      "threadId": "ZVHmarT4GsOWi-gP8uGlyA0",
-      "title": "MKZ Bij Evenhoevige Dieren",
-      "previousCounts": {
-        "prompts": 3,
-        "responses": 3
-      },
-      "counts": {
-        "prompts": 3,
-        "responses": 3
-      },
-      "sameVisibleText": true,
-      "at": "2026-11-01T20:23:49.949Z"
+      "at": "2026-11-02T06:18:21.038Z"
     },
     {
       "threadId": "F1DmauaQMpmA9u8PgOi7mQM",
@@ -160,163 +170,188 @@
         "responses": 4
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:23:50.065Z"
+      "at": "2026-11-02T06:18:21.166Z"
+    },
+    {
+      "threadId": "imTmavXZGKC69u8Pta7l6AM",
+      "title": "Guido Gamious Programmer",
+      "previousCounts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:19:08.044Z"
+    },
+    {
+      "threadId": "ZVHmarT4GsOWi-gP8uGlyA0",
+      "title": "MKZ Bij Evenhoevige Dieren",
+      "previousCounts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:19:08.181Z"
+    },
+    {
+      "threadId": "a07mav6QM9u-i-gPrpbymA4",
+      "title": "Sentinel Island Missionary Exposure",
+      "previousCounts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:19:31.139Z"
+    },
+    {
+      "threadId": "lkrmasyLOtG-i-gPoq3ZuQM",
+      "title": "Corporate and Intelligence Agency Power",
+      "previousCounts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:19:31.206Z"
+    },
+    {
+      "threadId": "ozrmarb5B7eqi-gPxevc-Qk",
+      "title": "Nanobots for Targeted Medical Treatment",
+      "previousCounts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "counts": {
+        "prompts": 10,
+        "responses": 10
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:20:06.143Z"
     }
   ],
   "readbacks": [
     {
-      "threadId": "m1_naov1IamD9u8P78f8mAI",
-      "title": "Letter N Info",
-      "counts": {
-        "prompts": 10,
-        "responses": 10
-      },
-      "sameVisibleText": true,
-      "at": "2026-11-01T20:19:17.948Z",
-      "method": "Independent reread after navigating away and back"
-    },
-    {
-      "threadId": "5X3natbwM-Wgi-gPhIizgQo",
-      "title": "this image",
-      "counts": {
-        "prompts": 9,
-        "responses": 9
-      },
-      "sameVisibleText": true,
-      "at": "2026-11-01T20:20:00.990Z",
-      "method": "Independent reread after navigating away and back"
-    },
-    {
-      "threadId": "Kx3nap6iAoeK9u8PtYWriAw",
-      "title": "Which Model Holds Laws?",
+      "threadId": "viboas7GOavli-gP1ZK6yQ4",
+      "title": "Explain This",
       "counts": {
         "prompts": 5,
         "responses": 5
       },
-      "sameVisibleText": true,
-      "method": "Independent page reload"
+      "sameVisibleText": false,
+      "at": "2026-11-02T06:12:39.745Z",
+      "method": "Independent reopened page compared with initial full capture",
+      "samePromptAndGeneratedAnswerText": true,
+      "note": "The reopened page omitted nine Hugging Face citation-chip labels in response 2. All prompt and answer wording matches; the original capture with the source links is preserved, along with the reread."
     },
     {
-      "threadId": "qJrnaquzEKXbi-gP-o2y4Ac",
-      "title": "Fibonacci Reeks Ontologische Structuur",
+      "threadId": "qiToauKlL5Co9u8P2JG28Ao",
+      "title": "vortigaunts are perverts that have neurolinguistically abused sexually people with a neural interface in the half-life game world and the G-man is actually saving protagonists because he cant save everybody",
       "counts": {
-        "prompts": 10,
-        "responses": 10
+        "prompts": 4,
+        "responses": 4
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:20:39.924Z",
-      "method": "Independent reread after navigating away and back"
+      "at": "2026-11-02T06:13:06.719Z",
+      "method": "Independent reopened page compared with initial full capture"
     },
     {
-      "threadId": "MY7nasrqIK2J9u8P6tr5kA8",
-      "title": "Autopoietic Inverse Logarithmic Question",
+      "threadId": "Vh7oaoLmIsiE9u8Pv92y4Ag",
+      "title": "Panini Projection for Ghost",
       "counts": {
         "prompts": 7,
         "responses": 7
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:20:50.829Z",
-      "method": "Independent reread after navigating away and back"
+      "at": "2026-11-02T06:13:33.543Z",
+      "method": "Independent reopened page compared with initial full capture"
     },
     {
-      "threadId": "wX3naoytK96si-gP-ZacmAE",
-      "title": "Sierpinski Triangle Information",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "sameVisibleText": true,
-      "at": "2026-11-01T20:20:55.584Z",
-      "method": "Independent reread after navigating away and back"
-    },
-    {
-      "threadId": "G3znauBa0MmL6A_o2LWoBw",
-      "title": "CeraVe and Moderate Muslims",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "sameVisibleText": true,
-      "at": "2026-11-01T20:21:09.099Z",
-      "method": "Independent reread after navigating away and back"
-    },
-    {
-      "threadId": "dnDnatqxKo20i-gPx6GzwQQ",
-      "title": "Inverse Disease Vector Logic",
-      "counts": {
-        "prompts": 10,
-        "responses": 10
-      },
-      "sameVisibleText": true,
-      "at": "2026-11-01T20:21:18.210Z",
-      "method": "Independent reread after navigating away and back"
-    },
-    {
-      "threadId": "HW_naszMFaGIi-gP9PnXMQ",
-      "title": "Floor Division vs Modulo",
-      "counts": {
-        "prompts": 8,
-        "responses": 8
-      },
-      "sameVisibleText": false,
-      "at": "2026-11-01T20:21:28.251Z",
-      "method": "Independent reread after navigating away and back",
-      "samePromptAndGeneratedAnswerText": true,
-      "differentMessageIndexes": [
-        6
-      ],
-      "note": "Response 3 is a live list of web results; two result cards changed between reads. Both observed variants are preserved. All eight prompts and the seven generated answers match exactly."
-    },
-    {
-      "threadId": "A0_nav_JMpSgi-gPwMacmAs",
-      "title": "Internet Terms And Anagrams",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "sameVisibleText": true,
-      "at": "2026-11-01T20:21:59.781Z",
-      "method": "Independent reread after navigating away and back"
-    },
-    {
-      "threadId": "FkznatjoFeG3i-gPtsOamA0",
-      "title": "Dure Dieren",
-      "counts": {
-        "prompts": 2,
-        "responses": 2
-      },
-      "sameVisibleText": true,
-      "at": "2026-11-01T20:22:06.113Z",
-      "method": "Independent reread after navigating away and back"
-    },
-    {
-      "threadId": "uEPnauaDFuGti-gP4-ub0AE",
-      "title": "Buddy Hield",
+      "threadId": "Mh7oao3BNcSK9u8P9quYsA4",
+      "title": "Psychonauts Double Fine Studio",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:22:17.824Z",
-      "method": "Independent reread after navigating away and back"
+      "at": "2026-11-02T06:14:02.990Z",
+      "method": "Independent reopened page compared with initial full capture"
     },
     {
-      "threadId": "s0Lnao_zLcW79u8P9oHK6Qc",
-      "title": "Sequals Commune Information",
+      "threadId": "uRzoas2xKtL2i-gP7Nu6wAU",
+      "title": "John Clarke Interview",
+      "counts": {
+        "prompts": 2,
+        "responses": 2
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:14:35.933Z",
+      "method": "Independent reopened page compared with initial full capture"
+    },
+    {
+      "threadId": "S6fnapyGPKLpi-gPtKTeWQ",
+      "title": "Electronic Look-Up Table Comparison",
+      "counts": {
+        "prompts": 3,
+        "responses": 3
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:14:55.151Z",
+      "method": "Independent reopened page compared with initial full capture"
+    },
+    {
+      "threadId": "YKbnas3LI8mC9u8Pl4TTqQI",
+      "title": "K-Reverse-K Faraday Cage",
       "counts": {
         "prompts": 1,
         "responses": 1
       },
       "sameVisibleText": true,
-      "at": "2026-11-01T20:22:26.751Z",
-      "method": "Independent reread after navigating away and back"
+      "at": "2026-11-02T06:15:57.700Z",
+      "method": "Independent reopened page compared with initial full capture"
+    },
+    {
+      "threadId": "K6Pnapf2Jrrg7_UP6L_QsQ4",
+      "title": "Short Half-Life Mod Levels",
+      "counts": {
+        "prompts": 4,
+        "responses": 4
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:16:14.152Z",
+      "method": "Independent reopened page compared with initial full capture"
+    },
+    {
+      "threadId": "caDnavf_ELrp7_UPz_OYuAs",
+      "title": "Betekenis Geven Aan Kanker",
+      "counts": {
+        "prompts": 1,
+        "responses": 1
+      },
+      "sameVisibleText": true,
+      "at": "2026-11-02T06:16:39.442Z",
+      "method": "Independent reopened page compared with initial full capture"
     }
   ],
   "pendingConversations": [],
   "historyBoundary": [
-    "NotebookLM Subscription in Netherlands",
-    "Pride Month Perspectives",
-    "Guido Gamious Programmer"
+    "Fibonacci Reeks Ontologische Structuur",
+    "Autopoietic Inverse Logarithmic Question",
+    "this image",
+    "Sierpinski Triangle Information"
   ],
-  "method": "Added all five previously pending conversations and eight newly discovered conversations. All thirteen were independently reread: twelve matched exactly; Floor Division has one live search-result response with changing cards, and both variants are preserved. Its eight prompts and seven generated answers match exactly. Existing recent threads were also checked for followups."
+  "method": "Added nine newly discovered conversations and independently reread all nine. Eight match exactly. Explain This omitted nine citation labels on reopening, while all prompt and answer wording matched; the initial capture with full citations and the second observation are preserved. Recent existing conversations were checked for followups. The original uploaded image from Vortigaunts was also exported."
 }

@@ -210,6 +210,7 @@ def clean_message(item, ordinal, index):
         is_math = x.name == 'math' or x.find_parent('math') is not None
         keep={'href','src','alt','title','colspan','rowspan','role','aria-level'}
         if is_math: keep|={'xmlns','display','mathvariant','stretchy','fence','separator','accent','accentunder','columnalign','columnspacing','rowspacing','notation','linethickness','encoding'}
+        if ordinal >= 42 and x.name == 'mspace' and x.find_parent('span', class_='equation') and r'\begin{aligned}' in x.find_parent('span', class_='equation').get('title', ''): keep.add('width')
         if set(x.get('class',[])) & {'equation','math-fallback','citation-inline','source-icon'}: keep.add('class')
         for k in list(x.attrs):
             if k not in keep: del x.attrs[k]
@@ -241,7 +242,11 @@ for raw_path in raw_paths:
                 md.append('Attachment availability: '+note+'\n')
             # Uploaded images sit beside the prompt heading in Google's DOM.
             # Capture audits explicitly add the served pixels to this item.
-            for attachment in item.get('images', []):
+            user_images = item.get('images', [])
+            if item.get('preferredUserImagePath'):
+                original_upload = ROOT / item['preferredUserImagePath']
+                user_images = [dict(alt='Visually searched image', url='data:image/jpeg;base64,'+base64.b64encode(original_upload.read_bytes()).decode('ascii'))]
+            for attachment in user_images:
                 src = attachment.get('url', '')
                 if attachment.get('alt') != 'Visually searched image' or not src.startswith('data:image/'):
                     continue
@@ -294,7 +299,7 @@ missing_html='<ul>'+''.join('<li><strong>'+str(m['ordinal']).zfill(2)+'. '+esc(m
 if media_status:
     missing_html += '<p><strong>Media availability.</strong> '+esc(media_status.get('note',''))+' Gaps are marked in context; original URLs and source markup are retained. See media-status.json for details.</p>'
 update_note = '<p class="meta">Last updated: '+esc(latest_update['at'])+'. This is the separate public puck ic U jok E collection.</p>' if latest_update else ''
-cover='<section class="cover"><div class="eyebrow">BookNook / Personal study archive</div><h1>public puck ic U jok E<br>Google AI Mode</h1><h2>Separate study file - updated</h2><p class="notice">54 Google AI Mode conversations, with all 324 prompt-response pairs, formulas and available images preserved. Available source images, generated images and 10 vector diagrams are included. 4 embedded diagrams and 6 uploaded images remain unavailable and are marked in context. This file is separate from poi, Putin Input, KOLJA, and the older archive.</p><p class="meta">'+esc(date_label)+'</p>'+update_note+'<p>'+str(len(records))+' conversations captured from '+str(len(scope['tabs']))+' conversations in the archive scope. '+str(sum(d['counts']['prompts'] for d in records))+' prompts and '+str(sum(d['counts']['responses'] for d in records))+' responses.</p><p>This is an archival transcript. User prompts and Google AI Mode responses are labeled separately. Wording is preserved; layout is adapted for reading. Google responses are reproduced as source material, without independent validation.</p><p>Captured equations retain their source LaTeX in the editable archive and are rendered in the PDF. Available images, text diagrams, tables, and source links are included. Outstanding media is marked in context. Linked external pages and videos are references, not full copies of those external works.</p><div class="notice"><strong>Coverage record</strong>'+missing_html+'</div><p class="meta">This separate file contains the new conversations discovered after poi. Earlier archives remain unchanged. Captures retain the visible wording and source links; dates indicate capture time, not life events.</p></section>'
+cover='<section class="cover"><div class="eyebrow">BookNook / Personal study archive</div><h1>public puck ic U jok E<br>Google AI Mode</h1><h2>Separate study file - updated</h2><p class="notice">63 Google AI Mode conversations, with all 352 prompt-response pairs, formulas and available images preserved. Available source images, generated images and 10 vector diagrams are included. 4 embedded diagrams and 6 uploaded images remain unavailable and are marked in context. This file is separate from poi, Putin Input, KOLJA, and the older archive.</p><p class="meta">'+esc(date_label)+'</p>'+update_note+'<p>'+str(len(records))+' conversations captured from '+str(len(scope['tabs']))+' conversations in the archive scope. '+str(sum(d['counts']['prompts'] for d in records))+' prompts and '+str(sum(d['counts']['responses'] for d in records))+' responses.</p><p>This is an archival transcript. User prompts and Google AI Mode responses are labeled separately. Wording is preserved; layout is adapted for reading. Google responses are reproduced as source material, without independent validation.</p><p>Captured equations retain their source LaTeX in the editable archive and are rendered in the PDF. Available images, text diagrams, tables, and source links are included. Outstanding media is marked in context. Linked external pages and videos are references, not full copies of those external works.</p><div class="notice"><strong>Coverage record</strong>'+missing_html+'</div><p class="meta">This separate file contains the new conversations discovered after poi. Earlier archives remain unchanged. Captures retain the visible wording and source links; dates indicate capture time, not life events.</p></section>'
 if False:
     cover=cover.replace('</h1>', '</h1><h2>'+esc(latest_update['batchTitle'])+'</h2>', 1)
 book=cover+'<section class="pagebreak"><div class="eyebrow">Contents</div><h1>Conversation index</h1><ol class="toc">'+''.join(toc)+'</ol></section>'+''.join(chapters)

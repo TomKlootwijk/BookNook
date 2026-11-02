@@ -1,19 +1,15 @@
 {
-  "at": "2026-11-01T20:23:29.032235+00:00",
+  "at": "2026-11-02T06:17:36.785478+00:00",
   "newConversationIds": [
-    "Kx3nap6iAoeK9u8PtYWriAw",
-    "s0Lnao_zLcW79u8P9oHK6Qc",
-    "uEPnauaDFuGti-gP4-ub0AE",
-    "FkznatjoFeG3i-gPtsOamA0",
-    "A0_nav_JMpSgi-gPwMacmAs",
-    "m1_naov1IamD9u8P78f8mAI",
-    "HW_naszMFaGIi-gP9PnXMQ",
-    "dnDnatqxKo20i-gPx6GzwQQ",
-    "G3znauBa0MmL6A_o2LWoBw",
-    "wX3naoytK96si-gP-ZacmAE",
-    "5X3natbwM-Wgi-gPhIizgQo",
-    "MY7nasrqIK2J9u8P6tr5kA8",
-    "qJrnaquzEKXbi-gP-o2y4Ac"
+    "caDnavf_ELrp7_UPz_OYuAs",
+    "K6Pnapf2Jrrg7_UP6L_QsQ4",
+    "YKbnas3LI8mC9u8Pl4TTqQI",
+    "S6fnapyGPKLpi-gPtKTeWQ",
+    "uRzoas2xKtL2i-gP7Nu6wAU",
+    "Mh7oao3BNcSK9u8P9quYsA4",
+    "Vh7oaoLmIsiE9u8Pv92y4Ag",
+    "qiToauKlL5Co9u8P2JG28Ao",
+    "viboas7GOavli-gP1ZK6yQ4"
   ],
   "updatedConversationIds": [],
   "allConversationIds": [
@@ -70,11 +66,20 @@
     "wX3naoytK96si-gP-ZacmAE",
     "5X3natbwM-Wgi-gPhIizgQo",
     "MY7nasrqIK2J9u8P6tr5kA8",
-    "qJrnaquzEKXbi-gP-o2y4Ac"
+    "qJrnaquzEKXbi-gP-o2y4Ac",
+    "caDnavf_ELrp7_UPz_OYuAs",
+    "K6Pnapf2Jrrg7_UP6L_QsQ4",
+    "YKbnas3LI8mC9u8Pl4TTqQI",
+    "S6fnapyGPKLpi-gPtKTeWQ",
+    "uRzoas2xKtL2i-gP7Nu6wAU",
+    "Mh7oao3BNcSK9u8P9quYsA4",
+    "Vh7oaoLmIsiE9u8Pv92y4Ag",
+    "qiToauKlL5Co9u8P2JG28Ao",
+    "viboas7GOavli-gP1ZK6yQ4"
   ],
-  "previousCommit": "72d82cc77ed820bffc547d614d73be5bdcc7486b",
+  "previousCommit": "d6543ea088bd1a376bde01f7b2a06ef1e9359446",
   "baseline": "2026-10-30-poi",
-  "note": "Added all five previously pending conversations and eight newly discovered conversations. All thirteen were independently reread: twelve matched exactly; Floor Division has one live search-result response with changing cards, and both variants are preserved. Its eight prompts and seven generated answers match exactly. Existing recent threads were also checked for followups.",
-  "updateLabel": "2026-11-01 additional conversations",
+  "note": "Added nine newly discovered conversations and independently reread all nine. Eight match exactly. Explain This omitted nine citation labels on reopening, while all prompt and answer wording matched; the initial capture with full citations and the second observation are preserved. Recent existing conversations were checked for followups. The original uploaded image from Vortigaunts was also exported.",
+  "updateLabel": "2026-11-02 additional conversations",
   "pendingDiscoveredConversations": []
 }

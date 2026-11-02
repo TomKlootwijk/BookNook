@@ -1,8 +1,8 @@
 # public puck ic U jok E
 
-Aparte collectie gestart op 30 oktober 2026, na poi. De nieuwste aanvulling van 1 november bevat dertien gesprekken met samen 69 vraag-antwoordparen: de vijf eerder openstaande gesprekken en acht nieuw gevonden gesprekken. De collectie telt nu 54 gesprekken en 324 paren. Alle tijdens deze ronde ontdekte transcripties zijn opgenomen.
+Aparte collectie gestart op 30 oktober 2026, na poi. De aanvulling van 2 november bevat negen gesprekken met samen 28 vraag-antwoordparen. De collectie telt nu 63 gesprekken en 352 paren. Alle tijdens deze ronde ontdekte transcripties zijn opgenomen.
 
-- [PDF - 521 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
+- [PDF - 564 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
 - [Volledige opgeslagen transcripties](all-conversations.md)
 - [HTML-index](index.html)
 
@@ -64,13 +64,22 @@ Aparte collectie gestart op 30 oktober 2026, na poi. De nieuwste aanvulling van 
 | this image | 9 | 9 | 495 |
 | Autopoietic Inverse Logarithmic Question | 7 | 7 | 504 |
 | Fibonacci Reeks Ontologische Structuur | 10 | 10 | 509 |
+| Betekenis Geven Aan Kanker | 1 | 1 | 522 |
+| Short Half-Life Mod Levels | 4 | 4 | 523 |
+| K-Reverse-K Faraday Cage | 1 | 1 | 528 |
+| Electronic Look-Up Table Comparison | 3 | 3 | 529 |
+| John Clarke Interview | 2 | 2 | 531 |
+| Psychonauts Double Fine Studio | 1 | 1 | 534 |
+| Panini Projection for Ghost | 7 | 7 | 538 |
+| vortigaunts are perverts that have neurolinguistically abused sexually people with a neural interface in the half-life game world and the G-man is actually saving protagonists because he cant save everybody | 4 | 4 | 552 |
+| Explain This | 5 | 5 | 558 |
 
-Alle 324 vraag-antwoordparen, bronlinks en 1934 formules zijn bewaard. De uitvoer bevat 628 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Tien ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard. De oorspronkelijke SVG's, HTML-opnamen en gegenereerde JPEG's staan in het archief.
+Alle 352 vraag-antwoordparen, bronlinks en 1982 formules zijn bewaard. De uitvoer bevat 698 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Tien ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard. De oorspronkelijke SVG's, HTML-opnamen en JPEG's staan in het archief. De originele upload in het Vortigaunts-gesprek is als JPEG van 460 × 1024 pixels opgeslagen en wordt in de PDF gebruikt.
 
-Nog onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één visualisatie in **Biofilm Tensor and Vantablack**, één in **Letter N Info**, drie verlopen uploads in **Risicospreiding in Beleggen** en drie uploads in **this image**. Ze zijn bij hun bericht gemarkeerd. Bij de drie laatste uploads toont Google ontbrekende afbeeldingen; de reden voor hun onbeschikbaarheid is niet vastgesteld. Het diagram in Letter N bleef bij twee onafhankelijke heropeningen leeg. Google's zes bestaande foutmeldingen zijn letterlijk bewaard. Er zijn geen overige ontbrekende antwoordafbeeldingen, gegenereerde bijlagen of lege antwoordblokken aangetroffen. Afbeeldingen behouden de door Google geleverde pixels en eventuele oorspronkelijke uitsneden; externe bronpagina's blijven verwijzingen.
+Alle negen nieuwe gesprekken zijn onafhankelijk herlezen. Acht waren tekstueel identiek. Bij **Explain This** verdwenen negen Hugging Face-bronlabels bij heropening; alle prompts en antwoordteksten waren identiek. De eerste opname met volledige bronverwijzingen en de tweede uitlezing zijn beide bewaard. Zestien recente bestaande gesprekken zijn vergeleken en ongewijzigd. De eerder bewaarde variant van de live zoekresultaten in **Floor Division vs Modulo** blijft aanwezig in `raw/readbacks`.
 
-Alle dertien nieuwe gesprekken zijn onafhankelijk herlezen. Twaalf waren tekstueel identiek. Antwoord 3 van **Floor Division vs Modulo** bestaat uit live zoekresultaten waarvan twee kaarten veranderden; beide opnamen zijn bewaard, met de tweede in `raw/readbacks`. Alle acht prompts en zeven gegenereerde antwoorden van dat gesprek waren identiek. Tien recente bestaande gesprekken zijn ook vergeleken en ongewijzigd; daarmee zijn de ontbrekende herlezingen uit de vorige ronde afgerond.
+De nieuwe batch heeft geen ontbrekende media. Eerder onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één visualisatie in **Biofilm Tensor and Vantablack**, één in **Letter N Info**, drie verlopen uploads in **Risicospreiding in Beleggen** en drie uploads in **this image**. Ze zijn bij hun bericht gemarkeerd. Google's zes bestaande foutmeldingen zijn letterlijk bewaard. Externe bronpagina's en video's blijven verwijzingen.
 
-Alle 521 PDF-pagina's zijn gerenderd. De visuele controle en vergelijking met de vorige PDF staan in `verification.json`. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen, PDF-bladwijzers en PDF-structuur zijn gecontroleerd.
+Alle 564 PDF-pagina's zijn gerenderd. De visuele controle en vergelijking met de vorige PDF staan in `verification.json`. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen, PDF-bladwijzers en PDF-structuur zijn gecontroleerd.
 
 Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief. De transcripties zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole. Eerdere archieven blijven ongewijzigd.
