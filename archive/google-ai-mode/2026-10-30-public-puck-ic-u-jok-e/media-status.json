@@ -132,6 +132,27 @@
       "frame": 1,
       "path": "assets/F1DmauaQMpmA9u8PgOi7mQM-frame-1-1.svg",
       "caption": "Original source diagram: Differential Gene Expression Deviations (CEZ Wildlife Mockup)"
+    },
+    {
+      "conversation": 65,
+      "message": 4,
+      "frame": 1,
+      "path": "assets/ky7oavKyIfKE9u8PwJzI2As-frame-1-1.svg",
+      "caption": "Original source diagram: Kinematic Calculus: Mapping Position x(t) vs Velocity v(t)"
+    },
+    {
+      "conversation": 65,
+      "message": 10,
+      "frame": 2,
+      "path": "assets/ky7oavKyIfKE9u8PwJzI2As-frame-2-1.svg",
+      "caption": "Original source diagram: Leadership Capstone Progression: Knowledge vs Non Sibi Alignment"
+    },
+    {
+      "conversation": 65,
+      "message": 12,
+      "frame": 3,
+      "path": "assets/ky7oavKyIfKE9u8PwJzI2As-frame-3-1.svg",
+      "caption": "Original source diagram: Topographic Dashboard Analysis: Node Stress vs Logistical Elevation"
     }
   ],
   "pendingAttachments": [],
@@ -168,5 +189,5 @@
     }
   ],
   "sourceEmptyResponses": [],
-  "note": "10 vector diagrams recovered; 4 embedded diagrams unavailable; 6 unavailable user-uploaded images. Source failures remain explicit in context."
+  "note": "13 vector diagrams recovered; 4 embedded diagrams unavailable; 6 unavailable user-uploaded images. Source failures remain explicit in context."
 }

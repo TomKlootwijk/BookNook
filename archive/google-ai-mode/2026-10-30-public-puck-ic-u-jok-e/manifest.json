@@ -1,11 +1,11 @@
 {
   "exportDate": "2026-11-02",
-  "scopeCount": 63,
-  "capturedCount": 63,
-  "prompts": 352,
-  "responses": 352,
-  "mathRendered": 1982,
-  "embeddedImages": 698,
+  "scopeCount": 66,
+  "capturedCount": 66,
+  "prompts": 371,
+  "responses": 371,
+  "mathRendered": 2037,
+  "embeddedImages": 744,
   "conversations": [
     {
       "ordinal": 1,
@@ -699,6 +699,39 @@
       "source": "https://www.google.com/search?q=can+you+explain+this&sca_esv=b07e9e4d0de791f4&sxsrf=AKL5yDhjqDTvCTE8trvwzVHNiLaLGYQ3IQ%3A1793599161913&source=chrome.ob&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVSZ0SclCv1C3Nkltzojnu-NBip-0TY-yWfpcNuNDqsWDnnPEtwbjQRm8zJr_cAQYK0bJ0Ch8nj0EHp1MxeaZwAVuDIma0bh_L9rijVQQyOFkorKaTKgvvhrkvTC0ak4LPSgJhH3kuzZbNdP2y4QdRuOebuPr&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiU5ajHzeiXAxX12AIHHT5dF_cQ2J8OegQIFRAD&biw=1707&bih=898&dpr=1.5&mstk=AUtExfCO-OcOO2BHWP-G3ENA3uGzfO3F3VHBxMSE-AP5tTlOUGufQANYw9kF7pwYk9aIEUhQ8bLPGo-JFpFQzV68KyhF6puZNwdlpYrFrqAPs5UODueP67zGwW20mzJMaNOL4yWusglmOelDQndgi0bRzs99ihdxorEKUmZLZ2jyFHUg_gnRAIIxhwxa1dEDAW4NZ4B0z8MPVQpriiGA0i2qWCJZE8nzxnXrLNS9Kn_6d8U1klZmn1X9C8Nh879YKNUeUJbErDHMLy7_QGyXbKCQv9s_QunYYhuSThxfpOTCoMtqj8G_yhh_ZP511qUXqJWvRDRNS4P6bq53Mw&csuir=1&mtid=viboas7GOavli-gP1ZK6yQ4&lns_mode=cvst&udm=50",
       "recoveredFromSavedUrl": false,
       "pdfPage": 558
+    },
+    {
+      "ordinal": 64,
+      "title": "Jordan Peterson Pragmatism Masculinity",
+      "prompts": 4,
+      "responses": 4,
+      "html": "conversations/64-jordan-peterson-pragmatism-masculinity.html",
+      "markdown": "conversations/64-jordan-peterson-pragmatism-masculinity.md",
+      "source": "https://www.google.com/search?sca_esv=b07e9e4d0de791f4&sxsrf=AKL5yDhjqDTvCTE8trvwzVHNiLaLGYQ3IQ%3A1793599161913&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwiA1JPj1OiXAxUAAAAAHQAAAAAQmQE&biw=1707&bih=898&dpr=1.5&udm=50&atvm=2&mstk=AUtExfBJV3YRlk3YBn_9rGPSOjzcsXiFXzhM_Wq8DQvdOqSkIPZ08bp3DlHyJg1wY3ch1DvgYTfSmO6fxAc0B_y1qXW38KlVNgQV3gC-6rlYexk0RiMrRRdK10FnyYvbNna7dIZtJ-7YAmyl6jMZCFP8pNSQz-8FCyQHwFpHnVG52f2AJongSy7hSgaUdqk6KV9h--8d-sGG2Ypc-1TSNJ3Niw8vH3gpEVE4j8AbLpQU82QMOVk_e--fbZPRrEXqihn6VeNS743W1moE04xFEScT6_vSErleSK7bUcFp7xgjz0agai9o38HoRZmkGturzcF2mzJHD32WeA0_4g&mtid=Fy3oaq6BIbqyi-gPn4y7kQk&csuir=1&aep=26&q=jordan+peterson+and+his+canadian+way+of+being+pragmatic+and+teaching+young+men+to+not+be+boys",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 565
+    },
+    {
+      "ordinal": 65,
+      "title": "Prajna 420",
+      "prompts": 13,
+      "responses": 13,
+      "html": "conversations/65-prajna-420.html",
+      "markdown": "conversations/65-prajna-420.md",
+      "source": "https://www.google.com/search?q=prajna+420&sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&source=chrome.ob&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_koHVe5RLSnJlTH2QYaq_YVSZ0SclCv1C3Nkltzojnu-OW9Hjq0HzG08A7qAq7eHtUREiykrtDSkPIB2Apjr6agTdoZUqDQ-Tmq5Q8l7dPS4qqegv0RrRDV1-QqlWyRJJmLoOECjApqktTc9a9tI2JqN8_yUsF93tpBa2IBk1MwuymyTi0&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjqgayE1eiXAxXQ87sIHTfNFswQ2J8OegQIEhAD&biw=1707&bih=842&dpr=1.5&mstk=AUtExfAIT4RBRk7tFKYQHCX9qDHBDejyZxdi0U2Ouu_rykUyegIKAv-lkGhqOVFqbhyviKUMjST3E46CJ_abVuwu8Ez_2Agua8xaacX24FRX0_yaSUQgACyduJJokqoZCsaxIIhGCSHKaI2p7vd8svIHQCLMaERr_QVqwZgXfeya-FXg_0OlROa5RPW7w95qpynfWzXvoed1TtihdtQ6LvxGrK8ZKlEcS1GeZVtMeE1G8DG9Fup9EWMshdLPvZ-OwSVxIiZQlOtyvs1dgAFaQzjfBMugfSvDGRb1WXsiPS8GP87-i6Ke_Aq0_vk_5PCJV6LZ5PhWD2zEu4aElA&csuir=1&mtid=ky7oavKyIfKE9u8PwJzI2As&lns_mode=cvst&udm=50",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 572
+    },
+    {
+      "ordinal": 66,
+      "title": "Gratefulness and Forgetfulness",
+      "prompts": 2,
+      "responses": 2,
+      "html": "conversations/66-gratefulness-and-forgetfulness.html",
+      "markdown": "conversations/66-gratefulness-and-forgetfulness.md",
+      "source": "https://www.google.com/search?sca_esv=a6e9917f60d18831&sxsrf=AKL5yDg3QvC9dOxGSmpEMm4rJ0NULr9O1Q%3A1793601168939&vsint=&ntc=1&cs=1&sa=X&ved=0CAEQ2_wOahgKEwjInJyd2eiXAxUAAAAAHQAAAAAQmAQ&biw=1707&bih=842&dpr=1.5&udm=50&atvm=2&mstk=AUtExfCxr3d8wO4uCT6jFYzCgzdXBSqIiaw9GS5q7q9FDHmvzzC6c_ksgPMm5eWLzqVM27KiEP2KbjioNhDPYvSyr35M2yYWct5roruD5iCM_A_oP_wnv3C6fjgq1QvYE1Bnz57G9hKgraj3H749TG_8obx_4GzKkN6bdy_lbPMqMCwnUKiOKGOdIprW__brFeQ3Gr7BlvHDmE4UnQ_3wTnLU_Zy8l7mbzCwr-LUF5PDeQkHoD4yHI8ZDA_ot8zMHYyuJ322OUE6yzd3jGUCKdsnprbaSwMa5vZ3J8D5N31wCYCxcWCT7zPqi972w_u5iKGi6NY5rYXIFUWpug&mtid=ETHoatqRO5-p9u8Pg93YCA&csuir=1&aep=26&q=gratefulness+forgeT",
+      "recoveredFromSavedUrl": false,
+      "pdfPage": 596
     }
   ],
   "missing": [],
@@ -838,6 +871,27 @@
         "frame": 1,
         "path": "assets/F1DmauaQMpmA9u8PgOi7mQM-frame-1-1.svg",
         "caption": "Original source diagram: Differential Gene Expression Deviations (CEZ Wildlife Mockup)"
+      },
+      {
+        "conversation": 65,
+        "message": 4,
+        "frame": 1,
+        "path": "assets/ky7oavKyIfKE9u8PwJzI2As-frame-1-1.svg",
+        "caption": "Original source diagram: Kinematic Calculus: Mapping Position x(t) vs Velocity v(t)"
+      },
+      {
+        "conversation": 65,
+        "message": 10,
+        "frame": 2,
+        "path": "assets/ky7oavKyIfKE9u8PwJzI2As-frame-2-1.svg",
+        "caption": "Original source diagram: Leadership Capstone Progression: Knowledge vs Non Sibi Alignment"
+      },
+      {
+        "conversation": 65,
+        "message": 12,
+        "frame": 3,
+        "path": "assets/ky7oavKyIfKE9u8PwJzI2As-frame-3-1.svg",
+        "caption": "Original source diagram: Topographic Dashboard Analysis: Node Stress vs Logistical Elevation"
       }
     ],
     "pendingAttachments": [],
@@ -874,25 +928,19 @@
       }
     ],
     "sourceEmptyResponses": [],
-    "note": "10 vector diagrams recovered; 4 embedded diagrams unavailable; 6 unavailable user-uploaded images. Source failures remain explicit in context."
+    "note": "13 vector diagrams recovered; 4 embedded diagrams unavailable; 6 unavailable user-uploaded images. Source failures remain explicit in context."
   },
   "latestUpdate": {
-    "at": "2026-11-02T06:17:36.785478+00:00",
+    "at": "2026-11-02T06:52:56.144267+00:00",
     "date": "2026-11-02",
     "batchId": "2026-10-30-public-puck-ic-u-jok-e",
     "batchTitle": "public puck ic U jok E",
     "status": "transcripts-complete-media-partial",
-    "method": "Added nine newly discovered conversations and independently reread all nine. Eight match exactly. Explain This omitted nine citation labels on reopening, while all prompt and answer wording matched; the initial capture with full citations and the second observation are preserved. Recent existing conversations were checked for followups. The original uploaded image from Vortigaunts was also exported.",
+    "method": "Added Jordan Peterson Pragmatism Masculinity (4 pairs), Prajna 420 (13 pairs), and Gratefulness and Forgetfulness (2 pairs). Independent reopening matched every visible transcript exactly. All five quiz questions, answers, explanations and interactive hints are preserved; three new SVG diagrams were captured. Three recent open conversations matched their archived text. The latest saved-history view showed these three new conversations followed by seven already archived entries. Additional older-tab reads timed out and are not claimed as checked.",
     "newConversationIds": [
-      "caDnavf_ELrp7_UPz_OYuAs",
-      "K6Pnapf2Jrrg7_UP6L_QsQ4",
-      "YKbnas3LI8mC9u8Pl4TTqQI",
-      "S6fnapyGPKLpi-gPtKTeWQ",
-      "uRzoas2xKtL2i-gP7Nu6wAU",
-      "Mh7oao3BNcSK9u8P9quYsA4",
-      "Vh7oaoLmIsiE9u8Pv92y4Ag",
-      "qiToauKlL5Co9u8P2JG28Ao",
-      "viboas7GOavli-gP1ZK6yQ4"
+      "Fy3oaq6BIbqyi-gPn4y7kQk",
+      "ky7oavKyIfKE9u8PwJzI2As",
+      "ETHoatqRO5-p9u8Pg93YCA"
     ],
     "updatedConversationIds": [],
     "records": [
@@ -1525,22 +1573,52 @@
           "prompts": 5,
           "responses": 5
         }
+      },
+      {
+        "ordinal": 64,
+        "threadId": "Fy3oaq6BIbqyi-gPn4y7kQk",
+        "title": "Jordan Peterson Pragmatism Masculinity",
+        "status": "captured",
+        "counts": {
+          "prompts": 4,
+          "responses": 4
+        }
+      },
+      {
+        "ordinal": 65,
+        "threadId": "ky7oavKyIfKE9u8PwJzI2As",
+        "title": "Prajna 420",
+        "status": "captured",
+        "counts": {
+          "prompts": 13,
+          "responses": 13
+        }
+      },
+      {
+        "ordinal": 66,
+        "threadId": "ETHoatqRO5-p9u8Pg93YCA",
+        "title": "Gratefulness and Forgetfulness",
+        "status": "captured",
+        "counts": {
+          "prompts": 2,
+          "responses": 2
+        }
       }
     ],
-    "updateLabel": "2026-11-02 additional conversations",
+    "updateLabel": "2026-11-02 second addition",
     "pendingDiscoveredConversations": []
   },
   "pdf": {
     "path": "output/pdf/public puck ic U jok E.pdf",
     "status": "transcripts-complete-media-partial",
-    "pages": 564,
-    "bytes": 24220858,
-    "sha256": "ce74a2c5af4b52df924c6c056ef9c1c575b7c7e2119b181c1223abd9d0f2f094",
-    "bookmarks": 65,
-    "promptMarkers": 352,
-    "responseMarkers": 352
+    "pages": 597,
+    "bytes": 24995987,
+    "sha256": "f1b1c11c3235bde697641f8c68f7d901926f86826d379119418e02eaf229ba9c",
+    "bookmarks": 68,
+    "promptMarkers": 371,
+    "responseMarkers": 371
   },
-  "updateLabel": "2026-11-02 additional conversations",
+  "updateLabel": "2026-11-02 second addition",
   "pendingDiscoveredConversations": [],
-  "discoveredConversationCount": 63
+  "discoveredConversationCount": 66
 }

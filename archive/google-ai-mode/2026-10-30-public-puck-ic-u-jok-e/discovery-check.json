@@ -1,15 +1,9 @@
 {
-  "at": "2026-11-02T06:17:36.785478+00:00",
+  "at": "2026-11-02T06:52:56.144267+00:00",
   "newConversationIds": [
-    "caDnavf_ELrp7_UPz_OYuAs",
-    "K6Pnapf2Jrrg7_UP6L_QsQ4",
-    "YKbnas3LI8mC9u8Pl4TTqQI",
-    "S6fnapyGPKLpi-gPtKTeWQ",
-    "uRzoas2xKtL2i-gP7Nu6wAU",
-    "Mh7oao3BNcSK9u8P9quYsA4",
-    "Vh7oaoLmIsiE9u8Pv92y4Ag",
-    "qiToauKlL5Co9u8P2JG28Ao",
-    "viboas7GOavli-gP1ZK6yQ4"
+    "Fy3oaq6BIbqyi-gPn4y7kQk",
+    "ky7oavKyIfKE9u8PwJzI2As",
+    "ETHoatqRO5-p9u8Pg93YCA"
   ],
   "updatedConversationIds": [],
   "allConversationIds": [
@@ -75,11 +69,14 @@
     "Mh7oao3BNcSK9u8P9quYsA4",
     "Vh7oaoLmIsiE9u8Pv92y4Ag",
     "qiToauKlL5Co9u8P2JG28Ao",
-    "viboas7GOavli-gP1ZK6yQ4"
+    "viboas7GOavli-gP1ZK6yQ4",
+    "Fy3oaq6BIbqyi-gPn4y7kQk",
+    "ky7oavKyIfKE9u8PwJzI2As",
+    "ETHoatqRO5-p9u8Pg93YCA"
   ],
-  "previousCommit": "d6543ea088bd1a376bde01f7b2a06ef1e9359446",
+  "previousCommit": "046af86def3d3a68fe6426725b0a1a09c85af16f",
   "baseline": "2026-10-30-poi",
-  "note": "Added nine newly discovered conversations and independently reread all nine. Eight match exactly. Explain This omitted nine citation labels on reopening, while all prompt and answer wording matched; the initial capture with full citations and the second observation are preserved. Recent existing conversations were checked for followups. The original uploaded image from Vortigaunts was also exported.",
-  "updateLabel": "2026-11-02 additional conversations",
+  "note": "Added Jordan Peterson Pragmatism Masculinity (4 pairs), Prajna 420 (13 pairs), and Gratefulness and Forgetfulness (2 pairs). Independent reopening matched every visible transcript exactly. All five quiz questions, answers, explanations and interactive hints are preserved; three new SVG diagrams were captured. Three recent open conversations matched their archived text. The latest saved-history view showed these three new conversations followed by seven already archived entries. Additional older-tab reads timed out and are not claimed as checked.",
+  "updateLabel": "2026-11-02 second addition",
   "pendingDiscoveredConversations": []
 }

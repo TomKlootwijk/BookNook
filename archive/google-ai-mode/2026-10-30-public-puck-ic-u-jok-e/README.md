@@ -1,8 +1,8 @@
 # public puck ic U jok E
 
-Aparte collectie gestart op 30 oktober 2026, na poi. De aanvulling van 2 november bevat negen gesprekken met samen 28 vraag-antwoordparen. De collectie telt nu 63 gesprekken en 352 paren. Alle tijdens deze ronde ontdekte transcripties zijn opgenomen.
+Aparte collectie gestart op 30 oktober 2026, na poi. De tweede aanvulling van 2 november bevat **Jordan Peterson Pragmatism Masculinity** (vier paren), **Prajna 420** (dertien paren) en **Gratefulness and Forgetfulness** (twee paren). De collectie telt nu 66 gesprekken en 371 paren.
 
-- [PDF - 564 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
+- [PDF - 597 pagina's](<../../../output/pdf/public puck ic U jok E.pdf>)
 - [Volledige opgeslagen transcripties](all-conversations.md)
 - [HTML-index](index.html)
 
@@ -73,13 +73,18 @@ Aparte collectie gestart op 30 oktober 2026, na poi. De aanvulling van 2 novembe
 | Panini Projection for Ghost | 7 | 7 | 538 |
 | vortigaunts are perverts that have neurolinguistically abused sexually people with a neural interface in the half-life game world and the G-man is actually saving protagonists because he cant save everybody | 4 | 4 | 552 |
 | Explain This | 5 | 5 | 558 |
+| Jordan Peterson Pragmatism Masculinity | 4 | 4 | 565 |
+| Prajna 420 | 13 | 13 | 572 |
+| Gratefulness and Forgetfulness | 2 | 2 | 596 |
 
-Alle 352 vraag-antwoordparen, bronlinks en 1982 formules zijn bewaard. De uitvoer bevat 698 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Tien ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard. De oorspronkelijke SVG's, HTML-opnamen en JPEG's staan in het archief. De originele upload in het Vortigaunts-gesprek is als JPEG van 460 × 1024 pixels opgeslagen en wordt in de PDF gebruikt.
+Alle 371 vraag-antwoordparen, bronlinks en 2037 formules zijn bewaard. De uitvoer bevat 744 afbeeldingsvermeldingen zoals vastgelegd in de bron, inclusief herhalingen. Dertien ingebedde vectordiagrammen en de beschikbare gegenereerde afbeeldingen zijn bewaard, waaronder drie nieuwe diagrammen bij Prajna 420. De originele upload in het Vortigaunts-gesprek blijft als JPEG van 460 × 1024 pixels opgenomen.
 
-Alle negen nieuwe gesprekken zijn onafhankelijk herlezen. Acht waren tekstueel identiek. Bij **Explain This** verdwenen negen Hugging Face-bronlabels bij heropening; alle prompts en antwoordteksten waren identiek. De eerste opname met volledige bronverwijzingen en de tweede uitlezing zijn beide bewaard. Zestien recente bestaande gesprekken zijn vergeleken en ongewijzigd. De eerder bewaarde variant van de live zoekresultaten in **Floor Division vs Modulo** blijft aanwezig in `raw/readbacks`.
+De drie nieuwe gesprekken zijn onafhankelijk heropend en herlezen; alle zichtbare tekst kwam exact overeen. De interactieve oefening bij Jordan Peterson bevat vijf vragen, de antwoordensleutel met vijf toelichtingen en vijf hints. De volledige tekstweergave en de afzonderlijke interactieve standen zijn vastgelegd. De PDF bevat de statische tekstweergave en de hints; verborgen schermteksten en navigatieknoppen zijn weggelaten. Er zijn geen antwoorden op de oefening ingediend.
 
-De nieuwe batch heeft geen ontbrekende media. Eerder onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één visualisatie in **Biofilm Tensor and Vantablack**, één in **Letter N Info**, drie verlopen uploads in **Risicospreiding in Beleggen** en drie uploads in **this image**. Ze zijn bij hun bericht gemarkeerd. Google's zes bestaande foutmeldingen zijn letterlijk bewaard. Externe bronpagina's en video's blijven verwijzingen.
+Drie recente open gesprekken zijn vergeleken en ongewijzigd. De laatste Google-geschiedenis toonde de drie nieuwe gesprekken gevolgd door zeven al gearchiveerde gesprekken. Aanvullende controles van oudere tabbladen liepen vast en tellen niet mee als geverifieerd. Eerdere leesvarianten van **Explain This** en **Floor Division vs Modulo** blijven bewaard in `raw/readbacks`.
 
-Alle 564 PDF-pagina's zijn gerenderd. De visuele controle en vergelijking met de vorige PDF staan in `verification.json`. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, lokale verwijzingen, PDF-bladwijzers en PDF-structuur zijn gecontroleerd.
+De nieuwe aanvulling heeft geen ontbrekende media. Eerder onbeschikbaar bij Google: twee ingebedde diagrammen in **Scopolamine Chemistry Mechanism Biology**, één visualisatie in **Biofilm Tensor and Vantablack**, één in **Letter N Info**, drie verlopen uploads in **Risicospreiding in Beleggen** en drie uploads in **this image**. Ze zijn bij hun bericht gemarkeerd. Google's zes bestaande foutmeldingen zijn letterlijk bewaard. Externe bronpagina's en video's blijven verwijzingen.
+
+Alle 597 PDF-pagina's zijn gerenderd. De visuele controle en vergelijking met de vorige PDF staan in `verification.json`. Berichtvolgorde, volledige HTML-lengtes, SVG-structuur, quizinhoud, lokale verwijzingen, PDF-bladwijzers en PDF-structuur zijn gecontroleerd.
 
 Deze collectie staat los van poi, Putin Input, KOLJA en het oude cumulatieve archief. De transcripties zijn bronmateriaal voor studie, zonder onafhankelijke feitencontrole. Eerdere archieven blijven ongewijzigd.

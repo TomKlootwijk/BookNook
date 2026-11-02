@@ -1,0 +1,24 @@
+{
+  "threadId": "Fy3oaq6BIbqyi-gPn4y7kQk",
+  "response": 3,
+  "questions": 5,
+  "answerExplanations": 5,
+  "hints": [
+    "Think about how Peterson defines the territory you are familiar with versus the place where things break down, surprise you, or require reinvention.",
+    "Consider what happens when an individual refuses to hide from a crisis and instead steps forward to name, face, and integrate the problem.",
+    "Think about ancient crustacean nervous systems and how the brain tracks whether you are retreating from life or facing it head-on.",
+    "Reflect on the idea that speaking the truth clearly literally shapes and organizes a messy, confusing world into something workable.",
+    "Ask yourself what happens when an old institution or set of habits locks up valuable energy and refuses to let anything new emerge."
+  ],
+  "textViewReadback": {
+    "threadId": "Fy3oaq6BIbqyi-gPn4y7kQk",
+    "counts": {
+      "prompts": 4,
+      "responses": 4
+    },
+    "sameVisibleText": true,
+    "checkedAt": "2026-11-02T06:33:20.182Z"
+  },
+  "rawStates": "raw/widgets/Fy3oaq6BIbqyi-gPn4y7kQk",
+  "note": "The text view exposes all questions, correct answers and explanations. Each interactive question was separately visited to capture its hint without submitting any answer."
+}

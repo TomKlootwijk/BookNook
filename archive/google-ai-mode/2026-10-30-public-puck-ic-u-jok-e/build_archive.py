@@ -85,6 +85,23 @@ def clean_message(item, ordinal, index):
     soup = BeautifulSoup(markup, 'html.parser')
     # Google hosts some rendered diagrams in separate embedded frames. Preserve
     # their observed SVG content alongside the corresponding response.
+    if item.get('archivedQuiz'):
+        quiz = item['archivedQuiz']; original = soup.select_one('div[data-scope-id="AW4xjd"]')
+        assert original is not None
+        section = soup.new_tag('section')
+        title = soup.new_tag('h3'); title.string = quiz['title']; section.append(title)
+        for group in quiz['sections']:
+            heading = soup.new_tag('h4'); heading.string = group['heading']; section.append(heading)
+            for text in group['paragraphs']:
+                paragraph = soup.new_tag('p'); paragraph.string = text; section.append(paragraph)
+        original.replace_with(section)
+    for supplement in item.get('archivedTextSupplements', []):
+        section = soup.new_tag('section')
+        heading = soup.new_tag('h3'); heading.string = supplement['heading']; section.append(heading)
+        listing = soup.new_tag('ol')
+        for hint in supplement['items']:
+            entry = soup.new_tag('li'); entry.string = hint; listing.append(entry)
+        section.append(listing); soup.append(section)
     rendered_widgets = []
     for widget in item.get('widgets', []):
         if widget.get('pages'):
@@ -299,7 +316,7 @@ missing_html='<ul>'+''.join('<li><strong>'+str(m['ordinal']).zfill(2)+'. '+esc(m
 if media_status:
     missing_html += '<p><strong>Media availability.</strong> '+esc(media_status.get('note',''))+' Gaps are marked in context; original URLs and source markup are retained. See media-status.json for details.</p>'
 update_note = '<p class="meta">Last updated: '+esc(latest_update['at'])+'. This is the separate public puck ic U jok E collection.</p>' if latest_update else ''
-cover='<section class="cover"><div class="eyebrow">BookNook / Personal study archive</div><h1>public puck ic U jok E<br>Google AI Mode</h1><h2>Separate study file - updated</h2><p class="notice">63 Google AI Mode conversations, with all 352 prompt-response pairs, formulas and available images preserved. Available source images, generated images and 10 vector diagrams are included. 4 embedded diagrams and 6 uploaded images remain unavailable and are marked in context. This file is separate from poi, Putin Input, KOLJA, and the older archive.</p><p class="meta">'+esc(date_label)+'</p>'+update_note+'<p>'+str(len(records))+' conversations captured from '+str(len(scope['tabs']))+' conversations in the archive scope. '+str(sum(d['counts']['prompts'] for d in records))+' prompts and '+str(sum(d['counts']['responses'] for d in records))+' responses.</p><p>This is an archival transcript. User prompts and Google AI Mode responses are labeled separately. Wording is preserved; layout is adapted for reading. Google responses are reproduced as source material, without independent validation.</p><p>Captured equations retain their source LaTeX in the editable archive and are rendered in the PDF. Available images, text diagrams, tables, and source links are included. Outstanding media is marked in context. Linked external pages and videos are references, not full copies of those external works.</p><div class="notice"><strong>Coverage record</strong>'+missing_html+'</div><p class="meta">This separate file contains the new conversations discovered after poi. Earlier archives remain unchanged. Captures retain the visible wording and source links; dates indicate capture time, not life events.</p></section>'
+cover='<section class="cover"><div class="eyebrow">BookNook / Personal study archive</div><h1>public puck ic U jok E<br>Google AI Mode</h1><h2>Separate study file - updated</h2><p class="notice">66 Google AI Mode conversations, with all 371 prompt-response pairs, formulas and available images preserved. Available source images, generated images and 13 vector diagrams are included. 4 embedded diagrams and 6 uploaded images remain unavailable and are marked in context. This file is separate from poi, Putin Input, KOLJA, and the older archive.</p><p class="meta">'+esc(date_label)+'</p>'+update_note+'<p>'+str(len(records))+' conversations captured from '+str(len(scope['tabs']))+' conversations in the archive scope. '+str(sum(d['counts']['prompts'] for d in records))+' prompts and '+str(sum(d['counts']['responses'] for d in records))+' responses.</p><p>This is an archival transcript. User prompts and Google AI Mode responses are labeled separately. Wording is preserved; layout is adapted for reading. Google responses are reproduced as source material, without independent validation.</p><p>Captured equations retain their source LaTeX in the editable archive and are rendered in the PDF. Available images, text diagrams, tables, and source links are included. Outstanding media is marked in context. Linked external pages and videos are references, not full copies of those external works.</p><div class="notice"><strong>Coverage record</strong>'+missing_html+'</div><p class="meta">This separate file contains the new conversations discovered after poi. Earlier archives remain unchanged. Captures retain the visible wording and source links; dates indicate capture time, not life events.</p></section>'
 if False:
     cover=cover.replace('</h1>', '</h1><h2>'+esc(latest_update['batchTitle'])+'</h2>', 1)
 book=cover+'<section class="pagebreak"><div class="eyebrow">Contents</div><h1>Conversation index</h1><ol class="toc">'+''.join(toc)+'</ol></section>'+''.join(chapters)
